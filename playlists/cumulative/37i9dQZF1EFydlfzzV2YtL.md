@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-198 songs - 10 hr 48 min
+200 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [CRUSH](https://open.spotify.com/track/4p45clsU0Uus4FzpCGH0eZ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 2:57 | 2024-10-18 |  |
 | [Cyanide](https://open.spotify.com/track/2h4HvAKEVp9eehdkGb5Jpm) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 4:33 | 2024-02-27 |  |
 | [Dani](https://open.spotify.com/track/3LenEVr696gWMr77z0T9rx) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Now That I've Been Honest](https://open.spotify.com/album/1XVQCnrnScVpeirmTCOZHz) | 2:54 | 2024-02-27 |  |
+| [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:55 | 2026-02-10 |  |
 | [Don't Get Any Closer](https://open.spotify.com/track/4Of27nwjXcl2Pgo5VhnLQ5) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Expectations](https://open.spotify.com/album/4TOkZvtqNpg5UHyGxCn0mS) | 2:48 | 2024-02-27 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/0QsvXIfqM0zZoerQfsI9lm) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [The Chainsmokers\- Japan Special Edition](https://open.spotify.com/album/3ShQFl9FladFKlonwPGZFc) | 3:28 | 2024-02-27 |  |
 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-11-08 |  |
@@ -166,6 +167,7 @@
 | [Spiral](https://open.spotify.com/track/6RfgvYyQaM3lFys834sWwx) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spiral](https://open.spotify.com/album/1FTD5Ik0Ex0MofuRwt8eYR) | 3:37 | 2024-07-19 | 2024-08-26 |
 | [SQ \- W Sound 04](https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [SQ \(W Sound 04\)](https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV) | 2:33 | 2025-02-12 |  |
 | [Stay Together](https://open.spotify.com/track/5R4HqXCZ6uTjxxnGdLt2S6) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Stay Together](https://open.spotify.com/album/7Hlsir9c1oIMeWCTLUxn9e) | 3:12 | 2024-02-27 |  |
+| [Still In Love With The Pain](https://open.spotify.com/track/6yLLjhFGtImerlDezUwIgD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:21 | 2026-02-10 |  |
 | [Strawberry Shortcake](https://open.spotify.com/track/57OBlxZRcRyHFdlXlsHP7G) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:04 | 2024-02-27 |  |
 | [Strings](https://open.spotify.com/track/0mpoTyTHBE41RIc89l7QOM) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/3Qv3N62b2EXxvMLwFURoFj) | 3:10 | 2024-04-11 | 2024-06-21 |
 | [Strings](https://open.spotify.com/track/6eAnWf8yT7GLnUvaT0oyKN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:10 | 2024-02-27 |  |

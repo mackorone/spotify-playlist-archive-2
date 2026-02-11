@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 54350,
+  "num_followers": 54362,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAADrracWjoSyRewGh8JXF/04",
+  "snapshot_id": "aYkjgAAAAABzvnxbzp/767c9vdon0FEf",
   "tracks": [
     {
       "added_at": null,
@@ -79,8 +79,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bar None",
-        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
+        "name": "Turn This Truck Around",
+        "url": "https://open.spotify.com/album/1vvuNH6s9nkkUIZKf1itJg"
       },
       "artists": [
         {
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 173064,
-      "name": "Bar None",
-      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
+      "duration_ms": 204013,
+      "name": "Turn This Truck Around",
+      "url": "https://open.spotify.com/track/6Yvrv046xNsQXX3MirnO8l"
     },
     {
       "added_at": null,
@@ -127,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn This Truck Around",
-        "url": "https://open.spotify.com/album/1vvuNH6s9nkkUIZKf1itJg"
+        "name": "Learn The Hard Way",
+        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 204013,
-      "name": "Turn This Truck Around",
-      "url": "https://open.spotify.com/track/6Yvrv046xNsQXX3MirnO8l"
+      "duration_ms": 173080,
+      "name": "Bar None",
+      "url": "https://open.spotify.com/track/13XDnusYSagPbCb3I8u9sU"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
       "duration_ms": 161553,
       "name": "Ruin My Weekend",
       "url": "https://open.spotify.com/track/0LaZ4n2gyWeO4kFtzpHQ5M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Learn The Hard Way",
-        "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "Learn The Hard Way",
-      "url": "https://open.spotify.com/track/0iigBOIOsjNlHdlwmS5t2O"
     },
     {
       "added_at": null,

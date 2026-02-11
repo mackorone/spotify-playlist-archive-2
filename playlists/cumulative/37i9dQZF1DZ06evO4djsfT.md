@@ -4,7 +4,7 @@
 
 > This is KB\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 18 min
+94 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Baby Mama 2](https://open.spotify.com/track/0bm8L8NM3TOdtgpVb8hyPM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 2:38 | 2024-02-17 | 2025-01-27 |
 | [Back Soon](https://open.spotify.com/track/4H20Cd4jvIZsdOKnFuCGAM) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [What's Understood](https://open.spotify.com/album/5yjpMVAQ1f4DurUP67RcKR) | 4:07 | 2023-03-17 | 2023-08-20 |
 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 | 2023-03-17 |  |
+| [Black Sheep II](https://open.spotify.com/track/0spY4QN3gI12ohsr4TdqXu) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Black Sheep II](https://open.spotify.com/album/66xoIShSZw4gxHOIfetpa2) | 2:34 | 2026-02-11 |  |
 | [Built For This](https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 2:53 | 2023-11-10 |  |
 | [CAMPAIGN](https://open.spotify.com/track/3ybMOE4jaJ9xLkoDpze1OM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [CAMPAIGN](https://open.spotify.com/album/0fya4AYyhkXQPbxcWuudyy) | 2:49 | 2025-11-09 |  |
 | [Can’t Tell It All \(Remix\)](https://open.spotify.com/track/3HVeUY3tYnCg7yHe3JN0bS) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COMA](https://open.spotify.com/album/1R9kIu20SZDjdKj3KpysYL) | 3:11 | 2023-03-17 |  |
@@ -91,7 +92,7 @@
 | [The Saints](https://open.spotify.com/track/6OJgPdiryjvefJC3fsDAuA) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Heroes for Sale](https://open.spotify.com/album/4Ok6ziWADtgdRcy4nixjtL) | 3:58 | 2023-03-17 |  |
 | [This Is Life](https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:27 | 2023-03-17 |  |
 | [Too God](https://open.spotify.com/track/69M2s5Rm5aLPcCbznvrZnT) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:47 | 2023-08-19 | 2024-02-06 |
-| [Undefeated](https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Undefeated](https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex) | 4:14 | 2023-03-17 |  |
+| [Undefeated](https://open.spotify.com/track/23aDfyOz4nmNTt3iyjl6Yc) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Undefeated](https://open.spotify.com/album/5uVvaONs9KIUec16x6w8ex) | 4:14 | 2023-03-17 | 2026-02-11 |
 | [Undefeated \(feat\. KB\)](https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:57 | 2023-03-17 |  |
 | [Wake Up](https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 3:36 | 2023-03-17 |  |
 | [We Still Believe \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [One Church Music](https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa) | [We Still Believe \(HLY FOREVER\) \(feat\. One Church Music\)](https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp) | 2:51 | 2025-02-09 |  |

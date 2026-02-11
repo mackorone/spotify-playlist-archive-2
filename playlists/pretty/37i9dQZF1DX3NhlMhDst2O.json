@@ -1,6 +1,6 @@
 {
   "description": "Sintoniza los \u00e9xitos rom\u00e1nticos del siglo pasado \ud83e\udd40",
-  "num_followers": 162135,
+  "num_followers": 162217,
   "original_name": "Radio Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Cari\u00f1o Santo",
-        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Los Yonic's",
         "url": "https://open.spotify.com/album/1n9JO1nI25yEpiqhie0bpt"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 192440,
       "name": "Un Dolor",
       "url": "https://open.spotify.com/track/17CjK3UlTIKqklXjOf9mIc"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Cari\u00f1o Santo",
+        "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "La Rondalla Etc.",
-        "url": "https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp"
-      },
-      "artists": [
-        {
-          "name": "La Rondalla De Saltillo",
-          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
-        }
-      ],
-      "duration_ms": 146800,
-      "name": "Wendolyne",
-      "url": "https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea"
-    },
-    {
-      "added_at": "2025-01-28 15:41:46",
-      "album": {
         "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
         "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2025-01-28 15:41:46",
       "album": {
-        "name": "Juanello",
-        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
+        "name": "La Rondalla Etc.",
+        "url": "https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp"
       },
       "artists": [
         {
-          "name": "Juanello",
-          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
+          "name": "La Rondalla De Saltillo",
+          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
         }
       ],
-      "duration_ms": 186400,
-      "name": "Espejismo",
-      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
+      "duration_ms": 146800,
+      "name": "Wendolyne",
+      "url": "https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -955,6 +939,22 @@
       "duration_ms": 200045,
       "name": "El Pecador",
       "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
+    },
+    {
+      "added_at": "2025-01-28 15:41:46",
+      "album": {
+        "name": "Juanello",
+        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
+      },
+      "artists": [
+        {
+          "name": "Juanello",
+          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Espejismo",
+      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
     },
     {
       "added_at": "2025-01-28 15:41:46",
@@ -1301,7 +1301,7 @@
       "artists": [
         {
           "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/3vYG2qFeNaBcQW4Pwkiqu9"
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
         }
       ],
       "duration_ms": 215643,
@@ -1385,7 +1385,7 @@
       "artists": [
         {
           "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/3vYG2qFeNaBcQW4Pwkiqu9"
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
         }
       ],
       "duration_ms": 220496,

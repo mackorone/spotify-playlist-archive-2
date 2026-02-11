@@ -957,6 +957,24 @@
     },
     {
       "album": {
+        "name": "siempre quiero +",
+        "url": "https://open.spotify.com/album/0PktceOqLoT7kreoTfi38Z"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190340,
+      "name": "siempre quiero +",
+      "url": "https://open.spotify.com/track/6uYAESroN4MLNbrUpddVgU"
+    },
+    {
+      "album": {
         "name": "Sobred\u00f3sis De Tempra",
         "url": "https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN"
       },

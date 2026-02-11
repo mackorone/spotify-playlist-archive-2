@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 12193,
+  "num_followers": 12215,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -439,26 +439,22 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Giant Armadillo",
-        "url": "https://open.spotify.com/album/07DVPd1gMbaTPxBHyc35zv"
+        "name": "As Dusk Falls (feat. NATURE)",
+        "url": "https://open.spotify.com/album/5GhO2mEOoDu63XTXECpfMN"
       },
       "artists": [
         {
-          "name": "Bob the Drag Queen",
-          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
-        },
-        {
-          "name": "On The Edge",
-          "url": "https://open.spotify.com/artist/79DNIFQSRxq7DUGgs9QpqE"
+          "name": "Masayoshi Fujita",
+          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 62406,
-      "name": "Giant Armadillo",
-      "url": "https://open.spotify.com/track/5NvFdae8idGVQPSdVg2rJm"
+      "duration_ms": 243750,
+      "name": "As Dusk Falls (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0xmilozBELeYrLvN7wyacp"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -503,22 +499,26 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "As Dusk Falls (feat. NATURE)",
-        "url": "https://open.spotify.com/album/5GhO2mEOoDu63XTXECpfMN"
+        "name": "Giant Armadillo",
+        "url": "https://open.spotify.com/album/07DVPd1gMbaTPxBHyc35zv"
       },
       "artists": [
         {
-          "name": "Masayoshi Fujita",
-          "url": "https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT"
+          "name": "Bob the Drag Queen",
+          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
+        },
+        {
+          "name": "On The Edge",
+          "url": "https://open.spotify.com/artist/79DNIFQSRxq7DUGgs9QpqE"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 243750,
-      "name": "As Dusk Falls (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0xmilozBELeYrLvN7wyacp"
+      "duration_ms": 62406,
+      "name": "Giant Armadillo",
+      "url": "https://open.spotify.com/track/5NvFdae8idGVQPSdVg2rJm"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1035,6 +1035,34 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Passerine",
+        "url": "https://open.spotify.com/album/33o9VUfULBRNX4dAeFLD69"
+      },
+      "artists": [
+        {
+          "name": "IL\u0100",
+          "url": "https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Philomel",
+      "url": "https://open.spotify.com/track/6Xf9xCtsSgwWAJ31gmYmS9"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "What In The World (feat. NATURE)",
         "url": "https://open.spotify.com/album/4TS8s49jue6a2xcmGk9ejN"
       },
@@ -1075,54 +1103,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Passerine",
-        "url": "https://open.spotify.com/album/33o9VUfULBRNX4dAeFLD69"
-      },
-      "artists": [
-        {
-          "name": "IL\u0100",
-          "url": "https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
-        },
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Philomel",
-      "url": "https://open.spotify.com/track/6Xf9xCtsSgwWAJ31gmYmS9"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Dew (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7lXQ19myGmHdIPBVaoeDJo"
-      },
-      "artists": [
-        {
-          "name": "NEBULAH",
-          "url": "https://open.spotify.com/artist/3VsBG9lxz1YW1CK0hGGcmf"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 257250,
-      "name": "Dew (feat. NATURE)",
-      "url": "https://open.spotify.com/track/2Juto9OSTiDPiGaVpWuQEn"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Koth Biro (feat. NATURE)",
         "url": "https://open.spotify.com/album/4xaTZKFTLjP5GaGLX4ZEO3"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 374634,
       "name": "Koth Biro (feat. NATURE)",
       "url": "https://open.spotify.com/track/0Qhrpf41orOWGIS0Fzayqs"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Dew (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7lXQ19myGmHdIPBVaoeDJo"
+      },
+      "artists": [
+        {
+          "name": "NEBULAH",
+          "url": "https://open.spotify.com/artist/3VsBG9lxz1YW1CK0hGGcmf"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 257250,
+      "name": "Dew (feat. NATURE)",
+      "url": "https://open.spotify.com/track/2Juto9OSTiDPiGaVpWuQEn"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1267,6 +1267,34 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Oregon Rain (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7jSTzL0Nco71gqnp2PLTXA"
+      },
+      "artists": [
+        {
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Fay Funk",
+          "url": "https://open.spotify.com/artist/6mj7MG08uhdgK9zvG0nyI6"
+        },
+        {
+          "name": "Gentle Millennials",
+          "url": "https://open.spotify.com/artist/3OlaO238BrZB7fZSVvnXCK"
+        }
+      ],
+      "duration_ms": 260657,
+      "name": "Oregon Rain (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4QXodwucoCLns2sp22Azvo"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Wale Nze Mbong (feat. NATURE)",
         "url": "https://open.spotify.com/album/3vBkdTiLc7K3ukaltgS4EQ"
       },
@@ -1327,34 +1355,6 @@
       "duration_ms": 163408,
       "name": "Nightingale (feat. NATURE)",
       "url": "https://open.spotify.com/track/3NawWmpRgds78Yo53QOw8G"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Oregon Rain (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7jSTzL0Nco71gqnp2PLTXA"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Fay Funk",
-          "url": "https://open.spotify.com/artist/6mj7MG08uhdgK9zvG0nyI6"
-        },
-        {
-          "name": "Gentle Millennials",
-          "url": "https://open.spotify.com/artist/3OlaO238BrZB7fZSVvnXCK"
-        }
-      ],
-      "duration_ms": 260657,
-      "name": "Oregon Rain (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4QXodwucoCLns2sp22Azvo"
     }
   ],
   "unique_name": "feat. NATURE",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist qui sent le sapin pis la joie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,937 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,928 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 21 | [Voici le père Noël](https://open.spotify.com/track/7xndwWf5CYFfC3cN4KMhlV) | [Renée Martel](https://open.spotify.com/artist/1vgsGsdx1AT6W2j5Y6GIis) | [Chantons Noël!](https://open.spotify.com/album/2Vx0bvyrpOixovVt0Jiyds) | 2:20 |
 | 22 | [Santa Baby](https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Santa Baby](https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT) | 3:28 |
 | 23 | [\_dec carte de noël](https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_dec carte de noël](https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7) | 2:04 |
-| 24 | [On attendait Noël](https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [On attendait Noël](https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN) | 3:46 |
-| 25 | [Maman, Papa](https://open.spotify.com/track/5SfR5iR5KLfWIyRxDa99ns) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 3:41 |
+| 24 | [Maman, Papa](https://open.spotify.com/track/5SfR5iR5KLfWIyRxDa99ns) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 3:41 |
+| 25 | [On attendait Noël](https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [On attendait Noël](https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN) | 3:46 |
 | 26 | [J'ai vu maman embrasser le père Noël](https://open.spotify.com/track/4rEmPwDqff0iLL0cEXD1GU) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [J'ai vu maman embrasser le père Noël](https://open.spotify.com/album/5ReyWZwqRMiEc21kMeoW7w) | 3:11 |
 | 27 | [Parfait Noël](https://open.spotify.com/track/3MLbNzADggPivatXQneiHw) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Parfait Noël](https://open.spotify.com/album/75s3hI6IoIHTYEwY2v6P3y) | 4:02 |
 | 28 | [Pour le réveillon](https://open.spotify.com/track/6X76NCrLBhddSKT0KcaOWH) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Chic de ville \(avec "Pour le réveillon"\)](https://open.spotify.com/album/4hHQBjNa12D0rlhZLCeazr) | 3:02 |
@@ -63,11 +63,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 53 | [Joyeux Noël](https://open.spotify.com/track/2tfT9JHn0MmI1hYwwk4hiv) | [Camille Cormier\-Morasse](https://open.spotify.com/artist/2wvsvqHPEfAHHxzPkyLcHB) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:26 |
 | 54 | [Noël blanc](https://open.spotify.com/track/7ykP6gzf7CJ8Lb4AEJWeqR) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK) | 3:50 |
 | 55 | [Le premier Noël de Jules](https://open.spotify.com/track/39oytpbeOyFiepAlTLONEP) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:15 |
-| 56 | [C’est l’hiver](https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:11 |
-| 57 | [2 janvier](https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm) | [Thomé Young](https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk) | [2 janvier](https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk) | 2:47 |
+| 56 | [2 janvier](https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm) | [Thomé Young](https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk) | [2 janvier](https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk) | 2:47 |
+| 57 | [C’est l’hiver](https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:11 |
 | 58 | [Noël](https://open.spotify.com/track/5kME8UidheMP9OAQsqRvQG) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Les tubes de Noël, vol.4](https://open.spotify.com/album/3ipxucNMIaascnIUkANLe8) | 4:18 |
-| 59 | [Noël nouvelet](https://open.spotify.com/track/1m2WeRzmCIGW5gAOdGAElF) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:15 |
-| 60 | [Trois anges](https://open.spotify.com/track/0CEf5RUrI8lymsEXxQlMZG) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Trois anges](https://open.spotify.com/album/5v4av8x3cutGER7uiU69ZK) | 3:40 |
+| 59 | [Trois anges](https://open.spotify.com/track/0CEf5RUrI8lymsEXxQlMZG) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Trois anges](https://open.spotify.com/album/5v4av8x3cutGER7uiU69ZK) | 3:40 |
+| 60 | [Noël nouvelet](https://open.spotify.com/track/1m2WeRzmCIGW5gAOdGAElF) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:15 |
 | 61 | [Au royaume du bonhomme hiver](https://open.spotify.com/track/2lYvd5PkUDC6GuiVYf04yl) | [Mia Tinayre](https://open.spotify.com/artist/73oPKA4M7gONbeMszxykD8) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:25 |
 | 62 | [L'oiseau rare](https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:19 |
 | 63 | [Pour la première fois, Noël sera gris](https://open.spotify.com/track/45aUx5ljrdBb4NHbhaFTNw) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:09 |

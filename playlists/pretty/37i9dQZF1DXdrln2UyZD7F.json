@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la musique d'hier et d'aujourd'hui pour une journ\u00e9e parfaite.",
-  "num_followers": 944338,
+  "num_followers": 944301,
   "original_name": "La vie est belle",
   "owner": {
     "name": "Spotify",
@@ -991,18 +991,22 @@
     {
       "added_at": "2026-02-05 23:00:15",
       "album": {
-        "name": "Night Visions",
-        "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
+        "name": "The Sweet Escape",
+        "url": "https://open.spotify.com/album/4LAtUD0YzywA2DdzxEAoEU"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 192280,
-      "name": "On Top Of The World",
-      "url": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w"
+      "duration_ms": 246466,
+      "name": "The Sweet Escape",
+      "url": "https://open.spotify.com/track/07K4GcCDSTiXUF5ssyTRUM"
     }
   ],
   "unique_name": "La vie est belle",

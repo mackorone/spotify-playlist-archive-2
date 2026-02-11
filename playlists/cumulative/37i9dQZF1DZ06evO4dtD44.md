@@ -4,7 +4,7 @@
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-66 songs - 3 hr 44 min
+68 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,10 @@
 | [Desde Que O Samba E Samba](https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 3:54 | 2025-08-13 |  |
 | [Deve Ser Amor \(It Must Be Love\)](https://open.spotify.com/track/69QK0UBbAX20uVhjXMX5t4) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Do the Bossa Nova](https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX) | 4:18 | 2025-07-20 |  |
 | [Doralice \- Stereo Version](https://open.spotify.com/track/2s9UFO4G23DGzo8kYBkZcT) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 2:46 | 2025-07-20 |  |
+| [Eclipse](https://open.spotify.com/track/0yErqUwr8yOFNHxVnwsG6K) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 3:04 | 2026-02-11 |  |
 | [Ela e Carioca](https://open.spotify.com/track/6zPpAkAQQ4GDvUEtd4wiG7) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Brazil 2](https://open.spotify.com/album/4cUSNzcj0flfzz7BUlnSAT) | 3:04 | 2025-07-20 |  |
 | [Estate](https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 6:27 | 2025-07-20 |  |
-| [Este Seu Olhar](https://open.spotify.com/track/1dWibRWPlGgaZLzOp99EpO) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 2:15 | 2025-07-20 |  |
+| [Este Seu Olhar](https://open.spotify.com/track/1dWibRWPlGgaZLzOp99EpO) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 2:15 | 2025-07-20 | 2026-02-11 |
 | [Eu Quero um Samba](https://open.spotify.com/track/6RODRlHqwSxfI6WmKjqPCL) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 4:46 | 2025-12-16 | 2025-12-18 |
 | [Eu Sambo Mesmo](https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 4:08 | 2025-07-20 |  |
 | [Eu Vim Da Bahia](https://open.spotify.com/track/3YyKhjarSxJWuO44trAVdr) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:34 | 2025-07-20 |  |
@@ -50,7 +51,7 @@
 | [Meditation](https://open.spotify.com/track/5Hgljjx1vP5nwpoXlV5yvj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: A Summer Night](https://open.spotify.com/album/0kuIRsKvYj2GUTufyn5LUc) | 4:03 | 2025-07-20 |  |
 | [Meditação \- Ultimate Mix](https://open.spotify.com/track/0mdesrM7UZZuDAu8RjBkMy) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:46 | 2025-07-20 |  |
 | [Nao Vou Pra Casa](https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Voz E Violão](https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX) | 2:56 | 2025-07-20 |  |
-| [O Barquinho](https://open.spotify.com/track/4zbKBVEs2nE80kDoGTx079) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 2:29 | 2025-07-20 |  |
+| [O Barquinho](https://open.spotify.com/track/4zbKBVEs2nE80kDoGTx079) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Coisa Mais Linda](https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX) | 2:29 | 2025-07-20 | 2026-02-11 |
 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 | 2025-07-20 |  |
 | [One Note Samba](https://open.spotify.com/track/5xTt7WCmlfdSa9aP3MV56A) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Do the Bossa Nova](https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX) | 3:21 | 2025-07-20 |  |
 | [Palpite Infeliz](https://open.spotify.com/track/41hMxxMGTD38PTN10YMDKR) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 3:53 | 2025-07-20 |  |
@@ -74,5 +75,6 @@
 | [Wave](https://open.spotify.com/track/3JbZ8W2aFTIEP6EidBlN38) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 4:41 | 2025-07-20 |  |
 | [Águas de Março](https://open.spotify.com/track/7Jj66NaXj1Nn6xrkB7vlSf) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:23 | 2025-07-20 | 2025-09-21 |
 | [É Luxo Só \- Ultimate Mix](https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7) | 1:59 | 2025-09-19 |  |
+| [É preciso Perdoar](https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:08 | 2026-02-11 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

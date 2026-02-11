@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > \#fyp songs voor je playlist! Cover: Yade Lauren
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,760 likes - 53 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,835 likes - 53 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [WTBBA?!](https://open.spotify.com/track/4hv657Sw8KmupQAjzPHfEM) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [WTBBA?!](https://open.spotify.com/album/6Hf8nJKRNM5kGyZgZspFVQ) | 3:25 |
 | 2 | [AMG Met Matje](https://open.spotify.com/track/5ggvkkbCuV1rh01Ey8KoUY) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [AMG Met Matje](https://open.spotify.com/album/2OAo3a49XmUBYcb5gAtOzP) | 3:27 |
-| 3 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It Up to Me \[feat\. Keyshia Cole\]](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
+| 3 | [\(When You Gonna\) Give It Up to Me \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It Up to Me](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
 | 4 | [Waar Was Je?](https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [Waar Was Je?](https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC) | 2:28 |
 | 5 | [This is my house](https://open.spotify.com/track/1xfcLBSl1IZ0F4ynzqoO71) | [Ninochello](https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF) | [This is my house](https://open.spotify.com/album/0zGJRSvG0TdKTDqqC7KzI3) | 2:14 |
 | 6 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |

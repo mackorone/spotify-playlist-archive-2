@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Discover the intensity and emotion resonating through Japan\u2019s hard rock. / \u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u82b1\u51b7\u3048\u3002",
+  "description": "Discover the intensity and emotion resonating through Japan\u2019s hard rock. / \u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: \u30a2\u30f3\u3068\u79c1",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -778,7 +778,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 132386,
       "name": "Blooming the Tank-top",
       "url": "https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6"
@@ -1824,6 +1824,24 @@
       "duration_ms": 212413,
       "name": "error",
       "url": "https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr"
+    },
+    {
+      "album": {
+        "name": "EVER",
+        "url": "https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW"
     },
     {
       "album": {
@@ -6442,7 +6460,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 285700,
       "name": "THE LAST ROCKSTARS (PARIS MIX)",
       "url": "https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k"
@@ -7254,7 +7272,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 147848,
       "name": "\u3042\u3084\u3068\u308a\u30b3\u30f3\u30c6\u30cb\u30e5\u30fc",
       "url": "https://open.spotify.com/track/0FpMh8n2Cx4uim3rIsSrGI"
@@ -7604,6 +7622,24 @@
       "duration_ms": 215866,
       "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
       "url": "https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md"
+    },
+    {
+      "album": {
+        "name": "NARCISM",
+        "url": "https://open.spotify.com/album/0yjBA2zw38OSZOv9a8sVCR"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u3068\u79c1",
+          "url": "https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "\u30b5\u30a4\u30ec\u30f3",
+      "url": "https://open.spotify.com/track/6DYebc1Ii95osJRX1P0Ke8"
     },
     {
       "album": {
@@ -8088,6 +8124,28 @@
       "duration_ms": 241156,
       "name": "\u5922\u5e7b",
       "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
+    },
+    {
+      "album": {
+        "name": "DISASTERPIECE",
+        "url": "https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "\u5929\u8a85 & Mercy",
+      "url": "https://open.spotify.com/track/4yPQdCSNYZq7xjWZpjY6mc"
     },
     {
       "album": {

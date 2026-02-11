@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 141597,
+  "num_followers": 141627,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAADYdIB7dSwMbZCrg9O/qtO3",
+  "snapshot_id": "aYkjgAAAAADzE2TY1ajumqsVXClmCgmo",
   "tracks": [
     {
       "added_at": null,
@@ -207,18 +207,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/1aDCXyqjfceBHeMb8j2z3y"
+        "name": "Moreno 80 (feat. Herencia de Patrones)",
+        "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
       },
       "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 181920,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/0EOeasajM60dpiCx6h2xH2"
+      "duration_ms": 182000,
+      "name": "Moreno 80",
+      "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
     },
     {
       "added_at": null,
@@ -239,22 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moreno 80 (feat. Herencia de Patrones)",
-        "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/1aDCXyqjfceBHeMb8j2z3y"
       },
       "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Moreno 80",
-      "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
+      "duration_ms": 181920,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/0EOeasajM60dpiCx6h2xH2"
     },
     {
       "added_at": null,
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Drakeo the Ruler",
+          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
+        }
+      ],
+      "duration_ms": 141105,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mustang 65'",
         "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 194100,
       "name": "Feria en el Sobre",
       "url": "https://open.spotify.com/track/65C6XLTjQ1sbmldzcUVNi1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Verdad",
-        "url": "https://open.spotify.com/album/1ZbvuFVcUq5P15TqmYuVBA"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "Drakeo the Ruler",
-          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
-        }
-      ],
-      "duration_ms": 141105,
-      "name": "La Verdad",
-      "url": "https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 182454,
-      "name": "91",
-      "url": "https://open.spotify.com/track/0DzZM9jFvFn0SyoeFLsrPC"
+      "duration_ms": 223333,
+      "name": "P\u00e9rdida De Tiempo",
+      "url": "https://open.spotify.com/track/6h3vi3mEGJVoJBjtDY1mcp"
     },
     {
       "added_at": null,
@@ -540,25 +540,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 223333,
-      "name": "P\u00e9rdida De Tiempo",
-      "url": "https://open.spotify.com/track/6h3vi3mEGJVoJBjtDY1mcp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 220752,
-      "name": "Crimes",
-      "url": "https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe"
+      "duration_ms": 182454,
+      "name": "91",
+      "url": "https://open.spotify.com/track/0DzZM9jFvFn0SyoeFLsrPC"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
       "duration_ms": 153384,
       "name": "No Me Preocupo Tanto",
       "url": "https://open.spotify.com/track/6ZCL1JXiW9kVGdz56lHWoB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 220752,
+      "name": "Crimes",
+      "url": "https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 146374,
+      "name": "Jarabe Con Sprite",
+      "url": "https://open.spotify.com/track/6OcR3nz1zLKoaFOZSiqFN4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 191250,
       "name": "Francotirador",
       "url": "https://open.spotify.com/track/3ED6wBTpybjYfzl9ZHAS67"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 146374,
-      "name": "Jarabe Con Sprite",
-      "url": "https://open.spotify.com/track/6OcR3nz1zLKoaFOZSiqFN4"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 222819,
+      "name": "Coraz\u00f3n Cromado",
+      "url": "https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Va Pa' Largo",
         "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 164925,
       "name": "Cupcake Factory",
       "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 222819,
-      "name": "Coraz\u00f3n Cromado",
-      "url": "https://open.spotify.com/track/0gBImi8U4Ut1DOG5hZmmRz"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 268527,
+      "name": "Fabi",
+      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo, Billetes y Damas (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 209911,
       "name": "Yo, Billetes y Damas",
       "url": "https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 268527,
-      "name": "Fabi",
-      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait",
-        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 132527,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/1mFjOuLYXLEe2Pe27mlWBC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HP Everything",
         "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 180256,
       "name": "Gelatti",
       "url": "https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry For The Wait",
+        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 132527,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/1mFjOuLYXLEe2Pe27mlWBC"
     },
     {
       "added_at": null,

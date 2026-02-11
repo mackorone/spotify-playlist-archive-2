@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Protoje, Damian Marley",
-  "num_followers": 1107180,
+  "num_followers": 1107159,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Sativa",
-        "url": "https://open.spotify.com/album/2DBnGu5bloAoIDEVZm0F8n"
-      },
-      "artists": [
-        {
-          "name": "Haile",
-          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
-        }
-      ],
-      "duration_ms": 170232,
-      "name": "Sativa",
-      "url": "https://open.spotify.com/track/3fzVtpLMS24jWEVjkhGycj"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "Diamonds and Gold",
         "url": "https://open.spotify.com/album/15muGQPID5opsEsRptvSDz"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 227495,
       "name": "Diamonds and Gold",
       "url": "https://open.spotify.com/track/2XMeQMiOJgKRoWcC3CHFtJ"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
+        "name": "Sativa",
+        "url": "https://open.spotify.com/album/2DBnGu5bloAoIDEVZm0F8n"
+      },
+      "artists": [
+        {
+          "name": "Haile",
+          "url": "https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM"
+        }
+      ],
+      "duration_ms": 170232,
+      "name": "Sativa",
+      "url": "https://open.spotify.com/track/3fzVtpLMS24jWEVjkhGycj"
     },
     {
       "added_at": "2026-01-16 00:00:17",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-01-16 00:00:17",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE"
-      },
-      "artists": [
-        {
-          "name": "Jada Kingdom",
-          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd"
-    },
-    {
-      "added_at": "2026-01-16 00:00:17",
-      "album": {
         "name": "Safe N Sound",
         "url": "https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 186564,
       "name": "Safe N Sound",
       "url": "https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie"
+    },
+    {
+      "added_at": "2026-01-16 00:00:17",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/7flyvQaoNzRFLeTUA1GElE"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd"
     },
     {
       "added_at": "2026-01-16 00:00:17",

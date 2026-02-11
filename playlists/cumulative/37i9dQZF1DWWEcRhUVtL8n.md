@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Déyyess
 
-2,283 songs - 5 day 1 hr 23 min
+2,284 songs - 5 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Avery](https://open.spotify.com/track/3d93pRHHPjkrDE5Jn4G7Yl) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Avery](https://open.spotify.com/album/2sD6iY7aOhjFC2Dxqt4h1Q) | 3:14 | 2020-11-13 | 2021-02-06 |
 | [Away With Me](https://open.spotify.com/track/5N0KyNZkYbA3wCgs09cVMm) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [raychel jay](https://open.spotify.com/artist/7zjhhasa5SAMXbDcbmhkoj) | [Away With Me](https://open.spotify.com/album/4IWjUSyoKFPiFgEPyFDmNi) | 2:41 | 2022-01-21 | 2022-07-24 |
 | [Baby Bangs \(feat\. dacelynn\)](https://open.spotify.com/track/01J9q2fcpP9OiEfs1ziyji) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl), [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [Baby Bangs \(feat\. dacelynn\)](https://open.spotify.com/album/2wH4N8ZRRqhJ49K6qXV2m0) | 2:44 | 2024-03-29 | 2024-04-13 |
-| [Baby Chop](https://open.spotify.com/track/7uE1ItStahZOmoJTGBfR9w) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Baby Chop](https://open.spotify.com/album/2T5gFlPWWhKIgLjAORrIwh) | 3:33 | 2025-12-12 |  |
+| [Baby Chop](https://open.spotify.com/track/7uE1ItStahZOmoJTGBfR9w) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Baby Chop](https://open.spotify.com/album/2T5gFlPWWhKIgLjAORrIwh) | 3:33 | 2025-12-12 | 2026-02-11 |
 | [Baby Don't Go](https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Baby Don't Go](https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9) | 2:32 | 2022-06-24 | 2022-08-06 |
 | [Baby It's You](https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Baby It's You](https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t) | 4:02 | 2021-03-07 | 2021-05-24 |
 | [Baby Teeth \(feat\. Mothica\)](https://open.spotify.com/track/1VRQFOvXE70lVleKrcopIh) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Baby Teeth \(feat\. Mothica\)](https://open.spotify.com/album/4eS0bDrkm4AD5z65zrmjcC) | 3:30 | 2021-08-06 | 2022-04-11 |
@@ -1262,6 +1262,7 @@
 | [Loverboy](https://open.spotify.com/track/3jB55bujusQsAK5EYXcgnX) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [The Rise & Fall of Loverboy \- Singles](https://open.spotify.com/album/5jRBOmCGZWOmLdrw1sOWzy) | 2:43 | 2021-02-23 | 2021-10-13 |
 | [loving u is harder](https://open.spotify.com/track/3zyzC28g7uU4YfWN840ciZ) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [loving u is harder](https://open.spotify.com/album/67ODPUfNcldTSB565u7KZi) | 2:27 | 2023-08-15 | 2024-08-03 |
 | [Low Blow](https://open.spotify.com/track/49ranIZODSj8YQASSeJlAV) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Low Blow](https://open.spotify.com/album/3SHiSIQhccEbvunWnsI7uv) | 2:26 | 2020-10-13\* | 2021-05-18 |
+| [Luckiest](https://open.spotify.com/track/2U2skQkpTjmR1HlfMvHE7S) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [Luckiest](https://open.spotify.com/album/5HXRBBh6x0VHAIS0hNVC0L) | 3:05 | 2026-01-30 |  |
 | [Lucky](https://open.spotify.com/track/78rFhTXf81WtRS7Ubl2f4V) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Lucky](https://open.spotify.com/album/6esPAZhJiXGKhByoXAHSEG) | 2:28 | 2020-10-20 | 2020-10-21 |
 | [Lucky](https://open.spotify.com/track/6WFlAvH3qbMstumWizZuHL) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [Lucky](https://open.spotify.com/album/6tcFo0Idi8kCjK8uZkU30g) | 3:14 | 2021-02-24 | 2021-02-25 |
 | [Lucky Day](https://open.spotify.com/track/4XAOqOH1fmm8COSqWqzhYH) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Lucky Day](https://open.spotify.com/album/1vK8WFZRsDlyx2ZWJo4sV6) | 3:13 | 2026-01-23 | 2026-01-31 |

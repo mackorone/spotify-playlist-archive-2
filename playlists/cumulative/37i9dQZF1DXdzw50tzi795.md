@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> พลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: LITTLE JOHN
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: LITTLE JOHN
 
 220 songs - 14 hr 12 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Architects. The essential tracks, all in one playlist.",
-  "num_followers": 86992,
+  "num_followers": 87013,
   "original_name": "This Is Architects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAD9GhvAnDr2Md4qghBa9cWx",
+  "snapshot_id": "aYkjgAAAAAAlZHrZkEZbxiTHGOpRcX20",
   "tracks": [
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 241034,
-      "name": "Meteor",
-      "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
+      "duration_ms": 212063,
+      "name": "Giving Blood",
+      "url": "https://open.spotify.com/track/5OVb8VkoO9ZYG64ngOPZpW"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 212063,
-      "name": "Giving Blood",
-      "url": "https://open.spotify.com/track/5OVb8VkoO9ZYG64ngOPZpW"
+      "duration_ms": 241034,
+      "name": "Meteor",
+      "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daybreaker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 241386,
-      "name": "These Colours Don't Run",
-      "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
+      "duration_ms": 232939,
+      "name": "Broken Cross",
+      "url": "https://open.spotify.com/track/4b7oCl6v6kyH10igobXEuy"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "These Colours Don't Run",
+      "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost Forever // Lost Together",
         "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
       },
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 232939,
-      "name": "Broken Cross",
-      "url": "https://open.spotify.com/track/4b7oCl6v6kyH10igobXEuy"
+      "duration_ms": 133370,
+      "name": "Red Hypergiant",
+      "url": "https://open.spotify.com/track/6dYxCJDZtOVSaRAKFe8NRZ"
     },
     {
       "added_at": null,
@@ -559,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daybreaker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 235946,
-      "name": "Alpha Omega",
-      "url": "https://open.spotify.com/track/4Upj7Dz6tu1HBeIZfziOlE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Our Gods Have Abandoned Us",
         "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
       },
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 235946,
+      "name": "Alpha Omega",
+      "url": "https://open.spotify.com/track/4Upj7Dz6tu1HBeIZfziOlE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lost Forever // Lost Together",
         "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
       },
@@ -600,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 133370,
-      "name": "Red Hypergiant",
-      "url": "https://open.spotify.com/track/6dYxCJDZtOVSaRAKFe8NRZ"
+      "duration_ms": 259224,
+      "name": "C.A.N.C.E.R",
+      "url": "https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW"
     },
     {
       "added_at": null,
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 259224,
-      "name": "C.A.N.C.E.R",
-      "url": "https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW"
+      "duration_ms": 244164,
+      "name": "Dead Man Talking",
+      "url": "https://open.spotify.com/track/0r6jN06i84ulsRkf9oSZo4"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
       "duration_ms": 192640,
       "name": "Even If You Win, You're Still A Rat",
       "url": "https://open.spotify.com/track/1YSmJJ1RRy9pOGgZHwyvhW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Forever // Lost Together",
-        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 244164,
-      "name": "Dead Man Talking",
-      "url": "https://open.spotify.com/track/0r6jN06i84ulsRkf9oSZo4"
     }
   ],
   "unique_name": "This Is Architects",

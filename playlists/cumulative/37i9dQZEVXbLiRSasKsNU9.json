@@ -1681,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/09YZd8EhjQjGDJbc8EUuKq"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/7Dgh6z47wLzI5wikmGsYC3"
+    },
+    {
+      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -6017,6 +6035,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "album": {
         "name": "Chico Buarque",
         "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
       },
@@ -6674,6 +6710,24 @@
       "duration_ms": 230161,
       "name": "Ate\u015fe D\u00fc\u015ft\u00fcm",
       "url": "https://open.spotify.com/track/3auN910HHNYykQo8i9q5J1"
+    },
+    {
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "ATM",
+      "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
     },
     {
       "album": {
@@ -13188,7 +13242,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 275293,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/5oGK9Yr2EzKMb27Jpr5hpL"
@@ -15016,7 +15070,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 270697,
       "name": "Canasteo",
       "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
@@ -15844,6 +15898,28 @@
       "duration_ms": 201562,
       "name": "Cellad\u0131na A\u015f\u0131k",
       "url": "https://open.spotify.com/track/2PaQb8AtQqIxawPA2O7Vaw"
+    },
+    {
+      "album": {
+        "name": "Mortal Kombat",
+        "url": "https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155726,
+      "name": "Cennet",
+      "url": "https://open.spotify.com/track/1nRhCshF9nYpTZr0yM4mKS"
     },
     {
       "album": {
@@ -19188,7 +19264,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 160645,
       "name": "Cry For Me WA WA WA",
       "url": "https://open.spotify.com/track/30C4LSxZHCWNtUjnZUxEoJ"
@@ -27818,7 +27894,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 167652,
       "name": "FaceTime",
       "url": "https://open.spotify.com/track/7Ji60z4V0d0IUbuZMkpjJa"
@@ -29180,7 +29256,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 134702,
       "name": "FIGURED YOU OUT",
       "url": "https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR"
@@ -37429,6 +37505,24 @@
     },
     {
       "album": {
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
+    },
+    {
+      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -38204,7 +38298,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -41602,7 +41696,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 174421,
       "name": "Jogi",
       "url": "https://open.spotify.com/track/1XfBEzVsFJC0X8222Y6unk"
@@ -42274,7 +42368,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 210070,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
@@ -42292,7 +42386,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 210070,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -62369,6 +62463,28 @@
     },
     {
       "album": {
+        "name": "Mortal Kombat",
+        "url": "https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192897,
+      "name": "Ou",
+      "url": "https://open.spotify.com/track/78k5J6sk3N1dBmWXGovrxV"
+    },
+    {
+      "album": {
         "name": "DISCO",
         "url": "https://open.spotify.com/album/5vvuakA6CVikfUwArrorTd"
       },
@@ -66304,6 +66420,24 @@
       "duration_ms": 108798,
       "name": "POOKIE'S REQUIEM",
       "url": "https://open.spotify.com/track/0CT22b8NYf47LKD5FSrJHO"
+    },
+    {
+      "album": {
+        "name": "BE MORE GRATEFUL",
+        "url": "https://open.spotify.com/album/3JoiYj7Wu5cM6X6rHJAVdg"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138346,
+      "name": "POP DAT THANG",
+      "url": "https://open.spotify.com/track/0QgwjxR1VchizzckKXwyBu"
     },
     {
       "album": {
@@ -78044,7 +78178,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
@@ -93272,6 +93406,24 @@
       "duration_ms": 220207,
       "name": "Yeniden",
       "url": "https://open.spotify.com/track/5yoW8adECpBjG1em4xsaUX"
+    },
+    {
+      "album": {
+        "name": "Yeralt\u0131",
+        "url": "https://open.spotify.com/album/7enP6Rz2LzW9et03U8W1aD"
+      },
+      "artists": [
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Yeralt\u0131",
+      "url": "https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg"
     },
     {
       "album": {

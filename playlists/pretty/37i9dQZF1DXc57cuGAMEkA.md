@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。sombr, Joji, Mitski, LiSA, Calvin Harris and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,420 likes - 82 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,422 likes - 82 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 17 | [君のせい](https://open.spotify.com/track/6MybVbNYgHbO0cjbqGSPLH) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [君のせい](https://open.spotify.com/album/5kfekCB47xkYYkUnAx30Kk) | 2:18 |
 | 18 | [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 |
 | 19 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
-| 20 | [back for me](https://open.spotify.com/track/7HZMIIF0neWvNC8P1UgAQo) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [back for me](https://open.spotify.com/album/2sGhKPde7GODDkdaH2aP6C) | 3:28 |
+| 20 | [back for me](https://open.spotify.com/track/7HZMIIF0neWvNC8P1UgAQo) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [YONCE](https://open.spotify.com/artist/5QnTDESz5t2Fq7m2B5a7IJ) | [back for me](https://open.spotify.com/album/2sGhKPde7GODDkdaH2aP6C) | 3:28 |
 | 21 | [Ohaguro](https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Ohaguro](https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI) | 3:08 |
 | 22 | [インスタントナイト](https://open.spotify.com/track/1EIrS41eC3e5siU3AwaavQ) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [インスタントナイト](https://open.spotify.com/album/4l1utK1rQkadl8fqFXUTFe) | 3:00 |
 | 23 | [Flood \(feat\. Bon Iver\)](https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Flood / Glow](https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J) | 2:59 |

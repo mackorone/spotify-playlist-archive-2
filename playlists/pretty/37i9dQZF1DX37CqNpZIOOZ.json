@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 27306,
+  "num_followers": 27311,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -495,30 +495,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Strauss: Ariadne auf Naxos",
-        "url": "https://open.spotify.com/album/16nAFy2XarUbwzZxKErqDN"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Strauss, R: Ariadne auf Naxos, Op. 60, Prologue: Overture",
-      "url": "https://open.spotify.com/track/3SzzWt7qccZbnKOehjgMaq"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "R. Strauss: Vier letzte Lieder; Ein Heldenleben (Live at Philharmonie, Berlin, 2014)",
         "url": "https://open.spotify.com/album/7vgUpW5MllSVaL3YgT7ge1"
       },
@@ -543,8 +519,8 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
-        "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
+        "name": "Strauss: Ariadne auf Naxos",
+        "url": "https://open.spotify.com/album/16nAFy2XarUbwzZxKErqDN"
       },
       "artists": [
         {
@@ -552,17 +528,17 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
           "name": "Rudolf Kempe",
           "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
         }
       ],
-      "duration_ms": 1070973,
-      "name": "Strauss, R: Waltz Sequences from the Rosenkavalier",
-      "url": "https://open.spotify.com/track/3WmoNsLm4LlOWmcTsr0P4v"
+      "duration_ms": 147000,
+      "name": "Strauss, R: Ariadne auf Naxos, Op. 60, Prologue: Overture",
+      "url": "https://open.spotify.com/track/3SzzWt7qccZbnKOehjgMaq"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -587,6 +563,30 @@
       "duration_ms": 678760,
       "name": "Ein Heldenleben, Op. 40: VI. Des Helden Weltflucht und Vollendung",
       "url": "https://open.spotify.com/track/0tA0d76ukyznyDAbAnG1Qz"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
+        "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        }
+      ],
+      "duration_ms": 1070973,
+      "name": "Strauss, R: Waltz Sequences from the Rosenkavalier",
+      "url": "https://open.spotify.com/track/3WmoNsLm4LlOWmcTsr0P4v"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -643,34 +643,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Verklarte Nacht",
-        "url": "https://open.spotify.com/album/3DxFVpg1RqtjZTyqJsya26"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Artemis Quartet",
-          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
-        },
-        {
-          "name": "Thomas Kakuska",
-          "url": "https://open.spotify.com/artist/5OS9ixnYzKFZr8kzABvgac"
-        },
-        {
-          "name": "Valentin Erben",
-          "url": "https://open.spotify.com/artist/2QJHM4fhQkWljrYsUYpA6j"
-        }
-      ],
-      "duration_ms": 577160,
-      "name": "Strauss: Capriccio, Op. 85: Einleitung",
-      "url": "https://open.spotify.com/track/0ikGKOEhmahJPTpjN5FAif"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "Strauss: Four Last Songs",
         "url": "https://open.spotify.com/album/6rMcWQlVDTpNe7ISqkv1JB"
       },
@@ -695,6 +667,34 @@
       "duration_ms": 266160,
       "name": "4 Letzte Lieder, TrV 296: No. 2, September",
       "url": "https://open.spotify.com/track/3zsCas0Qw2bew1AtdxQb3M"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Verklarte Nacht",
+        "url": "https://open.spotify.com/album/3DxFVpg1RqtjZTyqJsya26"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Artemis Quartet",
+          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
+        },
+        {
+          "name": "Thomas Kakuska",
+          "url": "https://open.spotify.com/artist/5OS9ixnYzKFZr8kzABvgac"
+        },
+        {
+          "name": "Valentin Erben",
+          "url": "https://open.spotify.com/artist/2QJHM4fhQkWljrYsUYpA6j"
+        }
+      ],
+      "duration_ms": 577160,
+      "name": "Strauss: Capriccio, Op. 85: Einleitung",
+      "url": "https://open.spotify.com/track/0ikGKOEhmahJPTpjN5FAif"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -751,6 +751,30 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
+        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
+        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        }
+      ],
+      "duration_ms": 207080,
+      "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
+      "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
         "name": "Strauss, R.: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/3pz0mxP92d3SscSdnxHDLk"
       },
@@ -779,30 +803,6 @@
       "duration_ms": 228106,
       "name": "Ariadne auf Naxos / Prologue: \"Ein Augenblick ist wenig\"",
       "url": "https://open.spotify.com/track/3a2gb3AuL7q5mKJRJULWBk"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
-        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
-        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        }
-      ],
-      "duration_ms": 207080,
-      "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
-      "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
     },
     {
       "added_at": "2025-12-15 11:35:26",

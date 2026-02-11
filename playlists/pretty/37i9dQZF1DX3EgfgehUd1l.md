@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,167 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,172 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 14 | [Blueberry Hill \- Remastered 2002](https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Greatest Hits: Walking To New Orleans](https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ) | 2:23 |
 | 15 | [Diana](https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:18 |
 | 16 | [Memories Are Made Of This](https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:18 |
-| 17 | [Born Too Late](https://open.spotify.com/track/3JebzygT2LJdcS24gfZ6ti) | [The Poni\-Tails](https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN) | [Born to Late](https://open.spotify.com/album/5TKfp7L2xIT6hRMaBlHM5y) | 2:19 |
-| 18 | [All I Have to Do Is Dream \- Single Version; 2006 Remaster](https://open.spotify.com/track/76HnRI6IQX4YHzYTgcM0RV) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Definitive Pop: The Everly Brothers](https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d) | 2:20 |
+| 17 | [All I Have to Do Is Dream \- Single Version; 2006 Remaster](https://open.spotify.com/track/76HnRI6IQX4YHzYTgcM0RV) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Definitive Pop: The Everly Brothers](https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d) | 2:20 |
+| 18 | [Born Too Late](https://open.spotify.com/track/3JebzygT2LJdcS24gfZ6ti) | [The Poni\-Tails](https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN) | [Born to Late](https://open.spotify.com/album/5TKfp7L2xIT6hRMaBlHM5y) | 2:19 |
 | 19 | [\(Love Is\) The Tender Trap](https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:57 |
 | 20 | [Banana Boat Song](https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Banana Boat Song](https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA) | 3:04 |
 | 21 | [Catch a Falling Star \(with Mitchell Ayres and His Orchestra & The Ray Charles Singers\)](https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 2:28 |

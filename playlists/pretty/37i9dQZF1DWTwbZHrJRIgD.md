@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,626 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,929 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 43 | [Teri Baaton Mein Aisa Uljha Jiya Title Song \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/track/6IR6mzRO60hnMjNoq8rCPE) | [Raghav](https://open.spotify.com/artist/5PVSEFUT4Inqu3yEq56Ku9), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Teri Baaton Mein Aisa Uljha Jiya Title Song \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/album/0YCrtSmwjwU1tp5dXtasCJ) | 2:33 |
 | 44 | [Tum Hi Ho Bandhu \(From "Cocktail"\)](https://open.spotify.com/track/2zZTXtLqCsICzEcztKjn47) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail](https://open.spotify.com/album/1qjwdeyTfXBI0ROsHhJ0ui) | 4:42 |
 | 45 | [Tu Hai](https://open.spotify.com/track/2fsBaSK1551VvUD9Uvbb9Q) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Tu Hai](https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY) | 2:44 |
-| 46 | [Sang Rahiyo](https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Ujjwal Kashyap](https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq) | [Sang Rahiyo](https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ) | 3:33 |
+| 46 | [Sang Rahiyo](https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Ujjwal Kashyap](https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Sang Rahiyo](https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ) | 3:33 |
 | 47 | [Apna Bana Le](https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Bhediya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12sC6UjMWz6EaxnzyfCNMe) | 4:21 |
 | 48 | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Dulquer Salmaan](https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk) | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS) | 3:14 |
 | 49 | [Mannat](https://open.spotify.com/track/26elzgFl8tvajnDfeoY1YF) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:39 |

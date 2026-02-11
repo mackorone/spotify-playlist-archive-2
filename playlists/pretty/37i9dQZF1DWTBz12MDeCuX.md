@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Chapo102
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,042 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,984 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 3 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 4 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 |
 | 5 | [Wenn ich tanz](https://open.spotify.com/track/6manz9cSmcEufbEknYWV6a) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Wenn ich tanz](https://open.spotify.com/album/1qxXxQq35rB8iUGIh4DBZ6) | 3:30 |
-| 6 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It Up to Me \[feat\. Keyshia Cole\]](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
+| 6 | [\(When You Gonna\) Give It Up to Me \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It Up to Me](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
 | 7 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
 | 8 | [zwei fremde](https://open.spotify.com/track/3ZEu2GJOnbiqJJPp9hWfhA) | [Julia Wulf](https://open.spotify.com/artist/4ObtPV2oJrfSRQBEFXhNfr) | [zwei fremde](https://open.spotify.com/album/0LWVvatuQi3FYwzLlVvui7) | 2:50 |
 | 9 | [Keine Fotos!](https://open.spotify.com/track/5MdwmMiQfD7rpo09hONd2I) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Keine Fotos!](https://open.spotify.com/album/1xFbFgxsetsUkd7tKnJ85G) | 2:00 |

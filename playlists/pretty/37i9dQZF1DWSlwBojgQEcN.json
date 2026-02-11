@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1607521,
+  "num_followers": 1607390,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
+        "name": "Immune",
+        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 210165,
+      "name": "Immune",
+      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
         "name": "Halleluya",
         "url": "https://open.spotify.com/album/4ZDbn99PxmBpj3UtcDXWWx"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 234493,
       "name": "Halleluya",
       "url": "https://open.spotify.com/track/1eiSkx4vQiHJ2tzMDDjL01"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
-        "name": "Immune",
-        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 210165,
-      "name": "Immune",
-      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
+        "name": "Wild Animals",
+        "url": "https://open.spotify.com/album/1DcI1ob0G4cNKIyFhrR35S"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 314213,
+      "name": "Winners",
+      "url": "https://open.spotify.com/track/24iNTcDw03qMYCS3mJaq5f"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
         "name": "All the Beds I've Made (Acoustic)",
         "url": "https://open.spotify.com/album/3WAsH27vQcwla1TNOYFEua"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 205625,
       "name": "Roll",
       "url": "https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
-        "name": "Wild Animals",
-        "url": "https://open.spotify.com/album/1DcI1ob0G4cNKIyFhrR35S"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 314213,
-      "name": "Winners",
-      "url": "https://open.spotify.com/track/24iNTcDw03qMYCS3mJaq5f"
     },
     {
       "added_at": "2025-06-26 15:53:58",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-06-26 15:53:58",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 207048,
-      "name": "Lover / / Over the Moon",
-      "url": "https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44"
-    },
-    {
-      "added_at": "2025-06-26 15:53:58",
-      "album": {
         "name": "Here Goes Nothing!",
         "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 194160,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/1RPmeICY33v1lLiq6Gqj1r"
+    },
+    {
+      "added_at": "2025-06-26 15:53:58",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 207048,
+      "name": "Lover / / Over the Moon",
+      "url": "https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44"
     },
     {
       "added_at": "2025-06-26 15:53:58",

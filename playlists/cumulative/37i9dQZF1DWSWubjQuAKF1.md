@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Yulia
 
-725 songs - 1 day 11 hr 22 min
+726 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Mów do Mnie](https://open.spotify.com/track/2SSzVxGRaNdP86juW7aEJ3) | [OG KAMKA](https://open.spotify.com/artist/4PWPZvjcjwtAh07gTsNPTb), [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Mów do Mnie](https://open.spotify.com/album/6OayOjwX7kDU1ZhDAEJEIJ) | 2:38 | 2025-12-18 | 2026-02-06 |
 | [Mów mi tak](https://open.spotify.com/track/2cZTeWBBqX1hjVquW7Vxio) | [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [Mów mi tak](https://open.spotify.com/album/5sKcjO9l9MrrNtwXkx3zJu) | 2:37 | 2025-09-30 | 2025-12-08 |
 | [Na chwilę](https://open.spotify.com/track/2cqTnKnKnYKeS91hpSI2d4) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Na chwilę](https://open.spotify.com/album/2GaFjPRnUXkjFSVfKDy3uI) | 2:30 | 2025-07-17 | 2025-09-17 |
+| [na co dzień](https://open.spotify.com/track/5qor65BgeuIR6sSM7iLJjd) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [na co dzień](https://open.spotify.com/album/6K6x1JsWkKo3zaB98EshK3) | 2:36 | 2026-02-05 |  |
 | [Na części pierwsze](https://open.spotify.com/track/3B63eSVNQC2AOYjWR5vWwV) | [Mateusz Gędek](https://open.spotify.com/artist/1cfpfsSRiNBDnteA7s1hQD) | [PO FAKCIE](https://open.spotify.com/album/4JecW1pAXfshamrTxIvlv6) | 3:06 | 2025-05-08 | 2025-09-17 |
 | [Na dno](https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Na dno](https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs) | 3:40 | 2025-08-26 |  |
 | [Na głęboką wodę](https://open.spotify.com/track/489E6avDN1rhZfs65W4iW9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:34 | 2024-08-22 | 2025-01-24 |
@@ -584,7 +585,7 @@
 | [szczęście](https://open.spotify.com/track/5GAEmJzxcoKZTJgFU8Yeem) | [shama](https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI) | [loki](https://open.spotify.com/album/7JwSGQN2SSTvzr36iZQpK4) | 2:53 | 2025-06-05 | 2025-06-23 |
 | [szczęście](https://open.spotify.com/track/6PS4lie3LKue3O6qKolntj) | [zimny gulasz](https://open.spotify.com/artist/2Wuh8XkH0Z4eDztmZdMXT9), [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl) | [szczęście](https://open.spotify.com/album/6MF1Fy27vAuQfit5jpflJe) | 2:45 | 2024-09-19 | 2024-11-08 |
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-06-28 | 2024-10-26 |
-| [szept \(czy czujesz to samo co ja?\)](https://open.spotify.com/track/5QhYbChJjXrghDC27SKq5Z) | [noffkoffska](https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt) | [szept \(czy czujesz to samo co ja?\)](https://open.spotify.com/album/3RcOv7x1WcBvlrip58kEKF) | 1:49 | 2026-01-30 |  |
+| [szept \(czy czujesz to samo co ja?\)](https://open.spotify.com/track/5QhYbChJjXrghDC27SKq5Z) | [noffkoffska](https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt) | [szept \(czy czujesz to samo co ja?\)](https://open.spotify.com/album/3RcOv7x1WcBvlrip58kEKF) | 1:49 | 2026-01-30 | 2026-02-11 |
 | [szklane słowa](https://open.spotify.com/track/5iSxwQxs4cQ6XOUhCUrhRk) | [nezz](https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5) | [szklane słowa](https://open.spotify.com/album/4jtsC63Y9ExVEszBljphUD) | 2:41 | 2025-07-31 | 2025-10-08 |
 | [Sznurówki](https://open.spotify.com/track/6uvauiQGYGVkcC8E5IQRWR) | [Leo Natan](https://open.spotify.com/artist/53y2orCJp8NRmbw1V0FGTo) | [Sznurówki](https://open.spotify.com/album/2Pg3iONs9qmM365Vw9qqsn) | 1:37 | 2025-03-06 | 2025-03-14 |
 | [Sztorm](https://open.spotify.com/track/6MLoaND0PUNQD2itqN87LQ) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Sztorm](https://open.spotify.com/album/6ibXEXjfR42Zj3zX7boe8o) | 3:37 | 2024-06-28 | 2024-07-19 |

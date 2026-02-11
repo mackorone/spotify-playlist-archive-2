@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,983 songs - 4 day 12 hr 36 min
+1,984 songs - 4 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 | 2024-11-12 |  |
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-05-03 | 2021-05-09 |
 | [DrunKen Confession](https://open.spotify.com/track/0hqngwyh8WnPuYlLYHRQqp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [DrunKen Confession](https://open.spotify.com/album/0IwBuSyXreDfgarE0TaAix) | 3:47 | 2022-01-19 | 2022-06-01 |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2026-02-10 |  |
 | [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 | 2025-12-20 | 2026-02-03 |
 | [DUMB DUMB](https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 2:27 | 2021-10-31 | 2021-11-22 |
 | [DUMB DUMB](https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b) | 2:29 | 2021-08-04 | 2021-10-31 |
@@ -1110,7 +1111,7 @@
 | [Me do i](https://open.spotify.com/track/3seYQZjm06TKo0l7hpmENo) | [hunnie gz](https://open.spotify.com/artist/4nRAm0xtbH0D1dW7BRW1DZ) | [Me do i](https://open.spotify.com/album/1SaPWdxYcIqBec1uYEPJs6) | 3:20 | 2025-02-26 | 2025-03-02 |
 | [Meeting is easy, parting is hard \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev) | [Basick](https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:51 | 2021-11-22 | 2022-03-21 |
 | [MELODY](https://open.spotify.com/track/6JeleVHUHrdvgiFESE33ZU) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:00 | 2021-03-27\* | 2022-01-17 |
-| [Melody for You](https://open.spotify.com/track/7hYI4QprQ3hMqp56ul6uEv) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO 2](https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O) | 3:56 | 2025-09-01 |  |
+| [Melody for You](https://open.spotify.com/track/7hYI4QprQ3hMqp56ul6uEv) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO 2](https://open.spotify.com/album/19z4SOpETLOt3bKKcJJ84O) | 3:56 | 2025-09-01 | 2026-02-11 |
 | [Melt Away](https://open.spotify.com/track/2cZtazNq0IRRFymK7UaRa0) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 3:16 | 2023-11-29 | 2023-12-01 |
 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-03 | 2024-11-14 |
 | [Melt Inside My Pocket](https://open.spotify.com/track/1iHLurrRAWHisZAmzp9Uio) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [poppop \- The 2nd Mini Album](https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y) | 3:11 | 2025-04-15 | 2025-04-20 |

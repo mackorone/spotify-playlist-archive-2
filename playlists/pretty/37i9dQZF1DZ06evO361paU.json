@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 292534,
+  "num_followers": 292582,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAANOpmd0mmjtyBL4bjmcdD4",
+  "snapshot_id": "aYkjgAAAAAAOERRvjWLoljA5zJEyitk+",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Heaven Help",
-      "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 264560,
       "name": "American Woman",
       "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Heaven Help",
+      "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Is Time For A Love Revolution",
-        "url": "https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 309746,
-      "name": "Dancin' Til Dawn",
-      "url": "https://open.spotify.com/track/0J5xhsP8FsUCH5W6ZQLJJr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 384133,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Is Time For A Love Revolution",
+        "url": "https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 309746,
+      "name": "Dancin' Til Dawn",
+      "url": "https://open.spotify.com/track/0J5xhsP8FsUCH5W6ZQLJJr"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Is Time For A Love Revolution",
-        "url": "https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 259186,
-      "name": "I'll Be Waiting",
-      "url": "https://open.spotify.com/track/521r1faH9BQlyPVR5pMmXm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 317026,
       "name": "If You Can't Say No",
       "url": "https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Is Time For A Love Revolution",
+        "url": "https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 259186,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/521r1faH9BQlyPVR5pMmXm"
     },
     {
       "added_at": null,
@@ -459,38 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 474853,
-      "name": "It's Enough",
-      "url": "https://open.spotify.com/track/0vQ5L7OZlAqyTupWIIi1IG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Love Rule",
-        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Let Love Rule",
-      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superlove",
         "url": "https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s"
       },
@@ -511,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama Said (Deluxe)",
-        "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
       },
       "artists": [
         {
@@ -520,9 +488,25 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 289880,
-      "name": "What Goes Around Comes Around - 2012 Remaster/Explicit",
-      "url": "https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg"
+      "duration_ms": 342160,
+      "name": "Let Love Rule",
+      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 474853,
+      "name": "It's Enough",
+      "url": "https://open.spotify.com/track/0vQ5L7OZlAqyTupWIIi1IG"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
       "duration_ms": 217533,
       "name": "Dig In",
       "url": "https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mama Said (Deluxe)",
+        "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 289880,
+      "name": "What Goes Around Comes Around - 2012 Remaster/Explicit",
+      "url": "https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black and White America",
         "url": "https://open.spotify.com/album/6LNHjMWCREImapsd1poDNg"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 208626,
       "name": "Superlove",
       "url": "https://open.spotify.com/track/4fdpN3bXYQcPrBbFWSD6K3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
     },
     {
       "added_at": null,

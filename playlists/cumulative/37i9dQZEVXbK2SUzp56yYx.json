@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 189970,
       "name": "Beast (feat. Waka Flocka)",
       "url": "https://open.spotify.com/track/3mMjFf10PfJyvHHTyQYYdj"
@@ -4602,7 +4602,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 160645,
       "name": "Cry For Me WA WA WA",
       "url": "https://open.spotify.com/track/30C4LSxZHCWNtUjnZUxEoJ"
@@ -7232,7 +7232,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
@@ -12611,6 +12611,24 @@
     },
     {
       "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Last of a Dying Breed",
+      "url": "https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q"
+    },
+    {
+      "album": {
         "name": "Tupesni",
         "url": "https://open.spotify.com/album/35oESThyRQOfg202Ofjgau"
       },
@@ -13468,7 +13486,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 201186,
       "name": "LOVE YOU LESS",
       "url": "https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db"
@@ -17415,6 +17433,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "album": {
         "name": "NUNCA MUDA?",
         "url": "https://open.spotify.com/album/6JN8NKdUyRGqT2xc4qhIQ2"
       },
@@ -17792,6 +17828,28 @@
       "duration_ms": 249000,
       "name": "Open Air",
       "url": "https://open.spotify.com/track/4JJWWvgYXg25vqDYeBAHsr"
+    },
+    {
+      "album": {
+        "name": "Opening Night",
+        "url": "https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259495,
+      "name": "Opening Night",
+      "url": "https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB"
     },
     {
       "album": {
@@ -19214,7 +19272,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 128659,
       "name": "Queen St",
       "url": "https://open.spotify.com/track/6o86CKQQc85ql8pMHrvJpo"
@@ -23972,7 +24030,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 106778,
       "name": "truth yandere^^ - super slowed",
       "url": "https://open.spotify.com/track/6YWn1w1lu72zgNg8TdIbGw"
@@ -26266,6 +26324,28 @@
       "duration_ms": 188010,
       "name": "WOKE UP",
       "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
+    },
+    {
+      "album": {
+        "name": "RUSSIAN TRAP HOUSE",
+        "url": "https://open.spotify.com/album/2gY3W1wFRxowT84yBLwUyc"
+      },
+      "artists": [
+        {
+          "name": "GORILLA GLUE",
+          "url": "https://open.spotify.com/artist/1vk1odXkWc2foJgDJenUdi"
+        },
+        {
+          "name": "LIL NAKUR",
+          "url": "https://open.spotify.com/artist/5GCoRCwj5rDIPDW8hx7Wtf"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148006,
+      "name": "WOOPAAA",
+      "url": "https://open.spotify.com/track/4wtd8ekJ0ntQADpwLaPOgy"
     },
     {
       "album": {
@@ -29486,7 +29566,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 162000,
       "name": "\u0412\u043e\u0440\u043e\u043d\u0430",
       "url": "https://open.spotify.com/track/5nqHvvaHypTf4Tbxy19wjb"
@@ -35858,7 +35938,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 284986,
       "name": "\u041d\u0435\u0431\u044f\u0441\u043f\u0435\u0447\u043d\u0430",
       "url": "https://open.spotify.com/track/7lgsz4RaWEgDuN9mK04xhL"
@@ -38140,6 +38220,24 @@
       "duration_ms": 208809,
       "name": "\u041f\u043e \u043a\u0430\u043c\u0443\u0448\u043a\u0443",
       "url": "https://open.spotify.com/track/6nsjyj5SkDJsi5euoMEeLq"
+    },
+    {
+      "album": {
+        "name": "\u041f\u043e \u0440\u043e\u0436\u0435",
+        "url": "https://open.spotify.com/album/0D3D4UlUxMMqDF38AbDKjt"
+      },
+      "artists": [
+        {
+          "name": "\u0420\u0423\u0421\u041b\u0410\u041d",
+          "url": "https://open.spotify.com/artist/7nqXoP8shjybxqDSzcx3lj"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201473,
+      "name": "\u041f\u043e \u0440\u043e\u0436\u0435",
+      "url": "https://open.spotify.com/track/1L7NjIAkg6mKwVAeYjpN5w"
     },
     {
       "album": {
@@ -45292,7 +45390,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 158320,
       "name": "\u042f\u0440\u043c\u0430\u0440\u043a\u0430 \u0441\u0443\u0434\u0435\u0431",
       "url": "https://open.spotify.com/track/3cxvj78jYNTRF9pzSgrGdg"

@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: RAMMA & Cindy Cats",
-  "num_followers": 168820,
+  "num_followers": 168841,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "ramma + Cindy Cats - Spotify Sessions",
+        "name": "Ramma + Cindy Cats - Spotify Sessions",
         "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
       },
       "artists": [
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "Me Quedo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Verte De Cerca",
         "url": "https://open.spotify.com/album/3R4rjFVmhme3gYwdRXTaSD"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 183500,
       "name": "Verte De Cerca",
       "url": "https://open.spotify.com/track/1lBtesQvkn4IC5RSl8oTaE"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "Me Quedo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -535,18 +535,18 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 269011,
-      "name": "Fuiste lo mejor",
-      "url": "https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk"
+      "duration_ms": 233868,
+      "name": "Va a Ser Dif\u00edcil Olvidar",
+      "url": "https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -563,6 +563,22 @@
       "duration_ms": 295773,
       "name": "Cuando Est\u00e9s Ac\u00e1",
       "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 269011,
+      "name": "Fuiste lo mejor",
+      "url": "https://open.spotify.com/track/0pvHj0RHMGZ7JBOYh7Kmsk"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -643,38 +659,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233868,
-      "name": "Va a Ser Dif\u00edcil Olvidar",
-      "url": "https://open.spotify.com/track/0Nylt3biQgd30wwgGqFCPm"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
-        "name": "Karmagedon",
-        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 328746,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Pasos Al Costado",
         "url": "https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 240703,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Karmagedon",
+        "url": "https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 328746,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
+        "name": "Airbag - En Vivo Estadio V\u00e9lez",
+        "url": "https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 303857,
+      "name": "Por Mil Noches - En Vivo",
+      "url": "https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
         "name": "Fulanos de Nadie",
         "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "PARADISO",
-        "url": "https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 229206,
-      "name": "No Entiendo Si Es Amor",
-      "url": "https://open.spotify.com/track/7wAkMxOFYWDhIfisoNJiUy"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Ac\u00fastico Gran Rex",
         "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
       },
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Airbag - En Vivo Estadio V\u00e9lez",
-        "url": "https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP"
+        "name": "PARADISO",
+        "url": "https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 303857,
-      "name": "Por Mil Noches - En Vivo",
-      "url": "https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320"
+      "duration_ms": 229206,
+      "name": "No Entiendo Si Es Amor",
+      "url": "https://open.spotify.com/track/7wAkMxOFYWDhIfisoNJiUy"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
+        "name": "Los Dos",
+        "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "Los Dos",
+      "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
         "name": "La Paciencia De La Ara\u00f1a",
         "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 279684,
       "name": "Hay Momentos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
-        "name": "Los Dos",
-        "url": "https://open.spotify.com/album/0Ws2WWNt8G4V9O61K6eZSK"
-      },
-      "artists": [
-        {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "Los Dos",
-      "url": "https://open.spotify.com/track/39m0KJWhZUojRFi9k1m21E"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Nada Es Igual",
-      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Portal Sessions - Dillom y Santiago Motorizado",
         "url": "https://open.spotify.com/album/6p7BVraR1uyGLMbTiLay74"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 330843,
       "name": "La Noche Eterna (Portal Sessions)",
       "url": "https://open.spotify.com/track/1NSgsMDyyRWVUMcfDRerEg"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+      },
+      "artists": [
+        {
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Fulanos de Nadie",
-        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 320946,
-      "name": "Otro Jueves Cobarde",
-      "url": "https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 286240,
       "name": "Como un Cuento",
       "url": "https://open.spotify.com/track/3EissuXjQZQrjpHh8gRCG1"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
+        "name": "Fulanos de Nadie",
+        "url": "https://open.spotify.com/album/5C5gMVVl97LxjXpbZEHYKB"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 320946,
+      "name": "Otro Jueves Cobarde",
+      "url": "https://open.spotify.com/track/09T8jYEV0b1z6tqghjTBZO"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 156738,
+      "name": "Nena, dime algo.",
+      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/3OWrrEeotMJYHiJKh3w3DJ"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 215314,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0eiWOf3mNBSBEC5GmtqahL"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 156738,
-      "name": "Nena, dime algo.",
-      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
-        "name": "Lo Que Perd\u00ed",
-        "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
+        "name": "Xtrapolar",
+        "url": "https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h"
       },
       "artists": [
         {
-          "name": "Santiago Motorizado",
-          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 223096,
-      "name": "Lo Que Perd\u00ed",
-      "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
+      "duration_ms": 183592,
+      "name": "X siempre",
+      "url": "https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB"
     },
     {
       "added_at": "2026-02-04 16:00:36",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-02-04 16:00:36",
       "album": {
+        "name": "Lo Que Perd\u00ed",
+        "url": "https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6"
+      },
+      "artists": [
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        }
+      ],
+      "duration_ms": 223096,
+      "name": "Lo Que Perd\u00ed",
+      "url": "https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8"
+    },
+    {
+      "added_at": "2026-02-04 16:00:36",
+      "album": {
         "name": "Certezas de Cart\u00f3n",
         "url": "https://open.spotify.com/album/5kk0daz9sCZkz1JhBf5HMv"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 218499,
       "name": "Certezas de Cart\u00f3n",
       "url": "https://open.spotify.com/track/45o23zDBtuerhrwMGwUrt0"
-    },
-    {
-      "added_at": "2026-02-04 16:00:36",
-      "album": {
-        "name": "Xtrapolar",
-        "url": "https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 183592,
-      "name": "X siempre",
-      "url": "https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB"
     },
     {
       "added_at": "2026-02-04 16:00:36",

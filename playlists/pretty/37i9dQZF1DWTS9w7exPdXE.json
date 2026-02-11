@@ -1,6 +1,6 @@
 {
   "description": "Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands \ud83d\udd25",
-  "num_followers": 156974,
+  "num_followers": 157004,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
-        "name": "Gina",
-        "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
+        "name": "Hoe Kan Ik Je Hart Bereiken",
+        "url": "https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6"
       },
       "artists": [
         {
-          "name": "Robert Pater",
-          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+          "name": "Diego Holzken",
+          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
         }
       ],
-      "duration_ms": 218890,
-      "name": "Gina",
-      "url": "https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs"
+      "duration_ms": 190946,
+      "name": "Hoe Kan Ik Je Hart Bereiken",
+      "url": "https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc"
     },
     {
       "added_at": "2026-01-27 09:00:33",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
-        "name": "Hoe Kan Ik Je Hart Bereiken",
-        "url": "https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6"
+        "name": "Gina",
+        "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
       },
       "artists": [
         {
-          "name": "Diego Holzken",
-          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+          "name": "Robert Pater",
+          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
         }
       ],
-      "duration_ms": 190946,
-      "name": "Hoe Kan Ik Je Hart Bereiken",
-      "url": "https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc"
+      "duration_ms": 218890,
+      "name": "Gina",
+      "url": "https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs"
     },
     {
       "added_at": "2026-01-27 09:00:33",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2026-01-27 09:00:33",
       "album": {
+        "name": "Kleine Jongen",
+        "url": "https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Kleine Jongen",
+      "url": "https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC"
+    },
+    {
+      "added_at": "2026-01-27 09:00:33",
+      "album": {
         "name": "Lekker Lekker",
         "url": "https://open.spotify.com/album/67AJLUypcS4R7DqtZXxdG1"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 172880,
       "name": "Dromendans",
       "url": "https://open.spotify.com/track/7tqusWyIHeTmj5Zau5CYqj"
-    },
-    {
-      "added_at": "2026-01-27 09:00:33",
-      "album": {
-        "name": "Kleine Jongen",
-        "url": "https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Kleine Jongen",
-      "url": "https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC"
     }
   ],
   "unique_name": "Hollandse Meezingers",

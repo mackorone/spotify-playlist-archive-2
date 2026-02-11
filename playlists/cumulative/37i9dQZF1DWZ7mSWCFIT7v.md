@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-550 songs - 1 day 20 hr 5 min
+551 songs - 1 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [La Luna me Dijo Esto Detrás del Puente](https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf) | [Boundary](https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS) | [Oxido En El Espejo](https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84) | 4:43 | 2024-07-02 | 2025-09-06 |
 | [LADDE](https://open.spotify.com/track/1uescVu7fcevtmnW9vps7A) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [ADDLE](https://open.spotify.com/album/1xD85z87BbTL8jtOEHPCK5) | 4:04 | 2023-01-02 | 2025-06-14 |
 | [Las Tres Hermanas](https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Las Tres Hermanas](https://open.spotify.com/album/7HJ6ekJSoJP6utcPh1HmK9) | 3:49 | 2022-09-27 | 2023-03-19 |
+| [Lava](https://open.spotify.com/track/3ybRuAVWEFuldEo4CwXEKd) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ) | [Lava](https://open.spotify.com/album/0MmRSOYKhY5LIseTl3SKLH) | 4:38 | 2026-02-10 |  |
 | [lavender's love](https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [lavender's love](https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo) | 2:40 | 2022-04-12 | 2023-04-01 |
 | [lie to me](https://open.spotify.com/track/0FN6QlrTsiNuLlkTATsp7D) | [Isla Den](https://open.spotify.com/artist/2kF8VjhAZ6auoV6JTzIhDJ), [DJ Semitone](https://open.spotify.com/artist/3qU17Pyu0EpcxcAmqLaB1L) | [iDM](https://open.spotify.com/album/2LlWRheXshUTU4mSH1YjSr) | 2:33 | 2026-01-30 |  |
 | [Lie2Me](https://open.spotify.com/track/2nRvX4Aml3TyyX821t3MnX) | [Lowbrain](https://open.spotify.com/artist/3GPYxTFTrtFQPS8MzJVhek), [Solsta](https://open.spotify.com/artist/1NCH7h2KWh82zxiriFUh3A) | [Lie2Me](https://open.spotify.com/album/0sIzRIOp0r4QzNpx4MH0EX) | 2:54 | 2025-06-06 | 2025-10-18 |
@@ -400,7 +401,7 @@
 | [Seca](https://open.spotify.com/track/1ZEzXlxCAHHdooAXNyeecB) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [No era sólida](https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u) | 2:18 | 2021-10-06 | 2024-04-19 |
 | [Seca](https://open.spotify.com/track/4URZmx8vA3tRRb0FFkbMHJ) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [No era sólida](https://open.spotify.com/album/4geSagGdLzudTyR6SW2mTo) | 2:18 | 2021-10-06 | 2025-07-17 |
 | [Second Love](https://open.spotify.com/track/0jaYsfrSaAGb4d81qE5APl) | [Isa Gordon](https://open.spotify.com/artist/2dA8VFOWjWex4ypqqepKwH) | [For You Only](https://open.spotify.com/album/5xpcLzvU7tdIkDkRwrTEJr) | 3:02 | 2022-08-03 | 2025-06-14 |
-| [SECTOR RUSH](https://open.spotify.com/track/3ievbchWTPXUS6J73YOK6F) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [SECTOR RUSH](https://open.spotify.com/album/7E5BWYoYbF01XxznbRr4ox) | 6:10 | 2025-10-24 |  |
+| [SECTOR RUSH](https://open.spotify.com/track/3ievbchWTPXUS6J73YOK6F) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [SECTOR RUSH](https://open.spotify.com/album/7E5BWYoYbF01XxznbRr4ox) | 6:10 | 2025-10-24 | 2026-02-11 |
 | [Seele III](https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc) | [Doreem](https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi) | [Seelen](https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3) | 4:35 | 2021-10-06 | 2025-07-17 |
 | [Seize](https://open.spotify.com/track/47wrcnRcVBcMhnlWs7h7km) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Seize](https://open.spotify.com/album/2UYwsc4MZ7ZjMxQxoWBEiv) | 4:45 | 2025-04-25 | 2025-11-08 |
 | [Selvas De Ewaipanomas](https://open.spotify.com/track/5OhqhMt96PNX9wNczhhGg1) | [Molero](https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ) | [Ficciones Del Trópico](https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV) | 6:00 | 2021-10-06 | 2025-07-17 |

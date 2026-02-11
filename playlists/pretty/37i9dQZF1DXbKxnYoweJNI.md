@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味廠牌出身，創作就是音樂自主，唱作表現清清楚楚！Cover: 陳昇 \(Bobby Chen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,015 likes - 120 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,011 likes - 120 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

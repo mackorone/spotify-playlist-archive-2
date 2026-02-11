@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-475 songs - 1 day 1 hr 44 min
+476 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2024-03-27 | 2025-04-06 |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-20 |  |
 | [Blossom Rain \(Feat\. NavyQuokka\)](https://open.spotify.com/track/3TSMeEDXeTfblDBHUyMffm) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Blossom Rain](https://open.spotify.com/album/6UG9ekyQC2vumMh3oMoKal) | 2:53 | 2023-04-26 | 2023-05-24 |
-| [Blue](https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [DxS 1st Mini Album 'Serenade'](https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7) | 3:29 | 2026-01-22 |  |
+| [Blue](https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X) | [DxS](https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V) | [DxS 1st Mini Album 'Serenade'](https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7) | 3:29 | 2026-01-22 | 2026-02-11 |
 | [BOBBIN](https://open.spotify.com/track/14JS85dA20uiGU5XGAWtif) | [BLITZERS](https://open.spotify.com/artist/3Exoh42YMeqnUvYahAGgUE) | [BOBBIN](https://open.spotify.com/album/3NqyPRfB9A7ZlU12gkY3fc) | 3:08 | 2022-01-11 | 2022-04-18 |
 | [Boom Boom Bass](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 2:32 | 2024-06-21 | 2025-01-16 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-04-05 |  |
@@ -147,6 +147,7 @@
 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 | 2025-10-21 |  |
 | [For Some Reason 왠지 그냥](https://open.spotify.com/track/4b4pXJlphTv6xkOAhnSCgY) | [DANWU](https://open.spotify.com/artist/3hqxXifdUAzAQIKdKqda6t), [KIMEUNJI 김은지](https://open.spotify.com/artist/04gKJbZ1iABO8Azq4C9aAt) | [For Some Reason 왠지 그냥](https://open.spotify.com/album/1zlxiFx9csY1rp7of7RIiV) | 3:58 | 2022-03-23 | 2022-03-31 |
 | [For You](https://open.spotify.com/track/5VMFjdoJquu5BH6Ti3GYSZ) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [For You](https://open.spotify.com/album/2eR6McDzZsDA7K7DWibT6k) | 4:04 | 2022-03-23 | 2022-05-28 |
+| [FREAK ALARM](https://open.spotify.com/track/44V5j1NOwRWBV8krmLnr4J) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [EUPHORIA](https://open.spotify.com/album/5nefAD1EsXbLksNfBJorPV) | 3:08 | 2026-02-06 |  |
 | [Free](https://open.spotify.com/track/44QDTpkTR3eLLfXEKTjyul) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X) | [Twenty\-Five Twenty\-One OST Part 8](https://open.spotify.com/album/5TAaxv56fHpUoRZOyOppbl) | 3:46 | 2022-03-23 | 2022-07-13 |
 | [Friend](https://open.spotify.com/track/5Ok0AYLymugVEB200ioKFN) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Friend](https://open.spotify.com/album/3VhPvsUFEkpIZYKD9PZMvD) | 3:39 | 2022-03-23 | 2022-04-18 |
 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 | 2021-12-06 | 2023-04-27 |

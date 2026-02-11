@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Tedeschi Trucks Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,116 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,189 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 7 | [Honky Tonk Hell](https://open.spotify.com/track/1Z2ZQbixCYNl8bKywACXRO) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Honky Tonk Hell](https://open.spotify.com/album/4TWWDRkvu8VIgt6nb2TbK3) | 3:15 |
 | 8 | [I Guess I’ll Get The Papers And Go Home](https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0) | [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G), [Mister Romantic](https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0) | [What's Not To Love?](https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2) | 3:19 |
 | 9 | [Twist Your Arm](https://open.spotify.com/track/69p1PZzleCCgTMDISqhibX) | [Roll Mega](https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Roll Mega](https://open.spotify.com/album/1LliP2A3k2e090yvBJcE5l) | 4:42 |
-| 10 | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK) | 4:20 |
+| 10 | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/track/7b5SxmrPawO5SX5N18M0bh) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz), [Henry Kapono](https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Lahaina \(feat\. Mick Fleetwood, Jake Shimabukuro & Henry Kapono\)](https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK) | 4:17 |
 | 11 | [Let the Music Get Down in Your Soul](https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Let the Music Get Down in Your Soul](https://open.spotify.com/album/1rozu7rLvTKozl701ahTly) | 3:24 |
 | 12 | [My Own Disguise](https://open.spotify.com/track/0vIbWBOYgO6TTkWe4ZarrH) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Companions](https://open.spotify.com/album/53QsuWFAeqe5ihfdsL8VsN) | 3:45 |
 | 13 | [Back Where I Started](https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Million Voices Whisper \(Deluxe Edition\)](https://open.spotify.com/album/7Aqt7Vf9BtFCHEaJLpMA1T) | 4:21 |

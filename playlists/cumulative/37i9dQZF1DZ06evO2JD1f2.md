@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-161 songs - 7 hr 15 min
+162 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [ROTTEN \(feat\. EST Gee\)](https://open.spotify.com/track/15jg4vt123axobdGleLugn) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 3:10 | 2022-10-28 |  |
 | [Route 66 \(feat\. EST Gee\)](https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:33 | 2022-10-28 |  |
 | [Scarface \(feat\. EST Gee\)](https://open.spotify.com/track/59JNRew95Gmn4wSfqdf1kR) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [SNOFALL](https://open.spotify.com/album/57KhbRYV5DpUmnn7nnJhbp) | 3:24 | 2022-10-28 |  |
-| [Self Esteem \(featuring EST Gee\)](https://open.spotify.com/track/3EMZ5YFHpmRqN93ccBniJc) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Self Esteem Pack \(Remixes\)](https://open.spotify.com/album/3bQ2Jhz80HCABIcUgByewU) | 3:17 | 2025-11-20 |  |
+| [Self Esteem \(featuring EST Gee\)](https://open.spotify.com/track/3EMZ5YFHpmRqN93ccBniJc) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Self Esteem Pack \(Remixes\)](https://open.spotify.com/album/3bQ2Jhz80HCABIcUgByewU) | 3:17 | 2025-11-20 | 2026-02-11 |
 | [Self Esteem \(featuring EST Gee\)](https://open.spotify.com/track/3Ii7QxjlXsOOb2Usrfrspp) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Self Esteem \(featuring EST Gee\)](https://open.spotify.com/album/7a40mtofAp39yICF1FIOqF) | 3:17 | 2022-11-28 | 2023-02-13 |
 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:07 | 2022-10-28 |  |
 | [Shoot Sumn](https://open.spotify.com/track/6qPTbhvtFkNAjIuiSbnATq) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Shoot Sumn](https://open.spotify.com/album/6dkW3ATHGcB7QbcSC8kBA6) | 2:39 | 2025-01-08 | 2025-02-28 |
@@ -166,6 +166,7 @@
 | [US](https://open.spotify.com/track/3mvFjK0yCPMupea0v9MzmT) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:03 | 2023-03-19 | 2023-05-01 |
 | [Water Zips \(feat\. Kevin Gates\)](https://open.spotify.com/track/3ckPCrtxs4XEiQ4YFvdirx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 3:02 | 2025-07-12 | 2025-12-19 |
 | [What Im On Now v1 oct15](https://open.spotify.com/track/0wAiy4PRzYJiytL3kYrzhG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [My World](https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX) | 3:43 | 2025-06-16 | 2025-08-13 |
+| [WOULDN'T HOLD YOU UP](https://open.spotify.com/track/2y526hGkXuetJy3duEqIRq) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [WOULDN'T HOLD YOU UP](https://open.spotify.com/album/20G2sl0k5dMI6yDnyqWhOq) | 1:34 | 2026-02-11 |  |
 | [XXL](https://open.spotify.com/track/0JdXWoF5EjmFfDQaUFvaov) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:42 | 2023-08-25 | 2024-01-28 |
 | [YOU HEAR ME THO](https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [YOU HEAR ME THO](https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di) | 2:21 | 2026-01-19 |  |
 | [Young Shiners](https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:35 | 2025-08-24 |  |

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [13 Voices](https://open.spotify.com/track/6StRdUhg9Fdu5X4shUZBeY) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 4:32 | 2022-09-21 | 2025-09-09 |
+| [13 Voices](https://open.spotify.com/track/6StRdUhg9Fdu5X4shUZBeY) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 4:32 | 2022-09-21 |  |
 | [45 \(A Matter Of Time\)](https://open.spotify.com/track/5oOphgtp0ZhMfYz3HpnMyU) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:12 | 2022-09-29 | 2025-08-07 |
 | [88](https://open.spotify.com/track/3IHyZQILPYl3cgFEu1TJSJ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 4:39 | 2022-09-16 | 2022-10-13 |
 | [A Death In The Family](https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:18 | 2022-09-30 |  |
@@ -60,7 +60,7 @@
 | [Screaming Bloody Murder](https://open.spotify.com/track/1zqAXXA12UEVS7iDmAVeay) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:24 | 2022-09-16 |  |
 | [Shooting Star \(feat\. Sum 41\)](https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Last Day On Earth](https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1) | 2:18 | 2022-09-16 |  |
 | [Skumf\*k](https://open.spotify.com/track/0SQWxG33k9aRva3V3V9b66) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:24 | 2023-02-01 |  |
-| [Sleep Now In The Fire \- Spotify Singles](https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Spotify Singles](https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6) | 3:20 | 2025-03-31 |  |
+| [Sleep Now In The Fire \- Spotify Singles](https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Spotify Singles](https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6) | 3:20 | 2025-03-31 | 2026-02-11 |
 | [So Long Goodbye](https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:01 | 2022-09-16 |  |
 | [Some Say](https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:25 | 2022-09-16 |  |
 | [Speak Of The Devil](https://open.spotify.com/track/3zdg1IMqKog1YNRpTjKDOB) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:58 | 2022-10-12 |  |

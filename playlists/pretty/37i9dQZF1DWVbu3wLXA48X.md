@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover:  	<br/>Broken Social Scene
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,946 likes - 99 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,953 likes - 99 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

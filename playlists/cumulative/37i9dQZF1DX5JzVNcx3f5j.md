@@ -4,7 +4,7 @@
 
 > Music from "Gintama" Series ! ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-88 songs - 4 hr 53 min
+89 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [桃源郷エイリアン](https://open.spotify.com/track/7MSm5RsrwgYARtoXhfcJxM) | [serial TV drama](https://open.spotify.com/artist/1vh9QMUXYSEeZrEHT22PF3) | [桃源郷エイリアン](https://open.spotify.com/album/4RIK5HY9P7ybpmJiSWqNWj) | 5:07 | 2023-04-27 |  |
 | [決闘前には用を足せ](https://open.spotify.com/track/6d08nmXJ7XOb0GxfNWhdI3) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ３](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 2:16 | 2023-04-27 |  |
 | [流れ作業でテイクオフ](https://open.spotify.com/track/5AGaGaEPQgcRPVveILOILo) | [かぶき町合唱団](https://open.spotify.com/artist/2vH4NTsdlhn5DNP3KACyvN) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 1:44 | 2023-04-27 | 2024-08-20 |
+| [燦然 \- Sanzen](https://open.spotify.com/track/1yn3Io5ULS4jLPSNvgZTpH) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [燦然 / 生きがい](https://open.spotify.com/album/5PTVBumincWhvUzUJiTwRY) | 5:07 | 2026-02-10 |  |
 | [現状ディストラクション](https://open.spotify.com/track/462keQ2Wy97KlyxQgkZtvP) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [現状ディストラクション](https://open.spotify.com/album/2AGQq7BbAdfkHgnmkIMbNc) | 3:37 | 2023-04-27 |  |
 | [真選組の道](https://open.spotify.com/track/5BwgiyAc1BkVNax6pkTJn8) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂 オリジナル・サウンドトラック 5](https://open.spotify.com/album/4onY2AucPIIiAKNOYbtHTU) | 1:52 | 2023-04-27 | 2024-08-20 |
 | [私と仕事どっちが大事なのとかいう女にはジャーマンスープレックス](https://open.spotify.com/track/7mzSpIlzSf7dLCEZe2lz0U) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ３](https://open.spotify.com/album/0kTF9Awp1BgTuenqs5xh38) | 2:45 | 2023-04-27 |  |

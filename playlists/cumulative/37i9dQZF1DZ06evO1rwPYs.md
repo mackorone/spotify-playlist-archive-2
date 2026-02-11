@@ -4,10 +4,11 @@
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-153 songs - 9 hr 47 min
+154 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Amores De Un Día](https://open.spotify.com/track/3TbQtyfyQlj6hocCR4ulh9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Azúcar Negra](https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt) | 3:50 | 2026-02-11 |  |
 | [Aquarius / Let The Sun Shine In](https://open.spotify.com/track/2w88WBqzi6y7lmAW6tcJLL) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Quimbo Quimbumbia](https://open.spotify.com/album/6qOAKmAkf61KzST6YvInsM) | 3:38 | 2022-12-13 | 2023-11-11 |
 | [Aunque Me Cueste La Vida](https://open.spotify.com/track/2gkfXIFTGr48G6TWd6z13r) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:09 | 2021-12-28 | 2025-04-26 |
 | [Ay Mi Cuba](https://open.spotify.com/track/50yx0j0kA2yNBSbtCPdFwK) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa), [Justi Barreto](https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2) | [La Experiencia](https://open.spotify.com/album/533w9sxX4KwwVD0d4ilIef) | 4:56 | 2021-12-28 | 2023-07-09 |
@@ -82,7 +83,7 @@
 | [La Vida Es Un Carnaval](https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 4:38 | 2021-12-28 | 2025-10-14 |
 | [La Vida Es Un Carnaval \- 4F Remix](https://open.spotify.com/track/3lgmzInaFArEPtgHjyuZM7) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [4F Music](https://open.spotify.com/artist/0SmrKFDmVGR8JXzU926kua) | [La Vida Es Un Carnaval \(4F Remix\)](https://open.spotify.com/album/2z7FGkHJ4EfvJphBYogG09) | 3:41 | 2021-12-28 | 2022-10-12 |
 | [La Voz De La Experiencia](https://open.spotify.com/track/6vTT1lYL5ZQxw2NWzrGa9Q) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Para La Eternidad](https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB) | 5:26 | 2022-01-08 | 2022-10-11 |
-| [Las Pilanderas](https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Pilanderas](https://open.spotify.com/album/2kvrc2ZZCGcmjOxgrX44Ma) | 3:19 | 2025-11-17 |  |
+| [Las Pilanderas](https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Pilanderas](https://open.spotify.com/album/2kvrc2ZZCGcmjOxgrX44Ma) | 3:19 | 2025-11-17 | 2026-02-11 |
 | [Latinos En Estados Unidos](https://open.spotify.com/track/6m4RgKTzd05DMgRgTQrruG) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia y Willie](https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS) | 5:55 | 2022-01-16 | 2022-01-22 |
 | [Lo Tuyo Es Mental](https://open.spotify.com/track/3iKC12zY7EJoXuJXDH7E71) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 3:15 | 2023-04-26 | 2024-04-05 |
 | [Lágrimas Negras](https://open.spotify.com/track/7r8oKyCzJFWEZj2QsVxqkr) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Dios Disfrute a la Reina](https://open.spotify.com/album/37WqhadV6rhhlq5nGk0GTW) | 4:40 | 2022-09-27 | 2022-10-14 |

@@ -4,7 +4,7 @@
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Billlie \(빌리\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-524 songs - 1 day 4 hr 33 min
+525 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Between Us Two](https://open.spotify.com/track/1Y1SDO0lOoqQyKdyXshPEy) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [MIRACLE \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1sbxBftngSZNdq9ZM6aV1W) | 3:11 | 2022-06-09 | 2022-07-26 |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-16 |  |
 | [Birthday](https://open.spotify.com/track/2yeUTELaBRpyY0e43F6skB) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Birthday](https://open.spotify.com/album/3sOAX8284RnBctv1fPJ0Cl) | 2:53 | 2021-11-29 | 2022-07-28 |
-| [Bloom](https://open.spotify.com/track/6yyjU86kQpxVW9RMUdgGfv) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [lip bomb](https://open.spotify.com/album/3H7MTJVprjcvlvCeQdRe1H) | 2:56 | 2025-11-25 |  |
+| [Bloom](https://open.spotify.com/track/6yyjU86kQpxVW9RMUdgGfv) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [lip bomb](https://open.spotify.com/album/3H7MTJVprjcvlvCeQdRe1H) | 2:56 | 2025-11-25 | 2026-02-11 |
 | [BLOOM](https://open.spotify.com/track/4bheT1Drc2vyQgN5VTwr8W) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:23 | 2024-03-08 | 2024-05-23 |
 | [BLUSH](https://open.spotify.com/track/0SheD3EFngYkmaDnjDuMd2) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [BLUSH](https://open.spotify.com/album/6wwhS7RzJx0qQS9SOeohZe) | 2:58 | 2024-04-08 | 2024-10-17 |
 | [Boo](https://open.spotify.com/track/6i7mQOXDa23mOJb5TjPqQc) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Growing Up](https://open.spotify.com/album/2xJZSgxlKvcOCR2aLA8Pq2) | 3:23 | 2022-04-04 | 2022-04-10 |
@@ -358,6 +358,7 @@
 | [Rainbow](https://open.spotify.com/track/5eAO1GfoVes9JelndbXfCR) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.2 Narcissus](https://open.spotify.com/album/1Y9ADL4odfgfgO7rwyL3zu) | 3:36 | 2022-03-29 | 2022-04-20 |
 | [Ready Or Not](https://open.spotify.com/track/0Sp0RwhaE0CdJE8ctmXk4U) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Ready Or Not](https://open.spotify.com/album/6uFRDoLaMdhTSDOOp5xW1z) | 3:20 | 2022-03-29 | 2022-04-18 |
 | [REAL YOU](https://open.spotify.com/track/3ax3sc1Rn99YbjyKT0HALS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:07 | 2022-04-04 | 2022-04-21 |
+| [Really Like You](https://open.spotify.com/track/3entdIWiOuQfcXIkJEABsV) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:17 | 2026-02-10 |  |
 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 | 2024-04-08 |  |
 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 | 2021-11-29 |  |
 | [REDSUN](https://open.spotify.com/track/1jJlwj28RdKzfF2r8Zoz3f) | [Conch](https://open.spotify.com/artist/1Wi58TGvGgV38POMcpUOUv) | [REDSUN](https://open.spotify.com/album/1JofVGiNaETwZsFwrmfrBw) | 2:43 | 2022-06-20 | 2022-07-05 |

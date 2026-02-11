@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 
 > Funk to these good ol' funky soul classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304,000 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,304,030 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 55 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing \(Expanded Edition\)](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
 | 56 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
 | 57 | [Think \(About It\)](https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Think \(About It\)](https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE) | 3:24 |
-| 58 | [Hyperbolicsyllablecsesquedalymistic \- Album \- Remaster](https://open.spotify.com/track/4aiJAJ7afdCErvrhJcw3lc) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Hot Buttered Soul \(Deluxe Remaster\)](https://open.spotify.com/album/4dpbUEDibbnNL7QrDQoooU) | 9:34 |
+| 58 | [Hyperbolicsyllabicsesquedalymistic \- Album \- Remaster](https://open.spotify.com/track/4aiJAJ7afdCErvrhJcw3lc) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Hot Buttered Soul \(Deluxe Remaster\)](https://open.spotify.com/album/4dpbUEDibbnNL7QrDQoooU) | 9:34 |
 | 59 | [U Got the Look](https://open.spotify.com/track/2X6okzhnNPSzh9yxDMHHe3) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 3:47 |
 | 60 | [Slide](https://open.spotify.com/track/2du5UEJ0j38dZsbh9uSz7S) | [Slave](https://open.spotify.com/artist/5mtKpqeeaFavW15yIX4h5e), [Jimmy Douglas](https://open.spotify.com/artist/2kLF5OqO9KpxWZl9bPy8hj) | [Slave](https://open.spotify.com/album/6FD0UvvoVyO4KF0KhqFdM1) | 6:50 |
 | 61 | [Holy Ghost](https://open.spotify.com/track/3dgMPpTQJ9Y91TkB072ZN3) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Greatest Hits](https://open.spotify.com/album/7vBTwTT9MZ2JLzY4yahWDS) | 8:12 |

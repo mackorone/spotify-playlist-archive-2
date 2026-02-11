@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 604328,
+  "num_followers": 604298,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Mountain Sound",
-      "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Stay Gold",
         "url": "https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 215493,
       "name": "My Silver Lining",
       "url": "https://open.spotify.com/track/5BkNCuxzzid0gz9sx3NNbX"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Mountain Sound",
+      "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -407,18 +407,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "The Recordings of the Middle East",
-        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
       "artists": [
         {
-          "name": "The Middle East",
-          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 326920,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
+      "duration_ms": 279373,
+      "name": "The Joke",
+      "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -439,18 +439,18 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+        "name": "The Recordings of the Middle East",
+        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "The Middle East",
+          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
         }
       ],
-      "duration_ms": 279373,
-      "name": "The Joke",
-      "url": "https://open.spotify.com/track/18k8IlS52uxRWObykDUZFG"
+      "duration_ms": 326920,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
     },
     {
       "added_at": "2024-08-28 14:08:37",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-28 14:08:37",
       "album": {
-        "name": "Utah",
-        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "California (Cast Iron Soul)",
-      "url": "https://open.spotify.com/track/14A2dKF4O0kQD0E5CCX3Jc"
-    },
-    {
-      "added_at": "2024-08-28 14:08:37",
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 192666,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
+    },
+    {
+      "added_at": "2024-08-28 14:08:37",
+      "album": {
+        "name": "Utah",
+        "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "California (Cast Iron Soul)",
+      "url": "https://open.spotify.com/track/14A2dKF4O0kQD0E5CCX3Jc"
     },
     {
       "added_at": "2024-08-28 14:08:37",

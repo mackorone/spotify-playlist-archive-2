@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1170,
+  "num_followers": 1173,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAANQ+95sq6AsU6nK1AqkPdIHE/pCNVX",
+  "snapshot_id": "AAANRxkwJ3GlIkJZ3WjLob2IP9hHz6K/",
   "tracks": [
     {
       "added_at": "2026-02-07 16:20:06",
@@ -295,22 +295,6 @@
       "duration_ms": 253759,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/21335sVPNGZtNLVp3uV7zc"
-    },
-    {
-      "added_at": "2026-01-16 18:28:40",
-      "album": {
-        "name": "California (Radio Edit)",
-        "url": "https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo"
-      },
-      "artists": [
-        {
-          "name": "GCProductions",
-          "url": "https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj"
-        }
-      ],
-      "duration_ms": 204119,
-      "name": "California - Radio Edit",
-      "url": "https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH"
     },
     {
       "added_at": "2026-01-16 18:29:19",
@@ -1171,6 +1155,54 @@
       "duration_ms": 135288,
       "name": "Letter (for the Quiet)",
       "url": "https://open.spotify.com/track/6YU0GtUQ0OM3l0F6QAEKYQ"
+    },
+    {
+      "added_at": "2026-02-10 08:57:17",
+      "album": {
+        "name": "Bir Kent R\u00fcyas\u0131",
+        "url": "https://open.spotify.com/album/5AoC8tcQtcs5mKXQAih72z"
+      },
+      "artists": [
+        {
+          "name": "Gizem Demirhan",
+          "url": "https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o"
+        }
+      ],
+      "duration_ms": 185735,
+      "name": "Bir Kent R\u00fcyas\u0131",
+      "url": "https://open.spotify.com/track/5Ww3NzsitV8ZlrGRF8FwRL"
+    },
+    {
+      "added_at": "2026-02-10 09:00:10",
+      "album": {
+        "name": "Makes Me Happy",
+        "url": "https://open.spotify.com/album/74a0SSWcCSIXPRBh3TjA2x"
+      },
+      "artists": [
+        {
+          "name": "Paul Louis Villani",
+          "url": "https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Makes Me Happy",
+      "url": "https://open.spotify.com/track/2RuYgdEBxV2exf6GsHzlJ0"
+    },
+    {
+      "added_at": "2026-02-10 09:00:24",
+      "album": {
+        "name": "Dreaming of you",
+        "url": "https://open.spotify.com/album/3TBYX9eWTrcy6ehh9U4E6N"
+      },
+      "artists": [
+        {
+          "name": "Huggis Hill",
+          "url": "https://open.spotify.com/artist/4w4L2XzPmIkhX5eP35IP7c"
+        }
+      ],
+      "duration_ms": 193474,
+      "name": "Dreaming of you",
+      "url": "https://open.spotify.com/track/470owFy9zXfoCVqXlWgOX4"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

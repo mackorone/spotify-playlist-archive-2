@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 59894,
+  "num_followers": 59901,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Een Blik In Jouw Ogen",
-        "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
-      },
-      "artists": [
-        {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
-        }
-      ],
-      "duration_ms": 184671,
-      "name": "Een Blik In Jouw Ogen",
-      "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
         "name": "Doe Je Dansie",
         "url": "https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 148000,
       "name": "Doe Je Dansie",
       "url": "https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
+        "name": "Een Blik In Jouw Ogen",
+        "url": "https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i"
+      },
+      "artists": [
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        }
+      ],
+      "duration_ms": 184671,
+      "name": "Een Blik In Jouw Ogen",
+      "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
+        "name": "Leven",
+        "url": "https://open.spotify.com/album/0Fixqp0C0A2NQfvSMeHjl9"
+      },
+      "artists": [
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Leven",
+      "url": "https://open.spotify.com/track/6f3vDmoE9ssTrOdLpJKxzT"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
         "name": "Blijven Slapen",
         "url": "https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Leven",
-        "url": "https://open.spotify.com/album/0Fixqp0C0A2NQfvSMeHjl9"
-      },
-      "artists": [
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Leven",
-      "url": "https://open.spotify.com/track/6f3vDmoE9ssTrOdLpJKxzT"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
         "name": "Hoe Zou Het Zijn Geweest",
         "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
       },
@@ -1047,6 +1047,22 @@
       "duration_ms": 181130,
       "name": "Hoe Zou Het Zijn Geweest",
       "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
+        "name": "Sangria",
+        "url": "https://open.spotify.com/album/7JHsHb3SG7oXD8r9GJPu2H"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        }
+      ],
+      "duration_ms": 156050,
+      "name": "Sangria",
+      "url": "https://open.spotify.com/track/4rgI60evIu8nXazk3E4lDI"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -1067,18 +1083,22 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Sangria",
-        "url": "https://open.spotify.com/album/7JHsHb3SG7oXD8r9GJPu2H"
+        "name": "Stiekem ft. Goldband",
+        "url": "https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G"
       },
       "artists": [
         {
-          "name": "Arjon Oostrom",
-          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        },
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
         }
       ],
-      "duration_ms": 156050,
-      "name": "Sangria",
-      "url": "https://open.spotify.com/track/4rgI60evIu8nXazk3E4lDI"
+      "duration_ms": 203437,
+      "name": "Stiekem",
+      "url": "https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -1111,26 +1131,6 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Stiekem ft. Goldband",
-        "url": "https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G"
-      },
-      "artists": [
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        },
-        {
-          "name": "Goldband",
-          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "Stiekem",
-      "url": "https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
         "name": "Lars",
         "url": "https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
         "name": "M\u00e1s M\u00e1s M\u00e1s",
         "url": "https://open.spotify.com/album/01hHnT4Hmzju6oF6Cyq9XM"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 154332,
       "name": "M\u00e1s M\u00e1s M\u00e1s",
       "url": "https://open.spotify.com/track/28hEtjNvlDhtb38fgXsLRa"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
         "name": "Hallo",
         "url": "https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 141068,
       "name": "Hotelschool",
       "url": "https://open.spotify.com/track/1R46BVgLnBXkVYAl31rKIF"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Zij Wil Mij",
-        "url": "https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR"
+        "name": "Un Chance",
+        "url": "https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd"
       },
       "artists": [
         {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Zij Wil Mij",
-      "url": "https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY"
+      "duration_ms": 172385,
+      "name": "Un Chance",
+      "url": "https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8"
     }
   ],
   "unique_name": "Nederlandse Zomerhits 2026",

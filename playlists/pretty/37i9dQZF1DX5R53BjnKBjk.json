@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 21207,
+  "num_followers": 21210,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "meu bem, meu bem",
+        "url": "https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 168562,
+      "name": "meu bem, meu bem",
+      "url": "https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "Rubi",
         "url": "https://open.spotify.com/album/4mPPWXKxDCobEMiOBtxNE1"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 209577,
       "name": "Absurda",
       "url": "https://open.spotify.com/track/4jhTigzWPItapKZ9RP3CWC"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "meu bem, meu bem",
-        "url": "https://open.spotify.com/album/6E8StuG2GIkZBncqpUTZAU"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "meu bem, meu bem",
-      "url": "https://open.spotify.com/track/6jwoPMGaE3r81hkj9MK2Vh"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "Tarde no Walkiria",
-        "url": "https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr"
-      },
-      "artists": [
-        {
-          "name": "\u00cdtallo",
-          "url": "https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9"
-        }
-      ],
-      "duration_ms": 239950,
-      "name": "Palavra de Amor",
-      "url": "https://open.spotify.com/track/7z8gTjbcWPazkxjybrwV3K"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Repara",
         "url": "https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 154687,
       "name": "Repara",
       "url": "https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Tarde no Walkiria",
+        "url": "https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr"
+      },
+      "artists": [
+        {
+          "name": "\u00cdtallo",
+          "url": "https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9"
+        }
+      ],
+      "duration_ms": 239950,
+      "name": "Palavra de Amor",
+      "url": "https://open.spotify.com/track/7z8gTjbcWPazkxjybrwV3K"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -671,38 +671,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "De repente voc\u00ea",
-        "url": "https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC"
-      },
-      "artists": [
-        {
-          "name": "Marta Maria",
-          "url": "https://open.spotify.com/artist/6bksEANPlDvhAocqR44x7H"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "De repente voc\u00ea",
-      "url": "https://open.spotify.com/track/1uNPYO9ZaIO91uHjvhYhxN"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "Voraz",
-        "url": "https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw"
-      },
-      "artists": [
-        {
-          "name": "GAROU\u00c1",
-          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
-        }
-      ],
-      "duration_ms": 131123,
-      "name": "Voraz",
-      "url": "https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Hortel\u00e3",
         "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
       },
@@ -719,6 +687,22 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
+        "name": "De repente voc\u00ea",
+        "url": "https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC"
+      },
+      "artists": [
+        {
+          "name": "Marta Maria",
+          "url": "https://open.spotify.com/artist/6bksEANPlDvhAocqR44x7H"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "De repente voc\u00ea",
+      "url": "https://open.spotify.com/track/1uNPYO9ZaIO91uHjvhYhxN"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
         "name": "Jacquemus",
         "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 153559,
       "name": "Jacquemus",
       "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "Voraz",
+        "url": "https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw"
+      },
+      "artists": [
+        {
+          "name": "GAROU\u00c1",
+          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
+        }
+      ],
+      "duration_ms": 131123,
+      "name": "Voraz",
+      "url": "https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-05-22 08:00:00",
       "album": {
-        "name": "vc \u00e9 uma bagun\u00e7a",
-        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
-      },
-      "artists": [
-        {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        }
-      ],
-      "duration_ms": 171084,
-      "name": "vc \u00e9 uma bagun\u00e7a",
-      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
         "name": "Ideia Errada",
         "url": "https://open.spotify.com/album/1eefaivkaBR83Ni4R9y6sR"
       },
@@ -827,6 +811,38 @@
       "duration_ms": 198250,
       "name": "Fora de S\u00e9rie",
       "url": "https://open.spotify.com/track/321nrfz5F0VEjBhgo2mB8R"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "vc \u00e9 uma bagun\u00e7a",
+        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
+      },
+      "artists": [
+        {
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        }
+      ],
+      "duration_ms": 171084,
+      "name": "vc \u00e9 uma bagun\u00e7a",
+      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
+    },
+    {
+      "added_at": "2024-05-22 08:00:00",
+      "album": {
+        "name": "reluz",
+        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
+      },
+      "artists": [
+        {
+          "name": "As\u00fa",
+          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "reluz",
+      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
     },
     {
       "added_at": "2024-05-22 08:00:00",
@@ -875,22 +891,6 @@
       "duration_ms": 128771,
       "name": "AL\u00d4",
       "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
-    },
-    {
-      "added_at": "2024-05-22 08:00:00",
-      "album": {
-        "name": "reluz",
-        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
-      },
-      "artists": [
-        {
-          "name": "As\u00fa",
-          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "reluz",
-      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
     },
     {
       "added_at": "2024-05-22 08:00:00",

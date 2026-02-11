@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Yellowcard",
-  "num_followers": 600437,
+  "num_followers": 600469,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
-        "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 194672,
-      "name": "Nothing Changes",
-      "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 162000,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "The Kids In The Crowd - Music From The Documentary Soundtrack",
+        "url": "https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 194672,
+      "name": "Nothing Changes",
+      "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
+        "name": "NORTHERN LIGHTS//",
+        "url": "https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 280065,
+      "name": "NORTHERN LIGHTS//",
+      "url": "https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/5lK5ePFyZ0EQo7RE38ENhm"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "Someone You Need",
-        "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
-      },
-      "artists": [
-        {
-          "name": "Broadside",
-          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
-        }
-      ],
-      "duration_ms": 183375,
-      "name": "Someone You Need",
-      "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
         "name": "diamonds on your dagger",
         "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 201710,
       "name": "diamonds on your dagger",
       "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
+    },
+    {
+      "added_at": "2025-10-10 13:24:48",
+      "album": {
+        "name": "Someone You Need",
+        "url": "https://open.spotify.com/album/7vwwoea4VauM5Jt2PRPbdy"
+      },
+      "artists": [
+        {
+          "name": "Broadside",
+          "url": "https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo"
+        }
+      ],
+      "duration_ms": 183375,
+      "name": "Someone You Need",
+      "url": "https://open.spotify.com/track/28aV10DPdhF068Utw7d4ZY"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2025-10-10 13:24:48",
       "album": {
-        "name": "NORTHERN LIGHTS//",
-        "url": "https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43"
+        "name": "Big Blind",
+        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
       },
       "artists": [
         {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
         }
       ],
-      "duration_ms": 280065,
-      "name": "NORTHERN LIGHTS//",
-      "url": "https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj"
+      "duration_ms": 144986,
+      "name": "Big Blind",
+      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
     },
     {
       "added_at": "2025-10-10 13:24:48",
@@ -1299,22 +1315,6 @@
       "duration_ms": 145547,
       "name": "Sandbox",
       "url": "https://open.spotify.com/track/0X8QbogXwOawd7KF7xStOl"
-    },
-    {
-      "added_at": "2025-10-10 13:24:48",
-      "album": {
-        "name": "Big Blind",
-        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "Big Blind",
-      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
     },
     {
       "added_at": "2025-10-10 13:24:48",

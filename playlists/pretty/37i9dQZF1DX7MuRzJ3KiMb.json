@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed est\u00e1n las joyas escondidas del 2025, elegidas por tus editores \ud83d\ude42\u200d\u2195\ufe0f",
-  "num_followers": 104955,
+  "num_followers": 104965,
   "original_name": "Las favoritas de tus editores 2025",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "La Vida Era M\u00e1s Corta",
-        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "Ni\u00f1o",
-      "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 213010,
       "name": "LA MuDANZA",
       "url": "https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "La Vida Era M\u00e1s Corta",
+        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "Ni\u00f1o",
+      "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "El \u00daltimo Baile",
-        "url": "https://open.spotify.com/album/0ZoqHpiyTLn22Kw9uXa7si"
-      },
-      "artists": [
-        {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3"
-        }
-      ],
-      "duration_ms": 237930,
-      "name": "Volvamos a Ser Novios",
-      "url": "https://open.spotify.com/track/3BzqVIUCqTOHjkNRtol9F3"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "4LIFE",
         "url": "https://open.spotify.com/album/08m1n2W8oZA3DUIyZoGfHf"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 212091,
       "name": "4LIFE",
       "url": "https://open.spotify.com/track/23Nnf4FeFWz4nbEaHG4z9D"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "El \u00daltimo Baile",
+        "url": "https://open.spotify.com/album/0ZoqHpiyTLn22Kw9uXa7si"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Juancho De La Espriella",
+          "url": "https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3"
+        }
+      ],
+      "duration_ms": 237930,
+      "name": "Volvamos a Ser Novios",
+      "url": "https://open.spotify.com/track/3BzqVIUCqTOHjkNRtol9F3"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Au",
-        "url": "https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 158812,
-      "name": "pijama.",
-      "url": "https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Desde Que La Vi",
         "url": "https://open.spotify.com/album/0mfQ214VTepNIL0IKFMG64"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 168749,
       "name": "Desde Que La Vi",
       "url": "https://open.spotify.com/track/2yvIZ52EKT3kNAwzKj292i"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Au",
+        "url": "https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 158812,
+      "name": "pijama.",
+      "url": "https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "Cant\u00e1ndole a la patria",
+        "url": "https://open.spotify.com/album/6wdRRyjUISuk8tZlVSGpxJ"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 300456,
+      "name": "Oraci\u00f3n del remanso",
+      "url": "https://open.spotify.com/track/4bQKKN5jf9uoqawS5DKBhy"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "\u00d3xido (Nick Warren & Nicolas Rada Remix)",
         "url": "https://open.spotify.com/album/10q7J2PEljNlw5o2kBCItF"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 414531,
       "name": "\u00d3xido - Nick Warren & Nicolas Rada Remix",
       "url": "https://open.spotify.com/track/3j1abdTMpaSKiVOYykJLL4"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "Cant\u00e1ndole a la patria",
-        "url": "https://open.spotify.com/album/6wdRRyjUISuk8tZlVSGpxJ"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 300456,
-      "name": "Oraci\u00f3n del remanso",
-      "url": "https://open.spotify.com/track/4bQKKN5jf9uoqawS5DKBhy"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1559,22 +1559,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "centro aLt",
-        "url": "https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47"
+        "name": "OKUPAS",
+        "url": "https://open.spotify.com/album/1tQ0olB3rAM8es83lc55i7"
       },
       "artists": [
         {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+          "name": "Little Boogie",
+          "url": "https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0"
         },
         {
-          "name": "S.3.R",
-          "url": "https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ"
+          "name": "STEREO",
+          "url": "https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj"
         }
       ],
-      "duration_ms": 174545,
-      "name": "centro aLt",
-      "url": "https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5"
+      "duration_ms": 164705,
+      "name": "OKUPAS",
+      "url": "https://open.spotify.com/track/580QOzbFWDJKi6LtNpt7PT"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1599,22 +1599,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "OKUPAS",
-        "url": "https://open.spotify.com/album/1tQ0olB3rAM8es83lc55i7"
+        "name": "centro aLt",
+        "url": "https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47"
       },
       "artists": [
         {
-          "name": "Little Boogie",
-          "url": "https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0"
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
         },
         {
-          "name": "STEREO",
-          "url": "https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj"
+          "name": "S.3.R",
+          "url": "https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ"
         }
       ],
-      "duration_ms": 164705,
-      "name": "OKUPAS",
-      "url": "https://open.spotify.com/track/580QOzbFWDJKi6LtNpt7PT"
+      "duration_ms": 174545,
+      "name": "centro aLt",
+      "url": "https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "POST POP",
+        "url": "https://open.spotify.com/album/70IzpQpAhKr7QaGEPA1Fvp"
+      },
+      "artists": [
+        {
+          "name": "Homog\u00e9nica",
+          "url": "https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt"
+        }
+      ],
+      "duration_ms": 240535,
+      "name": "Fan",
+      "url": "https://open.spotify.com/track/2GnlfajRt88U69nyS2WMVN"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "Lo Tiguerone Tambien Lloran",
         "url": "https://open.spotify.com/album/0gLjcmGeWgbwdhmByUXdxH"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 147266,
       "name": "Lo Tiguerone Tambien Lloran",
       "url": "https://open.spotify.com/track/6ZRdZcMAfc9ruSBOIdY7gM"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "POST POP",
-        "url": "https://open.spotify.com/album/70IzpQpAhKr7QaGEPA1Fvp"
-      },
-      "artists": [
-        {
-          "name": "Homog\u00e9nica",
-          "url": "https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt"
-        }
-      ],
-      "duration_ms": 240535,
-      "name": "Fan",
-      "url": "https://open.spotify.com/track/2GnlfajRt88U69nyS2WMVN"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Pavlo, cada vez menos...",
-        "url": "https://open.spotify.com/album/1nuNOlU2mOuVKldwj0oIuZ"
-      },
-      "artists": [
-        {
-          "name": "elmalam\u00eda",
-          "url": "https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM"
-        }
-      ],
-      "duration_ms": 195157,
-      "name": "Eresi",
-      "url": "https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Sacontrafa",
         "url": "https://open.spotify.com/album/3ehUZJvbbAmMA4tsMU1K7d"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 194038,
       "name": "Tac!",
       "url": "https://open.spotify.com/track/44wqCk8NkmuQPrKeTTFYXS"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Pavlo, cada vez menos...",
+        "url": "https://open.spotify.com/album/1nuNOlU2mOuVKldwj0oIuZ"
+      },
+      "artists": [
+        {
+          "name": "elmalam\u00eda",
+          "url": "https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM"
+        }
+      ],
+      "duration_ms": 195157,
+      "name": "Eresi",
+      "url": "https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf"
     },
     {
       "added_at": "2025-12-03 13:16:51",

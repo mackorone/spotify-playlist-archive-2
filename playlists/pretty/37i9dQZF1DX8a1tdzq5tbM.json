@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1766423,
+  "num_followers": 1766641,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Girlfriend (2008 Remix)",
-        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "Keylime",
-          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
-        }
-      ],
-      "duration_ms": 435986,
-      "name": "Girlfriend - 2008 Remix",
-      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Somewhere (feat. Sarah Lynn)",
         "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 235866,
       "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
       "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Girlfriend (2008 Remix)",
+        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "Keylime",
+          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
+        }
+      ],
+      "duration_ms": 435986,
+      "name": "Girlfriend - 2008 Remix",
+      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Take Me Away - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "The Longest Road",
         "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
       },
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
-      },
-      "artists": [
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Take Me Away - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Heartbroken",
         "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
       },
@@ -1663,18 +1663,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Orbital 2",
-        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
+        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
+        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
       "artists": [
         {
-          "name": "Orbital",
-          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+        },
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
         }
       ],
-      "duration_ms": 567106,
-      "name": "Halcyon and On and On",
-      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
+      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1699,6 +1703,42 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Orbital 2",
+        "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "duration_ms": 567106,
+      "name": "Halcyon and On and On",
+      "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
+      },
+      "artists": [
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Destination Calabria - Radio Edit",
+      "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "I Am The Club Rocker",
         "url": "https://open.spotify.com/album/6aZyOf8v33rs3CJGTctkM6"
       },
@@ -1711,26 +1751,6 @@
       "duration_ms": 224533,
       "name": "Sun Is Up - Play & Win Radio Edit",
       "url": "https://open.spotify.com/track/6eU60ONpRUQPIOiWaxfWOF"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
-        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
-      },
-      "artists": [
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
-        },
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
-      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1783,26 +1803,6 @@
       "duration_ms": 420546,
       "name": "Everything (feat. JES)",
       "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
-      },
-      "artists": [
-        {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
-        },
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Destination Calabria - Radio Edit",
-      "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Addiction (Radio Edit)",
+        "url": "https://open.spotify.com/album/1fHOXluysGuGFdtNDCFjk7"
+      },
+      "artists": [
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        }
+      ],
+      "duration_ms": 173634,
+      "name": "Addiction - Radio Edit",
+      "url": "https://open.spotify.com/track/5Mj2c1cysVNBhwYITD70Eh"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Elements of Life",
         "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
       },
@@ -1879,22 +1895,6 @@
       "duration_ms": 276093,
       "name": "In The Dark (feat. Christian Burns)",
       "url": "https://open.spotify.com/track/2UBYNTJKvk9feVfW9f2ACK"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Addiction (Radio Edit)",
-        "url": "https://open.spotify.com/album/1fHOXluysGuGFdtNDCFjk7"
-      },
-      "artists": [
-        {
-          "name": "Medina",
-          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
-        }
-      ],
-      "duration_ms": 173634,
-      "name": "Addiction - Radio Edit",
-      "url": "https://open.spotify.com/track/5Mj2c1cysVNBhwYITD70Eh"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1967,8 +1967,8 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Dance4Life (feat. Maxi Jazz)",
-        "url": "https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
       "artists": [
         {
@@ -1976,13 +1976,13 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Maxi Jazz",
-          "url": "https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq"
+          "name": "BT",
+          "url": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
         }
       ],
-      "duration_ms": 213320,
-      "name": "Dance4Life (feat. Maxi Jazz) - Radio Edit",
-      "url": "https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL"
+      "duration_ms": 489373,
+      "name": "Love Comes Again",
+      "url": "https://open.spotify.com/track/4D869p0uPTcU4e1ClLB8Kj"
     },
     {
       "added_at": "2024-07-12 15:40:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: CUTIE STREET
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,689 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,697 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

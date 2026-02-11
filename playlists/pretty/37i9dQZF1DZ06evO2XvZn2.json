@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15762,
+  "num_followers": 15764,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAA1q0hbZgg+WIvN7NIBNzRE",
+  "snapshot_id": "aYkjgAAAAABFXTRueR3M0Owpnq+JPx9s",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "cuatro",
-        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "PLIS",
-      "url": "https://open.spotify.com/track/2uei5EK0iBwbjEKwoX6j5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 179004,
       "name": "Machu Picchu",
       "url": "https://open.spotify.com/track/6RV9pRLIQiXm3qTGeyQluf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "cuatro",
+        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "PLIS",
+      "url": "https://open.spotify.com/track/2uei5EK0iBwbjEKwoX6j5p"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Liber\u00e9",
-        "url": "https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 217973,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/54o97glZqjfQambK2yyNCG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Refugio",
         "url": "https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 193666,
       "name": "Refugio",
       "url": "https://open.spotify.com/track/5iGcOpA2ZVzmpi5gqjHQEA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Liber\u00e9",
+        "url": "https://open.spotify.com/album/2N2qUUEHAZw9b5Kj8Zpv0S"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 217973,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/54o97glZqjfQambK2yyNCG"
     },
     {
       "added_at": null,
@@ -483,30 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna Para Ti (feat. Riccardo Frascari)",
-        "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 212362,
-      "name": "Luna Para Ti (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
         "url": "https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY"
       },
@@ -535,6 +511,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
+        "url": "https://open.spotify.com/album/2blqwWdVjecjHqQ8OQsLQd"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Sebasti\u00e1n Silva",
+          "url": "https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        },
+        {
+          "name": "Gabo L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2N22NX8uhNikExuQDPdyhM"
+        },
+        {
+          "name": "Andr\u00e9s Mercado",
+          "url": "https://open.spotify.com/artist/6FeP8VVMYoucH2TdlokSyT"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
+      "url": "https://open.spotify.com/track/0cgb32JvDvltNqTOe3kLi8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -559,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
-        "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
+        "name": "Luna Para Ti (feat. Riccardo Frascari)",
+        "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
       },
       "artists": [
         {
@@ -572,13 +584,13 @@
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
         },
         {
-          "name": "Carolina Mestrovic",
-          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
         }
       ],
-      "duration_ms": 133880,
-      "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
-      "url": "https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR"
+      "duration_ms": 212362,
+      "name": "Luna Para Ti (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
     },
     {
       "added_at": null,
@@ -636,9 +648,33 @@
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
         }
       ],
-      "duration_ms": 204714,
-      "name": "Al\u00edviame",
-      "url": "https://open.spotify.com/track/3Gdpd6fMO2Zz0B8ymwMsKH"
+      "duration_ms": 137676,
+      "name": "El Tiempo Corre al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
+        "url": "https://open.spotify.com/album/0eR5mUBJVl7ae7oD7R8Bsi"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Carolina Mestrovic",
+          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Mejor Perderte Que Encontrarte (feat. Carolina Mestrovic)",
+      "url": "https://open.spotify.com/track/46eO8Yh2LfnCBi1lqjXosR"
     },
     {
       "added_at": null,
@@ -695,42 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
-        "url": "https://open.spotify.com/album/2blqwWdVjecjHqQ8OQsLQd"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Sebasti\u00e1n Silva",
-          "url": "https://open.spotify.com/artist/2y6RIOPS6ABYXhQ7kWugMu"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        },
-        {
-          "name": "Gabo L\u00f3pez",
-          "url": "https://open.spotify.com/artist/2N22NX8uhNikExuQDPdyhM"
-        },
-        {
-          "name": "Andr\u00e9s Mercado",
-          "url": "https://open.spotify.com/artist/6FeP8VVMYoucH2TdlokSyT"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
-      "url": "https://open.spotify.com/track/0cgb32JvDvltNqTOe3kLi8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Club 57",
         "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
       },
@@ -744,33 +744,9 @@
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
         }
       ],
-      "duration_ms": 137676,
-      "name": "El Tiempo Corre al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/53TqzbSwNKz3TQVyxGAAC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Fefi Oliveira",
-          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
+      "duration_ms": 204714,
+      "name": "Al\u00edviame",
+      "url": "https://open.spotify.com/track/3Gdpd6fMO2Zz0B8ymwMsKH"
     },
     {
       "added_at": null,
@@ -795,6 +771,30 @@
       "duration_ms": 154120,
       "name": "Eva (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Fefi Oliveira",
+          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
     },
     {
       "added_at": null,

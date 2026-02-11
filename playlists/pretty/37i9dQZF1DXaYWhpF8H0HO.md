@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Galdive
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,882 likes - 113 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,918 likes - 113 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

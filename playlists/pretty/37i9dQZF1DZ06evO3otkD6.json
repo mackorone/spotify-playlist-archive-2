@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 90160,
+  "num_followers": 90174,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAA2HDXJSzFDbwA8B+dSX/xk",
+  "snapshot_id": "aYkjgAAAAADr9PBSaNu9bFujm8V09xKB",
   "tracks": [
     {
       "added_at": null,
@@ -699,58 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarsis",
-        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "En El Amor Hay Que Perdonar",
-      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cocoterapia",
-        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 202153,
-      "name": "Flamenkito",
-      "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 184430,
-      "name": "Aries",
-      "url": "https://open.spotify.com/track/44QlnOZerG4S3zCO413ZKN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ni Fiestas, Ni Flores - Spotify Single",
         "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
@@ -784,9 +732,45 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 207346,
-      "name": "En La Obscuridad",
-      "url": "https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9"
+      "duration_ms": 239440,
+      "name": "En El Amor Hay Que Perdonar",
+      "url": "https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 144602,
+      "name": "LA MALA",
+      "url": "https://open.spotify.com/track/0XlG7zpKoWyd40j8txTLie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cocoterapia",
+        "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 202153,
+      "name": "Flamenkito",
+      "url": "https://open.spotify.com/track/2oRtscLLwdLMiDpRoQOSWW"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 213947,
       "name": "Frijolero",
       "url": "https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarsis",
+        "url": "https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "En La Obscuridad",
+      "url": "https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9"
     },
     {
       "added_at": null,
@@ -1027,26 +1027,6 @@
       "duration_ms": 165209,
       "name": "Bugatti",
       "url": "https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blink Twice (Dos Veces Remix)",
-        "url": "https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 154134,
-      "name": "Blink Twice - Dos Veces Remix",
-      "url": "https://open.spotify.com/track/6SNHfk6CipQOSALhblynof"
     }
   ],
   "unique_name": "This Is Belinda",

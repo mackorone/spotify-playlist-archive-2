@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,001 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,061 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 6 | [Sukoon](https://open.spotify.com/track/6L7dfCKQ3aiLxO1LhbXxux) | [Sakshi Ratti](https://open.spotify.com/artist/0hiYQJ7bFeqV3IJuF6fG7Y) | [Sukoon](https://open.spotify.com/album/11bcNhD31YIICMMmUQZd4s) | 2:53 |
 | 7 | [Jee Nai Lagda](https://open.spotify.com/track/2QPay4gj3nUMs5L3tFe97E) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Jee Nai Lagda](https://open.spotify.com/album/3vR4DUl5hgrqpa4WtnFSfF) | 2:43 |
 | 8 | [Dilbar](https://open.spotify.com/track/0wuyoeqWCA0CEyGb4FprEV) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Dilbar](https://open.spotify.com/album/5Inem7yitJIVsgHDPDvny9) | 2:34 |
-| 9 | [45 Bore](https://open.spotify.com/track/0AjUAOSajbZMNAv5cN1rUD) | [Shilpa Joshi](https://open.spotify.com/artist/74NeWcjFVZyQFkAVDCQj3x), [Isha Sharma](https://open.spotify.com/artist/1rRlivUi0R6P0eoXr1UquS), [DJ RAAGA](https://open.spotify.com/artist/6zP3Dx2i0JZLMoKIEQWOzR), [Shubham Bali](https://open.spotify.com/artist/6MUTYUmIp7fAuXFHqPN3iC) | [45 Bore](https://open.spotify.com/album/6QQTrIeViklelbH12nK9ke) | 2:08 |
+| 9 | [Nigaah](https://open.spotify.com/track/5cRP4buqKTGgfP23aI62UO) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Diljan](https://open.spotify.com/artist/5wq7uAiLmjk5RdRpxw1aQF) | [Nigaah](https://open.spotify.com/album/7Cvz3Q2NvxOlrhRq0YndUu) | 2:46 |
 | 10 | [Glow](https://open.spotify.com/track/41S9T0UnfZHBabzzufoAbi) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM), [Kabil Gill](https://open.spotify.com/artist/2lzr2O2ErjOq5RKQat7A11) | [Glow](https://open.spotify.com/album/5yllrFqjMqbkLyIewh0bQ5) | 1:52 |
 | 11 | [Aise Des](https://open.spotify.com/track/5jxzK1xMJZwgFrSA8Jn1gk) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Aise Des](https://open.spotify.com/album/0brmFtDiy4DbpKZNzmqqiK) | 3:12 |
 | 12 | [Mad at U](https://open.spotify.com/track/5gUw3RlfeWfSPKoLGlGu5E) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Mad at U](https://open.spotify.com/album/6SpSQjt8BqlXW8c2HESh0y) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Ammiye](https://open.spotify.com/track/48bRxd4YmkZSMaCEiNpWbP) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:40 |
 | 50 | [All Of You](https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [All Of You](https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR) | 2:19 |
 
-Snapshot ID: `AAAAAEi3iokxkFWsIu4TEarPuNDkM4KI`
+Snapshot ID: `AAAAALwbDFnUKEsArWy0KTghYZ7kvM3A`

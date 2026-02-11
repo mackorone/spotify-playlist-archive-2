@@ -4,7 +4,7 @@
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 26 min
+110 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,9 +72,10 @@
 | [Flor De Las Flores](https://open.spotify.com/track/41ztdXuWnrY8B9Z5tKPzTt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Éxitos Con Carlos Y José](https://open.spotify.com/album/7yPKtlNWxPoPdB0MgI2YLh) | 2:08 | 2022-08-19 | 2023-05-20 |
 | [Gabino Barrera](https://open.spotify.com/track/5gaKIqxF0RTBgIBswpKVRy) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:27 | 2022-06-01 | 2023-11-11 |
 | [Gabino Barrera](https://open.spotify.com/track/3FJjpxv95LLjQPIVrPhntF) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:27 | 2023-11-10 |  |
+| [Jacinto el Tullido](https://open.spotify.com/track/1aktDwKgomwwxwj2Xwqo6T) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/7zxWIhpXrCOey5PpAeT5Vj) | 3:52 | 2026-02-11 |  |
 | [Jacinto el Tullido](https://open.spotify.com/track/281jqCib3R0qXfF2Xma3vJ) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Nuestros Grandes 20 Éxitos](https://open.spotify.com/album/77hPhcDBL4350eXhgqsMKc) | 3:52 | 2022-10-04 | 2025-03-13 |
 | [Jacinto el Tullido](https://open.spotify.com/track/1WAaIX3DOlmBMfLD2tnNXV) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:53 | 2022-06-01 | 2022-10-03 |
-| [Jacinto el Tullido](https://open.spotify.com/track/3eKPWrgEf4r4i6XDtoUZrd) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:53 | 2025-03-13 |  |
+| [Jacinto el Tullido](https://open.spotify.com/track/3eKPWrgEf4r4i6XDtoUZrd) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:53 | 2025-03-13 | 2026-02-11 |
 | [Jacinto Treviño](https://open.spotify.com/track/34vgrochxz5O9QPrz1peLq) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:23 | 2022-06-01 | 2023-11-11 |
 | [Jacinto Treviño](https://open.spotify.com/track/0qeTAiYnv4Zg78WdvBNo6J) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 3:23 | 2023-12-18 | 2023-12-20 |
 | [Jorge Y El Comandante](https://open.spotify.com/track/1gAcEksUFRcZqcuekVWdUG) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 2:44 | 2022-06-03 |  |

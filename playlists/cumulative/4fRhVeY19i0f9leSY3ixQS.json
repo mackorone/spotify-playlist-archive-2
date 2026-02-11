@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 194198,
       "name": "Brainworm, Pt. 1",
       "url": "https://open.spotify.com/track/1TMFN6OpFmC771TXwgbOIW"
@@ -1844,6 +1844,24 @@
       "duration_ms": 37000,
       "name": "British Fail",
       "url": "https://open.spotify.com/track/3XPjxkrqy9JqmRawof15B9"
+    },
+    {
+      "album": {
+        "name": "Broken (Goodbye)",
+        "url": "https://open.spotify.com/album/724YnXwsn0WHxmRZjia31B"
+      },
+      "artists": [
+        {
+          "name": "Ten Eighty Trees",
+          "url": "https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Broken (Goodbye)",
+      "url": "https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0"
     },
     {
       "album": {
@@ -2626,7 +2644,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 325603,
       "name": "COMMON GROUND",
       "url": "https://open.spotify.com/track/6lDbGbC9Vl5kQkPPJEeUXs"
@@ -3426,7 +3444,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 209368,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/3qQKz4xekRuwzNMNOlD28z"
@@ -4501,6 +4519,28 @@
     },
     {
       "album": {
+        "name": "Fade Into You",
+        "url": "https://open.spotify.com/album/6OIHhPBTOcRDC7bWaAjm9n"
+      },
+      "artists": [
+        {
+          "name": "TeethOut",
+          "url": "https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl"
+        },
+        {
+          "name": "KINLEY",
+          "url": "https://open.spotify.com/artist/6WApYmZLE3W3YD89SWf3hX"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204732,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/4MUfRUYdt358Ghh5qtkGfL"
+    },
+    {
+      "album": {
         "name": "Fading Flame",
         "url": "https://open.spotify.com/album/0WtXNoSlmraznasMkggYif"
       },
@@ -4923,6 +4963,24 @@
     },
     {
       "album": {
+        "name": "FUCK IT UP",
+        "url": "https://open.spotify.com/album/0nOUs8uvcwZdlKMfknrptr"
+      },
+      "artists": [
+        {
+          "name": "The Snorts",
+          "url": "https://open.spotify.com/artist/1xNqX2tWhzFu37OQD7OM7y"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135664,
+      "name": "FUCK IT UP",
+      "url": "https://open.spotify.com/track/13MTMEqRON3PbgA7hjHTf9"
+    },
+    {
+      "album": {
         "name": "Fuckwits In My City",
         "url": "https://open.spotify.com/album/1TwmucybOVaeAvZNCNBrOH"
       },
@@ -5028,6 +5086,24 @@
       "duration_ms": 239322,
       "name": "Galactic",
       "url": "https://open.spotify.com/track/6FCNVqlFCyK5hKDB96zC12"
+    },
+    {
+      "album": {
+        "name": "Galaxies",
+        "url": "https://open.spotify.com/album/6DTeJYyWQwgwVdF9TOOeOU"
+      },
+      "artists": [
+        {
+          "name": "Point Disarray",
+          "url": "https://open.spotify.com/artist/1vhafqghiLlE3Nd6WEjM4B"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Galaxies",
+      "url": "https://open.spotify.com/track/6ksrOcaWlkKExMysls33P3"
     },
     {
       "album": {
@@ -9517,6 +9593,24 @@
     },
     {
       "album": {
+        "name": "Only Punk",
+        "url": "https://open.spotify.com/album/15ndZAnxijfCRa6ha9vK80"
+      },
+      "artists": [
+        {
+          "name": "Transazione Negata",
+          "url": "https://open.spotify.com/artist/5Qpt3qMs1IQunN4aR7qCXw"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193478,
+      "name": "Only Punk",
+      "url": "https://open.spotify.com/track/3K9oYUOz0mM2ql90paasTO"
+    },
+    {
+      "album": {
         "name": "ostracized myself",
         "url": "https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm"
       },
@@ -10955,6 +11049,32 @@
     },
     {
       "album": {
+        "name": "Romper El Plan",
+        "url": "https://open.spotify.com/album/4JZK2qlbgeUJ0UiCPORIqK"
+      },
+      "artists": [
+        {
+          "name": "Abismo",
+          "url": "https://open.spotify.com/artist/4BHfQZgTgag2M8R8vRHBDN"
+        },
+        {
+          "name": "Dikers",
+          "url": "https://open.spotify.com/artist/2BKzoHM3OPLcwwMS7GKyg3"
+        },
+        {
+          "name": "Iker Piedrafita",
+          "url": "https://open.spotify.com/artist/5rEj8lImgvqATqAtJVJbMH"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "Romper El Plan",
+      "url": "https://open.spotify.com/track/5NLkOwbYEtEImzmKoZXtJ7"
+    },
+    {
+      "album": {
         "name": "Ronnie Pickering",
         "url": "https://open.spotify.com/album/0EpO1TMt41BWDG7f4kvSh4"
       },
@@ -11182,7 +11302,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 186226,
       "name": "Scared",
       "url": "https://open.spotify.com/track/5WXLf0F01kssLi9XOLDeSW"
@@ -12265,6 +12385,24 @@
     },
     {
       "album": {
+        "name": "SORRY NOT SORRY",
+        "url": "https://open.spotify.com/album/6RceDfzryPdZwtKLDnbN5r"
+      },
+      "artists": [
+        {
+          "name": "Ellen and the Boyz",
+          "url": "https://open.spotify.com/artist/1OHPJaybtKXTppv7gTwvmY"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198763,
+      "name": "SORRY NOT SORRY",
+      "url": "https://open.spotify.com/track/0ynUNnv7dhPa4tv8TQReX2"
+    },
+    {
+      "album": {
         "name": "Soul of a Man",
         "url": "https://open.spotify.com/album/5jNfUds4IMskgR1WILhthK"
       },
@@ -12708,7 +12846,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 193913,
       "name": "Straight Edging - Live",
       "url": "https://open.spotify.com/track/1T6ZLrCMzvIyXqam5lfGoF"
@@ -12860,6 +12998,24 @@
       "duration_ms": 233053,
       "name": "Super Secret Boy Band",
       "url": "https://open.spotify.com/track/4wo4rY8UaYFBqs1Gvmlsw8"
+    },
+    {
+      "album": {
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/5OwVt7UNBROLRM51st1mzl"
+      },
+      "artists": [
+        {
+          "name": "Bailout",
+          "url": "https://open.spotify.com/artist/0zMC0Fju9Z3pdVfssAjpNa"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "Surface Tension",
+      "url": "https://open.spotify.com/track/14lIWSDdW8kO9GZVF6Cov3"
     },
     {
       "album": {
@@ -13938,7 +14094,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 135082,
       "name": "This One Is for Free",
       "url": "https://open.spotify.com/track/2eXhn1zYO6WXsBFyiPTWOB"
@@ -14464,6 +14620,24 @@
       "duration_ms": 269165,
       "name": "Viva R\u00e1pido",
       "url": "https://open.spotify.com/track/2z1MgbekwalIeE18JOxeFE"
+    },
+    {
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/7zSVo9c8DiZrT39xaYKMGh"
+      },
+      "artists": [
+        {
+          "name": "State of crime & science",
+          "url": "https://open.spotify.com/artist/6dP4AQGrIm5wOWMFMLPMXL"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243779,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/78BKCSPFRZDZg8Z48dbYXs"
     },
     {
       "album": {
@@ -15038,6 +15212,24 @@
       "duration_ms": 226080,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/2p0eZHx0qKnmtYN1mLmAin"
+    },
+    {
+      "album": {
+        "name": "Two Songs",
+        "url": "https://open.spotify.com/album/58c7FsuIF9OPC6lUPtBsZm"
+      },
+      "artists": [
+        {
+          "name": "Sweet Avenue",
+          "url": "https://open.spotify.com/artist/75Cjwervrw6KbpnBVBLlpF"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164505,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1lpSfHqGaImWgBCnrAiGez"
     },
     {
       "album": {

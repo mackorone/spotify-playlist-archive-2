@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Brandon Lake and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,804 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,961 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 79 | [The Reminder](https://open.spotify.com/track/6INilJMURz2ptArultdEDl) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [The Reminder](https://open.spotify.com/album/3x29opvwVFDFXpxRzNzgYp) | 4:02 |
 | 80 | [Something You Can Be Proud Of](https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Something You Can Be Proud Of](https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD) | 3:28 |
 
-Snapshot ID: `AAAAAKxEOipdrSdmPP1OkHMMTgfMvk6v`
+Snapshot ID: `AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx`

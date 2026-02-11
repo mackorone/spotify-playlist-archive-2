@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-490 songs - 1 day 5 hr 42 min
+491 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Lifetime](https://open.spotify.com/track/0jVRZSyLXC48J2G66b12Ms) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Lifetime](https://open.spotify.com/album/6PvL70jTGrQAekjocgG620) | 5:06 | 2023-09-28 | 2023-11-17 |
 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 | 2022-11-25 | 2023-02-22 |
 | [Line Of Fire](https://open.spotify.com/track/2ET7YTxeo4tn7BlUGs3t4Y) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 3:08 | 2023-12-13 | 2024-02-17 |
-| [Lisbon](https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Lisbon](https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i) | 2:30 | 2025-08-21 |  |
+| [Lisbon](https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Lisbon](https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i) | 2:30 | 2025-08-21 | 2026-02-11 |
 | [Little House](https://open.spotify.com/track/0YaTSLfaoaJescHqbfDYv5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/1UBK4dwl1aw1Cprg6WQ1oV) | 2:30 | 2025-11-28 | 2026-01-23 |
 | [Living Proof](https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 4:53 | 2023-02-21 | 2024-03-28 |
 | [Loneliness](https://open.spotify.com/track/4VAzUwIL69PDIMjmhzBwMD) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Loneliness](https://open.spotify.com/album/0YBjEXcSYKyZ1UGzTfvWEf) | 4:03 | 2023-08-31 | 2024-10-05 |
@@ -462,6 +462,7 @@
 | [Two in This Story](https://open.spotify.com/track/7Etua9zkc2b11KDoRljJ77) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Two in This Story](https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW) | 3:54 | 2025-05-15 | 2025-08-12 |
 | [U&ME](https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [The Dream](https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn) | 3:18 | 2022-11-25 | 2023-01-10 |
 | [un éclair](https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [un éclair](https://open.spotify.com/album/0el34t2unKQygmPNV8vQ6D) | 3:30 | 2024-04-15 | 2025-01-24 |
+| [Undercurrent \(Clean Heart\)](https://open.spotify.com/track/0qEoKoiXF17TblSsDJY0tX) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Undercurrent \(Clean Heart\)](https://open.spotify.com/album/4zhzWqq4gN1DAdMwQHi3UN) | 2:22 | 2026-02-06 |  |
 | [Underdressed at the Symphony](https://open.spotify.com/track/2WjEUnzuDhwlFpp9epgtrW) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:33 | 2024-03-27 | 2024-04-16 |
 | [Underneath](https://open.spotify.com/track/0QGFzGvqGnwb0mujqRtqL4) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Underneath](https://open.spotify.com/album/0ybov11Nf73XbQSjiiGG0M) | 4:29 | 2024-03-27 | 2024-05-14 |
 | [Une autre histoire d'amour](https://open.spotify.com/track/1y472Lgq4XgGDPeKQQKsPQ) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Qu'en restera\-t\-il ?](https://open.spotify.com/album/0MlkTeAZHpHembBGF6ga55) | 4:13 | 2023-03-02 | 2026-02-03 |

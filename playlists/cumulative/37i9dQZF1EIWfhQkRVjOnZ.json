@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 180506,
       "name": "A Bag Of Marbles",
       "url": "https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 239866,
       "name": "A Moment Suspended In Time",
       "url": "https://open.spotify.com/track/1SBceOn4txhXq6Uan8EMPt"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 217253,
       "name": "Assistant To The Regional Manager",
       "url": "https://open.spotify.com/track/1ZS0Lgc8Esdg0Bf1JO6KF0"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 169066,
       "name": "Blueprints For Future Homes",
       "url": "https://open.spotify.com/track/0pQkFNB3Me4txM5jaKGwXh"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 244786,
       "name": "Collapse",
       "url": "https://open.spotify.com/track/46lrZpGWwCBPCqtlCzuCBx"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 253373,
       "name": "Composure",
       "url": "https://open.spotify.com/track/1NBLKfycJLSpzYM4zYIB8v"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 190106,
       "name": "Confined",
       "url": "https://open.spotify.com/track/7eWuBTL35BSBBiIjWJk0KB"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 179213,
       "name": "Creature",
       "url": "https://open.spotify.com/track/2kH4Tyy2DUT9aa55SWgjkI"
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "Dez Moines",
       "url": "https://open.spotify.com/track/05NRKMTDuXA5ehLLe0wtL0"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 211893,
       "name": "Ex's And Oh's",
       "url": "https://open.spotify.com/track/2gY3Z3f1Qe4vWnw15dBkSw"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 250733,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/6X5R4cXJlu91xxl84WUzpS"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 275120,
       "name": "False Profit",
       "url": "https://open.spotify.com/track/3aahZWSGhy07rsli5H94Jr"
@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 229786,
       "name": "Live in Love",
       "url": "https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB"
@@ -3379,6 +3379,24 @@
     },
     {
       "album": {
+        "name": "The Question",
+        "url": "https://open.spotify.com/album/4hqjE4M2FKwKeObRmoTEet"
+      },
+      "artists": [
+        {
+          "name": "Emery",
+          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184706,
+      "name": "Returning The Smile You Have Had From The Start",
+      "url": "https://open.spotify.com/track/6ey0i3n9e5PGDxZx3oxOyy"
+    },
+    {
+      "album": {
         "name": "Zombie EP",
         "url": "https://open.spotify.com/album/0EOelfKQ1lEEXleF1czql3"
       },
@@ -3700,7 +3718,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 242346,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/5VYcGJLKYHvrTD3MUzQkR6"
@@ -3718,7 +3736,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 211333,
       "name": "So Cold I Could See My Breath",
       "url": "https://open.spotify.com/track/6R3hFLF5jJC7ddCltVbgQz"
@@ -3772,7 +3790,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 249760,
       "name": "Song For The Broken",
       "url": "https://open.spotify.com/track/2ORNUM2HttdH7QipiUZ2Eq"
@@ -4006,7 +4024,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 231826,
       "name": "The Darkest Nights",
       "url": "https://open.spotify.com/track/5URJEznfi3XiVHQCyC3sII"
@@ -4042,7 +4060,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 321880,
       "name": "The Failsafe",
       "url": "https://open.spotify.com/track/351zpwVFbFPnauP3OSmq3e"
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 215693,
       "name": "There Can Be No Hesitation",
       "url": "https://open.spotify.com/track/35A0XPN0zoaQQHPvTOcemg"
@@ -4888,7 +4906,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-13",
+      "date_removed": null,
       "duration_ms": 216960,
       "name": "Where the Spirit Leads Me",
       "url": "https://open.spotify.com/track/2x6bKa0KLh9Wil5jXAxxA7"
@@ -5266,7 +5284,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 253826,
       "name": "You're Ever So Inviting",
       "url": "https://open.spotify.com/track/5rK0oa87GjgVTJ8bGcaape"

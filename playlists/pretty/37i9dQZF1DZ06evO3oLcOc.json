@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 228587,
+  "num_followers": 228607,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABhoNdZ5/cnbQL1EJOqykvH",
+  "snapshot_id": "aYkjgAAAAAD4dfLjWAjqtzlfKjM7HOTN",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 229210,
+      "name": "Taste (feat. Offset)",
+      "url": "https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Love Lost (Deluxe)",
         "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 229210,
-      "name": "Taste (feat. Offset)",
-      "url": "https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt"
     },
     {
       "added_at": null,
@@ -387,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CiCi",
+        "url": "https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 143037,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DON\u2019T KILL THE PARTY (feat. Tyga, Shoreline Mafia & Quavo) [Coast 2 Coast]",
         "url": "https://open.spotify.com/album/0zNgZSkhGkRcr1Yh06fyxr"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 225228,
       "name": "DON'T KILL THE PARTY (feat. Tyga, Shoreline Mafia & Quavo) - Coast 2 Coast",
       "url": "https://open.spotify.com/track/6p82E6XWmwC9yGzXPe1HHv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CiCi",
-        "url": "https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 143037,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg"
     },
     {
       "added_at": null,
@@ -499,30 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TYCOON",
-        "url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
-      },
-      "artists": [
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 168259,
-      "name": "TWITCH (feat. 2 Chainz & Tyga)",
-      "url": "https://open.spotify.com/track/5pPtoY9EchbPOyZlUngAq2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freaky Deaky",
         "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 183067,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 168259,
+      "name": "TWITCH (feat. 2 Chainz & Tyga)",
+      "url": "https://open.spotify.com/track/5pPtoY9EchbPOyZlUngAq2"
     },
     {
       "added_at": null,
@@ -991,6 +991,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
+      },
+      "artists": [
+        {
+          "name": "Scott Storch",
+          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "nights and weekends",
         "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
       },
@@ -1019,34 +1047,6 @@
       "duration_ms": 244855,
       "name": "soak city (feat. BlueBucksClan)",
       "url": "https://open.spotify.com/track/1Drdj1A2fmtweiAZdpCF6c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
-      },
-      "artists": [
-        {
-          "name": "Scott Storch",
-          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
     },
     {
       "added_at": null,

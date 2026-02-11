@@ -4,11 +4,11 @@
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 46 min
+59 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Baby Let Me Feel It](https://open.spotify.com/track/36iR1iNaoaqV5z640aoBJ5) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Have Fun On Christmas With Reggae](https://open.spotify.com/album/4g0WFtV86mRFJk7oZgeUBV) | 4:12 | 2025-12-11 |  |
+| [Baby Let Me Feel It](https://open.spotify.com/track/36iR1iNaoaqV5z640aoBJ5) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Have Fun On Christmas With Reggae](https://open.spotify.com/album/4g0WFtV86mRFJk7oZgeUBV) | 4:12 | 2025-12-11 | 2026-02-11 |
 | [Better Days Are Coming](https://open.spotify.com/track/7KrFKOGBY7J7ewu7ckCcHC) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Universal Masters Collection](https://open.spotify.com/album/47E8XMszHalHIxLdk7D49n) | 3:14 | 2025-11-25 | 2025-12-11 |
 | [Bongo Man](https://open.spotify.com/track/4NDt0POuq7rRff55MGUU8n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Goodbye Yesterday](https://open.spotify.com/album/4pCihmj6KBWAPZe4MiGRt5) | 4:05 | 2025-11-25 |  |
 | [Born to Win](https://open.spotify.com/track/2n0uoqw6J3aaiQ4cFzkKeb) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The EMI Years 1973\-'75](https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS) | 2:52 | 2025-11-25 |  |
@@ -58,6 +58,7 @@
 | [Struggling Man](https://open.spotify.com/track/6otlMUgOxNinfwVkdvASU1) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 3:30 | 2025-11-25 | 2026-01-04 |
 | [Sunshine in the Music](https://open.spotify.com/track/2WTdOVaNWbcOViMg4NBML9) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Power And The Glory](https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs) | 4:50 | 2025-11-25 |  |
 | [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 | 2025-11-25 |  |
+| [Treat The Youth Right](https://open.spotify.com/track/6EaSFMRbFQ6a88yTk625iS) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae On The River 10th Anniversary](https://open.spotify.com/album/47n7r9GZD3DiHKVukdyPDB) | 5:09 | 2026-02-11 |  |
 | [Treat the Youths Right](https://open.spotify.com/track/0wdGFydtOYUrQhcYChzImr) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 3:40 | 2025-11-25 |  |
 | [Under the Sun, Moon and Stars](https://open.spotify.com/track/2p7sRZxRCSEmd97wyDr57m) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/5fDti9HnqG3uWl3deeujN7) | 4:06 | 2025-11-25 | 2025-11-28 |
 | [Under the Sun, Moon and Stars](https://open.spotify.com/track/3gKNtPzCO5XCuKnrlvxU7B) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR) | 4:06 | 2025-11-28 |  |

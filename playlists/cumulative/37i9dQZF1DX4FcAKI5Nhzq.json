@@ -9290,7 +9290,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 188000,
       "name": "FORMULA",
       "url": "https://open.spotify.com/track/7z81drJrJ391T2RRwFLNTk"
@@ -15064,7 +15064,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 159686,
       "name": "LOOK AT ME",
       "url": "https://open.spotify.com/track/2gq4WmAq3zgplPoq7OIAGR"
@@ -17867,6 +17867,24 @@
     },
     {
       "album": {
+        "name": "Nice to see you again (Korean Ver.)",
+        "url": "https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146360,
+      "name": "Nice to see you again (Korean Ver.)",
+      "url": "https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr"
+    },
+    {
+      "album": {
         "name": "LIVE and FALL",
         "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
       },
@@ -20150,7 +20168,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 149709,
       "name": "Princeping Song",
       "url": "https://open.spotify.com/track/26BaKUxIpGEORtQ4xn0CgW"
@@ -21963,6 +21981,24 @@
     },
     {
       "album": {
+        "name": "Save me",
+        "url": "https://open.spotify.com/album/0RUo3HqDbrgs2AZlpVc616"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218732,
+      "name": "Save me",
+      "url": "https://open.spotify.com/track/1EvcZCOORYZn479M1WbGFP"
+    },
+    {
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF"
       },
@@ -22216,7 +22252,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 211425,
       "name": "SEASONS",
       "url": "https://open.spotify.com/track/10OEQdjmXQythIMxOWK3GE"
@@ -23802,6 +23838,24 @@
       "duration_ms": 173986,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7A7x6ZBCK0FaFVN67XEqTJ"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1dSkb6PmAMqq7dMui7iZpb"
     },
     {
       "album": {
@@ -27006,7 +27060,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 145000,
       "name": "UxYOUxU",
       "url": "https://open.spotify.com/track/7FMjQgcvSnAbLDFWNcL1Xu"
@@ -29400,6 +29454,28 @@
       "duration_ms": 218984,
       "name": "You make Me",
       "url": "https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp"
+    },
+    {
+      "album": {
+        "name": "DIMOLLY",
+        "url": "https://open.spotify.com/album/11IhqaVXyrWbOOGh0JbZBV"
+      },
+      "artists": [
+        {
+          "name": "Molly Yam",
+          "url": "https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP"
+        },
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "You make me crzy",
+      "url": "https://open.spotify.com/track/3YSNoXuS7ZV4vpl9KIvA3p"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/71L6ZAisLtzcDO2PVDXkCl">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542 likes - 278 songs - 14 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 543 likes - 278 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 6 | [Fuck Was I](https://open.spotify.com/track/7kmZKcImkVCFma5xZoD8A8) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Batten The Hatches](https://open.spotify.com/album/5S0bU4MVkcdVBJo0c0horr) | 3:30 |
 | 7 | [Jenny and Jill](https://open.spotify.com/track/6R4shwgeOTDIqgZ6fwwQ53) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's..\. / Here's Looking at You Kid](https://open.spotify.com/album/4nI85puQMF6uOiLE0sonAo) | 4:45 |
 | 8 | [Here is a Heart](https://open.spotify.com/track/0pMuYi969CAQ2gwJjR0Fgn) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 4:23 |
-| 9 | [Let's...](https://open.spotify.com/track/0wQ1VtRnmmNTgZlWhslSAC) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's..\. / Here's Looking at You Kid](https://open.spotify.com/album/4nI85puQMF6uOiLE0sonAo) | 3:49 |
-| 10 | [Already Gone](https://open.spotify.com/track/2drWq5NZblXotJD756dpwj) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's..\. / Here's Looking at You Kid](https://open.spotify.com/album/4nI85puQMF6uOiLE0sonAo) | 2:53 |
+| 9 | [Already Gone](https://open.spotify.com/track/2drWq5NZblXotJD756dpwj) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's..\. / Here's Looking at You Kid](https://open.spotify.com/album/4nI85puQMF6uOiLE0sonAo) | 2:53 |
+| 10 | [Let's...](https://open.spotify.com/track/0wQ1VtRnmmNTgZlWhslSAC) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Let's..\. / Here's Looking at You Kid](https://open.spotify.com/album/4nI85puQMF6uOiLE0sonAo) | 3:49 |
 | 11 | [Save My Mind \(feat\. Benemy Slope\)](https://open.spotify.com/track/2A7EJohkfEjjCtnl44hvcJ) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Benemy Slope](https://open.spotify.com/artist/1pPWQ9SMJm8sdvrDhmsJrA) | [Save My Mind \(feat\. Benemy Slope\)](https://open.spotify.com/album/7Idh4DMcmjH1I6Q2axzfhO) | 3:38 |
 | 12 | [KILLA KILLA](https://open.spotify.com/track/3PcpDQwqxPcm3AvZJGg4Lt) | [GALXARA](https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC) | [KILLA KILLA](https://open.spotify.com/album/5bLFyyKx0j9E5W7n35ZNiv) | 2:32 |
 | 13 | [Like We Used to Be](https://open.spotify.com/track/0xJGjBXbXnvek8nzdF3Sgg) | [Dylan Gardner](https://open.spotify.com/artist/12Na60zr4c70kpEDMLICoh) | [Like We Used to Be](https://open.spotify.com/album/2xo8G0pjuExjhWMKY3Omt7) | 4:23 |
@@ -287,4 +287,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 277 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy), [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 278 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `AcJPdAAAAADEtIVNv7ds+NykfO+/AcQf`
+Snapshot ID: `AcJVFAAAAACKyD1SS89Vnpl7/IssXP5x`

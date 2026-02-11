@@ -19129,6 +19129,24 @@
     },
     {
       "album": {
+        "name": "Our Memories Under the Stars",
+        "url": "https://open.spotify.com/album/6kx6pXUpMq33wV7q6BKfvX"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Our Memories Under the Stars",
+      "url": "https://open.spotify.com/track/6TuJ8lNXcHuOEsjeMfC36m"
+    },
+    {
+      "album": {
         "name": "Our Night is more beautiful than your Day",
         "url": "https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq"
       },
@@ -25624,7 +25642,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 228000,
       "name": "To The One",
       "url": "https://open.spotify.com/track/00babQKpTcxbh8kKsATc0R"

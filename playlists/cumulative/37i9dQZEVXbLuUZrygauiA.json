@@ -2809,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/2z36Je3PH9b6S9Il5PwrRl"
+      },
+      "artists": [
+        {
+          "name": "Lost Song M\u00fasic",
+          "url": "https://open.spotify.com/artist/5VCzobebxIcim7T07PdSH2"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64876,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4NHU9i2koEyY25HBJEPEYO"
+    },
+    {
+      "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
@@ -8936,7 +8954,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 275293,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/5oGK9Yr2EzKMb27Jpr5hpL"
@@ -15118,7 +15136,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 327488,
       "name": "Cuando No Era Cantante - Remix",
       "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
@@ -18558,7 +18576,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 158440,
       "name": "Domingo Familiar",
       "url": "https://open.spotify.com/track/6s5fdTesXo77NneP3tn3Km"
@@ -18888,7 +18906,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 185326,
       "name": "dopamina",
       "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
@@ -19234,7 +19252,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -29296,7 +29314,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 282921,
       "name": "H\u00e1blame de Ti",
       "url": "https://open.spotify.com/track/3I5ayoHOzBLNvFf3m13VHA"
@@ -29514,7 +29532,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
@@ -33523,6 +33541,24 @@
     },
     {
       "album": {
+        "name": "La Noche Se Quedo Contigo",
+        "url": "https://open.spotify.com/album/7mXA9jlG6ZY2G0onfzoxXk"
+      },
+      "artists": [
+        {
+          "name": "Misael Soul",
+          "url": "https://open.spotify.com/artist/3q4nKdXpY7ggvpOtri0qzB"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "La Noche Se Quedo Contigo",
+      "url": "https://open.spotify.com/track/7e1iVnbLBbQJekNKdErzfG"
+    },
+    {
+      "album": {
         "name": "LA NUBE EN EL JARD\u00cdN",
         "url": "https://open.spotify.com/album/2eBqNcxUvgWhj6GfpoaFSW"
       },
@@ -34630,6 +34666,24 @@
       "duration_ms": 172755,
       "name": "LAst dAy oN EaRTh",
       "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
+    },
+    {
+      "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Last of a Dying Breed",
+      "url": "https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q"
     },
     {
       "album": {
@@ -36764,7 +36818,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -47312,7 +47366,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 208461,
       "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
       "url": "https://open.spotify.com/track/5l4Gq3UC0dHKSExIf5xD9N"
@@ -49310,6 +49364,36 @@
       "duration_ms": 186341,
       "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
+    },
+    {
+      "album": {
+        "name": "PATRULLANDO",
+        "url": "https://open.spotify.com/album/2jvInFAsVBwneGKRQ8Wjzu"
+      },
+      "artists": [
+        {
+          "name": "Luno",
+          "url": "https://open.spotify.com/artist/6V36JyoMUbA6lNLNMjA3Bz"
+        },
+        {
+          "name": "Alex Torres",
+          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+        },
+        {
+          "name": "El Primo",
+          "url": "https://open.spotify.com/artist/0NL0BLJ1i5n6askNoLoOb8"
+        },
+        {
+          "name": "LOBO66",
+          "url": "https://open.spotify.com/artist/3Zaq4wjYJCghs8zn0CXYeo"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "PATRULLANDO",
+      "url": "https://open.spotify.com/track/3Nm8TAAsLs8GQCQQ1E8AI3"
     },
     {
       "album": {
@@ -66610,7 +66694,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-16",
+      "date_removed": null,
       "duration_ms": 197266,
       "name": "T\u00fa Sabes Quien",
       "url": "https://open.spotify.com/track/6vap3d2mFX3mmWq1tNd0uH"

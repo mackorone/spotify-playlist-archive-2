@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-609 songs - 1 day 12 hr 7 min
+612 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [A Hunnit Bands \- Sped Up + Reverbed](https://open.spotify.com/track/2Pg1tP8PvYLWvTgZWxY9h1) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [A Hunnit Bands \(Sped Up + Reverbed\)](https://open.spotify.com/album/5IMcPeRMB4PA83pp7A7Ckr) | 3:30 | 2025-12-19 | 2026-01-15 |
 | [A lot of loneliness](https://open.spotify.com/track/33MDj2laCrr9NQCeN4Jc86) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Maurizio Perrone](https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr), [Massimiliano De Lucia](https://open.spotify.com/artist/0sXIcrA8yfLCqZQYC2MtIc) | [A Single Multitude \- The Jazz Side](https://open.spotify.com/album/54BWMqqoETDvufz2VkbSTQ) | 3:18 | 2025-06-05 | 2026-01-05 |
 | [A Night in Tunisia](https://open.spotify.com/track/09jf8MIpTR78RsaR7TZvj4) | [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [A Night in Tunisia](https://open.spotify.com/album/67GwDavJ4mrJCX253N7Wwc) | 2:48 | 2025-06-21 | 2025-12-21 |
+| [A quoi bon](https://open.spotify.com/track/3BOJLuvEAvFB7oLmuFMahx) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [A quoi bon](https://open.spotify.com/album/3keMZ2GXAofv25DynqnSBU) | 3:46 | 2026-02-10 |  |
 | [A Tram for Lovers](https://open.spotify.com/track/5jNgQBAiK6c9YYYzykzCVN) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Gianluca Urbano](https://open.spotify.com/artist/7bqtO6GVyE8cx9hWVsjnZG), [Bruno Zoia](https://open.spotify.com/artist/7ttBJe2rfmfXHctvB887kD), [Giampaolo Scatozza](https://open.spotify.com/artist/3uaTnXlTZbiBalwWJIyj5N), [Roberto Pentassuglia](https://open.spotify.com/artist/0s4A17TXOJbIEmrg1jtI6t) | [A Tram for Lovers](https://open.spotify.com/album/2zl2uTA8T7mK9ibpjaP0Hw) | 4:46 | 2023-09-07 | 2025-11-29 |
 | [A Wedding in Modesto](https://open.spotify.com/track/6PUuWyQVg3NFxpWhi6K0om) | [Brett Shady](https://open.spotify.com/artist/25xd7GOccgisDmnXbGUbAA) | [A Wedding in Modesto \(Dream Cabin Sessions\)](https://open.spotify.com/album/5Eu3fuoOyP18XP7YchtrvI) | 3:41 | 2025-09-29 | 2025-11-29 |
 | [Abdel et Mikael](https://open.spotify.com/track/6nQny9qnNR6HCXmVOxsXrL) | [Anyel ADDA](https://open.spotify.com/artist/6Hwlx1juJcZzoLlNrTFoCh) | [Abdel et Mikael](https://open.spotify.com/album/4v99ixzKM0caMxHgiRYQhv) | 3:37 | 2026-01-30 |  |
@@ -248,6 +249,7 @@
 | [JEANS DE CONTREBANDE](https://open.spotify.com/track/6cDa8GkU1IsZj0A8fSvGjW) | [Franc White](https://open.spotify.com/artist/3xom0dL6ZYUpVSZAnGs9EE) | [JEANS DE CONTREBANDE](https://open.spotify.com/album/04tzyndXtPMjAlJpWMso0h) | 1:45 | 2026-01-26 |  |
 | [Jonesing](https://open.spotify.com/track/0pItNE4YeIFf2ec6P7jlbe) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Jonesing](https://open.spotify.com/album/1xQgwPKRDhvit3UACsOj5q) | 3:18 | 2025-10-17 | 2025-11-29 |
 | [Josephine M\. \- Piano solo](https://open.spotify.com/track/1M5a7pAmFI2VqtNeLOmKHO) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Josephine M\. \(Piano solo\)](https://open.spotify.com/album/5LhHLwZ76L1lTidJucY4v4) | 2:21 | 2024-07-05 | 2025-12-28 |
+| [Joyful Days](https://open.spotify.com/track/2ejqRknRaC6zC1WQLuUcTb) | [Mustafa Erhan](https://open.spotify.com/artist/7mve4x9DCP237Y8I1UC4TK) | [All in One](https://open.spotify.com/album/4tAYZAjdvpsskwRxDT3bXn) | 3:04 | 2026-02-10 |  |
 | [Judas](https://open.spotify.com/track/63ojE5nDCmEvkLG1tL8Hl8) | [Valeska Rautenberg](https://open.spotify.com/artist/2lz2rj9yfHH2eKyaGavPmG) | [Aerial Minds](https://open.spotify.com/album/2c0rWMixj6Or2q7VdOVujJ) | 4:18 | 2026-01-30 |  |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2026-01-01 | 2026-02-03 |
 | [Just Another Cliché](https://open.spotify.com/track/435l6Hs0Bckdc8mlQLLqDI) | [Frans Jansenn](https://open.spotify.com/artist/4kCFzQFXYADvVKwcvvXWV2) | [1961](https://open.spotify.com/album/5tqOMHrYpkTYarpfJDD4Ok) | 3:46 | 2026-01-14 |  |
@@ -428,6 +430,7 @@
 | [Right guy wrong mouth](https://open.spotify.com/track/6JjW4HuSCbEjr8l3svYlH2) | [Phantom goblin king](https://open.spotify.com/artist/25cK0rP6WVJgpZ9H1iVzC9) | [Right guy wrong mouth](https://open.spotify.com/album/3wWsfQ2gBeAmUZezSe2m7I) | 2:36 | 2025-11-17 | 2025-12-21 |
 | [Rising Sun](https://open.spotify.com/track/0P6x0ReQrQHHpl88QOMAHZ) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Rising Sun](https://open.spotify.com/album/3DJOo5uHEAiXdbgLYzAZwk) | 3:14 | 2026-01-26 |  |
 | [Ritual](https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 5:50 | 2026-01-14 |  |
+| [Roma](https://open.spotify.com/track/5UFMhB0iMZ9IRZnXVtE9uJ) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Roma](https://open.spotify.com/album/28GEpbSVfkg6AripcKvexZ) | 2:47 | 2026-02-10 |  |
 | [Rome](https://open.spotify.com/track/2gXkKM9mpsP1N2ly8j0kNQ) | [Hana Wiess](https://open.spotify.com/artist/3MzcltgVVlZRrede0B7gK9) | [Rome](https://open.spotify.com/album/3UnxzJJbma1MzFYlHPNMSz) | 3:19 | 2025-11-11 | 2025-12-21 |
 | [Rugido na Estrada](https://open.spotify.com/track/3FTaWZD7qUbb6ScM9YjbG1) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Rugido na Estrada](https://open.spotify.com/album/1r76L7sEgHPZtRBRXT4apm) | 2:54 | 2026-01-26 |  |
 | [Runaway](https://open.spotify.com/track/40CRFRPniqwB7sbPlXPm9F) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Runaway](https://open.spotify.com/album/0zgAdhmtbSNkekdvpeeIEd) | 3:39 | 2025-12-15 | 2026-01-15 |

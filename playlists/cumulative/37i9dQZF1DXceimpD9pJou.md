@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones Cristianas\.  Foto: LINARES
 
-3,688 songs - 11 day 10 hr 8 min
+3,688 songs - 11 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1898,7 +1898,7 @@
 | [Luz del Mundo](https://open.spotify.com/track/3fIVtB77BylJ5dADMPhc4E) | [Naiot Worship](https://open.spotify.com/artist/4WIgGioZus8toE8unqgwnB), [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Luz del Mundo](https://open.spotify.com/album/4DMzIfDwDPSgJPPRLiSe6n) | 3:39 | 2023-02-25 | 2023-04-15 |
 | [Luz en la Oscuridad](https://open.spotify.com/track/3nubqTXLbqjX2lrzbcqcjQ) | [Belu Rodriguez Kuhn](https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN) | [Luz en la Oscuridad](https://open.spotify.com/album/3GtXu2hisEaweyHhB1g3w6) | 3:41 | 2022-11-05 | 2023-01-14 |
 | [Lágrimas de Dios \(Llora con los que lloran\)](https://open.spotify.com/track/5ZO3QsfDgvdMl2p8nVz2Wk) | [David & Karen](https://open.spotify.com/artist/7n3IHj2513sePlMl89T0b4) | [Lágrimas de Dios \(Llora con los que lloran\)](https://open.spotify.com/album/5zcVdJoM0fj2OPiULx3vaT) | 4:26 | 2024-06-28 | 2024-07-19 |
-| [Lágrimas de Redención](https://open.spotify.com/track/2VOdyqZs4ilHrXwT71pSSv) | [Aisha Ruah](https://open.spotify.com/artist/3brCegvQEvbakBXdt4DZHC), [Su Nombre Es Jesus](https://open.spotify.com/artist/1Vpp0ggKHiJj86ixkDmO0B) | [Lágrimas de Redención](https://open.spotify.com/album/4j9aXn6KGmblgoZluBlM4V) | 3:06 | 2026-01-16 |  |
+| [Lágrimas de Redención](https://open.spotify.com/track/2VOdyqZs4ilHrXwT71pSSv) | [Aisha Ruah](https://open.spotify.com/artist/3brCegvQEvbakBXdt4DZHC), [Su Nombre Es Jesus](https://open.spotify.com/artist/1Vpp0ggKHiJj86ixkDmO0B) | [Lágrimas de Redención](https://open.spotify.com/album/4j9aXn6KGmblgoZluBlM4V) | 3:04 | 2026-01-16 |  |
 | [Lámpara](https://open.spotify.com/track/37IfkF6VNUitNKf1BQIk3Y) | [Jackson Martinez](https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx), [Discípulo the blessed](https://open.spotify.com/artist/1SHizpkWESQzIMJrTotQsD) | [Lámpara](https://open.spotify.com/album/76tMvCiaVRIPWeDQR7Ugdu) | 3:28 | 2025-05-30 | 2025-06-21 |
 | [Lámpara Encendida \- En Vivo](https://open.spotify.com/track/27oXuZCLZ5UcRfP2LRiVoY) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Lámpara Encendida \(En Vivo\)](https://open.spotify.com/album/1F88DMsFnuwr0NXrtNSrtH) | 11:26 | 2022-09-09 | 2022-11-12 |
 | [Lávame](https://open.spotify.com/track/2DuEKL8aW8xuDSHUgj7lQZ) | [David & Karen](https://open.spotify.com/artist/7n3IHj2513sePlMl89T0b4) | [Lávame](https://open.spotify.com/album/3ISpyPZ4QKJdFZU2l0REuS) | 3:57 | 2024-11-08 | 2025-01-11 |

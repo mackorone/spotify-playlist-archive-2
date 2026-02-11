@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "BOOMX3",
+        "url": "https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "BOOMX3",
+      "url": "https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse"
+    },
+    {
+      "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
       },
@@ -5190,7 +5208,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 228017,
       "name": "RS6",
       "url": "https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX"

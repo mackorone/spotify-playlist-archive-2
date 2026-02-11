@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 664609,
+  "num_followers": 664604,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
-      },
-      "artists": [
-        {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Come Back To What You Know",
-      "url": "https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Jollification",
         "url": "https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 259666,
       "name": "Lucky You",
       "url": "https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Come Back To What You Know",
+      "url": "https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
-      },
-      "artists": [
-        {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
-        }
-      ],
-      "duration_ms": 366266,
-      "name": "All You Good Good People",
-      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Coming Up (Remastered)",
         "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 230866,
       "name": "Beautiful Ones (Remastered)",
       "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+        }
+      ],
+      "duration_ms": 366266,
+      "name": "All You Good Good People",
+      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
     },
     {
       "added_at": "2024-03-18 22:10:08",

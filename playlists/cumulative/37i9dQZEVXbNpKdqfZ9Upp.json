@@ -3035,6 +3035,24 @@
     },
     {
       "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/2z36Je3PH9b6S9Il5PwrRl"
+      },
+      "artists": [
+        {
+          "name": "Lost Song M\u00fasic",
+          "url": "https://open.spotify.com/artist/5VCzobebxIcim7T07PdSH2"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64876,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4NHU9i2koEyY25HBJEPEYO"
+    },
+    {
+      "album": {
         "name": "Alch Si",
         "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
@@ -6782,7 +6800,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -9322,7 +9340,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 275293,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/5oGK9Yr2EzKMb27Jpr5hpL"
@@ -13540,7 +13558,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 205320,
       "name": "Como Es Que Se Hace",
       "url": "https://open.spotify.com/track/0ou3TddCNhvZeyGFbz7Y6E"
@@ -13926,7 +13944,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -18942,7 +18960,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-19",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -28335,6 +28353,24 @@
     },
     {
       "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
+    },
+    {
+      "album": {
         "name": "MIRADA",
         "url": "https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM"
       },
@@ -35011,6 +35047,24 @@
     },
     {
       "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Last of a Dying Breed",
+      "url": "https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -38712,7 +38766,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -39656,7 +39710,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 223656,
       "name": "Me Fui Sin Hacer Ruido",
       "url": "https://open.spotify.com/track/6aSS81SQxUjJjuPkP3EAZO"
@@ -48961,6 +49015,32 @@
     },
     {
       "album": {
+        "name": "Pa Mover El Bote",
+        "url": "https://open.spotify.com/album/3gyYeY6vTUmOt7n4TJPmch"
+      },
+      "artists": [
+        {
+          "name": "Supremo",
+          "url": "https://open.spotify.com/artist/38Lid4XKPqZ2hSdxHTmbit"
+        },
+        {
+          "name": "Andro Skrt",
+          "url": "https://open.spotify.com/artist/3djWfPzAX7dRYkoT106ho9"
+        },
+        {
+          "name": "Jo\u00e3o Ferreira",
+          "url": "https://open.spotify.com/artist/2Po0n9GI0YXOkurg0l2giE"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "Pa Mover El Bote",
+      "url": "https://open.spotify.com/track/5EXGhyLmJ3EotFnenZv9xm"
+    },
+    {
+      "album": {
         "name": "PA QUE LO BAILES (BAILALO ROCKY)",
         "url": "https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS"
       },
@@ -54570,7 +54650,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 120000,
       "name": "Qu\u00e9 Rico PR!",
       "url": "https://open.spotify.com/track/08C6m4alGcRaXEbm6IMsNs"
@@ -62080,7 +62160,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -62138,7 +62218,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
@@ -64336,7 +64416,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 307199,
       "name": "Te quiero en secreto",
       "url": "https://open.spotify.com/track/3sWwlCVpPjL6OTGLDRfVgH"
@@ -64358,6 +64438,24 @@
       "duration_ms": 325733,
       "name": "te quiero tanto",
       "url": "https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso"
+    },
+    {
+      "album": {
+        "name": "Entre nosotros",
+        "url": "https://open.spotify.com/album/5ys4XoyGb77htRTiKdjoeY"
+      },
+      "artists": [
+        {
+          "name": "WoundsMusic",
+          "url": "https://open.spotify.com/artist/4qqyZl4xNCFjYxMviA7Inv"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288360,
+      "name": "Te quiero tanto",
+      "url": "https://open.spotify.com/track/3kgS8XT7nXfObvqUfx2m4i"
     },
     {
       "album": {

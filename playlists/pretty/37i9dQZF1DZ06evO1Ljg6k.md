@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 
 > This is D'Angelo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,924 likes - 35 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,978 likes - 35 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ljg6k.md) - [plain]
 | 34 | [Believe](https://open.spotify.com/track/1HeuJBxrVjtxLeEJKm8Tez) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/3asZSLOAAtCNJz5W2LGuFJ) | 2:56 |
 | 35 | [Water No Get Enemy](https://open.spotify.com/track/5WFSTTKZxDnvr0EVBJTFpe) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd), [Femi Kuti](https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [The Soultronics](https://open.spotify.com/artist/4b3u2gT5QT5SApOmMUGDeN), [Positive Force](https://open.spotify.com/artist/6kDuO7eG1AJika9vpTF6yG) | [Red Hot + Riot](https://open.spotify.com/album/1A8CTj3nDNQrxNs6kXEYsq) | 10:10 |
 
-Snapshot ID: `aYPdgAAAAABeIzC3n9UDyfhoYLK0idwO`
+Snapshot ID: `aYkjgAAAAADZe9+Zw+BptAO/suQwp0iY`

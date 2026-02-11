@@ -4,7 +4,7 @@
 
 > The sound of Afrobeats echoing around the world\. Cover:  Wizkid & Asake
 
-156 songs - 8 hr 4 min
+157 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2025-10-10 |  |
 | [London Summers](https://open.spotify.com/track/43JEzpUepmETKeTwqLWauB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:37 | 2025-12-03 | 2026-01-16 |
 | [Look To You \(feat\. Llona\)](https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:00 | 2025-10-10 |  |
-| [Love](https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Love](https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY) | 3:07 | 2025-10-10 |  |
+| [Love](https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW), [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Love](https://open.spotify.com/album/5spgzPm7x3HPsfQLMDZYPY) | 3:07 | 2025-10-10 | 2026-02-11 |
 | [Love Me JeJe](https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:58 | 2025-10-10 |  |
 | [Mad Over You](https://open.spotify.com/track/1Sj9nMRXl6sKyJXYUJo0oi) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Mad Over You](https://open.spotify.com/album/4vqttz4ML0s9kAJ8M2Eue0) | 3:07 | 2025-12-03 | 2026-01-16 |
 | [MAGIC](https://open.spotify.com/track/4xAq1L431CBEpYit2yBY48) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [MAGIC](https://open.spotify.com/album/0g3F9EhMbH36hZUO3iSskb) | 2:57 | 2025-10-24 | 2026-01-16 |
@@ -138,6 +138,7 @@
 | [SSA](https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [VANDAL](https://open.spotify.com/artist/5h4q1RQZ3TrsU4fImHo11r), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele), [ajcookin](https://open.spotify.com/artist/3dPBvWJ7dL5kKn74P2ys0F) | [SSA](https://open.spotify.com/album/4MbRQR6jIWe9IQArJXVUFd) | 3:41 | 2025-12-03 | 2026-01-16 |
 | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/track/7iCvoWlfuJ1y7zibnh1EW9) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [TaTaTa \(feat\. Travis Scott\)](https://open.spotify.com/album/5g7VbiVwXeu8lVdj4tpAZ5) | 2:30 | 2025-10-10 |  |
 | [Telepatia](https://open.spotify.com/track/589zxmaP1M9N8AHVje76mF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:19 | 2025-11-07 | 2025-12-04 |
+| [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 | 2026-02-06 |  |
 | [top diesel](https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 3:09 | 2025-10-10 |  |
 | [Tout donner](https://open.spotify.com/track/3Xta6s5k5IwdTfjLwYMa7O) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Tout donner](https://open.spotify.com/album/2JX4Z6eoaQWk0AizkGIPBC) | 2:25 | 2025-10-10 |  |
 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 | 2025-12-03 | 2026-01-16 |

@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 62 | [Hope](https://open.spotify.com/track/096ZnSaLLYkslAd9oVXtp4) | [Texada](https://open.spotify.com/artist/39PgoLIR1mXfy0AktyYumn) | [Hope](https://open.spotify.com/album/6cHlVeJ95y7fhhaSjARwyN) | 3:33 |
 | 63 | [Hennessy in Tennessee](https://open.spotify.com/track/7K4hVTsys69mUpFtk4qR1T) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Open Bars](https://open.spotify.com/album/71X76aWEWXhLTfGYBsxiYB) | 2:45 |
 | 64 | [Betting Woman](https://open.spotify.com/track/3WJJ4LAuoDa3pPQwJalsJy) | [Ella Maddux](https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf) | [Betting Woman](https://open.spotify.com/album/5uOUedTIKu0JD0IPARPm0c) | 3:17 |
-| 65 | [Make You Stay](https://open.spotify.com/track/0v5XilXB3wnpwIbyxiIaOh) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Backseats and Burnt CDs](https://open.spotify.com/album/1OqREMCBqRnAvoe86lT30y) | 2:50 |
-| 66 | [Love's Got The Best Of Us](https://open.spotify.com/track/2uyecknCyzHBEzLvnNIx8L) | [Lamont Landers](https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq) | [Introducing...Lamont Landers](https://open.spotify.com/album/01r0m4CYWjCtRicKyencpQ) | 3:39 |
+| 65 | [Love's Got The Best Of Us](https://open.spotify.com/track/2uyecknCyzHBEzLvnNIx8L) | [Lamont Landers](https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq) | [Introducing...Lamont Landers](https://open.spotify.com/album/01r0m4CYWjCtRicKyencpQ) | 3:39 |
+| 66 | [Make You Stay](https://open.spotify.com/track/0v5XilXB3wnpwIbyxiIaOh) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Backseats and Burnt CDs](https://open.spotify.com/album/1OqREMCBqRnAvoe86lT30y) | 2:50 |
 | 67 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 |
 | 68 | [Happy First](https://open.spotify.com/track/0RL9kXYV2GMkhAzwDltwjE) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Entertainment For The Brokenhearted](https://open.spotify.com/album/7mfTAmmEfTmBP9dm5TAKEQ) | 3:17 |
 | 69 | [naked](https://open.spotify.com/track/342V5RVC9DFrYfAA6OOJkJ) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [wear your heart out](https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu) | 2:53 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 126 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 127 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `AcJPdAAAAADS36v4ZpE1S1oBLLceNpt2`
+Snapshot ID: `AcJVFAAAAACCjC9uSatatRYQMZl0KsWL`

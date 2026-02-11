@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: KID FRESINO",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: yubiori",
   "name": "Edge!",
   "tracks": [
     {
@@ -2741,7 +2741,7 @@
         },
         {
           "name": "YONCE",
-          "url": "https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf"
+          "url": "https://open.spotify.com/artist/5QnTDESz5t2Fq7m2B5a7IJ"
         }
       ],
       "date_added": "2026-02-03",
@@ -44503,6 +44503,24 @@
     },
     {
       "album": {
+        "name": "\u30e6\u30ca\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/2ON8Gtt7RORaGgMBgHIEPA"
+      },
+      "artists": [
+        {
+          "name": "yubiori",
+          "url": "https://open.spotify.com/artist/5oZhNJP1zUPqUW6RLwneNo"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352001,
+      "name": "\u30e6\u30ca\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/3VTmv71EuPw4b2ES0PPfFH"
+    },
+    {
+      "album": {
         "name": "\u30e6\u30cb\u30e9\u30d6",
         "url": "https://open.spotify.com/album/29ELlbVpXRAXytWaCvli0p"
       },
@@ -53978,7 +53996,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 163725,
       "name": "\u8857\u89d2\u7159\u7a81\u4ff1\u697d\u90e8",
       "url": "https://open.spotify.com/track/5iBzhtT9XcQwKDZm01p4o2"

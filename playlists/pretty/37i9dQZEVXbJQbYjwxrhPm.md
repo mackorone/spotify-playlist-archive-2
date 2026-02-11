@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,453 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,455 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 13 | [Трафик](https://open.spotify.com/track/1Upth6DB6AHg3tWFQ3gnpX) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Трафик](https://open.spotify.com/album/0RuQ7R8ieksjGTerAp0F8n) | 2:50 |
 | 14 | [Сила](https://open.spotify.com/track/4MT6GrseYj0lRmXh6CS8jU) | [MONA](https://open.spotify.com/artist/4J85eGUpDqjLFsQ4NYcnWs) | [Сила](https://open.spotify.com/album/3pyM4U2hyDbXKKry8o9UiE) | 3:04 |
 | 15 | [Бам Бам Бам](https://open.spotify.com/track/3cKFXnDX2AqTrLXGPIBI6j) | [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i) | [Бам Бам Бам](https://open.spotify.com/album/4RhHrWwy3WupzaU8JwbpIa) | 3:09 |
-| 16 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It Up to Me \[feat\. Keyshia Cole\]](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
+| 16 | [\(When You Gonna\) Give It Up to Me \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It Up to Me](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
 | 17 | [Тази дискотека](https://open.spotify.com/track/4ZMpVZ52QE7EMJ35F5ReN2) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Тази дискотека](https://open.spotify.com/album/4BKWSEifxxparI4dOCRrcq) | 3:33 |
 | 18 | [Добро момче](https://open.spotify.com/track/1KpfzzQNYJ56vqhOXk0SEt) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ) | [Добро момче](https://open.spotify.com/album/4g0MxR8h6gHyyJeNB3AuJ5) | 3:18 |
 | 19 | [Жива](https://open.spotify.com/track/3vGSyWD61PIGodkDpvYNDL) | [MONA](https://open.spotify.com/artist/4J85eGUpDqjLFsQ4NYcnWs) | [Жива](https://open.spotify.com/album/66eBaKR5mQmVUUuL7dx0cC) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 |
 | 50 | [Ne me zasluzhavash](https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O) | [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn), [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Dokato sartseto bie](https://open.spotify.com/album/4WIsDXVbpQ86N4brU4jVUl) | 3:33 |
 
-Snapshot ID: `MR1I8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MR6YGAAAAAAAAAAAAAAAAAAAAAAAAGVu`

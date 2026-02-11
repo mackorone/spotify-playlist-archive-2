@@ -4,7 +4,7 @@
 
 > This is PJ Harvey\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 15 min
+57 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Henry Lee \- feat\. PJ Harvey \- 2011 Remaster](https://open.spotify.com/track/7KBOqpM6DffK0bcEatfBl3) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Murder Ballads \(2011 Remaster\)](https://open.spotify.com/album/4E31tK5BolK5vmupVWHsva) | 3:58 | 2025-10-28 |  |
 | [Hit the City](https://open.spotify.com/track/3OXX5hy8YPQP9QYgzqaY2f) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Bubblegum](https://open.spotify.com/album/4tK7Hlb92sbC6OEKQG7QiJ) | 2:48 | 2025-10-28 |  |
 | [I Inside the Old I Dying](https://open.spotify.com/track/2lNYfvYzscwtbM6d6A7uly) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 3:08 | 2025-10-28 |  |
-| [I Inside the Old Year Dying](https://open.spotify.com/track/1bk0pE5DN0lfTx8pI9WerX) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 1:52 | 2025-10-28 |  |
+| [I Inside the Old Year Dying](https://open.spotify.com/track/1bk0pE5DN0lfTx8pI9WerX) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 1:52 | 2025-10-28 | 2026-02-11 |
 | [In The Dark Places](https://open.spotify.com/track/0fAoPbcLqVYS11D3Eds7J7) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 2:59 | 2025-10-28 |  |
 | [Is This Desire?](https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:25 | 2025-10-28 |  |
 | [Legs](https://open.spotify.com/track/2UVPkh6lrARjYDK42jC6kD) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 3:40 | 2025-10-28 | 2025-12-07 |
@@ -38,6 +38,7 @@
 | [On Battleship Hill](https://open.spotify.com/track/1u0lFRxxwIqigbkFCRprpV) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2JfiVMvVhdueC48EmskS7t) | 4:07 | 2025-10-28 |  |
 | [Piano Fire](https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 2:43 | 2025-10-28 |  |
 | [Prayer at the Gate](https://open.spotify.com/track/4ns5kqEVO7gospHYFeqlGz) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [I Inside the Old Year Dying](https://open.spotify.com/album/3Fx9t2cVbxwd01JjbDatgg) | 4:14 | 2025-10-28 |  |
+| [Red Right Hand](https://open.spotify.com/track/0iZ4UE5OZyQwSzTTm6yIW0) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [B\-Sides, Demos & Rarities](https://open.spotify.com/album/1MHs4v5JaQAN9gDJW8Emkr) | 2:52 | 2026-02-11 |  |
 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 | 2025-10-28 |  |
 | [Rub 'Til It Bleeds](https://open.spotify.com/track/2nZdhNwhvoaUIDqPG9rtz1) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 5:03 | 2025-10-28 |  |
 | [Send His Love To Me](https://open.spotify.com/track/1w4T78gf2IomS9eZR4cO7S) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [To Bring You My Love](https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8) | 4:20 | 2025-10-28 |  |

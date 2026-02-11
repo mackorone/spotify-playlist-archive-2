@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Max Styler
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 260,833 likes - 363 songs - 19 hr 4 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 260,819 likes - 363 songs - 19 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 31 | [Carolina](https://open.spotify.com/track/0mOjngRyUSSq47QUa0KLBI) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [Marco Generani](https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki) | [Carolina](https://open.spotify.com/album/4kyndnNaZKAmvWgYJ3hBYw) | 3:00 |
 | 32 | [On the Run](https://open.spotify.com/track/0un5XSbkR8750CFRzOPau6) | [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM) | [On the Run](https://open.spotify.com/album/6eiduOBVpVRU7ddSdTQTUd) | 2:49 |
 | 33 | [GET A JOB](https://open.spotify.com/track/24G6lVLkwnH6Bl8qd2C82f) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [GET A JOB](https://open.spotify.com/album/5hxEFrzzsk3yjdQ8Vdj4MW) | 3:20 |
-| 34 | [Feel It Coming](https://open.spotify.com/track/1YJF4B8vyqm3lasRu5yLU2) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [TW3LVE](https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A) | [Feel It Coming](https://open.spotify.com/album/2BKDavwQf5WkSTUCEQ5g2y) | 3:30 |
+| 34 | [Feel It Coming](https://open.spotify.com/track/1YJF4B8vyqm3lasRu5yLU2) | [OTTAGON](https://open.spotify.com/artist/49b9crFClEofQmf5078d31), [TW3LVE](https://open.spotify.com/artist/6ZWMciZmD94BCEGdxKQt7A), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Feel It Coming](https://open.spotify.com/album/2BKDavwQf5WkSTUCEQ5g2y) | 3:30 |
 | 35 | [Truth or Dare \- Fiesta Edit](https://open.spotify.com/track/1UclKL47YYsQcx6QHu2C2C) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Truth or Dare \(Fiesta Edit\)](https://open.spotify.com/album/640c4LJBfd3HhhneJjt99N) | 2:13 |
 | 36 | [Right On, Right On \- Vocal Edit](https://open.spotify.com/track/7CTYYMeByDGnaCouojDp3I) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Silicone Soul](https://open.spotify.com/artist/6VPQvrpzt328DmG3dmLbhE) | [Right On, Right On](https://open.spotify.com/album/02AC8OE8Mb2RHA0mNdj8Xq) | 3:10 |
 | 37 | [Don't Be Sad](https://open.spotify.com/track/5IqjGCECLR4Rze7gAGLwUO) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Don't Be Sad](https://open.spotify.com/album/5mirV0tXJenRtAHEV4C9cr) | 3:24 |

@@ -4,7 +4,7 @@
 
 > This is Arsenal Efectivo\. The essential tracks, all in one playlist.
 
-38 songs - 1 hr 53 min
+40 songs - 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [DDM Anthem](https://open.spotify.com/track/22ZE5l6Z9Z8I8eGk4Ty4OW) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Brianshredz](https://open.spotify.com/artist/2O1MkAEoviGw1rKuJGy62o), [Kevin Cortez](https://open.spotify.com/artist/5fvBv8QAPzf5Px6eE7Wdr9) | [DDM Anthem](https://open.spotify.com/album/5D4MjY99Ckh4N6wOedYy6c) | 4:18 | 2024-01-29 |  |
 | [Dicen Que Soy Marihuano](https://open.spotify.com/track/6bo5XTVD5D84mECgjaZXad) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 3:03 | 2024-01-29 |  |
 | [El Vivo Retrato \(Ivan Archivaldo\)](https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:44 | 2024-01-29 |  |
+| [Elegante Y A Mi Modo](https://open.spotify.com/track/0j6oGKzOeO0oADcHivpq78) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 3:44 | 2026-02-11 |  |
 | [Eternamente](https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Eternamente](https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1) | 3:58 | 2024-10-28 |  |
 | [Gente Chaka](https://open.spotify.com/track/28qTpHSCXu4ATe4Lwjvhmf) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Emiliano Aguilar](https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk), [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx) | [Gente Chaka](https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB) | 3:32 | 2025-09-21 |  |
 | [Gente De Negocio](https://open.spotify.com/track/3rZXsyClbQZPN20u3h8ADk) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 2:26 | 2024-01-29 |  |
@@ -28,8 +29,9 @@
 | [Lolo Felix \- En Vivo](https://open.spotify.com/track/5DDh6vErqpXSFBsn2Jetha) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Trap Corridos "En Vivo" Con Charchetas](https://open.spotify.com/album/4xBcyISN6IQaHm9nXhPxVA) | 3:50 | 2025-11-11 | 2025-12-09 |
 | [Los Recuerdos \(feat\. Arsenal Efectivo\)](https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:49 | 2024-01-29 |  |
 | [Peligro](https://open.spotify.com/track/4e57NeDTbHbdan24Vf6WU5) | [Trouble Kidd](https://open.spotify.com/artist/2BUm9jjApR6h94btZHECuw), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Peligro](https://open.spotify.com/album/1YcIp5ySMbCZJZAtBPuBAh) | 2:08 | 2024-01-29 |  |
-| [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 | 2024-01-29 |  |
+| [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 | 2024-01-29 | 2026-02-11 |
 | [Platicame De Ti \- En Vivo](https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr) | [Sol De Mi Tierra\- mariacheño](https://open.spotify.com/artist/51adjnMrqIJnsXRtyQkLFc), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Platicame De Ti \(En Vivo\)](https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is) | 2:54 | 2024-11-18 |  |
+| [Platícame De Ti \[Con Banda Y Bajoloche\]](https://open.spotify.com/track/0Fxl65lUxXWPGGbnvFa4Nr) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Platícame De Ti \[Con Banda Y Bajoloche\]](https://open.spotify.com/album/4yMNMGfURraXhNmz2Er9Gh) | 2:59 | 2026-02-11 |  |
 | [Playas](https://open.spotify.com/track/7xVJ2ccRAQpUWL6fHPslqL) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 2:26 | 2024-01-29 |  |
 | [Recio Andamos](https://open.spotify.com/track/6MNSEAJ2acxLtDVC1DmBu8) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:56 | 2024-01-29 |  |
 | [Sacando El Polvo](https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Sacando El Polvo](https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP) | 4:01 | 2025-01-19 |  |

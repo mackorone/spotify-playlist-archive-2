@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the folk from Punjab. Cover: Surinder Kaur",
-  "num_followers": 47384,
+  "num_followers": 47417,
   "original_name": "Folk Punjabi",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
+        "name": "Suhe Ve Cheere Waliya",
+        "url": "https://open.spotify.com/album/3P5YAxuCPE1WRZ8oXiM0Ln"
+      },
+      "artists": [
+        {
+          "name": "NAVNEET KAUR",
+          "url": "https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5"
+        }
+      ],
+      "duration_ms": 193404,
+      "name": "Suhe Ve Cheere Waliya",
+      "url": "https://open.spotify.com/track/6ewedOp4bawjafS1lsIPam"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
         "name": "Wanga Satrangiyan",
         "url": "https://open.spotify.com/album/4Q9YmHhaGHPhyaSuNipCzI"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Suhe Ve Cheere Waliya",
-        "url": "https://open.spotify.com/album/3P5YAxuCPE1WRZ8oXiM0Ln"
-      },
-      "artists": [
-        {
-          "name": "NAVNEET KAUR",
-          "url": "https://open.spotify.com/artist/0pVcOoM3HxoF8dWLo2RXc5"
-        }
-      ],
-      "duration_ms": 193404,
-      "name": "Suhe Ve Cheere Waliya",
-      "url": "https://open.spotify.com/track/6ewedOp4bawjafS1lsIPam"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
         "name": "Challa Mera Jee Dhola",
         "url": "https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Haani",
-        "url": "https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ"
-      },
-      "artists": [
-        {
-          "name": "Sarbjit Cheema",
-          "url": "https://open.spotify.com/artist/67MuCsoVbUNiltSTIzIq9E"
-        }
-      ],
-      "duration_ms": 243931,
-      "name": "Jagga",
-      "url": "https://open.spotify.com/track/3FPP8CPjv5Show7rV5xQKN"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
         "name": "Modern Punjab",
         "url": "https://open.spotify.com/album/162CAUtuQUzTo9HLPunr1R"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 285181,
       "name": "Mirza Saiba",
       "url": "https://open.spotify.com/track/6gveVm22PaA21mFIYZNaJb"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
+        "name": "Haani",
+        "url": "https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ"
+      },
+      "artists": [
+        {
+          "name": "Sarbjit Cheema",
+          "url": "https://open.spotify.com/artist/67MuCsoVbUNiltSTIzIq9E"
+        }
+      ],
+      "duration_ms": 243931,
+      "name": "Jagga",
+      "url": "https://open.spotify.com/track/3FPP8CPjv5Show7rV5xQKN"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
+        "name": "Punjabi Lok Rang",
+        "url": "https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG"
+      },
+      "artists": [
+        {
+          "name": "Surinder Kaur",
+          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Latthe Di Chadar - Mahiya",
+      "url": "https://open.spotify.com/track/4hvesFus234aJFjiExrWmY"
+    },
+    {
+      "added_at": "2026-01-13 11:20:11",
+      "album": {
         "name": "Laung Gawacha",
         "url": "https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 180000,
       "name": "Laung Gawacha",
       "url": "https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2"
-    },
-    {
-      "added_at": "2026-01-13 11:20:11",
-      "album": {
-        "name": "Punjabi Lok Rang",
-        "url": "https://open.spotify.com/album/23QaJYPtM3mYvxyGPYXEBG"
-      },
-      "artists": [
-        {
-          "name": "Surinder Kaur",
-          "url": "https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Latthe Di Chadar - Mahiya",
-      "url": "https://open.spotify.com/track/4hvesFus234aJFjiExrWmY"
     },
     {
       "added_at": "2026-01-13 11:20:11",
@@ -919,22 +919,18 @@
     {
       "added_at": "2026-01-13 11:20:11",
       "album": {
-        "name": "Sehreyan Wala",
-        "url": "https://open.spotify.com/album/7BH5M3s2ziaUQBm5R9PCrJ"
+        "name": "The King (Greatest Hits)",
+        "url": "https://open.spotify.com/album/2EhYAoGlyd6OZkNRhOq4JH"
       },
       "artists": [
         {
-          "name": "Pallavi Ishpuniyani",
-          "url": "https://open.spotify.com/artist/63r000HgiPQhuzUcZ9MwPf"
-        },
-        {
-          "name": "Avijeet Satapathy",
-          "url": "https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv"
+          "name": "Surjit Bindrakhia",
+          "url": "https://open.spotify.com/artist/2tcB32mxjVzmLcyfGizWNX"
         }
       ],
-      "duration_ms": 267241,
-      "name": "Sehreyan Wala",
-      "url": "https://open.spotify.com/track/1aAxE9RbR70oMFXa1JDi8P"
+      "duration_ms": 298251,
+      "name": "(Boliyan) Geetan Da Guldasta",
+      "url": "https://open.spotify.com/track/5PBB2DjqraVp7tdPlaZyD2"
     }
   ],
   "unique_name": "Folk Punjabi",

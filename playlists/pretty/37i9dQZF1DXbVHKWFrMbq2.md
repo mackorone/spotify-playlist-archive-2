@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVHKWFrMbq2.md) - [plain]
 
 > canciones para chillear con RAMMA & Cindy Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,009 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,026 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [cuando pase la tormenta \- Spotify Sessions](https://open.spotify.com/track/1wDzdboT18AyCJpRxXPW70) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:49 |
+| 1 | [cuando pase la tormenta \- Spotify Sessions](https://open.spotify.com/track/1wDzdboT18AyCJpRxXPW70) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:49 |
 | 2 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 3 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 4 | [Lose Control](https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:30 |

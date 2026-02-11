@@ -351,6 +351,32 @@
     },
     {
       "album": {
+        "name": "Banda Maarda",
+        "url": "https://open.spotify.com/album/0CP3FnpwMyzF4ulQQZuY8V"
+      },
+      "artists": [
+        {
+          "name": "Jind Dhillon",
+          "url": "https://open.spotify.com/artist/4VQsUvJlPaQfvRzVWangsv"
+        },
+        {
+          "name": "Dr Zeus",
+          "url": "https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150180,
+      "name": "Banda Maarda",
+      "url": "https://open.spotify.com/track/5t1Narq7R5GCcphjUfQgrH"
+    },
+    {
+      "album": {
         "name": "Birminghamm",
         "url": "https://open.spotify.com/album/2yVD5Ty0xKyFu1U748TaRP"
       },
@@ -962,7 +988,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 148163,
       "name": "Daily Routine",
       "url": "https://open.spotify.com/track/6vSNxyDVfCzZZ9V82VR3iX"
@@ -1356,7 +1382,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 176670,
       "name": "High End",
       "url": "https://open.spotify.com/track/5dUpL1UYXkjXqf55FrBLgr"
@@ -2310,7 +2336,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 165581,
       "name": "Pyaar Tenu Karda Gabru (From \"Shubh Mangal Zyada Saavdhan\")",
       "url": "https://open.spotify.com/track/0OcVZqIer0LLu3K8sdU5Yb"

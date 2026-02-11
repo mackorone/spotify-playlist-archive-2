@@ -1,12 +1,12 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! ",
-  "num_followers": 29186,
+  "num_followers": 29190,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL6q1lQG06wxnCeXQAbNxhTnb0Vs",
+  "snapshot_id": "AAAAALIZ1vfWB42eRI/mRYwrD4wxw5Q3",
   "tracks": [
     {
       "added_at": "2026-02-03 11:41:19",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
-        "name": "SZ\u00c9TSZEDLEK",
-        "url": "https://open.spotify.com/album/4W2z0vIh10GRUf0y146kae"
-      },
-      "artists": [
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        },
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        }
-      ],
-      "duration_ms": 151421,
-      "name": "SZ\u00c9TSZEDLEK",
-      "url": "https://open.spotify.com/track/6glRr1LaVOoIhMjQ5ZDzXe"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
         "name": "\u00c9DEN",
         "url": "https://open.spotify.com/album/4TFfAeuhL7h30cwZv29rzI"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 190000,
       "name": "\u00c9DEN",
       "url": "https://open.spotify.com/track/37rab2ZEkXwsPboXTZxHBf"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
+        "name": "SZ\u00c9TSZEDLEK",
+        "url": "https://open.spotify.com/album/4W2z0vIh10GRUf0y146kae"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "duration_ms": 151421,
+      "name": "SZ\u00c9TSZEDLEK",
+      "url": "https://open.spotify.com/track/6glRr1LaVOoIhMjQ5ZDzXe"
     },
     {
       "added_at": "2026-02-03 11:41:19",
@@ -1035,18 +1035,22 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
-        "name": "BABY \u00c9N NEM J\u00c1TSZOM",
-        "url": "https://open.spotify.com/album/3nKzfmwfoZ5Nhc4K1EMOKk"
+        "name": "MARIO",
+        "url": "https://open.spotify.com/album/4hBIjSARJ1kmQE351GDdp0"
       },
       "artists": [
         {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+          "name": "LMEN PRALA",
+          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
+        },
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
         }
       ],
-      "duration_ms": 135172,
-      "name": "BABY \u00c9N NEM J\u00c1TSZOM",
-      "url": "https://open.spotify.com/track/69PO2SFd17GwZgI7t5z7iP"
+      "duration_ms": 140000,
+      "name": "MARIO",
+      "url": "https://open.spotify.com/track/4AFGsWF8bF7w8s1gqUucvj"
     },
     {
       "added_at": "2026-02-03 11:41:19",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
-        "name": "MARIO",
-        "url": "https://open.spotify.com/album/4hBIjSARJ1kmQE351GDdp0"
+        "name": "BABY \u00c9N NEM J\u00c1TSZOM",
+        "url": "https://open.spotify.com/album/3nKzfmwfoZ5Nhc4K1EMOKk"
       },
       "artists": [
         {
-          "name": "LMEN PRALA",
-          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
-        },
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
         }
       ],
-      "duration_ms": 140000,
-      "name": "MARIO",
-      "url": "https://open.spotify.com/track/4AFGsWF8bF7w8s1gqUucvj"
+      "duration_ms": 135172,
+      "name": "BABY \u00c9N NEM J\u00c1TSZOM",
+      "url": "https://open.spotify.com/track/69PO2SFd17GwZgI7t5z7iP"
     },
     {
       "added_at": "2026-02-03 11:41:19",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
-        "name": "NINTENDO",
-        "url": "https://open.spotify.com/album/5JK5KmPYSR3Ruys8nDUa7c"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "NINTENDO",
-      "url": "https://open.spotify.com/track/5MOlhGLex8jhMeyUPSsanz"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
         "name": "A b\u00e1lban",
         "url": "https://open.spotify.com/album/0x89eDYKFXBDebJqzTyt5b"
       },
@@ -1195,6 +1179,38 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
+        "name": "NINTENDO",
+        "url": "https://open.spotify.com/album/5JK5KmPYSR3Ruys8nDUa7c"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "NINTENDO",
+      "url": "https://open.spotify.com/track/5MOlhGLex8jhMeyUPSsanz"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
+        "name": "gy\u00f3gy\u00edt\u00f3 frekvenci\u00e1k",
+        "url": "https://open.spotify.com/album/6gkKqaV7xx606MJbzt4rDG"
+      },
+      "artists": [
+        {
+          "name": "gyuris",
+          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "ponyvareg\u00e9ny",
+      "url": "https://open.spotify.com/track/6DrfQHh6q7ugiGeE6DSN5E"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 176969,
       "name": "Rajosan 3",
       "url": "https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
-        "name": "gy\u00f3gy\u00edt\u00f3 frekvenci\u00e1k",
-        "url": "https://open.spotify.com/album/6gkKqaV7xx606MJbzt4rDG"
-      },
-      "artists": [
-        {
-          "name": "gyuris",
-          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "ponyvareg\u00e9ny",
-      "url": "https://open.spotify.com/track/6DrfQHh6q7ugiGeE6DSN5E"
     },
     {
       "added_at": "2026-02-03 11:41:19",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-02-03 11:41:19",
       "album": {
+        "name": "POKOL",
+        "url": "https://open.spotify.com/album/2KG6WRzwryqLWd2UUfDS94"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 185783,
+      "name": "POKOL",
+      "url": "https://open.spotify.com/track/7lIfQpi27wkoNeNJ6qtt3p"
+    },
+    {
+      "added_at": "2026-02-03 11:41:19",
+      "album": {
         "name": "GETT\u00d3MILLIOMOS",
         "url": "https://open.spotify.com/album/1OT0WsyUUHjpX71v9pssW6"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 192666,
       "name": "GETT\u00d3MILLIOMOS",
       "url": "https://open.spotify.com/track/5Qy43wtpEMYgLMONxYn7uZ"
-    },
-    {
-      "added_at": "2026-02-03 11:41:19",
-      "album": {
-        "name": "POKOL",
-        "url": "https://open.spotify.com/album/2KG6WRzwryqLWd2UUfDS94"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 185783,
-      "name": "POKOL",
-      "url": "https://open.spotify.com/track/7lIfQpi27wkoNeNJ6qtt3p"
     },
     {
       "added_at": "2026-02-03 11:41:19",

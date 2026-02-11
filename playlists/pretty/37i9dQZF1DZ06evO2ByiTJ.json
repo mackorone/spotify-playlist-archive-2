@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 15684,
+  "num_followers": 15688,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABjpywun3LMx4+HxZCcN+qI",
+  "snapshot_id": "aYkjgAAAAAC1qVxAb9CjQtTUK5VtU6eC",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Templo Fit Remix",
-        "url": "https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Volte a Sonhar Remix",
-      "url": "https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santifica\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
       },
@@ -283,28 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 369280,
-      "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teu Querer",
-        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+        "name": "Templo Fit Remix",
+        "url": "https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb"
       },
       "artists": [
         {
@@ -312,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 247246,
-      "name": "Lindo Presente",
-      "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
+      "duration_ms": 236266,
+      "name": "Volte a Sonhar Remix",
+      "url": "https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb"
     },
     {
       "added_at": null,
@@ -335,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teu Querer",
+        "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 247246,
+      "name": "Lindo Presente",
+      "url": "https://open.spotify.com/track/0jFilBxEG8xeUDI1pud6hM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus Voltar\u00e1",
         "url": "https://open.spotify.com/album/33IYZiBre2fcfD2AMmIKKy"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 264146,
       "name": "Jesus Voltar\u00e1",
       "url": "https://open.spotify.com/track/7DnX7ZMlvAuWOUDwGrmt98"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Uc7YEZkpObjE8kc1gr3kG"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 369280,
+      "name": "Sonhos N\u00e3o T\u00eam Fim + Volte a Sonhar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3Z4d093Y32jjGjEY6Q3KgH"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Santifica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 230806,
+      "name": "O Pre\u00e7o da Chamada",
+      "url": "https://open.spotify.com/track/5rqa3b6OWWHAxLgU8Cw5Lv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Santifica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 230806,
-      "name": "O Pre\u00e7o da Chamada",
-      "url": "https://open.spotify.com/track/5rqa3b6OWWHAxLgU8Cw5Lv"
     },
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ex\u00e9rcito de Deus",
+        "url": "https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 254186,
+      "name": "Ex\u00e9rcito de Deus",
+      "url": "https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus te Viu (Ao Vivo)",
         "url": "https://open.spotify.com/album/5N1lgeek97qwDze56UGdbT"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 269360,
       "name": "Sobrevivi (Ao Vivo)",
       "url": "https://open.spotify.com/track/0MRdJOx3IRuclfyzlDfscT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ex\u00e9rcito de Deus",
-        "url": "https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 254186,
-      "name": "Ex\u00e9rcito de Deus",
-      "url": "https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus dos Deuses (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 255300,
-      "name": "Deus dos Deuses (Ao Vivo)",
-      "url": "https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teu Querer",
         "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
@@ -615,6 +599,38 @@
       "duration_ms": 297679,
       "name": "Vasos Quebrados",
       "url": "https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus dos Deuses (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 255300,
+      "name": "Deus dos Deuses (Ao Vivo)",
+      "url": "https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Senha",
+        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 263613,
+      "name": "A Senha",
+      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
     },
     {
       "added_at": null,
@@ -655,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Senha",
-        "url": "https://open.spotify.com/album/6TKcNV9p9n1ZRZp90rGoXC"
+        "name": "Reaja",
+        "url": "https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB"
       },
       "artists": [
         {
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 263613,
-      "name": "A Senha",
-      "url": "https://open.spotify.com/track/2faGKVtOBptk7XWYgzIZmz"
+      "duration_ms": 256252,
+      "name": "Reaja",
+      "url": "https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe"
     },
     {
       "added_at": null,
@@ -687,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reaja",
-        "url": "https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB"
+        "name": "P\u00e1gina em Branco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
       },
       "artists": [
         {
@@ -696,25 +712,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 256252,
-      "name": "Reaja",
-      "url": "https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Nuvem (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "A Nuvem (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs"
+      "duration_ms": 309243,
+      "name": "P\u00e1gina em Branco (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1gina em Branco (Ao Vivo)",
-        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
+        "name": "A Nuvem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe"
       },
       "artists": [
         {
@@ -748,9 +748,25 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 309243,
-      "name": "P\u00e1gina em Branco (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
+      "duration_ms": 249426,
+      "name": "A Nuvem (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 249786,
+      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
     },
     {
       "added_at": null,
@@ -791,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64QoMsxBrtNxaFttO3t8ZC"
+        "name": "Oceano de L\u00e1grimas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
       },
       "artists": [
         {
@@ -800,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 249786,
-      "name": "O Projeto \u00e9 Grande (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2XlkukouNE8qW5NbRqrK0o"
+      "duration_ms": 257416,
+      "name": "Oceano de L\u00e1grimas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
     },
     {
       "added_at": null,
@@ -827,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceano de L\u00e1grimas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 257416,
-      "name": "Oceano de L\u00e1grimas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
         "url": "https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 282447,
       "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
       "url": "https://open.spotify.com/track/2mjqg4jZHavTfQtzVydvc9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 247756,
-      "name": "O Melhor da Festa",
-      "url": "https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4"
     },
     {
       "added_at": null,
@@ -891,6 +875,22 @@
       "duration_ms": 260062,
       "name": "Filho Volta (Ao Vivo)",
       "url": "https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 247756,
+      "name": "O Melhor da Festa",
+      "url": "https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4"
     },
     {
       "added_at": null,

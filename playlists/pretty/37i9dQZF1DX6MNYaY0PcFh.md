@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Silva Bumpa
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,438 likes - 70 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,450 likes - 70 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 59 | [DARWIN](https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [MY NAME IS OPP!](https://open.spotify.com/album/5RTxCB2LbNTkswQrDLtQeK) | 3:58 |
 | 60 | [All I Wanna Do](https://open.spotify.com/track/5HUC9IjfAU9OG0L0BU339b) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [All I Wanna Do](https://open.spotify.com/album/5jsXGxUYryqVDBgfm8rxAH) | 3:04 |
 | 61 | [Passport](https://open.spotify.com/track/3VJYY6eFLhRyxrCloEW9Ch) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Passport](https://open.spotify.com/album/6KAJubTn2kF6YPQYNaPg3T) | 2:42 |
-| 62 | [For Me](https://open.spotify.com/track/1lJh7RbM1ZzRaFRI5o6Asp) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [Queen Millz](https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0) | [For Me](https://open.spotify.com/album/5giv1RyEVkLHDvrSGS0Lxe) | 3:05 |
-| 63 | [Don't Mess With My Man](https://open.spotify.com/track/6AbDWgYKGv33HydVxRi30a) | [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV), [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I), [Greg Stainer](https://open.spotify.com/artist/70xShvYwZOSCeZdnZuzRNG) | [Don't Mess With My Man](https://open.spotify.com/album/5iSBcRXrbFmZInDMFr1Ti7) | 2:30 |
-| 64 | [Better Me](https://open.spotify.com/track/4bojZve0xCpsRJNEzHf6Bv) | [Lug](https://open.spotify.com/artist/69gtMRCV4FBL9yKEHQyDhB) | [Better Me](https://open.spotify.com/album/6YWeyPk6ZiOHsBdAi0FuCK) | 2:24 |
+| 62 | [Don't Mess With My Man](https://open.spotify.com/track/6AbDWgYKGv33HydVxRi30a) | [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV), [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I), [Greg Stainer](https://open.spotify.com/artist/70xShvYwZOSCeZdnZuzRNG) | [Don't Mess With My Man](https://open.spotify.com/album/5iSBcRXrbFmZInDMFr1Ti7) | 2:30 |
+| 63 | [Better Me](https://open.spotify.com/track/4bojZve0xCpsRJNEzHf6Bv) | [Lug](https://open.spotify.com/artist/69gtMRCV4FBL9yKEHQyDhB) | [Better Me](https://open.spotify.com/album/6YWeyPk6ZiOHsBdAi0FuCK) | 2:24 |
+| 64 | [For Me](https://open.spotify.com/track/1lJh7RbM1ZzRaFRI5o6Asp) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [Queen Millz](https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0) | [For Me](https://open.spotify.com/album/5giv1RyEVkLHDvrSGS0Lxe) | 3:05 |
 | 65 | [Draw a Line](https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL) | [Lu.Re](https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN) | [Draw a Line](https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH) | 3:25 |
-| 66 | [Move](https://open.spotify.com/track/7eNuFZZpQ09MXhagDr7BOf) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv) | [Move](https://open.spotify.com/album/3Al1XQtViHGZgcmEqO2IIx) | 2:40 |
-| 67 | [Big Truck](https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Big Truck](https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi) | 1:51 |
+| 66 | [Big Truck](https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Big Truck](https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi) | 1:51 |
+| 67 | [Straight From The Underground](https://open.spotify.com/track/2zNOr9xeXhb1Wverupu0uP) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Straight From The Underground](https://open.spotify.com/album/6Cx0pmwZLVvxawm1st4AuX) | 3:13 |
 | 68 | [With You](https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/1STaSLMAgjTvXuQTOqyvEw) | 3:21 |
-| 69 | [Straight From The Underground](https://open.spotify.com/track/2zNOr9xeXhb1Wverupu0uP) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Straight From The Underground](https://open.spotify.com/album/6Cx0pmwZLVvxawm1st4AuX) | 3:13 |
-| 70 | [Rain](https://open.spotify.com/track/5O6tALLpAxNPr1CTnGztYe) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Rain](https://open.spotify.com/album/3vZEyzRYGl5hxPtYShZkaU) | 2:50 |
+| 69 | [Rain](https://open.spotify.com/track/5O6tALLpAxNPr1CTnGztYe) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Rain](https://open.spotify.com/album/3vZEyzRYGl5hxPtYShZkaU) | 2:50 |
+| 70 | [Move](https://open.spotify.com/track/7eNuFZZpQ09MXhagDr7BOf) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv) | [Move](https://open.spotify.com/album/3Al1XQtViHGZgcmEqO2IIx) | 2:40 |
 
 Snapshot ID: `AAAAAK3p7ydBzBx+KfTbblitirV4c3NF`

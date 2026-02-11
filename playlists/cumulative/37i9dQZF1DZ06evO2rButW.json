@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184146,
+      "name": "No Te Me Quites De Ac\u00e1",
+      "url": "https://open.spotify.com/track/0kMMVzmtMFoP2us11Em5Tv"
+    },
+    {
+      "album": {
         "name": "NO+SAD",
         "url": "https://open.spotify.com/album/5PayAvswrSHHs3J0nrnIam"
       },
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 219413,
       "name": "Placer Hollywood",
       "url": "https://open.spotify.com/track/6A4bRnkCUD8DzcV3z2aHtn"

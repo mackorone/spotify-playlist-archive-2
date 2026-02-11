@@ -4,7 +4,7 @@
 
 > Vaundyの楽曲を1つのプレイリストで。All the essentials from Vaundy.
 
-87 songs - 7 hr 27 min
+88 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [まぶた](https://open.spotify.com/track/2TUKLEXyjtKOmTjJupAexh) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:16 | 2023-11-14 |  |
 | [カーニバル](https://open.spotify.com/track/5XGhwqu1TB391if1pD4lje) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:23 | 2023-11-14 |  |
 | [ココロありがとう](https://open.spotify.com/track/0BJoEqn7PsV1M36n1qXZ1l) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/3r4dZNt9oSqtYHs5SJOxbm) | 4:48 | 2024-02-27 |  |
+| [シンギュラリティ](https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [シンギュラリティ](https://open.spotify.com/album/43LrARnpinuGWHiRvEwAxZ) | 4:08 | 2026-02-10 |  |
 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 | 2024-01-06 | 2024-02-29 |
 | [タイムパラドックス](https://open.spotify.com/track/5tUXcVSQKwoVVkziZmCOTM) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/3r4dZNt9oSqtYHs5SJOxbm) | 3:47 | 2024-02-27 |  |
 | [トドメの一撃](https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:10 | 2023-11-14 |  |

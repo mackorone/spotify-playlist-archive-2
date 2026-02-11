@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 374889,
+  "num_followers": 374903,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABoa04ywYx7bDpG8hPIfa4q",
+  "snapshot_id": "aYkjgAAAAAALYhAOPoR/LWjDKgKDCESZ",
   "tracks": [
     {
       "added_at": null,
@@ -116,45 +116,13 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/2439UmlGFWg5C0CAreyr9L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backless",
-        "url": "https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "461 Ocean Blvd. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 263746,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
+      "duration_ms": 221693,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3KePc5zqybSrshHWzo65pk"
     },
     {
       "added_at": null,
@@ -179,6 +147,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "461 Ocean Blvd. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 263746,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Backless",
+        "url": "https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
         "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
@@ -188,13 +188,13 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3KePc5zqybSrshHWzo65pk"
+      "duration_ms": 228146,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2439UmlGFWg5C0CAreyr9L"
     },
     {
       "added_at": null,
@@ -307,42 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Nobody Knows You When You're Down and Out - Acoustic Live",
-      "url": "https://open.spotify.com/track/7sVxm1I8G8tTznXeirDEXm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Don White",
-          "url": "https://open.spotify.com/artist/3LPEgo9F2HJTkMFTtUbi1G"
-        }
-      ],
-      "duration_ms": 317320,
-      "name": "Sensitive Kind",
-      "url": "https://open.spotify.com/track/5P6cmAVNoSIWyqZm9gu0mQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bob Dylan - 30th Anniversary Concert Celebration [(Deluxe Edition) [Remastered]]",
         "url": "https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu"
       },
@@ -379,6 +343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Don White",
+          "url": "https://open.spotify.com/artist/3LPEgo9F2HJTkMFTtUbi1G"
+        }
+      ],
+      "duration_ms": 317320,
+      "name": "Sensitive Kind",
+      "url": "https://open.spotify.com/track/5P6cmAVNoSIWyqZm9gu0mQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Concert For George (Live)",
         "url": "https://open.spotify.com/album/6EvU9hFh2ZPeumNOFy1dAu"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 357104,
       "name": "While My Guitar Gently Weeps - Live",
       "url": "https://open.spotify.com/track/6ZHCQehGCpGWTi6wEzs8vf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Nobody Knows You When You're Down and Out - Acoustic Live",
+      "url": "https://open.spotify.com/track/7sVxm1I8G8tTznXeirDEXm"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 471546,
-      "name": "Old Love - Acoustic Live",
-      "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
+      "duration_ms": 186534,
+      "name": "They Call Me The Breeze",
+      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 186534,
-      "name": "They Call Me The Breeze",
-      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5"
+      "duration_ms": 471546,
+      "name": "Old Love - Acoustic Live",
+      "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
     },
     {
       "added_at": null,
@@ -491,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 249440,
-      "name": "Heads in Georgia",
-      "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
+      "duration_ms": 147853,
+      "name": "Cajun Moon",
+      "url": "https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj"
     },
     {
       "added_at": null,
@@ -527,18 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 147853,
-      "name": "Cajun Moon",
-      "url": "https://open.spotify.com/track/5JCCKyYQlvg5HujwnZ43Sj"
+      "duration_ms": 249440,
+      "name": "Heads in Georgia",
+      "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 301266,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
@@ -611,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "461 Ocean Blvd. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
       },
       "artists": [
         {
@@ -620,9 +604,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 298280,
-      "name": "Let It Grow",
-      "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
+      "duration_ms": 301266,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "461 Ocean Blvd. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 298280,
+      "name": "Let It Grow",
+      "url": "https://open.spotify.com/track/2sXBdtNvV7fn1wbTzFrKrf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pilgrim",
         "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 251453,
-      "name": "It's in the Way That You Use It",
-      "url": "https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unplugged (Deluxe Edition) (Live)",
         "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 390893,
       "name": "Running on Faith - Acoustic Live",
       "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/02v9Z7vUiuWUlOlNzNtmPA"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 251453,
+      "name": "It's in the Way That You Use It",
+      "url": "https://open.spotify.com/track/02FvigqN15ekfiaR42pJHu"
     },
     {
       "added_at": null,
@@ -751,18 +751,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Journeyman",
-        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
       },
       "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 283280,
-      "name": "Pretending",
-      "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks"
+      "duration_ms": 305706,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7"
     },
     {
       "added_at": null,
@@ -779,6 +787,38 @@
       "duration_ms": 327760,
       "name": "Lonely Stranger - Acoustic Live",
       "url": "https://open.spotify.com/track/09wkXiaJ2KJYX9M3SmToF8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Journeyman",
+        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 283280,
+      "name": "Pretending",
+      "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money and Cigarettes (2007 Remaster)",
+        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "I've Got a Rock 'n' Roll Heart",
+      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
     },
     {
       "added_at": null,
@@ -803,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money and Cigarettes (2007 Remaster)",
-        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
         {
@@ -812,9 +852,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 193386,
-      "name": "I've Got a Rock 'n' Roll Heart",
-      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
+      "duration_ms": 208693,
+      "name": "San Francisco Bay Blues - Acoustic Live",
+      "url": "https://open.spotify.com/track/6v8CskmNAAvz9tvxKfO8i1"
     },
     {
       "added_at": null,
@@ -863,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "San Francisco Bay Blues - Acoustic Live",
-      "url": "https://open.spotify.com/track/6v8CskmNAAvz9tvxKfO8i1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eric Clapton",
         "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
@@ -911,22 +935,6 @@
       "duration_ms": 256866,
       "name": "It's Easy",
       "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Journeyman",
-        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 308746,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/185dxn5sEgOnBX5iwCDHkp"
     }
   ],
   "unique_name": "This Is Eric Clapton",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 207333,
+  "num_followers": 207346,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAAI0qUuoAWKnlNGbozkT4RG",
+  "snapshot_id": "aYkjgAAAAADndYBItRvL6SSsMeJNXyCf",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stand In Your Love (Radio Version)",
+        "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Stand In Your Love (Radio Version)",
+      "url": "https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starlight (Live)",
         "url": "https://open.spotify.com/album/6FQt2yjB8m4548YBYLTqZZ"
       },
@@ -247,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Will Not Be Shaken",
-        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        }
-      ],
-      "duration_ms": 415079,
-      "name": "Jesus We Love You",
-      "url": "https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand In Your Love (Radio Version)",
-        "url": "https://open.spotify.com/album/2Hj6wZap379k7FpV2totRj"
+        "name": "We Will Not Be Shaken",
+        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
       },
       "artists": [
         {
@@ -296,13 +296,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
         }
       ],
-      "duration_ms": 221333,
-      "name": "Stand In Your Love (Radio Version)",
-      "url": "https://open.spotify.com/track/4d6i3I2AgCx8CD54Tjr5pF"
+      "duration_ms": 415079,
+      "name": "Jesus We Love You",
+      "url": "https://open.spotify.com/track/1OMwaR5rsyfT2wB48Dm5aK"
     },
     {
       "added_at": null,
@@ -571,30 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Must Respond (Deluxe) [Live]",
-        "url": "https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
-          "name": "Hannah McClure",
-          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
-        }
-      ],
-      "duration_ms": 419549,
-      "name": "Even Though I Walk - Live At Church",
-      "url": "https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have It All (Live)",
         "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
@@ -675,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
+        "name": "We Must Respond (Deluxe) [Live]",
+        "url": "https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y"
       },
       "artists": [
         {
@@ -684,13 +660,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Hannah McClure",
+          "url": "https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya"
         }
       ],
-      "duration_ms": 315767,
-      "name": "My King Forever (Live)",
-      "url": "https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg"
+      "duration_ms": 419549,
+      "name": "Even Though I Walk - Live At Church",
+      "url": "https://open.spotify.com/track/4gcWgDaQTIbFt1jvI7z1qR"
     },
     {
       "added_at": null,
@@ -735,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 315767,
+      "name": "My King Forever (Live)",
+      "url": "https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Elohim (Live)",
         "url": "https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ"
       },
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 382600,
-      "name": "Egypt (Live)",
-      "url": "https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -791,30 +771,6 @@
       "duration_ms": 339041,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 479771,
-      "name": "Son Of Suffering (Live)",
-      "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
     },
     {
       "added_at": null,
@@ -859,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Be Lifted High",
+        "url": "https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+        }
+      ],
+      "duration_ms": 300973,
+      "name": "One Thing Remains",
+      "url": "https://open.spotify.com/track/1vH145HxXVObf4vzXaWuEG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
       },
@@ -879,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
       "artists": [
         {
@@ -888,13 +864,53 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 293377,
-      "name": "Tend",
-      "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
+      "duration_ms": 479771,
+      "name": "Son Of Suffering (Live)",
+      "url": "https://open.spotify.com/track/2vfgqPwJMnA000xbraSiPt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "For the One (Instrumental)",
+      "url": "https://open.spotify.com/track/023cGgIWTxiecyhr4hV6WW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 382600,
+      "name": "Egypt (Live)",
+      "url": "https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w"
     },
     {
       "added_at": null,
@@ -919,18 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
         }
       ],
-      "duration_ms": 241400,
-      "name": "For the One (Instrumental)",
-      "url": "https://open.spotify.com/track/023cGgIWTxiecyhr4hV6WW"
+      "duration_ms": 293377,
+      "name": "Tend",
+      "url": "https://open.spotify.com/track/4x6SymFX0lfohFb6rUk9dj"
     },
     {
       "added_at": null,
@@ -955,46 +975,6 @@
       "duration_ms": 434745,
       "name": "Holy Hands - Live",
       "url": "https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be Lifted High",
-        "url": "https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
-        }
-      ],
-      "duration_ms": 300973,
-      "name": "One Thing Remains",
-      "url": "https://open.spotify.com/track/1vH145HxXVObf4vzXaWuEG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Want Jesus (Live)",
-        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
-        }
-      ],
-      "duration_ms": 369923,
-      "name": "I Want Jesus - Live",
-      "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
     },
     {
       "added_at": null,
@@ -1039,6 +1019,26 @@
       "duration_ms": 297000,
       "name": "Promises Never Fail (Live)",
       "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Want Jesus (Live)",
+        "url": "https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        }
+      ],
+      "duration_ms": 369923,
+      "name": "I Want Jesus - Live",
+      "url": "https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y"
     }
   ],
   "unique_name": "This Is Bethel Music",

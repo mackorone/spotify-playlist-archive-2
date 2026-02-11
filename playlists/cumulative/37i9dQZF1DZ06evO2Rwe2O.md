@@ -4,7 +4,7 @@
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-91 songs - 6 hr 13 min
+92 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Free](https://open.spotify.com/track/6DN22FsJ6HYtZK2mhpwBaA) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ) | 4:15 | 2025-05-27 | 2025-07-06 |
 | [Friend Like You](https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [One And Only](https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN) | 3:35 | 2024-04-19 |  |
 | [From Here](https://open.spotify.com/track/3pcHBtO6656mInuhof9xQ8) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:28 | 2023-06-22 | 2024-01-24 |
+| [Give My Life Away](https://open.spotify.com/track/3iDTEmVOl7yjNhzS5tFxe1) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 3:11 | 2026-02-11 |  |
 | [God Is In This Story](https://open.spotify.com/track/33aQwepAntQvwsIk8rFiB4) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:27 | 2024-08-03 |  |
 | [God Is In This Story](https://open.spotify.com/track/7m0BMNyTpSnsJYfsRiHw2T) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [God Is In This Story](https://open.spotify.com/album/4EsF6LpMu2xAxL0tGooqs3) | 3:27 | 2023-03-10 | 2023-03-18 |
 | [Good Good Father \- Live](https://open.spotify.com/track/4F6XmVjxpAVnAY9IuYou44) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 5:44 | 2023-03-10 |  |
@@ -62,7 +63,7 @@
 | [Lions And Eagles](https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ) | 3:00 | 2025-05-26 |  |
 | [Louder Than The Lies](https://open.spotify.com/track/2DHvfbdpLowMAsbfxDoiJR) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Let It Begin](https://open.spotify.com/album/6KYFAtnJMs1ohD5fDOFXWQ) | 3:51 | 2025-05-25 |  |
 | [Love Come To Life](https://open.spotify.com/track/26FQmwQ538RwRB7vV3KLjR) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 3:46 | 2023-03-10 |  |
-| [Maker of the Wind](https://open.spotify.com/track/0c6ycONajngTNG7TPTAEKN) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:30 | 2023-03-10 |  |
+| [Maker of the Wind](https://open.spotify.com/track/0c6ycONajngTNG7TPTAEKN) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:30 | 2023-03-10 | 2026-02-11 |
 | [My Hope Is Jesus](https://open.spotify.com/track/3Wqc6im6bBdgm1ppqPKRbr) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [My Hope Is Jesus](https://open.spotify.com/album/0suKwr6W4OBe14hvXCTFpS) | 4:02 | 2024-09-29 |  |
 | [My Story](https://open.spotify.com/track/6Dkou08rjWrgGijVmoAVZp) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 4:38 | 2023-03-10 |  |
 | [Neighborhoods](https://open.spotify.com/track/5olQics7uPj0dp1vBTkyYe) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 4:33 | 2023-03-10 |  |

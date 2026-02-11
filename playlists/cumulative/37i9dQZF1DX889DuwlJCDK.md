@@ -2,9 +2,9 @@
 
 ### [青春と一瞬](https://open.spotify.com/playlist/37i9dQZF1DX889DuwlJCDK)
 
-> 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: SATOH
+> 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: TOOBOE
 
-1,551 songs - 3 day 21 hr 40 min
+1,552 songs - 3 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Apollo \- Single Version](https://open.spotify.com/track/2p8GxDwi4ZH7WrvSOprFqi) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Apollo](https://open.spotify.com/album/7pJkY6zhcFm4jzSeGEUy6k) | 3:48 | 2025-02-04 | 2025-11-05 |
 | [aquarium](https://open.spotify.com/track/5BWT3Lvw8lwkhKHlz0EK7A) | [カラノア](https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m) | [ネオンテトラ](https://open.spotify.com/album/5eBe2vfBo5KDCoTwC1vVGf) | 3:24 | 2025-07-29 | 2025-10-15 |
 | [Arifureta](https://open.spotify.com/track/2B44z1C18AAvoq14EKbAgi) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [Arifureta](https://open.spotify.com/album/2kNc23dtN8BPMkd2fNgumj) | 3:41 | 2025-04-08 | 2025-04-23 |
-| [Aru ryuseigun](https://open.spotify.com/track/3uhm4bZRlimOth54MzjCQK) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [nude](https://open.spotify.com/album/44s4eyKJJmyJ3vWfZVXHqg) | 3:38 | 2026-01-27 |  |
+| [Aru ryuseigun](https://open.spotify.com/track/3uhm4bZRlimOth54MzjCQK) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [nude](https://open.spotify.com/album/44s4eyKJJmyJ3vWfZVXHqg) | 3:38 | 2026-01-27 | 2026-02-11 |
 | [Ayanami](https://open.spotify.com/track/34RGbpH0MRSxL0OQssmHQ3) | [sayonaramiochan](https://open.spotify.com/artist/7LBBSHQF4grvtHDGE8EfK7) | [Ayanami](https://open.spotify.com/album/43BEXRAxuNoWu86ad3ti8I) | 2:57 | 2024-01-25 | 2024-02-01 |
 | [B.O.LIE](https://open.spotify.com/track/2uTwa4bg1UsXM9yDmpOFQf) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [B.O.LIE](https://open.spotify.com/album/5G0ekraK3crwMNmnaT3MfN) | 3:37 | 2025-12-16 | 2026-01-21 |
 | [Baaka!](https://open.spotify.com/track/30hCaxH7w9nmm5OvJFBe4N) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Takaramono](https://open.spotify.com/album/19KMuhlGVX3PTQPM1iqKFe) | 1:11 | 2024-01-09 | 2024-01-19 |
@@ -1135,6 +1135,7 @@
 | [世界が僕を嫌いになっても \(2023 ver.\)](https://open.spotify.com/track/5UOwcLnhEvdUJp2vpOu5aj) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [嘘だらけの日常の中で \(再録 ver.\)](https://open.spotify.com/album/5vl7ydrMlvxCtYR7VUEfG9) | 4:29 | 2024-05-07 | 2024-06-01 |
 | [世界でいちばん愛してくれたあなたへ](https://open.spotify.com/track/6QL8oZNZMqZe3gEaYZUq50) | [イクラノドン](https://open.spotify.com/artist/6fdS0QyBhjx6DNtx9CxmUI) | [世界でいちばん愛してくれたあなたへ](https://open.spotify.com/album/25FyrLwVgqxx90VEciMRdV) | 2:56 | 2025-04-22 | 2025-04-30 |
 | [世界に君一人だけ](https://open.spotify.com/track/2MBYHLxowxWCAhA6wd73G6) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [世界に君一人だけ](https://open.spotify.com/album/0aZ5fxz1ePR5Yug1lS0bz0) | 4:07 | 2024-09-10 | 2024-09-18 |
+| [世界の終わり](https://open.spotify.com/track/0yhHJISNoqaekTVJVURfXS) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [EVER GREEN](https://open.spotify.com/album/7d2EM3xspUHhHoFUVoVV3u) | 2:44 | 2026-02-10 |  |
 | [二〇〇一](https://open.spotify.com/track/1Y0KB10gpgTpwa4qsE6JiR) | [ひかりのなかに](https://open.spotify.com/artist/72VeknoKw02a4s6iYC3Ips) | [二〇〇一](https://open.spotify.com/album/18MU5AvBjgWSFXzwTW8xMJ) | 3:20 | 2024-02-27 | 2024-03-13 |
 | [五つ目の季節](https://open.spotify.com/track/0dKPLYFFS2zNln3pAJgYZx) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [五つ目の季節](https://open.spotify.com/album/2uVtlb6LoHukbJWMX6S5M1) | 3:17 | 2024-01-31 | 2024-02-14 |
 | [今夜2人だけのダンスを](https://open.spotify.com/track/6ljAfGfbmkBnhEwREQQsAY) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [季億の箱](https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs) | 4:11 | 2023-08-10 | 2023-11-16 |

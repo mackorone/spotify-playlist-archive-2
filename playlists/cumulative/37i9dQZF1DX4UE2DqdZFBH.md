@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-146 songs - 11 hr 46 min
+147 songs - 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Mask](https://open.spotify.com/track/1yJCoiSJp7pXxMa62NbzEU) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4) | [Mask](https://open.spotify.com/album/2qScRh7rkLscjO20vXCWIf) | 4:57 | 2022-06-10 |  |
 | [Maybe Someday](https://open.spotify.com/track/3bOBQatV3miQwshPF6sqHy) | [Abhishek Bonthu](https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5) | [Maybe Someday](https://open.spotify.com/album/2Tt6FvcQmkFXo0vAIpWIM1) | 2:42 | 2022-06-10 |  |
 | [Mazaar](https://open.spotify.com/track/0PfL3lUBmyxd2aVVykDTrc) | [Susmit Sen](https://open.spotify.com/artist/05dWvaSp7ABuXclHkVPi5s), [Gayathri Natarajan](https://open.spotify.com/artist/6LlHigNKvwRVVHohJ2zHBh) | [AZAADI](https://open.spotify.com/album/5shYocGFdwVo9F1Yd9kKpz) | 9:37 | 2025-01-13 |  |
+| [Metro](https://open.spotify.com/track/2m4G3UGgNhqDHsPSdRNAxi) | [RAF](https://open.spotify.com/artist/5FaVA9ythVhqkH6LtGUvsR), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Sheldon D'Silva](https://open.spotify.com/artist/3ZHZrMtppSnOHkS1c6IByz), [Gino Banks](https://open.spotify.com/artist/2wZjVRal2ABf9OWGiNLUBZ), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK), [Satyajit Talwalkar](https://open.spotify.com/artist/12i115642dNlreloDOzrtK), [Sanjoy Das](https://open.spotify.com/artist/17BFGrrdmA4wu1KyGvN7pJ) | [Metro](https://open.spotify.com/album/2E6SwlQqBsurEb5XrPBXsZ) | 5:56 | 2026-02-10 |  |
 | [Midnight](https://open.spotify.com/track/2pntmG4VcHfJm1jkncXbGe) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Lost Cause](https://open.spotify.com/album/6WUUhrm9LceL3JJSPv8G6i) | 3:05 | 2022-06-10 | 2024-04-19 |
 | [Midnight](https://open.spotify.com/track/4wvYLntxEozfc6eLPct3CN) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [The Lost Cause](https://open.spotify.com/album/7dnWNzGDTh1XDxdDxIqt4e) | 3:05 | 2022-06-10 | 2025-03-25 |
 | [Mind Games](https://open.spotify.com/track/25huDxLSCWw37NB5J2lkS5) | [Vinay Kaushal](https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ), [Shirish Malhotra](https://open.spotify.com/artist/09BRSkC9du5CQy9r6u6Bv2) | [Duality](https://open.spotify.com/album/39btMG9DNAir8fkFT7OcXN) | 5:28 | 2022-06-10 |  |
@@ -114,7 +115,7 @@
 | [Rise](https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB) | [The Gap](https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g) | [Moving On](https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo) | 2:53 | 2022-06-10 |  |
 | [Rough and Straight](https://open.spotify.com/track/4ldgirnuUKAjaBmsAPuf1Z) | [The Revisit Project](https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9) | [Rough and Straight](https://open.spotify.com/album/4fkvTRzMgyRG3z6PfUpQgU) | 6:13 | 2022-06-10 | 2023-12-30 |
 | [Rupantara \- Instrumental Version](https://open.spotify.com/track/4rZVhKNB2DPsDi3KY610Ur) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Pustaka: Origins \(Instrumental Version\)](https://open.spotify.com/album/44z0kwvLlh9vObWqbf1OSA) | 4:08 | 2022-06-10 |  |
-| [Rushing](https://open.spotify.com/track/08ZuJhoa3940i0Qb2D0wTd) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Baiju Dharmajan](https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4) | [Light](https://open.spotify.com/album/7dAto4XUWGqqcbD734OHix) | 4:51 | 2022-06-10 |  |
+| [Rushing](https://open.spotify.com/track/08ZuJhoa3940i0Qb2D0wTd) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Baiju Dharmajan](https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4) | [Light](https://open.spotify.com/album/7dAto4XUWGqqcbD734OHix) | 4:51 | 2022-06-10 | 2026-02-11 |
 | [Rushing](https://open.spotify.com/track/1Pt8y4GsNLCj4Rpojr1D2Q) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Baiju Dharmajan](https://open.spotify.com/artist/4C0qhkwkbcN1eL5DOGHFA4) | [Light](https://open.spotify.com/album/4AqmSaPB6tGxM3ixvyK49d) | 4:51 | 2022-06-10 | 2024-04-19 |
 | [Satyagrah](https://open.spotify.com/track/1dLc6lcm5sYUiyypCxEame) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Yogesh Samsi](https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck), [Shravan Samsi](https://open.spotify.com/artist/2NkNf1csvbQ0c42iiyrSn6), [Steve Kottoor](https://open.spotify.com/artist/0Orc9siRQxEqipbmMC5w9N) | [Satyagrah](https://open.spotify.com/album/4H6PFTawgnGIkwYjaserHy) | 7:14 | 2024-08-22 |  |
 | [Shuddh Sarang](https://open.spotify.com/track/2MEGtbN6Acr43zkwQQJnJP) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 12:23 | 2023-04-19 |  |

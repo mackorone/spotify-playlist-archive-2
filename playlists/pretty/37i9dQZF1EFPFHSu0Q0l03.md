@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,165 likes - 270 songs - 17 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,168 likes - 270 songs - 17 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,12 +156,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 146 | [Turtleneck](https://open.spotify.com/track/0Mn1Ku0kJLFbSzLPq0BtIq) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 3:00 |
 | 147 | [Spring](https://open.spotify.com/track/5xlCPBwakaVR2uwJG8Zph3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 2:58 |
 | 148 | [Page](https://open.spotify.com/track/3LP0XwrMJ6ShNSrExi7jYs) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:51 |
-| 149 | [Midnight](https://open.spotify.com/track/2OTISEHIoZio1AKmKpV9BY) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 2:59 |
-| 150 | [The Old Religion](https://open.spotify.com/track/6Z2hokFLCbEXKnnBosDj8u) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:40 |
-| 151 | [Racing Like a Pro](https://open.spotify.com/track/3A7mbQ3pfDt9sPGrUkJepi) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:24 |
-| 152 | [The Pull Of You](https://open.spotify.com/track/1z3zD1U8ZYmoILMZWE3kZF) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:58 |
-| 153 | [Laugh Track \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7aprF5ADDukD1JWHXG9h9z) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:24 |
-| 154 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 |
+| 149 | [The Old Religion](https://open.spotify.com/track/6Z2hokFLCbEXKnnBosDj8u) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 3:40 |
+| 150 | [Midnight](https://open.spotify.com/track/2OTISEHIoZio1AKmKpV9BY) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 2:59 |
+| 151 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 |
+| 152 | [Racing Like a Pro](https://open.spotify.com/track/3A7mbQ3pfDt9sPGrUkJepi) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:24 |
+| 153 | [The Pull Of You](https://open.spotify.com/track/1z3zD1U8ZYmoILMZWE3kZF) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:58 |
+| 154 | [Laugh Track \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7aprF5ADDukD1JWHXG9h9z) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:24 |
 | 155 | [Roman Holiday](https://open.spotify.com/track/7y3sR3xXDSls1GPYGoJ312) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:34 |
 | 156 | [When Will I Be Alright](https://open.spotify.com/track/5S1CxlxcDGMf6c0WcEvF4K) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 2:55 |
 | 157 | [Name of God](https://open.spotify.com/track/71zgehvCv0MpqOk3jj0f55) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq) | 3:29 |
@@ -229,8 +229,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 219 | [Rest of Years \- Demo](https://open.spotify.com/track/3z1LGAkzFnoP1HX722Fc1J) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [A Skin, A Night + The Virginia EP](https://open.spotify.com/album/7zoPW334cQNfQyWWteTwMj) | 3:40 |
 | 220 | [Hey Joe](https://open.spotify.com/track/05slp2CgZkquotjViznlc1) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 1:54 |
 | 221 | [Melt](https://open.spotify.com/track/3hPJ61NElwsqfBGYWSllK2) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 4:05 |
-| 222 | [Trophy Wife \- 2021 Remaster](https://open.spotify.com/track/5uAWGVsBpN2KGvAYhHuwEH) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers \(2021 Remaster\)](https://open.spotify.com/album/1ajnGNtwwT0jwpOhDWHZzt) | 3:32 |
-| 223 | [Saying Goodbye \- Piano Solo](https://open.spotify.com/track/6Sq59vXSvrJbKk8zSGSFXN) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Cyrano \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tK3QDXwCcgMl2bbgaZQD0) | 1:26 |
+| 222 | [Saying Goodbye \- Piano Solo](https://open.spotify.com/track/6Sq59vXSvrJbKk8zSGSFXN) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Aaron Dessner](https://open.spotify.com/artist/2hSyEBc9TBb9j38FOCdkIf), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Cyrano \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tK3QDXwCcgMl2bbgaZQD0) | 1:26 |
+| 223 | [Trophy Wife \- 2021 Remaster](https://open.spotify.com/track/5uAWGVsBpN2KGvAYhHuwEH) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers \(2021 Remaster\)](https://open.spotify.com/album/1ajnGNtwwT0jwpOhDWHZzt) | 3:32 |
 | 224 | [Hoping Then](https://open.spotify.com/track/3r4s2mTycs4kAUk1kT7rsw) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:57 |
 | 225 | [Unfurling](https://open.spotify.com/track/16tmWx16i5LUM5KSTzLW88) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 3:40 |
 | 226 | [Sugar Wife \- 2021 Remaster](https://open.spotify.com/track/0di1Z1ucLBhrJxIib52b9O) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers \(2021 Remaster\)](https://open.spotify.com/album/1ajnGNtwwT0jwpOhDWHZzt) | 2:21 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 269 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 270 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `AcJPkgAAAAAadtO9bq4wBmt3sV42HrTL`
+Snapshot ID: `AcJU9gAAAAClD4HNNN1pEXIYpT9FnSJR`

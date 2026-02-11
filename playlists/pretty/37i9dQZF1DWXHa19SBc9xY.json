@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 123635,
+  "num_followers": 123659,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-01-23 15:04:38",
       "album": {
+        "name": "O Amor Descansa Na Varanda",
+        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 204998,
+      "name": "O Amor Descansa Na Varanda",
+      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
+    },
+    {
+      "added_at": "2026-01-23 15:04:38",
+      "album": {
         "name": "VEJA BABY (Vers\u00e3o Alternativa)",
         "url": "https://open.spotify.com/album/22PDkm4FLzUxArqoFKKYnQ"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2026-01-23 15:04:38",
       "album": {
-        "name": "O Amor Descansa Na Varanda",
-        "url": "https://open.spotify.com/album/6EmxkdaZEGD52aL5iFgmFo"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 204998,
-      "name": "O Amor Descansa Na Varanda",
-      "url": "https://open.spotify.com/track/1AGfDQZ5u3qw40oQeh5lY6"
-    },
-    {
-      "added_at": "2026-01-23 15:04:38",
-      "album": {
         "name": "Pra Gente Acordar",
         "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 180394,
       "name": "Vem de L\u00e1",
       "url": "https://open.spotify.com/track/1V8IphB2YwtdE0lDKoRO6J"
+    },
+    {
+      "added_at": "2026-01-23 15:04:38",
+      "album": {
+        "name": "Erva e Calor",
+        "url": "https://open.spotify.com/album/3lJBNEG7apvwdv59QZAccd"
+      },
+      "artists": [
+        {
+          "name": "Armandinho",
+          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
+        }
+      ],
+      "duration_ms": 197968,
+      "name": "Erva e Calor",
+      "url": "https://open.spotify.com/track/6aGMSrVGVKKnMeOIkAG3DV"
     },
     {
       "added_at": "2026-01-23 15:04:38",
@@ -399,22 +415,6 @@
       "duration_ms": 190652,
       "name": "Zero a Cem",
       "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"
-    },
-    {
-      "added_at": "2026-01-23 15:04:38",
-      "album": {
-        "name": "Erva e Calor",
-        "url": "https://open.spotify.com/album/3lJBNEG7apvwdv59QZAccd"
-      },
-      "artists": [
-        {
-          "name": "Armandinho",
-          "url": "https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH"
-        }
-      ],
-      "duration_ms": 197968,
-      "name": "Erva e Calor",
-      "url": "https://open.spotify.com/track/6aGMSrVGVKKnMeOIkAG3DV"
     },
     {
       "added_at": "2026-01-23 15:04:38",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-01-23 15:04:38",
       "album": {
-        "name": "Deixa o Ver\u00e3o Acontecer",
-        "url": "https://open.spotify.com/album/2zqlZFCt2X6QWCaM4vW5Xf"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Deixa o Ver\u00e3o Acontecer",
-      "url": "https://open.spotify.com/track/39Jjxq8jmeVzvnLDIxTGMx"
-    },
-    {
-      "added_at": "2026-01-23 15:04:38",
-      "album": {
         "name": "Cada um tem o seu Deus",
         "url": "https://open.spotify.com/album/1bzMVyBIZgeJv22zdkR5gl"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 224594,
       "name": "Cada um tem o seu Deus",
       "url": "https://open.spotify.com/track/1fZhMTdpB6Ty0B92RMQUjy"
+    },
+    {
+      "added_at": "2026-01-23 15:04:38",
+      "album": {
+        "name": "Deixa o Ver\u00e3o Acontecer",
+        "url": "https://open.spotify.com/album/2zqlZFCt2X6QWCaM4vW5Xf"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Deixa o Ver\u00e3o Acontecer",
+      "url": "https://open.spotify.com/track/39Jjxq8jmeVzvnLDIxTGMx"
     },
     {
       "added_at": "2026-01-23 15:04:38",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-01-23 15:04:38",
       "album": {
+        "name": "Carnaval a Dois",
+        "url": "https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "duration_ms": 185865,
+      "name": "Carnaval a Dois",
+      "url": "https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe"
+    },
+    {
+      "added_at": "2026-01-23 15:04:38",
+      "album": {
         "name": "Alucina",
         "url": "https://open.spotify.com/album/7ELEcCyHRqct8tehKxDjA8"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 180110,
       "name": "Alucina",
       "url": "https://open.spotify.com/track/1lEkEES23vMGV2MLvpCu0e"
-    },
-    {
-      "added_at": "2026-01-23 15:04:38",
-      "album": {
-        "name": "Carnaval a Dois",
-        "url": "https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        }
-      ],
-      "duration_ms": 185865,
-      "name": "Carnaval a Dois",
-      "url": "https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe"
     },
     {
       "added_at": "2026-01-23 15:04:38",
@@ -999,30 +999,6 @@
     {
       "added_at": "2026-01-23 15:04:38",
       "album": {
-        "name": "PREAMAR",
-        "url": "https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00ea",
-          "url": "https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj"
-        },
-        {
-          "name": "Felipe Cordeiro",
-          "url": "https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4"
-        },
-        {
-          "name": "J\u00fanior Soares",
-          "url": "https://open.spotify.com/artist/4d4yeFgcaOZvMcCWWY0pON"
-        }
-      ],
-      "duration_ms": 261901,
-      "name": "PREAMAR",
-      "url": "https://open.spotify.com/track/5vXucjlEods0fafmWCudxU"
-    },
-    {
-      "added_at": "2026-01-23 15:04:38",
-      "album": {
         "name": "Com Certeza",
         "url": "https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7"
       },
@@ -1043,22 +1019,26 @@
     {
       "added_at": "2026-01-23 15:04:38",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+        "name": "PREAMAR",
+        "url": "https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "Lu\u00ea",
+          "url": "https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj"
         },
         {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+          "name": "Felipe Cordeiro",
+          "url": "https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4"
+        },
+        {
+          "name": "J\u00fanior Soares",
+          "url": "https://open.spotify.com/artist/4d4yeFgcaOZvMcCWWY0pON"
         }
       ],
-      "duration_ms": 223765,
-      "name": "Gr\u00e3o de Areia",
-      "url": "https://open.spotify.com/track/0MEQNyNQA8huagTIfAnqGC"
+      "duration_ms": 261901,
+      "name": "PREAMAR",
+      "url": "https://open.spotify.com/track/5vXucjlEods0fafmWCudxU"
     },
     {
       "added_at": "2026-01-23 15:04:38",
@@ -1095,6 +1075,26 @@
       "duration_ms": 222307,
       "name": "Vou Me Banhar",
       "url": "https://open.spotify.com/track/1BFf0ApsecABByJCo1jsYr"
+    },
+    {
+      "added_at": "2026-01-23 15:04:38",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 223765,
+      "name": "Gr\u00e3o de Areia",
+      "url": "https://open.spotify.com/track/0MEQNyNQA8huagTIfAnqGC"
     },
     {
       "added_at": "2026-01-23 15:04:38",

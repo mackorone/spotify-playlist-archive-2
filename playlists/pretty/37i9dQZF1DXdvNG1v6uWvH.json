@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist sombr, ISSI & Daniil og m\u00f6rgum fleiri!",
-  "num_followers": 9584,
+  "num_followers": 9586,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -211,18 +211,18 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+        "name": "Die For Me",
+        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
         }
       ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+      "duration_ms": 180147,
+      "name": "Die For Me",
+      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -247,18 +247,18 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Die For Me",
-        "url": "https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG"
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 180147,
-      "name": "Die For Me",
-      "url": "https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ"
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Sunday Best",
-        "url": "https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Sweet To Me",
-      "url": "https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "FADE",
         "url": "https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 178205,
       "name": "FADE",
       "url": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Sunday Best",
+        "url": "https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Sweet To Me",
+      "url": "https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un"
-      },
-      "artists": [
-        {
-          "name": "MISAMO",
-          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Not a Goodbye",
-      "url": "https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "ACT II",
         "url": "https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 181706,
       "name": "heal something",
       "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Not a Goodbye",
+      "url": "https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -635,6 +635,26 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Super High",
         "url": "https://open.spotify.com/album/0G55G4W6Nyy2smxthRaWrv"
       },
@@ -671,42 +691,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "That Way",
-        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "That Way",
-      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "ASSIGNMENT",
-        "url": "https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c"
-      },
-      "artists": [
-        {
-          "name": "Power Snatch",
-          "url": "https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6"
-        }
-      ],
-      "duration_ms": 143891,
-      "name": "ASSIGNMENT",
-      "url": "https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Face Like Yours",
         "url": "https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 181476,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/1Jy0KzjB5zXPR0Mq50unST"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "ASSIGNMENT",
+        "url": "https://open.spotify.com/album/0HpGVaTMQvOwJk9mjPaQ4c"
+      },
+      "artists": [
+        {
+          "name": "Power Snatch",
+          "url": "https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6"
+        }
+      ],
+      "duration_ms": 143891,
+      "name": "ASSIGNMENT",
+      "url": "https://open.spotify.com/track/039v69B31n5qbJ0mkCCqZM"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Not Around Anymore",
-        "url": "https://open.spotify.com/album/42FFfnhcdCPEz4cvpfORSl"
-      },
-      "artists": [
-        {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Not Around Anymore",
-      "url": "https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Bedre dager",
         "url": "https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 220662,
       "name": "Siste f\u00f8rste dans",
       "url": "https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Not Around Anymore",
+        "url": "https://open.spotify.com/album/42FFfnhcdCPEz4cvpfORSl"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "duration_ms": 232106,
+      "name": "Not Around Anymore",
+      "url": "https://open.spotify.com/track/1kPZab1lC7DztnzVSgQ9VX"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Everyone Around Me Dancing",
-        "url": "https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 185955,
-      "name": "Everyone Around Me Dancing",
-      "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/3hExCV8JGlt1AwszhGOmMk"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 97183,
       "name": "Habit",
       "url": "https://open.spotify.com/track/7Kh5bQCvw2pD5VVqfV9fBF"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Everyone Around Me Dancing",
+        "url": "https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 185955,
+      "name": "Everyone Around Me Dancing",
+      "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Keeper",
+        "url": "https://open.spotify.com/album/6JgrgucMtrbkFrAhVUwxjP"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/0aAhF3VWaaseWphyipsgKk"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Move On With The Year",
         "url": "https://open.spotify.com/album/5JMt8gvc13TSA5YCm9Hwe3"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Keeper",
-        "url": "https://open.spotify.com/album/6JgrgucMtrbkFrAhVUwxjP"
+        "name": "Tenpin Haven",
+        "url": "https://open.spotify.com/album/1wfIsPr3ixULfzSpqIt5cv"
       },
       "artists": [
         {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+          "name": "Hannah Brewer",
+          "url": "https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk"
         }
       ],
-      "duration_ms": 225120,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/0aAhF3VWaaseWphyipsgKk"
+      "duration_ms": 247112,
+      "name": "Tenpin Haven",
+      "url": "https://open.spotify.com/track/037GCaGsFkiqvMRRszTMrk"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Tenpin Haven",
-        "url": "https://open.spotify.com/album/1wfIsPr3ixULfzSpqIt5cv"
-      },
-      "artists": [
-        {
-          "name": "Hannah Brewer",
-          "url": "https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk"
-        }
-      ],
-      "duration_ms": 247112,
-      "name": "Tenpin Haven",
-      "url": "https://open.spotify.com/track/037GCaGsFkiqvMRRszTMrk"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "bubble",
         "url": "https://open.spotify.com/album/3znmnv3X8qwcyvearsibU9"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 181066,
       "name": "bubble",
       "url": "https://open.spotify.com/track/2C7DJ0kugpSfwBjSRr6Jw8"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/643USioIt1ALPPPMMuNJ92"
+      },
+      "artists": [
+        {
+          "name": "Bellvie",
+          "url": "https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl"
+        }
+      ],
+      "duration_ms": 199285,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/6h1SXb4450dK7aJhDXbG7f"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1231,18 +1247,18 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/643USioIt1ALPPPMMuNJ92"
+        "name": "ergo sum",
+        "url": "https://open.spotify.com/album/0WoiaolqRVG7ET2WKgkUsK"
       },
       "artists": [
         {
-          "name": "Bellvie",
-          "url": "https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl"
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
         }
       ],
-      "duration_ms": 199285,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/6h1SXb4450dK7aJhDXbG7f"
+      "duration_ms": 171200,
+      "name": "ergo sum",
+      "url": "https://open.spotify.com/track/7wFGm3luIki5eSUOgWXYp4"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1275,22 +1291,6 @@
       "duration_ms": 176901,
       "name": "Chain My Heart to Plastic",
       "url": "https://open.spotify.com/track/3ULvttoUlVAKIFDP8eXyiK"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "ergo sum",
-        "url": "https://open.spotify.com/album/0WoiaolqRVG7ET2WKgkUsK"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "ergo sum",
-      "url": "https://open.spotify.com/track/7wFGm3luIki5eSUOgWXYp4"
     },
     {
       "added_at": "2026-02-06 00:00:07",

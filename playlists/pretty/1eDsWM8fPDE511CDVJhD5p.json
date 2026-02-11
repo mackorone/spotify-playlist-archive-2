@@ -6,8 +6,112 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAGm6lffiSnEqwGYqCYhEMLnE780iba",
+  "snapshot_id": "AAAGqlB3PmumCC4aWRqfqxd8DCzBY8ch",
   "tracks": [
+    {
+      "added_at": "2026-02-10 07:59:57",
+      "album": {
+        "name": "\u30df\u30b9\u30af\u30ec\u30a4\u30b8\u30fc\u30b9\u30d4\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/7oIvaD8c46bSknpOehQ7Sd"
+      },
+      "artists": [
+        {
+          "name": "cosMo@Bousou-P",
+          "url": "https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 132193,
+      "name": "\u30df\u30b9\u30af\u30ec\u30a4\u30b8\u30fc\u30b9\u30d4\u30fc\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1ByG45dm0zszZj3iXCuKGG"
+    },
+    {
+      "added_at": "2026-02-10 08:00:13",
+      "album": {
+        "name": "Pardalote",
+        "url": "https://open.spotify.com/album/5J1SelzyIb8HQZHnSK6OSH"
+      },
+      "artists": [
+        {
+          "name": "Clean Tears",
+          "url": "https://open.spotify.com/artist/7ib7T2bGDFIVqMQGw8rjt4"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 421000,
+      "name": "elements (feat. Hatsune Miku)",
+      "url": "https://open.spotify.com/track/2HgvajbWeCu5hYbTefbAXj"
+    },
+    {
+      "added_at": "2026-02-10 08:00:24",
+      "album": {
+        "name": "uruuru",
+        "url": "https://open.spotify.com/album/68jakmn00A0pPTxF3JUwVE"
+      },
+      "artists": [
+        {
+          "name": "\u30a4\u30eb\u30de",
+          "url": "https://open.spotify.com/artist/3wIPZdjJ349fGfgA8drvTx"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "uruuru (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4sHFJhSiHzhWOzHbk0GFpR"
+    },
+    {
+      "added_at": "2026-02-10 08:00:40",
+      "album": {
+        "name": "\u6d1b\u967d\u30f4\u30a3\u30b8\u30e9\u30f3\u30c6",
+        "url": "https://open.spotify.com/album/3QvdrRn8aCFoni0e217DWz"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u5b88\u6587\u5b66",
+          "url": "https://open.spotify.com/artist/2PeQLZVv6ueArQHvjjJrjU"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 198387,
+      "name": "\u6d1b\u967d\u30f4\u30a3\u30b8\u30e9\u30f3\u30c6 (feat. KAITO&\u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/5qrjnxeOIE3PKmje2dIHHY"
+    },
+    {
+      "added_at": "2026-02-10 08:00:50",
+      "album": {
+        "name": "\u661f\u5c51\u30b8\u30a7\u30c3\u30c8\u30b3\u30fc\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/2IDDEQDKJRZsqSVRCdLFSc"
+      },
+      "artists": [
+        {
+          "name": "Camellia",
+          "url": "https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 250229,
+      "name": "\u661f\u5c51\u30b8\u30a7\u30c3\u30c8\u30b3\u30fc\u30b9\u30bf\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/17wsc1WXzDNb2IPXSfiZPK"
+    },
     {
       "added_at": "2026-02-03 08:25:45",
       "album": {
@@ -707,102 +811,6 @@
       "duration_ms": 216133,
       "name": "Drops of dew",
       "url": "https://open.spotify.com/track/1sovwUj9KsxeDWOAQGqAZO"
-    },
-    {
-      "added_at": "2025-11-18 08:16:38",
-      "album": {
-        "name": "\u7fa8\u307e\u3057\u3044\u306a",
-        "url": "https://open.spotify.com/album/7yQl3gl3QPbJKlpz7wZeWo"
-      },
-      "artists": [
-        {
-          "name": "\u591c\u672a\u30a2\u30ac\u30ea",
-          "url": "https://open.spotify.com/artist/6fVGwhKnpLfTAbZNHRDxFa"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 86941,
-      "name": "\u7fa8\u307e\u3057\u3044\u306a (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/5ZC975XLiMMspyh52i9Asa"
-    },
-    {
-      "added_at": "2025-11-18 08:16:54",
-      "album": {
-        "name": "\u7b2c\u4e09\u6307",
-        "url": "https://open.spotify.com/album/73thkeH18YNt1NRX5a6BUf"
-      },
-      "artists": [
-        {
-          "name": "Adomiori",
-          "url": "https://open.spotify.com/artist/4GCCMFsEYjm4th48sLCGrZ"
-        },
-        {
-          "name": "\u97f3\u8857\u30a6\u30ca",
-          "url": "https://open.spotify.com/artist/3vx4KtiD9ciUsGOamm2ZcA"
-        }
-      ],
-      "duration_ms": 142068,
-      "name": "\u7b2c\u4e09\u6307 (feat. \u97f3\u8857\u30a6\u30ca)",
-      "url": "https://open.spotify.com/track/39nFarcdNFLaZubCdoktxM"
-    },
-    {
-      "added_at": "2025-11-18 08:17:10",
-      "album": {
-        "name": "PoppinGROOVE",
-        "url": "https://open.spotify.com/album/6ctIizi987u2laaopG37qQ"
-      },
-      "artists": [
-        {
-          "name": "Alpaca",
-          "url": "https://open.spotify.com/artist/4qAKnharbd1nlHAR0xDHSU"
-        }
-      ],
-      "duration_ms": 309090,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/7Ash1LDWApYL28oLledZoi"
-    },
-    {
-      "added_at": "2025-11-18 08:17:26",
-      "album": {
-        "name": "\u30df\u30e5\u30a6\u30c6\u30a4\u30b7\u30e7\u30f3",
-        "url": "https://open.spotify.com/album/2EXzXtMlKwvW6dgJu3hET5"
-      },
-      "artists": [
-        {
-          "name": "Kuroneko Lounge",
-          "url": "https://open.spotify.com/artist/4u3AJ8Ipx1xxH1mGhUdy7o"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "\u30df\u30e5\u30a6\u30c6\u30a4\u30b7\u30e7\u30f3 (feat. \u305d\u306e\u540d\u306f\u3082\u3061\u308d\u3093\u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6tewLhMGKC7Y6cmchxwlYN"
-    },
-    {
-      "added_at": "2025-11-18 08:17:42",
-      "album": {
-        "name": "Disco No.39",
-        "url": "https://open.spotify.com/album/4S4rv3nACVK4P4rvuWzz84"
-      },
-      "artists": [
-        {
-          "name": "Rulmry.",
-          "url": "https://open.spotify.com/artist/5AVRmAGc8Z21NXZ1UUxySt"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 134068,
-      "name": "Disco No.39 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/50MJZQWZk0Vh62Q4ir4j9M"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

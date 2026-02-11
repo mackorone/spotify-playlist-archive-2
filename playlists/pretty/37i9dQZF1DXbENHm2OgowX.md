@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,518 likes - 69 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,761 likes - 69 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 53 | [DOROTHEA’S BED](https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(LP II\)](https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt) | 5:25 |
 | 54 | [Out Of The Past](https://open.spotify.com/track/6iTpwzfupCsZWM7V67Okog) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Love Is Colder Than Death](https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb) | 3:33 |
 | 55 | [Asleep On The Wing \- Pt\. 4](https://open.spotify.com/track/2wXwA6gCdTimBspq5iK8yn) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa), [Freya Goldmark](https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1) | [Asleep On The Wing](https://open.spotify.com/album/56JFpqspbL1N6aBQBXwk0k) | 3:40 |
-| 56 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
-| 57 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 |
+| 56 | [Gazing Back At Earth](https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP) | [Andy Leech](https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj) | [Gazing Back At Earth](https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA) | 5:16 |
+| 57 | [antihistamine\. \- instrumental](https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [CROW! \(after the snowfall\)](https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8) | 2:56 |
 | 58 | [4AM ambient version](https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0) | [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [4AM ambient version](https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn) | 1:52 |
-| 59 | [antihistamine\. \- instrumental](https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [CROW! \(after the snowfall\)](https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8) | 2:56 |
+| 59 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 60 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 |
 | 61 | [Maple Seed](https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 2:21 |
 | 62 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |

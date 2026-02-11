@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > MUY PIOLA<br/>📷 Usted Señalemelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,123 likes - 85 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,119 likes - 85 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,6 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 82 | [Escuché tu voz](https://open.spotify.com/track/4x3du9CZ6ronjcRUV8WVGp) | [Mora Robirosa](https://open.spotify.com/artist/28WzV7jlOuklyRRzH1Keys) | [Escuché tu voz](https://open.spotify.com/album/3yighcYugRkRKuMni8gjPR) | 3:04 |
 | 83 | [No puedo dejar](https://open.spotify.com/track/6JNz7Rr9ODlANqDiNv2QH1) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [No puedo dejar](https://open.spotify.com/album/3g1pWn4BL93vvIAmGnzKl4) | 2:29 |
 | 84 | [Pensando en Ella](https://open.spotify.com/track/0xKip9rjYsEWRdBYlJ0G3K) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Pensando en Ella](https://open.spotify.com/album/3bnsZ3LTSKoCTVAE0TjxM5) | 3:24 |
-| 85 | [PUTAS \- Spotify Sessions](https://open.spotify.com/track/4jhSKN2r5mIHybTDiJxFi7) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:13 |
+| 85 | [PUTAS \- Spotify Sessions](https://open.spotify.com/track/4jhSKN2r5mIHybTDiJxFi7) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:13 |
 
 Snapshot ID: `AAAAAMirCoH0Vh9Z01h8u0f4MV5a/Nyw`

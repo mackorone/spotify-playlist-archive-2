@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 257,
+  "num_followers": 258,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIEg5BWgZVVf2yKkIgpw2gR0AFfKZl",
+  "snapshot_id": "AAAIFKkliJrtj1aCoToUgzXHTzsQo30g",
   "tracks": [
     {
       "added_at": "2026-01-21 01:10:56",
@@ -32931,6 +32931,38 @@
       "duration_ms": 251239,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/7oDD9dSHwFwOIUhQfvjGzT"
+    },
+    {
+      "added_at": "2026-02-10 06:07:16",
+      "album": {
+        "name": "The Man of Many Faces",
+        "url": "https://open.spotify.com/album/3sfrbRSz5BBuWSVY2c3oZ0"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 183919,
+      "name": "The Man of Many Faces",
+      "url": "https://open.spotify.com/track/6tgY6AA1lmQbIS4N0KYaB1"
+    },
+    {
+      "added_at": "2026-02-10 14:28:58",
+      "album": {
+        "name": "Astral",
+        "url": "https://open.spotify.com/album/6rqF5Cx8HtkXzWtzcdeTQH"
+      },
+      "artists": [
+        {
+          "name": "Clari\u00e1",
+          "url": "https://open.spotify.com/artist/6Za8rqeiBcShSX1tzkUqkl"
+        }
+      ],
+      "duration_ms": 238356,
+      "name": "Astral",
+      "url": "https://open.spotify.com/track/2zid4cfWtpcooEjSADhN2z"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

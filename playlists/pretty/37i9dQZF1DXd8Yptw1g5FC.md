@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Emir Can İğrek ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,520 likes - 121 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,524 likes - 121 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

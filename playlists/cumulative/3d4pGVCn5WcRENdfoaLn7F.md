@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-209 songs - 12 hr 46 min
+210 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Don't Quit](https://open.spotify.com/track/0wNDCelSWPNcCEdZUbSEJT) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [Don't Quit](https://open.spotify.com/album/2NUIXDspmP39m3JnH5qmaA) | 2:54 | 2025-11-04 | 2025-12-06 |
 | [Drugstore Cowboy](https://open.spotify.com/track/232OmR6gGYDi94gCDHFLGI) | [Krooked Tongue](https://open.spotify.com/artist/1KURu1cYKhnrpZ8W1sGynh) | [Drugstore Cowboy](https://open.spotify.com/album/30lF61DTj8x7Ep1htMWuyw) | 3:41 | 2025-10-31 | 2025-12-06 |
 | [Edge of Reality](https://open.spotify.com/track/0P8Jiz2SFpfEwH1dNxT90q) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8), [Norm Stockton](https://open.spotify.com/artist/59P8FStgQ946nzfFSc7aMP) | [Space & Time](https://open.spotify.com/album/0QHaA065L5kdg9UWcfqv8D) | 4:53 | 2026-01-28 |  |
+| [El Arte de Perderse](https://open.spotify.com/track/1lQ1oIQJjfIRnT16EBx4yU) | [normandía](https://open.spotify.com/artist/0KSutzhXRytRGdfEsGWN1M) | [El Arte de Perderse](https://open.spotify.com/album/1feLfZkAWelzbUVsaoyux2) | 2:50 | 2026-02-10 |  |
 | [El Camino](https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [El Camino](https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F) | 4:30 | 2025-11-16 | 2025-12-06 |
 | [Eliza](https://open.spotify.com/track/32JjgWkNFsHvnpkTw9HjkJ) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Eliza](https://open.spotify.com/album/1fdfeMzHPdAI4JmFlslw7W) | 3:09 | 2025-09-11 |  |
 | [elvira](https://open.spotify.com/track/1MN0j7rkRyjKHNnpPrRI6p) | [The Links](https://open.spotify.com/artist/2TFSpXVPNjJAFyFbzitt3c) | [elvira](https://open.spotify.com/album/51zYMlPIqJDH3m6h0QdJrI) | 4:13 | 2025-12-03 | 2026-01-05 |

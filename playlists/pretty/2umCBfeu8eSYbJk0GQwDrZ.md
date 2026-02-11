@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks\. Cover: Tame Impala.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 26,710 likes - 99 songs - 5 hr 34 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 26,705 likes - 99 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 90 | [NIGHTMARE](https://open.spotify.com/track/4exIv50omXDRy4TrhOU3H7) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [NIGHTMARE](https://open.spotify.com/album/3PSBkqhGAovz4bYBjWFDJd) | 2:43 |
 | 91 | [I get u bby](https://open.spotify.com/track/0NwpFfqxAOvGDodAAZgEf5) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Here nor there](https://open.spotify.com/album/7IngwF6npRbqJSPEMLGZvx) | 2:39 |
 | 92 | [Cowboy Dreams \(feat\. Cat Clyde\)](https://open.spotify.com/track/26hA16YOoGwHsBd7NeX2Iu) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1), [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Cowboy Dreams \(feat\. Cat Clyde\)](https://open.spotify.com/album/2pKdvcwUbe6dojapgCgw2f) | 3:22 |
-| 93 | [Holy Guns](https://open.spotify.com/track/7jdwAfQ9NiXAkhzyrcU6mi) | [MALINOWSKI](https://open.spotify.com/artist/4gOqTwaujC2EVN0SIWARum) | [Holy Guns](https://open.spotify.com/album/6zEfdcFnFQQWvOAsApaK5X) | 3:03 |
+| 93 | [Holy Guns](https://open.spotify.com/track/7jdwAfQ9NiXAkhzyrcU6mi) | [MALINOWSKI](https://open.spotify.com/artist/4gOqTwaujC2EVN0SIWARum), [Jay Malinowski](https://open.spotify.com/artist/3CpoBeJwpqZN0qjqVQrXQm) | [Holy Guns](https://open.spotify.com/album/6zEfdcFnFQQWvOAsApaK5X) | 3:03 |
 | 94 | [Second Love](https://open.spotify.com/track/5reNPaRMP77Kd6QXLJSXpo) | [Rise Carmine](https://open.spotify.com/artist/5AmezaktQFHizkBXwTp3S9) | [Come In Closer](https://open.spotify.com/album/2Jki2W3lEgQTkIWbwKYJZa) | 3:06 |
 | 95 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 |
 | 96 | [GOOD COMPANY](https://open.spotify.com/track/3NHO9t2CwRNUmfoetjtnHO) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [GOOD COMPANY](https://open.spotify.com/album/1FIkQ8I2L9w7UaGR9gNNvS) | 2:49 |

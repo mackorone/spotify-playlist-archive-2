@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,021 songs - 8 day 21 hr 32 min
+4,022 songs - 8 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1878,6 +1878,7 @@
 | [KOFFIN](https://open.spotify.com/track/5eQDHVe4sINNQU5DHgnRP2) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [KOFFIN](https://open.spotify.com/album/2JmTjfYuJztSXJRgqPVqTu) | 2:28 | 2025-07-03 |  |
 | [Kontrol](https://open.spotify.com/track/0G6I5FZ1pDWf9khtsjGisV) | [Du'mi](https://open.spotify.com/artist/2qX18UhF8UwGR9XvReiLw5) | [Kontrol](https://open.spotify.com/album/2wiyEel0DsxecBFpTDsAv8) | 2:40 | 2025-05-23 |  |
 | [Krazy Fly](https://open.spotify.com/track/63fTDMggPOZl8KFLWFE3en) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Krazy Fly](https://open.spotify.com/album/0nw5Lh2StuDmifWAH4dWxt) | 3:54 | 2025-05-27 |  |
+| [Kto pyta nie błądzi](https://open.spotify.com/track/0Y40l5gCn7dgKBhNgBrw2C) | [KRiSU Krzysztof Bańka](https://open.spotify.com/artist/73m6LntQaeyAemA4YFLwp4) | [Zatrzymane](https://open.spotify.com/album/7jb1dGdbuTdmiQpnzmOsEJ) | 2:27 | 2026-02-11 |  |
 | [Kēr](https://open.spotify.com/track/5g29iKtdGonCnt4we4wkLJ) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 5:26 | 2026-01-16 |  |
 | [L'aquila](https://open.spotify.com/track/0WYYbzplvExx3bGFAKaqye) | [Lityo](https://open.spotify.com/artist/2trwqCdfVqrWrY0TXfwIsJ) | [L'aquila](https://open.spotify.com/album/7pv9l6zLv2UgUBiB2YpNip) | 4:00 | 2025-07-24 |  |
 | [L'aria serena](https://open.spotify.com/track/1mxwU0i01gdx7EM1wqw288) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Amaroamore](https://open.spotify.com/album/4YRkPuAuBGSCFzD4Inbum7) | 3:13 | 2021-11-13 |  |

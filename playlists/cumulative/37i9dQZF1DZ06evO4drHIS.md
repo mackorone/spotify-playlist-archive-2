@@ -4,7 +4,7 @@
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 24 min
+102 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [El Beso](https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Beso](https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi) | 2:35 | 2025-02-08 | 2025-07-30 |
 | [El Beso](https://open.spotify.com/track/3SzujGUyomnzKxn6rJDnks) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Beso](https://open.spotify.com/album/3XxHWOtpyZaT0wdMJJgW7D) | 2:35 | 2025-01-12 | 2025-02-08 |
 | [El Son De La Negra \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/6pP8G7qP1KkAnzbCbVnsYs) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 2:51 | 2023-03-10 | 2023-11-11 |
+| [El Sonido De Tu Voz](https://open.spotify.com/track/5aUiMBbZIQq6Zf8A8Njabo) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Sonido De Tu Voz](https://open.spotify.com/album/2VEl4SYSktKfN8eu1avFzJ) | 2:50 | 2026-02-11 |  |
 | [En Toda La Chapa](https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [En Toda La Chapa](https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL) | 2:57 | 2023-03-10 | 2025-03-30 |
 | [Enamorada](https://open.spotify.com/track/5d7GrBtJgeLoyWJGdYPNhf) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Enamorada](https://open.spotify.com/album/0QdCNeJ98pEltXgQZGhFS8) | 3:15 | 2025-09-10 |  |
 | [Eternocumbia](https://open.spotify.com/track/5Rqe0tS03rOu8Wbxhcmt38) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Soy](https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN) | 2:50 | 2023-03-10 | 2023-09-22 |
@@ -95,7 +96,7 @@
 | [Te Lo Dije](https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Te Lo Dije](https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt) | 2:33 | 2023-03-10 | 2025-02-02 |
 | [Te Mentiría](https://open.spotify.com/track/5SmRbNjy5vS5na3WKr49TF) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 2:49 | 2023-03-10 | 2025-05-11 |
 | [Te Solté La Rienda](https://open.spotify.com/track/7raX70QMuOnywsxLEBzh5j) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:25 | 2023-09-21 | 2024-07-22 |
-| [Tik Tik Tik](https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Tik Tik Tik](https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0) | 3:11 | 2023-03-10 |  |
+| [Tik Tik Tik](https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Tik Tik Tik](https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0) | 3:11 | 2023-03-10 | 2026-02-11 |
 | [Triste Recuerdo](https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9) | 3:23 | 2023-03-10 | 2023-07-02 |
 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 | 2023-07-01 |  |
 | [Triste Recuerdo \- En Vivo](https://open.spotify.com/track/549yunuC38OgTpTfYzZpsW) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo \(En Vivo\)](https://open.spotify.com/album/00iE6vaOpZFNBohCo83MiI) | 4:34 | 2025-05-25 | 2025-08-24 |

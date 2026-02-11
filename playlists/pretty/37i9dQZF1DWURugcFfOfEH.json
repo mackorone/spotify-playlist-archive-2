@@ -1,6 +1,6 @@
 {
   "description": "good vibes, all day every day",
-  "num_followers": 438045,
+  "num_followers": 438107,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+        "name": "Why Do We Shake In The Cold?",
+        "url": "https://open.spotify.com/album/5DmT0aBDQe90fxAiP3pDwO"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
-      "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
+      "duration_ms": 202106,
+      "name": "Back To My Bed",
+      "url": "https://open.spotify.com/track/6uAyxTPrzZi8Pi3olGNJFj"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
-        "name": "Why Do We Shake In The Cold?",
-        "url": "https://open.spotify.com/album/5DmT0aBDQe90fxAiP3pDwO"
+        "name": "Happy Music",
+        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 202106,
-      "name": "Back To My Bed",
-      "url": "https://open.spotify.com/track/6uAyxTPrzZi8Pi3olGNJFj"
+      "duration_ms": 215000,
+      "name": "Feel Like Makin' Love (feat. Roberta Flack)",
+      "url": "https://open.spotify.com/track/5789JwERVglbf574Olz2Bi"
     },
     {
       "added_at": "2025-07-03 13:57:15",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-07-03 13:57:15",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
-    },
-    {
-      "added_at": "2025-07-03 13:57:15",
-      "album": {
         "name": "Happiness",
         "url": "https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 235963,
       "name": "Happiness (Dance Floor Edit)",
       "url": "https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk"
+    },
+    {
+      "added_at": "2025-07-03 13:57:15",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
     },
     {
       "added_at": "2025-07-03 13:57:15",

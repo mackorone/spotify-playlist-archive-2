@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: waterbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,947 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,049 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 24 | [Dance The Pain Away](https://open.spotify.com/track/7A34WgGmK1E4D9X9zgq9VD) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Dance The Pain Away](https://open.spotify.com/album/35eHXNu05E1wliIgJ1A0AC) | 3:39 |
 | 25 | [KISS ME](https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [KISS ME](https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G) | 3:03 |
 | 26 | [The Old Law](https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [The Old Law](https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na) | 4:41 |
-| 27 | [Chronic](https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Chronic](https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT) | 2:36 |
-| 28 | [Speakers Blowing](https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Speakers Blowing](https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN) | 3:41 |
+| 27 | [Speakers Blowing](https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Speakers Blowing](https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN) | 3:41 |
+| 28 | [Chronic](https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Chronic](https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT) | 2:36 |
 | 29 | [cul\-de\-sac](https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [cul\-de\-sac](https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP) | 3:16 |
 | 30 | [Addicted](https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Addicted](https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk) | 2:43 |
 | 31 | [Tell Me It's Over](https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Tell Me It's Over](https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP) | 2:56 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 42 | [Floor](https://open.spotify.com/track/6Oea18ZwpdpWOV5cPpdsPo) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [Floor](https://open.spotify.com/album/6Z2lZcGo7oM7HIM6R2Ufoa) | 2:27 |
 | 43 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 |
 | 44 | [The River](https://open.spotify.com/track/6Wr8n9KkQgJtlY26IypHvX) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [The River](https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu) | 4:53 |
-| 45 | [Monolith](https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Monolith](https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4) | 3:32 |
-| 46 | [Clinton County](https://open.spotify.com/track/3asVZ8UVuR7iw0WLSZOxpZ) | [Colton Bowlin](https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C) | [Clinton County](https://open.spotify.com/album/1hLcwNP4GJ3gLUbOjbf8qU) | 4:49 |
+| 45 | [Clinton County](https://open.spotify.com/track/3asVZ8UVuR7iw0WLSZOxpZ) | [Colton Bowlin](https://open.spotify.com/artist/7nXlGfcD7lyEIeQTCYiS0C) | [Clinton County](https://open.spotify.com/album/1hLcwNP4GJ3gLUbOjbf8qU) | 4:49 |
+| 46 | [Monolith](https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Monolith](https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4) | 3:32 |
 | 47 | [Joy](https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Joy](https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q) | 2:53 |
 | 48 | [tenk\(e\)i](https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [tenk\(e\)i](https://open.spotify.com/album/5y0dNiCxiZ4l3x8BWbJMjq) | 4:56 |
 | 49 | [Kiss&Tell](https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9) | [GUINEVERE](https://open.spotify.com/artist/1aLFv51RG1QPZfYtlF8ood) | [Kiss&Tell](https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR) | 3:45 |

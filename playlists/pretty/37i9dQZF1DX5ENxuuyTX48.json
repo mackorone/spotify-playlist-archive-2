@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW!. Cover: Bernadya",
-  "num_followers": 27036,
+  "num_followers": 27039,
   "original_name": "OTW",
   "owner": {
     "name": "Spotify",
@@ -435,18 +435,26 @@
     {
       "added_at": "2026-01-30 11:45:04",
       "album": {
-        "name": "bergema sampai selamanya",
-        "url": "https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc"
+        "name": "kota ini tak sama tanpamu (with Aziz Harun & Aisha Retno)",
+        "url": "https://open.spotify.com/album/5kr4902NFLTORUzlXyJoGR"
       },
       "artists": [
         {
           "name": "Nadhif Basalamah",
           "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        },
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        },
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
         }
       ],
-      "duration_ms": 198567,
-      "name": "bergema sampai selamanya",
-      "url": "https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe"
+      "duration_ms": 269937,
+      "name": "kota ini tak sama tanpamu (with Aziz Harun & Aisha Retno)",
+      "url": "https://open.spotify.com/track/75DnXTAoFiorMrqkPVbjSH"
     },
     {
       "added_at": "2026-01-30 11:45:04",
@@ -519,26 +527,18 @@
     {
       "added_at": "2026-01-30 11:45:04",
       "album": {
-        "name": "kota ini tak sama tanpamu (with Aziz Harun & Aisha Retno)",
-        "url": "https://open.spotify.com/album/5kr4902NFLTORUzlXyJoGR"
+        "name": "bergema sampai selamanya",
+        "url": "https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc"
       },
       "artists": [
         {
           "name": "Nadhif Basalamah",
           "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        },
-        {
-          "name": "Aziz Harun",
-          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
-        },
-        {
-          "name": "Aisha Retno",
-          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
         }
       ],
-      "duration_ms": 269937,
-      "name": "kota ini tak sama tanpamu (with Aziz Harun & Aisha Retno)",
-      "url": "https://open.spotify.com/track/75DnXTAoFiorMrqkPVbjSH"
+      "duration_ms": 198567,
+      "name": "bergema sampai selamanya",
+      "url": "https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe"
     },
     {
       "added_at": "2026-01-30 11:45:04",

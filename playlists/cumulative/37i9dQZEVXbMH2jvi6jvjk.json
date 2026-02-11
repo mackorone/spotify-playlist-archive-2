@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -11768,7 +11768,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -14008,10 +14008,28 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 254973,
       "name": "Drum n Bass",
       "url": "https://open.spotify.com/track/290Vqn3zZX5QarUQra9LT2"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
       "album": {
@@ -14108,7 +14126,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 270315,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/0LseYDHkn75CjuExrf1XRz"
@@ -15384,7 +15402,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 336600,
       "name": "Esandleni",
       "url": "https://open.spotify.com/track/2LeOHKRLm1Bz7eeNVinUYs"
@@ -24068,7 +24086,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 394285,
       "name": "Iphupho (feat. Thatohatsi)",
       "url": "https://open.spotify.com/track/6t7jwNNBTceuXuVeT71naT"
@@ -29426,7 +29444,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 252986,
       "name": "Life Sentence",
       "url": "https://open.spotify.com/track/0pchHye1t8VA9gTHK3hAAZ"
@@ -40170,7 +40188,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 350365,
       "name": "Phesheya",
       "url": "https://open.spotify.com/track/2cqRkbubhLlwDlEOoksEXt"
@@ -53752,7 +53770,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 171954,
       "name": "Ubu Ghost bami",
       "url": "https://open.spotify.com/track/18135pAIhu4DClNzwruriW"
@@ -58492,7 +58510,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 184440,
       "name": "wgft (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
@@ -59066,7 +59084,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 277013,
       "name": "WHO TF IZ U",
       "url": "https://open.spotify.com/track/5ZfOg71oANMaKmswvSEF2r"

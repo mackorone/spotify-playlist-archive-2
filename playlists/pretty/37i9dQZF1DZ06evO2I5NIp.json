@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 5874,
+  "num_followers": 5875,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAADwXvDdsObf6FwSwDCMFpfs",
+  "snapshot_id": "aYkjgAAAAAA1rG+1AZvGGc9Ph687PtzA",
   "tracks": [
     {
       "added_at": null,
@@ -323,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+        "name": "Money & Power",
+        "url": "https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh"
       },
       "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        },
         {
           "name": "Shemekia Copeland",
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Should Have Come Home",
-      "url": "https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE"
+      "duration_ms": 172261,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/1Dm4rrlrrPfUTrxlutFXDB"
     },
     {
       "added_at": null,
@@ -355,22 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money & Power",
-        "url": "https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh"
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
       "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        },
         {
           "name": "Shemekia Copeland",
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 172261,
-      "name": "Unbreakable",
-      "url": "https://open.spotify.com/track/1Dm4rrlrrPfUTrxlutFXDB"
+      "duration_ms": 210800,
+      "name": "Should Have Come Home",
+      "url": "https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Soul Truth",
-        "url": "https://open.spotify.com/album/2PXMx2oAHiqmjrpnLX70dU"
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 206053,
-      "name": "Givin' Up You",
-      "url": "https://open.spotify.com/track/4LoyfqghF75QfVFx08gAIh"
+      "duration_ms": 267240,
+      "name": "Beat Up Guitar",
+      "url": "https://open.spotify.com/track/5MXGqDBmhnHELueZgK6ypP"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
+        "name": "The Soul Truth",
+        "url": "https://open.spotify.com/album/2PXMx2oAHiqmjrpnLX70dU"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 267240,
-      "name": "Beat Up Guitar",
-      "url": "https://open.spotify.com/track/5MXGqDBmhnHELueZgK6ypP"
+      "duration_ms": 206053,
+      "name": "Givin' Up You",
+      "url": "https://open.spotify.com/track/4LoyfqghF75QfVFx08gAIh"
     },
     {
       "added_at": null,
@@ -515,6 +515,74 @@
       "duration_ms": 243333,
       "name": "Livin' On Love",
       "url": "https://open.spotify.com/track/012eGP4EqQ7hkgoL19Jp0u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        },
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+        }
+      ],
+      "duration_ms": 275533,
+      "name": "Jesus Just Left Chicago",
+      "url": "https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 425733,
+      "name": "It Don't Hurt No More",
+      "url": "https://open.spotify.com/track/0t2oq1DRaeWzX6VQ1fAXeE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq"
     },
     {
       "added_at": null,
@@ -544,29 +612,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        },
-        {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "Jesus Just Left Chicago",
-      "url": "https://open.spotify.com/track/1n7uAd2wldanWyRfBTPam0"
+      "duration_ms": 240605,
+      "name": "Dumb It Down",
+      "url": "https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro"
     },
     {
       "added_at": null,
@@ -587,38 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 240605,
-      "name": "Dumb It Down",
-      "url": "https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 233866,
       "name": "The Battle Is Over (But The War Goes On)",
       "url": "https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 425733,
-      "name": "It Don't Hurt No More",
-      "url": "https://open.spotify.com/track/0t2oq1DRaeWzX6VQ1fAXeE"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 285990,
-      "name": "Uncivil War",
-      "url": "https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh"
+      "duration_ms": 268893,
+      "name": "It's 2 A.M.",
+      "url": "https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB"
     },
     {
       "added_at": null,
@@ -768,9 +768,25 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 188160,
-      "name": "Tee Tot Payne",
-      "url": "https://open.spotify.com/track/4Rj0alinvWWuxkNfmZAxM8"
+      "duration_ms": 228002,
+      "name": "Broken High Heels",
+      "url": "https://open.spotify.com/track/7KJHFbQMatRENgkXRiXI90"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 285990,
+      "name": "Uncivil War",
+      "url": "https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 268893,
-      "name": "It's 2 A.M.",
-      "url": "https://open.spotify.com/track/06uopaez79AHRRDNtGJCbB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Talking To Strangers",
         "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
       },
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 228066,
-      "name": "The Push I Need",
-      "url": "https://open.spotify.com/track/3Ym4ECxUj4HKDBkhflmKFe"
+      "duration_ms": 181160,
+      "name": "Ka-Ching",
+      "url": "https://open.spotify.com/track/7rnvAAyPIh1wUvSHV6VvNS"
     },
     {
       "added_at": null,
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 228002,
-      "name": "Broken High Heels",
-      "url": "https://open.spotify.com/track/7KJHFbQMatRENgkXRiXI90"
+      "duration_ms": 188160,
+      "name": "Tee Tot Payne",
+      "url": "https://open.spotify.com/track/4Rj0alinvWWuxkNfmZAxM8"
     },
     {
       "added_at": null,

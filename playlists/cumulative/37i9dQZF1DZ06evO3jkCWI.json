@@ -943,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/1ZJRBIV1t8h1BkiuQeEt36"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194506,
+      "name": "Me Refiero A T\u00ed",
+      "url": "https://open.spotify.com/track/2XXODc6DG0sBs3uhiXQQpq"
+    },
+    {
+      "album": {
         "name": "15 Boleros De Oro",
         "url": "https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT"
       },
@@ -1816,7 +1834,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 168160,
       "name": "Vete Con El",
       "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"

@@ -4,7 +4,7 @@
 
 > 
 
-1,336 songs - 2 day 22 hr 27 min
+1,337 songs - 2 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1283,6 +1283,7 @@
 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 | 2026-01-21 |  |
 | [Way It Go](https://open.spotify.com/track/3XKvJoOD0pjiM36AjlCeyd) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [KanKan](https://open.spotify.com/artist/5jrVFIwqg3H8O1vDZqeQOB) | [3AM Vibes](https://open.spotify.com/album/3orPhMBlpm0MQDS9ZuZxsI) | 2:22 | 2022-12-23 | 2023-04-12 |
 | [We Dem](https://open.spotify.com/track/4rlvqiq90liG5L5gpcUpiq) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [4Respect 4Freedom 4Loyalty 4WhatImportant](https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO) | 2:47 | 2023-04-17 | 2023-12-14 |
+| [We Fight/We Love \- Remix](https://open.spotify.com/track/3BmuxXUPPGZZR2dJcTORRX) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Q Tip](https://open.spotify.com/artist/2qUxYgqkkp4aVhSUgzFvrb) | [Movies On Demand](https://open.spotify.com/album/23ZTlzMpNcnYYHKmqCsWnQ) | 3:49 | 2026-02-10 |  |
 | [We Gon Make It \(feat\. Meek Mill\)](https://open.spotify.com/track/7Eha3JBkA7xsMUEXng7lUP) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [The Lost Boy](https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu) | 3:56 | 2025-05-27 |  |
 | [WE NEED ALL DA VIBES \(with Young Thug & Ty Dolla $ign\)](https://open.spotify.com/track/4XcZp2xqbiD8YsnPboNUDo) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:01 | 2025-06-01 |  |
 | [We On Dat](https://open.spotify.com/track/7x988PVAwdmWum1yct1woQ) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo) | [Ghetto Assassin](https://open.spotify.com/album/2ff6XMkerFMRgfxQDbpSlE) | 2:14 | 2024-12-05 | 2025-05-21 |

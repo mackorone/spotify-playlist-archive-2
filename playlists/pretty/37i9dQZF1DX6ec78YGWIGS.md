@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: K4OS
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,585 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,634 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 16 | [Estimado Cobarde](https://open.spotify.com/track/0jbewxIGs1ReTAKndYvKWs) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0) | [Estimado Cobarde](https://open.spotify.com/album/5TAORlI1VUkn3sY5sW9GA0) | 2:17 |
 | 17 | [MI AMOR](https://open.spotify.com/track/1CSdu8EHZzV0DjYB6RNXbX) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [QUIMERA](https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql) | 2:29 |
 | 18 | [Down](https://open.spotify.com/track/5b5xh1omN5tSrIfmTckmIU) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Down](https://open.spotify.com/album/1LXrs32NNDd5M1EqFP0IbW) | 3:15 |
-| 19 | [algún día \- Spotify Sessions](https://open.spotify.com/track/0dbKJL6gTj6sxaG4pytAfl) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:15 |
+| 19 | [algún día \- Spotify Sessions](https://open.spotify.com/track/0dbKJL6gTj6sxaG4pytAfl) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:15 |
 | 20 | [LA REINA \- REMIX](https://open.spotify.com/track/1LX9Kq7JFcEINO2a04WI2M) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [LA REINA \(REMIX\)](https://open.spotify.com/album/3nRLpUwK7gI1C7Ya3w7VAv) | 3:25 |
 | 21 | [Tal Vez \- Remix](https://open.spotify.com/track/0pzh7NqiJH9ETXAWaNMM4b) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tal Vez \(Remix\)](https://open.spotify.com/album/6AAV2t7WjOue7PvPpNGKZW) | 2:57 |
 | 22 | [la única q quiero](https://open.spotify.com/track/7oHP2lKRTevXofV1vGEcTG) | [JOTTA](https://open.spotify.com/artist/3bssLS5nuLXRJMvAPBzLN0), [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Fede Guelmos](https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8) | [la única q quiero](https://open.spotify.com/album/6Yn8oCQA34lipYSNsZUzbH) | 2:31 |

@@ -118,10 +118,6 @@
         {
           "name": "Jxggi",
           "url": "https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG"
-        },
-        {
-          "name": "Yung4eva",
-          "url": "https://open.spotify.com/artist/3M2xmMHRCGlqdfQm8WsrgC"
         }
       ],
       "date_added": "2026-01-02",
@@ -2425,6 +2421,32 @@
     },
     {
       "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/2jVZysRfHqLjempXRKoC6s"
+      },
+      "artists": [
+        {
+          "name": "Prince Narula",
+          "url": "https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II"
+        },
+        {
+          "name": "Hitzone",
+          "url": "https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V"
+        },
+        {
+          "name": "Jaymeet",
+          "url": "https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205294,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2mhnglpfyOe4tjOSquhJJW"
+    },
+    {
+      "album": {
         "name": "Bar 4 Bar Champ 2023",
         "url": "https://open.spotify.com/album/3aV2FnHhTFdvZATdsnHZwX"
       },
@@ -4319,6 +4341,24 @@
     },
     {
       "album": {
+        "name": "CODERED",
+        "url": "https://open.spotify.com/album/5uwkfalslERbNZ0rQl9AlE"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/5Rnz5W2r1Z0c8fGvvSKzCH"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157218,
+      "name": "CODERED",
+      "url": "https://open.spotify.com/track/6xo0o3pkL4BsJbJ8umV3G5"
+    },
+    {
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/06um4lMf63KYf6nj8p4MO8"
       },
@@ -5996,7 +6036,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 146808,
       "name": "East 2 West",
       "url": "https://open.spotify.com/track/4sTIvG6OAhHhyywIxpphyp"
@@ -7246,7 +7286,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 169046,
       "name": "Game On",
       "url": "https://open.spotify.com/track/3SPFEJwA5iIUq9BQEwpQ4A"
@@ -7494,7 +7534,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 192486,
       "name": "Ghanta",
       "url": "https://open.spotify.com/track/0YQk98GK8B3O1g03CLHSOF"
@@ -9595,6 +9635,28 @@
     },
     {
       "album": {
+        "name": "It's Beginning",
+        "url": "https://open.spotify.com/album/1SN3xefdvSZOIg7VJjvVoM"
+      },
+      "artists": [
+        {
+          "name": "Deep Money",
+          "url": "https://open.spotify.com/artist/6t6D6drTfOF08Jp4w9wY2J"
+        },
+        {
+          "name": "Muzik Amy",
+          "url": "https://open.spotify.com/artist/5ksHS8iRqki2cehxR7lJbK"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "It's Beginning",
+      "url": "https://open.spotify.com/track/0DVOAOs91N9IzQqs4k5Qsc"
+    },
+    {
+      "album": {
         "name": "Let's Create The Time",
         "url": "https://open.spotify.com/album/3NmTGpv5G7o6xV0y7xkY3b"
       },
@@ -9706,6 +9768,24 @@
       "duration_ms": 170847,
       "name": "Jaanch",
       "url": "https://open.spotify.com/track/1Lj859rhdYI6Dvcf5mRJ7B"
+    },
+    {
+      "album": {
+        "name": "JACK BOYS",
+        "url": "https://open.spotify.com/album/7pK815T3Gbbl4XFtI7Bx97"
+      },
+      "artists": [
+        {
+          "name": "AAZZAD",
+          "url": "https://open.spotify.com/artist/5nKtqAfzif2POIB7V94U4L"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "JACK BOYS",
+      "url": "https://open.spotify.com/track/66sx2uLZqBcA1xRI3w0KrH"
     },
     {
       "album": {
@@ -11382,7 +11462,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 185380,
       "name": "Low Rider",
       "url": "https://open.spotify.com/track/54eRJjpGrbomPpChIlVYgy"
@@ -12288,7 +12368,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 173350,
       "name": "Mindset",
       "url": "https://open.spotify.com/track/6IuPxPZw2gKBU6ZJKNlHCn"
@@ -13068,7 +13148,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 173620,
       "name": "Niri Agg",
       "url": "https://open.spotify.com/track/0paTaAAxGD66pPuabVXxNw"
@@ -18335,6 +18415,24 @@
     },
     {
       "album": {
+        "name": "This or That",
+        "url": "https://open.spotify.com/album/4TyOSuL5DPHY5YCSWEJpWq"
+      },
+      "artists": [
+        {
+          "name": "Jp Hunjan",
+          "url": "https://open.spotify.com/artist/7yvfDUNwiiNoQDSs4beKQ3"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147736,
+      "name": "This or That",
+      "url": "https://open.spotify.com/track/5jWeMjIuvjI0IBDZyUZ4pY"
+    },
+    {
+      "album": {
         "name": "666",
         "url": "https://open.spotify.com/album/64IT4k9eVNt1gup1DMbA5e"
       },
@@ -20470,6 +20568,24 @@
       "duration_ms": 237654,
       "name": "You'll Fuck With Me ?",
       "url": "https://open.spotify.com/track/1kNg23SVkfDuThJvhyDsJZ"
+    },
+    {
+      "album": {
+        "name": "your name",
+        "url": "https://open.spotify.com/album/4aiArDBSQWF42EfZPjyMIJ"
+      },
+      "artists": [
+        {
+          "name": "Tazer Music",
+          "url": "https://open.spotify.com/artist/1f22RyZZloviEEgIjjdbkn"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180824,
+      "name": "your name",
+      "url": "https://open.spotify.com/track/3rkXstKWCbfAIjNH0vey6U"
     },
     {
       "album": {

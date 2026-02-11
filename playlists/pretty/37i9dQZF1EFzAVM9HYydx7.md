@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,027 likes - 308 songs - 18 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,026 likes - 308 songs - 18 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 151 | [M.F.T.R.](https://open.spotify.com/track/4eeFwDF1OjhZtvPwhqhcr5) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [King Push – Darkest Before Dawn: The Prelude](https://open.spotify.com/album/4OoNqHBpbgDoqtN3u1IdiC) | 4:07 |
 | 152 | [Grindin'](https://open.spotify.com/track/6lVJb47gQEh3PV585qgRoy) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Grindin'](https://open.spotify.com/album/5fei42mpm46BDceg35nIbD) | 5:06 |
 | 153 | [Money Conversations](https://open.spotify.com/track/6GYWvz3bRmKXjZPiOpTt1Y) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:11 |
-| 154 | [Dark Sky \(Skyscrapers\)](https://open.spotify.com/track/6ltwanTt7xjvZ3rPayPppS) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 2:58 |
-| 155 | [Everything](https://open.spotify.com/track/0xPcT6j7JFdJjRvQelyGr6) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:20 |
+| 154 | [Everything](https://open.spotify.com/track/0xPcT6j7JFdJjRvQelyGr6) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:20 |
+| 155 | [Dark Sky \(Skyscrapers\)](https://open.spotify.com/track/6ltwanTt7xjvZ3rPayPppS) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 2:58 |
 | 156 | [Win Some, Lose Some](https://open.spotify.com/track/35wGuOS7f10WZ3yfmbAzjD) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:04 |
 | 157 | [Get Like](https://open.spotify.com/track/466nTkRePUO44ptVwsvGYJ) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 2:50 |
 | 158 | [Freedom \(with BEAM\)](https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 2:45 |
@@ -191,8 +191,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 181 | [Chills](https://open.spotify.com/track/0BtWu5QzPWkFMP2RPSoUfr) | [Down With Webster](https://open.spotify.com/artist/6eMqM0bpqakYd4EA857uD9) | [Party For Your Life](https://open.spotify.com/album/0BKvOwxCCIYAEL7XLNBAfW) | 3:28 |
 | 182 | [ROYL](https://open.spotify.com/track/1S5Kq3A8hpx3J4cmcADcF5) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 3:24 |
 | 183 | [Offended](https://open.spotify.com/track/0SMpAbwLauaXOA3A0e4uUb) | [Juice Armani](https://open.spotify.com/artist/0TIPSD7AoFPGfB8JzWKMHC) | [Offended](https://open.spotify.com/album/3EAqn4s5o54zkDBy0zcm6n) | 2:13 |
-| 184 | [Ambitionz](https://open.spotify.com/track/1mFIiPjGUudqmMDgjH8QOO) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams Worth More Than Money](https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo) | 3:57 |
-| 185 | [Tsunami \(feat\. Davido\)](https://open.spotify.com/track/434baZo99jvOx6y6oFeQZQ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:28 |
+| 184 | [Tsunami \(feat\. Davido\)](https://open.spotify.com/track/434baZo99jvOx6y6oFeQZQ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv) | 3:28 |
+| 185 | [Ambitionz](https://open.spotify.com/track/1mFIiPjGUudqmMDgjH8QOO) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams Worth More Than Money](https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo) | 3:57 |
 | 186 | [Buyou](https://open.spotify.com/track/4d7HyOmNEpi55uv96g4Iyt) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [No Boys Allowed \(Deluxe\)](https://open.spotify.com/album/0YZJKknNK6ljtNIradoHin) | 4:19 |
 | 187 | [paid my dues \(feat\. Takeoff\)](https://open.spotify.com/track/61TWTSHcrFVgaRr6U4MKBs) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:42 |
 | 188 | [Guns and Roses \(feat\. P!nk\)](https://open.spotify.com/track/0IK8i6kTkS9TKhP1YM6I5a) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Trouble Man: Heavy is the Head](https://open.spotify.com/album/5X46pZekTY2dsWuZDpm14m) | 4:28 |
@@ -317,4 +317,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 307 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 308 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcJPdAAAAAAm+GgSBT0uy25mBTcqVFUz`
+Snapshot ID: `AcJVFAAAAAC7nDKjAcjJVE8o7vqOLfiF`

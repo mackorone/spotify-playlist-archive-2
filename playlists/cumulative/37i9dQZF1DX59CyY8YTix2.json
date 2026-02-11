@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese women rock icons. Cover: C\u00f6 shu Nie",
+  "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese women rock icons. Cover: \u30cf\u30af\u3002",
   "name": "She Rocks",
   "tracks": [
     {
@@ -2936,7 +2936,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 214937,
       "name": "Coming-of-age Story",
       "url": "https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi"
@@ -11620,7 +11620,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 336057,
       "name": "Oni Omen",
       "url": "https://open.spotify.com/track/6YWaT6LsWlqbyqqnh4dpwT"
@@ -15305,6 +15305,24 @@
     },
     {
       "album": {
+        "name": "SWEET MAGIC",
+        "url": "https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193746,
+      "name": "SWEET MAGIC",
+      "url": "https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf"
+    },
+    {
+      "album": {
         "name": "sweet sweat sweets",
         "url": "https://open.spotify.com/album/2pllw5IgqYznlCXCHVOxZV"
       },
@@ -18299,6 +18317,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3080\u308a\u305f",
+        "url": "https://open.spotify.com/album/2qaI39PDmsIbE4p62Tl3eC"
+      },
+      "artists": [
+        {
+          "name": "35.7",
+          "url": "https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "\u3042\u3080\u308a\u305f",
+      "url": "https://open.spotify.com/track/1A1kuWhja283UavUrcwc4l"
+    },
+    {
+      "album": {
         "name": "\u3042\u308b\u590f\u306e\u8a18\u9332",
         "url": "https://open.spotify.com/album/2flAmkwxY2hg2mZ6elCFhE"
       },
@@ -19286,7 +19322,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 264152,
       "name": "\u305d\u308c\u3057\u304b\u8a00\u3048\u306a\u3044",
       "url": "https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV"
@@ -19996,6 +20032,24 @@
       "duration_ms": 203933,
       "name": "\u3075\u308f\u3075\u308f",
       "url": "https://open.spotify.com/track/22b8seoRwePEPdlLHCZ62E"
+    },
+    {
+      "album": {
+        "name": "\u3075\u308f\u8f2a",
+        "url": "https://open.spotify.com/album/1G56jyuclDbeCd5ufEcELY"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210925,
+      "name": "\u3075\u308f\u8f2a",
+      "url": "https://open.spotify.com/track/2NArNH7uxom58eWbhEAQXi"
     },
     {
       "album": {
@@ -26154,7 +26208,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 228286,
       "name": "\u30e9\u30d6\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/1GWxuJLpa3ezQa1qym3hi2"
@@ -29213,6 +29267,28 @@
     },
     {
       "album": {
+        "name": "DISASTERPIECE",
+        "url": "https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225826,
+      "name": "\u5929\u8a85 & Mercy",
+      "url": "https://open.spotify.com/track/4yPQdCSNYZq7xjWZpjY6mc"
+    },
+    {
+      "album": {
         "name": "\u5929\u8a85 (\u96eb Solo Ver.)",
         "url": "https://open.spotify.com/album/7id6IiB550ml0ZlbjPUBNU"
       },
@@ -29854,7 +29930,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 163401,
       "name": "\u5fc3\u5e95\u5fc3\u4e2d\u3057\u305f\u3044",
       "url": "https://open.spotify.com/track/5CGTPjeGyOzMwpQGZOk2oh"
@@ -31120,6 +31196,24 @@
       "duration_ms": 198545,
       "name": "\u6625\u304c\u5acc\u3044",
       "url": "https://open.spotify.com/track/4EP22LrlRJItyhWwTT6Knk"
+    },
+    {
+      "album": {
+        "name": "\u6625\u3068\u306a\u308a",
+        "url": "https://open.spotify.com/album/2yeGeyMPqWp1ou9EKh1DI5"
+      },
+      "artists": [
+        {
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242065,
+      "name": "\u6625\u3068\u306a\u308a",
+      "url": "https://open.spotify.com/track/6UFYmzhfHBkQXYAPo1cx35"
     },
     {
       "album": {

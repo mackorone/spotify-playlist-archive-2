@@ -2565,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "album": {
         "name": "Birds of a Feather",
         "url": "https://open.spotify.com/album/4ztk4PYygS7uABC0cnm4AM"
       },
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 142142,
       "name": "burn me down",
       "url": "https://open.spotify.com/track/5n6m0IMINOotiNaDGIwPdx"
@@ -4128,7 +4146,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-18",
+      "date_removed": null,
       "duration_ms": 172307,
       "name": "Casualty (feat. maybealice)",
       "url": "https://open.spotify.com/track/2VjhvDQlAI8FDbQ9GqYgce"
@@ -5359,6 +5377,24 @@
     },
     {
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/5s41AxcorviciqrERfcQbJ"
       },
@@ -5378,6 +5414,24 @@
       "duration_ms": 140347,
       "name": "Crush",
       "url": "https://open.spotify.com/track/3GWrcStIl2tnnBVnwm0GUX"
+    },
+    {
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "album": {
@@ -6546,7 +6600,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 153770,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/54tMR6A2GajeAQ0HMbyqjm"
@@ -6888,7 +6942,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 137710,
       "name": "Dreamin'",
       "url": "https://open.spotify.com/track/3FtqkEST8eFWmh8opcCLgB"
@@ -7548,6 +7602,24 @@
       "duration_ms": 167319,
       "name": "Enfants",
       "url": "https://open.spotify.com/track/5gO3fL8gK5fMcyDsHflYlw"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "album": {
@@ -8940,7 +9012,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 116500,
       "name": "Fire In Her Eyes",
       "url": "https://open.spotify.com/track/748VBDgvTskcuvozGHLJcM"
@@ -10676,6 +10748,24 @@
       "duration_ms": 204827,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/6BoLWqWVSzgXuJjnbIHfAD"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "album": {
@@ -18306,7 +18396,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 163472,
       "name": "New Me",
       "url": "https://open.spotify.com/track/563A3t7OsmDi7ltml4HwSv"
@@ -22994,7 +23084,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 152542,
       "name": "Skin - Blaank Remix",
       "url": "https://open.spotify.com/track/5DJgjnQaG1DLM8XmvVEeS0"
@@ -23656,6 +23746,24 @@
       "duration_ms": 217435,
       "name": "Stare",
       "url": "https://open.spotify.com/track/5HKBn8cpagrOPzJnjVhkNO"
+    },
+    {
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
       "album": {
@@ -25900,7 +26008,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 162172,
       "name": "The World Feels True",
       "url": "https://open.spotify.com/track/3ir4gIfgHfdOkEuZepdRev"
@@ -27540,7 +27648,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 163472,
       "name": "Wasting Colors",
       "url": "https://open.spotify.com/track/7h45k1RvHYFzGBswoDky3c"

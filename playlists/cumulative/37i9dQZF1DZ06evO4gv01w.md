@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-188 songs - 10 hr 57 min
+189 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,10 +58,11 @@
 | [Crown of Fire](https://open.spotify.com/track/3KVficEsEWertaGcY4r5ij) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:10 | 2022-08-05 |  |
 | [Dandelion](https://open.spotify.com/track/0GInq1Jeacl6DkS6E5xksJ) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:30 | 2024-09-09 | 2024-10-07 |
 | [Danger Angel](https://open.spotify.com/track/237ishmZPMHE8IZoMW5ARi) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:27 | 2022-08-05 | 2022-11-25 |
-| [Deep Stays Down](https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:19 | 2022-11-13 |  |
-| [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 | 2023-02-24 | 2025-10-11 |
+| [Deep Stays Down](https://open.spotify.com/track/2IbB995oiJcMJXTfkMHioG) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:19 | 2022-11-13 | 2026-02-11 |
+| [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 | 2023-02-24 |  |
 | [Don't](https://open.spotify.com/track/53gcrsL88v3wfNiNqTZpxt) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:04 | 2022-08-05 |  |
-| [Don't You Want A Man Like Me](https://open.spotify.com/track/0QN7xWTtLbYGMH9PUtBh47) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Don't You Want A Man Like Me](https://open.spotify.com/album/0n2T7hKzdd74enBQZCN8j6) | 2:54 | 2025-11-16 |  |
+| [Don't You Want A Man Like Me](https://open.spotify.com/track/0QN7xWTtLbYGMH9PUtBh47) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Don't You Want A Man Like Me](https://open.spotify.com/album/0n2T7hKzdd74enBQZCN8j6) | 2:54 | 2025-11-16 | 2026-02-11 |
+| [Don't You Want A Man Like Me](https://open.spotify.com/track/60eng0YpCDI9fwo1uY62ke) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 2:54 | 2026-02-11 |  |
 | [Done](https://open.spotify.com/track/3K0oUB93h6G4DC9EYqe4sW) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 2:39 | 2024-08-26 |  |
 | [Easy Love Pt\. 1](https://open.spotify.com/track/5S8UxDwf7l053EkJvCK9jn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Easy Love Pt\. 1](https://open.spotify.com/album/5Cnb7R1qKioeMdNH0gPSGH) | 4:07 | 2025-01-24 | 2025-01-27 |
 | [Easy Love Pt\. 1](https://open.spotify.com/track/7r4MXnjGgL3iI1o17QndRj) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:07 | 2025-01-31 |  |

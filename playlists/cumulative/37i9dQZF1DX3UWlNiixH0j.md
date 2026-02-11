@@ -2,9 +2,9 @@
 
 ### [Edge!](https://open.spotify.com/playlist/37i9dQZF1DX3UWlNiixH0j)
 
-> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: KID FRESINO
+> 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: yubiori
 
-2,982 songs - 7 day 18 hr 54 min
+2,983 songs - 7 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Baby So in Love](https://open.spotify.com/track/1tLmk8MxJuLMXNv654c6A5) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Portray](https://open.spotify.com/album/4gf7SnhuI71ZpFVivmLQiF) | 3:43 | 2023-05-02 | 2023-05-24 |
 | [Baby So in Love](https://open.spotify.com/track/4Pvxx8Df8cAgKZSMgTZ2RK) | [Cantaro Ihara](https://open.spotify.com/artist/0Mjk62ywbh7Y0GWw4grdLe) | [Baby So in Love](https://open.spotify.com/album/0JnANJ963m0PwSBXY0C1zO) | 3:43 | 2023-03-30 | 2023-04-20 |
 | [Babychan](https://open.spotify.com/track/5RSInLIfZArNJ9oCxAFcy0) | [Aili](https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R) | [Babychan](https://open.spotify.com/album/5lHO8YkIlsuUDUhgTZcZG8) | 3:22 | 2023-11-24 | 2023-12-01 |
-| [back for me](https://open.spotify.com/track/7HZMIIF0neWvNC8P1UgAQo) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [back for me](https://open.spotify.com/album/2sGhKPde7GODDkdaH2aP6C) | 3:28 | 2026-02-03 |  |
+| [back for me](https://open.spotify.com/track/7HZMIIF0neWvNC8P1UgAQo) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [YONCE](https://open.spotify.com/artist/5QnTDESz5t2Fq7m2B5a7IJ) | [back for me](https://open.spotify.com/album/2sGhKPde7GODDkdaH2aP6C) | 3:28 | 2026-02-03 |  |
 | [Back to Wild](https://open.spotify.com/track/6P80C1f9TlxG6l0gBBNUKP) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Back to Wild](https://open.spotify.com/album/610fvLlXdCGQhelRIU8Pwy) | 5:16 | 2025-03-25 | 2025-04-02 |
 | [Backwards](https://open.spotify.com/track/5q3RedcX5458OmruerCiMz) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Backwards](https://open.spotify.com/album/2Pg3Am7riLTiyxiE7I8Cl5) | 3:53 | 2025-12-02 | 2026-01-21 |
 | [Bad days on fire](https://open.spotify.com/track/4rO0BIc1vZXXoIM7kF1mqg) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Bad days on fire](https://open.spotify.com/album/1Fx70lGxsoGzHTlN6sAaxq) | 2:16 | 2023-10-24 | 2023-11-01 |
@@ -2377,6 +2377,7 @@
 | [ヤケド](https://open.spotify.com/track/4NEhoHnnuNVRs5x7ovkkUk) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [ヤケド](https://open.spotify.com/album/1jPav5sGQGfQ8eKaAZA9Ym) | 3:15 | 2023-04-25 | 2023-06-14 |
 | [ヤバっ](https://open.spotify.com/track/5H4lmogP3fyofuJbjlShJZ) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [ヤバっ](https://open.spotify.com/album/3OHBU6FhWI8wAbFA7bzeXk) | 2:24 | 2025-10-28 | 2025-11-05 |
 | [ユナイテッドパンケーキ](https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [ユナイテッドパンケーキ](https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW) | 2:41 | 2023-12-19 | 2024-02-07 |
+| [ユナイト](https://open.spotify.com/track/3VTmv71EuPw4b2ES0PPfFH) | [yubiori](https://open.spotify.com/artist/5oZhNJP1zUPqUW6RLwneNo) | [ユナイト](https://open.spotify.com/album/2ON8Gtt7RORaGgMBgHIEPA) | 5:52 | 2026-02-10 |  |
 | [ユニラブ](https://open.spotify.com/track/4PqlQ09N4w0gZUnZColaCw) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [ユニラブ](https://open.spotify.com/album/29ELlbVpXRAXytWaCvli0p) | 4:20 | 2024-06-04 | 2024-06-12 |
 | [ユメのはじまり。](https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ユメのはじまり。](https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj) | 4:05 | 2024-01-23 | 2024-03-18 |
 | [ユメミルヒツジ](https://open.spotify.com/track/5ueWV2nmLAatdvgOUUuPFu) | [武田理沙](https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697) | [ユメミルヒツジ](https://open.spotify.com/album/3cGwdEbtBNlY9dcKRDLg4Z) | 4:17 | 2024-06-25 | 2024-07-17 |
@@ -2889,7 +2890,7 @@
 | [街の中で \- YJC LAB\. mix](https://open.spotify.com/track/3jq85GH0t5kskgEFoiLKX4) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [YJC LAB\. 02](https://open.spotify.com/album/0UjvxOB9WiXaavd7leAUQm) | 2:57 | 2025-08-12 | 2025-08-20 |
 | [街の灯り](https://open.spotify.com/track/43Lf1FiIJ9CKK7klIqpDLa) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [Far away from](https://open.spotify.com/album/6i0XnWWPNArV6CDkFZJUVA) | 4:58 | 2023-09-22 | 2023-09-27 |
 | [街の終わり](https://open.spotify.com/track/7fD09NyzrkqscB07BQJAwS) | [Nag Ar Juna](https://open.spotify.com/artist/0XCIw94rGkUZr24KGUi5Vu) | [街の終わり](https://open.spotify.com/album/2uJY0lqrnhLdQZD7odrXRT) | 4:22 | 2023-03-09 | 2023-03-29 |
-| [街角煙突俱楽部](https://open.spotify.com/track/5iBzhtT9XcQwKDZm01p4o2) | [片想い](https://open.spotify.com/artist/7oOtm11Zlovb1drk8T1zhK) | [街角煙突俱楽部](https://open.spotify.com/album/5805eSZVALKyTSLHg5R9fk) | 2:43 | 2026-02-03 |  |
+| [街角煙突俱楽部](https://open.spotify.com/track/5iBzhtT9XcQwKDZm01p4o2) | [片想い](https://open.spotify.com/artist/7oOtm11Zlovb1drk8T1zhK) | [街角煙突俱楽部](https://open.spotify.com/album/5805eSZVALKyTSLHg5R9fk) | 2:43 | 2026-02-03 | 2026-02-11 |
 | [装置](https://open.spotify.com/track/3qcFmvkjpqZnB4feONa3Wy) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [映帶する煙](https://open.spotify.com/album/6iTUUUkWUZYfr61Pz3gFGG) | 6:52 | 2023-01-17 | 2023-02-01 |
 | [裸、道すがら](https://open.spotify.com/track/1jqKoXdfmRs2kI3OsLDmKI) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [裸、道すがら](https://open.spotify.com/album/6uJ6dHiRA9eBWM7S6rKK0m) | 2:54 | 2025-04-15 | 2025-05-29 |
 | [襲撃](https://open.spotify.com/track/4lKGembiDBdYHSCWfxOKIQ) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [式日散花](https://open.spotify.com/album/5UwYVbkJL3whWkNQIkLGpa) | 4:00 | 2023-08-29 | 2023-10-25 |

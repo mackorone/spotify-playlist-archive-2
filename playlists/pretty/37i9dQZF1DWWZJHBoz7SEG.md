@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Iniciamos febrero con este poderoso junte, The Warning y Carín León en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,336 likes - 81 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,382 likes - 81 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 19 | [CHARME](https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CHARME](https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh) | 3:03 |
 | 20 | [Cumbia de los Amigos](https://open.spotify.com/track/0PVcMFnPfn2OhuBYOPTpC9) | [Orquesta Failde](https://open.spotify.com/artist/73pD7OtQXvDhvU0Cy6eo7T), [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Cumbia de los Amigos](https://open.spotify.com/album/2w2A6TUOY5HGGGA0JCb5H8) | 3:39 |
 | 21 | [Amanecí Con Ganas](https://open.spotify.com/track/3BMallCxdW0F7JOZPdafQo) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Amanecí Con Ganas](https://open.spotify.com/album/7fApp4PbJj5FqWZuF0dYNR) | 2:29 |
-| 22 | [algún día \- Spotify Sessions](https://open.spotify.com/track/0dbKJL6gTj6sxaG4pytAfl) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:15 |
+| 22 | [algún día \- Spotify Sessions](https://open.spotify.com/track/0dbKJL6gTj6sxaG4pytAfl) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:15 |
 | 23 | [El Sonido De Tu Voz](https://open.spotify.com/track/5aUiMBbZIQq6Zf8A8Njabo) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [El Sonido De Tu Voz](https://open.spotify.com/album/2VEl4SYSktKfN8eu1avFzJ) | 2:50 |
 | 24 | [Te Lo Advertí \- Desde Abbey Road](https://open.spotify.com/track/4KwR77O9Yld5rHkkv2nbib) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Te Lo Advertí \(Desde Abbey Road\)](https://open.spotify.com/album/6l9TJwT7b3wxKQReBC1BSy) | 3:33 |
 | 25 | [Sin Darme Explicacion](https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS) | [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Darme Explicacion](https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo) | 3:07 |

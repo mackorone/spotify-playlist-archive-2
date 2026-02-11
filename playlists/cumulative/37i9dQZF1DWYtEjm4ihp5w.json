@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: Stormy",
+  "description": "Cover: Najm, Abduh",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -4348,7 +4348,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 177185,
       "name": "Koulchi Dial Alah",
       "url": "https://open.spotify.com/track/3JKgfoiKyBdxF2sw2lPNUH"
@@ -4932,6 +4932,28 @@
       "duration_ms": 216015,
       "name": "Lyam",
       "url": "https://open.spotify.com/track/2k46XpoEmXFj8s0TAcb1Bh"
+    },
+    {
+      "album": {
+        "name": "Lyke Dat",
+        "url": "https://open.spotify.com/album/1Fx4UhGZo2w6CTliXvZg8F"
+      },
+      "artists": [
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        },
+        {
+          "name": "Dollypran",
+          "url": "https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Lyke Dat",
+      "url": "https://open.spotify.com/track/2NJjqqZQUoWo5vsXM6osYp"
     },
     {
       "album": {

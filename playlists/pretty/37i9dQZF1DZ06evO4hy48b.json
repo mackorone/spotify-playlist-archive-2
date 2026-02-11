@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 232093,
+  "num_followers": 232173,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABOHvuZ0xwRyHuqBLhtv7/1",
+  "snapshot_id": "aYkjgAAAAAArgXHOafDatMB0Ye1sf7oI",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,22 @@
       "duration_ms": 125080,
       "name": "En El Coche",
       "url": "https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La \u00daltima (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 216101,
+      "name": "La \u00faltima",
+      "url": "https://open.spotify.com/track/3QMbspb1zO1XaREaQrRUh2"
     }
   ],
   "unique_name": "This Is Aitana",

@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 164893,
       "name": "Be a Hero",
       "url": "https://open.spotify.com/track/7F7VfH62AAnegriuC8jG1j"
@@ -1379,6 +1379,24 @@
     },
     {
       "album": {
+        "name": "TV Animation My Hero Academia 7th Original Soundtrack",
+        "url": "https://open.spotify.com/album/6u7u6gaokipiDoPPxnJ2z1"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "Sixth Magnitude Star - MHA Arr Ver.",
+      "url": "https://open.spotify.com/track/5P8p3KXKcNyNrjo2u9cxgL"
+    },
+    {
+      "album": {
         "name": "\u6620\u753b\u300c\u30d0\u30af\u30c6\u30f3!!\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0unHuSzyduv1PIICXG6UW8"
       },
@@ -2028,7 +2046,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 132866,
       "name": "\u30aa\u30fc\u30eb\uff65\u30d5\u30a9\u30fc\uff65\u30ef\u30f3",
       "url": "https://open.spotify.com/track/0fW6pNl1nIgPWaUaCnn4LZ"
@@ -3004,7 +3022,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 199866,
       "name": "\u6b6f\u8eca",
       "url": "https://open.spotify.com/track/3kMYYFcPC0rgig7GC1Fbm8"

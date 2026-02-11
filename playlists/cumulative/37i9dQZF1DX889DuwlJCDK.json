@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-30",
-  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: SATOH",
+  "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: TOOBOE",
   "name": "\u9752\u6625\u3068\u4e00\u77ac",
   "tracks": [
     {
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 218000,
       "name": "Aru ryuseigun",
       "url": "https://open.spotify.com/track/3uhm4bZRlimOth54MzjCQK"
@@ -20372,6 +20372,24 @@
       "duration_ms": 247023,
       "name": "\u4e16\u754c\u306b\u541b\u4e00\u4eba\u3060\u3051",
       "url": "https://open.spotify.com/track/2MBYHLxowxWCAhA6wd73G6"
+    },
+    {
+      "album": {
+        "name": "EVER GREEN",
+        "url": "https://open.spotify.com/album/7d2EM3xspUHhHoFUVoVV3u"
+      },
+      "artists": [
+        {
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "\u4e16\u754c\u306e\u7d42\u308f\u308a",
+      "url": "https://open.spotify.com/track/0yhHJISNoqaekTVJVURfXS"
     },
     {
       "album": {

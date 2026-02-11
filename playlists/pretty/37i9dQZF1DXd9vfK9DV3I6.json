@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 374832,
+  "num_followers": 374891,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,26 @@
     {
       "added_at": "2026-02-06 14:37:09",
       "album": {
+        "name": "Salaam",
+        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Hiya",
+          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
+        }
+      ],
+      "duration_ms": 286829,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
+    },
+    {
+      "added_at": "2026-02-06 14:37:09",
+      "album": {
         "name": "Orient Spirit",
         "url": "https://open.spotify.com/album/5LuVSGPgIS5cgo3TbonA3m"
       },
@@ -787,26 +807,6 @@
     {
       "added_at": "2026-02-06 14:37:09",
       "album": {
-        "name": "Salaam",
-        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Hiya",
-          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
-        }
-      ],
-      "duration_ms": 286829,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
-    },
-    {
-      "added_at": "2026-02-06 14:37:09",
-      "album": {
         "name": "Ethnique",
         "url": "https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4"
       },
@@ -819,22 +819,6 @@
       "duration_ms": 167375,
       "name": "Ethnique",
       "url": "https://open.spotify.com/track/4amCThUWU1U7Bbuh1FXHu4"
-    },
-    {
-      "added_at": "2026-02-06 14:37:09",
-      "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2026-02-06 14:37:09",
@@ -855,22 +839,6 @@
       "duration_ms": 184761,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/5ZPLRCJauBNOxzacXmVNjR"
-    },
-    {
-      "added_at": "2026-02-06 14:37:09",
-      "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
       "added_at": "2026-02-06 14:37:09",
@@ -899,18 +867,34 @@
     {
       "added_at": "2026-02-06 14:37:09",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
       },
       "artists": [
         {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
         }
       ],
-      "duration_ms": 213737,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
+    },
+    {
+      "added_at": "2026-02-06 14:37:09",
+      "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2026-02-06 14:37:09",
@@ -967,6 +951,22 @@
     {
       "added_at": "2026-02-06 14:37:09",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 213737,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
+    },
+    {
+      "added_at": "2026-02-06 14:37:09",
+      "album": {
         "name": "Watra",
         "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
       },
@@ -979,22 +979,6 @@
       "duration_ms": 141754,
       "name": "Watra",
       "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
-    },
-    {
-      "added_at": "2026-02-06 14:37:09",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     },
     {
       "added_at": "2026-02-06 14:37:09",
@@ -1035,22 +1019,6 @@
     {
       "added_at": "2026-02-06 14:37:09",
       "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
-    },
-    {
-      "added_at": "2026-02-06 14:37:09",
-      "album": {
         "name": "Arabic Nights",
         "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
       },
@@ -1063,6 +1031,38 @@
       "duration_ms": 165333,
       "name": "Arabic Nights",
       "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+    },
+    {
+      "added_at": "2026-02-06 14:37:09",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
+    },
+    {
+      "added_at": "2026-02-06 14:37:09",
+      "album": {
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2026-02-06 14:37:09",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-02-06 14:37:09",
       "album": {
-        "name": "Yasameen",
-        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Douae El Rhiouane",
-          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Yasameen",
-      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
-    },
-    {
-      "added_at": "2026-02-06 14:37:09",
-      "album": {
         "name": "Bangladesh",
         "url": "https://open.spotify.com/album/7LBsacPrDzwsZgZcrrHyKl"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 147806,
       "name": "Bangladesh",
       "url": "https://open.spotify.com/track/2vmgBSWj0JLDIfvfqiflGf"
+    },
+    {
+      "added_at": "2026-02-06 14:37:09",
+      "album": {
+        "name": "Yasameen",
+        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Douae El Rhiouane",
+          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Yasameen",
+      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
     },
     {
       "added_at": "2026-02-06 14:37:09",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2026-02-06 14:37:09",
       "album": {
+        "name": "Dahlia Girl",
+        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Dahlia Girl",
+      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
+    },
+    {
+      "added_at": "2026-02-06 14:37:09",
+      "album": {
         "name": "Bladi B3ida",
         "url": "https://open.spotify.com/album/4B1cXT0JtC0f0e0sbODGow"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 319851,
       "name": "Bladi B3ida",
       "url": "https://open.spotify.com/track/2h519R5O4HhdPjboqsOond"
-    },
-    {
-      "added_at": "2026-02-06 14:37:09",
-      "album": {
-        "name": "Dahlia Girl",
-        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
-      },
-      "artists": [
-        {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Eneli",
-          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Dahlia Girl",
-      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
     },
     {
       "added_at": "2026-02-06 14:37:09",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2026-02-06 14:37:09",
       "album": {
+        "name": "Hold On To Me",
+        "url": "https://open.spotify.com/album/2R56tvCgMjhV6NnhY6TRy1"
+      },
+      "artists": [
+        {
+          "name": "Gokhan Akkas",
+          "url": "https://open.spotify.com/artist/5eqGxrMJ31RttUaQF9QtUP"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Hold On To Me",
+      "url": "https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o"
+    },
+    {
+      "added_at": "2026-02-06 14:37:09",
+      "album": {
         "name": "Moroccan Sahara",
         "url": "https://open.spotify.com/album/7gNhIIdrH2OEJJsXC5OKLD"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 447680,
       "name": "Descalzo",
       "url": "https://open.spotify.com/track/2jcW2YUOaih8Gywf4hgL4b"
-    },
-    {
-      "added_at": "2026-02-06 14:37:09",
-      "album": {
-        "name": "Hold On To Me",
-        "url": "https://open.spotify.com/album/2R56tvCgMjhV6NnhY6TRy1"
-      },
-      "artists": [
-        {
-          "name": "Gokhan Akkas",
-          "url": "https://open.spotify.com/artist/5eqGxrMJ31RttUaQF9QtUP"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Hold On To Me",
-      "url": "https://open.spotify.com/track/6NvaEJ6IhUWTN5XIXSb89o"
     },
     {
       "added_at": "2026-02-06 14:37:09",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-02-06 14:37:09",
       "album": {
-        "name": "In the Harem",
-        "url": "https://open.spotify.com/album/1qwAeW8FUAtGo4VfB31aMU"
-      },
-      "artists": [
-        {
-          "name": "Billy Esteban",
-          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
-        }
-      ],
-      "duration_ms": 322386,
-      "name": "In the Harem",
-      "url": "https://open.spotify.com/track/2Vjyh9lYP0jRMO23rod3ZF"
-    },
-    {
-      "added_at": "2026-02-06 14:37:09",
-      "album": {
         "name": "Mafeesh Mostaheel - Arrab Remix",
         "url": "https://open.spotify.com/album/0tPPFYZJFvWbtEg5TQLMrW"
       },
@@ -1807,22 +1791,18 @@
     {
       "added_at": "2026-02-06 14:37:09",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+        "name": "In the Harem",
+        "url": "https://open.spotify.com/album/1qwAeW8FUAtGo4VfB31aMU"
       },
       "artists": [
         {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+          "name": "Billy Esteban",
+          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
         }
       ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+      "duration_ms": 322386,
+      "name": "In the Harem",
+      "url": "https://open.spotify.com/track/2Vjyh9lYP0jRMO23rod3ZF"
     },
     {
       "added_at": "2026-02-06 14:37:09",
@@ -1843,6 +1823,26 @@
       "duration_ms": 248095,
       "name": "Hey Hey",
       "url": "https://open.spotify.com/track/2FROUQIblxhRtNa5OBPMLB"
+    },
+    {
+      "added_at": "2026-02-06 14:37:09",
+      "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "added_at": "2026-02-06 14:37:09",

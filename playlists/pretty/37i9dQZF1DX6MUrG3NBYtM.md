@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > Hiqpy genomineerd voor Edison Pop 2026: Nieuwkomer en Rock 🔥🤟🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,315 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,309 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 53 | [Red Flag Magician](https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Red Flag Magician](https://open.spotify.com/album/1gRciLdgJ2GetUgTSher9p) | 5:28 |
 | 54 | [Reflections Of Lessons Left](https://open.spotify.com/track/574FL9nQ8WI8QGpUGRURG9) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Matter Does Not Define](https://open.spotify.com/album/39Mj8N4ykB89bEHkl5yG9d) | 3:56 |
 | 55 | [Dizzy](https://open.spotify.com/track/4Vxl7MqmLnB1U6mCMdmIPG) | [Crybabies](https://open.spotify.com/artist/2acTwdggTAVdQELkyHdUK8) | [Dizzy](https://open.spotify.com/album/17gxG3lYgvANFNR8FI7Frp) | 3:53 |
-| 56 | [Burn Me Like a Cigarette](https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Burn Me Like a Cigarette](https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW) | 3:21 |
-| 57 | [Departure](https://open.spotify.com/track/6PkA5FwHGcL9r8EN1xkNxW) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE), [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:19 |
+| 56 | [Departure](https://open.spotify.com/track/6PkA5FwHGcL9r8EN1xkNxW) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE), [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:19 |
+| 57 | [Burn Me Like a Cigarette](https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Burn Me Like a Cigarette](https://open.spotify.com/album/0YKsVt7Ls6PhZHJ4enc0ZW) | 3:21 |
 | 58 | [Boston](https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [I think we should just move in together](https://open.spotify.com/album/2o8g87QqMaH1Xm8nMOCcvv) | 4:05 |
 | 59 | [Some Girls](https://open.spotify.com/track/60A89nvhQlFnmfoQ692FLY) | [Alice Mae](https://open.spotify.com/artist/1BH0GCT0bBB4uiWFX1aruD) | [Some Girls](https://open.spotify.com/album/0n7HD6kFpthMRUCkBcngZn) | 2:37 |
 | 60 | [SWEET HEROINE](https://open.spotify.com/track/3lHNSEUusB5mEbBHquFQ40) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [SWEET HEROINE](https://open.spotify.com/album/2MNZGcvSgCjAi9fuqqVXaW) | 4:08 |

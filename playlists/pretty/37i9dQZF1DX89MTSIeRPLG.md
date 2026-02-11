@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,938 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,941 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 16 | [DO BETTER](https://open.spotify.com/track/3BOosbDTBZKTOwTbfaQmHY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:32 |
 | 17 | [Nowhere 2 Run](https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb) | [Grind2hard Osh’a](https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET) | [Wolf Talk](https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW) | 2:53 |
 | 18 | [I'll Never Tell Em Shit](https://open.spotify.com/track/1BFXOnTTLceecy6N2xDgCV) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [I'll Never Tell Em Shit](https://open.spotify.com/album/6OPXGevMn8h54jmk4LWgG1) | 2:57 |
-| 19 | [Only You](https://open.spotify.com/track/7cmml6x2roZ79TepoRbnd0) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l) | [1\-800\-HIT\-EAZY](https://open.spotify.com/album/49sZjOYtCwxpOhbwDXmaUi) | 2:29 |
-| 20 | [The Marathon Continues \(Nipsey Tribute\) \- Bonus Track](https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Survival](https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn) | 3:45 |
+| 19 | [The Marathon Continues \(Nipsey Tribute\) \- Bonus Track](https://open.spotify.com/track/7oUSLvxTERNMcXFQ3gQtjz) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Survival](https://open.spotify.com/album/555WY4PFhQaqYEO0r65kBn) | 3:45 |
+| 20 | [Only You](https://open.spotify.com/track/7cmml6x2roZ79TepoRbnd0) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l) | [1\-800\-HIT\-EAZY](https://open.spotify.com/album/49sZjOYtCwxpOhbwDXmaUi) | 2:29 |
 | 21 | [Period](https://open.spotify.com/track/6SNYJG1rOe01x83XtaXXNi) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Period](https://open.spotify.com/album/0TV6rA9EkTHEVNOjfsyLFS) | 3:20 |
 | 22 | [Ain't It Funny ft\. Meek Mill](https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 3:03 |
 | 23 | [Hands Down](https://open.spotify.com/track/0AjxDudmpT7MMkqtwCtJbE) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [B.H.D\. \(Black Hearted Demon\)](https://open.spotify.com/album/2Qeie0AYfdOr2Y0Gp9qCIT) | 2:37 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 41 | [What Love \(feat\. Calboy\)](https://open.spotify.com/track/5jMFydUe95EhbZ6lP0Xfww) | [Laney Keyz](https://open.spotify.com/artist/2MNOwWX8xpY7yqZezNVdMC), [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [What Love \(feat\. Calboy\)](https://open.spotify.com/album/4oomgcSMVy7zPCwnZmPQJY) | 3:10 |
 | 42 | [Federal](https://open.spotify.com/track/5H3RzvBoEUe3F4pXx6Vkqh) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Federal](https://open.spotify.com/album/5sZbYgv631BBEsORd4Yxqb) | 2:22 |
 | 43 | [Stay Ballin'](https://open.spotify.com/track/265lAH6iZlYiVvOIN18V6w) | [Dwalk](https://open.spotify.com/artist/6eTtN1ArNtkXCPZJ8riM0T) | [12/31](https://open.spotify.com/album/1JCrDXVsnCHZT4HdssPKP5) | 2:01 |
-| 44 | [Base' Body](https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6) | [51 June](https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ) | [Preaching from the Projects](https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49) | 2:30 |
+| 44 | [Trenches](https://open.spotify.com/track/4vvcUzyAm5lBXlNfcDGQUt) | [Tavey Baby](https://open.spotify.com/artist/2QBLcQmTu8qTGatJkUvgyd) | [Trenches](https://open.spotify.com/album/3UB4SNampTwUBbeCY5dzmE) | 2:35 |
 | 45 | [Florida Nights](https://open.spotify.com/track/7srw45c946Fxo8Ve8tbRGl) | [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4) | [Sayless](https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ) | 2:23 |
-| 46 | [Trenches](https://open.spotify.com/track/4vvcUzyAm5lBXlNfcDGQUt) | [Tavey Baby](https://open.spotify.com/artist/2QBLcQmTu8qTGatJkUvgyd) | [Trenches](https://open.spotify.com/album/3UB4SNampTwUBbeCY5dzmE) | 2:35 |
+| 46 | [Base' Body](https://open.spotify.com/track/2l7z6Z05tlyJfJMP2Q0gT6) | [51 June](https://open.spotify.com/artist/556z91jDKTTuSoTNxbi8OQ) | [Preaching from the Projects](https://open.spotify.com/album/4aTRMIvievsHXpizRHEx49) | 2:30 |
 | 47 | [No More Body's](https://open.spotify.com/track/5uxotViLWnfC0RxCMizmRX) | [Celfmade Cel](https://open.spotify.com/artist/7cUENUVA9oNBoIRFsK3A1s) | [No More Body's](https://open.spotify.com/album/033AXBxFDHyj2uKYNNoudx) | 1:50 |
 | 48 | [Cruise Control](https://open.spotify.com/track/6VUP0NVCY6m7enzUyf8MzY) | [El'teainte](https://open.spotify.com/artist/6XCFoVBRPN2ciV01d43q07) | [Fuego](https://open.spotify.com/album/3NnZasbZ8ZHXdnewdLaQT2) | 3:24 |
 | 49 | [Basement](https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Basement](https://open.spotify.com/album/6rF4NnGkaNcE9nwjgXr0vI) | 2:26 |

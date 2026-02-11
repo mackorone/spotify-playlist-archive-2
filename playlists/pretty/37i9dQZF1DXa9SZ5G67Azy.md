@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 
 > Un poco de esto, un poco de lo otro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,430 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,451 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9SZ5G67Azy.md) - [plain]
 | 45 | [cifra de seguidosv \- Remix](https://open.spotify.com/track/7CMZkZjp0HUfy46XcdN5I6) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A) | [cifra de seguidosv \(Remix\)](https://open.spotify.com/album/1TXq0pRODooY7aU5pfHFEb) | 2:42 |
 | 46 | [La Jumpa](https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Jumpa](https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN) | 4:15 |
 | 47 | [Dale Mecha \- House Remix](https://open.spotify.com/track/5r0TYomlEGGY6eRLcyWwvO) | [Santi Dome](https://open.spotify.com/artist/62ysFsCfzsF4LLRmOphXhM), [ThomyDomé](https://open.spotify.com/artist/5qqUYMzxKlvDnSgAMIePLd) | [Dale Mecha \(House Remix\)](https://open.spotify.com/album/0B4jDkOdMU0SXfpk5pxIYI) | 2:20 |
-| 48 | [Que Calor \- Remix](https://open.spotify.com/track/3uomMBACY8yJ5L83kpmuR9) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR), [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [Mizter Bonezz](https://open.spotify.com/artist/7sJc5dGycdAFCCjWujvaez) | [Que Calor \(Remix\)](https://open.spotify.com/album/7po9ajJ5W1jh3QsoV4IZ1G) | 2:38 |
+| 48 | [Que Calor \- Remix](https://open.spotify.com/track/3uomMBACY8yJ5L83kpmuR9) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR), [Broz](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [Mizter Bonezz](https://open.spotify.com/artist/7sJc5dGycdAFCCjWujvaez) | [Que Calor \(Remix\)](https://open.spotify.com/album/7po9ajJ5W1jh3QsoV4IZ1G) | 2:38 |
 | 49 | [She Don't Give A Fov](https://open.spotify.com/track/0VObSXd35k7s2k1IKUjWxn) | [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A) | [She Don't Give A Fov](https://open.spotify.com/album/0i5GXyIZkYZPwnnbzKoSqs) | 3:23 |
 | 50 | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/track/65SZzxum2FuIUFIIVQH1g6) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca \(R3HAB Remix\)](https://open.spotify.com/album/789Tz3KmAjB9iYUkRw8myS) | 2:57 |
 | 51 | [Todo De Ti \- Summer Remix](https://open.spotify.com/track/642TVG63fTV3bhuMJQfcSM) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi) | [Todo De Ti \(Summer Remix\)](https://open.spotify.com/album/63UOW6Vd1pof9NMLTIsJ3Y) | 5:10 |

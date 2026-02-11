@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABz3KlZL78Vim+DJaqgu7ih",
+  "snapshot_id": "aYkjgAAAAAC6FK75YOuvVuS5xL7SUjfl",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PVTIVUELTA",
+        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 143798,
+      "name": "PVTIVUELTA",
+      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FULL OF HOES",
         "url": "https://open.spotify.com/album/6Rf4KhMAcuW7hqAqd0HBtq"
       },
@@ -311,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PVTIVUELTA",
-        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 143798,
-      "name": "PVTIVUELTA",
-      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Corona",
         "url": "https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN"
       },
@@ -343,26 +343,6 @@
       "duration_ms": 119210,
       "name": "La Corona",
       "url": "https://open.spotify.com/track/6Ac90AFmBbFz9WnqSHfflv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMSTRDM",
-        "url": "https://open.spotify.com/album/1ofQJpWN8JjJRST6hGcwNI"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "D-Sides",
-          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
-        }
-      ],
-      "duration_ms": 157719,
-      "name": "AMSTRDM",
-      "url": "https://open.spotify.com/track/2b6dun7rRHWyNy1qr5iQBV"
     },
     {
       "added_at": null,
@@ -383,6 +363,26 @@
       "duration_ms": 144589,
       "name": "Bien Jalisco",
       "url": "https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMSTRDM",
+        "url": "https://open.spotify.com/album/1ofQJpWN8JjJRST6hGcwNI"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "D-Sides",
+          "url": "https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl"
+        }
+      ],
+      "duration_ms": 157719,
+      "name": "AMSTRDM",
+      "url": "https://open.spotify.com/track/2b6dun7rRHWyNy1qr5iQBV"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Credo",
+        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "Mi Credo",
+      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DESDE MIS OJOS",
         "url": "https://open.spotify.com/album/5KBbLAlIiPxbIJ0DD6fVh4"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 127058,
       "name": "DESDE MIS OJOS",
       "url": "https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Credo",
-        "url": "https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 127384,
-      "name": "Mi Credo",
-      "url": "https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fama De Ingrata",
-        "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Zendaya",
-      "url": "https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culichi Vibes",
         "url": "https://open.spotify.com/album/4Qb6M1XyHrgR4zwlyPs4bS"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 189351,
       "name": "Culichi Vibes",
       "url": "https://open.spotify.com/track/3jZ9JwUMPDvcbk3APnk7c9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fama De Ingrata",
+        "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/0dTtxXu9BDh6PE7uwzpBZp"
     },
     {
       "added_at": null,
@@ -663,66 +663,6 @@
       "duration_ms": 181818,
       "name": "RUMBA",
       "url": "https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFROLANDIA",
-        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Sabine",
-          "url": "https://open.spotify.com/artist/7yYwMLyDomWvLopr8vsJZK"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "#TBT",
-      "url": "https://open.spotify.com/track/0WyC33yYFlOewzJbbN3WMD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plastic Bombastic",
-        "url": "https://open.spotify.com/album/4KFkHcErRET53EWyRnFWIu"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Victor Rivera Y Su Nuevo Estilo",
-          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
-        }
-      ],
-      "duration_ms": 178474,
-      "name": "Plastic Bombastic",
-      "url": "https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GLOSS DIOR",
-        "url": "https://open.spotify.com/album/2T0f2VwtKaFnqoqzJWjs0f"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 147096,
-      "name": "GLOSS DIOR",
-      "url": "https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu"
     },
     {
       "added_at": null,
@@ -752,19 +692,35 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Hector Vargas",
-          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
+          "name": "Sabine",
+          "url": "https://open.spotify.com/artist/7yYwMLyDomWvLopr8vsJZK"
         }
       ],
-      "duration_ms": 153402,
-      "name": "SI MUERO MA\u00d1ANA",
-      "url": "https://open.spotify.com/track/1yK2XEuvQ161TQB5SEixCC"
+      "duration_ms": 184800,
+      "name": "#TBT",
+      "url": "https://open.spotify.com/track/0WyC33yYFlOewzJbbN3WMD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Lujos Y Damitas",
-        "url": "https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU"
+        "name": "GLOSS DIOR",
+        "url": "https://open.spotify.com/album/2T0f2VwtKaFnqoqzJWjs0f"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "GLOSS DIOR",
+      "url": "https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plastic Bombastic",
+        "url": "https://open.spotify.com/album/4KFkHcErRET53EWyRnFWIu"
       },
       "artists": [
         {
@@ -772,13 +728,17 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Jr Heguertty",
-          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
         }
       ],
-      "duration_ms": 154338,
-      "name": "Lujos Y Damitas",
-      "url": "https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01"
+      "duration_ms": 178474,
+      "name": "Plastic Bombastic",
+      "url": "https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz"
     },
     {
       "added_at": null,
@@ -799,6 +759,66 @@
       "duration_ms": 165000,
       "name": "BELIKBOY",
       "url": "https://open.spotify.com/track/0FlktHPAxqr18ObNl7bvm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFROLANDIA",
+        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Hector Vargas",
+          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "SI MUERO MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/1yK2XEuvQ161TQB5SEixCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Pilas (En Vivo)",
+        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 118826,
+      "name": "Bien Pilas - En Vivo",
+      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos Y Damitas",
+        "url": "https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Jr Heguertty",
+          "url": "https://open.spotify.com/artist/6KQXDUqaYVFJznNYMtjkpU"
+        }
+      ],
+      "duration_ms": 154338,
+      "name": "Lujos Y Damitas",
+      "url": "https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01"
     },
     {
       "added_at": null,
@@ -839,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Pilas (En Vivo)",
-        "url": "https://open.spotify.com/album/01XwB5pr3dKiLgahNUSvLg"
+        "name": "MASARYK / BIEN PEDO",
+        "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 118826,
-      "name": "Bien Pilas - En Vivo",
-      "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
+      "duration_ms": 146250,
+      "name": "BIEN PEDO",
+      "url": "https://open.spotify.com/track/7sduQZMezgZjyUkPhZjz8a"
     },
     {
       "added_at": null,
@@ -879,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MASARYK / BIEN PEDO",
-        "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "BIEN PEDO",
-      "url": "https://open.spotify.com/track/7sduQZMezgZjyUkPhZjz8a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Uno Al 7 (En Vivo)",
         "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
       },
@@ -915,22 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonto",
-        "url": "https://open.spotify.com/album/0cxct2zd10F6AhClN2YWGo"
+        "name": "Bsod3",
+        "url": "https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "GHT Official",
+          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
         },
         {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 186095,
-      "name": "Tonto",
-      "url": "https://open.spotify.com/track/3Uvrcjvuj4BVQ9L5qLPjHg"
+      "duration_ms": 194645,
+      "name": "Bsod3",
+      "url": "https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD"
     },
     {
       "added_at": null,
@@ -951,22 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bsod3",
-        "url": "https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx"
+        "name": "Tonto",
+        "url": "https://open.spotify.com/album/0cxct2zd10F6AhClN2YWGo"
       },
       "artists": [
         {
-          "name": "GHT Official",
-          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
-        },
-        {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 194645,
-      "name": "Bsod3",
-      "url": "https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD"
+      "duration_ms": 186095,
+      "name": "Tonto",
+      "url": "https://open.spotify.com/track/3Uvrcjvuj4BVQ9L5qLPjHg"
     },
     {
       "added_at": null,

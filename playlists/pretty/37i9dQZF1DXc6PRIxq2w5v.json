@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN, Mc Davi",
-  "num_followers": 188670,
+  "num_followers": 188722,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,26 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
+        "name": "No Sil\u00eancio da Solid\u00e3o (Submundo)",
+        "url": "https://open.spotify.com/album/7d9QCSLUTVc9THSN1BzV1u"
+      },
+      "artists": [
+        {
+          "name": "patetacodigo43",
+          "url": "https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk"
+        },
+        {
+          "name": "Dj Samu AKA Suguiura",
+          "url": "https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs"
+        }
+      ],
+      "duration_ms": 280028,
+      "name": "No Sil\u00eancio da Solid\u00e3o - Submundo",
+      "url": "https://open.spotify.com/track/0iIeksgXMaGf4WUksK5FFi"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
         "name": "Metanoia",
         "url": "https://open.spotify.com/album/2Ia0a2XnTEExpRTEDQEsaG"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 157384,
       "name": "Te Agrade\u00e7o",
       "url": "https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "No Sil\u00eancio da Solid\u00e3o (Submundo)",
-        "url": "https://open.spotify.com/album/7d9QCSLUTVc9THSN1BzV1u"
-      },
-      "artists": [
-        {
-          "name": "patetacodigo43",
-          "url": "https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk"
-        },
-        {
-          "name": "Dj Samu AKA Suguiura",
-          "url": "https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs"
-        }
-      ],
-      "duration_ms": 280028,
-      "name": "No Sil\u00eancio da Solid\u00e3o - Submundo",
-      "url": "https://open.spotify.com/track/0iIeksgXMaGf4WUksK5FFi"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -999,42 +999,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Firme",
-        "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
-      },
-      "artists": [
-        {
-          "name": "Fe Ribeiro",
-          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
-        },
-        {
-          "name": "Ty Fig",
-          "url": "https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S"
-        }
-      ],
-      "duration_ms": 156937,
-      "name": "Firme",
-      "url": "https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
-        "name": "Momentos Dif\u00edceis",
-        "url": "https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 158081,
-      "name": "Momentos Dif\u00edceis",
-      "url": "https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Melhores Dias",
         "url": "https://open.spotify.com/album/46kA1Tr4KNNzb8FAX5U3AR"
       },
@@ -1055,6 +1019,42 @@
       "duration_ms": 159069,
       "name": "Melhores Dias",
       "url": "https://open.spotify.com/track/1KhJR0Q3RyRTkf2JauNOeB"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Momentos Dif\u00edceis",
+        "url": "https://open.spotify.com/album/60weoY6jR36SCjEzfmdNpu"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 158081,
+      "name": "Momentos Dif\u00edceis",
+      "url": "https://open.spotify.com/track/7LAeP3utzgQ3FutmcdDtOY"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Firme",
+        "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
+      },
+      "artists": [
+        {
+          "name": "Fe Ribeiro",
+          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
+        },
+        {
+          "name": "Ty Fig",
+          "url": "https://open.spotify.com/artist/3WWFue7urY227pMKMRCK7S"
+        }
+      ],
+      "duration_ms": 156937,
+      "name": "Firme",
+      "url": "https://open.spotify.com/track/7H8yZQiqSKXLnIQri2pCRw"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1083,30 +1083,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 138475,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Mais Perto do C\u00e9u",
         "url": "https://open.spotify.com/album/5Web1BoC0jrAhTbB9zrgjk"
       },
@@ -1127,6 +1103,30 @@
       "duration_ms": 157568,
       "name": "Mais Perto do C\u00e9u",
       "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 138475,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1307,30 +1307,26 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/5Z5y5wPXvvlVIe7sSZAKiG"
+        "name": "Oferto Eu",
+        "url": "https://open.spotify.com/album/4fm0OHbYMX1w2hWCWPpi61"
       },
       "artists": [
         {
-          "name": "Igor PPrata",
-          "url": "https://open.spotify.com/artist/0sdQM2t5LWglXgFlkHQxFh"
+          "name": "Maia Flow",
+          "url": "https://open.spotify.com/artist/0JOgA75ZUJUBNg8Gb3hyBD"
         },
         {
-          "name": "Kenedy Gomes",
-          "url": "https://open.spotify.com/artist/1oFzfu6OfTHN2vQOqTaR5q"
-        },
-        {
-          "name": "ADS Escobar",
-          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
+          "name": "Gui Hazel",
+          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
         },
         {
           "name": "TRDD Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 237108,
-      "name": "At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/7y1Rr3AyVOxiIhz02L0dBg"
+      "duration_ms": 173142,
+      "name": "Oferto Eu",
+      "url": "https://open.spotify.com/track/1pGlL6OzQVRFh1B8J2Iuuv"
     },
     {
       "added_at": "2026-02-06 03:01:19",
@@ -1371,30 +1367,6 @@
     {
       "added_at": "2026-02-06 03:01:19",
       "album": {
-        "name": "Oferto Eu",
-        "url": "https://open.spotify.com/album/4fm0OHbYMX1w2hWCWPpi61"
-      },
-      "artists": [
-        {
-          "name": "Maia Flow",
-          "url": "https://open.spotify.com/artist/0JOgA75ZUJUBNg8Gb3hyBD"
-        },
-        {
-          "name": "Gui Hazel",
-          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "Oferto Eu",
-      "url": "https://open.spotify.com/track/1pGlL6OzQVRFh1B8J2Iuuv"
-    },
-    {
-      "added_at": "2026-02-06 03:01:19",
-      "album": {
         "name": "Love Sangre",
         "url": "https://open.spotify.com/album/4Z21EoViE71csguinP5E1S"
       },
@@ -1415,6 +1387,34 @@
       "duration_ms": 173617,
       "name": "Love Sangre",
       "url": "https://open.spotify.com/track/14vhf1UyE14WJzk7aXdyeo"
+    },
+    {
+      "added_at": "2026-02-06 03:01:19",
+      "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/5Z5y5wPXvvlVIe7sSZAKiG"
+      },
+      "artists": [
+        {
+          "name": "Igor PPrata",
+          "url": "https://open.spotify.com/artist/0sdQM2t5LWglXgFlkHQxFh"
+        },
+        {
+          "name": "Kenedy Gomes",
+          "url": "https://open.spotify.com/artist/1oFzfu6OfTHN2vQOqTaR5q"
+        },
+        {
+          "name": "ADS Escobar",
+          "url": "https://open.spotify.com/artist/7FNCsLplFNTiKLvnAP3WsP"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 237108,
+      "name": "At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/7y1Rr3AyVOxiIhz02L0dBg"
     },
     {
       "added_at": "2026-02-06 03:01:19",

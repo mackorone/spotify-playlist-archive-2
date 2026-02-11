@@ -218,7 +218,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 325690,
       "name": "Aquella que no lo quiso amar (Versi\u00f3n V4) (feat. \u732b\u6751\u3044\u308d\u306f&\u6c37\u5c71\u30ad\u30e8\u30c6\u30eb&\u5bae\u821e\u30e2\u30ab&\u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/3e9Cj5WFLmkBWOEaaNM3sa"
@@ -1299,6 +1299,56 @@
     },
     {
       "album": {
+        "name": "FantasiC",
+        "url": "https://open.spotify.com/album/0E9zFLvDXOZXE0k8Ujyx71"
+      },
+      "artists": [
+        {
+          "name": "Hitoshizuku and Yama",
+          "url": "https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        },
+        {
+          "name": "\u304c\u304f\u3063\u307d\u3044\u3069",
+          "url": "https://open.spotify.com/artist/6Da5yiUozbKBkjI6u5dEFx"
+        },
+        {
+          "name": "\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9",
+          "url": "https://open.spotify.com/artist/36JmKF8ae9cmpYmbL5fZXD"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245514,
+      "name": "Mr. \u30b7\u30e3\u30fc\u30c7\u30f3\u30d5\u30ed\u30a4\u30c7 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3&\u5de1\u97f3\u30eb\u30ab&MEIKO&KAITO&\u304c\u304f\u3063\u307d\u3044\u3069&\u30e1\u30b0\u30c3\u30dd\u30a4\u30c9)",
+      "url": "https://open.spotify.com/track/1POKGO6IDu6FrrWuipwiAm"
+    },
+    {
+      "album": {
         "name": "FLOCCINAUCINIHILIPILIFICATION / NJ",
         "url": "https://open.spotify.com/album/0YkMGFdZpxAv32q6VKqDay"
       },
@@ -1874,7 +1924,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 192992,
       "name": "Squall (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4rKma6je33w6DRR5O5s0Wj"
@@ -2648,7 +2698,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 146564,
       "name": "\u3057\u308d\u3068\u304f\u308d\u306e\u305b\u304b\u3044\u3067",
       "url": "https://open.spotify.com/track/1F4WGk97LdECnxvrmmIxWC"
@@ -3214,6 +3264,28 @@
       "duration_ms": 313846,
       "name": "\u30a2\u30d9\u30ea\u30a2",
       "url": "https://open.spotify.com/track/0QD28MNgGHb5khKZUAw52t"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/1r0WCmwpg8Q9inUKtc1MhQ"
+      },
+      "artists": [
+        {
+          "name": "\u306a\u3061\u3074",
+          "url": "https://open.spotify.com/artist/2vM2pQv96YwKmIBjNBhCMm"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144870,
+      "name": "\u30a2\u30ea\u30a2 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3ZKYLv4lJhbx4rLMrhXPlY"
     },
     {
       "album": {
@@ -4204,7 +4276,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 236500,
       "name": "\u30d0\u30e9\u30d0\u30e9\u30d0\u30fc\u30ba",
       "url": "https://open.spotify.com/track/0O89DU5X0pzI8bYYzkqLSZ"
@@ -4787,6 +4859,24 @@
     },
     {
       "album": {
+        "name": "\u30df\u30eb\u30af\u30d1\u30ba\u30eb",
+        "url": "https://open.spotify.com/album/0OcF29YwHOiz8YZkvKJu3r"
+      },
+      "artists": [
+        {
+          "name": "wotaku",
+          "url": "https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "\u30df\u30eb\u30af\u30d1\u30ba\u30eb (feat. KAITO)",
+      "url": "https://open.spotify.com/track/3qLlq99zLEBE0JDBJ2cmo7"
+    },
+    {
+      "album": {
         "name": "\u30e0\u30fc\u30f3\u30b9\u30c8\u30a2",
         "url": "https://open.spotify.com/album/0fj8rc3aNA0bI8d6QtN3RF"
       },
@@ -5353,6 +5443,28 @@
     },
     {
       "album": {
+        "name": "Magic Renewed",
+        "url": "https://open.spotify.com/album/4WaLm4bmWAfyTf1m4o3kfg"
+      },
+      "artists": [
+        {
+          "name": "Chiquewa",
+          "url": "https://open.spotify.com/artist/3elqV3RHoG9CYFJAw7DeVL"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "\u5192\u967a\u3057\u3088\u3046\u3088 (feat. \u521d\u97f3\u30df\u30afV4X)",
+      "url": "https://open.spotify.com/track/6ItzQF2VMYw6Ag4m7hLFBJ"
+    },
+    {
+      "album": {
         "name": "\u51ac\u304c\u7d42\u308f\u308a\u3092\u544a\u3052\u305f",
         "url": "https://open.spotify.com/album/48UG8tacbXLcyJ9aryFNFj"
       },
@@ -5568,6 +5680,28 @@
       "duration_ms": 232264,
       "name": "\u57f7\u7740\u5217\u8eca",
       "url": "https://open.spotify.com/track/1o6OmnpavwKEoTk846yQke"
+    },
+    {
+      "album": {
+        "name": "\u5883\u754c\u7dda",
+        "url": "https://open.spotify.com/album/7xVwTo9MQtrVk06mtOMkCp"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30ed\u30af\u30de\u6d88\u3057\u30b4\u30e0",
+          "url": "https://open.spotify.com/artist/7CWRzDWFh2yZajpEwvJxPk"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167865,
+      "name": "\u5883\u754c\u7dda (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1R0YaswuHnUhEK5y1R1Hw6"
     },
     {
       "album": {
@@ -6152,7 +6286,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 224999,
       "name": "\u601d\u8003\u30a2\u30f3\u30ed\u30c3\u30af (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3DvRvfPfmYCx2x7ipU1C3p"

@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 318626,
+  "num_followers": 318705,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABAflUuuBAaTIv2N7V0d7D0",
+  "snapshot_id": "aYkjgAAAAAC4CZ8zzkUJkro+5VTlNMJj",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,30 @@
       "duration_ms": 347640,
       "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
       "url": "https://open.spotify.com/track/1tYWIkEZg6wMrMuLO2mWcy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alleluia",
+        "url": "https://open.spotify.com/album/4nVUeDkkqCnhG8hQ8sLvVO"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 263721,
+      "name": "Alleluia",
+      "url": "https://open.spotify.com/track/401mrYPv21Zs2USsU6bauy"
     },
     {
       "added_at": null,
@@ -83,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 349586,
-      "name": "O Come to the Altar (Live)",
-      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hallelujah Here Below",
         "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
@@ -111,6 +119,22 @@
       "duration_ms": 371616,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/7qqtTPQIMXAFubamFBPHG5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
     },
     {
       "added_at": null,
@@ -503,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAN YOU IMAGINE?",
-        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 376416,
-      "name": "Runnin (feat. Brandon Lake)",
-      "url": "https://open.spotify.com/track/60s7QyO42V4QGRp6Ewzwds"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Har\u00e1s Otra Vez",
         "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
       },
@@ -535,6 +539,30 @@
       "duration_ms": 499213,
       "name": "Como en el Cielo (Here as in Heaven)",
       "url": "https://open.spotify.com/track/7gR2K9p8v5BB0uGLCcVimW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 598622,
+      "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/4vVKQV8ZHk4uUjEkkydLLl"
     },
     {
       "added_at": null,
@@ -587,30 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAN YOU IMAGINE?",
-        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 598622,
-      "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/4vVKQV8ZHk4uUjEkkydLLl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Graves Into Gardens (Live)",
         "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
@@ -623,6 +627,26 @@
       "duration_ms": 291330,
       "name": "My Testimony (Live)",
       "url": "https://open.spotify.com/track/3v8BMCftaY6CMe06VBSe0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 376416,
+      "name": "Runnin (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/60s7QyO42V4QGRp6Ewzwds"
     },
     {
       "added_at": null,
@@ -667,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAN YOU IMAGINE?",
-        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 354885,
-      "name": "Jehovah (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LION",
         "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
       },
@@ -703,6 +707,26 @@
       "duration_ms": 499155,
       "name": "Forever YHWH (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/6lWVaAM35H2Bu26XT6cVKm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 354885,
+      "name": "Jehovah (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
     },
     {
       "added_at": null,
@@ -727,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy In The Morning (Horizon Edition)",
-        "url": "https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 528413,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aleluya (En La Tierra)",
         "url": "https://open.spotify.com/album/2XbDHJ6hKGpn3MndpsHfuH"
       },
@@ -763,6 +767,26 @@
       "duration_ms": 378636,
       "name": "Digno (Worthy)",
       "url": "https://open.spotify.com/track/1G4YFaCFPPN4P0fZCzKYba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy In The Morning (Horizon Edition)",
+        "url": "https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 528413,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95"
     },
     {
       "added_at": null,
@@ -811,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 467053,
-      "name": "Resurrecting (Live)",
-      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hallelujah Here Below",
         "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
       },
@@ -843,6 +851,22 @@
       "duration_ms": 236736,
       "name": "Echo (feat. Tauren Wells)",
       "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
     },
     {
       "added_at": null,
@@ -1007,22 +1031,6 @@
       "duration_ms": 410508,
       "name": "Never Lost (Live) (feat. Tauren Wells)",
       "url": "https://open.spotify.com/track/0Ck8Iw5OM5Ag8q2CjBqjrV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At Midnight - EP",
-        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 350358,
-      "name": "It Is So",
-      "url": "https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr"
     }
   ],
   "unique_name": "This Is Elevation Worship",

@@ -4,7 +4,7 @@
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 32 min
+79 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bike Scene \- Remastered](https://open.spotify.com/track/2bYJIMEvnrcGfE6y3XaRJd) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:35 | 2024-05-11 | 2024-07-11 |
 | [Bonus Mosh Pt\. II](https://open.spotify.com/track/29zr7yJcEHQpCXz8aAZWOb) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:06 | 2022-10-25 |  |
 | [Bullet With Butterfly Wings](https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Bullet With Butterfly Wings](https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG) | 4:32 | 2022-10-25 |  |
-| [Call Come Running](https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 3:12 | 2022-10-25 |  |
+| [Call Come Running](https://open.spotify.com/track/5yrO5luvHEpLL8OC8qr7uN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 3:12 | 2022-10-25 | 2026-02-11 |
 | [Call Me In The Morning](https://open.spotify.com/track/6YMTBc93GQJQB1RkqUU1ux) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:59 | 2022-10-25 |  |
 | [Capital M\-E](https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 2:48 | 2022-11-27 |  |
 | [Capital M\-E](https://open.spotify.com/track/7gZpGRd8lzWXBIMDWIN2LX) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 2:48 | 2022-10-25 | 2022-11-28 |
@@ -79,6 +79,7 @@
 | [Tidal Wave](https://open.spotify.com/track/1LX0mHhWjzv03627Qi80Qd) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 2:32 | 2022-10-25 |  |
 | [Timberwolves At New Jersey \- Remastered](https://open.spotify.com/track/1JFPraHovseDzutd6BOIry) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:25 | 2022-10-25 |  |
 | [Up Against \(Blackout\)](https://open.spotify.com/track/6thXxlq9kjkPojCCPxNn8M) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:02 | 2024-05-13 | 2024-06-26 |
+| [We All Love Our Pets](https://open.spotify.com/track/5LIYbUs41ceW73JBLdPbVv) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/3LbmwW3awdE7P4wJillCEA) | 1:41 | 2026-02-11 |  |
 | [What's It Feel Like To Be A Ghost?](https://open.spotify.com/track/376GmAj8YF8fIJLe5IwOoH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:47 | 2022-10-25 |  |
 | [Where My Mouth Is](https://open.spotify.com/track/3ZHmXp5h6Ez92GT4ezaqeh) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:52 | 2025-03-01 | 2025-03-06 |
 | [You Can't Look Back](https://open.spotify.com/track/5qHSOO5fanhbdjPaiAIeVY) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 4:27 | 2022-10-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,145 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,157 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 14 | [Mañana, Mañana \- Primera Fila \- Live Version](https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:59 |
 | 15 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/5fy24Sqa6YZKadyl2FDlqu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal Canta A Juan Gabriel](https://open.spotify.com/album/21Ju1SwSaCZHkWtZh1dEyX) | 3:15 |
 | 16 | [Yo No Naci Para Amar](https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:30 |
-| 17 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 |
-| 18 | [Te Lo Pido por Favor](https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Juan Gabriel y Lo Mas Romantico De](https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v) | 2:59 |
+| 17 | [Te Lo Pido por Favor](https://open.spotify.com/track/55kXjMfJUBYt4GahHegcUG) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Juan Gabriel y Lo Mas Romantico De](https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v) | 2:59 |
+| 18 | [Ya No Vivo Por Vivir](https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Los Dúo \(Deluxe\)](https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF) | 6:14 |
 | 19 | [Amor Eterno](https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 4:33 |
 | 20 | [Así Fue](https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:40 |
 | 21 | [No Discutamos](https://open.spotify.com/track/3IwKzJ7SenrBSRmmGAWR65) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 2:15 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 53 | [Juan Ga: Se Me Olvidó Otra Vez / Costumbres / Me Gustas Mucho](https://open.spotify.com/track/0M2uDMzj1fL1qhPposUjYF) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Las Caras Lindas](https://open.spotify.com/album/5nvczVKzNf2cqvpL2BNNfr) | 4:59 |
 | 54 | [Un Alma en Pena](https://open.spotify.com/track/4XmP7meJ8H35govmmHLvrg) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Juan Gabriel, el Divo y Sus Divas](https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid) | 3:42 |
 | 55 | [Yo no nací para amar](https://open.spotify.com/track/51fiVIBxLbXLnT9hPg8UBp) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [Peerless 80 Aniversario \- 24 Exitos](https://open.spotify.com/album/5NetKEnPRXzPzj9J7evLpK) | 3:25 |
-| 56 | [El Noa Noa](https://open.spotify.com/track/7E4BLyz8vOpDh6TSKACBfP) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Non\-Stop: Mexico to Jamaica](https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3) | 3:09 |
-| 57 | [Juro Que Nunca Volvere](https://open.spotify.com/track/0ybUnNE1MzWWDnsB9MCyJo) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:31 |
+| 56 | [Juro Que Nunca Volvere](https://open.spotify.com/track/0ybUnNE1MzWWDnsB9MCyJo) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:31 |
+| 57 | [El Noa Noa](https://open.spotify.com/track/7E4BLyz8vOpDh6TSKACBfP) | [Ozomatli](https://open.spotify.com/artist/1An0HCtDktvCBDdFEu7HC0), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Non\-Stop: Mexico to Jamaica](https://open.spotify.com/album/2uvbuOxYzDgGI5oz6jvYE3) | 3:09 |
 | 58 | [Frente a Frente](https://open.spotify.com/track/3yzuISFnUKiHF7hKWpdovR) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Frente a Frente](https://open.spotify.com/album/3cdugu4Mc43gx5wNiFvHyX) | 4:26 |
 | 59 | [Déjame Vivir](https://open.spotify.com/track/7nXJV6GP8cW9oHwHgkM6GU) | [Ernesto Barajas](https://open.spotify.com/artist/2j7Zroo4Ig12ygSgDdISJP), [Natalia Aguilar](https://open.spotify.com/artist/1gxYKvMOU52wMnLqXXsglV) | [Déjame Vivir](https://open.spotify.com/album/7lhfkD3X3txQQdrLPAs5lh) | 4:10 |
 | 60 | [Solo Se Que Fue En Marzo](https://open.spotify.com/track/3eIR0Fl5k7Oj1zNoDxanP1) | [Marcos Flores](https://open.spotify.com/artist/3nYcUUXBpc8o7Iwgms5U6D), [Banda Jerez](https://open.spotify.com/artist/48LhRfIdXbGSxKrYcok6Tn) | [De Nueva Cuenta](https://open.spotify.com/album/0yyfGnZEgRiTWBmpzu1DL4) | 2:53 |

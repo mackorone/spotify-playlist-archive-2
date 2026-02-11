@@ -2,14 +2,14 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 壷阪健登
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 藤原さくら
 
-492 songs - 1 day 16 hr 9 min
+493 songs - 1 day 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/2PSRePU0vQZsVq3tkXmgV3) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | ['Round Midnight](https://open.spotify.com/album/67i0aJ0bDyPZYz561oUfO2) | 4:24 | 2024-11-19 | 2025-01-07 |
-| [1\-0](https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [1\-0](https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ) | 4:41 | 2024-03-05 | 2025-09-28 |
+| [1\-0](https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [1\-0](https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ) | 4:41 | 2024-03-05 |  |
 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 | 2024-01-10 |  |
 | [24/7](https://open.spotify.com/track/1bL6QTUJBtDqcme7D3BRXE) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/0sGwnCQvYdQ2fuBBNIotJ9) | 6:07 | 2023-05-16 | 2023-05-18 |
 | [24/7](https://open.spotify.com/track/1dbKUjODEfs0srsw3KgFD9) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/7MJG1uYr3RqRqucOIvWrBr) | 6:07 | 2023-05-16 | 2023-06-14 |
@@ -81,7 +81,7 @@
 | [Chapter 0](https://open.spotify.com/track/6rEFHgdmQha1VyCG7pYtEN) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dosukoi SS](https://open.spotify.com/album/6Lap8GJr0DW8VQP2BRj8Y4) | 0:44 | 2025-05-27 | 2025-06-20 |
 | [Child's eye](https://open.spotify.com/track/72CKhZXYJbieI0Rzy3I8wq) | [SAI](https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG) | [YELLOW](https://open.spotify.com/album/5KAYYjNX5y00ARgTjI2kVN) | 2:15 | 2023-11-21 | 2024-02-07 |
 | [Children of Peace](https://open.spotify.com/track/2lnYMX79vLI5cj2LrNlRUN) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 5:33 | 2022-09-27 | 2022-10-21 |
-| [Chili Chili \(feat\. Yucco Miller\)](https://open.spotify.com/track/4rYDtfaxhmw39VTEAdmSWE) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY), [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO) | [Dazz On](https://open.spotify.com/album/2wMdVrbu1ckG6MmUI30lFu) | 3:50 | 2025-09-16 |  |
+| [Chili Chili \(feat\. Yucco Miller\)](https://open.spotify.com/track/4rYDtfaxhmw39VTEAdmSWE) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY), [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO) | [Dazz On](https://open.spotify.com/album/2wMdVrbu1ckG6MmUI30lFu) | 3:50 | 2025-09-16 | 2026-02-11 |
 | [China Girl](https://open.spotify.com/track/2Wt2CcSsjOyHiVGekE46Pw) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3), [Yusuke Orita](https://open.spotify.com/artist/0Axix53b6tHd1GpZUTAkba), [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia) | [China Girl](https://open.spotify.com/album/6x1N7LotYPwMbe7Gsz44Xe) | 4:57 | 2025-05-13 | 2025-05-21 |
 | [Christmas Song II](https://open.spotify.com/track/7cvAdWZFK5ODIklRPHrnmO) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Christmas Song II](https://open.spotify.com/album/5mwTFbyzv89qTDbAlHCp2W) | 3:02 | 2023-12-12 | 2024-01-26 |
 | [City Creatures](https://open.spotify.com/track/0ubaJUyQahfdL3FK60FjyH) | [U\-zhaan](https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS), [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq) | [City Creatures](https://open.spotify.com/album/3Ztt5dDDen4CC6ugiRR559) | 3:04 | 2022-09-06 | 2024-12-18 |
@@ -243,6 +243,7 @@
 | [My Cerebellum](https://open.spotify.com/track/1TTxIFl6TyNmbk21G7HnOO) | [Hikari Ichihara](https://open.spotify.com/artist/24yfyKeDTEjTZNiMP3MjQD) | [Brain Candy](https://open.spotify.com/album/25JvP9h3XLAqYRruj0blew) | 6:37 | 2025-10-21 | 2025-12-17 |
 | [My people](https://open.spotify.com/track/5LugbTIL82nL9ZxOzRUyrN) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [My people](https://open.spotify.com/album/0PaQXhs5b80k8iGUkTcQZg) | 3:56 | 2025-12-09 |  |
 | [My Samba \(feat\. Skaai\)](https://open.spotify.com/track/22vlyrI5cI6bnyCg2suFFs) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [My Samba \(feat\. Skaai\)](https://open.spotify.com/album/53Y6SKRMpcTFjHDavqEyV6) | 3:15 | 2026-01-27 |  |
+| [My summer](https://open.spotify.com/track/7CTY2G11hGQYt4p71CVwfo) | [Sakura Fujiwara](https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et) | [My summer](https://open.spotify.com/album/1vJ4vwHNJSrhmNRqjGd6Z5) | 4:02 | 2026-02-10 |  |
 | [N.E.W.](https://open.spotify.com/track/0uniIrDLtvdypzbMtmLmVV) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 5:45 | 2023-02-16 |  |
 | [Nefertiti \- Cover](https://open.spotify.com/track/75PB98MZlJQVwTKgMF3RuE) | [shaku](https://open.spotify.com/artist/3Z02xIRnnq8ITpacUOk5J8) | [Nefertiti](https://open.spotify.com/album/5crs3lym3GuXHXGlXOwK2c) | 8:19 | 2023-01-24 | 2023-02-17 |
 | [Nemotown](https://open.spotify.com/track/7kl7M8K6SKirDJ45KrgAmA) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Kono Taikutsu na Hibi o/Nemotown](https://open.spotify.com/album/3f63tbFjEyZVErqEqHp6t3) | 3:34 | 2023-09-12 | 2023-10-04 |
@@ -404,7 +405,7 @@
 | [Viva La Vida](https://open.spotify.com/track/2OwGrSOJ6kVbIR7CApbu21) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [UNTITLED](https://open.spotify.com/album/4esApqD9IaEZiquhp43muj) | 4:26 | 2023-08-01 | 2023-08-03 |
 | [Vivid](https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Vivid](https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav) | 3:51 | 2024-02-27 | 2026-01-15 |
 | [Voice](https://open.spotify.com/track/0XRBOfz9bPhjazuQCcRkbJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy) | [Voice](https://open.spotify.com/album/26WGFrTj3fwGJysohbdK04) | 9:13 | 2022-09-06 | 2023-02-17 |
-| [Volkslied \- feat.井上銘](https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [Singularity](https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS) | 11:30 | 2025-07-01 |  |
+| [Volkslied \- feat.井上銘](https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [Singularity](https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS) | 11:30 | 2025-07-01 | 2026-02-11 |
 | [Vortex](https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Vortex](https://open.spotify.com/album/2OQ9XYdCoTsjcSrieOQfEI) | 2:53 | 2024-11-27 | 2025-01-13 |
 | [WAKABA](https://open.spotify.com/track/4bTr3UbZjM8inclL0gPq2r) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [WAKABA](https://open.spotify.com/album/1J09jgpvTOR0djVbAOHlmy) | 2:50 | 2025-09-30 | 2025-11-05 |
 | [Wander from place to place](https://open.spotify.com/track/23XzSHqcxpAjh0VFQ4Dmea) | [Morphine Desert \-trio acoustic\-](https://open.spotify.com/artist/4qNCHyjKwuZwKJucdokJ33) | [Tales Of the Desert](https://open.spotify.com/album/3JN76A0m4MiRxZexsmUDbQ) | 5:45 | 2022-12-06 | 2023-03-08 |

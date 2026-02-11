@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 105662,
+  "num_followers": 105705,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Slaaptekort",
-        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
-      },
-      "artists": [
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        }
-      ],
-      "duration_ms": 215978,
-      "name": "Habiba",
-      "url": "https://open.spotify.com/track/0kax62GXeNWiIlA1ONZH5i"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "R\u00e9mi",
         "url": "https://open.spotify.com/album/547F3ujAdycIX2OVnI7tkx"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 197727,
       "name": "Come Again",
       "url": "https://open.spotify.com/track/0bWzmIbEKh0xFRb1pTSQAw"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "duration_ms": 215978,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/0kax62GXeNWiIlA1ONZH5i"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -431,34 +431,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
-      },
-      "artists": [
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Brysa",
-          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
-        },
-        {
-          "name": "Ashafar",
-          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
-        }
-      ],
-      "duration_ms": 173534,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Lituatie",
         "url": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
       },
@@ -487,6 +459,34 @@
       "duration_ms": 164900,
       "name": "Dansen Op Labanta",
       "url": "https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+        }
+      ],
+      "duration_ms": 173534,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/5otMiiTCoXNJlvOWnQNV2X"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "duration_ms": 177994,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/5kHMdJLmN364FvFfky3AXI"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Omlaag",
         "url": "https://open.spotify.com/album/65VUZCaLw6zvgOepJ1enpr"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 196958,
       "name": "Omlaag",
       "url": "https://open.spotify.com/track/30cpqNr13JSRCesTUOenrd"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "LION",
-        "url": "https://open.spotify.com/album/5otMiiTCoXNJlvOWnQNV2X"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        }
-      ],
-      "duration_ms": 177994,
-      "name": "PARANOIA",
-      "url": "https://open.spotify.com/track/5kHMdJLmN364FvFfky3AXI"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Boot",
-        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
-      },
-      "artists": [
-        {
-          "name": "Fmg",
-          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
-        }
-      ],
-      "duration_ms": 197637,
-      "name": "Boot",
-      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 184400,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Boot",
+        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "duration_ms": 197637,
+      "name": "Boot",
+      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "MGSEASON 2",
-        "url": "https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        }
-      ],
-      "duration_ms": 156035,
-      "name": "Hard 2 Get",
-      "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Paper Zien (Remix)",
         "url": "https://open.spotify.com/album/6a8CFoI8oEjQB78dDryCF3"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 248823,
       "name": "Paper Zien - Remix",
       "url": "https://open.spotify.com/track/1YnCInissFkmQTfZv3k2mT"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "MGSEASON 2",
+        "url": "https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "Hard 2 Get",
+      "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2023,6 +2023,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "BON VIBES",
+        "url": "https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3"
+      },
+      "artists": [
+        {
+          "name": "Chip Charlez",
+          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
+        },
+        {
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "BON VIBES",
+      "url": "https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Amiri Jeans",
         "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
       },
@@ -2039,30 +2059,6 @@
       "duration_ms": 146822,
       "name": "Amiri Jeans",
       "url": "https://open.spotify.com/track/0IS34pxJiRrnCTw2uDy8dJ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        },
-        {
-          "name": "Zefanio",
-          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
-        },
-        {
-          "name": "Jandro",
-          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Van Mij (feat. Jandro & Zefanio)",
-      "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2091,22 +2087,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "BON VIBES",
-        "url": "https://open.spotify.com/album/6XLI3uqFYuJLYhuHhNVDC3"
+        "name": "10",
+        "url": "https://open.spotify.com/album/1L0nxdKSnmVTeg3PSq16XO"
       },
       "artists": [
         {
-          "name": "Chip Charlez",
-          "url": "https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH"
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
         },
         {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+          "name": "Zefanio",
+          "url": "https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
         }
       ],
-      "duration_ms": 139428,
-      "name": "BON VIBES",
-      "url": "https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk"
+      "duration_ms": 204878,
+      "name": "Van Mij (feat. Jandro & Zefanio)",
+      "url": "https://open.spotify.com/track/6YxwkVbb0XjapWhaJAjqEu"
     },
     {
       "added_at": "2024-07-19 06:38:33",

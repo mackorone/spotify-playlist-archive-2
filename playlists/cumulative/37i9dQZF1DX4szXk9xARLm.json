@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 260000,
       "name": "(\u0639\u064a\u0646\u064a \u0639\u0644\u0649 \u0627\u0644\u0634\u0631\u0641 (\u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0634\u0628\u0627\u0628 \u0625\u0645\u0631\u0623\u0629",
       "url": "https://open.spotify.com/track/16zRpjwFoTUXnIcX4GRwBG"
@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Tegeesh Naeesh",
+        "url": "https://open.spotify.com/album/34zmTDhsfhU2RKUq9RuIFY"
+      },
+      "artists": [
+        {
+          "name": "Ali El Haggar",
+          "url": "https://open.spotify.com/artist/6pnyGPcDohIUFHU2AJfDT6"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "Allo Zaman",
+      "url": "https://open.spotify.com/track/1kChmwhLz4tSQIKdiGyhKK"
+    },
+    {
+      "album": {
         "name": "Tetr Mosalsal Alnoon Wama Yalamoon",
         "url": "https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl"
       },
@@ -200,6 +218,24 @@
       "duration_ms": 169172,
       "name": "Alnoon Wama Yalamoon",
       "url": "https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi"
+    },
+    {
+      "album": {
+        "name": "Arabic Drama Soundtracks",
+        "url": "https://open.spotify.com/album/2JfsL3QNhiFdHUfi3P8Xii"
+      },
+      "artists": [
+        {
+          "name": "Mohamed El Helw",
+          "url": "https://open.spotify.com/artist/7GRxTvPFgLKMGGCBVYvNHx"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190092,
+      "name": "Amar Ya Eskendereya - From \"Zezenya\"",
+      "url": "https://open.spotify.com/track/3UXcAtcHb2a0sNdhL1D5Yp"
     },
     {
       "album": {
@@ -308,7 +344,7 @@
       ],
       "date_added": "2025-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 189930,
       "name": "Ashghal Shaqa (Original Series Soundtrack) - \u0623\u0634\u063a\u0627\u0644 \u0634\u0642\u0629",
       "url": "https://open.spotify.com/track/639GutTPojkJRd5U1xiIXE"
@@ -326,7 +362,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 129817,
       "name": "Atmena - G\u00e9n\u00e9rique d'\u00e9mission",
       "url": "https://open.spotify.com/track/0G8JL3sBjMVM9tpH8O3hut"
@@ -384,6 +420,28 @@
       "duration_ms": 124453,
       "name": "B3edt",
       "url": "https://open.spotify.com/track/0eMjsK29gmH9QwuPXoVQtG"
+    },
+    {
+      "album": {
+        "name": "Tegeesh Naeesh",
+        "url": "https://open.spotify.com/album/34zmTDhsfhU2RKUq9RuIFY"
+      },
+      "artists": [
+        {
+          "name": "Ali El Haggar",
+          "url": "https://open.spotify.com/artist/6pnyGPcDohIUFHU2AJfDT6"
+        },
+        {
+          "name": "Hanan Mady",
+          "url": "https://open.spotify.com/artist/6JiYm4VkRDfzUbKuRdO6xZ"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Bahlam Waftah Enaya",
+      "url": "https://open.spotify.com/track/6Z91BIoX8EZuKFECZ0xWIB"
     },
     {
       "album": {
@@ -561,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Arabic Drama Soundtracks",
+        "url": "https://open.spotify.com/album/2JfsL3QNhiFdHUfi3P8Xii"
+      },
+      "artists": [
+        {
+          "name": "Ali El Haggar",
+          "url": "https://open.spotify.com/artist/6pnyGPcDohIUFHU2AJfDT6"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246203,
+      "name": "Elly Banna Masr - From \"Bawabet El Halawany\"",
+      "url": "https://open.spotify.com/track/4CzhIQZkhUidAnTOZpzrQl"
+    },
+    {
+      "album": {
         "name": "Etdaret",
         "url": "https://open.spotify.com/album/2P84vDRWZnTXM3T8ijm6nE"
       },
@@ -670,7 +746,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 237062,
       "name": "Haseb Ya Tayeb - Music from Khyanet Ahd TV Series",
       "url": "https://open.spotify.com/track/6a4fiwOKwLgTeZQX25P0vU"
@@ -728,6 +804,24 @@
       "duration_ms": 211891,
       "name": "Houwa",
       "url": "https://open.spotify.com/track/0yRZBgfcq7lAMl34Kn9WlY"
+    },
+    {
+      "album": {
+        "name": "Arabic Drama Soundtracks",
+        "url": "https://open.spotify.com/album/2JfsL3QNhiFdHUfi3P8Xii"
+      },
+      "artists": [
+        {
+          "name": "Mohamed El Helw",
+          "url": "https://open.spotify.com/artist/7GRxTvPFgLKMGGCBVYvNHx"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283219,
+      "name": "Intro Layaly El Helmeya - From \"Layaly El Helmeya\"",
+      "url": "https://open.spotify.com/track/7Ig6qSrNAlQL3HuAqijfcr"
     },
     {
       "album": {
@@ -822,7 +916,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 121520,
       "name": "Kessrou Djnahi - El Tabaa",
       "url": "https://open.spotify.com/track/6D2gMlsYlQV7fnO7LXx38I"
@@ -840,7 +934,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 208561,
       "name": "Khatyah Ani",
       "url": "https://open.spotify.com/track/4FXdcubswDigCSIdx9IFNA"
@@ -894,7 +988,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 244565,
       "name": "La Tan7any",
       "url": "https://open.spotify.com/track/393392okucnMl3eU4B8vFq"
@@ -956,6 +1050,24 @@
       "duration_ms": 157782,
       "name": "Mabrouk",
       "url": "https://open.spotify.com/track/7f5j6xiIAFtuPrzxdGaoGz"
+    },
+    {
+      "album": {
+        "name": "Mafish Haga Sa'ba (Music From El Prince TV Series)",
+        "url": "https://open.spotify.com/album/0wWUuBkNWI9FEAvOPyrHaj"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301372,
+      "name": "Mafish Haga Sa'ba - Music From El Prince TV Series",
+      "url": "https://open.spotify.com/track/3FBd67OrCib3IShiFipILU"
     },
     {
       "album": {
@@ -1042,7 +1154,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 281532,
       "name": "Millionaire - Music from 100 Wesh TV Series",
       "url": "https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv"
@@ -1172,7 +1284,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 207817,
       "name": "Shoof El Donia ( Moslsl Ebn El Basha )",
       "url": "https://open.spotify.com/track/2oPXoV8VKvmVzo8llGvVwI"
@@ -1208,7 +1320,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 238069,
       "name": "Tetr Mosalsal Layali AL Shemaisy",
       "url": "https://open.spotify.com/track/3ADHv3poD95cLwiQUbY2d7"
@@ -1262,7 +1374,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 184941,
       "name": "wa7edo elwa7ed",
       "url": "https://open.spotify.com/track/3x0RpuXv5fOdKyPvoDoowe"
@@ -1334,10 +1446,28 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 190166,
       "name": "Ya Tera (Layali Roxy)",
       "url": "https://open.spotify.com/track/5ozjNHwkgoOIiG5A8DnSjr"
+    },
+    {
+      "album": {
+        "name": "Zaza & Gargir - \u0638\u0627\u0638\u0627 \u0648\u062c\u0631\u062c\u064a\u0631",
+        "url": "https://open.spotify.com/album/4SXecDhxevIOFr7gCJgyqs"
+      },
+      "artists": [
+        {
+          "name": "Haitham Al-Khamissi",
+          "url": "https://open.spotify.com/artist/78PKlo149NLHfbB59bCdxi"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111875,
+      "name": "Zaza & Gargir - \u0638\u0627\u0638\u0627 \u0648\u062c\u0631\u062c\u064a\u0631",
+      "url": "https://open.spotify.com/track/0Yije2EZfS6pomewnXofli"
     },
     {
       "album": {
@@ -1597,6 +1727,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0647\u0644 \u0643\u0627\u064a\u0631\u0648",
+        "url": "https://open.spotify.com/album/4w2BwFLNYzqJd28n4HDhfS"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210938,
+      "name": "\u0627\u0647\u0644 \u0643\u0627\u064a\u0631\u0648",
+      "url": "https://open.spotify.com/track/2W2V8EqcsDvwVoQJSEnrPg"
+    },
+    {
+      "album": {
         "name": "\u0628\u0627\u0628\u0627 \u0627\u0644\u0645\u062c\u0627\u0644",
         "url": "https://open.spotify.com/album/219E4D2CXK3NYwmJ5mI8dw"
       },
@@ -1681,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "\u062a\u062a\u0631 \u0628\u062f\u0627\u064a\u0629 \u0645\u0633\u0644\u0633\u0644 \u064a\u062a\u0631\u0628\u0649 \u0641\u0649 \u0639\u0632\u0648",
+        "url": "https://open.spotify.com/album/5VeMIc7QXRG0lXrU0wqFxu"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222800,
+      "name": "\u062a\u062a\u0631 \u0628\u062f\u0627\u064a\u0629 \u0645\u0633\u0644\u0633\u0644 \u064a\u062a\u0631\u0628\u0649 \u0641\u0649 \u0639\u0632\u0648",
+      "url": "https://open.spotify.com/track/3b2VttERPyva2NxrG6F58Z"
+    },
+    {
+      "album": {
         "name": "\u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0627\u0639\u0644\u0649 \u0646\u0633\u0628\u0629 \u0645\u0634\u0627\u0647\u062f\u0629",
         "url": "https://open.spotify.com/album/1vnWziMG73K1Bg2N37t43k"
       },
@@ -1744,6 +1910,24 @@
       "duration_ms": 109997,
       "name": "\u062a\u0639\u0627\u0644\u0627\u0644\u064a \u062d\u0628\u064a\u0628\u064a \u0627\u0644\u0644\u064a\u0644\u0629",
       "url": "https://open.spotify.com/track/3quMoxktYlgORFxQt4CpAI"
+    },
+    {
+      "album": {
+        "name": "\u062c\u0632\u064a\u0631\u0629 \u063a\u0645\u0627\u0645 (\u062a\u062a\u0631 \u0627\u0644\u0645\u0633\u0644\u0633\u0644)",
+        "url": "https://open.spotify.com/album/6q8pXCHu6z0AfOvJTTfs3F"
+      },
+      "artists": [
+        {
+          "name": "Ali El Haggar",
+          "url": "https://open.spotify.com/artist/6pnyGPcDohIUFHU2AJfDT6"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229937,
+      "name": "\u062c\u0632\u064a\u0631\u0629 \u063a\u0645\u0627\u0645 - \u062a\u062a\u0631 \u0627\u0644\u0645\u0633\u0644\u0633\u0644",
+      "url": "https://open.spotify.com/track/22SbTvVv0gL4mPlWTDtTk2"
     },
     {
       "album": {
@@ -2024,7 +2208,7 @@
       ],
       "date_added": "2025-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 242580,
       "name": "\u0633\u064a\u062f \u0627\u0644\u0646\u0627\u0633 (\u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0633\u064a\u062f \u0627\u0644\u0646\u0627\u0633)",
       "url": "https://open.spotify.com/track/5oxvpXB7P9a5Rjnd6VLixu"
@@ -2248,7 +2432,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 166000,
       "name": "\u0645\u062a\u062c\u0648\u0632\u064a\u0646",
       "url": "https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp"
@@ -2314,6 +2498,24 @@
       "duration_ms": 64348,
       "name": "\u0645\u0639\u0644\u0634 \u0645\u0643\u062a\u0648\u0628\u0644\u0643",
       "url": "https://open.spotify.com/track/59BzI9IjNp5eiWATzksB45"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0633\u0644\u0633\u0644 \u062d\u0643\u0627\u064a\u0629 \u062d\u064a\u0627\u0629",
+        "url": "https://open.spotify.com/album/0beBD3oFWxap1ONghGammh"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291604,
+      "name": "\u0647\u0645\u0633 \u0627\u0644\u0645\u0634\u0627\u0639\u0631",
+      "url": "https://open.spotify.com/track/7tcCZMLo0OoIrh6QyzuaOv"
     },
     {
       "album": {
@@ -2426,7 +2628,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 232594,
       "name": "\u064a\u0627 \u0648\u0644\u0627\u062f \u0627\u0644 - \u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u0627\u0634 \u0627\u0634",
       "url": "https://open.spotify.com/track/4VdlIQ9IFEza00UT9YRzMT"

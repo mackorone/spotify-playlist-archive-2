@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 186161,
+  "num_followers": 186216,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-01-09 05:00:43",
       "album": {
+        "name": "Um Viol\u00e3o em Primeiro Plano",
+        "url": "https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM"
+      },
+      "artists": [
+        {
+          "name": "Rosinha De Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Asa Branca",
+      "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
         "name": "Sister",
         "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
-    },
-    {
-      "added_at": "2026-01-09 05:00:43",
-      "album": {
-        "name": "Um Viol\u00e3o em Primeiro Plano",
-        "url": "https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM"
-      },
-      "artists": [
-        {
-          "name": "Rosinha De Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Asa Branca",
-      "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
     },
     {
       "added_at": "2026-01-09 05:00:43",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-01-09 05:00:43",
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n"
+      },
+      "artists": [
+        {
+          "name": "Hugo Massien",
+          "url": "https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu"
+        }
+      ],
+      "duration_ms": 373666,
+      "name": "God Knows We Tried",
+      "url": "https://open.spotify.com/track/16Qahf6YMWvShPzZAfwUMB"
+    },
+    {
+      "added_at": "2026-01-09 05:00:43",
+      "album": {
         "name": "Lazy",
         "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 287871,
       "name": "Before",
       "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
-    },
-    {
-      "added_at": "2026-01-09 05:00:43",
-      "album": {
-        "name": "Metamorphosis",
-        "url": "https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n"
-      },
-      "artists": [
-        {
-          "name": "Hugo Massien",
-          "url": "https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu"
-        }
-      ],
-      "duration_ms": 373666,
-      "name": "God Knows We Tried",
-      "url": "https://open.spotify.com/track/16Qahf6YMWvShPzZAfwUMB"
     },
     {
       "added_at": "2026-01-09 05:00:43",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-01-09 05:00:43",
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN"
+        "name": "Too Soon You're Old",
+        "url": "https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ"
       },
       "artists": [
         {
-          "name": "DARKSIDE",
-          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
+          "name": "Penny Goodwin",
+          "url": "https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX"
         }
       ],
-      "duration_ms": 321204,
-      "name": "The Limit",
-      "url": "https://open.spotify.com/track/4Jwt4weWHww02btnBOGoGc"
+      "duration_ms": 287002,
+      "name": "Too Soon You're Old",
+      "url": "https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS"
     },
     {
       "added_at": "2026-01-09 05:00:43",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2026-01-09 05:00:43",
       "album": {
-        "name": "Too Soon You're Old",
-        "url": "https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ"
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN"
       },
       "artists": [
         {
-          "name": "Penny Goodwin",
-          "url": "https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX"
+          "name": "DARKSIDE",
+          "url": "https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB"
         }
       ],
-      "duration_ms": 287002,
-      "name": "Too Soon You're Old",
-      "url": "https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS"
+      "duration_ms": 321204,
+      "name": "The Limit",
+      "url": "https://open.spotify.com/track/4Jwt4weWHww02btnBOGoGc"
     },
     {
       "added_at": "2026-01-09 05:00:43",

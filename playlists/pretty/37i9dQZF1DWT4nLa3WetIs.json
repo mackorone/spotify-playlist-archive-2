@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 5 years of stardom with Ayra Starr",
-  "num_followers": 248032,
+  "num_followers": 248149,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2026-01-23 09:36:05",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 209968,
+      "name": "Different Size (feat. Victony)",
+      "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
+    },
+    {
+      "added_at": "2026-01-23 09:36:05",
+      "album": {
         "name": "Dorobucci (feat. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince)",
         "url": "https://open.spotify.com/album/2kf7rwQWptDFL0dIGCRHvs"
       },
@@ -1259,22 +1279,18 @@
     {
       "added_at": "2026-01-23 09:36:05",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 209968,
-      "name": "Different Size (feat. Victony)",
-      "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
     },
     {
       "added_at": "2026-01-23 09:36:05",
@@ -1299,22 +1315,6 @@
       "duration_ms": 204631,
       "name": "Normally",
       "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
-    },
-    {
-      "added_at": "2026-01-23 09:36:05",
-      "album": {
-        "name": "PRAY",
-        "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
     },
     {
       "added_at": "2026-01-23 09:36:05",

@@ -699,6 +699,28 @@
     },
     {
       "album": {
+        "name": "Natural Mystic (with Stephen Marley) [West Palm Beach 2025]",
+        "url": "https://open.spotify.com/album/49x3hZ1OINSRz6qhjdubAF"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225710,
+      "name": "Natural Mystic (with Stephen Marley) - West Palm Beach 2025",
+      "url": "https://open.spotify.com/track/4e7FmcrVSwJe7NnTLHAZBm"
+    },
+    {
+      "album": {
         "name": "Wisdom",
         "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },

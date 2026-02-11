@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/543FTm0pzQpBQXNsT6xmmh"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213401,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/7ufzuyyhu3u2vf78deWa9g"
+    },
+    {
+      "album": {
         "name": "Pistol Made of Roses",
         "url": "https://open.spotify.com/album/2r8MHSTtnErtLRIhwR2P9E"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Hila. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: SHR. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "BY NIGHT : The Nocturnal Fox",
+        "url": "https://open.spotify.com/album/6XvYprTGwuNGKtbh5JjNNZ"
+      },
+      "artists": [
+        {
+          "name": "BADFOX",
+          "url": "https://open.spotify.com/artist/4ndoh7kBuC86wEpuAUXoVJ"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206808,
+      "name": "BY NIGHT",
+      "url": "https://open.spotify.com/track/5hXkNiIGBafBId7qYdm8Il"
+    },
+    {
+      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/1kBHLeaFo0wYhBydVKDzbJ"
       },
@@ -1800,7 +1818,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 225874,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/6PLlafCH5IqQkJHX3pBllr"
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 185174,
       "name": "Habibti",
       "url": "https://open.spotify.com/track/18Cox7Q0oZH7LAkIuXGqjd"
@@ -2770,6 +2788,32 @@
       "duration_ms": 187587,
       "name": "Hayni Hoon",
       "url": "https://open.spotify.com/track/4snQ2N9PijxVCyRaeefvUk"
+    },
+    {
+      "album": {
+        "name": "HBALI",
+        "url": "https://open.spotify.com/album/07DXQn9PbEHDQGBdcK7dTI"
+      },
+      "artists": [
+        {
+          "name": "FVHD!",
+          "url": "https://open.spotify.com/artist/1DngjnQ6zoZOUdhlkAySoG"
+        },
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        },
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159025,
+      "name": "HBALI",
+      "url": "https://open.spotify.com/track/4g7Z4HhwHObaDpWS1waRVQ"
     },
     {
       "album": {
@@ -3629,6 +3673,24 @@
     },
     {
       "album": {
+        "name": "Khssara",
+        "url": "https://open.spotify.com/album/2vddaa7jSKMHXin1hXr2Hq"
+      },
+      "artists": [
+        {
+          "name": "MarsGotJuice",
+          "url": "https://open.spotify.com/artist/6p85685o9ej85v9nNXg0nk"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Khssara",
+      "url": "https://open.spotify.com/track/7fJmXNZdsKGFF20GqcE8gL"
+    },
+    {
+      "album": {
         "name": "Khyoot",
         "url": "https://open.spotify.com/album/42iQZR7bpK5XilonNVD3Lg"
       },
@@ -3846,7 +3908,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "LAMA AB\u2019A MAAK",
       "url": "https://open.spotify.com/track/4ETJnYTY8P5TIjU5oWgFrh"
@@ -4276,6 +4338,28 @@
       "duration_ms": 229831,
       "name": "Ma7atta",
       "url": "https://open.spotify.com/track/0euDvd4QFkYT3l6odgwHM1"
+    },
+    {
+      "album": {
+        "name": "Anniversaire bleu",
+        "url": "https://open.spotify.com/album/5x04S1oXlPvuNpVmUnkrm9"
+      },
+      "artists": [
+        {
+          "name": "Shr",
+          "url": "https://open.spotify.com/artist/31G6pp1Vk8pLxASeTsGRCp"
+        },
+        {
+          "name": "odeesbeats",
+          "url": "https://open.spotify.com/artist/4zxa0xjRfH1cOYr9j20gNB"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189296,
+      "name": "MACHAKIL",
+      "url": "https://open.spotify.com/track/7rIdxYO8Xiecb5frtZMqF2"
     },
     {
       "album": {
@@ -5234,7 +5318,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 133043,
       "name": "Nechtik",
       "url": "https://open.spotify.com/track/3QCreUjeYR1Vot6dJO7PIc"
@@ -5270,7 +5354,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 175200,
       "name": "Nehky Fely Fat",
       "url": "https://open.spotify.com/track/4pyCW9I3XkebENWbNEfqoF"
@@ -5574,7 +5658,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 131925,
       "name": "ODABLE",
       "url": "https://open.spotify.com/track/69mcvnHrScEU4baYJ699qj"
@@ -6080,7 +6164,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 106892,
       "name": "QARFS MERI",
       "url": "https://open.spotify.com/track/46H1UUgdj9WfTOrDdLAjmC"
@@ -6306,7 +6390,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 205961,
       "name": "SALAM",
       "url": "https://open.spotify.com/track/4clgQErEXEPKollpEHNMbJ"
@@ -6892,7 +6976,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 138817,
       "name": "SORRYMABE7KE3ARABE",
       "url": "https://open.spotify.com/track/6Md9Q4lnosjjeGREarZQmY"
@@ -7100,7 +7184,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 111299,
       "name": "STYLI",
       "url": "https://open.spotify.com/track/5oVklb8T6ck13ewpvX3KSp"
@@ -7922,7 +8006,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 191735,
       "name": "Wein Hal Ghaybe",
       "url": "https://open.spotify.com/track/5utpreqHOAzJr8mdgW1Dp5"
@@ -8052,7 +8136,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 196567,
       "name": "XXL",
       "url": "https://open.spotify.com/track/3gJJABLkq8tlBk59Zf5jD1"
@@ -8124,7 +8208,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 148571,
       "name": "Ya Seneni",
       "url": "https://open.spotify.com/track/7vVcOls2jeekJgb7mpxZEd"
@@ -8164,7 +8248,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 163960,
       "name": "Yama",
       "url": "https://open.spotify.com/track/6mgHzbVngrw8dIwGl73a44"
@@ -8870,7 +8954,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 139058,
       "name": "\u0643\u0645\u0628\u0648\u062f\u064a \u0645\u0648\u062a\u064a",
       "url": "https://open.spotify.com/track/6JP9JWd00sYDoVjdi1tZlX"
@@ -8888,7 +8972,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 169200,
       "name": "\u0644\u0628\u0633 \u0627\u0644\u0647\u0628\u0627\u064a\u0632\u0629",
       "url": "https://open.spotify.com/track/0xr5BhscoKNQJHPfq65AT4"
@@ -8924,7 +9008,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 182450,
       "name": "\u0645\u0627\u0644\u064a \u0648\u0625\u0646 \u0623\u063a\u0645\u0636\u062a \u0639\u064a\u0646\u064a - Mali",
       "url": "https://open.spotify.com/track/19Gu2pNDq4D6C18AEwUWTP"
@@ -9044,7 +9128,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 241646,
       "name": "\u0647\u062a\u0635\u064a\u0628 \u0647\u062a\u062e\u064a\u0628",
       "url": "https://open.spotify.com/track/1Nk257SJdWJe8gHsIdnKhn"

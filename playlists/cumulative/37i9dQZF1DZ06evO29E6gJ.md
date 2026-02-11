@@ -4,7 +4,7 @@
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 0 min
+108 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Morena Mia](https://open.spotify.com/track/4RN25DnLFUFJYh1Uqf7TR4) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Siguen En La Honda Nortena](https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr) | 2:28 | 2024-09-20 | 2025-02-13 |
 | [Morena Mia](https://open.spotify.com/track/5INk7O0D5NndGyvTZb3ZTZ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [30 Éxitos los Alegres de Teran, CD 2](https://open.spotify.com/album/0m2aHPs4ObaxbeLBD5XpQF) | 2:28 | 2025-02-16 |  |
 | [Nocturno a Rosario](https://open.spotify.com/track/5P9KFF9UpaPmA49QJO7huL) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:57 | 2022-06-01 | 2024-06-03 |
+| [Ojitos Bonitos](https://open.spotify.com/track/0HSYfhp7wIlEbHsAPKyfzn) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Los Grandes Exitos Con Los Grandes Del Norte](https://open.spotify.com/album/3gVyzNysh0fdwJItrrxr35) | 3:14 | 2026-02-11 |  |
 | [Ojitos Verdes](https://open.spotify.com/track/2IOJaGlWLGg8ujTgVwDMAo) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:48 | 2022-06-01 | 2025-04-10 |
 | [Ojitos Verdes](https://open.spotify.com/track/7276TUfLJbqMyzxDqXevrA) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 2:48 | 2025-04-10 |  |
 | [Paso del Norte](https://open.spotify.com/track/2HYz3vIPX8aoRYxDZTdBEW) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 3:22 | 2022-06-01 | 2024-03-07 |

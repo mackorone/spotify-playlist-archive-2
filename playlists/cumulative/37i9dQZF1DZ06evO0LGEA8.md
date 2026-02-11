@@ -4,7 +4,7 @@
 
 > This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 59 min
+87 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [En la mano el celular](https://open.spotify.com/track/4KgsEEBHyg1uPT9KwA8Tlv) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Italia](https://open.spotify.com/album/4WwChd38HFYUVrIhqfEA2R) | 3:39 | 2025-08-24 | 2025-10-27 |
 | [Escucho Voces](https://open.spotify.com/track/76JIRMXbAiOrpBVAy2ieYP) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 5:28 | 2024-08-31 | 2024-09-05 |
 | [Estamos al Aire](https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 4](https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM) | 3:06 | 2023-11-10 |  |
+| [Esto No Es Malo](https://open.spotify.com/track/41zxZRnp6wanJYfc2U8ZUA) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF) | 4:25 | 2026-02-11 |  |
 | [Extrañándote](https://open.spotify.com/track/3No7MUt7Lpanaa65URJzFq) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Extrañándote](https://open.spotify.com/album/7uUInYqlpuSNl1FnyOSCvn) | 3:44 | 2025-05-18 | 2025-06-16 |
 | [Hasta Donde Se Pueda](https://open.spotify.com/track/6dDx3ww7VVr4jqOYrmuAyl) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF) | 5:38 | 2025-06-04 |  |
 | [Hasta Donde Se Pueda](https://open.spotify.com/track/7xLRhre70l67OEVs6qZyIv) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 5:45 | 2023-11-10 | 2025-06-01 |
@@ -78,7 +79,7 @@
 | [Orgullo Café](https://open.spotify.com/track/6beXs35DoHlGfudHu071EC) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Orgullo Café](https://open.spotify.com/album/3pTN4HzDOG1tBzHWKSnvDC) | 3:33 | 2023-11-10 | 2024-09-16 |
 | [Pensando en Ti](https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Pensando en Ti](https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh) | 3:21 | 2023-11-10 |  |
 | [Piel Con Piel](https://open.spotify.com/track/3R0PgPUdZUtd6dGq6yRwc7) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Piel Con Piel](https://open.spotify.com/album/7GxFfPCbKkOHhi1GFA1hSW) | 4:03 | 2023-11-10 |  |
-| [Por Mi Zona](https://open.spotify.com/track/0OSnalMNoPOjkMOFE7I4C3) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Por Mi Zona](https://open.spotify.com/album/06lnEElRpfWIv4Tvf3wWg8) | 3:24 | 2023-11-10 |  |
+| [Por Mi Zona](https://open.spotify.com/track/0OSnalMNoPOjkMOFE7I4C3) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Por Mi Zona](https://open.spotify.com/album/06lnEElRpfWIv4Tvf3wWg8) | 3:24 | 2023-11-10 | 2026-02-11 |
 | [Primero Lo Que Deja](https://open.spotify.com/track/3xupp1fab05rKDBUIIloS3) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg) | 4:54 | 2023-11-10 | 2025-05-18 |
 | [Que Se Yo](https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Que Se Yo](https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK) | 3:25 | 2023-11-10 |  |
 | [Regresen el Tiempo](https://open.spotify.com/track/6Ydl0XXvzCjE25xDLbV7Qf) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 2:56 | 2023-11-10 |  |

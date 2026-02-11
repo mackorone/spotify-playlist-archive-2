@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Bulgaria.",
-  "num_followers": 1453,
+  "num_followers": 1455,
   "original_name": "Top Songs - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MR1I8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MR6YGAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-02-06 14:49:20",
@@ -271,7 +271,7 @@
     {
       "added_at": "2026-02-06 14:49:20",
       "album": {
-        "name": "(When You Gonna) Give It Up to Me [feat. Keyshia Cole]",
+        "name": "(When You Gonna) Give It Up to Me",
         "url": "https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3"
       },
       "artists": [
@@ -285,7 +285,7 @@
         }
       ],
       "duration_ms": 243880,
-      "name": "(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version",
+      "name": "(When You Gonna) Give It Up to Me - Radio Version",
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
     },
     {

@@ -1517,6 +1517,32 @@
     },
     {
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/4enJwfK8u2T1Z8OjOs26n5"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182571,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/11h1KwP4Ii4ASDUxY9zpMg"
+    },
+    {
+      "album": {
         "name": "Want It All (feat. Evalyn)",
         "url": "https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq"
       },

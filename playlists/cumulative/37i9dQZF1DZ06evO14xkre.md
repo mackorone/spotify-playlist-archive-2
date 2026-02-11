@@ -4,7 +4,7 @@
 
 > This is Kali Uchis\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 38 min
+106 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,8 +108,9 @@
 | [Tomorrow](https://open.spotify.com/track/3P4gLPPOHIRQ5j6PC1hNa5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:10 | 2024-05-11 | 2024-07-22 |
 | [Tu Corazón Es Mío...](https://open.spotify.com/track/59ak5RmKdyspU26ifSg0rW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:45 | 2024-01-13 | 2024-02-10 |
 | [Tyrant \(feat\. Jorja Smith\)](https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:24 | 2023-11-10 |  |
-| [Whispers of the Wind...](https://open.spotify.com/track/0MMfKYj0bYLCUgJTLmTdJh) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 2:53 | 2025-10-07 |  |
+| [Whispers of the Wind...](https://open.spotify.com/track/0MMfKYj0bYLCUgJTLmTdJh) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 2:53 | 2025-10-07 | 2026-02-11 |
 | [Worth the Wait \(feat\. Omar Apollo\)](https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:30 | 2023-11-10 | 2024-07-24 |
+| [Y si peleamos](https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Y si peleamos](https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY) | 3:12 | 2026-02-11 |  |
 | [Young Rich & In Love \- KAYTRANADA Remix](https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \(Deluxe\)](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:52 | 2024-08-11 | 2024-11-12 |
 | [Your Teeth In My Neck](https://open.spotify.com/track/54IbnYEdA3ymfxv07WgN3b) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:06 | 2023-11-10 |  |
 | [¿Cómo Así?](https://open.spotify.com/track/54KEm0VI9i3ic7VHHKHKRx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:49 | 2024-01-13 | 2025-05-11 |

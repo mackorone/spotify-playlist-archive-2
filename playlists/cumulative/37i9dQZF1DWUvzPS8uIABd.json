@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 136500,
       "name": "Clique La Lv",
       "url": "https://open.spotify.com/track/3tdzSKOCHsCshuxitqeDZR"
@@ -6544,7 +6544,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 140296,
       "name": "K\u00e4vin t\u00e4\u00e4l",
       "url": "https://open.spotify.com/track/4SMRzU9943uromfmKU7jim"
@@ -9878,6 +9878,28 @@
       "duration_ms": 236200,
       "name": "Omenankukkia",
       "url": "https://open.spotify.com/track/1563AErGLrLPBodmEKq7WI"
+    },
+    {
+      "album": {
+        "name": "OMG (feat. Evelina)",
+        "url": "https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d"
+      },
+      "artists": [
+        {
+          "name": "Mikael Laurent",
+          "url": "https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO"
+        },
+        {
+          "name": "Evelina",
+          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "OMG (feat. Evelina)",
+      "url": "https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe"
     },
     {
       "album": {
@@ -14250,7 +14272,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 193437,
       "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
       "url": "https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH"

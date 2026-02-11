@@ -1,6 +1,6 @@
 {
   "description": "Muy a mi nivel \ud83d\udc8b\u2728 ",
-  "num_followers": 126466,
+  "num_followers": 126507,
   "original_name": "Playlist de chava ",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -459,38 +475,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "Sports car",
-        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 165045,
-      "name": "Sports car",
-      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Sports car",
+        "url": "https://open.spotify.com/album/1fOTqAU8mRMHlmOaHMqsge"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 165045,
+      "name": "Sports car",
+      "url": "https://open.spotify.com/track/2zOmS55knKWSgScYPTNmGQ"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/49gRYU6hBWgSH2JVixGkJq"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
         "name": "La Trayectoria",
         "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 204906,
       "name": "Todos Me Miran",
       "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/49gRYU6hBWgSH2JVixGkJq"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1307,26 +1307,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Que Se Cuide",
-        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         },
         {
-          "name": "Joel De La P",
-          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         }
       ],
-      "duration_ms": 155624,
-      "name": "Que Se Cuide",
-      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
+      "duration_ms": 217653,
+      "name": "No Me Acuerdo",
+      "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1371,22 +1367,26 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
-        "name": "Valiente",
-        "url": "https://open.spotify.com/album/2vcyOtFtWOYuQ6j4AH2FIG"
+        "name": "Que Se Cuide",
+        "url": "https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
         }
       ],
-      "duration_ms": 217653,
-      "name": "No Me Acuerdo",
-      "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
+      "duration_ms": 155624,
+      "name": "Que Se Cuide",
+      "url": "https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ"
     },
     {
       "added_at": "2025-10-31 06:00:15",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-10-31 06:00:15",
       "album": {
+        "name": "El Bombon Asesino",
+        "url": "https://open.spotify.com/album/2qyTvN94CL82u76kPQxY3l"
+      },
+      "artists": [
+        {
+          "name": "Ninel Conde",
+          "url": "https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK"
+        }
+      ],
+      "duration_ms": 192546,
+      "name": "El Bomb\u00f3n Asesino",
+      "url": "https://open.spotify.com/track/4WXP5uP1Ugp8aEIVpNRk5g"
+    },
+    {
+      "added_at": "2025-10-31 06:00:15",
+      "album": {
         "name": "Stripper",
         "url": "https://open.spotify.com/album/7hfdNJlk2bgIMsd4JlMawm"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 166181,
       "name": "Stripper",
       "url": "https://open.spotify.com/track/2EUpRR7YI821jsIHJvwSPI"
-    },
-    {
-      "added_at": "2025-10-31 06:00:15",
-      "album": {
-        "name": "El Bombon Asesino",
-        "url": "https://open.spotify.com/album/2qyTvN94CL82u76kPQxY3l"
-      },
-      "artists": [
-        {
-          "name": "Ninel Conde",
-          "url": "https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK"
-        }
-      ],
-      "duration_ms": 192546,
-      "name": "El Bomb\u00f3n Asesino",
-      "url": "https://open.spotify.com/track/4WXP5uP1Ugp8aEIVpNRk5g"
     },
     {
       "added_at": "2025-10-31 06:00:15",

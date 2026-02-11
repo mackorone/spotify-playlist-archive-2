@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,254 likes - 100 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,251 likes - 100 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 64 | [Nothing But the Blood](https://open.spotify.com/track/0lY7aTxHRprImCO03ueK5d) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 8](https://open.spotify.com/album/10mYLdNmVV5zvPO6EVxzPB) | 4:46 |
 | 65 | [This We Know \- Live](https://open.spotify.com/track/20SaQe37Z9TtOM8owHVNgX) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:43 |
 | 66 | [You Are The Lord](https://open.spotify.com/track/5XYBrwScp68y8LGo08Na8x) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Brett Younker](https://open.spotify.com/artist/1bv56110xRuPw0V8YaWiM5), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Breakthrough Miracle Power / You Are The Lord](https://open.spotify.com/album/4gaDn0J2sLYMvOPCW9ZoNU) | 5:10 |
-| 67 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 |
-| 68 | [Savior Of The World \- Single Version](https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Savior Of The World](https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO) | 4:44 |
+| 67 | [Savior Of The World \- Single Version](https://open.spotify.com/track/6sHfoAsh78XOmGqUYDsRDP) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Savior Of The World](https://open.spotify.com/album/139bI83KG8DMPSVowCtYXO) | 4:44 |
+| 68 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 6:51 |
 | 69 | [Yes He Lives \- Live](https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX), [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC) | [Yes He Lives](https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0) | 4:45 |
 | 70 | [This Is My Song \- Live](https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1) | [Our God Will See Us Through \(Live\)](https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2) | 4:13 |
 | 71 | [Precious Love \- Live](https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Sing! The Great Commission \- World Tour \(Live\)](https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF) | 5:02 |

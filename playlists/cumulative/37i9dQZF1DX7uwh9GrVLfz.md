@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: 板歯目
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: からあげ弁当
 
-871 songs - 1 day 21 hr 59 min
+873 songs - 1 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-28 | 2023-12-20 |
 | [dingdong jungle](https://open.spotify.com/track/0uCKvN0hL2lfbEIodpPT1F) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [dingdong jungle](https://open.spotify.com/album/44MPdzmWZh0bMALoYGSuDh) | 2:53 | 2022-08-02 | 2022-08-10 |
 | [Dirty Party](https://open.spotify.com/track/2UixLInT8vsLbefK63BXLB) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 3:07 | 2022-05-17 | 2022-07-29 |
+| [Dive into the Beat](https://open.spotify.com/track/79Z4csJLFpuPiI94MfiUhS) | [No Guard Okey](https://open.spotify.com/artist/0WChAIlhqnTFsCusfLKQLL) | [Dive into the Beat](https://open.spotify.com/album/3PJBUr6NF8eji7kTWSz1VJ) | 2:33 | 2026-02-10 |  |
 | [DIVE!!!](https://open.spotify.com/track/1pc34YhP1c2OYOzEG3eUEQ) | [skaskaskaclub](https://open.spotify.com/artist/4fYQktTqLvpdHtd8Ue87Fq) | [SKA! SKA! SKA!?](https://open.spotify.com/album/1SXRbcrIquZ3UNLsHP7rWA) | 2:43 | 2024-11-05 | 2025-01-22 |
 | [Don't forget the origin](https://open.spotify.com/track/1KiC3LwXUqkLWxaMXOqHqw) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS), [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Don't forget the origin](https://open.spotify.com/album/2kgGK9FDnAC9Vjb2YVejec) | 2:38 | 2025-06-17 | 2025-07-23 |
 | [Don't Let Me Down](https://open.spotify.com/track/2umiTDOadc6AtsjCIXBkT7) | [Five State Drive](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [We'll be the Next](https://open.spotify.com/album/6jf1XEwvf9Nwyk3cf9bGKn) | 2:50 | 2022-05-17 | 2022-07-28 |
@@ -435,7 +436,7 @@
 | [RED](https://open.spotify.com/track/0YBIcDTmYZP3jxcO3L2AYv) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 3:54 | 2023-09-28 | 2023-11-07 |
 | [RED](https://open.spotify.com/track/66Rl6HThnoHCRRVCUbslIG) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [RED](https://open.spotify.com/album/6jS6EMy8bdawl6dbBzag1X) | 3:54 | 2023-07-13 | 2023-09-30 |
 | [Rest in Punk](https://open.spotify.com/track/45fdY5d6sQWanxK8VH1LzA) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 2:32 | 2023-10-31 | 2024-04-19 |
-| [Rest In Punk](https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest In Punk](https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4) | 2:32 | 2023-10-31 |  |
+| [Rest In Punk](https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest In Punk](https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4) | 2:32 | 2023-10-31 | 2026-02-11 |
 | [Revodes](https://open.spotify.com/track/1XEsonSLs1MBNnBhdNRaYt) | [Manatsu](https://open.spotify.com/artist/0QsmAtCC9Z5uS53sg6QkfS) | [Revodes](https://open.spotify.com/album/1XHKR962WKZPcKFjgVEkDD) | 2:04 | 2023-11-14 | 2023-12-20 |
 | [RIGHT NOW](https://open.spotify.com/track/1d5nuyjooXOIlGDluTPlTH) | [GOOD4NOTHING](https://open.spotify.com/artist/32VxoMUMRUcnYscQ9gAWar) | [ALL THE AWESOME DUDES](https://open.spotify.com/album/6gnYtMrDzdsnwey7waJTR4) | 3:42 | 2022-05-12 | 2023-02-15 |
 | [Riot](https://open.spotify.com/track/223nvf6U6stGS3nkA72KQ3) | [dustbox](https://open.spotify.com/artist/11PVIVQzvdHOrvVmNlkYNZ) | [Care Package](https://open.spotify.com/album/26xfYpzZgpGWRgJ7azcrIa) | 2:50 | 2022-07-21 | 2024-04-19 |
@@ -444,6 +445,7 @@
 | [Rising Down](https://open.spotify.com/track/2vQZUiJgXpYwVTFh1wyYc3) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Rising Down](https://open.spotify.com/album/2wIezlPl6spDqySHmB5FvE) | 2:10 | 2022-05-12 | 2023-12-24 |
 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 | 2022-05-17 |  |
 | [RIVER](https://open.spotify.com/track/6vHD8xxVud6WwOUA09s0g8) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 4:23 | 2023-12-19 | 2023-12-24 |
+| [Road to the future](https://open.spotify.com/track/2UtxS2QNxkW0kGnqvyZfkX) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [Road to the future](https://open.spotify.com/album/4g9wkbquO5cb4XRmNlwxBC) | 4:12 | 2026-02-10 |  |
 | [ROLLIE](https://open.spotify.com/track/3gt8pHDISoVa9oqaUn7SVn) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [EXPLORING OF THE SPACE](https://open.spotify.com/album/1snGcjfyD9oSQdOcUsr6NG) | 2:56 | 2022-05-19 | 2023-01-04 |
 | [ROSSOMAN](https://open.spotify.com/track/1OdL36eXdoWhN7HaaDLUIv) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [ROSSOMAN](https://open.spotify.com/album/2G0498MGtXceWoTlTmnJMK) | 3:59 | 2022-05-12 | 2022-07-22 |
 | [Sabasister's Theme \- 2024 Ver.](https://open.spotify.com/track/3rU0HTxiUG4LZYGyu34KNR) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Prepare Yourself!](https://open.spotify.com/album/6Hl7O9yuwyCItVzotgCqF2) | 3:32 | 2024-03-07 | 2024-04-19 |
@@ -793,7 +795,7 @@
 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 | 2023-10-24 | 2024-01-10 |
 | [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 | 2023-10-24 | 2023-10-26 |
 | [少年時代](https://open.spotify.com/track/2uVnjd2uVKPg299891KcFs) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [少年時代](https://open.spotify.com/album/5y3xFfjLRFB5ACA5EBgjtq) | 3:20 | 2024-07-09 | 2024-10-09 |
-| [就職先はロックスター](https://open.spotify.com/track/3r7nPQ6zFJ7UCjfTZBWvJI) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [就職先はロックスター](https://open.spotify.com/album/1I6iIrGuJ3S02bKY6rWrSf) | 1:37 | 2026-01-13 |  |
+| [就職先はロックスター](https://open.spotify.com/track/3r7nPQ6zFJ7UCjfTZBWvJI) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [就職先はロックスター](https://open.spotify.com/album/1I6iIrGuJ3S02bKY6rWrSf) | 1:37 | 2026-01-13 | 2026-02-11 |
 | [左様なら](https://open.spotify.com/track/35EO65pIPwMR9jNfBsHNBv) | [HATAKE](https://open.spotify.com/artist/0ABSeIulfcc4Rk6WYUWjH0) | [左様なら](https://open.spotify.com/album/4otXvksOzgyZSuyz0RzWgp) | 2:29 | 2025-03-11 | 2025-04-02 |
 | [希望の唄](https://open.spotify.com/track/5XjaDinCsvHok9nLCUHWTZ) | [FUNNY THINK](https://open.spotify.com/artist/62JiGgwrhE1PYawKu2qWtC) | [希望の唄](https://open.spotify.com/album/7ushBCmEZvPU1TJxjmVh0q) | 3:10 | 2025-05-13 | 2025-09-03 |
 | [幸せになろうよ](https://open.spotify.com/track/0wok9BE7hFu5yOJeKReNgt) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [永遠の花](https://open.spotify.com/album/1i7AHRWpDPl56hKoWcnMdq) | 2:04 | 2025-10-14 |  |

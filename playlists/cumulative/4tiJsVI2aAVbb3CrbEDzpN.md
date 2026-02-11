@@ -4,7 +4,7 @@
 
 > De Jaren 80 playlist met de grootste hits uit de jaren 80 en 80s\. Met o.a\. Kate Bush, Prince, David Bowie, a\-ha, Phil Collins, Talking Heads en nog veel meer! Foto: Prince \| Jaren 80 hits \- Jaren 80
 
-107 songs - 7 hr 29 min
+108 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Let's Stay Together \- Single Version](https://open.spotify.com/track/6Tuep7DAiB9FGhBnpSLCFD) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 3:41 | 2025-07-19 |  |
 | [Like a Virgin](https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:38 | 2025-07-19 |  |
 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 | 2025-07-19 |  |
+| [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:41 | 2026-02-10 |  |
 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 | 2025-07-19 |  |
 | [Love Me Just a Little Bit More \(Totally Hooked on You\)](https://open.spotify.com/track/1vXlbimYzL1wBy7xgpBoYz) | [Dolly Dots](https://open.spotify.com/artist/7jQDCbxYM9t8bLCd2n8ONI) | [Display](https://open.spotify.com/album/0BP5XDGy7Mgc6VWD77urPh) | 3:32 | 2025-07-19 |  |
 | [Love Shack](https://open.spotify.com/track/1biNMnwd1dfFYAL7tsmYhn) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Jaren 80](https://open.spotify.com/album/0XDy99BWQMKgIstRvMe9Ix) | 5:20 | 2025-07-19 |  |

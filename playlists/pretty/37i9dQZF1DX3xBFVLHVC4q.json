@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Love Live! Sunshine!!\" \u00a92017 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!",
-  "num_followers": 55845,
+  "num_followers": 55844,
   "original_name": "Love Live! Sunshine!!",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
+        "name": "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album \u301cPianoforte Monologue\u301c",
+        "url": "https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50) from Aqours",
+          "url": "https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r"
+        }
+      ],
+      "duration_ms": 310293,
+      "name": "PURE PHRASE",
+      "url": "https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
         "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
         "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 263146,
       "name": "\u6d99\u304c\u96ea\u306b\u306a\u308b\u524d\u306b",
       "url": "https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album \u301cPianoforte Monologue\u301c",
-        "url": "https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5185\u68a8\u5b50 (CV.\u9022\u7530\u68a8\u9999\u5b50) from Aqours",
-          "url": "https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r"
-        }
-      ],
-      "duration_ms": 310293,
-      "name": "PURE PHRASE",
-      "url": "https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo"
     },
     {
       "added_at": "2024-12-17 16:20:41",

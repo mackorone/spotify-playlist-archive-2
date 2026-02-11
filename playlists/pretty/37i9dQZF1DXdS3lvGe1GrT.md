@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Madra Salach
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,313 likes - 43 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,315 likes - 43 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

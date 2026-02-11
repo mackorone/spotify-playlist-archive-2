@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 41293,
       "name": "A New View of Politics",
       "url": "https://open.spotify.com/track/3ohn4fxPOiWYzzflvtyQdr"
@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 210733,
       "name": "Celestial Cantabile",
       "url": "https://open.spotify.com/track/4CktDPZOXK9LL7xMs2A04c"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 80200,
       "name": "Delia's Theme",
       "url": "https://open.spotify.com/track/1HSpoFHUmphpjU0RwqbnJz"
@@ -412,6 +412,28 @@
       "duration_ms": 140093,
       "name": "Doctor Who (New Opening, 1967 - Full Version)",
       "url": "https://open.spotify.com/track/5PvWV6UsWbDG0Y6NoXqfi1"
+    },
+    {
+      "album": {
+        "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
+        "url": "https://open.spotify.com/album/6lT4Q3FQBNreBrK7bue46E"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142660,
+      "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
+      "url": "https://open.spotify.com/track/4Exxaa7AHniu8Zdk5Ev88Q"
     },
     {
       "album": {
@@ -1058,7 +1080,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 99600,
       "name": "Freeze Frame",
       "url": "https://open.spotify.com/track/6qf2XVvOJWF8wEHQzVj6oo"
@@ -1128,7 +1150,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 37186,
       "name": "Great Zoos of the World",
       "url": "https://open.spotify.com/track/1018Sk9nhJHMYJHAkLokpf"
@@ -1384,7 +1406,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 174333,
       "name": "Hannett and Delia synth exchanges track 16",
       "url": "https://open.spotify.com/track/4ZeqdS8vnlZnbPHPdGxLQW"
@@ -1806,6 +1828,28 @@
       "duration_ms": 105506,
       "name": "Hannett and Delia synth exchanges track 9",
       "url": "https://open.spotify.com/track/1kmJMLFVnW7GtqrK37ngN4"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/7qV3mWdKcPJRXlQXnONvti"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105506,
+      "name": "Hannett and Delia synth exchanges track 9",
+      "url": "https://open.spotify.com/track/3uOALqZ3kWKXWLdk8rcgHg"
     },
     {
       "album": {
@@ -2312,7 +2356,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 63760,
       "name": "Restless Relays",
       "url": "https://open.spotify.com/track/3cVx3TuP0wzLcGr23QIqJi"
@@ -2518,7 +2562,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 2113024,
       "name": "The Afterlife, Pt. 3",
       "url": "https://open.spotify.com/track/1SUUGoKJE1kXMaLnAYeHBv"

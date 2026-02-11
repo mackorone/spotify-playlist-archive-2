@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 242130,
+  "num_followers": 242136,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 350266,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 249493,
       "name": "You Oughta Know - 2015 Remaster",
       "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 350266,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Jealousy",
-        "url": "https://open.spotify.com/album/5KGIf82I9zVXvZSUMXnw5c"
-      },
-      "artists": [
-        {
-          "name": "RUBII",
-          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/0uU6wpqMrSe8SuIAJNIje9"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "What a Time To Be Alive",
         "url": "https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 185863,
       "name": "Leave a Light On",
       "url": "https://open.spotify.com/track/4iVVU8DyQvOVsKafv3KWIF"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/5KGIf82I9zVXvZSUMXnw5c"
+      },
+      "artists": [
+        {
+          "name": "RUBII",
+          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/0uU6wpqMrSe8SuIAJNIje9"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Who Let The Dogs Out",
-        "url": "https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Cuntology 101",
-      "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Who Let The Dogs Out",
+        "url": "https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "Cuntology 101",
+      "url": "https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Family Only",
         "url": "https://open.spotify.com/album/1dcia5MJRh9FBJRxxMFlhk"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 222080,
       "name": "No Excuses",
       "url": "https://open.spotify.com/track/4vhkCppuT8ep5JneFswhgc"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
-      },
-      "artists": [
-        {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
-        }
-      ],
-      "duration_ms": 256406,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "La Peste",
         "url": "https://open.spotify.com/album/2sd9LoUp3J8n3huPWEFWhI"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 249240,
       "name": "Woke Up This Morning - Chosen One Mix",
       "url": "https://open.spotify.com/track/3TjlENVEU3a0s6s8BXyobq"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "duration_ms": 256406,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Islands",
+        "url": "https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 279457,
+      "name": "Above the Clouds of Pompeii",
+      "url": "https://open.spotify.com/track/23CGl8LfaUfOOxP4b4mGas"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 333150,
       "name": "Tongo Barra",
       "url": "https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 279457,
-      "name": "Above the Clouds of Pompeii",
-      "url": "https://open.spotify.com/track/23CGl8LfaUfOOxP4b4mGas"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "falling or flying",
         "url": "https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 204600,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/5l98YzTS2wpzuKJipFXVmR"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "I'M DOING IT AGAIN BABY!",
-        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/49oNAMh9RBScs4HXZJgvgl"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Cartoon Darkness",
         "url": "https://open.spotify.com/album/0uMO9LgMLMtHzLnTSONd6k"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 128658,
       "name": "Jerkin'",
       "url": "https://open.spotify.com/track/3AeJxiUEE7wOYKjYt7M7X2"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/49oNAMh9RBScs4HXZJgvgl"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2623,22 +2623,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Capricorn Sun",
-        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/0OQehQY5sa24kxGOOB1Uuu"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "What They Say EP",
         "url": "https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI"
       },
@@ -2651,6 +2635,22 @@
       "duration_ms": 400115,
       "name": "What They Say",
       "url": "https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Capricorn Sun",
+        "url": "https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/0OQehQY5sa24kxGOOB1Uuu"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2787,22 +2787,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "The 5th Exotic",
-        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 219880,
-      "name": "Time Is the Enemy",
-      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Already, Always",
         "url": "https://open.spotify.com/album/1Sg1X4KNEe2O35PcuhcjZZ"
       },
@@ -2815,6 +2799,22 @@
       "duration_ms": 225040,
       "name": "Co-op",
       "url": "https://open.spotify.com/track/0Dg9x9026brPlhRQMy7LQz"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "The 5th Exotic",
+        "url": "https://open.spotify.com/album/2tMQ2DeB9RydEFl1gcRkHb"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 219880,
+      "name": "Time Is the Enemy",
+      "url": "https://open.spotify.com/track/24ylIO48nRsdaONlM8l2HF"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3047,22 +3047,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "All Born Screaming",
-        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Broken Man",
-      "url": "https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "A Mixtape by Anish Kumar",
         "url": "https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g"
       },
@@ -3075,6 +3059,22 @@
       "duration_ms": 252208,
       "name": "Marabelle",
       "url": "https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "All Born Screaming",
+        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Broken Man",
+      "url": "https://open.spotify.com/track/1kgLXgHrXecZyRCDROfAPb"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3251,22 +3251,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 207409,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Dreamstate",
         "url": "https://open.spotify.com/album/4OL7O0xoj0xjyRrTA3clwd"
       },
@@ -3279,6 +3263,22 @@
       "duration_ms": 272231,
       "name": "Love You Got",
       "url": "https://open.spotify.com/track/2eV02vbTQJkBh6R839ojjm"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
     },
     {
       "added_at": "2025-06-27 23:00:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,974 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,004 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 39 | [Sinds 1 Dag Of 2 \(32 Jaar\)](https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv) | [Doe Maar](https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE) | [De Jonge Jaren van Doe Maar \- 50 jaar Nederpop](https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu) | 3:20 |
 | 40 | [Mijn Liefste](https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 3:16 |
 | 41 | [Geen Twijfel](https://open.spotify.com/track/1F7igQIIMxVanRy8PtpIFh) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Geen Twijfel](https://open.spotify.com/album/2MrKhgLPY6hzP7sd45u2MS) | 3:20 |
-| 42 | [Gina](https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Gina](https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi) | 3:38 |
+| 42 | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6) | 3:10 |
 | 43 | [Hobbelen](https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Hobbelen](https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg) | 3:03 |
-| 44 | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6) | 3:10 |
+| 44 | [Gina](https://open.spotify.com/track/5meI025SYNIsanGc3NpCAs) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Gina](https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi) | 3:38 |
 | 45 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa) | 2:16 |
 | 46 | [Adio Amore Adio](https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Gewoon Jannes](https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV) | 3:27 |
 | 47 | [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 95 | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5) | 2:32 |
 | 96 | [Turk Uit De Kroeg](https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg](https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9) | 3:12 |
 | 97 | [Harder Dan Ik Hebben Kan](https://open.spotify.com/track/31kf5nGp5YIcbNgqtRTmib) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:10 |
-| 98 | [Pure Verleiding](https://open.spotify.com/track/0SXG52Psd7NNVpsC57DFOF) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Lekker Lekker](https://open.spotify.com/album/67AJLUypcS4R7DqtZXxdG1) | 3:23 |
-| 99 | [Dromendans](https://open.spotify.com/track/7tqusWyIHeTmj5Zau5CYqj) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Droomwereld](https://open.spotify.com/album/23kBLHQFMXTBQbsI4PZ9Kt) | 2:52 |
-| 100 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 |
+| 98 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 |
+| 99 | [Pure Verleiding](https://open.spotify.com/track/0SXG52Psd7NNVpsC57DFOF) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Lekker Lekker](https://open.spotify.com/album/67AJLUypcS4R7DqtZXxdG1) | 3:23 |
+| 100 | [Dromendans](https://open.spotify.com/track/7tqusWyIHeTmj5Zau5CYqj) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Droomwereld](https://open.spotify.com/album/23kBLHQFMXTBQbsI4PZ9Kt) | 2:52 |
 
 Snapshot ID: `AAAAAJAKpZMgvs6/zMkQ/ndVUvslBKud`

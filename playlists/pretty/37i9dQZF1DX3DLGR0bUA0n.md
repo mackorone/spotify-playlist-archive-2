@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. GERARDO DÍAZ Y SU GERARQUÍA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,692 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,739 likes - 125 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 26 | [Son las Dos de la Mañana](https://open.spotify.com/track/4CYshjNzVTWOs6mEbvSFk0) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [20 Exitos de Ley](https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph) | 2:44 |
 | 27 | [No Te Olvidare](https://open.spotify.com/track/0g8IOSkOPv8JUxbTojv6vI) | [La Dinastia de Tuzantla, Mich.](https://open.spotify.com/artist/2Ft11oBGQg7YDAB3N4RRxf) | [Guiados por el Cielo](https://open.spotify.com/album/5se7VnLff9owqtOW1usbhN) | 4:01 |
 | 28 | [Puño de Tierra](https://open.spotify.com/track/0AHoNKqYZdcvffUWkmwPcR) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [De Parranda Con Jorge Garcia](https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa) | 2:35 |
-| 29 | [Guachita Hermosa \- En Vivo](https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Guachita Hermosa \(En Vivo\)](https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8) | 3:29 |
-| 30 | [El Rey De Oros](https://open.spotify.com/track/1XOdCS8q1GGjOJR90Kxz3c) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [Era Casada](https://open.spotify.com/album/4QZzs9QW50sVyXsBymf0Rv) | 2:56 |
+| 29 | [El Rey De Oros](https://open.spotify.com/track/1XOdCS8q1GGjOJR90Kxz3c) | [Triny La Leyenda](https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI) | [Era Casada](https://open.spotify.com/album/4QZzs9QW50sVyXsBymf0Rv) | 2:56 |
+| 30 | [Guachita Hermosa \- En Vivo](https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Guachita Hermosa \(En Vivo\)](https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8) | 3:29 |
 | 31 | [Hermosa Tierra Caliente](https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:27 |
 | 32 | [Libro Abierto / Qué Se Te Olvidó \(En Vivo\)](https://open.spotify.com/track/34NAjxnPJNAH05H6FvA39S) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 6:34 |
 | 33 | [Soy Cukin](https://open.spotify.com/track/6PYAdvhQGjuqoP4I9YBON5) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Soy Cukin](https://open.spotify.com/album/1eVP7WUjq7xfFEroePZ0yT) | 3:45 |

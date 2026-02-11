@@ -34229,6 +34229,24 @@
     },
     {
       "album": {
+        "name": "Zatrzymane",
+        "url": "https://open.spotify.com/album/7jb1dGdbuTdmiQpnzmOsEJ"
+      },
+      "artists": [
+        {
+          "name": "KRiSU Krzysztof Ba\u0144ka",
+          "url": "https://open.spotify.com/artist/73m6LntQaeyAemA4YFLwp4"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Kto pyta nie b\u0142\u0105dzi",
+      "url": "https://open.spotify.com/track/0Y40l5gCn7dgKBhNgBrw2C"
+    },
+    {
+      "album": {
         "name": "Men",
         "url": "https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG"
       },

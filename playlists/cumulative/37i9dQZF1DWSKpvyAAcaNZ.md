@@ -2,7 +2,7 @@
 
 ### [Blues & Roots Rock](https://open.spotify.com/playlist/37i9dQZF1DWSKpvyAAcaNZ)
 
-> It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
+> It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Tedeschi Trucks
 
 336 songs - 21 hr 16 min
 

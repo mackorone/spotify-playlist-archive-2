@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-164 songs - 9 hr 29 min
+167 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,11 @@
 | [Bad Attitude](https://open.spotify.com/track/5zM9Qohifqmxn2vzxfpx2C) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Bad Attitude](https://open.spotify.com/album/0xNPYQ8vVS3wNDEaWKY3iw) | 4:29 | 2026-02-06 |  |
 | [Bandages and Promises](https://open.spotify.com/track/0zQDOqHLjwK2Hueyih0jkJ) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [Bandages and Promises](https://open.spotify.com/album/1N9bcji8icEHSbhyVEfPG8) | 3:25 | 2026-02-08 |  |
 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 | 2026-01-28 |  |
+| [Bir Kent Rüyası](https://open.spotify.com/track/5Ww3NzsitV8ZlrGRF8FwRL) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Bir Kent Rüyası](https://open.spotify.com/album/5AoC8tcQtcs5mKXQAih72z) | 3:05 | 2026-02-10 |  |
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2026-02-03 |  |
 | [Bloodshot Eyes](https://open.spotify.com/track/4XzNILnHHcfJxtRtGn4Ow8) | [Ruth A Harris](https://open.spotify.com/artist/4TUBRIaMIcsQUgkIIl5Vz8) | [Bloodshot Eyes](https://open.spotify.com/album/5P9VKrEu11OUOb8Rxj6yla) | 3:33 | 2026-02-08 |  |
 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-11-01 | 2026-01-17 |
-| [California \- Radio Edit](https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH) | [GCProductions](https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj) | [California \(Radio Edit\)](https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo) | 3:24 | 2026-01-16 |  |
+| [California \- Radio Edit](https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH) | [GCProductions](https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj) | [California \(Radio Edit\)](https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo) | 3:24 | 2026-01-16 | 2026-02-11 |
 | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/track/4b2xYezRYlT9jf6nKxPOwT) | [J0VANNA](https://open.spotify.com/artist/1ILEWunbo2Yr5xi6LXJtGy) | [Call Your Mama \(Don't Call Me\)](https://open.spotify.com/album/3WPYj0X3qC3jPwzyr3jekD) | 4:15 | 2025-10-17 | 2025-12-12 |
 | [Carry Me](https://open.spotify.com/track/3HlzhD5JzCOl28ZyYaBMl7) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Carry Me](https://open.spotify.com/album/4CsWROryalOsNgDTZGV2ct) | 3:18 | 2025-12-12 | 2026-02-07 |
 | [Chapiteau](https://open.spotify.com/track/06e4iSfNG6XVts53EnG91O) | [Neona](https://open.spotify.com/artist/3VE3HoeJRsX7NetnHwDSlp) | [Chapiteau](https://open.spotify.com/album/2o4zfUINIDlrpyMzk2d1Lm) | 2:17 | 2025-11-01 | 2026-01-15 |
@@ -43,6 +44,7 @@
 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 | 2026-01-20 |  |
 | [DREAMER](https://open.spotify.com/track/49lM9TyblTaosHpdPkc05O) | [Hikado](https://open.spotify.com/artist/6lDxbnDDJ8j8lS38VP6swA) | [DREAMER](https://open.spotify.com/album/27aHMfzeKvauniQ4iB2MvY) | 3:35 | 2026-02-08 |  |
 | [Dreaming of Injured Popstars '25](https://open.spotify.com/track/2JquSuR6JlfaCulVG9HGkV) | [Intoxicated Pigeon](https://open.spotify.com/artist/6fbh8Dv01mwKXuD9AkPTgx), [Lewis Mckale](https://open.spotify.com/artist/6yTP6bdkiI5MubxbfPiF7e), [Oxygen Thief](https://open.spotify.com/artist/0lSgqe7J1XKN7hZhaPHBs5) | [Dreaming of Injured Popstars '25](https://open.spotify.com/album/6LbYdmnpJrZ0JoktjZgcD7) | 4:53 | 2025-11-09 | 2026-01-17 |
+| [Dreaming of you](https://open.spotify.com/track/470owFy9zXfoCVqXlWgOX4) | [Huggis Hill](https://open.spotify.com/artist/4w4L2XzPmIkhX5eP35IP7c) | [Dreaming of you](https://open.spotify.com/album/3TBYX9eWTrcy6ehh9U4E6N) | 3:13 | 2026-02-10 |  |
 | [Drink Deep](https://open.spotify.com/track/7gikiS1tbe16Xh3FPkRojT) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Camera 321/Tivoli Park/Drink Deep](https://open.spotify.com/album/2U7atN68CngRU0oJk6BkOx) | 4:02 | 2026-02-07 |  |
 | [Easy](https://open.spotify.com/track/4hifOPhb7I7Lqk1QxzTViF) | [Barranquismo](https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF) | [Easy](https://open.spotify.com/album/2FlV7b52TOFYQvZQidpA5e) | 2:52 | 2025-10-30 | 2025-12-02 |
 | [Emily's Song](https://open.spotify.com/track/5x8AB0H9SrB2BDY05o8iqv) | [Ventrelles](https://open.spotify.com/artist/7JTOVfG953bnJ6u3l815qh) | [Emily's Song](https://open.spotify.com/album/0pbmJH13H4RYEca7gUZ9E8) | 3:27 | 2025-11-02 | 2026-01-17 |
@@ -97,6 +99,7 @@
 | [love pt\. 2](https://open.spotify.com/track/4uvzEnlCw8ysLKnXeYDSDI) | [Lazuli Bones](https://open.spotify.com/artist/74gnmdjnTP4OsKX80B6ao9) | [garden girl](https://open.spotify.com/album/326LJXKcD0mbtlDag4ggZs) | 3:42 | 2026-02-08 |  |
 | [LUV STRUCK](https://open.spotify.com/track/27lMGJ24Ry90rS18akyYnT) | [Hxtra](https://open.spotify.com/artist/5UWCbi9dD4BzERjl7b3Neb) | [9 2 5](https://open.spotify.com/album/3trknleJinlGnyzjZRTi40) | 2:24 | 2026-01-03 |  |
 | [Machete](https://open.spotify.com/track/5qoNe1iZ1yZCeFYlWqRbx1) | [Gena Perala](https://open.spotify.com/artist/49SGUG6CqLLqOSOYeMzunF) | [Machete](https://open.spotify.com/album/18SVDGTQeAPS7ecCtveXp7) | 3:13 | 2025-10-17 | 2025-12-12 |
+| [Makes Me Happy](https://open.spotify.com/track/2RuYgdEBxV2exf6GsHzlJ0) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [Makes Me Happy](https://open.spotify.com/album/74a0SSWcCSIXPRBh3TjA2x) | 2:49 | 2026-02-10 |  |
 | [MASKARA](https://open.spotify.com/track/5o9Gq3MdlkkMYamhtnLigy) | [Se7enth Fret](https://open.spotify.com/artist/1RHTImcBpYt4lt58OJp938) | [MASKARA](https://open.spotify.com/album/4Lxs8ix1Y1kGX3UO7sOfMp) | 3:39 | 2025-10-24 | 2025-12-02 |
 | [MAYDAY](https://open.spotify.com/track/5xWsnPctjnUuHJ1UwBiRor) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [MAYDAY](https://open.spotify.com/album/5h76yRMMzTY1LI64nPGoHV) | 3:45 | 2025-11-07 | 2026-01-17 |
 | [Mayday Mayday](https://open.spotify.com/track/23f7gTiVGXNRScrA4W8LdO) | [archived](https://open.spotify.com/artist/7wQvNfAO2NdPhmzQpimi7i) | [Mayday Mayday](https://open.spotify.com/album/4fucqz6dim5FSWSdcSTtoK) | 2:09 | 2025-12-11 | 2026-02-07 |

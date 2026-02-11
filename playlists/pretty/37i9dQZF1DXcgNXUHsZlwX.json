@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 142339,
+  "num_followers": 142354,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
+        "name": "Moondog",
+        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 305640,
+      "name": "Moondog",
+      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
         "name": "sMiLes",
         "url": "https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 174023,
       "name": "SHouLd I sMiLe?",
       "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "Moondog",
-        "url": "https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305640,
-      "name": "Moondog",
-      "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 248759,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
         "name": "La lumi\u00e8re",
         "url": "https://open.spotify.com/album/1Bnd3iUOj9iTWgyQH8q4Pk"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 240485,
       "name": "La lumi\u00e8re",
       "url": "https://open.spotify.com/track/0biGRUzQFtJMSraU7iu9Xm"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 248759,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "\u00c0 toi",
-        "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
+        "name": "Les oiseaux",
+        "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Fleur de Peau",
+          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
         }
       ],
-      "duration_ms": 264580,
-      "name": "\u00c0 toi",
-      "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
+      "duration_ms": 244083,
+      "name": "Les oiseaux",
+      "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Les oiseaux",
-        "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
+        "name": "\u00c0 toi",
+        "url": "https://open.spotify.com/album/1y3Jp3o9MA6k1wpWX2vQV1"
       },
       "artists": [
         {
-          "name": "Fleur de Peau",
-          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 244083,
-      "name": "Les oiseaux",
-      "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
+      "duration_ms": 264580,
+      "name": "\u00c0 toi",
+      "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/0hOMPuxUuYcyn2o75G1uzj"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Future Lovers",
-        "url": "https://open.spotify.com/album/3znvdMuFzXDXqW7Hk2QQWX"
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
       "artists": [
         {
-          "name": "Julyan",
-          "url": "https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG"
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
         }
       ],
-      "duration_ms": 189386,
-      "name": "Pleasure",
-      "url": "https://open.spotify.com/track/1pJ2Mcvx3RqVuGjxA6uYBL"
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -935,6 +919,22 @@
       "duration_ms": 277461,
       "name": "Oiseau migrateur",
       "url": "https://open.spotify.com/track/2QOHrzgwSZg7oDrrLEshB0"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "Future Lovers",
+        "url": "https://open.spotify.com/album/3znvdMuFzXDXqW7Hk2QQWX"
+      },
+      "artists": [
+        {
+          "name": "Julyan",
+          "url": "https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG"
+        }
+      ],
+      "duration_ms": 189386,
+      "name": "Pleasure",
+      "url": "https://open.spotify.com/track/1pJ2Mcvx3RqVuGjxA6uYBL"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
+        "name": "Ici",
+        "url": "https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9"
+      },
+      "artists": [
+        {
+          "name": "La Steppe",
+          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
+        }
+      ],
+      "duration_ms": 168358,
+      "name": "Ici",
+      "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
         "name": "Altogether Unaccompanied, Vol. V",
         "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
       },
@@ -999,6 +1015,22 @@
       "duration_ms": 305185,
       "name": "Bigger Pieces",
       "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Sweetpie",
+      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1019,22 +1051,6 @@
       "duration_ms": 193733,
       "name": "Ariane",
       "url": "https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Sweetpie",
-      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1083,22 +1099,6 @@
       "duration_ms": 191280,
       "name": "Le vent se l\u00e8ve",
       "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "Ici",
-        "url": "https://open.spotify.com/album/6QLplsDGfUNQLp8KaEZgs9"
-      },
-      "artists": [
-        {
-          "name": "La Steppe",
-          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
-        }
-      ],
-      "duration_ms": 168358,
-      "name": "Ici",
-      "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
+        "name": "Demain",
+        "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
+      },
+      "artists": [
+        {
+          "name": "Zach Boileau",
+          "url": "https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO"
+        }
+      ],
+      "duration_ms": 229047,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
         "name": "mauvais sort",
         "url": "https://open.spotify.com/album/5jOqIFY6fLelCZPJ9snTq9"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 291034,
       "name": "mauvais sort",
       "url": "https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID"
-      },
-      "artists": [
-        {
-          "name": "Cath Darbouze",
-          "url": "https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV"
-        }
-      ],
-      "duration_ms": 207318,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Un r\u00e9veil",
-        "url": "https://open.spotify.com/album/1loyRDHjtV77N1zcaLgMkQ"
-      },
-      "artists": [
-        {
-          "name": "Simon Boisseau",
-          "url": "https://open.spotify.com/artist/7yuhTKqvg8STJhzxzHVKTJ"
-        }
-      ],
-      "duration_ms": 204983,
-      "name": "Un r\u00e9veil",
-      "url": "https://open.spotify.com/track/64UM1r9WN1VoVKeMDitUrr"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
         "name": "Quand je pleure, je suis content",
         "url": "https://open.spotify.com/album/3opSlIcz0GrsvjdOPWcFsc"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 217773,
       "name": "Quand je pleure, je suis content",
       "url": "https://open.spotify.com/track/4Snl6VOCsYVWp0UMKHJwtC"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "Un r\u00e9veil",
+        "url": "https://open.spotify.com/album/1loyRDHjtV77N1zcaLgMkQ"
+      },
+      "artists": [
+        {
+          "name": "Simon Boisseau",
+          "url": "https://open.spotify.com/artist/7yuhTKqvg8STJhzxzHVKTJ"
+        }
+      ],
+      "duration_ms": 204983,
+      "name": "Un r\u00e9veil",
+      "url": "https://open.spotify.com/track/64UM1r9WN1VoVKeMDitUrr"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1263,82 +1263,18 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Demain",
-        "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID"
       },
       "artists": [
         {
-          "name": "Zach Boileau",
-          "url": "https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO"
+          "name": "Cath Darbouze",
+          "url": "https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV"
         }
       ],
-      "duration_ms": 229047,
-      "name": "Demain",
-      "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 263720,
-      "name": "As My Old Man Always Said",
-      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
-      },
-      "artists": [
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+      "duration_ms": 207318,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1359,6 +1295,70 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/0YxzumaPK6A7xM5mE5s9KA"
+      },
+      "artists": [
+        {
+          "name": "Laroie",
+          "url": "https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY"
+        }
+      ],
+      "duration_ms": 279417,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/686REeaDyJsoTNl6eFDFiK"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 263720,
+      "name": "As My Old Man Always Said",
+      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
         "name": "Go Get It",
         "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
       },
@@ -1375,62 +1375,18 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "First Recordings",
-        "url": "https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U"
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
       "artists": [
         {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        },
-        {
-          "name": "Yves Desrosiers",
-          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
         }
       ],
-      "duration_ms": 218200,
-      "name": "Los Peces",
-      "url": "https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "Sailors",
-        "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
-      },
-      "artists": [
-        {
-          "name": "Matiu",
-          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
-        },
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
-        }
-      ],
-      "duration_ms": 241462,
-      "name": "Sailors",
-      "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "River Run (with Lila Dupont)",
-        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        },
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
-        }
-      ],
-      "duration_ms": 205959,
-      "name": "River Run (with Lila Dupont)",
-      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1455,6 +1411,66 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
+        "name": "River Run (with Lila Dupont)",
+        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        },
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+        }
+      ],
+      "duration_ms": 205959,
+      "name": "River Run (with Lila Dupont)",
+      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "Sailors",
+        "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
+      },
+      "artists": [
+        {
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        },
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+        }
+      ],
+      "duration_ms": 241462,
+      "name": "Sailors",
+      "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "First Recordings",
+        "url": "https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        },
+        {
+          "name": "Yves Desrosiers",
+          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "Los Peces",
+      "url": "https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
         "name": "L'\u00e9trange pays",
         "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 200706,
       "name": "Passe ton chemin",
       "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/0YxzumaPK6A7xM5mE5s9KA"
-      },
-      "artists": [
-        {
-          "name": "Laroie",
-          "url": "https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY"
-        }
-      ],
-      "duration_ms": 279417,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/686REeaDyJsoTNl6eFDFiK"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "You Turned the Tables on Me",
-        "url": "https://open.spotify.com/album/10vEhaXhvSrI1o6xxCyjM2"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 280021,
-      "name": "You Turned the Tables on Me",
-      "url": "https://open.spotify.com/track/5I8hJGC9av0vwixbnP9G9P"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
         "name": "Ya s\u00e9 ya s\u00e9",
         "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
       },
@@ -1551,6 +1535,38 @@
       "duration_ms": 223689,
       "name": "Ya s\u00e9 ya s\u00e9",
       "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "Crooked Lines",
+        "url": "https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L"
+      },
+      "artists": [
+        {
+          "name": "Gaspard Eden",
+          "url": "https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu"
+        }
+      ],
+      "duration_ms": 202823,
+      "name": "A Brand New Color",
+      "url": "https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV"
+    },
+    {
+      "added_at": "2026-02-06 05:01:24",
+      "album": {
+        "name": "You Turned the Tables on Me",
+        "url": "https://open.spotify.com/album/10vEhaXhvSrI1o6xxCyjM2"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 280021,
+      "name": "You Turned the Tables on Me",
+      "url": "https://open.spotify.com/track/5I8hJGC9av0vwixbnP9G9P"
     },
     {
       "added_at": "2026-02-06 05:01:24",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Du temps",
-        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Du temps",
-      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
-    },
-    {
-      "added_at": "2026-02-06 05:01:24",
-      "album": {
         "name": "Velours et Acide",
         "url": "https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-02-06 05:01:24",
       "album": {
-        "name": "Crooked Lines",
-        "url": "https://open.spotify.com/album/6UuUCP3nMgScASnE3OER2L"
+        "name": "Du temps",
+        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
       },
       "artists": [
         {
-          "name": "Gaspard Eden",
-          "url": "https://open.spotify.com/artist/11BISbBI3xYpovdOS1DKBu"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 202823,
-      "name": "A Brand New Color",
-      "url": "https://open.spotify.com/track/1kzKqrPUHH7F8mCKouDapV"
+      "duration_ms": 222586,
+      "name": "Du temps",
+      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
     },
     {
       "added_at": "2026-02-06 05:01:24",

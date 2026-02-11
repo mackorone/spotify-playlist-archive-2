@@ -513,6 +513,40 @@
     },
     {
       "album": {
+        "name": "Do Deewane Seher Mein",
+        "url": "https://open.spotify.com/album/42dLTgG3gMYSjy2s5MqJ8O"
+      },
+      "artists": [
+        {
+          "name": "Runa Laila",
+          "url": "https://open.spotify.com/artist/5bS74zNlZCPARTsW3Lurw5"
+        },
+        {
+          "name": "Bhupinder Singh",
+          "url": "https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne"
+        },
+        {
+          "name": "Jaidev",
+          "url": "https://open.spotify.com/artist/7CaFdVY2rhLpErUD3vQsPh"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        },
+        {
+          "name": "Jackie Vanjari",
+          "url": "https://open.spotify.com/artist/4Ye3MAp70s7AUbzr3ZBlbV"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151058,
+      "name": "Do Deewane Sheher Mein - Reprised",
+      "url": "https://open.spotify.com/track/1kes4bOSlJ0CsGWEUgrHI9"
+    },
+    {
+      "album": {
         "name": "Gazab Ka Hai Din (From \"Dil Juunglee\")",
         "url": "https://open.spotify.com/album/2CDoBLpNRmnspcfY6Rci1U"
       },
@@ -1592,7 +1626,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 242916,
       "name": "Sitaare (From \"Ikkis\")",
       "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
@@ -1649,7 +1683,7 @@
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 176875,
+      "duration_ms": 176874,
       "name": "Soni Soni (From \"Ishq Vishk Rebound\")",
       "url": "https://open.spotify.com/track/36N5awamOX6XX5pQn3aFXZ"
     },

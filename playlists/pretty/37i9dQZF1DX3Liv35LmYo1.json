@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 2045,
+  "num_followers": 2050,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Sweet Memory",
+        "url": "https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z"
+      },
+      "artists": [
+        {
+          "name": "Kloyd",
+          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Sweet Memory",
+      "url": "https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Interior",
         "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 253793,
       "name": "Colours Of My Mind",
       "url": "https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Sweet Memory",
-        "url": "https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z"
-      },
-      "artists": [
-        {
-          "name": "Kloyd",
-          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Sweet Memory",
-      "url": "https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Jesper",
-        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Jesper",
-      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Push Power ( a 1 )",
         "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 249261,
       "name": "Push Power ( a 1 )",
       "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Jesper",
+        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Jesper",
+      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "'I Wanted More' EP",
-        "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
-      },
-      "artists": [
-        {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
-        }
-      ],
-      "duration_ms": 333694,
-      "name": "I Wanted More",
-      "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Mercury Remixes",
         "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 207304,
       "name": "Violet - DJ Python Remix",
       "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "'I Wanted More' EP",
+        "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "duration_ms": 333694,
+      "name": "I Wanted More",
+      "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
     },
     {
       "added_at": "2023-08-31 14:00:00",

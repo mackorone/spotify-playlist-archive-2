@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Homegrown emerging pop! Cover: Freya Skye
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,829 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,835 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 8 | [BEEP BEEP](https://open.spotify.com/track/37QZTqlBL2zWGC0ZOqIKg4) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [BEEP BEEP](https://open.spotify.com/album/7HLxofu5KDBHTZNNrJCnZR) | 2:33 |
 | 9 | [Comfort Food](https://open.spotify.com/track/6RVhm0dPjzPANNCEY10eni) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Comfort Food](https://open.spotify.com/album/0fyAssiL3qDn2bD5m0mIi8) | 3:27 |
 | 10 | [SuperDrug](https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [SuperDrug](https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d) | 3:06 |
-| 11 | [Must Confess](https://open.spotify.com/track/4bsjRXyZxMQjYhmtWMvFJr) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Must Confess](https://open.spotify.com/album/6couwEU2h4Pthm5P9YbOrM) | 3:05 |
+| 11 | [Must Confess](https://open.spotify.com/track/4bsjRXyZxMQjYhmtWMvFJr) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Must Confess](https://open.spotify.com/album/6couwEU2h4Pthm5P9YbOrM) | 3:04 |
 | 12 | [Crying At A Wedding](https://open.spotify.com/track/3KmkHQYrmOegSUBfC6EHNW) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Crying At A Wedding](https://open.spotify.com/album/6gfVyt1Bq5pCZ7iH6cwvec) | 4:01 |
 | 13 | [Shoot You Dead](https://open.spotify.com/track/4w6r4rPzXfaHibAiapztDP) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Shoot You Dead](https://open.spotify.com/album/2MFsbx44dyX52baKTlwd2S) | 2:44 |
 | 14 | [Trust My Gut](https://open.spotify.com/track/3t9eWYb5DIYLDHncJXkyeX) | [CHARLS](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [Trust My Gut](https://open.spotify.com/album/2wRLE6AEnQANakKaFOEgUX) | 2:53 |

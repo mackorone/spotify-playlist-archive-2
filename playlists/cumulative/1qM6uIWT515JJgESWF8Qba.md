@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-158 songs - 9 hr 46 min
+161 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Abandono](https://open.spotify.com/track/067BUqecd8VIUSQV3wBeTK) | [Beta Surf](https://open.spotify.com/artist/3yIfgsG4NczWN3DjwXI9Ws) | [Tiempos De Caos](https://open.spotify.com/album/2MWM1cKyInGYbi1JAzQcNL) | 2:43 | 2025-11-11 | 2025-12-28 |
 | [Abuse Me](https://open.spotify.com/track/6pXlghlS89h0rKaOTFV6MD) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Abuse Me](https://open.spotify.com/album/4mUsCsrkgTdmleGkxP8EH1) | 3:24 | 2025-11-04 | 2025-12-28 |
 | [ACT YOUR WAGE](https://open.spotify.com/track/6HcIr2p7VT5BrAdbManafE) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [ACT YOUR WAGE](https://open.spotify.com/album/21oePuj5IH2GlpGjJPfWnY) | 3:06 | 2025-11-04 | 2025-12-28 |
+| [Age of Aquarius](https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Age of Aquarius](https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k) | 3:27 | 2026-02-10 |  |
 | [All Alone](https://open.spotify.com/track/0k1C7p9IVaMMvrp4pAJ0f3) | [George Bacan](https://open.spotify.com/artist/1hsiZ1ezoIGPu8BdXX0MX0) | [All Alone](https://open.spotify.com/album/1EP1jaofCyz0PlwwuZuvzC) | 3:46 | 2025-10-29 | 2025-12-28 |
 | [Alright](https://open.spotify.com/track/206t9kiN5fvPUOCzIayQuV) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 3:24 | 2025-12-29 | 2026-01-21 |
 | [Another Road](https://open.spotify.com/track/240unn2aJKGurliwi6lJF2) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7), [Erim Ahmet](https://open.spotify.com/artist/2PmZza7fj5zPBKqLAchsjv) | [Another Road](https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB) | 4:13 | 2025-10-02 |  |
@@ -103,12 +104,14 @@
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2025-12-23 | 2026-01-21 |
 | [Mother Resides](https://open.spotify.com/track/0gn4YWc1ehOYzh8Nnf4bEz) | [Mother Resides](https://open.spotify.com/artist/6RnyzZjMLyEZ4WY96JmGJW) | [Mother Resides](https://open.spotify.com/album/3MFfahsn5gq7nrifvR0yRD) | 3:52 | 2025-12-16 | 2026-01-21 |
 | [My Favourite Game](https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [My Favourite Game](https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b) | 3:06 | 2025-11-04 |  |
+| [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2026-02-10 |  |
 | [Nastasia](https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Nastasia](https://open.spotify.com/album/4cZR65l4h4Xyf4IGVLQfmE) | 2:44 | 2026-01-10 | 2026-02-02 |
 | [New Age](https://open.spotify.com/track/6P7QFrSStHdpMGfgQKaYWV) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [New Age: The Age of Karyttah](https://open.spotify.com/album/2vjajlHIgc0ihbc6RP3Ri8) | 6:04 | 2025-11-11 |  |
 | [New Money \(OKB\)](https://open.spotify.com/track/6Ng2MIJihPGOqkCl6iKgwJ) | [GONGPATI](https://open.spotify.com/artist/3EcoH1mk7EzGfHUYtk4Zq8) | [Luka Kolektif](https://open.spotify.com/album/1kwx2yGZrJrVvBZbfiJQAW) | 4:03 | 2026-01-06 | 2026-02-02 |
 | [Night Crawls](https://open.spotify.com/track/1nhRmnr2vlqzE6B1rqChJx) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz), [Sick Century](https://open.spotify.com/artist/59hC0TFyMDFOLBEpYcsgFZ) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:40 | 2025-09-25 | 2026-01-18 |
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-13 | 2025-12-28 |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2025-11-21 | 2025-12-28 |
+| [Nosferatu I Am](https://open.spotify.com/track/7sZudFcX8k2nTqwFqMcsIL) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Nosferatu I Am](https://open.spotify.com/album/5Q3P0mQdUDQ8XRQ45CHz9j) | 3:21 | 2026-02-10 |  |
 | [Not Giving In](https://open.spotify.com/track/5LnDGWm6yvbYUnoL6oVcdk) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Not Giving In](https://open.spotify.com/album/0mY4ByCfrVvMUaBgJMZPwr) | 2:34 | 2025-10-23 |  |
 | [Old Sweat](https://open.spotify.com/track/17RHFuUZb9CrGjB4y8h4KJ) | [Manitou](https://open.spotify.com/artist/36i9KKE23xsb5zr83GjfXS) | [Old Sweat](https://open.spotify.com/album/4lsnFTfPKk4YwTGGiBdRKe) | 3:05 | 2025-11-08 | 2025-12-28 |
 | [Only a Few Cents More](https://open.spotify.com/track/1Qj36NqgQDgqPiBBJJqLOF) | [Jakob Vladimir](https://open.spotify.com/artist/3UztTm4JPy0pLeYT43H4c4) | [Only a Few Cents More](https://open.spotify.com/album/44wCOtiCQw9YGrVrNOWps2) | 4:39 | 2026-01-29 |  |

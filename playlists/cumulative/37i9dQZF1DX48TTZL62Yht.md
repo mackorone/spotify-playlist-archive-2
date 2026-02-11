@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Favourites](https://open.spotify.com/playlist/37i9dQZF1DX48TTZL62Yht)
 
-> The tracks you just keep pulling up\. Cover: Kendrick Lamar
+> The tracks you just keep pulling up\. Cover: Don Toliver
 
-834 songs - 1 day 19 hr 9 min
+835 songs - 1 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,7 +518,7 @@
 | [Ocean Spray](https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:44 | 2023-06-16 | 2024-04-19 |
 | [Off The Grid](https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 5:39 | 2022-03-11 | 2022-07-19 |
 | [Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:39 | 2022-07-28 | 2022-09-30 |
-| [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 | 2024-04-05 |  |
+| [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 | 2024-04-05 | 2026-02-11 |
 | [Okay](https://open.spotify.com/track/0VJXWgw0GWsprapvlpbuyu) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [Okay](https://open.spotify.com/album/4gCmNrnuUeWSj06B2gdsFc) | 3:12 | 2024-02-23 | 2024-02-29 |
 | [OKAY \(feat\. Vory\)](https://open.spotify.com/track/65UMCdooEyQ6dQHmbgwEVS) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [OKAY](https://open.spotify.com/album/5B7pNKgmdLGj1PJsyKwhGA) | 3:30 | 2022-01-07 | 2022-07-29 |
 | [On a Roll](https://open.spotify.com/track/17TrsHFROsZTyJJHt7ZJPU) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [On a Roll](https://open.spotify.com/album/1Mq1hN89NQCXHxy4rUvvKI) | 2:27 | 2022-04-29 | 2022-05-03 |
@@ -732,6 +732,7 @@
 | [thought i was playing](https://open.spotify.com/track/3XLbDUB5BX2WqL2qoAsvtb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:47 | 2022-04-01 | 2022-04-21 |
 | [Through The Wire](https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:41 | 2022-03-11 | 2022-04-21 |
 | [Timeless \(feat\. Playboi Carti & Doechii\) \- Remix](https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless \(Remix\)](https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv) | 3:48 | 2025-10-23 |  |
+| [Tiramisu](https://open.spotify.com/track/2GHKo6nrSjruvBEQbzD7Fw) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:18 | 2026-02-10 |  |
 | [To The Bone \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/4wRJHXHDJnKSPr9IVn0BFR) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 4:43 | 2023-02-10 | 2024-01-27 |
 | [TO THE MOON](https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx) | [Jnr Choi](https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [TO THE MOON](https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6) | 2:32 | 2022-04-01 | 2022-08-05 |
 | [Today \(feat\. Gunna\)](https://open.spotify.com/track/7z3rc7SCgjbAztt1cbXkVj) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:02 | 2022-05-06 | 2022-07-29 |

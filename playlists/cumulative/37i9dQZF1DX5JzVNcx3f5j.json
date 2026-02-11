@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "\u71e6\u7136 / \u751f\u304d\u304c\u3044",
+        "url": "https://open.spotify.com/album/5PTVBumincWhvUzUJiTwRY"
+      },
+      "artists": [
+        {
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307533,
+      "name": "\u71e6\u7136 - Sanzen",
+      "url": "https://open.spotify.com/track/1yn3Io5ULS4jLPSNvgZTpH"
+    },
+    {
+      "album": {
         "name": "\u73fe\u72b6\u30c7\u30a3\u30b9\u30c8\u30e9\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/2AGQq7BbAdfkHgnmkIMbNc"
       },

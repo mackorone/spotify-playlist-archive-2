@@ -1,18 +1,18 @@
 {
   "description": "Hottest Hindi music that India is listening to. Cover - Dhurandhar",
-  "num_followers": 3054449,
+  "num_followers": 3055762,
   "original_name": "Hot Hits Hindi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJavmIQhmIZROcG0pNtglxFAk15",
+  "snapshot_id": "AAAAAB1mH6j/elTGi+OEvRyvhma6yaA+",
   "tracks": [
     {
       "added_at": "2026-02-04 07:23:36",
       "album": {
-        "name": "Gehra Hua (From \"Dhurandhar\")",
-        "url": "https://open.spotify.com/album/0np0jHF7hJJmvAwMF6YSIK"
+        "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/13xOJZYU04lZIIHL8OQZEl"
       },
       "artists": [
         {
@@ -20,21 +20,33 @@
           "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Shahzad Ali",
+          "url": "https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5"
+        },
+        {
+          "name": "Subhadeep Das Chowdhury",
+          "url": "https://open.spotify.com/artist/3biZl77VIJSHTnwBnEZkkd"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        },
+        {
+          "name": "Roshan",
+          "url": "https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM"
         },
         {
           "name": "Irshad Kamil",
           "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         },
         {
-          "name": "Armaan Khan",
-          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+          "name": "Sahir Ludhianvi",
+          "url": "https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc"
         }
       ],
-      "duration_ms": 362400,
-      "name": "Gehra Hua (From \"Dhurandhar\")",
-      "url": "https://open.spotify.com/track/0Y6YW1552df031DjV8qBHv"
+      "duration_ms": 250860,
+      "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/7d5TUdbJumBuBoaH33jyfo"
     },
     {
       "added_at": "2026-02-04 07:23:36",
@@ -291,6 +303,34 @@
     {
       "added_at": "2026-02-04 07:23:36",
       "album": {
+        "name": "Gehra Hua (From \"Dhurandhar\")",
+        "url": "https://open.spotify.com/album/0np0jHF7hJJmvAwMF6YSIK"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        }
+      ],
+      "duration_ms": 362400,
+      "name": "Gehra Hua (From \"Dhurandhar\")",
+      "url": "https://open.spotify.com/track/0Y6YW1552df031DjV8qBHv"
+    },
+    {
+      "added_at": "2026-02-04 07:23:36",
+      "album": {
         "name": "Hum To Tere Hi Liye The (From \"O' Romeo\")",
         "url": "https://open.spotify.com/album/7p8l83GzCSkQic9yxPJmGR"
       },
@@ -439,46 +479,6 @@
       "duration_ms": 198875,
       "name": "Dil Lagana Mana Tha",
       "url": "https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX"
-    },
-    {
-      "added_at": "2026-02-04 07:23:36",
-      "album": {
-        "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
-        "url": "https://open.spotify.com/album/13xOJZYU04lZIIHL8OQZEl"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Sachdev",
-          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
-        },
-        {
-          "name": "Shahzad Ali",
-          "url": "https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5"
-        },
-        {
-          "name": "Subhadeep Das Chowdhury",
-          "url": "https://open.spotify.com/artist/3biZl77VIJSHTnwBnEZkkd"
-        },
-        {
-          "name": "Armaan Khan",
-          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
-        },
-        {
-          "name": "Roshan",
-          "url": "https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-        },
-        {
-          "name": "Sahir Ludhianvi",
-          "url": "https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc"
-        }
-      ],
-      "duration_ms": 250860,
-      "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
-      "url": "https://open.spotify.com/track/7d5TUdbJumBuBoaH33jyfo"
     },
     {
       "added_at": "2026-02-04 07:23:36",

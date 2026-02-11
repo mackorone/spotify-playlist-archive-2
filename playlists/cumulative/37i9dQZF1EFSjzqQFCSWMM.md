@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 5 hr 54 min
+126 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Issues](https://open.spotify.com/track/52jtTbKkCMKlOccyzhoNI9) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 2:20 | 2023-12-13 |  |
 | [Kiss & Tell](https://open.spotify.com/track/2wRNKZsOcrNOl44fCleWK1) | [Sainvil](https://open.spotify.com/artist/1nv9STc3b4snPq4Zcm1I4n) | [In Bad Shape](https://open.spotify.com/album/5ddLy0baF0N5AwcXx5Ubvi) | 2:52 | 2023-12-13 |  |
 | [Laying Low \(Cooking Up\)](https://open.spotify.com/track/33gqGbD6eQGMMlV7IPlDgk) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 3:48 | 2023-12-13 |  |
-| [LEGEND, Pt\. 1](https://open.spotify.com/track/1X2V62MMgJ19zDXPD2X2MJ) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 2:06 | 2023-12-13 |  |
+| [LEGEND, Pt\. 1](https://open.spotify.com/track/1X2V62MMgJ19zDXPD2X2MJ) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/5TjZaOPz0Jk38bfPR2UojD) | 2:06 | 2023-12-13 | 2026-02-11 |
+| [LEGEND, Pt\. 1](https://open.spotify.com/track/7hrHSXqKIz2kTN7N7gfk1Y) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [HERD IMMUNITY](https://open.spotify.com/album/2YGdr1a5c3V6mpC6pxvEYU) | 2:21 | 2026-02-10 |  |
 | [LET IT GO](https://open.spotify.com/track/6U0aE7POLQ0mQJd3gutMub) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [LVL 36](https://open.spotify.com/album/2en8CrkQChgJ8YJMyJPtmF) | 3:36 | 2023-12-13 |  |
 | [Lift Off](https://open.spotify.com/track/70H6NS297gvxm2TQAeMmQj) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Light Path 8](https://open.spotify.com/album/7fzkvNhOaUDsihQRGLl1K9) | 2:53 | 2023-12-13 |  |
 | [Like I'm Missy](https://open.spotify.com/track/4mVirqSP1RoQIsVszbI48b) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Like I'm Missy](https://open.spotify.com/album/2no35ZrZcU7BXNFnJ0Yk4k) | 2:38 | 2023-12-13 |  |

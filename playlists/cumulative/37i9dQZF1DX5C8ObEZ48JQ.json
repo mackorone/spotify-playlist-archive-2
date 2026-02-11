@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP?si=mFJS0fqxSRaiduyOBakQ3Q\">Priesst</a>. Artwork: Isu Kim. ",
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP?si=mFJS0fqxSRaiduyOBakQ3Q\">M\u016bmbi</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -3070,7 +3070,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 175058,
       "name": "Blue Line",
       "url": "https://open.spotify.com/track/7rgPWoN9kVjKdu0aFvfm0t"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 191999,
       "name": "Blurry Nights",
       "url": "https://open.spotify.com/track/0v7L4PS0CV3DXo2ZsD2eG9"
@@ -7861,6 +7861,24 @@
     },
     {
       "album": {
+        "name": "Fatherless Daughters",
+        "url": "https://open.spotify.com/album/3gku67Qp40ue91CBOpV5Za"
+      },
+      "artists": [
+        {
+          "name": "BEA",
+          "url": "https://open.spotify.com/artist/47T1oS5JM5PgJCsbPxetPO"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208140,
+      "name": "Fatherless Daughters",
+      "url": "https://open.spotify.com/track/7wITUPZXcfo90ws7WP27Ls"
+    },
+    {
+      "album": {
         "name": "Fayvuh",
         "url": "https://open.spotify.com/album/4ArZsOCUcZYOXD49dIUdQO"
       },
@@ -8496,6 +8514,24 @@
       "duration_ms": 168113,
       "name": "For Di Road",
       "url": "https://open.spotify.com/track/1ggEH1usgrs3dQvDKA75kG"
+    },
+    {
+      "album": {
+        "name": "for my dawgs",
+        "url": "https://open.spotify.com/album/7KoWVuHqvnQQ0wLU44B68u"
+      },
+      "artists": [
+        {
+          "name": "Amarii",
+          "url": "https://open.spotify.com/artist/3gKOKbH38pzUAC6c0ybcCY"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122879,
+      "name": "for my dawgs",
+      "url": "https://open.spotify.com/track/3sMKZMUWOc8F5U4vAcTWfr"
     },
     {
       "album": {
@@ -13446,6 +13482,24 @@
       "duration_ms": 160615,
       "name": "LETTER 222 DELE",
       "url": "https://open.spotify.com/track/5Mbo8cFWYs0Ww2MvoMWdwV"
+    },
+    {
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/7ckvmI7wind60KQOgVC7XR"
+      },
+      "artists": [
+        {
+          "name": "M\u016bmbi",
+          "url": "https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196071,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/3eyr49ZOXyE3KIUrKfEHhW"
     },
     {
       "album": {
@@ -20240,7 +20294,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 158400,
       "name": "Pull up",
       "url": "https://open.spotify.com/track/1JvqN0vUrSfB01bQoGexLn"
@@ -24233,6 +24287,24 @@
     },
     {
       "album": {
+        "name": "2 Love letters",
+        "url": "https://open.spotify.com/album/29Sr09HuEKEwAe1XkDu1WI"
+      },
+      "artists": [
+        {
+          "name": "Jack Apk",
+          "url": "https://open.spotify.com/artist/0dze6vYaglBcALjI2P2vrs"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Taking chances",
+      "url": "https://open.spotify.com/track/0gRsD3pcXt8Hef4z2f0aQQ"
+    },
+    {
+      "album": {
         "name": "Taking Things For Granted",
         "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
       },
@@ -26860,7 +26932,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 171897,
       "name": "WHAT CAN WE DO?",
       "url": "https://open.spotify.com/track/2b4elKTFnT6cpDqpGsj8p6"

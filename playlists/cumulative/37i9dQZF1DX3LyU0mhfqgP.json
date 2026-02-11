@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Songs from LGBTQIA+ artists. Cover: SENZA CRI",
+  "description": "Songs from LGBTQIA+ artists. Cover: Amani Smith",
   "name": "GLOW",
   "tracks": [
     {
@@ -4002,7 +4002,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 201796,
       "name": "boyfriend",
       "url": "https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk"
@@ -4334,6 +4334,24 @@
       "duration_ms": 238333,
       "name": "Bubblegum",
       "url": "https://open.spotify.com/track/3mzVxrnUHucPOOzlMHUKmj"
+    },
+    {
+      "album": {
+        "name": "Bullfight",
+        "url": "https://open.spotify.com/album/52gqdVklfKH4JFbBkAAHnY"
+      },
+      "artists": [
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183252,
+      "name": "Bullfight",
+      "url": "https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU"
     },
     {
       "album": {
@@ -5339,6 +5357,28 @@
     },
     {
       "album": {
+        "name": "ci\u0119\u017cki szmal",
+        "url": "https://open.spotify.com/album/5dEbAIybdNTbS0ivPaK7Jp"
+      },
+      "artists": [
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+        },
+        {
+          "name": "slotkakotka123",
+          "url": "https://open.spotify.com/artist/07eHPQI6wg41TPL5l6XTsR"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "ci\u0119\u017cki szmal",
+      "url": "https://open.spotify.com/track/1INz9FSfzPbCUiXBt2Qa3l"
+    },
+    {
+      "album": {
         "name": "Claustrophobia",
         "url": "https://open.spotify.com/album/2I4LO32KkvHyBHD4ugLSX8"
       },
@@ -5740,6 +5780,24 @@
       "duration_ms": 230073,
       "name": "Constellations - Piano Version",
       "url": "https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X"
+    },
+    {
+      "album": {
+        "name": "Contemplating You",
+        "url": "https://open.spotify.com/album/548tEzzOv6yKgaCyAAooca"
+      },
+      "artists": [
+        {
+          "name": "Jennarie",
+          "url": "https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185834,
+      "name": "Contemplating You",
+      "url": "https://open.spotify.com/track/6yo7B6kNrbHDFAppCxZzI1"
     },
     {
       "album": {
@@ -6311,6 +6369,24 @@
     },
     {
       "album": {
+        "name": "DANCEHEAD",
+        "url": "https://open.spotify.com/album/0kUkx3KVTvBHeuzhwAN7m2"
+      },
+      "artists": [
+        {
+          "name": "DEVAURA",
+          "url": "https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126269,
+      "name": "DANCEHEAD",
+      "url": "https://open.spotify.com/track/2tXjGN9f9LVYWC7RROErvn"
+    },
+    {
+      "album": {
         "name": "Something In The Air",
         "url": "https://open.spotify.com/album/7mlRzJRJTL7KJz11C267b3"
       },
@@ -6459,6 +6535,24 @@
     },
     {
       "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245358,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
+    },
+    {
+      "album": {
         "name": "Dear Child In Me",
         "url": "https://open.spotify.com/album/4lLHhVyxeo7A32FpVXvcnt"
       },
@@ -6506,7 +6600,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 360720,
       "name": "Dearly Missed",
       "url": "https://open.spotify.com/track/1N5MjhXcJmjKuaeLsuFpA9"
@@ -7483,6 +7577,24 @@
     },
     {
       "album": {
+        "name": "Du fick aldrig veta",
+        "url": "https://open.spotify.com/album/49h6aDYiEUdoDeug3kpnry"
+      },
+      "artists": [
+        {
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158713,
+      "name": "Du fick aldrig veta",
+      "url": "https://open.spotify.com/track/2DL4iJs1lotbvsEtQUUtuB"
+    },
+    {
+      "album": {
         "name": "Du lyg s\u00e5 lett",
         "url": "https://open.spotify.com/album/7I7xV8JNutYB3lnoCge3UQ"
       },
@@ -7912,7 +8024,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
@@ -10176,7 +10288,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 204481,
       "name": "GIRLFRIEND",
       "url": "https://open.spotify.com/track/3f0xr2Q1nb2Doss9q8MF1j"
@@ -10598,7 +10710,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 171389,
       "name": "God\u2019s A Raver",
       "url": "https://open.spotify.com/track/5iYZvfyws18ttpfJFXkq83"
@@ -10714,7 +10826,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 183821,
       "name": "Good Dream",
       "url": "https://open.spotify.com/track/4GsuTxzqtKbhEBb2gFYa3A"
@@ -13352,7 +13464,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 148973,
       "name": "I wanna see my friends dicks",
       "url": "https://open.spotify.com/track/7gkORxtKiWPlD3A0PVCyaN"
@@ -16964,7 +17076,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 239973,
       "name": "Love Who You Love",
       "url": "https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr"
@@ -19142,7 +19254,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 483692,
       "name": "Nettles",
       "url": "https://open.spotify.com/track/02kTd6gB8IsBwPygDTHE4c"
@@ -20164,6 +20276,24 @@
       "duration_ms": 201543,
       "name": "offline",
       "url": "https://open.spotify.com/track/4XaHwwjBXQ4yBKpR6P81jw"
+    },
+    {
+      "album": {
+        "name": "ofiarne koz\u0142y",
+        "url": "https://open.spotify.com/album/7w5jjgy1n68RFAqcy4Nzm5"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169054,
+      "name": "ofiarne koz\u0142y",
+      "url": "https://open.spotify.com/track/29cqBX8sRpCaRFpvOXWgOd"
     },
     {
       "album": {
@@ -21622,7 +21752,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 197159,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/5dt3P1BESu104KhUtVMIV4"
@@ -23498,7 +23628,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 138914,
       "name": "RIP KP",
       "url": "https://open.spotify.com/track/6w8kcJNEIaRjfvRYPHsmnk"
@@ -26162,7 +26292,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 201173,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/6IBTI6u7tVNtWojUHnO4Ap"
@@ -28319,6 +28449,24 @@
     },
     {
       "album": {
+        "name": "trans",
+        "url": "https://open.spotify.com/album/2tQUu7ad2Yky6jLQkHMcH2"
+      },
+      "artists": [
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139086,
+      "name": "trans",
+      "url": "https://open.spotify.com/track/6CTCBZBkB6Lomh0akgkwjg"
+    },
+    {
+      "album": {
         "name": "Th\u00e9or\u00e8me",
         "url": "https://open.spotify.com/album/02jbw685jrJePuPIl9PppC"
       },
@@ -30053,6 +30201,24 @@
     },
     {
       "album": {
+        "name": "Everything\u2019s Built To Last",
+        "url": "https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk"
+      },
+      "artists": [
+        {
+          "name": "LUKAS OSCAR",
+          "url": "https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168393,
+      "name": "Whats Next",
+      "url": "https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN"
+    },
+    {
+      "album": {
         "name": "Where Do All The Good Kids Go?",
         "url": "https://open.spotify.com/album/0joBCSKi5bl55YSbvMSVd3"
       },
@@ -30274,6 +30440,24 @@
       "duration_ms": 146559,
       "name": "wiggy",
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
+    },
+    {
+      "album": {
+        "name": "Winston Red",
+        "url": "https://open.spotify.com/album/1OVx6jRXXAy1YKyNqcb6lW"
+      },
+      "artists": [
+        {
+          "name": "Maura Margol",
+          "url": "https://open.spotify.com/artist/0LP7cT2bJGCveprlbSA48j"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Winston Red",
+      "url": "https://open.spotify.com/track/4ZMcZU0dHJXXefaVrvWLb1"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: AYLIVA
+> 50 Hits in einer Playlist! Cover: Bad Bunny
 
 315 songs - 15 hr 2 min
 
@@ -38,7 +38,7 @@
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-09-10 | 2024-09-18 |
 | [Aye](https://open.spotify.com/track/6DbfhN2HIColQgffTlInqh) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [OnTouRage \- EP](https://open.spotify.com/album/4aYXzIUkoPjX7bY07Bk2xL) | 3:02 | 2025-04-08 | 2025-06-04 |
 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 | 2025-04-04 | 2025-11-12 |
-| [Back outside](https://open.spotify.com/track/39Un0tg79MUAr52bLTZEhk) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Rookie de l'année](https://open.spotify.com/album/7DnUxvmq4OTTlAE88P7TAq) | 2:01 | 2025-11-04 |  |
+| [Back outside](https://open.spotify.com/track/39Un0tg79MUAr52bLTZEhk) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Rookie de l'année](https://open.spotify.com/album/7DnUxvmq4OTTlAE88P7TAq) | 2:01 | 2025-11-04 | 2026-02-11 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-25 |  |
 | [bad bunnies](https://open.spotify.com/track/4aAZTaXHlm625nZhF6Zr12) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [bad bunnies](https://open.spotify.com/album/3O1nygq0m8rJvP1G8a8uHN) | 2:17 | 2025-05-06 | 2025-08-06 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-11-12 | 2025-05-14 |
@@ -84,7 +84,7 @@
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-10 | 2025-05-07 |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-10-16 | 2024-11-27 |
 | [Dracula](https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:25 | 2025-10-22 | 2026-01-15 |
-| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-14 | 2025-06-27 |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-14 |  |
 | [eehhhyyy](https://open.spotify.com/track/1cXo8i9dgutdqjhjz3Zwqq) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [dafür bin ich frei EP](https://open.spotify.com/album/29zZ3SXwoesoaXX6PbmPFW) | 2:15 | 2024-09-10 | 2025-01-29 |
 | [Ein Lied für dich](https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [21 Gramm](https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK) | 3:01 | 2025-09-02 | 2025-10-02 |
 | [EIN TEIL VON MIR](https://open.spotify.com/track/0JtDPZDAIEIZbE1y7aSjTB) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [EIN TEIL VON MIR](https://open.spotify.com/album/04NdFbXkgiLxxemKACJIHd) | 2:45 | 2025-02-04 | 2025-04-30 |

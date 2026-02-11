@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 259000,
       "name": "Amor Joven",
       "url": "https://open.spotify.com/track/1sYYo38zOx1PjlnBe3PWn2"
@@ -3772,7 +3772,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-18",
+      "date_removed": null,
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -4582,7 +4582,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 172875,
       "name": "Beso en La Boca",
       "url": "https://open.spotify.com/track/7BnntICcm45WLJm911lQpA"
@@ -5326,7 +5326,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 275293,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/5oGK9Yr2EzKMb27Jpr5hpL"
@@ -7793,6 +7793,24 @@
     },
     {
       "album": {
+        "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
+        "url": "https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189223,
+      "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
+      "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
+    },
+    {
+      "album": {
         "name": "CIBELES",
         "url": "https://open.spotify.com/album/5TeupQ9L12ArCFZk5AewLa"
       },
@@ -10136,7 +10154,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 133564,
       "name": "Dally",
       "url": "https://open.spotify.com/track/6HHhPaHTC2aJt0CKtMlQCc"
@@ -18081,6 +18099,24 @@
     },
     {
       "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/0wAf1LaMkHoLN7QL3Dv5fh"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/5IXk34xSm6rxNgXkCveC3r"
+    },
+    {
+      "album": {
         "name": "Cumbia a 2600 Metros",
         "url": "https://open.spotify.com/album/6e2oItM3y769qBv55PxKsf"
       },
@@ -21294,10 +21330,28 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 193800,
       "name": "Las Mu\u00f1equitas",
       "url": "https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f"
+    },
+    {
+      "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Last of a Dying Breed",
+      "url": "https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q"
     },
     {
       "album": {
@@ -30194,7 +30248,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 208461,
       "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
       "url": "https://open.spotify.com/track/5l4Gq3UC0dHKSExIf5xD9N"
@@ -30702,7 +30756,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 105454,
       "name": "PALETA",
       "url": "https://open.spotify.com/track/7iPPva4YhNLriWcI4EP4MJ"
@@ -36988,7 +37042,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 424615,
       "name": "So what we get drunk? - Extended Version",
       "url": "https://open.spotify.com/track/231Crd29pPGdweClh2CoVO"
@@ -38044,7 +38098,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
@@ -40592,6 +40646,32 @@
       "duration_ms": 192064,
       "name": "Todo Lo Fue",
       "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
+    },
+    {
+      "album": {
+        "name": "CANDU DOMINGUEZ x G SONY / Enganchado en Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "url": "https://open.spotify.com/album/1JVA5B7Y208ax794aU9fw5"
+      },
+      "artists": [
+        {
+          "name": "La Juntada De Los Artistas",
+          "url": "https://open.spotify.com/artist/7i3bAOrxjMPncmyUHRvMvN"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122253,
+      "name": "Todo lo Perd\u00ed Por T\u00ed / Lost on You",
+      "url": "https://open.spotify.com/track/1vRd1vTXbTrMzDhkelFM7J"
     },
     {
       "album": {

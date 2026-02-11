@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-764 songs - 2 day 23 hr 50 min
+765 songs - 2 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 |  |
 | [Kurzstrecke](https://open.spotify.com/track/6AowzR1raQ3DLpBkrsQsNp) | [Function](https://open.spotify.com/artist/6eu3TBnYM3SrkUU59SFhgp) | [Existenz](https://open.spotify.com/album/6y5DYvvHhDbNQfonF1Ykc3) | 6:43 | 2020-01-03 | 2020-01-04 |
 | [Last Bloom](https://open.spotify.com/track/00om2cgsHAwhdbpACwbAke) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Last Bloom](https://open.spotify.com/album/6UC5SN5ycYhBgNk6Z5SfTT) | 5:53 | 2019-09-19 | 2020-01-04 |
-| [Last Forever](https://open.spotify.com/track/17DObRgarppeleRuJJOV8q) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Last Forever](https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C) | 5:09 | 2025-08-08 |  |
+| [Last Forever](https://open.spotify.com/track/17DObRgarppeleRuJJOV8q) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Last Forever](https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C) | 5:09 | 2025-08-08 | 2026-02-11 |
 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 | 2024-05-24 |  |
 | [Last Song](https://open.spotify.com/track/6pvI93SNbtPTaWQ3OvvFmV) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Buenos Aires](https://open.spotify.com/album/5Ks5CvTHpCOc7m08HkxVpn) | 7:42 | 2019-08-15 | 2021-03-22 |
 | [Lean Into Light](https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Lean Into Light](https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO) | 3:25 | 2024-12-20 | 2025-01-26 |
@@ -621,6 +621,7 @@
 | [Still Breathing](https://open.spotify.com/track/3gylkATtgG7OeR3HrMhZVv) | [Turker](https://open.spotify.com/artist/4F52JqVRektZaOmMqLrun2) | [Still Breathing](https://open.spotify.com/album/4Rhq17P4Ia4SMTc02thq2t) | 5:02 | 2021-10-14 | 2022-07-16 |
 | [Stole the Night \- Oliver Koletzki Remix](https://open.spotify.com/track/4vZ6U4BYEKeuyhbSVofLTS) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Remix Tales](https://open.spotify.com/album/1KFqkjrqm3LwHzqScoKd5u) | 7:19 | 2019-08-06\* | 2021-05-28 |
 | [Stone Flower \- Original](https://open.spotify.com/track/1QrxggFof36TcpeREbDAXI) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ) | [Stone Flower](https://open.spotify.com/album/3ZoEajMzgGXVRdiheQAVas) | 7:48 | 2019-08-06\* | 2020-01-26 |
+| [Strange](https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Strange](https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY) | 3:44 | 2026-02-06 |  |
 | [Subterranean](https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Subterranean](https://open.spotify.com/album/6cw5camBc9Lf9t4BS5NEDn) | 3:30 | 2023-11-11 | 2026-01-15 |
 | [Sun Went Down, Sky Went Dark](https://open.spotify.com/track/6T3CkMG9pCajGGML8ArGJo) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly), [Senes](https://open.spotify.com/artist/0KwCPR1o24HHYihNcZTRw1) | [Sun Went Down, Sky Went Dark](https://open.spotify.com/album/2d8InkYS054gRrEkp64rH0) | 4:12 | 2025-07-18 |  |
 | [Sunshine](https://open.spotify.com/track/5asbG4btHJ2h2T4F1EtNK8) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Sunshine](https://open.spotify.com/album/3rbbxT58I3txO7IifNVnPc) | 3:32 | 2025-07-11 | 2025-10-07 |

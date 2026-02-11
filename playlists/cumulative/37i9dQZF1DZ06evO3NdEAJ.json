@@ -482,10 +482,32 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 166151,
       "name": "Directo Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3MzG7wBDkP0K7mwCFxbP2W"
+    },
+    {
+      "album": {
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/29xqfiJEpdsEbsuuyH1Tde"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        },
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166338,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4K0te6vi1ugbtcURotuLeU"
     },
     {
       "album": {
@@ -738,7 +760,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 149825,
       "name": "Intento Diez Mil",
       "url": "https://open.spotify.com/track/2j17wb2STjaPtvddrv82ok"
@@ -952,7 +974,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 249777,
       "name": "Mi Forma de Sentir",
       "url": "https://open.spotify.com/track/32BMeAx8Gf7cWbUuINvqn5"

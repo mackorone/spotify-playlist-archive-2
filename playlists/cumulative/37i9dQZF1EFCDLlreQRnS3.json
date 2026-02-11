@@ -1333,6 +1333,24 @@
     },
     {
       "album": {
+        "name": "Midnight Revelator",
+        "url": "https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs"
+      },
+      "artists": [
+        {
+          "name": "Mike Schmid",
+          "url": "https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253565,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5"
+    },
+    {
+      "album": {
         "name": "Only Love, L (More Love Edition)",
         "url": "https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK"
       },

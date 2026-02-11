@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: Dry Cleaning
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,314 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,329 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 54 | [Barn Boiler](https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [The Clip](https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i) | 2:45 |
 | 55 | [Deep Clay](https://open.spotify.com/track/0BsFIzlsXRmseeQ44iHATK) | [Pile](https://open.spotify.com/artist/44pUNjqg4mExLyFHnB3Bqf) | [Sunshine and Balance Beams](https://open.spotify.com/album/0mlgaAp88EcwGbKfiq7xo4) | 4:13 |
 | 56 | [Van Goes](https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:33 |
-| 57 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |
-| 58 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
-| 59 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
+| 57 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
+| 58 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |
+| 59 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN) | 2:57 |
 | 60 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
-| 61 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 |
-| 62 | [Demon Compass](https://open.spotify.com/track/5cJXzg4SyMjBsmIWttHIAb) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Demon Compass \(Deluxe\)](https://open.spotify.com/album/0OdlKEuLYqLiIsWUGcmUip) | 3:30 |
+| 61 | [Demon Compass](https://open.spotify.com/track/5cJXzg4SyMjBsmIWttHIAb) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Demon Compass \(Deluxe\)](https://open.spotify.com/album/0OdlKEuLYqLiIsWUGcmUip) | 3:30 |
+| 62 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 |
 | 63 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 |
 | 64 | [Like A Lesson](https://open.spotify.com/track/0yZ8L3IeepqzT7ydct5DGQ) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:19 |
 | 65 | [One More Trip Around The Sun](https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [One More Trip Around The Sun](https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh) | 4:32 |
@@ -82,14 +82,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 72 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 |
 | 73 | [3AM](https://open.spotify.com/track/4luxOEfutsNhpklD0kox93) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [3AM](https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA) | 4:10 |
 | 74 | [O, My Love](https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [O, My Love](https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD) | 2:58 |
-| 75 | [16/25](https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [16/25](https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9) | 2:31 |
-| 76 | [Circe](https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [How To Be Cool At Parties/Circe](https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe) | 3:20 |
+| 75 | [Circe](https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [How To Be Cool At Parties/Circe](https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe) | 3:20 |
+| 76 | [16/25](https://open.spotify.com/track/1uIRlFoNdyc8CBBBXFO9Yk) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [16/25](https://open.spotify.com/album/4znYlCMGbRfMp3nwJfzir9) | 2:31 |
 | 77 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
 | 78 | [The Vegas Suite](https://open.spotify.com/track/304fddzE78zrBtZv42biyB) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 3:43 |
 | 79 | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/album/5gznrt3F3a9huMKqdzxPPN) | 3:57 |
 | 80 | [On The Road](https://open.spotify.com/track/0RO5cr4TnZWiZipvpQUeuX) | [Habibi](https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz) | [Dreamachine](https://open.spotify.com/album/4unDF4XrmmKS7HbbfYpfmB) | 4:16 |
-| 81 | [Mind's a Lie](https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Mind's a Lie](https://open.spotify.com/album/2j3RJGifmBs9gRfkMWbVmn) | 4:46 |
-| 82 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 |
+| 81 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 |
+| 82 | [Mind's a Lie](https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Mind's a Lie](https://open.spotify.com/album/2j3RJGifmBs9gRfkMWbVmn) | 4:46 |
 | 83 | [Le feu](https://open.spotify.com/track/2pVgoxeZhnCLyLDac0wc3Q) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Feu de garde](https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn) | 3:50 |
 | 84 | [Be A Big Girl](https://open.spotify.com/track/3tdBEe2FBbWJpWzaSyfKto) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Be A Big Girl](https://open.spotify.com/album/3M48990TSLoCplWuNssAAs) | 2:50 |
 | 85 | [GET OFF MY WAVE](https://open.spotify.com/track/0TVYQ6ueruXc4jtAOIWstD) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [FIX ME / GET OFF MY WAVE](https://open.spotify.com/album/5OA0rkVY8HljR7QEuFIqXl) | 2:18 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 95 | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/track/6S0qDB8PnXMyU5xhsYxcGI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/album/3tUsrj0Qe62M6wz71Ulbh0) | 2:24 |
 | 96 | [Maybe Maybe](https://open.spotify.com/track/256MAkjR6G8bj14WM3whE0) | [Slothrust](https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4) | [I Promise](https://open.spotify.com/album/0OICGkWLi8mHWn6fQIOPpo) | 2:53 |
 | 97 | [Worship The Whip](https://open.spotify.com/track/1Lt1SJdkdFOHqwxkEIGJan) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Mommy](https://open.spotify.com/album/4eibRhcgxtRIytvG87I8Ay) | 3:01 |
-| 98 | [Goon Show](https://open.spotify.com/track/7Exj4IIvicWakJsjdUDoXp) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Goon Show](https://open.spotify.com/album/4HZk7i5XbdWNM0pgiXm2Ut) | 5:06 |
+| 98 | [King](https://open.spotify.com/track/1zQvjaJSLOe4ApyRkrjnPW) | [Dikembe](https://open.spotify.com/artist/4VZU5Lb3hP2j1bOpZ2JdKi) | [King](https://open.spotify.com/album/0CMmcZsDgKLdxMJ1IqRA5h) | 3:41 |
 | 99 | [Break the Tension](https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Break the Tension](https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo) | 3:45 |
-| 100 | [King](https://open.spotify.com/track/1zQvjaJSLOe4ApyRkrjnPW) | [Dikembe](https://open.spotify.com/artist/4VZU5Lb3hP2j1bOpZ2JdKi) | [King](https://open.spotify.com/album/0CMmcZsDgKLdxMJ1IqRA5h) | 3:41 |
+| 100 | [Goon Show](https://open.spotify.com/track/7Exj4IIvicWakJsjdUDoXp) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Goon Show](https://open.spotify.com/album/4HZk7i5XbdWNM0pgiXm2Ut) | 5:06 |
 
 Snapshot ID: `AAAAAE67A9AiAkaCei4zIXZ7BcrJM5+K`

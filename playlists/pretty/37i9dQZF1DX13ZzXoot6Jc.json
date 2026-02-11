@@ -1,6 +1,6 @@
 {
   "description": "Luke Combs and Country hits that will have you singing every word.",
-  "num_followers": 451334,
+  "num_followers": 451328,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Bar None",
-        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 173064,
-      "name": "Bar None",
-      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Don\u2019t Mind If I Do (ft. Ella Langley)",
         "url": "https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 218946,
       "name": "Don\u2019t Mind If I Do (ft. Ella Langley)",
       "url": "https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Bar None",
+        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 173064,
+      "name": "Bar None",
+      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -883,22 +883,18 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6WWmYtlj6smtLFnfUf0Xny"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 156721,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/1SviOIgEA8sEPVgYEdCpnh"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -991,18 +987,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6WWmYtlj6smtLFnfUf0Xny"
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/33EhLLKE9Bo2v3ITgAxvuW"
       },
       "artists": [
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/1SviOIgEA8sEPVgYEdCpnh"
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
     },
     {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
-        "name": "Leave Me Too",
-        "url": "https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 191928,
-      "name": "Leave Me Too",
-      "url": "https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD"
-    },
-    {
       "added_at": "2026-01-23 05:01:12",
       "album": {
         "name": "Backfire",
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Pretty Little Poison",
-        "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
+        "name": "Leave Me Too",
+        "url": "https://open.spotify.com/album/6c3KEWO4IGcHfPAekbiarD"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 183040,
-      "name": "Some Whiskey",
-      "url": "https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev"
+      "duration_ms": 191928,
+      "name": "Leave Me Too",
+      "url": "https://open.spotify.com/track/06CYe9F4IaMmSTAswOHQDD"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1519,6 +1503,22 @@
       "duration_ms": 218280,
       "name": "Country's Cool Again",
       "url": "https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Pretty Little Poison",
+        "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Some Whiskey",
+      "url": "https://open.spotify.com/track/5Z48gU2EpgzhECkuuXp4Ev"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1571,22 +1571,6 @@
       "duration_ms": 210026,
       "name": "Can You Die From a Broken Heart - feat. Avril Lavigne",
       "url": "https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK"
-    },
-    {
-      "added_at": "2025-12-12 19:32:52",
-      "album": {
-        "name": "Later Tonight",
-        "url": "https://open.spotify.com/album/05TVIc1IFYdlBur7QIqMBx"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Later Tonight",
-      "url": "https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1653,20 +1637,20 @@
       "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
     },
     {
-      "added_at": "2025-07-04 04:00:22",
+      "added_at": "2025-12-12 19:32:52",
       "album": {
-        "name": "Good News Sold",
-        "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
+        "name": "Later Tonight",
+        "url": "https://open.spotify.com/album/05TVIc1IFYdlBur7QIqMBx"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 203432,
-      "name": "Good News Sold",
-      "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
+      "duration_ms": 162333,
+      "name": "Later Tonight",
+      "url": "https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1683,6 +1667,22 @@
       "duration_ms": 162733,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Good News Sold",
+        "url": "https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 203432,
+      "name": "Good News Sold",
+      "url": "https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb"
     },
     {
       "added_at": "2025-07-04 04:00:22",

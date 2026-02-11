@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 380 songs - 23 hr 20 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 381 songs - 23 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -388,5 +388,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 378 | [Doubie Ashtray](https://open.spotify.com/track/4uwO6u45R7sG4giwhG5AT0) | [Devin The Dude](https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi) | [Just Tryin ta Live](https://open.spotify.com/album/10Go46gFX8CCawdQgaObfS) | 5:17 |
 | 379 | [F.I.L.O\. \(feat\. Shing02\)](https://open.spotify.com/track/43pWChQ7AOab9wlSGy0dN6) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Metaphorical Music](https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637) | 3:31 |
 | 380 | [Getting Out The Game](https://open.spotify.com/track/6cft8Dv0XXzwYrX0PXlUQ1) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Take'Em To The Cleaners](https://open.spotify.com/album/3ML87nypNxX5ueuol1OMF0) | 3:10 |
+| 381 | [We Fight/We Love \- Remix](https://open.spotify.com/track/3BmuxXUPPGZZR2dJcTORRX) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Q Tip](https://open.spotify.com/artist/2qUxYgqkkp4aVhSUgzFvrb) | [Movies On Demand](https://open.spotify.com/album/23ZTlzMpNcnYYHKmqCsWnQ) | 3:49 |
 
-Snapshot ID: `AAAftfKakdmUYy0M+yaPqE7ojyZ4oTrt`
+Snapshot ID: `AAAftvRAUcLQLtf7GkxcI24WWqYv3VAs`

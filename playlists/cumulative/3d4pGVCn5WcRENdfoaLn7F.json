@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "El Arte de Perderse",
+        "url": "https://open.spotify.com/album/1feLfZkAWelzbUVsaoyux2"
+      },
+      "artists": [
+        {
+          "name": "normand\u00eda",
+          "url": "https://open.spotify.com/artist/0KSutzhXRytRGdfEsGWN1M"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170200,
+      "name": "El Arte de Perderse",
+      "url": "https://open.spotify.com/track/1lQ1oIQJjfIRnT16EBx4yU"
+    },
+    {
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F"
       },

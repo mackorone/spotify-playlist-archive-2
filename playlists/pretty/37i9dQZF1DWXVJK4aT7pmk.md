@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover: Jasmine Sandlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,490,322 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,490,949 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 10 | [Faqeeran \- Live](https://open.spotify.com/track/7DlNgLpxX3gPh3tzqrY7tL) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [MUSAFIR \(Live\)](https://open.spotify.com/album/6IAfM7GKWU0oKM2XNQv6qI) | 4:42 |
 | 11 | [Tutor](https://open.spotify.com/track/2KQBM1PYjg2ZpeA5xbTjrJ) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Simpsons](https://open.spotify.com/album/30yeAdL28aqV7OH3gPV80K) | 3:20 |
 | 12 | [Lutt Le Gaya](https://open.spotify.com/track/5pKQlv0gppPe6PYKqCPpvD) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu) | [Dhurandhar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6E3Ds14TPBbZKTUGprotN6) | 4:13 |
-| 13 | [Piche Tere](https://open.spotify.com/track/4ZWoJ4tRi74mHHnItB3k9h) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Piche Tere](https://open.spotify.com/album/2eWZ4GdGxtyWqyWOpNuhpb) | 1:59 |
+| 13 | [Piche Tere](https://open.spotify.com/track/4ZWoJ4tRi74mHHnItB3k9h) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Piche Tere](https://open.spotify.com/album/2eWZ4GdGxtyWqyWOpNuhpb) | 2:00 |
 | 14 | [Water](https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Water](https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE) | 3:16 |
 | 15 | [Superstar](https://open.spotify.com/track/7eQoMQdE4JqngwYDOqLBU0) | [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [Rita Kim](https://open.spotify.com/artist/5Xtuk7kRz7Y5qVOlaB7kml) | [ONE FROM THE CROWD](https://open.spotify.com/album/5KOxI4N3j6nWS1OiEUm8Ab) | 3:01 |
 | 16 | [Deewane](https://open.spotify.com/track/0S4PcH3EYQYIeLs6nLOpF1) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Daaku](https://open.spotify.com/artist/0Gk0DXsojuXvKXROsCbO0e) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:26 |

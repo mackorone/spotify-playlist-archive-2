@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Iron & Wine
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,186 likes - 149 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,183 likes - 149 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 23 | [Another Time](https://open.spotify.com/track/7BsRJECC3NmMLOBR4zNcVh) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Another Time](https://open.spotify.com/album/6PbLj6Qoo928owJBKDwele) | 3:39 |
 | 24 | [Rain When I Die](https://open.spotify.com/track/1XjlGjGGQYCR1FgV9ZWGyv) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Covers, Pt.4](https://open.spotify.com/album/41Ub2CLU6urzFOqRY4o36a) | 4:45 |
 | 25 | [Fire Escape \- Ghost No\. 4](https://open.spotify.com/track/3NdLQDF4eV3uWfElyQFrT1) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Fire Escape \(Ghost No\. 4\)](https://open.spotify.com/album/1fqrs3x3eWRGVJoNuBEUv2) | 3:34 |
-| 26 | [Must Confess](https://open.spotify.com/track/4bsjRXyZxMQjYhmtWMvFJr) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Must Confess](https://open.spotify.com/album/6couwEU2h4Pthm5P9YbOrM) | 3:05 |
+| 26 | [Must Confess](https://open.spotify.com/track/4bsjRXyZxMQjYhmtWMvFJr) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Must Confess](https://open.spotify.com/album/6couwEU2h4Pthm5P9YbOrM) | 3:04 |
 | 27 | [Against The Dying Of The Light](https://open.spotify.com/track/1PaWcBii4kigvhEG46a7QP) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/7cTCFQBgZ7ywhyp44I82FI) | 2:28 |
 | 28 | [I Don't Care](https://open.spotify.com/track/6ryklsC1VIlTSV7QtWh24G) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [I Don't Care](https://open.spotify.com/album/4sDwA8aZsjRN9gSotJQwYa) | 3:49 |
 | 29 | [Morning Gum](https://open.spotify.com/track/3qwfR7rsNDkrTFoJcSjFu5) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [If You Go There, I Hope You Find It](https://open.spotify.com/album/0sEoqzaQ6ELIrtvoRnqM34) | 3:43 |

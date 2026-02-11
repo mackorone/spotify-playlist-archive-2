@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-675 songs - 1 day 9 hr 18 min
+676 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2022-02-18 | 2025-01-30 |
 | [Hear Me Say](https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Hear Me Say](https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V) | 3:10 | 2022-01-07 | 2022-03-12 |
 | [HEAT](https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [HEAT](https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG) | 3:37 | 2024-06-21 | 2025-10-18 |
-| [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 | 2025-12-05 |  |
+| [Heaven](https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [GHOST WORLD](https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK) | 3:25 | 2025-12-05 | 2026-02-11 |
 | [Heaven](https://open.spotify.com/track/6p8uRRGziFLcA3QDvWxEPM) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Heaven](https://open.spotify.com/album/3L9kENKyJtn4kaPV6zP89y) | 2:58 | 2022-05-06 | 2023-04-22 |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/6FAmtZoa7jq6bH9GBjCRkM) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Heaven Is A Place On Earth](https://open.spotify.com/album/12aiQyL5DQ1lPNwOqfiiFM) | 2:45 | 2024-02-16 | 2025-04-16 |
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-04-15 | 2025-01-30 |
@@ -415,6 +415,7 @@
 | [My Pony](https://open.spotify.com/track/1UaaVPtlo795n1hWqHpOYS) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [My Pony](https://open.spotify.com/album/3DTLDnxeGFdJZSME6WYgE1) | 2:33 | 2022-04-08 | 2022-09-13 |
 | [Nah \(feat\. Sinead Harnett\)](https://open.spotify.com/track/1xaOhiFM7q5Yi2H1v5WUS2) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Nah \(feat\. Sinead Harnett\)](https://open.spotify.com/album/2Cla1wK4qkDCdrVaZgeTFk) | 2:49 | 2022-01-07 | 2022-05-07 |
 | [Narco](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Narco](https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK) | 3:28 | 2022-08-17 | 2024-03-16 |
+| [neck](https://open.spotify.com/track/6KrrcOQiX7NQ4h038wKTUy) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [neck](https://open.spotify.com/album/7E2mR54aGGrcACLRBWfOS7) | 3:40 | 2026-02-06 |  |
 | [Need U \- Spotify Singles](https://open.spotify.com/track/6Ww581O9pklqs42MN4Da6q) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Need U \- Spotify Singles](https://open.spotify.com/album/2JbOWYXBHbLThB1ug7cuxF) | 2:34 | 2022-04-29 | 2022-07-29 |
 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 | 2022-09-12 | 2022-10-08 |
 | [Neon Lights](https://open.spotify.com/track/6X6CUqG6rW8rtGXdzyCOJH) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Neon Lights](https://open.spotify.com/album/6bG9tr48IeOD39f7kaSnLt) | 2:10 | 2022-01-07 | 2022-04-16 |

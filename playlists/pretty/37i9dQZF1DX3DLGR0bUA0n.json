@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. GERARDO D\u00cdAZ Y SU GERARQU\u00cdA en portada. ",
-  "num_followers": 89692,
+  "num_followers": 89739,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2025-12-05 06:00:31",
       "album": {
+        "name": "Era Casada",
+        "url": "https://open.spotify.com/album/4QZzs9QW50sVyXsBymf0Rv"
+      },
+      "artists": [
+        {
+          "name": "Triny La Leyenda",
+          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "El Rey De Oros",
+      "url": "https://open.spotify.com/track/1XOdCS8q1GGjOJR90Kxz3c"
+    },
+    {
+      "added_at": "2025-12-05 06:00:31",
+      "album": {
         "name": "Guachita Hermosa (En Vivo)",
         "url": "https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 209126,
       "name": "Guachita Hermosa - En Vivo",
       "url": "https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB"
-    },
-    {
-      "added_at": "2025-12-05 06:00:31",
-      "album": {
-        "name": "Era Casada",
-        "url": "https://open.spotify.com/album/4QZzs9QW50sVyXsBymf0Rv"
-      },
-      "artists": [
-        {
-          "name": "Triny La Leyenda",
-          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "El Rey De Oros",
-      "url": "https://open.spotify.com/track/1XOdCS8q1GGjOJR90Kxz3c"
     },
     {
       "added_at": "2025-12-05 06:00:31",

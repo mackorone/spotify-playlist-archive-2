@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "album": {
         "name": "Atje Voor De Sfeer - En Andere Sfeermakers",
         "url": "https://open.spotify.com/album/2DY0nKAYHOsQZrg6LlylHo"
       },
@@ -1342,6 +1360,32 @@
       "duration_ms": 177451,
       "name": "Bang Zijn In Het Donker",
       "url": "https://open.spotify.com/track/356E1rD0ZV9BVa3ErACR7R"
+    },
+    {
+      "album": {
+        "name": "Bare Minimum (Starboy)",
+        "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Bare Minimum (Starboy)",
+      "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
     },
     {
       "album": {
@@ -3172,7 +3216,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 172796,
       "name": "Cupkeek",
       "url": "https://open.spotify.com/track/400g9PdnTjF15IYy947Blq"
@@ -3825,6 +3869,32 @@
     },
     {
       "album": {
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/36atWUXll5o1tohRI6NCUz"
+      },
+      "artists": [
+        {
+          "name": "Only Chris",
+          "url": "https://open.spotify.com/artist/26nVix33ggpJLOx8KKNB0G"
+        },
+        {
+          "name": "MALARKEY",
+          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
+        },
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139687,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/3XBPAGKzYJ3rrAuyaxth0j"
+    },
+    {
+      "album": {
         "name": "Do You Mind (Crazy Cousins Remix)",
         "url": "https://open.spotify.com/album/0nAG55NlcJhwxHk7pF1DKx"
       },
@@ -4360,7 +4430,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 184150,
       "name": "Euhj!",
       "url": "https://open.spotify.com/track/2Og1hNc7k1ta1vUu1vnwEc"
@@ -4764,7 +4834,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 134702,
       "name": "FIGURED YOU OUT",
       "url": "https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR"
@@ -5210,7 +5280,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 198449,
       "name": "Gebaore um te laeve",
       "url": "https://open.spotify.com/track/4vKcQVLkc29puSMCa8SI20"
@@ -5836,7 +5906,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 114461,
       "name": "HEAVENLY JUMPSTYLE",
       "url": "https://open.spotify.com/track/6kamZOSWb8ahxRkrYARPNG"
@@ -5862,7 +5932,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 145092,
       "name": "HEFTIG MAN",
       "url": "https://open.spotify.com/track/68jBfkxK7APr2JQif5ts3c"
@@ -6575,6 +6645,24 @@
     },
     {
       "album": {
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
+    },
+    {
+      "album": {
         "name": "Dit Is Je Verjaardag (Troetelnamen)",
         "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
       },
@@ -6676,7 +6764,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
@@ -7150,7 +7238,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 204821,
       "name": "Ik Wooj Nie Gaon",
       "url": "https://open.spotify.com/track/36xEkavf3iEhdjdy8fzcvZ"
@@ -7376,6 +7464,28 @@
       "duration_ms": 136824,
       "name": "Interessant",
       "url": "https://open.spotify.com/track/1Tj9wnAXkHAqcZEBZ8cI9m"
+    },
+    {
+      "album": {
+        "name": "Into My Life (feat. Joyce Sims)",
+        "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
+      },
+      "artists": [
+        {
+          "name": "Cam Stockman",
+          "url": "https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg"
+        },
+        {
+          "name": "Joyce Sims",
+          "url": "https://open.spotify.com/artist/4AL3YviSMI70ARkSOHlxbQ"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131299,
+      "name": "Into My Life (feat. Joyce Sims)",
+      "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
     },
     {
       "album": {
@@ -7670,7 +7780,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 210070,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
@@ -7688,7 +7798,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 210070,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -7706,7 +7816,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -9305,6 +9415,36 @@
     },
     {
       "album": {
+        "name": "Meisje",
+        "url": "https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Billy Dans",
+          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
+        },
+        {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        },
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128014,
+      "name": "Meisje",
+      "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
+    },
+    {
+      "album": {
         "name": "Meisje Uit De Klas",
         "url": "https://open.spotify.com/album/6Ae8zbMgk5k3GByZV0sUP3"
       },
@@ -9676,7 +9816,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 208495,
       "name": "Moonwalkin'",
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
@@ -10596,6 +10736,24 @@
       "duration_ms": 200187,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/0DhS6FGlJkZEWM2gmjB5dD"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
       "album": {
@@ -12539,6 +12697,32 @@
     },
     {
       "album": {
+        "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
+        "url": "https://open.spotify.com/album/3317qFuusi41ZE9hfffsmq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347640,
+      "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
+      "url": "https://open.spotify.com/track/1tYWIkEZg6wMrMuLO2mWcy"
+    },
+    {
+      "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
@@ -12930,6 +13114,24 @@
       "duration_ms": 125624,
       "name": "Spooky, Scary Skeletons - Undead Tombstone Remix",
       "url": "https://open.spotify.com/track/1sUdq3kWa9dJXHu3eYOUll"
+    },
+    {
+      "album": {
+        "name": "Spulleke!",
+        "url": "https://open.spotify.com/album/2OjSDC7vFdX0FORnFJyNeA"
+      },
+      "artists": [
+        {
+          "name": "CV De K\u00f2ljakkers",
+          "url": "https://open.spotify.com/artist/4KwO8DQbo5JHZL5LGTYYCO"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200859,
+      "name": "Spulleke!",
+      "url": "https://open.spotify.com/track/2AituYi1jd8v7u0yW4kDGu"
     },
     {
       "album": {
@@ -13460,6 +13662,24 @@
       "duration_ms": 181666,
       "name": "The Final Boosterz",
       "url": "https://open.spotify.com/track/2gVT5qNDbo1Qzt0GHMbw0A"
+    },
+    {
+      "album": {
+        "name": "The Final Verdict",
+        "url": "https://open.spotify.com/album/3a3QTWdcqdKxXYVU7UdSV5"
+      },
+      "artists": [
+        {
+          "name": "Kili",
+          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "The Final Verdict",
+      "url": "https://open.spotify.com/track/66GgamjluD1DwCLEiPWZv9"
     },
     {
       "album": {
@@ -15678,7 +15898,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 131729,
       "name": "What You Saying",
       "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
@@ -16838,7 +17058,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 208477,
       "name": "Zij is voor mij",
       "url": "https://open.spotify.com/track/1TvSpaz6QZnepK4J0k9C5i"
@@ -16948,7 +17168,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
@@ -16970,7 +17190,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

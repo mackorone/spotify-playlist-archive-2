@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 양요섭 \(YANG YO SEOP\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,674 songs - 4 day 12 hr 47 min
+1,675 songs - 4 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1042,6 +1042,7 @@
 | [Our Days](https://open.spotify.com/track/70AnBuAJhAFDAlHA4ILXjW) | [Kim Yong Jun](https://open.spotify.com/artist/7c8aDBJZIk4slFY40S6He7) | [Our Days](https://open.spotify.com/album/1sPFkBCyZ9eqnXaDWgdC5h) | 3:53 | 2022-07-07 | 2022-08-02 |
 | [Our Memories](https://open.spotify.com/track/28o99oVARf9l6KxQch2iji) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [FlexxCop OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/2J4x0PXLsk30EiHQGtIuBW) | 3:06 | 2024-03-15 | 2024-08-01 |
 | [Our Memories \(with JONGHO\)](https://open.spotify.com/track/0vIYoCVXGfuZX0xTo4w0jG) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7), [Jong Ho](https://open.spotify.com/artist/5gecqU5FZgxVdz1AtLumT0) | [Our Memories \(with JONGHO\)](https://open.spotify.com/album/7JOkn4AF2p8e5V0tD6tjmU) | 4:09 | 2025-04-08 | 2025-07-08 |
+| [Our Memories Under the Stars](https://open.spotify.com/track/6TuJ8lNXcHuOEsjeMfC36m) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Our Memories Under the Stars](https://open.spotify.com/album/6kx6pXUpMq33wV7q6BKfvX) | 3:42 | 2026-02-10 |  |
 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Our Night is more beautiful than your Day](https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq) | 3:19 | 2023-08-07 | 2023-11-03 |
 | [Our Past Time](https://open.spotify.com/track/1mWv0FjmPif2MaTn9DOqTx) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 26](https://open.spotify.com/album/1vzEYEf662HwKw3aVEcfiw) | 3:46 | 2023-10-20 | 2023-12-14 |
 | [Our Season](https://open.spotify.com/track/3yA7377j20H03qiukcBkjU) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [Our Season](https://open.spotify.com/album/5BwR3SR5PxOBdMG0kWUdjR) | 3:36 | 2022-12-16 | 2023-02-25 |
@@ -1392,7 +1393,7 @@
 | [To Me](https://open.spotify.com/track/6eLNBIUwf81FxFHekvd8Gu) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [To Me](https://open.spotify.com/album/4W5GjsG10XacO0WE6ckZaH) | 3:51 | 2022-08-01 | 2022-12-27 |
 | [To my distant friend](https://open.spotify.com/track/0YLE9JIvYDeM2Rkg6Mt5dy) | [Kang Jin Ah](https://open.spotify.com/artist/0ZWE1SWTPqm0AlsIm1jm4f) | [To my distant friend](https://open.spotify.com/album/5oHwfhmnT1lYYltG18qEJ0) | 4:35 | 2024-09-17 | 2024-12-12 |
 | [To My Friends](https://open.spotify.com/track/0AXqXz5kX5HzWsydXnbFsx) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [To My Friends](https://open.spotify.com/album/0Bc4VvFhNY6lxWJyeeCFCE) | 3:46 | 2022-02-23 | 2022-04-20 |
-| [To The One](https://open.spotify.com/track/00babQKpTcxbh8kKsATc0R) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [To The One](https://open.spotify.com/album/3pvLfa1Y8N92FzFbEwOxEG) | 3:48 | 2025-11-17 |  |
+| [To The One](https://open.spotify.com/track/00babQKpTcxbh8kKsATc0R) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [To The One](https://open.spotify.com/album/3pvLfa1Y8N92FzFbEwOxEG) | 3:48 | 2025-11-17 | 2026-02-11 |
 | [To the ordinary you](https://open.spotify.com/track/2QZKyD8R2ZtJroH3sGQdTD) | [2NB](https://open.spotify.com/artist/01n1Lj2lmdteXD8qFPqhsL) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1jrZAwFNCuTIOS9bE3eIw9) | 3:55 | 2022-03-24 | 2022-04-20 |
 | [To You](https://open.spotify.com/track/0Vm57FDy9ANofqxnweBSyN) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [To You](https://open.spotify.com/album/13twQej8IAGbw2yNjJ4wmS) | 4:32 | 2025-05-21 | 2025-08-04 |
 | [To You Again](https://open.spotify.com/track/574xYNFxyCA4rwcHvNUKgq) | [Lee Ye Ji](https://open.spotify.com/artist/7lxQNSuiUoDOW1sIb5MgdB), [Hong seung min](https://open.spotify.com/artist/7Ccn0kImfc5wlz0fLySwiw) | [The Ballad of Us Story 8](https://open.spotify.com/album/4w48ebzPvmIMVzUTAyJkLZ) | 4:20 | 2025-11-14 |  |

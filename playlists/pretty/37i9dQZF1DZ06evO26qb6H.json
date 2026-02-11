@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAAwW8OKWUcM1g10KkhxWisw",
+  "snapshot_id": "aYkjgAAAAADDV2H2wXIciALgthJnVttU",
   "tracks": [
     {
       "added_at": null,
@@ -143,50 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYPACK",
-        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 210489,
-      "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
-      "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memory Lane 2",
-        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 177588,
-      "name": "A Lot of Miles",
-      "url": "https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culture Jam Presents: Legend In My Hood",
         "url": "https://open.spotify.com/album/4Bvbm845mhiltIsO6stBPc"
       },
@@ -215,6 +171,50 @@
       "duration_ms": 153529,
       "name": "Eye Spy (feat. Nardo Wick, Key Glock, Tay Keith & Murda Beatz)",
       "url": "https://open.spotify.com/track/21DBRZQmH2RIkI7pZybCiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory Lane 2",
+        "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 177588,
+      "name": "A Lot of Miles",
+      "url": "https://open.spotify.com/track/2a9ShljvDrhFRE8DHjJnYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 210489,
+      "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
+      "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
     },
     {
       "added_at": null,
@@ -339,22 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Em Up",
-        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
+        "name": "Maybach",
+        "url": "https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB"
       },
       "artists": [
         {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
         },
         {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 129729,
-      "name": "Wake Em Up",
-      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
+      "duration_ms": 165311,
+      "name": "Maybach",
+      "url": "https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso"
     },
     {
       "added_at": null,
@@ -379,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wake Em Up",
+        "url": "https://open.spotify.com/album/0PdmRhlaO6JuOcsWLVjPaK"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Wake Em Up",
+      "url": "https://open.spotify.com/track/3LXRevaRWpJajAVKhgzvrd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Calzone Tapes 3",
         "url": "https://open.spotify.com/album/5ka0HFmEwwvDjxOy0t9VnC"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 236764,
       "name": "Bonde da Fuma\u00e7a (feat. Murda Beatz)",
       "url": "https://open.spotify.com/track/50LGMsmHSBYhB2qVkcdAI1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maybach",
-        "url": "https://open.spotify.com/album/2UsXysLvyNlrGvcvG6KtyB"
-      },
-      "artists": [
-        {
-          "name": "\u5343\u8449\u96c4\u559c",
-          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 165311,
-      "name": "Maybach",
-      "url": "https://open.spotify.com/track/67WsbWbEI02qt27s5YcXso"
     },
     {
       "added_at": null,
@@ -527,6 +527,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUCY",
+        "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
+      },
+      "artists": [
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 251128,
+      "name": "EUPHORIA",
+      "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damn Shame",
         "url": "https://open.spotify.com/album/4YYXAVoKwJoezmIh7KgYjG"
       },
@@ -575,34 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LUCY",
-        "url": "https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi"
-      },
-      "artists": [
-        {
-          "name": "BKTHERULA",
-          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        }
-      ],
-      "duration_ms": 251128,
-      "name": "EUPHORIA",
-      "url": "https://open.spotify.com/track/0kpDa6Wl0DT6rUcAuFKjYL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory Lane 2",
         "url": "https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd"
       },
@@ -636,33 +636,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 156706,
-      "name": "No Jewelry",
-      "url": "https://open.spotify.com/track/6HOttKB0jFwrrcwdOIDXQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "420 in London",
-        "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
-      },
-      "artists": [
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 219088,
-      "name": "420 in London",
-      "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
+      "duration_ms": 122346,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/1LXShQsFNYrYgqnleZLn4d"
     },
     {
       "added_at": null,
@@ -695,6 +671,30 @@
       "duration_ms": 196562,
       "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
       "url": "https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "420 in London",
+        "url": "https://open.spotify.com/album/1BMfByaGjaWoSraUSfCQQh"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "420 in London",
+      "url": "https://open.spotify.com/track/1zDwQIp3BgbH9dSmYtPBDH"
     },
     {
       "added_at": null,
@@ -795,30 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
-        "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
-      },
-      "artists": [
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 180609,
-      "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
-      "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unfuckwitable (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
       },
@@ -839,6 +815,30 @@
       "duration_ms": 172623,
       "name": "Touchdown (feat. Peezy & Murda Beatz)",
       "url": "https://open.spotify.com/track/6EEh3VBH5a6ptEeTz1OYHv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
+        "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 180609,
+      "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
+      "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
     },
     {
       "added_at": null,

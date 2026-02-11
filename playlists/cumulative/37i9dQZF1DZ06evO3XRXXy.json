@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/2AGIiRCZ9q5cYOfQ8LmU3B"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187240,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3G0SQeuephtTBg5OZtXyRD"
+    },
+    {
+      "album": {
         "name": "At Last...The Duets Album",
         "url": "https://open.spotify.com/album/4XyegEYaF8gFxDI4OB3T4W"
       },

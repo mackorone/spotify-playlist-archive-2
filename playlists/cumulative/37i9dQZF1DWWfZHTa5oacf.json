@@ -983,6 +983,28 @@
     },
     {
       "album": {
+        "name": "Tu Yaa Main",
+        "url": "https://open.spotify.com/album/2GoehjUUwOEEYYOOfxob5m"
+      },
+      "artists": [
+        {
+          "name": "Chaitanya Pandit",
+          "url": "https://open.spotify.com/artist/3rMeclvs435Ef9n6WHmaM1"
+        },
+        {
+          "name": "2Sharc",
+          "url": "https://open.spotify.com/artist/6YzMspayoNnjrc7TtGJ2PR"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121562,
+      "name": "MumBHAI - From \"Tu Yaa Main\"",
+      "url": "https://open.spotify.com/track/5tvqbzhpjLY0kR8a4UElxM"
+    },
+    {
+      "album": {
         "name": "Naina (From \"Crew\")",
         "url": "https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm"
       },
@@ -1303,7 +1325,7 @@
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 176875,
+      "duration_ms": 176874,
       "name": "Soni Soni (From \"Ishq Vishk Rebound\")",
       "url": "https://open.spotify.com/track/36N5awamOX6XX5pQn3aFXZ"
     },
@@ -1358,7 +1380,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 202919,
       "name": "Sooraj Ki Baahon Mein",
       "url": "https://open.spotify.com/track/723xQva0yBF7M6K3nDAG8R"

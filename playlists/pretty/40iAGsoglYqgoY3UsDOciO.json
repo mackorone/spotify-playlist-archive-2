@@ -1,12 +1,12 @@
 {
   "description": "A frequently updated playlist with brand-new songs from new &amp;amp; established artists. \ud83e\udd16\ud83d\udeab&#x2F;&#x2F; Cover: $NOT | pitch.playlistd@gmail.com",
-  "num_followers": 603,
+  "num_followers": 608,
   "original_name": "New Music Daily",
   "owner": {
     "name": "Finnster the curator",
     "url": "https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi"
   },
-  "snapshot_id": "AAABg5sNy/MlLYJEeAHPjgCh1Wi6kK9o",
+  "snapshot_id": "AAABhJdTW/aCeMTmvXCn5Q+iu2WMOIAT",
   "tracks": [
     {
       "added_at": "2023-07-26 06:40:03",
@@ -8699,6 +8699,26 @@
       "duration_ms": 118010,
       "name": "whatchu want",
       "url": "https://open.spotify.com/track/7s77OYpBKZ6sOHlkyqgC8i"
+    },
+    {
+      "added_at": "2026-02-10 22:36:57",
+      "album": {
+        "name": "\u015ecre\u0105m",
+        "url": "https://open.spotify.com/album/1r7rLfQ39zKjExdRHa1uvn"
+      },
+      "artists": [
+        {
+          "name": "Morg@n",
+          "url": "https://open.spotify.com/artist/52mAgZb9Bb47DUbTkVTHZz"
+        },
+        {
+          "name": "o0Zay0o",
+          "url": "https://open.spotify.com/artist/1ftuWlBifhQ7MmBuzT1RWI"
+        }
+      ],
+      "duration_ms": 169436,
+      "name": "\u015ecre\u0105m",
+      "url": "https://open.spotify.com/track/7kylGTeeN4F2EdTdd9ILTb"
     }
   ],
   "unique_name": "New Music Daily",

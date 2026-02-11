@@ -1,6 +1,6 @@
 {
   "description": "\u0422\u0435\u043f\u043b\u0430 \u043c\u0443\u0437\u0438\u043a\u0430 \u0432 \u0445\u043e\u043b\u043e\u0434\u043d\u0456 \u0434\u043d\u0456 \u2615 \u2744\ufe0f\ud83e\udec2",
-  "num_followers": 39284,
+  "num_followers": 39286,
   "original_name": "\u0417\u0438\u043c\u043e\u0432\u0438\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,6 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
-        "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
-      },
-      "artists": [
-        {
-          "name": "Sasha Norova",
-          "url": "https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR"
-        },
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
-        }
-      ],
-      "duration_ms": 132626,
-      "name": "\u0410\u0443 \u0430\u0443",
-      "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
         "name": "Alleys of My Mind",
         "url": "https://open.spotify.com/album/51nLeJhY3JcfO6axuGTfqA"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 237778,
       "name": "Alleys of My Mind",
       "url": "https://open.spotify.com/track/5edRlXB2uyco1o6ZNCjLGB"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
+        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
+        "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
+      },
+      "artists": [
+        {
+          "name": "Sasha Norova",
+          "url": "https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR"
+        },
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+        }
+      ],
+      "duration_ms": 132626,
+      "name": "\u0410\u0443 \u0430\u0443",
+      "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -251,18 +251,18 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "Lucerna",
-        "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
+        "name": "The Table",
+        "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
       },
       "artists": [
         {
-          "name": "LATEXFAUNA",
-          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 376000,
-      "name": "Lucerna",
-      "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
+      "duration_ms": 173952,
+      "name": "The Table",
+      "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "The Table",
-        "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
+        "name": "Lucerna",
+        "url": "https://open.spotify.com/album/19yBWt7K3v0P5Oox896P3X"
       },
       "artists": [
         {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          "name": "LATEXFAUNA",
+          "url": "https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP"
         }
       ],
-      "duration_ms": 173952,
-      "name": "The Table",
-      "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
+      "duration_ms": 376000,
+      "name": "Lucerna",
+      "url": "https://open.spotify.com/track/27b7hrOY8fkjVom9DGyXO8"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
-        "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
-      },
-      "artists": [
-        {
-          "name": "BAH.ROMA",
-          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
-        }
-      ],
-      "duration_ms": 198296,
-      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
-      "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
         "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
         "url": "https://open.spotify.com/album/1AnEqWNGG6zADfC3VEUmam"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 210248,
       "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456 \u0434\u043d\u0456 \u043b\u0456\u0442\u0430",
       "url": "https://open.spotify.com/track/031XeWxYnh6nAeXRPOtilL"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
+        "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
+        "url": "https://open.spotify.com/album/2Q3jqGAGrqJrjuDJ3WG4x8"
+      },
+      "artists": [
+        {
+          "name": "BAH.ROMA",
+          "url": "https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL"
+        }
+      ],
+      "duration_ms": 198296,
+      "name": "\u041e\u0441\u0442\u0430\u043d\u043d\u0456\u0439 \u0434\u0435\u043d\u044c \u043b\u0456\u0442\u0430",
+      "url": "https://open.spotify.com/track/3848wRSzIxGdyzIU0tE5sw"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
+        "name": "\u0434\u0456\u043c",
+        "url": "https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2"
+      },
+      "artists": [
+        {
+          "name": "MOLODI",
+          "url": "https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "\u0434\u0456\u043c",
+      "url": "https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF"
+    },
+    {
+      "added_at": "2026-02-09 11:28:37",
+      "album": {
         "name": "\u0413\u0423\u0420\u041c\u0410",
         "url": "https://open.spotify.com/album/7oHTphOuMNRNykMvbk9GIC"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2026-02-09 11:28:37",
       "album": {
-        "name": "\u0434\u0456\u043c",
-        "url": "https://open.spotify.com/album/7k8o2atU77xjyz8wfAQcc2"
+        "name": "ellipsis",
+        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
       },
       "artists": [
         {
-          "name": "MOLODI",
-          "url": "https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF"
+          "name": "Pem",
+          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
         }
       ],
-      "duration_ms": 205200,
-      "name": "\u0434\u0456\u043c",
-      "url": "https://open.spotify.com/track/2q6gjKaIQph1E60TjIp4ZF"
+      "duration_ms": 243314,
+      "name": "ellipsis",
+      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
     },
     {
       "added_at": "2026-02-09 11:28:37",
@@ -803,22 +819,6 @@
       "duration_ms": 175462,
       "name": "\u043d\u0430\u0432\u0456\u0449\u043e \u0446\u0456 \u0441\u0432\u0430\u0440\u043a\u0438",
       "url": "https://open.spotify.com/track/38GsUZ16qLuirI0u1b47UZ"
-    },
-    {
-      "added_at": "2026-02-09 11:28:37",
-      "album": {
-        "name": "ellipsis",
-        "url": "https://open.spotify.com/album/3n60c52OZfy9rrlPgEVruQ"
-      },
-      "artists": [
-        {
-          "name": "Pem",
-          "url": "https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs"
-        }
-      ],
-      "duration_ms": 243314,
-      "name": "ellipsis",
-      "url": "https://open.spotify.com/track/7nHtlqsooMoimCnxQx36bV"
     },
     {
       "added_at": "2026-02-09 11:28:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 335 likes - 63 songs - 3 hr 58 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 337 likes - 66 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,5 +71,8 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 61 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 |
 | 62 | [We're Not Lovers](https://open.spotify.com/track/4xnHEPU7CTCpm4dFtuMvvk) | [Ryan Butler](https://open.spotify.com/artist/2abv7YoUC6ZGx5b3xFb51a) | [We're Not Lovers](https://open.spotify.com/album/7nh45cg3SuPxaXAJFDVTZz) | 2:47 |
 | 63 | [Purple Wings](https://open.spotify.com/track/3FrWG2dq5dAvQVidWt3ORC) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [Purple Wings](https://open.spotify.com/album/6Yvrw0NredYIxJaxFjST52) | 5:41 |
+| 64 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 |
+| 65 | [Nosferatu I Am](https://open.spotify.com/track/7sZudFcX8k2nTqwFqMcsIL) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Nosferatu I Am](https://open.spotify.com/album/5Q3P0mQdUDQ8XRQ45CHz9j) | 3:21 |
+| 66 | [Age of Aquarius](https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Age of Aquarius](https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k) | 3:27 |
 
-Snapshot ID: `AAABNWOtwXVb09XzVRGksYxz148wnUyj`
+Snapshot ID: `AAABODwkP8mdowA4rCS0YsCFw9jCnIQJ`

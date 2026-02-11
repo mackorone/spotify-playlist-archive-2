@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: ma\u00efa",
-  "num_followers": 44908,
+  "num_followers": 44907,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Papa",
-        "url": "https://open.spotify.com/album/2WZA8RmOaQgiuWMr2VG4DK"
-      },
-      "artists": [
-        {
-          "name": "Rina",
-          "url": "https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/6DPywNzRLarOthB1qUZCoF"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "Kaputt machst",
         "url": "https://open.spotify.com/album/014B9vjlVZ0kHhgkX4FPqL"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 149263,
       "name": "Kaputt machst",
       "url": "https://open.spotify.com/track/2eoJyEjrosyyfxUOqFwkXi"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "Papa",
+        "url": "https://open.spotify.com/album/2WZA8RmOaQgiuWMr2VG4DK"
+      },
+      "artists": [
+        {
+          "name": "Rina",
+          "url": "https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/6DPywNzRLarOthB1qUZCoF"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Keiner Wei\u00df",
-        "url": "https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk"
-      },
-      "artists": [
-        {
-          "name": "tosha",
-          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Keiner Wei\u00df",
-      "url": "https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "The Currency Is Trust",
         "url": "https://open.spotify.com/album/2xMA3Lghpf7SNAXBmwMMc5"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 172381,
       "name": "The Currency Is Trust",
       "url": "https://open.spotify.com/track/5CaBvNxQknk4UPZutTvN3G"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "Keiner Wei\u00df",
+        "url": "https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk"
+      },
+      "artists": [
+        {
+          "name": "tosha",
+          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Keiner Wei\u00df",
+      "url": "https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O"
     },
     {
       "added_at": "2026-02-03 23:00:18",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-02-03 23:00:18",
       "album": {
-        "name": "Outrun",
-        "url": "https://open.spotify.com/album/1fvSUnl38m7xy8eitaObBt"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 197506,
-      "name": "Outrun",
-      "url": "https://open.spotify.com/track/3XjcRl7pAD7qXHVm8PRbrc"
-    },
-    {
-      "added_at": "2026-02-03 23:00:18",
-      "album": {
         "name": "Cajito (No Bal\u00e3o)",
         "url": "https://open.spotify.com/album/3bSh5PIkFF3bvfhy2RgqGE"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 123750,
       "name": "Cajito (No Bal\u00e3o)",
       "url": "https://open.spotify.com/track/6QkMTUvcWRH3bHfd74DBmX"
+    },
+    {
+      "added_at": "2026-02-03 23:00:18",
+      "album": {
+        "name": "Outrun",
+        "url": "https://open.spotify.com/album/1fvSUnl38m7xy8eitaObBt"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 197506,
+      "name": "Outrun",
+      "url": "https://open.spotify.com/track/3XjcRl7pAD7qXHVm8PRbrc"
     },
     {
       "added_at": "2026-02-03 23:00:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 124,349 likes - 62 songs - 3 hr 23 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 124,343 likes - 62 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 61 | [LOUDER](https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [LOUDER](https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364) | 2:15 |
 | 62 | [life](https://open.spotify.com/track/7FTkU2chrZIt2gfJefgaVY) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [life](https://open.spotify.com/album/3jXwsjv5HQE8LEp8hQLwun) | 2:36 |
 
-Snapshot ID: `AAAVGQsboK5tZq4QPqMZe0OLhkJau1dp`
+Snapshot ID: `AAAVGxIctxTJKgQ78hRjcddKt14tdtsE`

@@ -2,7 +2,7 @@
 
 ### [SA Gold](https://open.spotify.com/playlist/37i9dQZF1DXcNdPSCaTGoa)
 
-> Zonke's "Work of Heart" turns 10.
+> Celebrating South African classics.
 
 261 songs - 21 hr 4 min
 

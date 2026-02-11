@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,863 songs - 4 day 15 hr 50 min
+1,865 songs - 4 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Ash Queens Arise](https://open.spotify.com/track/2poe4hybs20gwvtbbMak3V) | [ASH QUEENS](https://open.spotify.com/artist/5gxrqah9KzW1xHCbfK9wCz) | [Ash Queens](https://open.spotify.com/album/3PJt5RtP5WKqKPkWUa3MRa) | 4:09 | 2026-01-04 |  |
 | [ASIDERAL SPACE](https://open.spotify.com/track/24Hwi2MkkwBRg4riBVSEfY) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:28 | 2026-01-07 |  |
 | [Asteroid](https://open.spotify.com/track/2ZcZVHWbladB8xTuUZ2YFK) | [Dutch Gunderson](https://open.spotify.com/artist/5UAK417O73vLv1MOTDxhYx) | [Dutch Gunderson](https://open.spotify.com/album/1k3ynjVZhaPk2DFNIVERbW) | 3:47 | 2025-05-28 |  |
+| [Astral](https://open.spotify.com/track/2zid4cfWtpcooEjSADhN2z) | [Clariá](https://open.spotify.com/artist/6Za8rqeiBcShSX1tzkUqkl) | [Astral](https://open.spotify.com/album/6rqF5Cx8HtkXzWtzcdeTQH) | 3:58 | 2026-02-10 |  |
 | [Astros](https://open.spotify.com/track/23USLP01Sb9lL29bkMdGNe) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 4:03 | 2025-12-28 |  |
 | [At The Restaurant](https://open.spotify.com/track/7hf98kLVYzvl5eLrM8hL3D) | [caveau](https://open.spotify.com/artist/6nBYceEDCCiItPV56dIeVo) | [At The Restaurant](https://open.spotify.com/album/5BXD9EhfxsvVwrgdtAl3Ku) | 3:41 | 2025-11-15 |  |
 | [Attraction](https://open.spotify.com/track/6ZtwN8RKfWBC7SXAse5Myb) | [Ausvin King](https://open.spotify.com/artist/4K2gNf5IYG6wO4tadQ6z9k) | [Attraction](https://open.spotify.com/album/2h7LFTP3XolyekXifqhSAw) | 3:59 | 2025-09-03 |  |
@@ -1605,6 +1606,7 @@
 | [The Kindling Starts it All](https://open.spotify.com/track/5whyJ4wKqDjaQmxx3mg1QI) | [Stately](https://open.spotify.com/artist/2nA4vAbRyNYZQKjguhExqf) | [Smoke Signals By The Cemetery](https://open.spotify.com/album/4HqqYpxplcLQTmMwAzYIff) | 3:30 | 2026-01-05 |  |
 | [The Library](https://open.spotify.com/track/4uCWphfePonUJLKgYaYKMn) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [The Lofi Tape Vol 2](https://open.spotify.com/album/0tOrDAjykvsIiqMzQiaM22) | 3:51 | 2025-07-27 |  |
 | [The Machine](https://open.spotify.com/track/3MC6OOjEQtYqvWSjbwJS51) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Roberto Tiranti](https://open.spotify.com/artist/2BJtWP99RwRDDvAvZxxBkS) | [The Machine](https://open.spotify.com/album/33W5jxMfOpoU5wVnabJc88) | 4:20 | 2024-06-16 |  |
+| [The Man of Many Faces](https://open.spotify.com/track/6tgY6AA1lmQbIS4N0KYaB1) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [The Man of Many Faces](https://open.spotify.com/album/3sfrbRSz5BBuWSVY2c3oZ0) | 3:03 | 2026-02-10 |  |
 | [The Mask of Port Royal](https://open.spotify.com/track/7AUvEj1PnsUp5MiyBgHupD) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [The Mask of Port Royal](https://open.spotify.com/album/5h3nOYxuBXFtGkW7DMfbro) | 3:44 | 2026-02-06 |  |
 | [The Merchant Of Grooves](https://open.spotify.com/track/5x9NSmCr3lNj1x96vbCj2b) | [3rd Bass](https://open.spotify.com/artist/6EFL6smxzRtpwlQvZFldUc) | [Derelicts Of Dialect](https://open.spotify.com/album/52NmtQfCaJa8SnvrbV6gFJ) | 1:37 | 2026-02-07 |  |
 | [The Morning Sky](https://open.spotify.com/track/0h6reWbglCBmHFMZJw0s3W) | [Butterfly International Day of Peace](https://open.spotify.com/artist/2cGOGYuQsqwZquuZxsxLaD) | [DIVA WITH GAMMA RAYS](https://open.spotify.com/album/4W1J5g3f9lV7wETlxb2Yvd) | 4:17 | 2025-07-09 |  |

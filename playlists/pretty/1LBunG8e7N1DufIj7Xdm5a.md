@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,077 songs - 9 day 0 hr 24 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,078 songs - 9 day 0 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4085,5 +4085,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4075 | [Deseos](https://open.spotify.com/track/22oChzp35MRgYG18jktD2y) | [Leyna y Estos Otros](https://open.spotify.com/artist/4mVrxEe5cktiKKhmvBEAVu) | [Deseos](https://open.spotify.com/album/6D061seVmfQH4eTwP94671) | 4:00 |
 | 4076 | [Witness of the Lie](https://open.spotify.com/track/3lsXyuXyBDQSgKVhEwem65) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:06 |
 | 4077 | [Come bambini](https://open.spotify.com/track/0jdgV6W0axQL8OcIZR6TEX) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [R.A.L.P.H.](https://open.spotify.com/album/4Uxxl0SI4UaaBCmSnofMrG) | 3:01 |
+| 4078 | [Kto pyta nie błądzi](https://open.spotify.com/track/0Y40l5gCn7dgKBhNgBrw2C) | [KRiSU Krzysztof Bańka](https://open.spotify.com/artist/73m6LntQaeyAemA4YFLwp4) | [Zatrzymane](https://open.spotify.com/album/7jb1dGdbuTdmiQpnzmOsEJ) | 2:27 |
 
-Snapshot ID: `AAAHdgfTnEVm3PF8L+7JOwBuFMAP55dD`
+Snapshot ID: `AAAHd+V1VGDaUXvpl+FldN6ZIaSP2uQT`

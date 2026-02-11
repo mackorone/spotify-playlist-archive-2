@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFLYLUUUn0e.md) - [plain]
 
 > Page\-turning suspense from start to finish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 43 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

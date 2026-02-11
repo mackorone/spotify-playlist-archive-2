@@ -776,7 +776,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 229230,
       "name": "Count Em Up (feat. Lil Fame)",
       "url": "https://open.spotify.com/track/16ClaryJlvHXiv4LEfCzQS"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-28",
+      "date_removed": null,
       "duration_ms": 234466,
       "name": "Don't Touch That Phone",
       "url": "https://open.spotify.com/track/5XweTODWq5Fp93bcXVLYMq"
@@ -1584,7 +1584,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 195055,
       "name": "Heat of the Moment",
       "url": "https://open.spotify.com/track/46alQ7Ry32UqtgCqHgz43h"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 315369,
       "name": "Kartagina",
       "url": "https://open.spotify.com/track/1jzwJF5fHMx6TJMc9QTvYF"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 208733,
       "name": "Meglio che chiedi a qualcuno",
       "url": "https://open.spotify.com/track/1ozEUYcyidM6jfa8zB8PeC"
@@ -2662,7 +2662,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 210867,
       "name": "Nie S\u0142ucha\u0107 Przed Trzydziestk\u0105",
       "url": "https://open.spotify.com/track/51rlx11tFsvWnQWGB3s9Tz"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-01",
+      "date_removed": null,
       "duration_ms": 187288,
       "name": "Nightmare on Fro Street",
       "url": "https://open.spotify.com/track/3rUC43tk61HOOsSeZrPYjE"
@@ -2941,6 +2941,32 @@
     },
     {
       "album": {
+        "name": "Richmond Hill (Deluxe)",
+        "url": "https://open.spotify.com/album/7JtfLXwpLU5iJjUl9hnGih"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153650,
+      "name": "Plant Based",
+      "url": "https://open.spotify.com/track/0B8V62EPhRa9Umqnbipzrx"
+    },
+    {
+      "album": {
         "name": "Richmond Hill",
         "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
       },
@@ -3084,7 +3110,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 94463,
       "name": "Reloaded (Intro)",
       "url": "https://open.spotify.com/track/1JTUC8reW9QxzvYH5UngbY"
@@ -3584,7 +3610,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 227624,
       "name": "The Fight Song (feat. Pharoahe Monch)",
       "url": "https://open.spotify.com/track/7lbwEOoHStDkvZEMQbKgv7"

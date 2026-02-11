@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > The voices shaping R&B\. Cover: Sasha Keable
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,420 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,475 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Typical](https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Typical](https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN) | 2:56 |
-| 2 | [Pressha](https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Pressha](https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB) | 4:16 |
-| 3 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 |
+| 1 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 |
+| 2 | [Typical](https://open.spotify.com/track/4TO2RCpe9L7M4HBBdjT4O4) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Typical](https://open.spotify.com/album/0PrdhsKVovAnesjsn6JbgN) | 2:56 |
+| 3 | [Pressha](https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Pressha](https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB) | 4:16 |
 | 4 | [Nothing Is Impossible With You](https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Nothing Is Impossible With You](https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW) | 4:14 |
 | 5 | [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 |
 | 6 | [Sunsets](https://open.spotify.com/track/2XAH08LV6ejGOpRsErzSXs) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Sunsets](https://open.spotify.com/album/5hZJCqJK5bzGefjwWltJkA) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 79 | [Sacrifice](https://open.spotify.com/track/1vR0FAmbln2Qjpyg0TvG2J) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [HEARTS SOLD SEPARATELY](https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP) | 3:18 |
 | 80 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
 
-Snapshot ID: `AAAAAGCZgzraXjGzESDb4SfJbA+BtgEj`
+Snapshot ID: `AAAAAF8QL/IH2UADLfL9+g2QucQpol4O`

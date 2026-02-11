@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 699051,
+  "num_followers": 699273,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-01-09 08:38:13",
       "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lovbrand",
-          "url": "https://open.spotify.com/artist/0dcpb2NumxoK75LauEbfOc"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "I Will Wait for You",
-      "url": "https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8"
-    },
-    {
-      "added_at": "2026-01-09 08:38:13",
-      "album": {
         "name": "The Changing Lights (Bonus Edition)",
         "url": "https://open.spotify.com/album/1pPiNmApPW6E2yPCGth1RA"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 244653,
       "name": "How Insensitive",
       "url": "https://open.spotify.com/track/7zTPGoqzsHv4hnYib1jP8e"
+    },
+    {
+      "added_at": "2026-01-09 08:38:13",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/0TsCxKSmji1bgovGqizJII"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lovbrand",
+          "url": "https://open.spotify.com/artist/0dcpb2NumxoK75LauEbfOc"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "I Will Wait for You",
+      "url": "https://open.spotify.com/track/12SjdWu7R9pDvQieJA68v8"
     },
     {
       "added_at": "2026-01-09 08:38:13",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-01-09 08:38:13",
       "album": {
-        "name": "The Big Picture",
-        "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 168755,
-      "name": "Oh My Love",
-      "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
-    },
-    {
-      "added_at": "2026-01-09 08:38:13",
-      "album": {
         "name": "Make this moment",
         "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 287613,
       "name": "Will you still love me tomorrow",
       "url": "https://open.spotify.com/track/2pzhO7ZJ3tQGnnkxI6sc5o"
+    },
+    {
+      "added_at": "2026-01-09 08:38:13",
+      "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/1RKLsYhnrpFWhGClp1fk56"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 168755,
+      "name": "Oh My Love",
+      "url": "https://open.spotify.com/track/4HlLLrS6UrQD5x2ev4Vu1h"
     },
     {
       "added_at": "2026-01-09 08:38:13",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-01-09 08:38:13",
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
+    },
+    {
+      "added_at": "2026-01-09 08:38:13",
+      "album": {
         "name": "Suzanne",
         "url": "https://open.spotify.com/album/6ZzCxDsaWHAK4kKcjep4iQ"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 273626,
       "name": "Suzanne (feat. Gregory Porter)",
       "url": "https://open.spotify.com/track/2IYWqinJpFhid2qRqnqPDA"
-    },
-    {
-      "added_at": "2026-01-09 08:38:13",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
     },
     {
       "added_at": "2026-01-09 08:38:13",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-01-09 08:38:13",
       "album": {
-        "name": "Always Seem to Get Things Wrong",
-        "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
-      },
-      "artists": [
-        {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        }
-      ],
-      "duration_ms": 251413,
-      "name": "I'll Tell You Something",
-      "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
-    },
-    {
-      "added_at": "2026-01-09 08:38:13",
-      "album": {
         "name": "You Better Go Now",
         "url": "https://open.spotify.com/album/0x4mTPFt9cp03BJijv3EdU"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 170070,
       "name": "You Better Go Now",
       "url": "https://open.spotify.com/track/3UZl5kTzxiacX2zlq3yA96"
+    },
+    {
+      "added_at": "2026-01-09 08:38:13",
+      "album": {
+        "name": "Always Seem to Get Things Wrong",
+        "url": "https://open.spotify.com/album/0jxF7dbDnO5mQ5PHlgLlJ6"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "duration_ms": 251413,
+      "name": "I'll Tell You Something",
+      "url": "https://open.spotify.com/track/1q6sKjFBoTyZ15Vwf5IuGa"
     },
     {
       "added_at": "2026-01-09 08:38:13",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-01-09 08:38:13",
       "album": {
-        "name": "La belle vie - The Good Life",
-        "url": "https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH"
-      },
-      "artists": [
-        {
-          "name": "Thomas Dutronc",
-          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
-        },
-        {
-          "name": "Jeff Goldblum",
-          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "La belle vie - The Good Life",
-      "url": "https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE"
-    },
-    {
-      "added_at": "2026-01-09 08:38:13",
-      "album": {
         "name": "Eternal Beauty",
         "url": "https://open.spotify.com/album/0gSq5AEue1uEipwnTgWvOx"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 171306,
       "name": "Love of My Life",
       "url": "https://open.spotify.com/track/2xswKfIsupPXsS16zJApYo"
+    },
+    {
+      "added_at": "2026-01-09 08:38:13",
+      "album": {
+        "name": "La belle vie - The Good Life",
+        "url": "https://open.spotify.com/album/5j9lwYLRgkVtN5HWJ08wfH"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        },
+        {
+          "name": "Jeff Goldblum",
+          "url": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "La belle vie - The Good Life",
+      "url": "https://open.spotify.com/track/3bO3Bh5Cx2fRM75q42vrJE"
     },
     {
       "added_at": "2026-01-09 08:38:13",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-01-09 08:38:13",
       "album": {
-        "name": "I've Got You Under My Skin",
-        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 209848,
-      "name": "I've Got You Under My Skin",
-      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
-    },
-    {
-      "added_at": "2026-01-09 08:38:13",
-      "album": {
         "name": "Nothing Standard",
         "url": "https://open.spotify.com/album/6pPKvmWEDPEcEyGo3PSRXH"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 388114,
       "name": "Hey Jude",
       "url": "https://open.spotify.com/track/69WRDCEjZS2Tejw5FSSqoD"
+    },
+    {
+      "added_at": "2026-01-09 08:38:13",
+      "album": {
+        "name": "I've Got You Under My Skin",
+        "url": "https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 209848,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g"
     },
     {
       "added_at": "2026-01-09 08:38:13",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2026-01-09 08:38:13",
       "album": {
-        "name": "Lonely House",
-        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
-      },
-      "artists": [
-        {
-          "name": "Lucy Yeghiazaryan",
-          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
-        }
-      ],
-      "duration_ms": 211664,
-      "name": "There's a Lull in My Life",
-      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
-    },
-    {
-      "added_at": "2026-01-09 08:38:13",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 236367,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
+    },
+    {
+      "added_at": "2026-01-09 08:38:13",
+      "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
+      },
+      "artists": [
+        {
+          "name": "Lucy Yeghiazaryan",
+          "url": "https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB"
+        }
+      ],
+      "duration_ms": 211664,
+      "name": "There's a Lull in My Life",
+      "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
     },
     {
       "added_at": "2026-01-09 08:38:13",
@@ -2135,22 +2135,6 @@
     {
       "added_at": "2026-01-09 08:38:13",
       "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 176280,
-      "name": "One At A Time",
-      "url": "https://open.spotify.com/track/6M00o3MqNCShYRPND1UBEN"
-    },
-    {
-      "added_at": "2026-01-09 08:38:13",
-      "album": {
         "name": "'Tis Autumn",
         "url": "https://open.spotify.com/album/6DOCcHOp2pEdbhmwlhqqC4"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 308253,
       "name": "'Tis Autumn",
       "url": "https://open.spotify.com/track/50dJQJ4VLNsb8yNOJNFDRJ"
+    },
+    {
+      "added_at": "2026-01-09 08:38:13",
+      "album": {
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 176280,
+      "name": "One At A Time",
+      "url": "https://open.spotify.com/track/6M00o3MqNCShYRPND1UBEN"
     },
     {
       "added_at": "2026-01-09 08:38:13",

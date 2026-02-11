@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : אסף אמדורסקי
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,248 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,252 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 36 | [המוזיקה הישראלית](https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd) | [המוזיקה הישראלית](https://open.spotify.com/album/2DvGi2JC1NZt9nwi128lnb) | 4:31 |
 | 37 | [The Call Of The Flow](https://open.spotify.com/track/0d3rgGVa0WAOrUg1vSR2oA) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [The Call Of The Flow](https://open.spotify.com/album/4IfBE388B8vhY2AUXBiJLc) | 3:56 |
 | 38 | [אהבת חיי](https://open.spotify.com/track/4aAexzkSglTMEufNbYDGSs) | [Boom Pam](https://open.spotify.com/artist/7srYnoskZP2OeiErBz333J), [Shai Tsabari](https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A) | [אהבת חיי](https://open.spotify.com/album/5hHZlrM4xvsmFEE0GD6lzm) | 4:28 |
-| 39 | [Sun & Lemonade](https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1) | [Loren Peled](https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh), [Daniella Pick](https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp) | [Sun & Lemonade](https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ) | 2:59 |
-| 40 | [א יידישע ראסטהמאן](https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [א יידישע ראסטהמאן](https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1) | 5:04 |
+| 39 | [א יידישע ראסטהמאן](https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [א יידישע ראסטהמאן](https://open.spotify.com/album/13Z3HKPuJMuoG9YOVeTYY1) | 5:04 |
+| 40 | [Sun & Lemonade](https://open.spotify.com/track/1RzAEB9ax0DDEMCxcCP2p1) | [Loren Peled](https://open.spotify.com/artist/2Oj7ayX2JXiMWg04Ysnmeh), [Daniella Pick](https://open.spotify.com/artist/0x3Etv5r5Ym0XGTC5rWMIp) | [Sun & Lemonade](https://open.spotify.com/album/3qdLPrnhEL1OfwTSpkd6EZ) | 2:59 |
 | 41 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
 | 42 | [I Don't Know When, I Don't Know How, I Don't Know Why](https://open.spotify.com/track/2NZc3vxC1wSUkjfHOUe5ek) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Unfurl](https://open.spotify.com/album/3Ee0iWoBRVVol6fHUbKzyx) | 4:20 |
 | 43 | [הבניין האחרון בתל אביב](https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal) | [לי עוד יש ים בתוכי](https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb) | 3:25 |
-| 44 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
-| 45 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
+| 44 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
+| 45 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
 | 46 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Tuval Haim](https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
 | 47 | [Midnight Blue](https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [Midnight Blue](https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q) | 3:49 |
 | 48 | [לפני שהכל נרדם](https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P) | 3:16 |
-| 49 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
-| 50 | [עוד יום](https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB), [Nir Shlomo](https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef) | [עוד יום](https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr) | 3:08 |
+| 49 | [עוד יום](https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB), [Nir Shlomo](https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef) | [עוד יום](https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr) | 3:08 |
+| 50 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
 
 Snapshot ID: `AAAAALI7WlbhrAdeA+1xelJkVhSTbF9s`

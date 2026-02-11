@@ -1,13 +1,29 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 162025,
+  "num_followers": 162046,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAAKdXyTFQRh1mju3thCfYA3",
+  "snapshot_id": "aYkjgAAAAAB/qm/qz+/l5GskVYU8paB9",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barranquilla Est\u00e1 De Moda",
+        "url": "https://open.spotify.com/album/4aKBp8ipnnJk25s5QgIcY0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Barranquilla Est\u00e1 De Moda",
+      "url": "https://open.spotify.com/track/168R1Z55BafUjCwjJk3oHT"
+    },
     {
       "added_at": null,
       "album": {
@@ -43,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Hay Quinto Malo",
         "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
       },
@@ -71,6 +71,22 @@
       "duration_ms": 310360,
       "name": "Cali Pachanguero",
       "url": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
     },
     {
       "added_at": null,
@@ -447,38 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Aventura...La Historia",
-        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Miserable",
-      "url": "https://open.spotify.com/track/0vVkF4i1QBigjfvRpaFamh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cl\u00e1sicos 1.0: Entrega",
-        "url": "https://open.spotify.com/album/4IXCRis7jeykTiP1UMUrMq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 297061,
-      "name": "Cl\u00e1sicos 1.0: Entrega",
-      "url": "https://open.spotify.com/track/3Em4X4dWNxYeUz6fs2vXFB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Alto En El Camino",
         "url": "https://open.spotify.com/album/5K1xoFuq0UnWFVLhYcRCI5"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Una Aventura...La Historia",
+        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 322013,
+      "name": "Miserable",
+      "url": "https://open.spotify.com/track/0vVkF4i1QBigjfvRpaFamh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sutil y Contundente",
         "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 335986,
       "name": "Mi Hijo y Yo",
       "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cl\u00e1sicos 1.0: Entrega",
+        "url": "https://open.spotify.com/album/4IXCRis7jeykTiP1UMUrMq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 297061,
+      "name": "Cl\u00e1sicos 1.0: Entrega",
+      "url": "https://open.spotify.com/track/3Em4X4dWNxYeUz6fs2vXFB"
     },
     {
       "added_at": null,
@@ -547,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sutil y Contundente",
+        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 282466,
+      "name": "Atrevida",
+      "url": "https://open.spotify.com/track/1jV0IFiUu0NqQgx1T7idQZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tapando el Hueco",
         "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
       },
@@ -563,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sutil y Contundente",
-        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+        "name": "Se\u00f1ales de Humo",
+        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
       },
       "artists": [
         {
@@ -572,9 +604,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 282466,
-      "name": "Atrevida",
-      "url": "https://open.spotify.com/track/1jV0IFiUu0NqQgx1T7idQZ"
+      "duration_ms": 315600,
+      "name": "Mujer de Novela",
+      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
     },
     {
       "added_at": null,
@@ -611,38 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tapando el Hueco",
-        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 291893,
-      "name": "El Amor Vendr\u00e1",
-      "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se\u00f1ales de Humo",
-        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 315600,
-      "name": "Mujer de Novela",
-      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Rupelto Mena",
-      "url": "https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak"
+      "duration_ms": 291893,
+      "name": "El Amor Vendr\u00e1",
+      "url": "https://open.spotify.com/track/4VWGmPuJL9c9yYfHcox2sL"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triunfo",
-        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 331673,
-      "name": "Listo Medell\u00edn",
-      "url": "https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF"
+      "duration_ms": 287000,
+      "name": "Rupelto Mena",
+      "url": "https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Triunfo",
+        "url": "https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 331673,
+      "name": "Listo Medell\u00edn",
+      "url": "https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 282536,
       "name": "Han Cogido la Cosa",
       "url": "https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Querer Es Poder",
-        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 338964,
-      "name": "Digo Yo",
-      "url": "https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU"
     },
     {
       "added_at": null,

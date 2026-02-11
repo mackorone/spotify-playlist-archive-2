@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 60907,
+  "num_followers": 60911,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -835,102 +835,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
-      },
-      "artists": [
-        {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
-        }
-      ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Crossing the Junction / Deer River",
-        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Ace Stringband",
-          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
-        }
-      ],
-      "duration_ms": 218120,
-      "name": "Crossing the Junction / Deer River",
-      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "30 Turkeys",
-        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
-      },
-      "artists": [
-        {
-          "name": "Kid Reverie",
-          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
-        }
-      ],
-      "duration_ms": 140970,
-      "name": "30 Turkeys",
-      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Your Daughters & Your Sons",
-        "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
-      },
-      "artists": [
-        {
-          "name": "The Duhks",
-          "url": "https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
-      "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "A Man Must Carry On",
-        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
-      },
-      "artists": [
-        {
-          "name": "Aubrey Haynie",
-          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
-        }
-      ],
-      "duration_ms": 329933,
-      "name": "Eternal Blues",
-      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Telluride Sessions",
-        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
-      },
-      "artists": [
-        {
-          "name": "Strength In Numbers",
-          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Blue Men Of The Sahara",
-      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Putting on the Ring",
         "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
       },
@@ -951,6 +855,102 @@
       "duration_ms": 161309,
       "name": "Putting on the Ring",
       "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+      },
+      "artists": [
+        {
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "30 Turkeys",
+        "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
+      },
+      "artists": [
+        {
+          "name": "Kid Reverie",
+          "url": "https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea"
+        }
+      ],
+      "duration_ms": 140970,
+      "name": "30 Turkeys",
+      "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "A Man Must Carry On",
+        "url": "https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+        }
+      ],
+      "duration_ms": 329933,
+      "name": "Eternal Blues",
+      "url": "https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Your Daughters & Your Sons",
+        "url": "https://open.spotify.com/album/5sCawKubwTclDQlYbwoK7C"
+      },
+      "artists": [
+        {
+          "name": "The Duhks",
+          "url": "https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "The Green Fields Of Glentown, Le Reel des Nouveaux Mari\u00e9s, Flash Away The Pressing Gang",
+      "url": "https://open.spotify.com/track/7mU0UePv6EmZiVKvI2NKXU"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Crossing the Junction / Deer River",
+        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        }
+      ],
+      "duration_ms": 218120,
+      "name": "Crossing the Junction / Deer River",
+      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Telluride Sessions",
+        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
+      },
+      "artists": [
+        {
+          "name": "Strength In Numbers",
+          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Blue Men Of The Sahara",
+      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 392200,
-      "name": "We Hide And Seek",
-      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Jubilation",
         "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 179140,
       "name": "Graveyard Fields",
       "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 392200,
+      "name": "We Hide And Seek",
+      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1281,6 +1281,26 @@
       "url": "https://open.spotify.com/track/27QOxKWxwR1XmFjDuHyD4T"
     },
     {
+      "added_at": "2026-02-06 14:14:34",
+      "album": {
+        "name": "Crazy Creek",
+        "url": "https://open.spotify.com/album/2JxJhhtE5BVWiiRov2rKUh"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        },
+        {
+          "name": "Jake Stargel",
+          "url": "https://open.spotify.com/artist/2gGZgboSNxFbVEqX9rkqEp"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Crazy Creek",
+      "url": "https://open.spotify.com/track/2bHknQnqcBwt6SiEXBrGqV"
+    },
+    {
       "added_at": "2026-02-04 05:00:17",
       "album": {
         "name": "Carried Along",
@@ -1347,6 +1367,22 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "The View From Here",
+        "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Flinner",
+          "url": "https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Black's Fork",
+      "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "Now They Are Four",
         "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
       },
@@ -1367,22 +1403,6 @@
       "duration_ms": 177493,
       "name": "Santa Ana",
       "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "The View From Here",
-        "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
-      },
-      "artists": [
-        {
-          "name": "Matt Flinner",
-          "url": "https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Black's Fork",
-      "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1431,26 +1451,6 @@
       "duration_ms": 254906,
       "name": "Bozeman",
       "url": "https://open.spotify.com/track/2ieYVBhGy8PEOPEl3ZLCZO"
-    },
-    {
-      "added_at": "2026-02-06 14:14:34",
-      "album": {
-        "name": "Crazy Creek",
-        "url": "https://open.spotify.com/album/2JxJhhtE5BVWiiRov2rKUh"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        },
-        {
-          "name": "Jake Stargel",
-          "url": "https://open.spotify.com/artist/2gGZgboSNxFbVEqX9rkqEp"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Crazy Creek",
-      "url": "https://open.spotify.com/track/2bHknQnqcBwt6SiEXBrGqV"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1503,6 +1503,34 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "Wind Tunnel",
+        "url": "https://open.spotify.com/album/0ZGG9f1w3ZxUYUJuUe0UTg"
+      },
+      "artists": [
+        {
+          "name": "Chandler Beavers",
+          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
+        },
+        {
+          "name": "Alex Berman",
+          "url": "https://open.spotify.com/artist/0JzZ4GVfbBkdFd76xCWnIr"
+        },
+        {
+          "name": "John Colby Elswick",
+          "url": "https://open.spotify.com/artist/4AaLUD7b7JyGFZMzv9hD9T"
+        },
+        {
+          "name": "Ryan Ratliff",
+          "url": "https://open.spotify.com/artist/38o0P0LUaF3BDtYK8f7J4U"
+        }
+      ],
+      "duration_ms": 351888,
+      "name": "Wind Tunnel",
+      "url": "https://open.spotify.com/track/1nosba6oFDm3xidiQ6BTHO"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "Bozeman (Clawhammer Version)",
         "url": "https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2"
       },
@@ -1531,34 +1559,6 @@
       "duration_ms": 231000,
       "name": "Old Hickory",
       "url": "https://open.spotify.com/track/3F3Z9tXg4iCPWGgf31Nihv"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Wind Tunnel",
-        "url": "https://open.spotify.com/album/0ZGG9f1w3ZxUYUJuUe0UTg"
-      },
-      "artists": [
-        {
-          "name": "Chandler Beavers",
-          "url": "https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv"
-        },
-        {
-          "name": "Alex Berman",
-          "url": "https://open.spotify.com/artist/0JzZ4GVfbBkdFd76xCWnIr"
-        },
-        {
-          "name": "John Colby Elswick",
-          "url": "https://open.spotify.com/artist/4AaLUD7b7JyGFZMzv9hD9T"
-        },
-        {
-          "name": "Ryan Ratliff",
-          "url": "https://open.spotify.com/artist/38o0P0LUaF3BDtYK8f7J4U"
-        }
-      ],
-      "duration_ms": 351888,
-      "name": "Wind Tunnel",
-      "url": "https://open.spotify.com/track/1nosba6oFDm3xidiQ6BTHO"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+      },
+      "artists": [
+        {
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "Lovin' Of The Game",
         "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+        "name": "Things Are Simple",
+        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
       },
       "artists": [
         {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
         }
       ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
+      "duration_ms": 288026,
+      "name": "Along Came Sonny",
+      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Things Are Simple",
-        "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF"
-        }
-      ],
-      "duration_ms": 288026,
-      "name": "Along Came Sonny",
-      "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
       },
@@ -1679,6 +1679,38 @@
       "duration_ms": 372746,
       "name": "Golden",
       "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Jolly Green",
+        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 142652,
+      "name": "Jolly Green",
+      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "OKX",
+        "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
+      },
+      "artists": [
+        {
+          "name": "The OK Factor",
+          "url": "https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv"
+        }
+      ],
+      "duration_ms": 244111,
+      "name": "Bluegrass Ben",
+      "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1711,38 +1743,6 @@
       "duration_ms": 237768,
       "name": "And Then, And Then, And Then",
       "url": "https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "OKX",
-        "url": "https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb"
-      },
-      "artists": [
-        {
-          "name": "The OK Factor",
-          "url": "https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv"
-        }
-      ],
-      "duration_ms": 244111,
-      "name": "Bluegrass Ben",
-      "url": "https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Jolly Green",
-        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 142652,
-      "name": "Jolly Green",
-      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
     },
     {
       "added_at": "2026-02-04 05:00:17",

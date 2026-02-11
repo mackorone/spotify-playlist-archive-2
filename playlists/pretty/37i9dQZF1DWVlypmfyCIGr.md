@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Sara Wakui
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,560 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,567 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 19 | [シュビドゥバ](https://open.spotify.com/track/5xYLxhxS7wlB4fuAyDJStS) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4) | [シュビドゥバ](https://open.spotify.com/album/6jYzKCnOp0Jy8mHfvJ26cX) | 3:01 |
 | 20 | [サンダー止まらない](https://open.spotify.com/track/0npCycnXkk2wHQ2Kg91Hca) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [who](https://open.spotify.com/album/5CSOncvpLb6K7hELcZeLXA) | 4:22 |
 | 21 | [Some New XXX](https://open.spotify.com/track/1Haueu11v8v0qX4xZmBcU9) | [Wang One](https://open.spotify.com/artist/3JiWk8nq1qaAVP7KoCVmKD) | [Some New XXX](https://open.spotify.com/album/3HCCH9xzQfXXaiQNgMSDYw) | 3:48 |
-| 22 | [back for me](https://open.spotify.com/track/7HZMIIF0neWvNC8P1UgAQo) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [back for me](https://open.spotify.com/album/2sGhKPde7GODDkdaH2aP6C) | 3:28 |
+| 22 | [back for me](https://open.spotify.com/track/7HZMIIF0neWvNC8P1UgAQo) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [YONCE](https://open.spotify.com/artist/5QnTDESz5t2Fq7m2B5a7IJ) | [back for me](https://open.spotify.com/album/2sGhKPde7GODDkdaH2aP6C) | 3:28 |
 | 23 | [はじまり](https://open.spotify.com/track/38D44LWZLka2Z6Uk1XWl9h) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [はじまり](https://open.spotify.com/album/2YSPTKzRGxVzLAV39llGQx) | 3:59 |
 | 24 | [解釈](https://open.spotify.com/track/7IzwLktAOfRROPhRsA3q3v) | [kei](https://open.spotify.com/artist/1xp6W3tUbDNPOZRm35KeNq) | [解釈](https://open.spotify.com/album/713STnJGmzkHZaLXSsaPRJ) | 3:51 |
 | 25 | [DARK GAME](https://open.spotify.com/track/06yH03bQeE3qYbeD2lmNoG) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [DARK GAME](https://open.spotify.com/album/7KUSqIZLZE7YxCpgvUqTc5) | 3:32 |

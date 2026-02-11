@@ -7415,6 +7415,28 @@
     },
     {
       "album": {
+        "name": "B.B.B.",
+        "url": "https://open.spotify.com/album/2cuHPmCMw1FbcYjzFnYxX5"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Genesisthegawd",
+          "url": "https://open.spotify.com/artist/4Sn6QtpIRLwt5mtQBbzcOu"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140986,
+      "name": "B.B.B.",
+      "url": "https://open.spotify.com/track/34cHt7RO0My6Nsi4mvj0ez"
+    },
+    {
+      "album": {
         "name": "B.B.B. (Snapchat)",
         "url": "https://open.spotify.com/album/7dXzUBKhbW6Ieg14Xen7vk"
       },
@@ -58215,6 +58237,24 @@
     },
     {
       "album": {
+        "name": "Look At The Sky",
+        "url": "https://open.spotify.com/album/0PjsfQ214HanVNGaIGXsEF"
+      },
+      "artists": [
+        {
+          "name": "Kromow",
+          "url": "https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Look At The Sky",
+      "url": "https://open.spotify.com/track/1qOEftqzEzXzfv1IouD7s8"
+    },
+    {
+      "album": {
         "name": "Look At You",
         "url": "https://open.spotify.com/album/2dZvOTKtZXs9v8AzdnO9pZ"
       },
@@ -84348,7 +84388,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 128000,
       "name": "Safe With Me",
       "url": "https://open.spotify.com/track/0skpk4dJ94wLabTpJ3mwl6"
@@ -98904,6 +98944,24 @@
       "duration_ms": 133642,
       "name": "the ok song.",
       "url": "https://open.spotify.com/track/1OTSnzieL7hyOJyxBicNz2"
+    },
+    {
+      "album": {
+        "name": "gutta child",
+        "url": "https://open.spotify.com/album/5bGEq0KEtEwQfgpnimNG7c"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143940,
+      "name": "the one",
+      "url": "https://open.spotify.com/track/6Xz56CFYQ1tE3YadauIIiG"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 9046,
+  "num_followers": 9068,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAAGDxQRYW3isGBKVLgz+S+G",
+  "snapshot_id": "aYkjgAAAAACSwdh9sjLbO9V/b/3hOA84",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El-Chapo",
-        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "Porsche",
-      "url": "https://open.spotify.com/track/6sSKIXaucNYEKH3dmcixm8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Major",
         "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
@@ -303,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shakur",
         "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
       },
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+        "name": "El-Chapo",
+        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 177931,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi"
+      "duration_ms": 172035,
+      "name": "Porsche",
+      "url": "https://open.spotify.com/track/6sSKIXaucNYEKH3dmcixm8"
     },
     {
       "added_at": null,

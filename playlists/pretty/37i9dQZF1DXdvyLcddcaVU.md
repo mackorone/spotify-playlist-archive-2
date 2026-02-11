@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,470 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,619 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 23 | [Je pense à toi](https://open.spotify.com/track/5qq9r3KUlpinOXLO7zEDo8) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Jeunesse Dorée](https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3) | 2:52 |
 | 24 | [Mode avion](https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Mode avion](https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc) | 2:24 |
 | 25 | [La voisine d'en dessous ...](https://open.spotify.com/track/1p93Kn7xmhznBsmud9U3DS) | [LauCarré](https://open.spotify.com/artist/0NuAhoKXhbTZEQwKzvVYRm) | [La voisine d'en dessous ...](https://open.spotify.com/album/7gJs5tVVPBgid7MdyxUT9h) | 2:03 |
-| 26 | [\(When You Gonna\) Give It Up to Me \(feat\. Keyshia Cole\) \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It Up to Me \[feat\. Keyshia Cole\]](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
+| 26 | [\(When You Gonna\) Give It Up to Me \- Radio Version](https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [\(When You Gonna\) Give It Up to Me](https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3) | 4:03 |
 | 27 | [Solide](https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [OMW](https://open.spotify.com/album/1APrydqpXaHpfA3RZcbu07) | 3:32 |
 | 28 | [Biff pas d'love](https://open.spotify.com/track/4R0HXKZBeDJerIq9oCnDIp) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ??](https://open.spotify.com/album/7F3yHL31hTR2aEJYTyXjZR) | 2:34 |
 | 29 | [RUINART](https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [RUINART](https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1) | 2:54 |

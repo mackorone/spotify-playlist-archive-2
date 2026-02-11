@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 9,055 likes - 297 songs - 18 hr 29 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 9,053 likes - 297 songs - 18 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 101 | [Shadow Over Me](https://open.spotify.com/track/4bTYuyH7wejFS2e82i6pPb) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 3:55 |
 | 102 | [Don't Forget To Say Please](https://open.spotify.com/track/1OWjfgSTPbgghfH0lnw41K) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Don't Forget To Say Please](https://open.spotify.com/album/30DcYLvCzT5yubiP7BC5tO) | 2:51 |
 | 103 | [Into The Cesspool](https://open.spotify.com/track/2YZlG2b8Gz0t6ThDiRPinZ) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Into The Cesspool](https://open.spotify.com/album/0YmYysa7t4xstlKnVCVsM6) | 3:43 |
-| 104 | [Burn](https://open.spotify.com/track/5RFD19vL1hkcOGLFk7pgB9) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Burn](https://open.spotify.com/album/6yNbiRz8eb5yucmK0UFf0c) | 3:06 |
+| 104 | [Burn](https://open.spotify.com/track/5RFD19vL1hkcOGLFk7pgB9) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Burn](https://open.spotify.com/album/6yNbiRz8eb5yucmK0UFf0c) | 3:04 |
 | 105 | [Mercia](https://open.spotify.com/track/0ptNPzAaewqAlfoQFCoiLT) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Mercia](https://open.spotify.com/album/7b0ToeYAyJ2mscjvZgt4Ep) | 5:34 |
 | 106 | [Reasons](https://open.spotify.com/track/2Kbw9PN25sxZpP0vyKgKW9) | [XCOMM](https://open.spotify.com/artist/5cpYeQPUGJh6KsQhnd6P8T) | [Reasons](https://open.spotify.com/album/6Un7ChzNDFIi5833ohv7I7) | 2:41 |
 | 107 | [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 |

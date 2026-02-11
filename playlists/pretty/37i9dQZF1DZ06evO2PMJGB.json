@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265217,
+  "num_followers": 265213,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAACllhSnQHPLEDQC8cJIifca",
+  "snapshot_id": "aYkjgAAAAACJn9tsWRk+c/Zm1sk/5rv3",
   "tracks": [
     {
       "added_at": null,
@@ -115,70 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Vai Embora",
-        "url": "https://open.spotify.com/album/6JwoRKYnWd1Dv5z6zfv0bo"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 205785,
-      "name": "N\u00e3o Vai Embora",
-      "url": "https://open.spotify.com/track/28atBekPVlTdnU4M9Z7udd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        }
-      ],
-      "duration_ms": 234730,
-      "name": "Surreal",
-      "url": "https://open.spotify.com/track/1dv8qeBPtLAli7J3xNeTDR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHAMA MEU NOME",
-        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 135111,
-      "name": "ATEN\u00c7\u00c3O",
-      "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -235,6 +171,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 234730,
+      "name": "Surreal",
+      "url": "https://open.spotify.com/track/1dv8qeBPtLAli7J3xNeTDR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHAMA MEU NOME",
+        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "ATEN\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hotel Caro",
         "url": "https://open.spotify.com/album/56TOlNuqJ05wDBJGfrjIjV"
       },
@@ -251,6 +227,30 @@
       "duration_ms": 221857,
       "name": "Hotel Caro",
       "url": "https://open.spotify.com/track/13cC8N59S63EOeSNMhskEO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Vai Embora",
+        "url": "https://open.spotify.com/album/6JwoRKYnWd1Dv5z6zfv0bo"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 205785,
+      "name": "N\u00e3o Vai Embora",
+      "url": "https://open.spotify.com/track/28atBekPVlTdnU4M9Z7udd"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         }
       ],
-      "duration_ms": 152752,
-      "name": "Onde Anda Voc\u00ea",
-      "url": "https://open.spotify.com/track/1Ir4ixntD7SXBLK1OZI2fr"
+      "duration_ms": 171490,
+      "name": "Consola\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0tGjU70vDGwSLbO1W78Dey"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         }
       ],
-      "duration_ms": 171490,
-      "name": "Consola\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0tGjU70vDGwSLbO1W78Dey"
+      "duration_ms": 152752,
+      "name": "Onde Anda Voc\u00ea",
+      "url": "https://open.spotify.com/track/1Ir4ixntD7SXBLK1OZI2fr"
     },
     {
       "added_at": null,
@@ -623,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo de bom",
-        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
       "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 164760,
-      "name": "Tudo de bom",
-      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
+      "duration_ms": 186121,
+      "name": "penhasco.",
+      "url": "https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a"
     },
     {
       "added_at": null,
@@ -663,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+        "name": "Tudo de bom",
+        "url": "https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO"
       },
       "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 186121,
-      "name": "penhasco.",
-      "url": "https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a"
+      "duration_ms": 164760,
+      "name": "Tudo de bom",
+      "url": "https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAMA.CITA (hasta la vista)",
-        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
       "artists": [
         {
@@ -708,13 +708,13 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
         }
       ],
-      "duration_ms": 152358,
-      "name": "MAMA.CITA (hasta la vista)",
-      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+      "duration_ms": 183100,
+      "name": "ANACONDA *o* ~~~",
+      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+        "name": "MAMA.CITA (hasta la vista)",
+        "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
       "artists": [
         {
@@ -748,13 +748,13 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 183100,
-      "name": "ANACONDA *o* ~~~",
-      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
+      "duration_ms": 152358,
+      "name": "MAMA.CITA (hasta la vista)",
+      "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CACHORRINHAS",
-        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 134936,
-      "name": "CACHORRINHAS",
-      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOCE 22",
         "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 130446,
       "name": "INTERE$$EIRA",
       "url": "https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CACHORRINHAS",
+        "url": "https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 134936,
+      "name": "CACHORRINHAS",
+      "url": "https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion"
     },
     {
       "added_at": null,
@@ -884,33 +884,13 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
         }
       ],
-      "duration_ms": 155545,
-      "name": "Samba de Ver\u00e3o",
-      "url": "https://open.spotify.com/track/78T4yGkVB5AWaJ5v9EvQk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "Calling Me",
-      "url": "https://open.spotify.com/track/0y5E23MHzuHs4vkBC9p170"
+      "duration_ms": 183992,
+      "name": "\u00c1guas de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/0MHySawcjVkAcxHdsyI6o1"
     },
     {
       "added_at": null,
@@ -951,6 +931,46 @@
       "duration_ms": 167122,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "Calling Me",
+      "url": "https://open.spotify.com/track/0y5E23MHzuHs4vkBC9p170"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 174881,
+      "name": "Tenta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
     }
   ],
   "unique_name": "This Is Lu\u00edsa Sonza",

@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Amo, Aymen
 
-436 songs - 18 hr 28 min
+437 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Denkst du an mich](https://open.spotify.com/track/1og1WUJtEFCnC7FxxHe0C0) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Denkst du an mich](https://open.spotify.com/album/1gCpb6P29znhvymToiydUV) | 2:43 | 2025-06-18 | 2025-10-03 |
 | [Desole](https://open.spotify.com/track/5AEzbN2MAAWCvLtRDTNChY) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Der Yavuz](https://open.spotify.com/artist/59qNA3x8KEFnzFWINGlkyt) | [RLR2 \- Runde 4 \- Tag 6: Ein bekanntes Echo](https://open.spotify.com/album/6MOU66GC8I4TyKivmCDgwA) | 2:40 | 2025-04-10 | 2025-04-25 |
 | [Deutsche Pass \(Freestyle \#12\)](https://open.spotify.com/track/4oWEH9TFKh893MH28lDDOD) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga) | [Deutsche Pass \(Freestyle \#12\)](https://open.spotify.com/album/1vgrYho7RooKiM7KNh49ag) | 1:44 | 2024-06-28 | 2024-07-27 |
+| [DEUTSCHER BADBOY](https://open.spotify.com/track/0uSpBgfi1AesqaL4WlYnfQ) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [DEUTSCHER BADBOY](https://open.spotify.com/album/0LOnAZ6R6N3RuvqFzeuGPe) | 2:23 | 2026-02-09 |  |
 | [Diadem](https://open.spotify.com/track/5my01OPtKE7EbyBiyjfRvy) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Diadem](https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI) | 2:44 | 2025-04-10 |  |
 | [Diamonds](https://open.spotify.com/track/2clyzcE05jrDKpq410hcRQ) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Race 'n' Pain](https://open.spotify.com/album/5Z2VP7id6qY2xTRiJ4QTxy) | 2:07 | 2024-09-02 | 2025-01-17 |
 | [Did You See \(feat\. Jazeek\)](https://open.spotify.com/track/5z1ohvvWduu1jRfiz9IPzU) | [Saliou](https://open.spotify.com/artist/0IVTMmy722V3uUa9dqIHnY), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Did You See \(feat\. Jazeek\)](https://open.spotify.com/album/0R3TxAtqNe52zRMgvXBskY) | 2:14 | 2024-12-09 | 2025-04-11 |
@@ -145,7 +146,7 @@
 | [Eurosport](https://open.spotify.com/track/1IncGnjnnKmBkFw0vIf0lV) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Eurosport](https://open.spotify.com/album/6jGAdXROnVnPKtncSr7jj8) | 2:42 | 2024-06-28 | 2024-10-25 |
 | [ex und so](https://open.spotify.com/track/2qGCbovPihUJFbaRlGsFLL) | [IBRA](https://open.spotify.com/artist/7cuo0m2sTg2Pc65nc6vZTb) | [ex und so](https://open.spotify.com/album/5a1RQxsWXpvWrB1cuFvtnl) | 2:15 | 2024-08-26 |  |
 | [Fantasia](https://open.spotify.com/track/5xypiIRm7ILzbz0kze92u6) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN) | [Fantasia](https://open.spotify.com/album/5NXVPkMBEozDLKI25LCrtu) | 2:20 | 2024-07-25 | 2024-09-10 |
-| [Farbenblind](https://open.spotify.com/track/6jnslZYy0L9PUx41LhY2rS) | [Vokuz](https://open.spotify.com/artist/6doXiwnEk5F9MToIeEy2uS), [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Farbenblind](https://open.spotify.com/album/0cB4YgrmaAZFALlJrGuaqv) | 2:25 | 2026-01-22 |  |
+| [Farbenblind](https://open.spotify.com/track/6jnslZYy0L9PUx41LhY2rS) | [Vokuz](https://open.spotify.com/artist/6doXiwnEk5F9MToIeEy2uS), [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Farbenblind](https://open.spotify.com/album/0cB4YgrmaAZFALlJrGuaqv) | 2:25 | 2026-01-22 | 2026-02-11 |
 | [Favela](https://open.spotify.com/track/75lcLViAJrnKsQTVgn1ZBp) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [Favela](https://open.spotify.com/album/3qtjEZ0ULgJaKjf5eIhapK) | 2:12 | 2024-08-21 | 2024-10-11 |
 | [Favela Type Beat](https://open.spotify.com/track/0yfe4whuXtjif5WQt4uXGu) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Favela Type Beat](https://open.spotify.com/album/6Jy1my0Y51UIeZSmp37P9K) | 2:27 | 2024-06-28 | 2024-12-17 |
 | [Fiona](https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J) | [BENSH47](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Fiona](https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF) | 2:52 | 2025-09-18 | 2025-10-03 |

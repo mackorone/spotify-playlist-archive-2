@@ -4,7 +4,7 @@
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-81 songs - 5 hr 6 min
+82 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Mariposas \(En Vivo\)](https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 3:45 | 2022-10-26 |  |
 | [Marta tiene un marcapasos](https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 2:12 | 2022-10-26 |  |
 | [Marta tiene un marcapasos](https://open.spotify.com/track/7shspTz6FNQstsNXsKPiGe) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Marta tiene un marcapasos](https://open.spotify.com/album/3MMHQ8sRJO9QW6znUhgQBW) | 2:58 | 2024-07-14 | 2024-08-10 |
+| [Me quiero enamorar](https://open.spotify.com/track/5GCIcA9uuEoKRewpivrKEh) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Todo esto es muy extraño \(American edition\)](https://open.spotify.com/album/21qKh1Xap2JPTZ1EJUxbl1) | 2:39 | 2026-02-11 |  |
 | [Me siento bien](https://open.spotify.com/track/1BhVIZ0fuduQfpB7AD3AeY) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [10](https://open.spotify.com/album/6HCNZr7n6OwPhWP2cVRfLg) | 3:39 | 2022-10-26 |  |
 | [Mi Primer Día Sin Ti \(En Vivo\)](https://open.spotify.com/track/7MTuVOR52Y3B06fmLdNTmP) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 4:58 | 2025-02-07 |  |
 | [Mis amigos](https://open.spotify.com/track/4wR6BFCeMHtQUlVh7gshuR) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:30 | 2022-10-30 |  |

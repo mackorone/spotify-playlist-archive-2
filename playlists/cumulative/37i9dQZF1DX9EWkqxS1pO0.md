@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Yangın
 
-351 songs - 17 hr 44 min
+352 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,12 +112,13 @@
 | [Dünün Kokusu](https://open.spotify.com/track/6DDDo3ZOTVRRYeXIq5bmFF) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Değerlim'in Hikayesi](https://open.spotify.com/album/1i6eiccWGAJXmSgTiOm2fW) | 4:50 | 2025-03-20 | 2025-05-07 |
 | [Düş](https://open.spotify.com/track/5YBQb5VJOtcP9JfGO8fhZi) | [Aneeka](https://open.spotify.com/artist/3LG1Dds0r6J5oXnIHazDLb) | [Düş](https://open.spotify.com/album/1vTymFilMLsNVMCbOHJTdk) | 2:56 | 2025-08-28 | 2025-09-05 |
 | [DÜŞLERİM](https://open.spotify.com/track/5fyQngKPy0lxTQlVXzdKz2) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [DÜŞLERİM](https://open.spotify.com/album/5hBZZAzvX2Otm312ORebxl) | 1:47 | 2024-06-20 | 2024-09-06 |
+| [Düşman Değiliz](https://open.spotify.com/track/4hiqQu67ZNPtL1RjDx3PFs) | [Yakın](https://open.spotify.com/artist/5VnHnTxsYjdFwAou2Ve3lC) | [Düşman Değiliz](https://open.spotify.com/album/7j5JoTbAwsPTKsB2EXcAkP) | 2:48 | 2026-01-29 |  |
 | [Düştüm İçine](https://open.spotify.com/track/3X0NKRQlD9xMZUOjDFLfDp) | [Anse](https://open.spotify.com/artist/25ozjJTczMhBzbda9Fjvcb) | [Düştüm İçine](https://open.spotify.com/album/148HJN1ZKJnqvxhygiFDFr) | 2:31 | 2025-09-12 | 2025-09-26 |
 | [Ekim](https://open.spotify.com/track/32CkDtvmJwrciS4BtWrd57) | [Kamran](https://open.spotify.com/artist/6l5YBa5XLdztUrb45aR7Gz) | [Ekim](https://open.spotify.com/album/6gwwGN8rtNEtIcsch8scUh) | 3:20 | 2024-11-14 | 2024-11-29 |
 | [El Ele](https://open.spotify.com/track/1BGM05D6mlJKMRiW8jaC3K) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [El Ele](https://open.spotify.com/album/23Iw8sDaUDTWF57ghfxh13) | 2:52 | 2024-06-20 | 2024-09-06 |
 | [Elalemci](https://open.spotify.com/track/6zetltEZezCOerhKruCl85) | [Alaturca Club](https://open.spotify.com/artist/0fwNI3rKjhHtiDqngqNI3X) | [Club Alaturca](https://open.spotify.com/album/3fgcxSvINdzVcNE19XdpDF) | 3:50 | 2024-12-19 | 2025-01-10 |
 | [Elmas](https://open.spotify.com/track/2Odk6q0tqmIVAwDsnz5z8y) | [Melis Yelman](https://open.spotify.com/artist/5293MFbMbXTTvCZP8hezDv) | [Elmas](https://open.spotify.com/album/4o6SVSaIFFTzqRbRQ95v0Z) | 2:34 | 2024-06-20 | 2024-08-02 |
-| [Elveda](https://open.spotify.com/track/45Un6ScdLCvoqsXkvTDv4u) | [Kırık Pena](https://open.spotify.com/artist/2UyRbOa0I0umGFcrQks3pv) | [Elveda](https://open.spotify.com/album/68Oyoyfn52As1JA6aeNP38) | 3:18 | 2024-09-27 |  |
+| [Elveda](https://open.spotify.com/track/45Un6ScdLCvoqsXkvTDv4u) | [Kırık Pena](https://open.spotify.com/artist/2UyRbOa0I0umGFcrQks3pv) | [Elveda](https://open.spotify.com/album/68Oyoyfn52As1JA6aeNP38) | 3:18 | 2024-09-27 | 2026-02-11 |
 | [Elveda](https://open.spotify.com/track/1Cq43stElh7czsd1h0yf2w) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Elveda](https://open.spotify.com/album/7vIiGmRqM2UZDJBlYHtE8I) | 2:28 | 2024-08-01 |  |
 | [Emanet](https://open.spotify.com/track/4moHNi7asFzI7VwTf0y5yM) | [Encam Potkal](https://open.spotify.com/artist/6zK6M3kgmZryq0YaKFoD36) | [Emanet](https://open.spotify.com/album/54Czew6WTDQSvKZtI3cciO) | 4:48 | 2025-07-24 | 2025-10-17 |
 | [Emanetin](https://open.spotify.com/track/2wpmIIWBRI7XfgeNMiLRXR) | [Cem Pilevneli](https://open.spotify.com/artist/5cysAsZNRZfLtjqhGEqXtB) | [Emanetin](https://open.spotify.com/album/30X5rlphMz3TskCYeJU5Jj) | 3:52 | 2025-03-06 | 2025-03-22 |

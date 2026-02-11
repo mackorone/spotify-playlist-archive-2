@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 175831,
+  "num_followers": 175830,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Girl On Fire (Acoustic)",
-        "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 188709,
-      "name": "Girl On Fire - Acoustic",
-      "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "You (Acoustic)",
         "url": "https://open.spotify.com/album/3irBIIu1tZxxRjIrb4G3n6"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 203373,
       "name": "You - Acoustic",
       "url": "https://open.spotify.com/track/5vMYHzU676heeOTgLhssKJ"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Girl On Fire (Acoustic)",
+        "url": "https://open.spotify.com/album/2KqVvChd3r5Q4WRchdbJia"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 188709,
+      "name": "Girl On Fire - Acoustic",
+      "url": "https://open.spotify.com/track/0kytPnW6jobXQDSoNw8TC9"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -971,38 +971,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
-        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 329053,
-      "name": "Love The Lonely Out Of You - Live Pinebox Version",
-      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
-        "name": "What He Didn't Do (Acoustic)",
-        "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 189555,
-      "name": "What He Didn't Do - Acoustic",
-      "url": "https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Friends Like That (feat. Jason Aldean - Stripped)",
         "url": "https://open.spotify.com/album/62ildty4IOfNHeZbaYmt06"
       },
@@ -1023,6 +991,22 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
+        "name": "What He Didn't Do (Acoustic)",
+        "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 189555,
+      "name": "What He Didn't Do - Acoustic",
+      "url": "https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
         "name": "That's Why (Acoustic Version)",
         "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 177772,
       "name": "That's Why (Acoustic Version)",
       "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
+        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 329053,
+      "name": "Love The Lonely Out Of You - Live Pinebox Version",
+      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
-        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "You Don't Want That Smoke. - The Acoustic Version.",
-      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "TWENTY SOMETHING (DELUXE)",
         "url": "https://open.spotify.com/album/5MoyIbsjnEHO2o6BNKjCpd"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 196986,
       "name": "goodbye looks good on you feat. Mitchell Tenpenny (acoustic)",
       "url": "https://open.spotify.com/track/5KhBQkh2LvhuQQCW0hFjNo"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
+        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "You Don't Want That Smoke. - The Acoustic Version.",
+      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Barstool Whiskey Wonderland (Wonderland Sides)",
-        "url": "https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 185815,
-      "name": "Coulda Loved You Longer - Acoustic",
-      "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
-    },
-    {
-      "added_at": "2026-01-16 05:00:43",
-      "album": {
         "name": "Drive You Out Of My Mind (Dark Room Edition)",
         "url": "https://open.spotify.com/album/5jojUcRWK4ItxreTB2duTg"
       },
@@ -1299,18 +1283,34 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "What If I Never Get Over You (Piano Version)",
-        "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
+        "name": "Barstool Whiskey Wonderland (Wonderland Sides)",
+        "url": "https://open.spotify.com/album/1VpOY5cZtzPWFnv4W7UBeq"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
         }
       ],
-      "duration_ms": 204639,
-      "name": "What If I Never Get Over You - Piano Version",
-      "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
+      "duration_ms": 185815,
+      "name": "Coulda Loved You Longer - Acoustic",
+      "url": "https://open.spotify.com/track/6igwsNMONs9uIqrLUCYWhj"
+    },
+    {
+      "added_at": "2026-01-16 05:00:43",
+      "album": {
+        "name": "Can't Nobody (Acoustic)",
+        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        }
+      ],
+      "duration_ms": 204358,
+      "name": "Can't Nobody - Acoustic",
+      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
     },
     {
       "added_at": "2026-01-16 05:00:43",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2026-01-16 05:00:43",
       "album": {
-        "name": "Can't Nobody (Acoustic)",
-        "url": "https://open.spotify.com/album/6C3biWX9TVBevi1aA5ucsk"
+        "name": "What If I Never Get Over You (Piano Version)",
+        "url": "https://open.spotify.com/album/11bmQ3T03JQ2aTfY62MPib"
       },
       "artists": [
         {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
         }
       ],
-      "duration_ms": 204358,
-      "name": "Can't Nobody - Acoustic",
-      "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
+      "duration_ms": 204639,
+      "name": "What If I Never Get Over You - Piano Version",
+      "url": "https://open.spotify.com/track/3LyoySNTjsKrBAZYWneQUr"
     },
     {
       "added_at": "2026-01-16 05:00:43",

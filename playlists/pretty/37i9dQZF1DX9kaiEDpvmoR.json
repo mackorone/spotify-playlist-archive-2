@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93775,
+  "num_followers": 93770,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
+        "name": "M\u00e4nniskobarn",
+        "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 200183,
+      "name": "D\u00e4r huden \u00e4r tunnast",
+      "url": "https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K"
+    },
+    {
+      "added_at": "2026-02-08 15:32:19",
+      "album": {
         "name": "Stockholm",
         "url": "https://open.spotify.com/album/64LKeh7Ban8XpiuPWb9MnC"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 249626,
       "name": "Stockholm",
       "url": "https://open.spotify.com/track/2xPiro8t2RPPxjkLvg0kHo"
-    },
-    {
-      "added_at": "2026-02-08 15:32:19",
-      "album": {
-        "name": "M\u00e4nniskobarn",
-        "url": "https://open.spotify.com/album/6dOFVRlMkZ4LWrzudjA9qC"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 200183,
-      "name": "D\u00e4r huden \u00e4r tunnast",
-      "url": "https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -499,18 +499,18 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
+        "name": "Margaretas s\u00e5ng",
+        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
       },
       "artists": [
         {
-          "name": "Annika Wickihalder",
-          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
         }
       ],
-      "duration_ms": 172333,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
+      "duration_ms": 252629,
+      "name": "Margaretas s\u00e5ng",
+      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -531,18 +531,18 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "Margaretas s\u00e5ng",
-        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
       },
       "artists": [
         {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+          "name": "Annika Wickihalder",
+          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
         }
       ],
-      "duration_ms": 252629,
-      "name": "Margaretas s\u00e5ng",
-      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
+      "duration_ms": 172333,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -579,18 +579,22 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "Stronger Than",
-        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
+        "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
+        "url": "https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD"
       },
       "artists": [
         {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+        },
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Stronger Than",
-      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
+      "duration_ms": 270875,
+      "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
+      "url": "https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -611,22 +615,18 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
-        "url": "https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD"
+        "name": "Stronger Than",
+        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
       },
       "artists": [
         {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
-        },
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
         }
       ],
-      "duration_ms": 270875,
-      "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
-      "url": "https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP"
+      "duration_ms": 188493,
+      "name": "Stronger Than",
+      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "Mother's Love Conquers All",
-        "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
-        }
-      ],
-      "duration_ms": 317160,
-      "name": "Mother's Love Conquers All",
-      "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
-    },
-    {
-      "added_at": "2026-02-08 15:32:19",
-      "album": {
         "name": "Til the music starts again",
         "url": "https://open.spotify.com/album/5F7JWDPml2qSmPhLRAOtuK"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 208571,
       "name": "Til the music starts again",
       "url": "https://open.spotify.com/track/68hnuOkBpjcx2p1nJqbYR1"
+    },
+    {
+      "added_at": "2026-02-08 15:32:19",
+      "album": {
+        "name": "Mother's Love Conquers All",
+        "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 317160,
+      "name": "Mother's Love Conquers All",
+      "url": "https://open.spotify.com/track/1V8t9A7kfwmv3HKi1JjJAP"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "F\u00f6r evigt ny",
-        "url": "https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW"
+        "name": "Rain in the River",
+        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
       },
       "artists": [
         {
-          "name": "Peder Stenberg",
-          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 248624,
-      "name": "F\u00f6r evigt ny",
-      "url": "https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX"
+      "duration_ms": 192226,
+      "name": "Rain in the River",
+      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -967,18 +967,18 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "Rain in the River",
-        "url": "https://open.spotify.com/album/3DInaCkwipZmTpN7TviZ7P"
+        "name": "F\u00f6r evigt ny",
+        "url": "https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "Peder Stenberg",
+          "url": "https://open.spotify.com/artist/2MKru4ipTJZbssZpyKwtB2"
         }
       ],
-      "duration_ms": 192226,
-      "name": "Rain in the River",
-      "url": "https://open.spotify.com/track/5pbmSyK67ASTZExAX3TrDP"
+      "duration_ms": 248624,
+      "name": "F\u00f6r evigt ny",
+      "url": "https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "F\u00f6rloraren",
-        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
-      },
-      "artists": [
-        {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "F\u00f6rloraren",
-      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
-    },
-    {
-      "added_at": "2026-02-08 15:32:19",
-      "album": {
         "name": "Sunday Love",
         "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 316373,
       "name": "Sunday Love",
       "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
+    },
+    {
+      "added_at": "2026-02-08 15:32:19",
+      "album": {
+        "name": "F\u00f6rloraren",
+        "url": "https://open.spotify.com/album/0F1nRV5CzvtwTFRQi5BgWo"
+      },
+      "artists": [
+        {
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "F\u00f6rloraren",
+      "url": "https://open.spotify.com/track/0sHZppXG7okFe6cr44UOkS"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -1127,34 +1127,18 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "Skebokvarnsv. 209 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
+        "name": "L\u00e5nat",
+        "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
       },
       "artists": [
         {
-          "name": "Th\u00e5str\u00f6m",
-          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+          "name": "Maxida M\u00e4rak",
+          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
         }
       ],
-      "duration_ms": 213115,
-      "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
-      "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
-    },
-    {
-      "added_at": "2026-02-08 15:32:19",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
-      },
-      "artists": [
-        {
-          "name": "Pernilla Andersson",
-          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
-        }
-      ],
-      "duration_ms": 224168,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
+      "duration_ms": 257000,
+      "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
+      "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -1175,18 +1159,34 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "L\u00e5nat",
-        "url": "https://open.spotify.com/album/1pKWyplKpbYHNw1Xdu003A"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7DRFNRjkaogUa1mhqJ3plw"
       },
       "artists": [
         {
-          "name": "Maxida M\u00e4rak",
-          "url": "https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns"
+          "name": "Pernilla Andersson",
+          "url": "https://open.spotify.com/artist/1muQ9itiu5KB1WiqehGoSy"
         }
       ],
-      "duration_ms": 257000,
-      "name": "Besv\u00e4rjelse (jag kommer \u00e4lska dig d\u00e5)",
-      "url": "https://open.spotify.com/track/0V5IP7tHiJXpyWRsSV5GAX"
+      "duration_ms": 224168,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/5gnFxT1AG2yiT9qmLR2Udb"
+    },
+    {
+      "added_at": "2026-02-08 15:32:19",
+      "album": {
+        "name": "Skebokvarnsv. 209 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7xvyIn38X0tWtD0OIHdvdd"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "duration_ms": 213115,
+      "name": "Bara om min \u00e4lskade v\u00e4ntar - Akustiskversion Dust",
+      "url": "https://open.spotify.com/track/6A9oBk2A0KDpnK4ledt7yD"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "Andetag (Man m\u00e5ste leva nu)",
-        "url": "https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o"
-      },
-      "artists": [
-        {
-          "name": "Milly",
-          "url": "https://open.spotify.com/artist/6a13c73elKEirrb8R2Iz8j"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Andetag (Man m\u00e5ste leva nu)",
-      "url": "https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2"
-    },
-    {
-      "added_at": "2026-02-08 15:32:19",
-      "album": {
         "name": "Make Up Your Mind",
         "url": "https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 218800,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+    },
+    {
+      "added_at": "2026-02-08 15:32:19",
+      "album": {
+        "name": "Andetag (Man m\u00e5ste leva nu)",
+        "url": "https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o"
+      },
+      "artists": [
+        {
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/6a13c73elKEirrb8R2Iz8j"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Andetag (Man m\u00e5ste leva nu)",
+      "url": "https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -1307,42 +1307,6 @@
       "duration_ms": 179719,
       "name": "Little Richard\u2019s Bible",
       "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
-    },
-    {
-      "added_at": "2026-02-08 15:32:19",
-      "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2026-02-08 15:32:19",
-      "album": {
-        "name": "The Per Gessle Archives - The Pop-Up Dynamo! Demos",
-        "url": "https://open.spotify.com/album/3T5foIHucShPqGzqSx8RsA"
-      },
-      "artists": [
-        {
-          "name": "Per Gessle",
-          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
-        },
-        {
-          "name": "PG Roxette",
-          "url": "https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg"
-        }
-      ],
-      "duration_ms": 220664,
-      "name": "The Loneliest Girl In The World - T&A Demo, March 8+9, 2020",
-      "url": "https://open.spotify.com/track/06B38tKYdFqU2K6BZkwihV"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -1379,6 +1343,42 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
+        "name": "The Per Gessle Archives - The Pop-Up Dynamo! Demos",
+        "url": "https://open.spotify.com/album/3T5foIHucShPqGzqSx8RsA"
+      },
+      "artists": [
+        {
+          "name": "Per Gessle",
+          "url": "https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK"
+        },
+        {
+          "name": "PG Roxette",
+          "url": "https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg"
+        }
+      ],
+      "duration_ms": 220664,
+      "name": "The Loneliest Girl In The World - T&A Demo, March 8+9, 2020",
+      "url": "https://open.spotify.com/track/06B38tKYdFqU2K6BZkwihV"
+    },
+    {
+      "added_at": "2026-02-08 15:32:19",
+      "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
+    },
+    {
+      "added_at": "2026-02-08 15:32:19",
+      "album": {
         "name": "Vinterdvala",
         "url": "https://open.spotify.com/album/7tFW0uJ4oyt8UREWMTELil"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "Lake Geneva",
-        "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
-      },
-      "artists": [
-        {
-          "name": "Sophie Zelmani",
-          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
-        }
-      ],
-      "duration_ms": 221560,
-      "name": "Lake Geneva",
-      "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
-    },
-    {
-      "added_at": "2026-02-08 15:32:19",
-      "album": {
         "name": "Two in This Story",
         "url": "https://open.spotify.com/album/7znKEbUC1jtrZioJrxtDiW"
       },
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-02-08 15:32:19",
       "album": {
-        "name": "Andra landskap 50",
-        "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
+        "name": "Lake Geneva",
+        "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
       },
       "artists": [
         {
-          "name": "Ulf Lundell",
-          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+          "name": "Sophie Zelmani",
+          "url": "https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk"
         }
       ],
-      "duration_ms": 295520,
-      "name": "\u00d6stra Svealand (2025)",
-      "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
+      "duration_ms": 221560,
+      "name": "Lake Geneva",
+      "url": "https://open.spotify.com/track/5XRO2QAIHPVwo7RXY6Ybqb"
     },
     {
       "added_at": "2026-02-08 15:32:19",
@@ -1471,6 +1455,22 @@
       "duration_ms": 345866,
       "name": "Unsatisfied Heart",
       "url": "https://open.spotify.com/track/54tyK1tUpNgxSVFrLJb1wk"
+    },
+    {
+      "added_at": "2026-02-08 15:32:19",
+      "album": {
+        "name": "Andra landskap 50",
+        "url": "https://open.spotify.com/album/37soTgKPaXkx18KpIQUyR0"
+      },
+      "artists": [
+        {
+          "name": "Ulf Lundell",
+          "url": "https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A"
+        }
+      ],
+      "duration_ms": 295520,
+      "name": "\u00d6stra Svealand (2025)",
+      "url": "https://open.spotify.com/track/2nz8qoJdE6sqKtKRaqpjHa"
     },
     {
       "added_at": "2026-02-08 15:32:19",

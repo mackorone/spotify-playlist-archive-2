@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109 likes - 84 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 110 likes - 83 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 12 | [Canada](https://open.spotify.com/track/6mXnfGvmempTdQUoOlJ8hr) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:04 |
 | 13 | [Stigmates](https://open.spotify.com/track/6AEd14DP46Dtn7Y0pXwjYf) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 4:53 |
 | 14 | [Guccissima](https://open.spotify.com/track/6tIdfNdeSjvB1RcdEwrzNX) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:18 |
-| 15 | [Nouveaux parrains](https://open.spotify.com/track/42AoMfmlRJldv9rrpAai1K) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [La Direction](https://open.spotify.com/album/65q2W2g3nvvVN5dGoll3sP) | 2:45 |
-| 16 | [Boucherie](https://open.spotify.com/track/0EDAdelJuVt815AlBn4HCF) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 3:25 |
+| 15 | [Boucherie](https://open.spotify.com/track/0EDAdelJuVt815AlBn4HCF) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [GOAT](https://open.spotify.com/album/1xqzmgR6M6YqCKS7htHEiJ) | 3:25 |
+| 16 | [Nouveaux parrains](https://open.spotify.com/track/42AoMfmlRJldv9rrpAai1K) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [La Direction](https://open.spotify.com/album/65q2W2g3nvvVN5dGoll3sP) | 2:45 |
 | 17 | [Dans l'appart'](https://open.spotify.com/track/5yVT3POgDl2udDzQ60umKO) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Légende Vivante](https://open.spotify.com/album/0iyHGIt1eRyFmH9ZLORpdY) | 2:17 |
 | 18 | [Hakan Sukur](https://open.spotify.com/track/0EE5QfsVywpj6CycOUADk1) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [En esprit](https://open.spotify.com/album/4YUEcV66XwylhSNJI51ABq) | 2:37 |
 | 19 | [Madame Courage](https://open.spotify.com/track/5HB6o7sYMJ4n1KQ4jJZrQU) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Affranchis](https://open.spotify.com/album/4MbntxMXJhPQvsFXMLaZcM) | 4:37 |
@@ -77,20 +77,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 67 | [T'es où](https://open.spotify.com/track/7hrYEBoSeQlEk7CU1l2Sob) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:12 |
 | 68 | [Viano](https://open.spotify.com/track/79aP0TraICgSI68NBEK8ID) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/0DiFDp3MRVxcECcJFPWXU3) | 2:46 |
 | 69 | [Dis moi que tu m'aimes](https://open.spotify.com/track/1T9LhC0vlV95Q8HJRaNC1S) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:12 |
-| 70 | [Niveau fini](https://open.spotify.com/track/32a996iHBZaMmA530wxb1n) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [TOUT EST OR](https://open.spotify.com/album/7v8KYj2T5fayMEITikvM60) | 2:58 |
-| 71 | [Promets moi](https://open.spotify.com/track/6pgjSqpayCvO5PAGZTI5Eg) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:48 |
-| 72 | [Aye](https://open.spotify.com/track/3AsqqOPJejGFSuJ9depO7U) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:43 |
-| 73 | [A deux](https://open.spotify.com/track/2GGKEPBEKh4MclL7UOBAN5) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Glow Up](https://open.spotify.com/album/5lxGXboLgqONmIT50uLRO9) | 2:25 |
-| 74 | [Solo](https://open.spotify.com/track/28fAQAsMD86wB6K3Am282K) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Solo](https://open.spotify.com/album/4tKml0RxOek2UjAhLl2Nzo) | 3:28 |
-| 75 | [Toxic girl](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:33 |
-| 76 | [Je rentre à la maison](https://open.spotify.com/track/2yo2Q8FGARCevQYok7LEWd) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:19 |
-| 77 | [Rencontre](https://open.spotify.com/track/5O7pzlNIiolakEBeggkekJ) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 0:58 |
-| 78 | [Zone](https://open.spotify.com/track/6G0AVwlZeTjbu292BpYabA) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Zone](https://open.spotify.com/album/5cQZYbF7C0LzQ2nnu34gqH) | 3:27 |
-| 79 | [Messagerie](https://open.spotify.com/track/7bjFgfdcZWI0Z1HlloCBxO) | [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M) | [Black House](https://open.spotify.com/album/62Z5DHDD0EmN1kYWa0QhAS) | 4:02 |
-| 80 | [Die for me](https://open.spotify.com/track/4Wyqp8tk1NWzEzMsZGArjh) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [ELA M](https://open.spotify.com/album/3iZuHsvqzdnzRGKHGIojyA) | 3:02 |
-| 81 | [Jackpot](https://open.spotify.com/track/53CJdzeMWWliCnH4QzCEpi) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [ELA M](https://open.spotify.com/album/3iZuHsvqzdnzRGKHGIojyA) | 2:34 |
-| 82 | [Nia](https://open.spotify.com/track/1YrBuuAi9sz27cdZxu5odj) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:47 |
-| 83 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
-| 84 | [fade up](https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z) | [Eliias](https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To) | [march 29](https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG) | 6:32 |
+| 70 | [Promets moi](https://open.spotify.com/track/6pgjSqpayCvO5PAGZTI5Eg) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:48 |
+| 71 | [Aye](https://open.spotify.com/track/3AsqqOPJejGFSuJ9depO7U) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:43 |
+| 72 | [A deux](https://open.spotify.com/track/2GGKEPBEKh4MclL7UOBAN5) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Glow Up](https://open.spotify.com/album/5lxGXboLgqONmIT50uLRO9) | 2:25 |
+| 73 | [Solo](https://open.spotify.com/track/28fAQAsMD86wB6K3Am282K) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Solo](https://open.spotify.com/album/4tKml0RxOek2UjAhLl2Nzo) | 3:28 |
+| 74 | [Toxic girl](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:33 |
+| 75 | [Je rentre à la maison](https://open.spotify.com/track/2yo2Q8FGARCevQYok7LEWd) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 3:19 |
+| 76 | [Rencontre](https://open.spotify.com/track/5O7pzlNIiolakEBeggkekJ) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 0:58 |
+| 77 | [Zone](https://open.spotify.com/track/6G0AVwlZeTjbu292BpYabA) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Zone](https://open.spotify.com/album/5cQZYbF7C0LzQ2nnu34gqH) | 3:27 |
+| 78 | [Messagerie](https://open.spotify.com/track/7bjFgfdcZWI0Z1HlloCBxO) | [Barack Adama](https://open.spotify.com/artist/5nzb4lFHogGWcsd9njLT0M) | [Black House](https://open.spotify.com/album/62Z5DHDD0EmN1kYWa0QhAS) | 4:02 |
+| 79 | [Die for me](https://open.spotify.com/track/4Wyqp8tk1NWzEzMsZGArjh) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [ELA M](https://open.spotify.com/album/3iZuHsvqzdnzRGKHGIojyA) | 3:02 |
+| 80 | [Jackpot](https://open.spotify.com/track/53CJdzeMWWliCnH4QzCEpi) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [ELA M](https://open.spotify.com/album/3iZuHsvqzdnzRGKHGIojyA) | 2:34 |
+| 81 | [Nia](https://open.spotify.com/track/1YrBuuAi9sz27cdZxu5odj) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:47 |
+| 82 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
+| 83 | [fade up](https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z) | [Eliias](https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To) | [march 29](https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG) | 6:32 |
 
-Snapshot ID: `AcJPdAAAAAAajbkQuMwNVUzmdwm5YDk7`
+Snapshot ID: `AcJVFAAAAAC/EzDBmAb5J/tqm/JXFirz`

@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 151934,
+  "num_followers": 151932,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 200010,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 200010,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Emerald",
-        "url": "https://open.spotify.com/album/4FuhrBETVhAwoj0ilghy36"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Emerald",
-      "url": "https://open.spotify.com/track/3827xzieELFZ56ENCHL4jp"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Oh No :: He Said What?",
         "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 228138,
       "name": "Oh No :: He Said What?",
       "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/4FuhrBETVhAwoj0ilghy36"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/3827xzieELFZ56ENCHL4jp"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Goodbye, Good Riddance",
-        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 159275,
-      "name": "Goodbye, Good Riddance",
-      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Goals",
         "url": "https://open.spotify.com/album/6FUbZObH9XBKbRiOqJIR6S"
       },
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
+        "name": "Goodbye, Good Riddance",
+        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
       },
       "artists": [
         {
-          "name": "Stephen Dawes",
-          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
         }
       ],
-      "duration_ms": 163391,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
+      "duration_ms": 159275,
+      "name": "Goodbye, Good Riddance",
+      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1743,6 +1727,22 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/26fVz5K8XbNM0fNcQnaO3s"
+      },
+      "artists": [
+        {
+          "name": "Stephen Dawes",
+          "url": "https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose"
+        }
+      ],
+      "duration_ms": 163391,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/5Czd9hqOj4uvwpieRmVlTw"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv"
       },
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Tracy",
-        "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
-      },
-      "artists": [
-        {
-          "name": "PASH",
-          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Tracy",
-      "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "My Heart's A Crowded Room",
         "url": "https://open.spotify.com/album/1xUibDNIkBquUUX6Tou9S0"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 185800,
       "name": "My Heart's A Crowded Room",
       "url": "https://open.spotify.com/track/1upx2CHNbauM1Fa9EdPlze"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Tracy",
+        "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
+      },
+      "artists": [
+        {
+          "name": "PASH",
+          "url": "https://open.spotify.com/artist/3jEgbW70PXxv993symSK35"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Tracy",
+      "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "dyed (2008 - 2023)",
-        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "don't light the match (dyed black 2010)",
-      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "YOU NEEDED A HIT//",
         "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "dyed (2008 - 2023)",
+        "url": "https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 180959,
+      "name": "don't light the match (dyed black 2010)",
+      "url": "https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Both Ways",
-        "url": "https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 186779,
-      "name": "Both Ways",
-      "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "SOMETHING IN THE WATER",
         "url": "https://open.spotify.com/album/60cDTexJ5atkd4g9Rv0abO"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 203795,
       "name": "SOMETHING IN THE WATER",
       "url": "https://open.spotify.com/track/6L0pirvFbzNH4OYwd2D74b"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Both Ways",
+        "url": "https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 186779,
+      "name": "Both Ways",
+      "url": "https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 191554,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0Y5fBC703Co6hAYrM9uX5J"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "STRANGERS",
         "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 223176,
       "name": "STRANGERS",
       "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 191554,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0Y5fBC703Co6hAYrM9uX5J"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Past // Present // Future",
-        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 159308,
-      "name": "Say It (To My Face)",
-      "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Cynical",
         "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 134582,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 159308,
+      "name": "Say It (To My Face)",
+      "url": "https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Crazy Again",
-        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
-      },
-      "artists": [
-        {
-          "name": "Gossip",
-          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
-        }
-      ],
-      "duration_ms": 197164,
-      "name": "Crazy Again",
-      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Big City Thing",
         "url": "https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn"
       },
@@ -2527,18 +2511,38 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU"
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
       },
       "artists": [
         {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
         }
       ],
-      "duration_ms": 200210,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
+      "duration_ms": 197164,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "FREAK (Feat. jxdn)",
+        "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
+      },
+      "artists": [
+        {
+          "name": "BEAUTY SCHOOL DROPOUT",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+        },
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
     }
   ],
   "unique_name": "Pop Rock",

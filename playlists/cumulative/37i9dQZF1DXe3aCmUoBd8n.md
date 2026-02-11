@@ -2,7 +2,7 @@
 
 ### [أفضل الأغاني الشرقية](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
 
-> Top Sharqi hits right now\. Cover: Akhras, Inez
+> Top Sharqi hits right now\. Cover: Nassif Zeytoun
 
 219 songs - 12 hr 32 min
 

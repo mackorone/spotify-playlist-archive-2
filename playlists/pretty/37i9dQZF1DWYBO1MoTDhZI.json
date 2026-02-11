@@ -1,12 +1,12 @@
 {
   "description": "Olivia Dean keeps the good vibes going all day long",
-  "num_followers": 3603598,
+  "num_followers": 3603863,
   "original_name": "Good Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEVH2HX6JMT4ODkt7BR7bGqB9h0+",
+  "snapshot_id": "AAAAAHiwceuH0V3/XQK5xpV0Yyv+mp9H",
   "tracks": [
     {
       "added_at": "2026-02-06 15:29:07",
@@ -147,38 +147,6 @@
     {
       "added_at": "2026-02-06 15:29:07",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
-    },
-    {
-      "added_at": "2026-02-06 15:29:07",
-      "album": {
-        "name": "I Want to Feel Your Love",
-        "url": "https://open.spotify.com/album/3WIcvvfMAPXQ4Y0CuGNlpG"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 378485,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/2PmT48FrSBYvqFDCRRTARH"
-    },
-    {
-      "added_at": "2026-02-06 15:29:07",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/7w2dkzNW5zi8gWcgifhR8D"
       },
@@ -199,6 +167,22 @@
     {
       "added_at": "2026-02-06 15:29:07",
       "album": {
+        "name": "I Want to Feel Your Love",
+        "url": "https://open.spotify.com/album/3WIcvvfMAPXQ4Y0CuGNlpG"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/2PmT48FrSBYvqFDCRRTARH"
+    },
+    {
+      "added_at": "2026-02-06 15:29:07",
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -215,6 +199,70 @@
     {
       "added_at": "2026-02-06 15:29:07",
       "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
+    },
+    {
+      "added_at": "2026-02-06 15:29:07",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/0qkytHZiIHQac8mOlcaiMf"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0SiOYtxmMk1zHrbHHwgx44"
+    },
+    {
+      "added_at": "2026-02-10 05:05:44",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "duration_ms": 195716,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC"
+    },
+    {
+      "added_at": "2026-02-06 15:29:07",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+    },
+    {
+      "added_at": "2026-02-06 15:29:07",
+      "album": {
         "name": "Sundress",
         "url": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl"
       },
@@ -227,6 +275,22 @@
       "duration_ms": 158205,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
+    },
+    {
+      "added_at": "2026-02-06 15:29:07",
+      "album": {
+        "name": "Come and Get Your Love",
+        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
+      },
+      "artists": [
+        {
+          "name": "Redbone",
+          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Come and Get Your Love - Single Version",
+      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
       "added_at": "2026-02-06 15:29:07",
@@ -267,22 +331,6 @@
     {
       "added_at": "2026-02-06 15:29:07",
       "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2026-02-06 15:29:07",
-      "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
       },
@@ -295,22 +343,6 @@
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
-    },
-    {
-      "added_at": "2026-02-06 15:29:07",
-      "album": {
-        "name": "Come and Get Your Love",
-        "url": "https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu"
-      },
-      "artists": [
-        {
-          "name": "Redbone",
-          "url": "https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Come and Get Your Love - Single Version",
-      "url": "https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD"
     },
     {
       "added_at": "2026-02-06 15:29:07",
@@ -343,22 +375,6 @@
       "duration_ms": 164335,
       "name": "Dance",
       "url": "https://open.spotify.com/track/1l9AXDDVSrKkVQxVTZkY8Z"
-    },
-    {
-      "added_at": "2026-02-06 15:29:07",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "YUKON",
-      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
     },
     {
       "added_at": "2026-02-06 15:29:07",
@@ -1347,26 +1363,6 @@
       "duration_ms": 136968,
       "name": "UP!",
       "url": "https://open.spotify.com/track/50utqknCBo0N3QAQbXIPKV"
-    },
-    {
-      "added_at": "2026-02-06 15:29:07",
-      "album": {
-        "name": "Dirty Cash (Money Talks)",
-        "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        },
-        {
-          "name": "The Adventures Of Stevie V",
-          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
-        }
-      ],
-      "duration_ms": 221448,
-      "name": "Dirty Cash (Money Talks)",
-      "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
     },
     {
       "added_at": "2026-02-06 15:29:07",

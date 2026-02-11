@@ -4,7 +4,7 @@
 
 > This is Lonely The Brave\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 24 min
+73 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Strange Like I](https://open.spotify.com/track/63CSuwy6bDo1Q8sODWuoBq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:04 | 2023-12-13 |  |
 | [Tank Wave](https://open.spotify.com/track/4zy4pghyBzcwv3G5hsYLIg) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 4:20 | 2022-09-16 | 2022-10-30 |
 | [The Bear](https://open.spotify.com/track/6Gfp9AttKVfsfMu5zkodUS) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Victim / The Bear](https://open.spotify.com/album/1pmdl1AYc4lglNYjqexpDA) | 4:08 | 2023-09-21 | 2023-12-14 |
+| [The Bear](https://open.spotify.com/track/6jME1L8fnNn5uTTMSk1nph) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 4:08 | 2026-02-11 |  |
 | [The Blue, The Green](https://open.spotify.com/track/0HHlrHaeTThPytkBv3ka3G) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:36 | 2022-09-16 |  |
 | [The Day's War](https://open.spotify.com/track/4hojR5MvY3Ut9h15ueqxvS) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 1:09 | 2023-01-16 | 2023-12-14 |
 | [The Harrow](https://open.spotify.com/track/5P2R15i8jhMh4ArbsnRtoY) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Hope List](https://open.spotify.com/album/3ntaoDQyCQ1U9mf2mIIf92) | 4:17 | 2022-10-07 | 2022-10-09 |
@@ -73,7 +74,7 @@
 | [Unseen](https://open.spotify.com/track/6eAm7H5wEVB83lLY3q0fZP) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 3:45 | 2025-08-31 | 2025-11-03 |
 | [Untitled](https://open.spotify.com/track/0lryMnVnArBTEoQdha8vqc) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 1:12 | 2022-09-19 | 2022-09-21 |
 | [Victim](https://open.spotify.com/track/6HVukYjftyc9qD2XDsFlzk) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Victim / The Bear](https://open.spotify.com/album/1pmdl1AYc4lglNYjqexpDA) | 3:44 | 2023-09-21 | 2023-12-14 |
-| [Victim](https://open.spotify.com/track/71IEx6h2nr0zQBn4zkPuua) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 3:44 | 2023-12-13 |  |
+| [Victim](https://open.spotify.com/track/71IEx6h2nr0zQBn4zkPuua) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [What We Do To Feel](https://open.spotify.com/album/0NnqZDaRYYmaFgIEf7KmQ2) | 3:44 | 2023-12-13 | 2026-02-11 |
 | [Victory Line](https://open.spotify.com/track/5ANtXtO9R4gR16Q41yCOtR) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:54 | 2022-09-16 |  |
 | [Wait in the Car](https://open.spotify.com/track/0fm9CqVDMAFiVBvCcBBJo0) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:40 | 2022-10-29 | 2026-02-10 |
 | [Wait in the Car](https://open.spotify.com/track/7mbFHs6TntthnhNEEFHo4m) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/3dZLb3nLd8vn9JcSN7afcB) | 3:40 | 2022-09-16 | 2022-10-29 |

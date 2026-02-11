@@ -4435,6 +4435,24 @@
     },
     {
       "album": {
+        "name": "Neutral Oak",
+        "url": "https://open.spotify.com/album/4bH9skC33Gyox3kFDPbGww"
+      },
+      "artists": [
+        {
+          "name": "Silvenna",
+          "url": "https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148547,
+      "name": "Neutral Oak",
+      "url": "https://open.spotify.com/track/0mXONhXSGT3i42uihw42ad"
+    },
+    {
+      "album": {
         "name": "New Dawn",
         "url": "https://open.spotify.com/album/6g9IrTM1XT6VunienIm2Aw"
       },

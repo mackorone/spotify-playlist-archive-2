@@ -2437,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311733,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
+    },
+    {
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -4886,7 +4904,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 275293,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/5oGK9Yr2EzKMb27Jpr5hpL"
@@ -5092,6 +5110,32 @@
       "duration_ms": 79389,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/7r3j6V228mlCKgZo6Escvy"
+    },
+    {
+      "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "BOTA",
+      "url": "https://open.spotify.com/track/1mRqeViSSY5ir944Xp9p2j"
     },
     {
       "album": {
@@ -5900,7 +5944,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 270697,
       "name": "Canasteo",
       "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
@@ -7611,6 +7655,28 @@
     },
     {
       "album": {
+        "name": "Como Antes (Falke) <3",
+        "url": "https://open.spotify.com/album/1bn6lCf3brOO38Ve9lUTul"
+      },
+      "artists": [
+        {
+          "name": "FranMVP",
+          "url": "https://open.spotify.com/artist/5Fz5kfu6psfFK6uTKiChAP"
+        },
+        {
+          "name": "FrannSSJ",
+          "url": "https://open.spotify.com/artist/4ZNEK6Z5JYkaYKejKbnOqZ"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121165,
+      "name": "Como Antes (Falke) <3",
+      "url": "https://open.spotify.com/track/4tUyeKkB4F7oN5qAa0U9R4"
+    },
+    {
+      "album": {
         "name": "Como Antes (Salas)",
         "url": "https://open.spotify.com/album/7By3xBmjNvJInnSWCyiEhm"
       },
@@ -7864,7 +7930,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -8148,6 +8214,32 @@
       "duration_ms": 177443,
       "name": "Coraz\u00f3n de rey",
       "url": "https://open.spotify.com/track/4z7JegdCdBbbDZcnZxYaua"
+    },
+    {
+      "album": {
+        "name": "CANDU DOMINGUEZ x G SONY / Enganchado en Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "url": "https://open.spotify.com/album/1JVA5B7Y208ax794aU9fw5"
+      },
+      "artists": [
+        {
+          "name": "La Juntada De Los Artistas",
+          "url": "https://open.spotify.com/artist/7i3bAOrxjMPncmyUHRvMvN"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129753,
+      "name": "Coraz\u00f3n Hambriento",
+      "url": "https://open.spotify.com/track/2bxMZH3kFWAjwdYAwn5R73"
     },
     {
       "album": {
@@ -9052,7 +9144,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 125118,
       "name": "DE AFTER",
       "url": "https://open.spotify.com/track/7HeF2Ohd38Xlgq9aXYWB0H"
@@ -19095,6 +19187,24 @@
     },
     {
       "album": {
+        "name": "La Historia de Camila",
+        "url": "https://open.spotify.com/album/4Yk5mkRavVuW0ofIpylrUn"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Da Rosa",
+          "url": "https://open.spotify.com/artist/1aKohXKamlQBtSQz2LwGax"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165137,
+      "name": "La Historia de Camila",
+      "url": "https://open.spotify.com/track/0n4Zyo6A2SxhrU0nFOwveH"
+    },
+    {
+      "album": {
         "name": "La Llamada",
         "url": "https://open.spotify.com/album/3ceqUIfZzBbVUcOnCldAj3"
       },
@@ -19233,6 +19343,28 @@
     },
     {
       "album": {
+        "name": "CANDU DOMINGUEZ x G SONY / Enganchado en Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "url": "https://open.spotify.com/album/1JVA5B7Y208ax794aU9fw5"
+      },
+      "artists": [
+        {
+          "name": "La Juntada De Los Artistas",
+          "url": "https://open.spotify.com/artist/7i3bAOrxjMPncmyUHRvMvN"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67105,
+      "name": "La Nave del Olvido",
+      "url": "https://open.spotify.com/track/1vdfrsoqbDkaLu0Usssgyg"
+    },
+    {
+      "album": {
         "name": "DESCARTABLE",
         "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
       },
@@ -19340,7 +19472,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 140377,
       "name": "La Noche Ta En Ort*",
       "url": "https://open.spotify.com/track/3wr7kuApp9niAeJ1YNKtVP"
@@ -27223,6 +27355,32 @@
     },
     {
       "album": {
+        "name": "NO, MANZANA (Remix)",
+        "url": "https://open.spotify.com/album/2bh5f6s6QS65CMSu12ICLY"
+      },
+      "artists": [
+        {
+          "name": "Danilo Montana",
+          "url": "https://open.spotify.com/artist/5xl2nCrZ8cOYMcXWGhfCBP"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260645,
+      "name": "NO, MANZANA (Remix)",
+      "url": "https://open.spotify.com/track/6l9Fv1NTxa70WdcXPD4W2H"
+    },
+    {
+      "album": {
         "name": "Babylon (Revised Online Music)",
         "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
       },
@@ -30840,7 +30998,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 142250,
       "name": "por ser como sos.",
       "url": "https://open.spotify.com/track/4tPJerqRMJacJc34Ce8odt"
@@ -33272,7 +33430,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 168096,
       "name": "Salame y Pan",
       "url": "https://open.spotify.com/track/4UokrCmVYWuLWUoZUABO4x"
@@ -34702,7 +34860,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 215978,
       "name": "Sin Maquillaje",
       "url": "https://open.spotify.com/track/2EBiWSTYtP4n1NCSTI9gj2"
@@ -35042,7 +35200,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -37697,6 +37855,32 @@
     },
     {
       "album": {
+        "name": "CANDU DOMINGUEZ x G SONY / Enganchado en Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "url": "https://open.spotify.com/album/1JVA5B7Y208ax794aU9fw5"
+      },
+      "artists": [
+        {
+          "name": "La Juntada De Los Artistas",
+          "url": "https://open.spotify.com/artist/7i3bAOrxjMPncmyUHRvMvN"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141316,
+      "name": "Te Lo Agradezco",
+      "url": "https://open.spotify.com/track/1jelhQeDrAYF7HFpNipH3w"
+    },
+    {
+      "album": {
         "name": "Te Lo Doy (Remix)",
         "url": "https://open.spotify.com/album/1p0JT3sW1hHskib8BC9lER"
       },
@@ -39059,6 +39243,32 @@
     },
     {
       "album": {
+        "name": "CANDU DOMINGUEZ x G SONY / Enganchado en Vivo en LA JUNTADA DE LOS ARTISTAS",
+        "url": "https://open.spotify.com/album/1JVA5B7Y208ax794aU9fw5"
+      },
+      "artists": [
+        {
+          "name": "La Juntada De Los Artistas",
+          "url": "https://open.spotify.com/artist/7i3bAOrxjMPncmyUHRvMvN"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122253,
+      "name": "Todo lo Perd\u00ed Por T\u00ed / Lost on You",
+      "url": "https://open.spotify.com/track/1vRd1vTXbTrMzDhkelFM7J"
+    },
+    {
+      "album": {
         "name": "BAR SCORPIOS",
         "url": "https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ"
       },
@@ -39648,6 +39858,28 @@
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
+    },
+    {
+      "album": {
+        "name": "Tu Falta De Querer (Live)",
+        "url": "https://open.spotify.com/album/1JpiaRGfCvhJBO5spgAJ9F"
+      },
+      "artists": [
+        {
+          "name": "La Juntada De Los Artistas",
+          "url": "https://open.spotify.com/artist/7i3bAOrxjMPncmyUHRvMvN"
+        },
+        {
+          "name": "Candu Dom\u00cdnguez",
+          "url": "https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95632,
+      "name": "Tu Falta De Querer - Live",
+      "url": "https://open.spotify.com/track/0PAHeghimTbU5MrvuwCCEy"
     },
     {
       "album": {
@@ -41322,7 +41554,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 117159,
       "name": "Vengo De Abajo",
       "url": "https://open.spotify.com/track/7AqNqbzj0q9g6GxT9mBDPI"
@@ -41384,10 +41616,32 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 144504,
       "name": "Vero Buffone",
       "url": "https://open.spotify.com/track/6eiJ6Adg1EG4VaQqpoQEu3"
+    },
+    {
+      "album": {
+        "name": "Vero Buffone (SALAS)",
+        "url": "https://open.spotify.com/album/34DALYQpyqEX8AIkQigbh7"
+      },
+      "artists": [
+        {
+          "name": "BUO",
+          "url": "https://open.spotify.com/artist/7jQ5RLY6zbtGgEzVV0sdcd"
+        },
+        {
+          "name": "VUO",
+          "url": "https://open.spotify.com/artist/0FEQJV8XCGFQCgdHDGYMjN"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131579,
+      "name": "Vero Buffone (SALAS)",
+      "url": "https://open.spotify.com/track/5kgzcbURp9qugQBTfh3PSq"
     },
     {
       "album": {

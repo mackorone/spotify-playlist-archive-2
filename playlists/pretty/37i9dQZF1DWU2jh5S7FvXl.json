@@ -1,6 +1,6 @@
 {
   "description": "Move to this mix of recent dance hits! Cover: Loud Luxury",
-  "num_followers": 95550,
+  "num_followers": 95570,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,26 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
+    },
+    {
+      "added_at": "2026-01-16 05:00:26",
+      "album": {
         "name": "Somedays",
         "url": "https://open.spotify.com/album/54R5dT9BWKnR2RX9gOFzDK"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"
-    },
-    {
-      "added_at": "2026-01-16 05:00:26",
-      "album": {
-        "name": "Still Into You",
-        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Still Into You",
-      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
     },
     {
       "added_at": "2026-01-16 05:00:26",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
-        "name": "SURRENDER",
-        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
-    },
-    {
-      "added_at": "2026-01-16 05:00:26",
-      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -1283,6 +1263,26 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
+    },
+    {
+      "added_at": "2026-01-16 05:00:26",
+      "album": {
         "name": "I Like It (with Nate Smith)",
         "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
       },
@@ -1299,6 +1299,38 @@
       "duration_ms": 152349,
       "name": "I Like It (with Nate Smith)",
       "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+    },
+    {
+      "added_at": "2026-01-16 05:00:26",
+      "album": {
+        "name": "Yamore (Edit Version)",
+        "url": "https://open.spotify.com/album/6V05sU49mttq81gsk1ZA05"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Benja (NL)",
+          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Ces\u00e1ria Evora",
+          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Yamore - Edit Version",
+      "url": "https://open.spotify.com/track/1y62v08lkqdPTBj7si8tnA"
     },
     {
       "added_at": "2026-01-16 05:00:26",
@@ -1335,38 +1367,6 @@
       "duration_ms": 159120,
       "name": "Forever",
       "url": "https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P"
-    },
-    {
-      "added_at": "2026-01-16 05:00:26",
-      "album": {
-        "name": "Yamore (Edit Version)",
-        "url": "https://open.spotify.com/album/6V05sU49mttq81gsk1ZA05"
-      },
-      "artists": [
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Benja (NL)",
-          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
-        },
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        },
-        {
-          "name": "Ces\u00e1ria Evora",
-          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Yamore - Edit Version",
-      "url": "https://open.spotify.com/track/1y62v08lkqdPTBj7si8tnA"
     },
     {
       "added_at": "2026-01-16 05:00:26",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 197549,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
-    },
-    {
-      "added_at": "2026-01-16 05:00:26",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
+    },
+    {
+      "added_at": "2026-01-16 05:00:26",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/7IS8egsdQCyCsaPMQRpeA0"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 197549,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/114I7yDc6X70Dq8labTqw8"
     },
     {
       "added_at": "2026-01-16 05:00:26",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2026-01-16 05:00:26",
       "album": {
-        "name": "Dior (feat. Chrystal)",
-        "url": "https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        }
-      ],
-      "duration_ms": 169159,
-      "name": "Dior (feat. Chrystal)",
-      "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
-    },
-    {
-      "added_at": "2026-01-16 05:00:26",
-      "album": {
         "name": "Neverender",
         "url": "https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
+    },
+    {
+      "added_at": "2026-01-16 05:00:26",
+      "album": {
+        "name": "Dior (feat. Chrystal)",
+        "url": "https://open.spotify.com/album/3WzNj7t5kiAU0ugsNHpFzb"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "duration_ms": 169159,
+      "name": "Dior (feat. Chrystal)",
+      "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
     },
     {
       "added_at": "2026-01-16 05:00:26",

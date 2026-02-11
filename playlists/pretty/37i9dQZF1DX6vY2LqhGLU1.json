@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the Savior being born by worshipping along with these Christmas songs.",
-  "num_followers": 111784,
+  "num_followers": 111763,
   "original_name": "Christmas Worship",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
-        "url": "https://open.spotify.com/album/60RYE09w9rWq0qg6IT9rha"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 224527,
-      "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/6Yr2cyWPpdHeWVsOwu9rzg"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "O Come, All You Unfaithful (Acoustic)",
         "url": "https://open.spotify.com/album/68bA02GfedWYl8tkHwa7yP"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 231851,
       "name": "O Come, All You Unfaithful - Acoustic",
       "url": "https://open.spotify.com/track/0yBld8cFVpzoaZAIApwycM"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
+        "url": "https://open.spotify.com/album/60RYE09w9rWq0qg6IT9rha"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 224527,
+      "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/6Yr2cyWPpdHeWVsOwu9rzg"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/629iVvSGIg9PluvAzyRTMR"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 322487,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/1DYYqGanBlPn4tSDw2U75M"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Brand New Life (From \u201cJourney To Bethlehem\u201d)",
         "url": "https://open.spotify.com/album/1Y0G0vpetJxoVsSXggAwyq"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 207320,
       "name": "Brand New Life",
       "url": "https://open.spotify.com/track/3umofiB7Vryrcd60ap0hsu"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/629iVvSGIg9PluvAzyRTMR"
+      },
+      "artists": [
+        {
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+        }
+      ],
+      "duration_ms": 322487,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/1DYYqGanBlPn4tSDw2U75M"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
+        "name": "Here With Us",
+        "url": "https://open.spotify.com/album/1y2mD6ErkiKM0S00QJkQPH"
+      },
+      "artists": [
+        {
+          "name": "Victory Worship",
+          "url": "https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP"
+        }
+      ],
+      "duration_ms": 265655,
+      "name": "Anchor of Our Hearts",
+      "url": "https://open.spotify.com/track/5Ay9K9Pzf69aVq3SRFPT8A"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
         "name": "Gift of Heaven",
         "url": "https://open.spotify.com/album/2wGxX2bvV5XfMUUYyfFkBu"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Here With Us",
-        "url": "https://open.spotify.com/album/1y2mD6ErkiKM0S00QJkQPH"
-      },
-      "artists": [
-        {
-          "name": "Victory Worship",
-          "url": "https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP"
-        }
-      ],
-      "duration_ms": 265655,
-      "name": "Anchor of Our Hearts",
-      "url": "https://open.spotify.com/track/5Ay9K9Pzf69aVq3SRFPT8A"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "When Christmas Comes",
         "url": "https://open.spotify.com/album/3R2VCPanRYetPeXJ5bmDmj"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 227813,
       "name": "O Come, O Come, Emmanuel",
       "url": "https://open.spotify.com/track/4wV3z1k4Fhj3oJvlnABJhk"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 288920,
-      "name": "The First Noel",
-      "url": "https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1215,6 +1199,22 @@
       "duration_ms": 578990,
       "name": "O Holy Night - Live at Bethel",
       "url": "https://open.spotify.com/track/0lguURObfGlyk1d8HcOKSk"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 288920,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Little Drummer Boy",
-        "url": "https://open.spotify.com/album/3VSVkehmJeEWZEUsAZy4PV"
-      },
-      "artists": [
-        {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        }
-      ],
-      "duration_ms": 243103,
-      "name": "Little Drummer Boy",
-      "url": "https://open.spotify.com/track/6UReHZ02sbXyeRSzAlXDZG"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Jesus Here With Us (feat. Michael Gabriel Monroe)",
         "url": "https://open.spotify.com/album/5wkSxr2uKdH5je0rmGzdVh"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 248418,
       "name": "Jesus Here With Us (feat. Michael Gabriel Monroe)",
       "url": "https://open.spotify.com/track/0JyRkdJSRQ2Z5XxBEV8KGn"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "Little Drummer Boy",
+        "url": "https://open.spotify.com/album/3VSVkehmJeEWZEUsAZy4PV"
+      },
+      "artists": [
+        {
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        }
+      ],
+      "duration_ms": 243103,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/6UReHZ02sbXyeRSzAlXDZG"
     },
     {
       "added_at": "2025-12-12 06:51:53",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2025-12-12 06:51:53",
       "album": {
-        "name": "Wonderful Christmas",
-        "url": "https://open.spotify.com/album/3HApLuo9xoWzb7ISKhWmHV"
-      },
-      "artists": [
-        {
-          "name": "Run51",
-          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
-        }
-      ],
-      "duration_ms": 181571,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/5GbbzDUgRSECUByYTBOZ3e"
-    },
-    {
-      "added_at": "2025-12-12 06:51:53",
-      "album": {
         "name": "Good Christian Men Rejoice (Born to Reign)",
         "url": "https://open.spotify.com/album/2WP3QY0LZcOTwzTxMj12jn"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 212039,
       "name": "Good Christian Men Rejoice (Born to Reign)",
       "url": "https://open.spotify.com/track/2qqzGZcw3gAWQATZkwMlDp"
+    },
+    {
+      "added_at": "2025-12-12 06:51:53",
+      "album": {
+        "name": "Wonderful Christmas",
+        "url": "https://open.spotify.com/album/3HApLuo9xoWzb7ISKhWmHV"
+      },
+      "artists": [
+        {
+          "name": "Run51",
+          "url": "https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10"
+        }
+      ],
+      "duration_ms": 181571,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/5GbbzDUgRSECUByYTBOZ3e"
     },
     {
       "added_at": "2025-12-12 06:51:53",

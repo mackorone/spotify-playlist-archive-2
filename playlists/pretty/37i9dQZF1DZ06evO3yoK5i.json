@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 248146,
+  "num_followers": 248172,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAD+HrKnlT/DKH1kTs5p6wbw",
+  "snapshot_id": "aYkjgAAAAAA4N7qzjXNq7dgZyAZUXfQX",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Il mio giorno preferito/Mi d\u00eda preferido",
-        "url": "https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 206884,
-      "name": "Il mio giorno preferito",
-      "url": "https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNA HISTORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
@@ -327,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Il mio giorno preferito/Mi d\u00eda preferido",
+        "url": "https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 206884,
+      "name": "Il mio giorno preferito",
+      "url": "https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -343,22 +343,6 @@
       "duration_ms": 251413,
       "name": "Pi\u00f9 che puoi (feat. Cher)",
       "url": "https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
-      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
     },
     {
       "added_at": null,
@@ -395,6 +379,22 @@
       "duration_ms": 309191,
       "name": "L'aurora (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/2KWeyq9rNnXLubrBqUw1zC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
+      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musica \u00e8",
-        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Ti sposer\u00f2 perch\u00e9",
-      "url": "https://open.spotify.com/track/5ZODincIREhQ6RYnoJdXNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sogno",
         "url": "https://open.spotify.com/album/3fKfyzmHnCsdCw4iD3xIch"
       },
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Musica \u00e8",
+        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Ti sposer\u00f2 perch\u00e9",
+      "url": "https://open.spotify.com/track/5ZODincIREhQ6RYnoJdXNd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "9 (Spanish Version)",
         "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 276920,
       "name": "Un Segundo de Paz",
       "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 180279,
-      "name": "Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1ivNr2pbIq5dHix5eOuAlE"
     },
     {
       "added_at": null,
@@ -563,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alas Y Raices",
-        "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
       "artists": [
         {
@@ -572,45 +556,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 238640,
-      "name": "Dimelo a Mi",
-      "url": "https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dietro Le Apparenze",
-        "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
-      },
-      "artists": [
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        },
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 234920,
-      "name": "Inevitabile (feat. Eros Ramazzotti)",
-      "url": "https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Estrella Gemela - Remastered 2021",
-      "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
+      "duration_ms": 180279,
+      "name": "Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1ivNr2pbIq5dHix5eOuAlE"
     },
     {
       "added_at": null,
@@ -631,6 +579,58 @@
       "duration_ms": 198320,
       "name": "La Media Vuelta",
       "url": "https://open.spotify.com/track/5EW6Lazy489NAOroclzA0p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alas Y Raices",
+        "url": "https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 238640,
+      "name": "Dimelo a Mi",
+      "url": "https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Estrella Gemela - Remastered 2021",
+      "url": "https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dietro Le Apparenze",
+        "url": "https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        },
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 234920,
+      "name": "Inevitabile (feat. Eros Ramazzotti)",
+      "url": "https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H"
     },
     {
       "added_at": null,
@@ -703,6 +703,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hay Vida",
+        "url": "https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 210626,
+      "name": "Por Las Calles Las Canciones (feat. Luis Fonsi)",
+      "url": "https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNA HISTORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
@@ -735,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Vida",
-        "url": "https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC"
+        "name": "Musica \u00e8",
+        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
       },
       "artists": [
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 210626,
-      "name": "Por Las Calles Las Canciones (feat. Luis Fonsi)",
-      "url": "https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9"
+      "duration_ms": 305906,
+      "name": "Solo con te",
+      "url": "https://open.spotify.com/track/5r9QUxvWA5sJPt3rPNyrzj"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musica \u00e8",
-        "url": "https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 305906,
-      "name": "Solo con te",
-      "url": "https://open.spotify.com/track/5r9QUxvWA5sJPt3rPNyrzj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
         "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
       },
@@ -799,6 +799,26 @@
       "duration_ms": 253053,
       "name": "Una Historia Importante - Remastered 2021",
       "url": "https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un pugno di stelle",
+        "url": "https://open.spotify.com/album/0qmqbYNIVHsFglvS1E0Gzo"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        },
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 245880,
+      "name": "Solo un volo",
+      "url": "https://open.spotify.com/track/4un2v9zFm8n0F3OnbFR8Gk"
     },
     {
       "added_at": null,
@@ -839,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un pugno di stelle",
-        "url": "https://open.spotify.com/album/0qmqbYNIVHsFglvS1E0Gzo"
-      },
-      "artists": [
-        {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
-        },
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 245880,
-      "name": "Solo un volo",
-      "url": "https://open.spotify.com/track/4un2v9zFm8n0F3OnbFR8Gk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noi",
         "url": "https://open.spotify.com/album/7gAJbyGOdx4SPXjhFfvSTH"
       },
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+        "name": "Perfetto",
+        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 250760,
-      "name": "Solo ieri",
-      "url": "https://open.spotify.com/track/5XnRtv5Iqyr7fNnM8j2Q7I"
+      "duration_ms": 228080,
+      "name": "Sei Un Pensiero Speciale",
+      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
     }
   ],
   "unique_name": "This Is Eros Ramazzotti",

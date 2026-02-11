@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 642309,
+  "num_followers": 642439,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAAJlfKW7WkpPuWPbIoQRv0u",
+  "snapshot_id": "aYkjgAAAAADdwwd9F7nXm+E+QYpaS+rJ",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 261602,
       "name": "River Washed Hair",
       "url": "https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 185788,
-      "name": "Plastic Cigarette",
-      "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
     },
     {
       "added_at": null,
@@ -63,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 185788,
+      "name": "Plastic Cigarette",
+      "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
@@ -75,22 +75,6 @@
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 143985,
-      "name": "Say Why",
-      "url": "https://open.spotify.com/track/0BUvxX1tTOSJcsn6Y24Bsp"
     },
     {
       "added_at": null,
@@ -127,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 143985,
+      "name": "Say Why",
+      "url": "https://open.spotify.com/track/0BUvxX1tTOSJcsn6Y24Bsp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -139,22 +139,6 @@
       "duration_ms": 211739,
       "name": "Oklahoma Smokeshow",
       "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 185174,
-      "name": "Appetite",
-      "url": "https://open.spotify.com/track/4dKr81KWnnn3YqBrbV5Gjl"
     },
     {
       "added_at": null,
@@ -191,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 185174,
+      "name": "Appetite",
+      "url": "https://open.spotify.com/track/4dKr81KWnnn3YqBrbV5Gjl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
       },
@@ -203,22 +203,6 @@
       "duration_ms": 233333,
       "name": "28",
       "url": "https://open.spotify.com/track/6dANcQ00uiiWoBDYVrsGvz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 196382,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/06oRwfBISxd06rozMDDogR"
     },
     {
       "added_at": null,
@@ -255,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 196382,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/06oRwfBISxd06rozMDDogR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -267,22 +267,6 @@
       "duration_ms": 209320,
       "name": "East Side of Sorrow",
       "url": "https://open.spotify.com/track/00syWkRGIVQvYsg2OwfBUw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 151472,
-      "name": "Dry Deserts",
-      "url": "https://open.spotify.com/track/4TiwLUPOvPHrrVRt2qUGXt"
     },
     {
       "added_at": null,
@@ -319,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 151472,
+      "name": "Dry Deserts",
+      "url": "https://open.spotify.com/track/4TiwLUPOvPHrrVRt2qUGXt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -335,22 +335,6 @@
       "duration_ms": 169467,
       "name": "Spotless (feat. The Lumineers)",
       "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 175159,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/61rfO3U360zRDDjFW6ajrx"
     },
     {
       "added_at": null,
@@ -391,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "With Heaven On Top",
+        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 175159,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/61rfO3U360zRDDjFW6ajrx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -407,22 +407,6 @@
       "duration_ms": 227466,
       "name": "Hey Driver (feat. The War and Treaty)",
       "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "With Heaven On Top",
-        "url": "https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 174197,
-      "name": "Santa Fe",
-      "url": "https://open.spotify.com/track/7qVntDLi3qf0mm18Kd54lx"
     },
     {
       "added_at": null,
@@ -447,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+        "name": "Dawns (feat. Maggie Rogers)",
+        "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 243709,
-      "name": "November Air",
-      "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
+      "duration_ms": 290892,
+      "name": "Dawns (feat. Maggie Rogers)",
+      "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
     },
     {
       "added_at": null,
@@ -479,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawns (feat. Maggie Rogers)",
-        "url": "https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m"
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 290892,
-      "name": "Dawns (feat. Maggie Rogers)",
-      "url": "https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1"
+      "duration_ms": 243709,
+      "name": "November Air",
+      "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
     },
     {
       "added_at": null,
@@ -535,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 197211,
-      "name": "Traveling Man",
-      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Road",
         "url": "https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu"
       },
@@ -563,6 +531,22 @@
       "duration_ms": 199893,
       "name": "High Road",
       "url": "https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 197211,
+      "name": "Traveling Man",
+      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
     },
     {
       "added_at": null,

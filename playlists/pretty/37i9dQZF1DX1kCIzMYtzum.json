@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f with John Summit",
-  "num_followers": 466703,
+  "num_followers": 467175,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1499,18 +1499,26 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Feels Like Us",
-        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
+        "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
       },
       "artists": [
         {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
         }
       ],
-      "duration_ms": 234545,
-      "name": "Feels Like Us",
-      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
+      "duration_ms": 145777,
+      "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1539,26 +1547,18 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/7nbeiiC2yrhywoh1IdYsae"
+        "name": "Feels Like Us",
+        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
         }
       ],
-      "duration_ms": 145777,
-      "name": "Friday, I\u2019m In Luv (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/28x5HxlPwaVrZZH5kgqvtV"
+      "duration_ms": 234545,
+      "name": "Feels Like Us",
+      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1915,30 +1915,6 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Take Me There",
-        "url": "https://open.spotify.com/album/1407RKhcxe58TPTwOtp9vF"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 201284,
-      "name": "Take Me There",
-      "url": "https://open.spotify.com/track/2cgdfL5C5P3xSm4tooGBXu"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
         "name": "Tokyo Drift",
         "url": "https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix"
       },
@@ -1987,6 +1963,30 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
+        "name": "Take Me There",
+        "url": "https://open.spotify.com/album/1407RKhcxe58TPTwOtp9vF"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 201284,
+      "name": "Take Me There",
+      "url": "https://open.spotify.com/track/2cgdfL5C5P3xSm4tooGBXu"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/1duRCWQVzDQXiM5PVHcXVF"
       },
@@ -2007,6 +2007,26 @@
       "duration_ms": 189176,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/1tIYTeCrLtHTbZwmKXh625"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -2035,26 +2055,6 @@
       "duration_ms": 173432,
       "name": "Edge Of The World (feat. Nu-La)",
       "url": "https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -2103,26 +2103,26 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/7k18E2rVMfzex1XQ6TTVzG"
+        "name": "Crush Me Down (You Spin Me Around)",
+        "url": "https://open.spotify.com/album/6qypYS9alhKACA6XzPDDwB"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
         },
         {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
         },
         {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+          "name": "3rd Wall",
+          "url": "https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0iO8YEbZyUozUvgtgAhPqT"
+      "duration_ms": 121232,
+      "name": "Crush Me Down (You Spin Me Around)",
+      "url": "https://open.spotify.com/track/2E8ometum2UaxsEdH8VS5z"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -2147,26 +2147,26 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Crush Me Down (You Spin Me Around)",
-        "url": "https://open.spotify.com/album/6qypYS9alhKACA6XzPDDwB"
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/7k18E2rVMfzex1XQ6TTVzG"
       },
       "artists": [
         {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
         },
         {
-          "name": "3rd Wall",
-          "url": "https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM"
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
         }
       ],
-      "duration_ms": 121232,
-      "name": "Crush Me Down (You Spin Me Around)",
-      "url": "https://open.spotify.com/track/2E8ometum2UaxsEdH8VS5z"
+      "duration_ms": 171428,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0iO8YEbZyUozUvgtgAhPqT"
     }
   ],
   "unique_name": "EDM 2026",

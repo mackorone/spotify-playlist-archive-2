@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2486684,
+  "num_followers": 2486738,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-01-26 09:26:06",
       "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 270233,
+      "name": "Bulong",
+      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
+    },
+    {
+      "added_at": "2026-01-26 09:26:06",
+      "album": {
         "name": "Tingin",
         "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 222298,
       "name": "Tingin",
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
-    },
-    {
-      "added_at": "2026-01-26 09:26:06",
-      "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 270233,
-      "name": "Bulong",
-      "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
     },
     {
       "added_at": "2026-01-26 09:26:06",

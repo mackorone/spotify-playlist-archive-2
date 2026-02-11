@@ -1,6 +1,6 @@
 {
   "description": "El futuro ya est\u00e1 aqu\u00ed. Foto: c\u00e9ro.",
-  "num_followers": 29284,
+  "num_followers": 29291,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,18 @@
     {
       "added_at": "2025-10-23 22:00:53",
       "album": {
-        "name": "Cuando T\u00fa Est\u00e1s Aqu\u00ed",
-        "url": "https://open.spotify.com/album/1pf5tdXrCRq8K925o12nQ7"
+        "name": "Me gustar\u00eda gustarte",
+        "url": "https://open.spotify.com/album/6OkH4CyWkRD7x9qfz66jXI"
       },
       "artists": [
         {
           "name": "LUSILLON",
           "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        },
-        {
-          "name": "ar\u00f8ne",
-          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
         }
       ],
-      "duration_ms": 187650,
-      "name": "Cuando T\u00fa Est\u00e1s Aqu\u00ed",
-      "url": "https://open.spotify.com/track/29WNOPEodEf9bGnGHCIf58"
+      "duration_ms": 141750,
+      "name": "Me gustar\u00eda gustarte",
+      "url": "https://open.spotify.com/track/7F3UDNGicfCpKbZpFoi5hd"
     },
     {
       "added_at": "2025-10-23 22:00:53",
@@ -675,18 +671,22 @@
     {
       "added_at": "2025-10-23 22:00:53",
       "album": {
-        "name": "Me gustar\u00eda gustarte",
-        "url": "https://open.spotify.com/album/6OkH4CyWkRD7x9qfz66jXI"
+        "name": "Cuando T\u00fa Est\u00e1s Aqu\u00ed",
+        "url": "https://open.spotify.com/album/1pf5tdXrCRq8K925o12nQ7"
       },
       "artists": [
         {
           "name": "LUSILLON",
           "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        },
+        {
+          "name": "ar\u00f8ne",
+          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
         }
       ],
-      "duration_ms": 141750,
-      "name": "Me gustar\u00eda gustarte",
-      "url": "https://open.spotify.com/track/7F3UDNGicfCpKbZpFoi5hd"
+      "duration_ms": 187650,
+      "name": "Cuando T\u00fa Est\u00e1s Aqu\u00ed",
+      "url": "https://open.spotify.com/track/29WNOPEodEf9bGnGHCIf58"
     },
     {
       "added_at": "2025-10-23 22:00:53",

@@ -4,7 +4,7 @@
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-91 songs - 5 hr 47 min
+92 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Hero](https://open.spotify.com/track/2sgqTwYVgjQT3scjsefjDP) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 4:04 | 2025-09-23 |  |
 | [Hold On I'm Coming](https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Bad Times At The El Royale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f) | 2:47 | 2024-12-14 |  |
 | [Holy Refrain](https://open.spotify.com/track/29Sl4DsJQazlOv5YQfmFpD) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:56 | 2025-09-26 | 2025-10-03 |
+| [How I Could Fall](https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:01 | 2026-02-11 |  |
 | [I Can't Wish Much More](https://open.spotify.com/track/3eZPkYLBP4R1MLY0m5jG31) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Cinderella Rock \(Studio Cast Soundtrack\)](https://open.spotify.com/album/6yn7txW90bI4ne4bq43rPM) | 4:16 | 2024-12-14 | 2025-06-08 |
 | [I Don't Know How to Love Him](https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE) | 4:19 | 2025-04-13 | 2025-11-25 |
 | [I Don't Know How to Love Him](https://open.spotify.com/track/1lB6WL4R8gbWs1g5V9ag7D) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [She is Risen: Volume One](https://open.spotify.com/album/7HhCsLQC5UkAvUodmxza8m) | 4:19 | 2024-12-14 | 2025-04-13 |
@@ -96,7 +97,7 @@
 | [Wonderful](https://open.spotify.com/track/0fn8RZiNxBfRHRLX8UJI9T) | [Jeff Goldblum](https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 4:45 | 2025-11-23 |  |
 | [Worst Of Me](https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 | 2025-08-03 |  |
 | [Worst Of Me](https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Worst Of Me](https://open.spotify.com/album/4W9y8UUM7suAX2a8eYIWsb) | 3:27 | 2025-04-13 | 2025-08-02 |
-| [You First](https://open.spotify.com/track/1wGL1oXVUUnY4t48OgB4Rl) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:29 | 2025-06-08 |  |
+| [You First](https://open.spotify.com/track/1wGL1oXVUUnY4t48OgB4Rl) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:29 | 2025-06-08 | 2026-02-11 |
 | [You're Not Alone](https://open.spotify.com/track/4ZbjHd0YJJCjT5Koi5Ubwq) | [Oliver Tompsett](https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:36 | 2024-12-14 | 2025-04-27 |
 | [You’re Not Here](https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 5:14 | 2024-12-14 |  |
 

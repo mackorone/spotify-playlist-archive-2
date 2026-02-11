@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: JustmineNika
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,980 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,981 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [เติมไฟ \(Streak\)](https://open.spotify.com/track/2hJ0JqKndlQTq0IiIygtpB) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [เติมไฟ \(Streak\)](https://open.spotify.com/album/5pDXtDmk2hHQtNQsQhLvEu) | 2:34 |
 | 50 | [ขอเก็บเธอไว้ในใจ \(Soft Memory\)](https://open.spotify.com/track/60NmldNDsOjzjaF8Ye0hCc) | [Fah Naritsa](https://open.spotify.com/artist/3McyFK0pD7IHHLLlk2O20J) | [ขอเก็บเธอไว้ในใจ \(Soft Memory\)](https://open.spotify.com/album/7lEd1r7qFkQQEogDRnsRzJ) | 4:21 |
 
-Snapshot ID: `AAAAAEIzMcjnzj2ZshnrBzIeFFc3xfsY`
+Snapshot ID: `AAAAAM1Fb3+Mv/wihFnhoeOrBYUJLnIs`

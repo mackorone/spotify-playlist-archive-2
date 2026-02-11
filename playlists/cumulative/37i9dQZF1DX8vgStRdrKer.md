@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-717 songs - 2 day 12 hr 52 min
+718 songs - 2 day 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,7 +611,7 @@
 | [The Benediction](https://open.spotify.com/track/636EGinKoOcTZc5pTKrFxs) | [Theo Milford](https://open.spotify.com/artist/2WrkrqaMQZTXpMMGvxWrTD), [Jasmine Jacobs](https://open.spotify.com/artist/7e63Fo8teAVzN3xIFBEHN7) | [The Benediction](https://open.spotify.com/album/3Gyr517Hwqq9kZDVIt437D) | 4:07 | 2025-05-30 | 2025-07-19 |
 | [The Darkest Light](https://open.spotify.com/track/3XozpvZljkeLZ2EwyS08nb) | [MATTHEWS](https://open.spotify.com/artist/6axjcGbkcunMPd8fOZCiDw) | [The Darkest Light](https://open.spotify.com/album/13CZP5zWkQ4UmoXLk25DqT) | 3:34 | 2025-12-05 | 2026-02-02 |
 | [The Doing of the Lord](https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Doing of the Lord](https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh) | 4:46 | 2024-01-26 | 2025-06-13 |
-| [The Entrance Procession \- Live](https://open.spotify.com/track/799Lwti2ygmoiEDC20Uo16) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [Ohemgee Faaji Friday 7.0 \(Live\)](https://open.spotify.com/album/3GikYzajSso0DDMrze0DEi) | 9:20 | 2025-08-08 |  |
+| [The Entrance Procession \- Live](https://open.spotify.com/track/799Lwti2ygmoiEDC20Uo16) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [Ohemgee Faaji Friday 7.0 \(Live\)](https://open.spotify.com/album/3GikYzajSso0DDMrze0DEi) | 9:20 | 2025-08-08 | 2026-02-11 |
 | [The Glory \- Live](https://open.spotify.com/track/65pqBHFVIpW025dqKPs7ui) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [The Glory \(Live\)](https://open.spotify.com/album/2vzD3ednExidHSAFepr7PG) | 9:43 | 2025-08-22 | 2025-10-03 |
 | [The Great Romance](https://open.spotify.com/track/5FWnDevRoFJVdXlfITYhX4) | [Eri Ife](https://open.spotify.com/artist/73HQr5WapR3nN1hP2ZTDJg) | [Centre\(d\)](https://open.spotify.com/album/1n8WZO8hiBkVAOQnvIjuwo) | 3:58 | 2024-02-16 | 2024-04-05 |
 | [The Ground We Stand On](https://open.spotify.com/track/1iSVjVNGUwNDT8mFfqBMr5) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 8:32 | 2024-01-12 | 2024-03-26 |
@@ -724,6 +724,7 @@
 | [You Never Leave](https://open.spotify.com/track/04ohrXlXa64ePcux7TyNM0) | [Laolu Adewumi](https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7), [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [You Never Leave](https://open.spotify.com/album/4OZv2AKjptecJZI9G7tVzH) | 2:43 | 2025-05-30 | 2025-06-20 |
 | [Your love](https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love](https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh) | 3:53 | 2025-03-14 | 2025-06-27 |
 | [Your Way](https://open.spotify.com/track/2FuBk9kWI54pQIZuImlJo3) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 2:45 | 2025-03-07 | 2025-05-09 |
+| [Zion \(Live at Heartfelt Arena, December, 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Zion \(Live at Heartfelt Arena, December, 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic) | 8:58 | 2026-02-06 |  |
 | [ÒGO](https://open.spotify.com/track/3bYQ5UKUC5wcSR3aEyAd9P) | [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [ÒGO](https://open.spotify.com/album/0Kz4rKvHzi6bWBZskRCmKW) | 6:24 | 2025-05-09 | 2025-06-06 |
 
 \*This playlist was first scraped on 2023-10-19. Prior content cannot be recovered.

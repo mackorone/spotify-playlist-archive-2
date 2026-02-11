@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22804,
+  "num_followers": 22807,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Wallah Wallah",
-        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 142830,
-      "name": "Wallah Wallah",
-      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
-    },
-    {
-      "added_at": "2026-01-30 16:49:09",
-      "album": {
         "name": "9PM IN PARIS",
         "url": "https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 159322,
       "name": "Touch me (feat. Ya Levis)",
       "url": "https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk"
+    },
+    {
+      "added_at": "2026-01-30 16:49:09",
+      "album": {
+        "name": "Wallah Wallah",
+        "url": "https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 142830,
+      "name": "Wallah Wallah",
+      "url": "https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "BRINDE",
-        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Avicena",
-          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "BRINDE",
-      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
-    },
-    {
-      "added_at": "2026-01-30 16:49:09",
-      "album": {
         "name": "Me Conta",
         "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 196374,
       "name": "Me Conta",
       "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
+    },
+    {
+      "added_at": "2026-01-30 16:49:09",
+      "album": {
+        "name": "BRINDE",
+        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Avicena",
+          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "BRINDE",
+      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1243,8 +1243,8 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
+        "name": "Guetto Wave\u2019s",
+        "url": "https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C"
       },
       "artists": [
         {
@@ -1254,11 +1254,15 @@
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "LilBoy Bruce",
+          "url": "https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
+      "duration_ms": 193661,
+      "name": "Soul da Noite.",
+      "url": "https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1351,8 +1355,8 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Guetto Wave\u2019s",
-        "url": "https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
       },
       "artists": [
         {
@@ -1362,35 +1366,31 @@
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        },
-        {
-          "name": "LilBoy Bruce",
-          "url": "https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn"
         }
       ],
-      "duration_ms": 193661,
-      "name": "Soul da Noite.",
-      "url": "https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ"
+      "duration_ms": 164000,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
     },
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+        "name": "Quem Me Guia",
+        "url": "https://open.spotify.com/album/1MNQjQiYxY1Nyq5znoHvlq"
       },
       "artists": [
         {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+          "name": "Amorim",
+          "url": "https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a"
         },
         {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
         }
       ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
+      "duration_ms": 149575,
+      "name": "Quem Me Guia",
+      "url": "https://open.spotify.com/track/06QfdMI94z1klI0tyPa1qq"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
+    },
+    {
+      "added_at": "2026-01-30 16:49:09",
+      "album": {
         "name": "BIG BIG",
         "url": "https://open.spotify.com/album/75UTRhSeMt6NVE8d0Ghd0I"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 182500,
       "name": "BIG BIG",
       "url": "https://open.spotify.com/track/3m7Wos4ti36KvO0RIcfMKQ"
-    },
-    {
-      "added_at": "2026-01-30 16:49:09",
-      "album": {
-        "name": "Atitude",
-        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
-      },
-      "artists": [
-        {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 185741,
-      "name": "Brinca Comigo",
-      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     }
   ],
   "unique_name": "pique afrobeats",

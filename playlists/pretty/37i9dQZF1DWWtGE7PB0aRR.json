@@ -1,6 +1,6 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 181102,
+  "num_followers": 181155,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
@@ -609,6 +609,22 @@
       "url": "https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o"
     },
     {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Medication Time",
+        "url": "https://open.spotify.com/album/2NLkkqOBsfu247XfAjhhns"
+      },
+      "artists": [
+        {
+          "name": "Todd Sharpville",
+          "url": "https://open.spotify.com/artist/4iOFTwfnN1WfcIGYRoa3vE"
+        }
+      ],
+      "duration_ms": 347200,
+      "name": "God Loves A Loser",
+      "url": "https://open.spotify.com/track/3bu4JcUpOOoMCyEnDivHFO"
+    },
+    {
       "added_at": "2021-04-22 22:35:02",
       "album": {
         "name": "A Hard Road (Deluxe Edition)",
@@ -663,22 +679,6 @@
       "duration_ms": 212333,
       "name": "My Heart Beat Like a Hammer - Take 2",
       "url": "https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA"
-    },
-    {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Medication Time",
-        "url": "https://open.spotify.com/album/2NLkkqOBsfu247XfAjhhns"
-      },
-      "artists": [
-        {
-          "name": "Todd Sharpville",
-          "url": "https://open.spotify.com/artist/4iOFTwfnN1WfcIGYRoa3vE"
-        }
-      ],
-      "duration_ms": 347200,
-      "name": "God Loves A Loser",
-      "url": "https://open.spotify.com/track/3bu4JcUpOOoMCyEnDivHFO"
     },
     {
       "added_at": "2021-04-22 22:35:02",

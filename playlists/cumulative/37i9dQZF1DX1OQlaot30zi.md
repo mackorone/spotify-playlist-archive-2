@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Salmo, e molti altri.
 
-6,780 songs - 12 day 11 hr 55 min
+6,781 songs - 12 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2194,6 +2194,7 @@
 | [Fine mese](https://open.spotify.com/track/6oLGHMmxZTi6WGgxpLq9Yv) | [G.Kres](https://open.spotify.com/artist/3Ek4gPnmrwsHtyQQWCdHsw) | [Fine mese](https://open.spotify.com/album/76c1yOoiBnqOR2Eq4j3xTd) | 2:35 | 2024-07-11 | 2024-07-27 |
 | [FINESSE](https://open.spotify.com/track/2UhVrfNYclDTXdiIs9hU9Z) | [Gador](https://open.spotify.com/artist/5HTKmkWwle2hOtcJlveCbs) | [FINESSE](https://open.spotify.com/album/2D9lzBRSBJ5FuySBOFyGDj) | 2:33 | 2024-01-04 | 2024-01-19 |
 | [Finesse \(feat\. Low\-Red\)](https://open.spotify.com/track/2vaWssvUWXiZ0phZaf8wPq) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [Finesse](https://open.spotify.com/album/3XviCOe8ECxC52gndxqJxG) | 2:24 | 2022-11-24 | 2022-12-09 |
+| [FINEST \(feat\. Tedua\)](https://open.spotify.com/track/5VuEZjUveMohvOpiIZOAr3) | [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [FINEST \(feat\. Tedua\)](https://open.spotify.com/album/5chGbKyqrrNdkljmYQgIG3) | 2:15 | 2026-02-09 |  |
 | [Fingono](https://open.spotify.com/track/1bn3Umvs2GxFJhLTWaNVyv) | [Rico Rua](https://open.spotify.com/artist/5qtpAedIGNUyxyAyZ4B74E), [47Milano](https://open.spotify.com/artist/0A3F67rGTvyUTqCCuiFLV1) | [Fingono](https://open.spotify.com/album/5AiGvFOyMpPCoqapQiz5g8) | 2:42 | 2023-01-19 | 2023-01-27 |
 | [Fino a domani](https://open.spotify.com/track/3Awy6Un0dVvY3xnd01HaUE) | [Vago](https://open.spotify.com/artist/02HjKECtF08ZgloUOOyWHo), [Dab](https://open.spotify.com/artist/1IXSiYlWAlrSB1J0WlGwu6) | [Fino a domani](https://open.spotify.com/album/3KiveZP7JrhNa9m3zyohIi) | 1:55 | 2025-11-28 | 2025-12-12 |
 | [Fino a prova contraria](https://open.spotify.com/track/2NKuaOV0Pc7vgAj00v4Wzq) | [Faser](https://open.spotify.com/artist/2gB1sbhrKdnw2fI9nD6O3Z), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV), [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt) | [Fino a prova contraria](https://open.spotify.com/album/54L9JxCFsqFASrcTzOiHjX) | 2:45 | 2023-03-24 | 2023-04-07 |

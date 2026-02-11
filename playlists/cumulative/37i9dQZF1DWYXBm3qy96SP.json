@@ -4862,7 +4862,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 220837,
       "name": "Bruised Sky",
       "url": "https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH"
@@ -8920,7 +8920,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 219935,
       "name": "Drive Myself Home",
       "url": "https://open.spotify.com/track/5qy96tWV5WWgJLiXuinD7e"
@@ -22834,7 +22834,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-31",
+      "date_removed": null,
       "duration_ms": 229813,
       "name": "Prize Fighter",
       "url": "https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w"
@@ -32750,6 +32750,24 @@
       "duration_ms": 234448,
       "name": "You First (Re: Remi Wolf)",
       "url": "https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l"
+    },
+    {
+      "album": {
+        "name": "You Got to Lose",
+        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197646,
+      "name": "You Got to Lose",
+      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Sam Darnold and Kenneth Walker III
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,854,396 likes - 98 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,854,387 likes - 98 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: KiiiKiii
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: IVE
 
-1,658 songs - 3 day 15 hr 44 min
+1,659 songs - 3 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -869,7 +869,7 @@
 | [Masquerade](https://open.spotify.com/track/2L5MB3aFL8AFiAZvmwcEy2) | [Double Ace](https://open.spotify.com/artist/4LisUHEVX4YvEeWiV3v7vh) | [Crescendo](https://open.spotify.com/album/2v9hIXCJY96R3LuOpIt3m3) | 5:20 | 2021-12-23 | 2022-01-07 |
 | [MAVERICK](https://open.spotify.com/track/5uVgfUQLv2ZCgdx0t9vawz) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3RD SINGLE ALBUM \[MAVERICK\]](https://open.spotify.com/album/40Vv3OErf3nP8Cg1UmAKV8) | 3:28 | 2021-12-23 | 2022-01-04 |
 | [McNasty](https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [McNasty](https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV) | 3:12 | 2024-07-09 | 2024-08-16 |
-| [ME ME ME](https://open.spotify.com/track/1Y1FyGpSV8yGXFsbPHUpXV) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [ME ME ME](https://open.spotify.com/album/2XVaPap7EEUI6Oh51PfS4S) | 2:47 | 2025-07-28 |  |
+| [ME ME ME](https://open.spotify.com/track/1Y1FyGpSV8yGXFsbPHUpXV) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [ME ME ME](https://open.spotify.com/album/2XVaPap7EEUI6Oh51PfS4S) | 2:47 | 2025-07-28 | 2026-02-11 |
 | [ME+YOU](https://open.spotify.com/track/28Ygtr4cR376cQN7WOOBjT) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/40sp9TMuaBxgumWUY2XgZO) | 2:55 | 2025-10-10 |  |
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-16 | 2022-12-30 |
 | [MELTING POINT](https://open.spotify.com/track/6Sj39jSqhxjJ8K66Mw8hrU) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:53 | 2023-11-07 | 2024-01-03 |
@@ -907,6 +907,7 @@
 | [Mrs\. Nail](https://open.spotify.com/track/4Vpl8DJahXjdFHpEoZ8W11) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Mrs\. Nail](https://open.spotify.com/album/2o8lTmzLhENLWHobwzWPDP) | 2:35 | 2025-05-01 | 2025-08-07 |
 | [MUSE](https://open.spotify.com/track/0KBawRsiH5aUNgFy6H4mIv) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [MUSE](https://open.spotify.com/album/4ejHEQ41IAEtaZuXEPqeCv) | 2:53 | 2025-03-16 | 2025-04-15 |
 | [MWA! \- English Version](https://open.spotify.com/track/5vnDIS4pm26ZoRDVlDjbNu) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 | 2025-05-13 | 2025-10-18 |
+| [MWUAH](https://open.spotify.com/track/7C5PtQv9ZDBMc3qcX5fOCh) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAY ALIVE](https://open.spotify.com/album/6KjZQ12xWAUXGNnjNWAMZh) | 3:00 | 2026-02-10 |  |
 | [My Body](https://open.spotify.com/track/4tQPrEh1GZYlSLDx5gLtxs) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [My Body](https://open.spotify.com/album/3DBFF0VG1N0eqyTMkbmI6I) | 3:23 | 2025-10-12 | 2025-12-05 |
 | [My Christmas Sweet Love](https://open.spotify.com/track/08VCAwA9DAj9ycjNiNyEoy) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:45 | 2024-12-19 | 2025-05-02 |
 | [MY COLOR](https://open.spotify.com/track/5elQqjmREJkadJWsNMW4ej) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [New Chapter](https://open.spotify.com/album/2t3Ph06OHzPdaOz457yYJG) | 3:21 | 2023-07-25 | 2023-08-11 |

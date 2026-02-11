@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-981 songs - 2 day 14 hr 27 min
+982 songs - 2 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Already Platinum](https://open.spotify.com/track/7Etu8DtiBq61P26wgrDlnW) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Already Platinum](https://open.spotify.com/album/17Qo2HmJC5RtOVkJ9rxBlP) | 4:45 | 2024-09-12 | 2026-02-08 |
 | [Alright](https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:39 | 2024-01-29 |  |
 | [Am I High](https://open.spotify.com/track/3zkmQhBVMUTcGcTx6HdwhP) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:48 | 2024-01-29 |  |
+| [Amazin'](https://open.spotify.com/track/1XEHqHKiMLb02BHU47OtPV) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Kandice Love](https://open.spotify.com/artist/75ZPuLjO3ALk3m475pJjPJ) | [10](https://open.spotify.com/album/7E2TsBS4jPmfdjjTRUJ9Hn) | 3:58 | 2026-02-10 |  |
 | [Amazing](https://open.spotify.com/track/2k6hTCsMn3uKoUpLLURZRu) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [No Mercy](https://open.spotify.com/album/6LGR2plk2Yk4A33CAktJN3) | 5:14 | 2024-01-29 |  |
 | [Amazing \(feat\. Melanie Rutherford\)](https://open.spotify.com/track/2oKSARzfxqUNS2wLRa7Rpm) | [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns), [Melanie Rutherford](https://open.spotify.com/artist/0GGwpRkFx59V8VmkTRIIQy) | [Book of Ryan \(Bonus Track Edition\)](https://open.spotify.com/album/6OEpFTugRFO4BQ5DRYjvA6) | 3:44 | 2025-06-27 | 2025-07-10 |
 | [American Prayer](https://open.spotify.com/track/5YJkPy9svqWMajJQyRKKVJ) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [The Dave Stewart Songbook, Vol\. 1](https://open.spotify.com/album/3xaUX9RlxucF5d7VPNtsFm) | 5:38 | 2024-06-20 | 2024-06-22 |
@@ -463,7 +464,7 @@
 | [Intro / Time For Some Action](https://open.spotify.com/track/3qLswcHofm34CnlG6El9LC) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Seeing Sounds](https://open.spotify.com/album/20jWmZIMmIaclvShj8KSrB) | 3:42 | 2024-09-12 |  |
 | [Isn't This The World](https://open.spotify.com/track/4THeHY8ygdtjShn2NHOh0S) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Hidden Figures: The Album](https://open.spotify.com/album/5ydGsF9Qy1IZsFmLRpJ4oc) | 4:12 | 2024-09-12 | 2026-02-08 |
 | [It Blows My Mind](https://open.spotify.com/track/5X6J2NlFuXZfmpze7XO83h) | [Darryl DeBarge](https://open.spotify.com/artist/2KlE44YoSFD6bOnUB0E4kh) | [Intro Buddha](https://open.spotify.com/album/42Kz9d5Zp5xgFiOwqrsWzu) | 5:00 | 2024-09-12 | 2026-02-07 |
-| [It Blows My Mind \(feat\. Pharrell Williams & DJ Quick\)](https://open.spotify.com/track/1JqKWRVohUi9RVJ7Kf19pZ) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [In The Dogg House Part 3 \- \[The Dave Cash Collection\]](https://open.spotify.com/album/6TziBM782banYlFQXALSbK) | 4:59 | 2026-02-06 |  |
+| [It Blows My Mind \(feat\. Pharrell Williams & DJ Quick\)](https://open.spotify.com/track/1JqKWRVohUi9RVJ7Kf19pZ) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [In The Dogg House Part 3 \- \[The Dave Cash Collection\]](https://open.spotify.com/album/6TziBM782banYlFQXALSbK) | 4:59 | 2026-02-06 | 2026-02-11 |
 | [It Girl](https://open.spotify.com/track/4nLHTIo4DqpCvD2EiLKhtJ) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 4:47 | 2024-02-01 |  |
 | [It Girl](https://open.spotify.com/track/7pjWl2IAZcszPDFpcSVWHA) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [It Girl \(Video\)](https://open.spotify.com/album/3UNMOR5IWPOTF3ztJ4y4DG) | 5:06 | 2024-01-29 | 2024-02-02 |
 | [It Wasn't Us \(feat\. I\-20\)](https://open.spotify.com/track/4GhKGkbKAJUl7RfLG9XOg6) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/5pmDcxTVPDS9y8Wl1661DY) | 3:34 | 2024-06-20 |  |

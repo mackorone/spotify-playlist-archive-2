@@ -1405,6 +1405,28 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7JQkC9K96HeCQuBfReRgHD"
+      },
+      "artists": [
+        {
+          "name": "Jimi Polo",
+          "url": "https://open.spotify.com/artist/2LF3qYISOPgRfBywG1lWw9"
+        },
+        {
+          "name": "Michael Gray",
+          "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185375,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/462XncSZQqphAVXMwDY3Yp"
+    },
+    {
+      "album": {
         "name": "Better Take That",
         "url": "https://open.spotify.com/album/0Uva7Ssbo70ZuIMsA9r8ba"
       },
@@ -1942,7 +1964,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 139218,
       "name": "Cada Vez",
       "url": "https://open.spotify.com/track/3d2hvqd1TVKSXKW1Z13j6n"
@@ -14941,6 +14963,24 @@
     },
     {
       "album": {
+        "name": "Motives EP",
+        "url": "https://open.spotify.com/album/5uFXdSACvo7bFtuQUJGKaJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2026-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "We Move",
+      "url": "https://open.spotify.com/track/3nbZeBRz4WrMfUYnMC7zfu"
+    },
+    {
+      "album": {
         "name": "We'll Be Dancing",
         "url": "https://open.spotify.com/album/7gvqhuQRGmqEUdlqyGDXmH"
       },
@@ -15570,7 +15610,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 524881,
       "name": "You Drive Me Crazy",
       "url": "https://open.spotify.com/track/63tojppW4FpZnR4Xo9qYaL"

@@ -4,7 +4,7 @@
 
 > Best of Punjabi Hip\-Hop! Cover:  SMG
 
-315 songs - 15 hr 34 min
+316 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [](https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX) | 0:00 | 2024-02-02 | 2025-09-13 |
 | [0 to 100](https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 1:48 | 2023-03-18 | 2025-01-25 |
 | [12 Bande](https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [12 Bande](https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u) | 3:24 | 2023-03-18 | 2025-03-01 |
-| [1911](https://open.spotify.com/track/0SBI2P0sOKIBnr6cPcojbH) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Yung4eva](https://open.spotify.com/artist/3M2xmMHRCGlqdfQm8WsrgC) | [1911](https://open.spotify.com/album/78mvG4GhJ0fjAtTM5ySbJJ) | 2:30 | 2026-01-09 |  |
+| [1911](https://open.spotify.com/track/0SBI2P0sOKIBnr6cPcojbH) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Yung4eva](https://open.spotify.com/artist/3M2xmMHRCGlqdfQm8WsrgC) | [1911](https://open.spotify.com/album/78mvG4GhJ0fjAtTM5ySbJJ) | 2:30 | 2026-01-09 | 2026-02-11 |
 | [2 Raflaan \(feat\. Gurlej Akhtar\)](https://open.spotify.com/track/76TcsS8szd8ZQjwnz78xg9) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2 Raflaan \(feat\. Gurlej Akhtar\)](https://open.spotify.com/album/7GU2LBCmdNCMJzLTxuPAiR) | 3:28 | 2023-03-18 | 2024-04-06 |
 | [24/7](https://open.spotify.com/track/507LR0bNZxxGoOfVeuE68d) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [24/7](https://open.spotify.com/album/4hSDSdX2SRiifMlk6dnosH) | 3:11 | 2023-03-18 | 2023-04-24 |
 | [25\-25](https://open.spotify.com/track/4aObqXLku7XQqfVQ8azYGo) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jalwa](https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h) | 3:35 | 2023-04-23 | 2024-04-06 |
@@ -318,6 +318,7 @@
 | [WE ROLLIN](https://open.spotify.com/track/605r6rtj7kBlJwZWmYx1Dt) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [WE ROLLIN](https://open.spotify.com/album/7EJI4AmDQIyLoxegf5AjDO) | 3:19 | 2024-04-10 | 2024-10-17 |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-03-18 | 2024-04-19 |
 | [What We Do](https://open.spotify.com/track/10Pjg6e1n3KdNfRryu5j8F) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:36 | 2024-11-06 |  |
+| [WHATS POPPIN](https://open.spotify.com/track/5pXDY6dsAEn42Ax2U5Ag8k) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Gora](https://open.spotify.com/artist/3G4xwBjK28S31zrQzLIMBr), [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [WHATS POPPIN](https://open.spotify.com/album/25EAMPIAvnYWR1SV8RhB22) | 3:00 | 2026-02-10 |  |
 | [WHO THEY?](https://open.spotify.com/track/33FtExk8Vj24Zmxu0IPnRa) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Four Me](https://open.spotify.com/album/09LRfKybx7mDRlMtysHrcX) | 3:23 | 2024-07-03 | 2024-07-19 |
 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Seshnolan](https://open.spotify.com/artist/4QsiFUy1ddAbRb1UnjvUWN) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 | 2024-05-16 |  |
 | [WYS](https://open.spotify.com/track/5GG8UKvp8FzRSM21DSNl5M) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [WHEN WE RIDE](https://open.spotify.com/album/2x1eisYz2DSHg76V6HkaH5) | 2:57 | 2024-03-04 |  |

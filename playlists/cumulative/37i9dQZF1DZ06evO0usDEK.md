@@ -4,7 +4,7 @@
 
 > This is Roberta Flack\. The essential tracks, all in one playlist.
 
-69 songs - 5 hr 6 min
+70 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Only Heaven Can Wait \(For Love\) \[feat\. Donny Hathaway\] \- 2006 Remaster](https://open.spotify.com/track/5gy3RPxsVRpaw9PN5bhJFK) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 4:02 | 2025-02-26 | 2025-09-12 |
 | [Reverend Lee](https://open.spotify.com/track/1rIY49u8jT04PowbFfHbUz) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:32 | 2026-01-15 |  |
 | [River](https://open.spotify.com/track/6rDR6Z8fBLhErGiDjmfOp3) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 5:03 | 2025-02-25 | 2026-01-18 |
+| [See You Then](https://open.spotify.com/track/56O99Nu2iSQsReVRcCXRX7) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 3:42 | 2026-02-11 |  |
 | [Set the Night to Music \(with Maxi Priest\) \- 2006 Remaster](https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 5:19 | 2025-02-25 |  |
 | [Some Gospel According to Matthew](https://open.spotify.com/track/21RqS0OzVhEFfKk5DQUSBE) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:36 | 2025-02-25 |  |
 | [Sunday and Sister Jones](https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 5:00 | 2025-10-12 |  |
@@ -65,7 +66,7 @@
 | [To Love Somebody](https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Quiet Fire](https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme) | 6:43 | 2025-02-25 |  |
 | [Tonight I Celebrate My Love](https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Born To Love](https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE) | 3:31 | 2025-02-25 |  |
 | [Tryin' Times](https://open.spotify.com/track/5wNo8LEPPEs9HSYh0A63CB) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 5:08 | 2025-02-25 |  |
-| [Unforgettable](https://open.spotify.com/track/50ILHnbevWzqVvk1tYm3BO) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Set the Night to Music](https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez) | 4:59 | 2025-02-25 |  |
+| [Unforgettable](https://open.spotify.com/track/50ILHnbevWzqVvk1tYm3BO) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Set the Night to Music](https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez) | 4:59 | 2025-02-25 | 2026-02-11 |
 | [Until It's Time for You to Go](https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Chapter Two](https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4) | 4:59 | 2025-02-25 |  |
 | [When You Smile](https://open.spotify.com/track/460ysTfMygkMjaes74RdU3) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 3:44 | 2025-02-25 |  |
 | [Where Is the Love](https://open.spotify.com/track/65ADTP6Q8mratfOIeKHp7e) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Roberta Flack & Donny Hathaway](https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp) | 2:43 | 2025-04-10 |  |

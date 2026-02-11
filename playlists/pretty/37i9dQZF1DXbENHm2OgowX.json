@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 317518,
+  "num_followers": 317761,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
-      },
-      "artists": [
-        {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
-        }
-      ],
-      "duration_ms": 289592,
-      "name": "Still Numbers",
-      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
-    },
-    {
-      "added_at": "2025-12-04 13:11:44",
-      "album": {
         "name": "Gazing Back At Earth",
         "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 316000,
       "name": "Gazing Back At Earth",
       "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
+    },
+    {
+      "added_at": "2025-12-04 13:11:44",
+      "album": {
+        "name": "CROW! (after the snowfall)",
+        "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
+      },
+      "artists": [
+        {
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "antihistamine. - instrumental",
+      "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
     },
     {
       "added_at": "2025-12-04 13:11:44",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2025-12-04 13:11:44",
       "album": {
-        "name": "CROW! (after the snowfall)",
-        "url": "https://open.spotify.com/album/6tPZc7dc5pXsD1x9BAArU8"
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm"
       },
       "artists": [
         {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
         }
       ],
-      "duration_ms": 176000,
-      "name": "antihistamine. - instrumental",
-      "url": "https://open.spotify.com/track/5lThIFQRD0qgpv2oV9wb72"
+      "duration_ms": 289592,
+      "name": "Still Numbers",
+      "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
     },
     {
       "added_at": "2025-12-04 13:11:44",

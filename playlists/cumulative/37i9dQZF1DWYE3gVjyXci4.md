@@ -4,7 +4,7 @@
 
 > pink bows, spilled secrets, deep feels, and main character dreams
 
-72 songs - 4 hr 23 min
+73 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Clean](https://open.spotify.com/track/06WgOCf0LV2h4keYXDRnuh) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 4:31 | 2025-08-18 |  |
 | [Comfort Zone](https://open.spotify.com/track/1pm18gC8492n8JpyxYluBH) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [Fingers Crossed](https://open.spotify.com/album/0iWxTnxcbM9HONVU5HKc3G) | 3:49 | 2025-11-17 | 2026-01-15 |
 | [Coming of Age](https://open.spotify.com/track/4elg3DXTnAzPLmIMGj9ULf) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Coming of Age](https://open.spotify.com/album/5zqWfzZ722bHdKH4aBmaZP) | 3:16 | 2025-08-18 | 2025-11-22 |
-| [Cycle Breaker](https://open.spotify.com/track/3lwKje10iLBmpzD18HHuBM) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Cycle Breaker Pt\. I](https://open.spotify.com/album/2eBkMJQxyCz85SWW3HJIsw) | 2:50 | 2025-10-10 |  |
+| [Cycle Breaker](https://open.spotify.com/track/3lwKje10iLBmpzD18HHuBM) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Cycle Breaker Pt\. I](https://open.spotify.com/album/2eBkMJQxyCz85SWW3HJIsw) | 2:50 | 2025-10-10 | 2026-02-11 |
 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 | 2025-08-18 |  |
 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 | 2025-08-18 |  |
 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 | 2025-08-18 | 2025-10-11 |
@@ -45,6 +45,7 @@
 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2025-08-18 |  |
 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 | 2025-08-18 | 2026-01-15 |
 | [Love](https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:32 | 2025-08-18 |  |
+| [Luckiest](https://open.spotify.com/track/2U2skQkpTjmR1HlfMvHE7S) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [Luckiest](https://open.spotify.com/album/5HXRBBh6x0VHAIS0hNVC0L) | 3:05 | 2026-02-10 |  |
 | [Menswear](https://open.spotify.com/track/1v07ywlVYd02pOCnXRBDNA) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 3:26 | 2025-08-18 | 2025-11-18 |
 | [midnight love](https://open.spotify.com/track/1P7tiVl5hgemZuH8oNyP6C) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [midnight love](https://open.spotify.com/album/23QVvMWbWEMcUawebp6mSg) | 3:13 | 2025-08-18 | 2025-11-15 |
 | [Moonbeam](https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Moonbeam](https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r) | 3:58 | 2025-11-21 | 2025-12-20 |

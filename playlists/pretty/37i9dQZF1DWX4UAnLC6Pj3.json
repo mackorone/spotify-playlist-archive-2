@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Arath Arceo \ud83d\udcf8",
-  "num_followers": 1293153,
+  "num_followers": 1293441,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-02-06 11:03:11",
       "album": {
-        "name": "Lo Que Dure Esta Botella",
-        "url": "https://open.spotify.com/album/3MfBnEj0n4cG683ZBqRZZg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 174824,
-      "name": "Lo Que Dure Esta Botella",
-      "url": "https://open.spotify.com/track/0PJlAjQTp04PjEf3Rci3JH"
-    },
-    {
-      "added_at": "2026-02-06 11:03:11",
-      "album": {
         "name": "Cu\u00e9ntame (En Vivo)",
         "url": "https://open.spotify.com/album/6bPEtlB3uOr4CYeLnYVeRF"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 230193,
       "name": "Cu\u00e9ntame (En Vivo)",
       "url": "https://open.spotify.com/track/0SPAv2CSwbGILkpjjFCzzk"
+    },
+    {
+      "added_at": "2026-02-06 11:03:11",
+      "album": {
+        "name": "Lo Que Dure Esta Botella",
+        "url": "https://open.spotify.com/album/3MfBnEj0n4cG683ZBqRZZg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 174824,
+      "name": "Lo Que Dure Esta Botella",
+      "url": "https://open.spotify.com/track/0PJlAjQTp04PjEf3Rci3JH"
     },
     {
       "added_at": "2026-02-06 11:03:11",
@@ -627,18 +627,18 @@
     {
       "added_at": "2026-02-06 11:03:11",
       "album": {
-        "name": "La Derrota",
-        "url": "https://open.spotify.com/album/28epQovRBOBAoGg6ZxZU1D"
+        "name": "La Dama",
+        "url": "https://open.spotify.com/album/54SFDpB1hB8SisGhL3Daga"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 206899,
-      "name": "La Derrota",
-      "url": "https://open.spotify.com/track/2QSyrdeBBNnNdvHLd0qnYm"
+      "duration_ms": 183565,
+      "name": "La Dama",
+      "url": "https://open.spotify.com/track/0CXUMOEqnxYW53eOVfFWHa"
     },
     {
       "added_at": "2026-02-06 11:03:11",
@@ -655,6 +655,22 @@
       "duration_ms": 138618,
       "name": "Atento Aviso",
       "url": "https://open.spotify.com/track/0l9aROuLvqSQeIpYMNlOjn"
+    },
+    {
+      "added_at": "2026-02-06 11:03:11",
+      "album": {
+        "name": "La Derrota",
+        "url": "https://open.spotify.com/album/28epQovRBOBAoGg6ZxZU1D"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 206899,
+      "name": "La Derrota",
+      "url": "https://open.spotify.com/track/2QSyrdeBBNnNdvHLd0qnYm"
     },
     {
       "added_at": "2026-02-06 11:03:11",
@@ -687,22 +703,6 @@
       "duration_ms": 226933,
       "name": "Mi Mu\u00f1equita",
       "url": "https://open.spotify.com/track/01IFbhPxXAnrNBTwhhgQA3"
-    },
-    {
-      "added_at": "2026-02-06 11:03:11",
-      "album": {
-        "name": "La Dama",
-        "url": "https://open.spotify.com/album/54SFDpB1hB8SisGhL3Daga"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 183565,
-      "name": "La Dama",
-      "url": "https://open.spotify.com/track/0CXUMOEqnxYW53eOVfFWHa"
     },
     {
       "added_at": "2026-02-06 11:03:11",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-02-06 11:03:11",
       "album": {
+        "name": "M\u00e1ndame La Ubi",
+        "url": "https://open.spotify.com/album/3Ue9dnfFbPUAB53YhwctGP"
+      },
+      "artists": [
+        {
+          "name": "Memo Garza",
+          "url": "https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F"
+        }
+      ],
+      "duration_ms": 138651,
+      "name": "M\u00e1ndame La Ubi",
+      "url": "https://open.spotify.com/track/22vRSKgaMyGHhnozVxDAyj"
+    },
+    {
+      "added_at": "2026-02-06 11:03:11",
+      "album": {
         "name": "As\u00ed Empez\u00f3 Mi A\u00f1o",
         "url": "https://open.spotify.com/album/1IRQ1xyTC7R7naV4lJESHk"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 175714,
       "name": "Me Interesas",
       "url": "https://open.spotify.com/track/6g1bllCb7avb0FS0VbOfHz"
-    },
-    {
-      "added_at": "2026-02-06 11:03:11",
-      "album": {
-        "name": "M\u00e1ndame La Ubi",
-        "url": "https://open.spotify.com/album/3Ue9dnfFbPUAB53YhwctGP"
-      },
-      "artists": [
-        {
-          "name": "Memo Garza",
-          "url": "https://open.spotify.com/artist/3yJ7q2MEpB9SLK9Xy1EJ2F"
-        }
-      ],
-      "duration_ms": 138651,
-      "name": "M\u00e1ndame La Ubi",
-      "url": "https://open.spotify.com/track/22vRSKgaMyGHhnozVxDAyj"
     },
     {
       "added_at": "2026-02-06 11:03:11",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-02-06 11:03:11",
       "album": {
-        "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
-        "url": "https://open.spotify.com/album/3Vonb9E8aPRllPyWGsoe8j"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 243776,
-      "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
-      "url": "https://open.spotify.com/track/4T4SXrmgimvABFD409RDRa"
-    },
-    {
-      "added_at": "2026-02-06 11:03:11",
-      "album": {
         "name": "De Nuestro Amor No Queda Nada",
         "url": "https://open.spotify.com/album/2Djiz5Ch5BEDfK8TwNpLEt"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 215364,
       "name": "De Nuestro Amor No Queda Nada",
       "url": "https://open.spotify.com/track/3DvFmNLmpfBNxe1CC7uOGj"
+    },
+    {
+      "added_at": "2026-02-06 11:03:11",
+      "album": {
+        "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
+        "url": "https://open.spotify.com/album/3Vonb9E8aPRllPyWGsoe8j"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 243776,
+      "name": "Tu Regalo Se Qued\u00f3 En El Arbolito",
+      "url": "https://open.spotify.com/track/4T4SXrmgimvABFD409RDRa"
     },
     {
       "added_at": "2026-02-06 11:03:11",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2026-02-06 11:03:11",
       "album": {
-        "name": "No Bailes de Caballito",
-        "url": "https://open.spotify.com/album/4VVeq0TI5vPDtc0UMkZ28w"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Lizarraga",
-          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
-        },
-        {
-          "name": "Su Majestad Mi Banda el Mexicano de Casimiro Zamudio",
-          "url": "https://open.spotify.com/artist/6xpqO0zJHdy9pGoY7u0G8u"
-        }
-      ],
-      "duration_ms": 234614,
-      "name": "No Bailes de Caballito",
-      "url": "https://open.spotify.com/track/5hofPEfFQTgLdoWmixQfYz"
-    },
-    {
-      "added_at": "2026-02-06 11:03:11",
-      "album": {
         "name": "Ausencia Eterna",
         "url": "https://open.spotify.com/album/2QG1f8uOeQvRbRJ46eM7Bp"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 264000,
       "name": "Ausencia Eterna",
       "url": "https://open.spotify.com/track/5vIQ3OpHYWtFfwzjoLovdZ"
+    },
+    {
+      "added_at": "2026-02-06 11:03:11",
+      "album": {
+        "name": "No Bailes de Caballito",
+        "url": "https://open.spotify.com/album/4VVeq0TI5vPDtc0UMkZ28w"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Lizarraga",
+          "url": "https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv"
+        },
+        {
+          "name": "Su Majestad Mi Banda el Mexicano de Casimiro Zamudio",
+          "url": "https://open.spotify.com/artist/6xpqO0zJHdy9pGoY7u0G8u"
+        }
+      ],
+      "duration_ms": 234614,
+      "name": "No Bailes de Caballito",
+      "url": "https://open.spotify.com/track/5hofPEfFQTgLdoWmixQfYz"
     },
     {
       "added_at": "2026-02-06 11:03:11",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-02-06 11:03:11",
       "album": {
-        "name": "Si No Me Llamas",
-        "url": "https://open.spotify.com/album/0Gyfh7aBxC1E4AsYnZoVu5"
-      },
-      "artists": [
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 197526,
-      "name": "Si No Me Llamas",
-      "url": "https://open.spotify.com/track/4caL4LY6sYsyzhbbqlvY0l"
-    },
-    {
-      "added_at": "2026-02-06 11:03:11",
-      "album": {
         "name": "Disculpe Usted",
         "url": "https://open.spotify.com/album/6ObgzEGebjGCGagzzFHwDq"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 201500,
       "name": "Disculpe Usted",
       "url": "https://open.spotify.com/track/0no1lxFdg7ma79KH0hy2tK"
+    },
+    {
+      "added_at": "2026-02-06 11:03:11",
+      "album": {
+        "name": "Si No Me Llamas",
+        "url": "https://open.spotify.com/album/0Gyfh7aBxC1E4AsYnZoVu5"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "duration_ms": 197526,
+      "name": "Si No Me Llamas",
+      "url": "https://open.spotify.com/track/4caL4LY6sYsyzhbbqlvY0l"
     },
     {
       "added_at": "2026-02-06 11:03:11",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-02-06 11:03:11",
       "album": {
-        "name": "Retiro Lo Dicho",
-        "url": "https://open.spotify.com/album/3Kt7Z7duVEINVri8v3j7sq"
-      },
-      "artists": [
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 159795,
-      "name": "Retiro Lo Dicho",
-      "url": "https://open.spotify.com/track/1BJEv89FnKnnEZtUaN70n9"
-    },
-    {
-      "added_at": "2026-02-06 11:03:11",
-      "album": {
         "name": "30 Aniversario Vol. 2",
         "url": "https://open.spotify.com/album/08rpf0i7V6JJ5zRMIGXeZd"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 123818,
       "name": "Hoy Me Ven Bien",
       "url": "https://open.spotify.com/track/5kTmxF8aiQXRMikAhPoO21"
+    },
+    {
+      "added_at": "2026-02-06 11:03:11",
+      "album": {
+        "name": "Retiro Lo Dicho",
+        "url": "https://open.spotify.com/album/3Kt7Z7duVEINVri8v3j7sq"
+      },
+      "artists": [
+        {
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
+        }
+      ],
+      "duration_ms": 159795,
+      "name": "Retiro Lo Dicho",
+      "url": "https://open.spotify.com/track/1BJEv89FnKnnEZtUaN70n9"
     },
     {
       "added_at": "2026-02-06 11:03:11",

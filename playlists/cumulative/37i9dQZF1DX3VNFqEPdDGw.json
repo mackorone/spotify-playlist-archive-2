@@ -159,6 +159,28 @@
     },
     {
       "album": {
+        "name": "3 Saal",
+        "url": "https://open.spotify.com/album/3mDS7hZy2HgUG568oLzYJU"
+      },
+      "artists": [
+        {
+          "name": "Kotti",
+          "url": "https://open.spotify.com/artist/6zEVcCS0Y87Yrv2Pxjzcps"
+        },
+        {
+          "name": "CHEETAH",
+          "url": "https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199024,
+      "name": "3 Saal",
+      "url": "https://open.spotify.com/track/79h8qs80gWctemxJ4m1WvC"
+    },
+    {
+      "album": {
         "name": "31,10",
         "url": "https://open.spotify.com/album/64DXvZLQn47dURuggDCeA5"
       },
@@ -1912,7 +1934,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 208892,
       "name": "Crook",
       "url": "https://open.spotify.com/track/44rBFPjeKA3IIYhLGqhBaA"

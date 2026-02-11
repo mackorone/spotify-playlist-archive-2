@@ -4,7 +4,7 @@
 
 > Les sons urbains et Afro les plus chauds 🔥 Cover: Wizkid, Asake
 
-331 songs - 16 hr 43 min
+332 songs - 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2024-03-26 | 2024-07-09 |
 | [Boca X2](https://open.spotify.com/track/3r7RFeDHm1VZDVZpmpRCz8) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Boca X2](https://open.spotify.com/album/3ruYtS9atWFc9NrHTMKKT6) | 2:16 | 2025-12-10 |  |
 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-12-10 | 2025-01-13 |
+| [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 | 2026-02-10 |  |
 | [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 | 2024-12-10 | 2026-01-21 |
 | [Boulot](https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:28 | 2024-12-10 | 2025-05-25 |
 | [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 | 2024-07-04 | 2025-08-03 |
@@ -259,7 +260,7 @@
 | [Rebanav 126bpm](https://open.spotify.com/track/0zJ73feFCS8807usUclLWo) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Rebanav 126bpm](https://open.spotify.com/album/1pHOXBLIMAns5o6IZl4t9M) | 2:06 | 2026-01-18 |  |
 | [RIRI&ROCKY](https://open.spotify.com/track/19LbDmKNHzrs3oPfpEiE5J) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [RIRI&ROCKY](https://open.spotify.com/album/7rQH9PLeHgWFIKfFC1WpWh) | 2:43 | 2025-08-02 |  |
 | [Roméo](https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Roméo](https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq) | 3:12 | 2024-07-08 | 2025-05-25 |
-| [RS6](https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [RS6](https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi) | 3:48 | 2025-06-10 |  |
+| [RS6](https://open.spotify.com/track/6EqhAlO3OAirPbd1kwIbBX) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [RS6](https://open.spotify.com/album/3NOJ88r8w6wqRtNgQInvzi) | 3:48 | 2025-06-10 | 2026-02-11 |
 | [S7aba](https://open.spotify.com/track/1ilM1fLpgTmrErtPrWjCP0) | [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [S7aba](https://open.spotify.com/album/1USAkcnuETLU0G7pdOXe6v) | 2:41 | 2024-07-03 | 2024-07-19 |
 | [SABAR](https://open.spotify.com/track/7j5y0T4cRmYLdr8kZNR56W) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl) | [SABAR](https://open.spotify.com/album/54uyuXLVqME5DDfYb8vbZP) | 3:35 | 2024-09-09 | 2024-10-12 |
 | [Safi Safi \(feat\. Draganov\)](https://open.spotify.com/track/6f8PWwc97weAep3rXAeXyv) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:45 | 2024-03-26 | 2024-07-04 |

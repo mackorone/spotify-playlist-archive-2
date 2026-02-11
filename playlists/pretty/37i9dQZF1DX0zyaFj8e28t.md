@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,198 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,223 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 20 | [Diego libre dans sa tête \- Remasterisé en 2002](https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Voyou \(Remasterisé en 2002\)](https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka) | 2:41 |
 | 21 | [Mon mec à moi](https://open.spotify.com/track/1UZGVlCoNGQ6ps64QDvydQ) | [Patricia Kaas](https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI) | [Mademoiselle Chante](https://open.spotify.com/album/2I1n984xfOozMfDA1TGvo7) | 4:13 |
 | 22 | [Miss Maggie](https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Mistral gagnant](https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb) | 4:15 |
-| 23 | [Je dois m'en aller](https://open.spotify.com/track/7fxvGz4A606ADmsAGT5r4Q) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:26 |
-| 24 | [T'en va pas](https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8) | [Elsa Lunghini](https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1) | [L'essentiel](https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym) | 5:28 |
+| 23 | [T'en va pas](https://open.spotify.com/track/6JCIbXPH5LIawW4NRLvYE8) | [Elsa Lunghini](https://open.spotify.com/artist/4Uk5eLOfWucThb2X4QLcX1) | [L'essentiel](https://open.spotify.com/album/0jfDIK7wBs6kp2RbEy3iym) | 5:28 |
+| 24 | [Je dois m'en aller](https://open.spotify.com/track/7fxvGz4A606ADmsAGT5r4Q) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:26 |
 | 25 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
 | 26 | [D'amour ou d'amitié](https://open.spotify.com/track/7o4JMsKg9Et6s0qb6jWmof) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:58 |
 | 27 | [Eve lève\-toi](https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Eve lève\-toi](https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w) | 4:32 |

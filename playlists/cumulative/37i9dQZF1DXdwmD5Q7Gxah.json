@@ -6396,7 +6396,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
@@ -28591,6 +28591,24 @@
     },
     {
       "album": {
+        "name": "My Heart Is A Room With No Cameras In It",
+        "url": "https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu"
+      },
+      "artists": [
+        {
+          "name": "Victoryland",
+          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235429,
+      "name": "I got god",
+      "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
+    },
+    {
+      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
       },
@@ -30792,6 +30810,24 @@
       "duration_ms": 189396,
       "name": "Imagine U",
       "url": "https://open.spotify.com/track/6rsuqpfWuNMpaektrYV906"
+    },
+    {
+      "album": {
+        "name": "Impaler",
+        "url": "https://open.spotify.com/album/0C5OtavRdxSTs0eReaFzgW"
+      },
+      "artists": [
+        {
+          "name": "Rosacea boy",
+          "url": "https://open.spotify.com/artist/61YfdcpPNccLF3vgbHKKj1"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205766,
+      "name": "Impaler",
+      "url": "https://open.spotify.com/track/12FjzonRpdzyEKV4r2ZZOO"
     },
     {
       "album": {
@@ -49986,7 +50022,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 162533,
       "name": "Sauvignon Blanc",
       "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"

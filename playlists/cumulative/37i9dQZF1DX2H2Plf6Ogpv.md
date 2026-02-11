@@ -4,7 +4,7 @@
 
 > Unearth the year's most exciting rock and alternative hidden gems\. Cover: Chloe Slater
 
-98 songs - 5 hr 34 min
+99 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Crispy Skin](https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Crispy Skin](https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA) | 6:19 | 2024-12-04 |  |
 | [Dirty Girls](https://open.spotify.com/track/13dkfQvbYPK4iWxzn3TKsP) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Dirty Girls](https://open.spotify.com/album/3ustQj0IfVetY6ENY9wVBP) | 2:53 | 2024-12-04 |  |
 | [Disappearing Act](https://open.spotify.com/track/3smd9yWccjfpaH26pLz7MP) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Disappearing Act](https://open.spotify.com/album/4IhB0atrFaGau70IUm2GWv) | 3:45 | 2024-12-04 |  |
+| [Dissonance](https://open.spotify.com/track/5WFkQAuARYEAslWRkSxdke) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [Dissonance](https://open.spotify.com/album/60mupNd4ac6TbYwq7UFj7x) | 2:11 | 2024-12-04 |  |
 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 | 2024-12-04 |  |
 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 | 2024-12-04 |  |
 | [Drummer](https://open.spotify.com/track/2vYAKa9MpnFSpEPyPSfaNh) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Drummer](https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp) | 3:32 | 2024-12-04 |  |
@@ -51,7 +52,7 @@
 | [Hold On](https://open.spotify.com/track/485LquEiV7XRBU98FgvSbn) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Hold On](https://open.spotify.com/album/6tnu2poBfIsL28fb4KK9KX) | 3:10 | 2024-12-04 | 2024-12-23 |
 | [Hurts Like Hell](https://open.spotify.com/track/4DmXWoFYEsBtwSSJe1wkGe) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Hurts Like Hell](https://open.spotify.com/album/4DWR9YrTgCNBma8yC6L6Ie) | 3:41 | 2024-12-04 | 2025-02-03 |
 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 | 2024-12-04 |  |
-| [I Loved Everyone](https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [I Loved Everyone](https://open.spotify.com/album/2y7FWBC8Do9YGRlfiYxq85) | 5:20 | 2024-12-04 |  |
+| [I Loved Everyone](https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [I Loved Everyone](https://open.spotify.com/album/2y7FWBC8Do9YGRlfiYxq85) | 5:20 | 2024-12-04 | 2026-02-11 |
 | [I remember how your hands felt on mine](https://open.spotify.com/track/4rWWNbsiorGPfSb7B4c8sy) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [I remember how your hands felt on mine](https://open.spotify.com/album/51SGbfwir9zzbgr2N0BxfO) | 3:15 | 2024-12-04 |  |
 | [I Wish I Never Loved You](https://open.spotify.com/track/15Y5h2JcW69wSP8Nz5cOVZ) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [\(un\)adored](https://open.spotify.com/album/4uksMStCaXPtyuCrJryFzd) | 3:43 | 2024-12-04 |  |
 | [icantbelieveiletyougetaway](https://open.spotify.com/track/2F4vgXgGEZPCnBNBfqXhmH) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/6nOkixWfx52WZnIfTBcmA4) | 2:15 | 2024-12-04 |  |

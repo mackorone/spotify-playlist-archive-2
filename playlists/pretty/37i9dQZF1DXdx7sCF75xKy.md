@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [Open Sun](https://open.spotify.com/track/4lLKOHmyVqzNYW8PM7jrcn) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [That Girl](https://open.spotify.com/album/5sdQ40xdak5s0vyjYyZGXW) | 2:46 |
 | 50 | [魔法](https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [魔法](https://open.spotify.com/album/4hKnbjet7BKrgKIinnwx4z) | 3:16 |
 
-Snapshot ID: `AAAAAIsWgp02qKws00sY34cbjdbqq0qz`
+Snapshot ID: `AAAAAKwH16Dk0yA03+hZO3XslhSMm2w1`

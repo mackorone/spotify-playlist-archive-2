@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 978932,
+  "num_followers": 979023,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABbzPSqfbDfSiG00WDxwKj1",
+  "snapshot_id": "aYkjgAAAAAC2mzHYORjOlCEZV0uYFofY",
   "tracks": [
     {
       "added_at": null,
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 298440,
-      "name": "Hand Me Downs",
-      "url": "https://open.spotify.com/track/2Yv2mHzr5AQavVdwQjEokV"
+      "duration_ms": 170360,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 170360,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
+      "duration_ms": 298440,
+      "name": "Hand Me Downs",
+      "url": "https://open.spotify.com/track/2Yv2mHzr5AQavVdwQjEokV"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Macadelic",
-        "url": "https://open.spotify.com/album/6IaJIG1vHwTmbRxxENETey"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 185779,
-      "name": "Thoughts from a Balcony",
-      "url": "https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/6IaJIG1vHwTmbRxxENETey"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 185779,
+      "name": "Thoughts from a Balcony",
+      "url": "https://open.spotify.com/track/5MRjor9laqEIolgaN20iwL"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.I.D.S.",
-        "url": "https://open.spotify.com/album/1T0BEcI9veLLRnbvHFJdru"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 197929,
-      "name": "Knock Knock",
-      "url": "https://open.spotify.com/track/4GbazUiaLPKj2VmCVykw53"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Watching Movies with the Sound Off",
         "url": "https://open.spotify.com/album/6iJ9Zu9fujJ9HHNt7cRauP"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 256423,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4lSSv5nRcv47yLSRj92omI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1T0BEcI9veLLRnbvHFJdru"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 197929,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/4GbazUiaLPKj2VmCVykw53"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "K.I.D.S.",
-        "url": "https://open.spotify.com/album/1T0BEcI9veLLRnbvHFJdru"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 157540,
-      "name": "Kool Aid & Frozen Pizza",
-      "url": "https://open.spotify.com/track/3932AyOIsoMQwKjFqaSg4R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GO:OD AM",
         "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 180866,
       "name": "Clubhouse",
       "url": "https://open.spotify.com/track/7rdyAfIm1t6h6I1gyLtD17"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1T0BEcI9veLLRnbvHFJdru"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 157540,
+      "name": "Kool Aid & Frozen Pizza",
+      "url": "https://open.spotify.com/track/3932AyOIsoMQwKjFqaSg4R"
     },
     {
       "added_at": null,

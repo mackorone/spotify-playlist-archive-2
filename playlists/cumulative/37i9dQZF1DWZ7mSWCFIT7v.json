@@ -4655,6 +4655,24 @@
     },
     {
       "album": {
+        "name": "Lava",
+        "url": "https://open.spotify.com/album/0MmRSOYKhY5LIseTl3SKLH"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278500,
+      "name": "Lava",
+      "url": "https://open.spotify.com/track/3ybRuAVWEFuldEo4CwXEKd"
+    },
+    {
+      "album": {
         "name": "lavender's love",
         "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
       },
@@ -7412,7 +7430,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 370003,
       "name": "SECTOR RUSH",
       "url": "https://open.spotify.com/track/3ievbchWTPXUS6J73YOK6F"

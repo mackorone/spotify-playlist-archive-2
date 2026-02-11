@@ -1,12 +1,12 @@
 {
   "description": "This is Fatherson. The essential tracks, all in one playlist.",
-  "num_followers": 895,
+  "num_followers": 894,
   "original_name": "This Is Fatherson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAACzCb2KpGhkTXNLuHDSazqQ",
+  "snapshot_id": "aYkjgAAAAAAPk7d6HQf4F0T81zw09dIy",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 205600,
-      "name": "The Landscape",
-      "url": "https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR"
+      "duration_ms": 212080,
+      "name": "Making Waves",
+      "url": "https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 212080,
-      "name": "Making Waves",
-      "url": "https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T"
+      "duration_ms": 238546,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 238546,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8"
+      "duration_ms": 314066,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 314066,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
+      "duration_ms": 242733,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 242733,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
+      "duration_ms": 205600,
+      "name": "The Landscape",
+      "url": "https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > This is Nana Mizuki\. The essential tracks, all in one playlist.
 
-140 songs - 9 hr 53 min
+142 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,10 +77,11 @@
 | [Phase 21](https://open.spotify.com/track/791jqNUM4S72XV13eK4dXO) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Get up! Shout!](https://open.spotify.com/album/19hS9MR9UT1HYEfjin62Kn) | 4:17 | 2024-07-08 | 2024-12-08 |
 | [Poison Lily](https://open.spotify.com/track/7hhCuCjerf7mNF7urHh3iH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Destiny's Prelude](https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs) | 3:42 | 2023-07-19 | 2024-06-28 |
 | [Polaris](https://open.spotify.com/track/2orTpDbh1wO0GF76kCbEih) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Silent Bible](https://open.spotify.com/album/4tnnahmbMG1qiJA3GCCL50) | 4:19 | 2024-07-08 | 2024-11-07 |
-| [POWER GATE](https://open.spotify.com/track/53GoHDW1XwWPFp3Wn9VPtJ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [POWER GATE](https://open.spotify.com/album/36mh2dAHzkn6kebVw3PXPJ) | 4:31 | 2026-01-30 |  |
+| [POWER GATE](https://open.spotify.com/track/53GoHDW1XwWPFp3Wn9VPtJ) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [POWER GATE](https://open.spotify.com/album/36mh2dAHzkn6kebVw3PXPJ) | 4:31 | 2026-01-30 | 2026-02-11 |
 | [Pray](https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:28 | 2022-10-12 |  |
 | [Preserved Roses](https://open.spotify.com/track/6Vq4Z7jiKzCrmxYzCe7QOM) | [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr), [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [GEISHA BOY \-ANIME SONG EXPERIENCE\-](https://open.spotify.com/album/69ly56BCOHEVC3Q3UAlJzf) | 3:29 | 2022-06-09 |  |
 | [PRIDE OF GLORY](https://open.spotify.com/track/3y7PqC0sjFJSJQbqGD9Vd2) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [深愛](https://open.spotify.com/album/2vsgFj7x7y6VRxVq3W7TlU) | 4:38 | 2023-01-26 | 2023-09-19 |
+| [REBELLION](https://open.spotify.com/track/0HQFZ3qAD2ATk9vz4ckWmG) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅳ](https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4) | 4:47 | 2026-02-11 |  |
 | [Reboot!](https://open.spotify.com/track/3RpRwAz6fZV5f9m6TMFulk) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 3:11 | 2022-07-16 | 2023-07-06 |
 | [Red Breeze](https://open.spotify.com/track/45x5FCsI4VvKoGyQXDnhPk) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Red Breeze](https://open.spotify.com/album/3aWStzvTschv3HBBPdMzv4) | 4:31 | 2022-06-09 | 2024-07-01 |
 | [Red Breeze](https://open.spotify.com/track/0O8snDCXDEnK10SPvSvMS0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [DELIGHTED REVIVER](https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO) | 4:32 | 2022-07-26 | 2022-10-14 |
@@ -108,7 +109,8 @@
 | [UNLIMITED BEAT](https://open.spotify.com/track/4QxfaPNmAjZxY2yP6rKyvF) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEOGENE CREATION](https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR) | 4:28 | 2022-06-09 |  |
 | [Virtual Cruiser](https://open.spotify.com/track/4SivujSrkOb0zZFwxojti6) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CONTEMPORARY EMOTION](https://open.spotify.com/album/01KRguA9zLTOZeutYFHsbZ) | 3:52 | 2025-03-22 |  |
 | [Vitalization](https://open.spotify.com/track/44HokGU8V1GTc0vdOIXrmL) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 3:46 | 2022-06-09 |  |
-| [Vitalization\-Aufwachen Form\-](https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SUPERNAL LIBERTY](https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt) | 4:44 | 2023-03-03 |  |
+| [Vitalization\-Aufwachen Form\-](https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SUPERNAL LIBERTY](https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt) | 4:44 | 2023-03-03 | 2026-02-11 |
+| [WHAT YOU WANT](https://open.spotify.com/track/50ppXoZZbRjr3GNgdLtoF2) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅳ](https://open.spotify.com/album/3eKRZi4vdqPRKIaykrR6n4) | 3:52 | 2026-02-11 |  |
 | [WILD EYES](https://open.spotify.com/track/0LD8q25QxAjLGL0xqie6XH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM](https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT) | 4:10 | 2022-06-09 | 2025-09-20 |
 | [WILD EYES](https://open.spotify.com/track/0qAetyyxDZxgFR1EQrOK7p) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [HYBRID UNIVERSE](https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk) | 4:11 | 2025-09-18 |  |
 | [Young Alive!](https://open.spotify.com/track/70q05FPF89GwqGnyCLs9ds) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [IMPACT EXCITER](https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA) | 4:09 | 2026-01-26 | 2026-01-27 |

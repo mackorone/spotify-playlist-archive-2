@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover:  L.A.X
 
-893 songs - 1 day 19 hr 32 min
+894 songs - 1 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Caro \(Remix\)](https://open.spotify.com/track/0q4b2aZRhZMRD3HvLy45s7) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Caro \(Remix\)](https://open.spotify.com/album/2LAhZSO0Zcnp1NsrdyashT) | 3:08 | 2023-05-04 | 2023-05-27 |
 | [Carry Me Go](https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Carry Me Go](https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do) | 2:16 | 2023-03-16 | 2024-06-28 |
 | [Casanova](https://open.spotify.com/track/4ZvDUUJcpywNxrEetDl3vT) | [BRUME](https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1) | [ROCKSTAR EP](https://open.spotify.com/album/3ZZNbRPy6alzU2zC05BXlb) | 2:44 | 2024-03-01 | 2024-04-05 |
+| [Catapult](https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g), [Dxtiny](https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ) | [Catapult](https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb) | 3:28 | 2026-02-06 |  |
 | [Celine Dion](https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Celine Dion](https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4) | 3:09 | 2024-02-02 | 2024-06-28 |
 | [Chances](https://open.spotify.com/track/5DiPuzT8Gf9hKTTqaf2Fkd) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Chances](https://open.spotify.com/album/4z9ttrOoW5YhHv4En8Bbdq) | 2:44 | 2025-09-05 | 2025-10-10 |
 | [Chandelier](https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Candor](https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB) | 2:55 | 2025-01-21 |  |
@@ -177,7 +178,7 @@
 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-25 | 2024-03-01 |
 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/0iMhzMIkv6UQd9j4Y8mTvY) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:24 | 2022-09-23 | 2023-01-27 |
 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:24 | 2022-12-18 | 2023-05-13 |
-| [Come Gimme](https://open.spotify.com/track/7agUxGNzZz3eaPqH1PQtSf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:49 | 2025-07-11 |  |
+| [Come Gimme](https://open.spotify.com/track/7agUxGNzZz3eaPqH1PQtSf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:49 | 2025-07-11 | 2026-02-11 |
 | [Coming Back For You](https://open.spotify.com/track/5o77o7nTrQL1mWAyrvVMNI) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:56 | 2022-11-04 | 2023-09-15 |
 | [Coming Back For You](https://open.spotify.com/track/6VVvzNsWQd62FIQyc4zBSR) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK) | 2:56 | 2022-11-04 | 2022-11-21 |
 | [Commitment](https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Commitment](https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd) | 3:11 | 2025-02-28 |  |

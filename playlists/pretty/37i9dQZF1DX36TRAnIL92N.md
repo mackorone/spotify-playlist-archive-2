@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,970 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,227 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 4 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:21 |
 | 5 | [Mamma Mia \(feat\. Mentissa\) \- Techno Mix](https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Mamma Mia \(feat\. Mentissa\) \[Techno Mix\]](https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf) | 3:20 |
 | 6 | [That Acid](https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [That Acid](https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL) | 2:25 |
-| 7 | [Bounce Back \- Sped Up](https://open.spotify.com/track/5QfJ0FdXn72ljBhKr3VyKA) | [Acidus](https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB), [MXGN](https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg) | [Bounce Back \(Sped Up\)](https://open.spotify.com/album/3coHVjbK1xd9PvtaWREtet) | 2:15 |
-| 8 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 |
+| 7 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 |
+| 8 | [Bounce Back \- Sped Up](https://open.spotify.com/track/5QfJ0FdXn72ljBhKr3VyKA) | [Acidus](https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB), [MXGN](https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg) | [Bounce Back \(Sped Up\)](https://open.spotify.com/album/3coHVjbK1xd9PvtaWREtet) | 2:15 |
 | 9 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 10 | [We Do What We Want \- Edit](https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive) | [We Do What We Want \(Edit\)](https://open.spotify.com/album/5WzbzjfI0AeLlYwyZ1rHOa) | 3:08 |
 | 11 | [Play With Me](https://open.spotify.com/track/6PrPWf02VxGUd2jJLs9z1M) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Shlømo](https://open.spotify.com/artist/0ZdNs1hU6aAiaZxvFbtDWF) | [Spiritual Driveby](https://open.spotify.com/album/2aQjGvSZNLgf4tuMADUeqr) | 3:38 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 46 | [Serenity](https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 2:49 |
 | 47 | [Nero](https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [HARD POP VOL\. 2](https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP) | 5:39 |
 | 48 | [No Division \(feat\. XSALT\)](https://open.spotify.com/track/6ia0ffeCVyDAX7KOeYLjH2) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [XSALT](https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 6:06 |
-| 49 | [Chaos \- Rave Mix](https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Chaos](https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs) | 4:00 |
+| 49 | [Let the Bass Kick](https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Let the Bass Kick](https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul) | 2:26 |
 | 50 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 |
 
 Snapshot ID: `AAAAAEOS/+WY0D28XK0VEGzq4HRurn9s`

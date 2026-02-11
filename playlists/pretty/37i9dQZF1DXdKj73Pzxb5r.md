@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Elephant Kind
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,278 likes - 103 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,280 likes - 103 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

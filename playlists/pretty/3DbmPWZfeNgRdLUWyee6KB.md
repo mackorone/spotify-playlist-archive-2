@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,244 likes - 153 songs - 8 hr 39 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,244 likes - 156 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,5 +161,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 151 | [Second Hand Clothes](https://open.spotify.com/track/19fycOjyjBShEGCCq7c7ZU) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Shiny Silvery Things](https://open.spotify.com/album/7x9gKK4KX0B1Vg7zJXv41k) | 3:46 |
 | 152 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 |
 | 153 | [Like a Seagull](https://open.spotify.com/track/2wojO6FmZRzE56UBDJ35ms) | [Eden Rose](https://open.spotify.com/artist/5SOfWUcNGehU0c0foyXQjl) | [Like a Seagull](https://open.spotify.com/album/23Mh0bl7UsPtNhK4fo0CNb) | 3:19 |
+| 154 | [Joyful Days](https://open.spotify.com/track/2ejqRknRaC6zC1WQLuUcTb) | [Mustafa Erhan](https://open.spotify.com/artist/7mve4x9DCP237Y8I1UC4TK) | [All in One](https://open.spotify.com/album/4tAYZAjdvpsskwRxDT3bXn) | 3:04 |
+| 155 | [A quoi bon](https://open.spotify.com/track/3BOJLuvEAvFB7oLmuFMahx) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [A quoi bon](https://open.spotify.com/album/3keMZ2GXAofv25DynqnSBU) | 3:46 |
+| 156 | [Roma](https://open.spotify.com/track/5UFMhB0iMZ9IRZnXVtE9uJ) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Roma](https://open.spotify.com/album/28GEpbSVfkg6AripcKvexZ) | 2:47 |
 
-Snapshot ID: `AAAQTTUp0ZXQ7lkzcOhuf3zZcAHDBW6r`
+Snapshot ID: `AAAQUG+FIlHGKeFaUDWdWLmBSovkXw0K`

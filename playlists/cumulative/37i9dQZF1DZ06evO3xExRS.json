@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "Todo esto es muy extra\u00f1o (American edition)",
+        "url": "https://open.spotify.com/album/21qKh1Xap2JPTZ1EJUxbl1"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159213,
+      "name": "Me quiero enamorar",
+      "url": "https://open.spotify.com/track/5GCIcA9uuEoKRewpivrKEh"
+    },
+    {
+      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/6HCNZr7n6OwPhWP2cVRfLg"
       },

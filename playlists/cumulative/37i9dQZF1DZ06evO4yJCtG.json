@@ -158,7 +158,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 190498,
       "name": "All or Nothing (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 237758,
       "name": "Breakfast In Bed",
       "url": "https://open.spotify.com/track/2j0FtLNpLPaSX9rKuIdBFH"
@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214933,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/3QFxAtV6IQGbsvkJbvGvSc"
+    },
+    {
+      "album": {
         "name": "CHANGE",
         "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 183019,
       "name": "IYKYK (feat. Ella Mai & A Boogie Wit Da Hoodie)",
       "url": "https://open.spotify.com/track/76Nm6QNruFMrQc3HWTfreR"
@@ -564,10 +582,28 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 210563,
       "name": "Love Me Like That (Champion Love)",
       "url": "https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k"
+    },
+    {
+      "album": {
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235649,
+      "name": "Luckiest Man",
+      "url": "https://open.spotify.com/track/4LR3j5UoXtDGmRtwErRIWD"
     },
     {
       "album": {
@@ -586,6 +622,42 @@
       "duration_ms": 210825,
       "name": "Makes Me Wonder",
       "url": "https://open.spotify.com/track/4zwZhQnqJTr1rQ9wRY3nNr"
+    },
+    {
+      "album": {
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223509,
+      "name": "Might Just",
+      "url": "https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa"
+    },
+    {
+      "album": {
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172791,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/35dwIe0bZRFB75uirFq4Zg"
     },
     {
       "album": {
@@ -654,7 +726,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 89443,
       "name": "Old Dog, New Bitch",
       "url": "https://open.spotify.com/track/6Bh16kDql5jGWA8WhinbdR"
@@ -676,7 +748,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 206840,
       "name": "One and Only (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/0PjtIvwCFQMkWoFTVWsCsi"
@@ -760,6 +832,24 @@
       "duration_ms": 199833,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf"
+    },
+    {
+      "album": {
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173433,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/16ECoILgtdIBK9L3B345Tq"
     },
     {
       "album": {
@@ -887,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220992,
+      "name": "Somebody\u2019s Son",
+      "url": "https://open.spotify.com/track/678lV7wa2AgviB6saK3NJC"
+    },
+    {
+      "album": {
         "name": "Perfect Ten",
         "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
       },
@@ -949,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Do You Still Love Me?",
+        "url": "https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "There Goes My Heart",
+      "url": "https://open.spotify.com/track/3UndDLgqFJQjSjX2lk7gNc"
+    },
+    {
+      "album": {
         "name": "Heart On My Sleeve (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
       },
@@ -986,7 +1112,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 244801,
       "name": "Tiiied (feat. 6LACK & Ella Mai)",
       "url": "https://open.spotify.com/track/4kswfYbJFf6FPzMElZmtve"
@@ -1084,7 +1210,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 223280,
       "name": "Who Knew",
       "url": "https://open.spotify.com/track/4vshJnpU7XbiGNzrwSeX6h"

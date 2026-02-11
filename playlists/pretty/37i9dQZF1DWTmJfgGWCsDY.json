@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Kidene Fighter",
-  "num_followers": 8872,
+  "num_followers": 8881,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Sawa Nitaacha",
-        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 218197,
-      "name": "Sawa Nitaacha",
-      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Ex Arudiwi",
         "url": "https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 199132,
       "name": "Ex Arudiwi",
       "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Sawa Nitaacha",
+        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 218197,
+      "name": "Sawa Nitaacha",
+      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -863,8 +863,8 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Madanga Ya Mke Wangu",
-        "url": "https://open.spotify.com/album/49mM3VMjzLhG2sa4JLwLVD"
+        "name": "Demu Wangu (Remix)",
+        "url": "https://open.spotify.com/album/7zSRhcHQG4jIHEHBSq5euQ"
       },
       "artists": [
         {
@@ -872,13 +872,17 @@
           "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
         },
         {
-          "name": "D Voice",
-          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "MABANTU",
+          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
         }
       ],
-      "duration_ms": 337346,
-      "name": "Madanga Ya Mke Wangu",
-      "url": "https://open.spotify.com/track/1abvlwDvZmuhopVyIBsNSt"
+      "duration_ms": 247167,
+      "name": "Demu Wangu",
+      "url": "https://open.spotify.com/track/2zl5QAmjBZVDmpBNX7mnx2"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1051,8 +1055,8 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Singeli Funk",
-        "url": "https://open.spotify.com/album/5stFPTtiCk2KmMHQxtbGYD"
+        "name": "Weeeweeeeeeee",
+        "url": "https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o"
       },
       "artists": [
         {
@@ -1060,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
         }
       ],
-      "duration_ms": 147204,
-      "name": "Singeli Funk",
-      "url": "https://open.spotify.com/track/2haTkqqkP8dtKRXsRQ8Rk4"
+      "duration_ms": 230000,
+      "name": "Weeeweeeeeeee",
+      "url": "https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1155,6 +1159,26 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
+        "name": "Wewe Hapo",
+        "url": "https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl"
+      },
+      "artists": [
+        {
+          "name": "Msomali",
+          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
+        },
+        {
+          "name": "Mr Blue",
+          "url": "https://open.spotify.com/artist/68II63kR4auffzAj6s4Mrf"
+        }
+      ],
+      "duration_ms": 148036,
+      "name": "Wewe Hapo",
+      "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
         "name": "Maturity EP",
         "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
       },
@@ -1191,24 +1215,8 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Maokoto",
-        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
-      },
-      "artists": [
-        {
-          "name": "Mocco Genius",
-          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Maokoto",
-      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "Weeeweeeeeeee",
-        "url": "https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o"
+        "name": "Singeli Funk",
+        "url": "https://open.spotify.com/album/5stFPTtiCk2KmMHQxtbGYD"
       },
       "artists": [
         {
@@ -1216,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Weeeweeeeeeee",
-      "url": "https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN"
+      "duration_ms": 147204,
+      "name": "Singeli Funk",
+      "url": "https://open.spotify.com/track/2haTkqqkP8dtKRXsRQ8Rk4"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1251,6 +1259,22 @@
       "duration_ms": 153281,
       "name": "Dar Es Salaam",
       "url": "https://open.spotify.com/track/5ilkB8b305bzKh3zzgs5cB"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Maokoto",
+        "url": "https://open.spotify.com/album/42BkNLDMP0zEbvzJaS3JuG"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Maokoto",
+      "url": "https://open.spotify.com/track/5NV9jkFToD1sqTwKqOTZUe"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1291,26 +1315,6 @@
       "duration_ms": 186193,
       "name": "Shobo",
       "url": "https://open.spotify.com/track/2JjBpdexI7ov1iDdfZPISk"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
-        "name": "Wewe Hapo",
-        "url": "https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl"
-      },
-      "artists": [
-        {
-          "name": "Msomali",
-          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
-        },
-        {
-          "name": "Mr Blue",
-          "url": "https://open.spotify.com/artist/68II63kR4auffzAj6s4Mrf"
-        }
-      ],
-      "duration_ms": 148036,
-      "name": "Wewe Hapo",
-      "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1411,22 +1415,18 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Wapambe",
-        "url": "https://open.spotify.com/album/22slAeb6NP4Eq9Q5c8eOie"
+        "name": "Kizimkazi",
+        "url": "https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY"
       },
       "artists": [
         {
-          "name": "Elisha",
-          "url": "https://open.spotify.com/artist/7beQHnSg083MMXTbHMN4yi"
-        },
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+          "name": "Sholo Mwamba",
+          "url": "https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T"
         }
       ],
-      "duration_ms": 240490,
-      "name": "Wapambe",
-      "url": "https://open.spotify.com/track/4YW7lRL207zKlGBPQak7pl"
+      "duration_ms": 233226,
+      "name": "Kizimkazi",
+      "url": "https://open.spotify.com/track/1timkZv543vJPprluNTDQ4"
     }
   ],
   "unique_name": "Singeli Sounds",

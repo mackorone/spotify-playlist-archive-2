@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 695,
+  "num_followers": 698,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAE3a05+h7VzJv558enrgYLiAzfZnLa",
+  "snapshot_id": "AAAE4CEhOalKYzNlC2VHgBgM3cfvfysx",
   "tracks": [
     {
       "added_at": "2026-01-29 01:31:47",
@@ -1439,6 +1439,54 @@
       "duration_ms": 241168,
       "name": "Letzter Kuss",
       "url": "https://open.spotify.com/track/24Y239nFAW5fky8A9BVH1r"
+    },
+    {
+      "added_at": "2026-02-10 15:15:46",
+      "album": {
+        "name": "The Man's Always Getting Me Down",
+        "url": "https://open.spotify.com/album/5G7IrHgzWPFYZsVGvroARq"
+      },
+      "artists": [
+        {
+          "name": "Ben Aubergine",
+          "url": "https://open.spotify.com/artist/3HoBbX5K0WawMbfNfXjqPz"
+        }
+      ],
+      "duration_ms": 261774,
+      "name": "The Man's Always Getting Me Down",
+      "url": "https://open.spotify.com/track/3dC2epYzUhJdjNRySyLc7x"
+    },
+    {
+      "added_at": "2026-02-10 15:28:19",
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr"
+      },
+      "artists": [
+        {
+          "name": "Ask The Dust",
+          "url": "https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND"
+        }
+      ],
+      "duration_ms": 203765,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp"
+    },
+    {
+      "added_at": "2026-02-10 15:42:29",
+      "album": {
+        "name": "Be Able to Love",
+        "url": "https://open.spotify.com/album/7aeQRtbSegbwni28Yb8QRo"
+      },
+      "artists": [
+        {
+          "name": "EVGHENI TULGENCO",
+          "url": "https://open.spotify.com/artist/65mGQebSGhzcpia0NZ4X3w"
+        }
+      ],
+      "duration_ms": 186763,
+      "name": "Be Able to Love",
+      "url": "https://open.spotify.com/track/2WMcEWz3MGj2IkpaFxOi3W"
     }
   ],
   "unique_name": "Unsigned Rock",

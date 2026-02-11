@@ -4,7 +4,7 @@
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-88 songs - 5 hr 20 min
+89 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Too Hot \(with Savage\)](https://open.spotify.com/track/36aderBywLn4vrZ3B34lke) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Too Hot \(with Savage\)](https://open.spotify.com/album/0Zlrh6ktZ1J33pGYd7wvJP) | 3:30 | 2024-11-24 | 2025-01-08 |
 | [Uma](https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Uma](https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg) | 3:22 | 2024-01-29 |  |
 | [Until One Day](https://open.spotify.com/track/2a3upUyTlyriSfwPlCDHpe) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:42 | 2024-01-29 |  |
-| [Waiting On The Rain](https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:27 | 2024-01-29 |  |
+| [Waiting On The Rain](https://open.spotify.com/track/4QONpmE4WJ8KkeaADeZI1i) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:27 | 2026-02-11 |  |
+| [Waiting On The Rain](https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:27 | 2024-01-29 | 2026-02-11 |
 | [Wana](https://open.spotify.com/track/1sxnPAx4uYKN2j9tKThu9a) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [Freddy Leone](https://open.spotify.com/artist/3O2daWySmYfwf5xNwBdkAV), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Franskiiz](https://open.spotify.com/artist/68yb5Lh8HlTpggPolo5lih) | [Wana](https://open.spotify.com/album/6hQAr2qajVKNviUmPA3SJc) | 3:58 | 2025-02-07 |  |
 | [Wana](https://open.spotify.com/track/4y698JN8eOHznsbNK4m8tx) | [8RO8](https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8), [Freddy Leone](https://open.spotify.com/artist/3O2daWySmYfwf5xNwBdkAV), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Franskiiz](https://open.spotify.com/artist/68yb5Lh8HlTpggPolo5lih) | [Loose Shakas](https://open.spotify.com/album/7rUcGvKNuoTCe9K9kQM2wc) | 3:58 | 2024-09-03 | 2025-02-07 |
 | [Worth My Time](https://open.spotify.com/track/1Xd0kjwP0L0LYYExamTlmI) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Jugglerz City](https://open.spotify.com/album/3EDbfW7vuohqsBml6WDzGW) | 3:00 | 2025-09-26 | 2025-10-08 |

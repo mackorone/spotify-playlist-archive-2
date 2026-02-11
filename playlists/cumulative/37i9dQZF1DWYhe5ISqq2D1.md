@@ -2,9 +2,9 @@
 
 ### [ブルーにこんがらがって](https://open.spotify.com/playlist/37i9dQZF1DWYhe5ISqq2D1)
 
-> 日本のシンガーソングライターを特集。Cover: butaji
+> 日本のシンガーソングライターを特集。Cover: Jeremy Quartus
 
-1,145 songs - 3 day 0 hr 11 min
+1,146 songs - 3 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Dear drops](https://open.spotify.com/track/7DL4pSKPM9UBg48FdpWhfD) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Dear drops](https://open.spotify.com/album/2gzhoSjg8Obopqmfsgquwr) | 4:32 | 2025-06-03 | 2025-06-18 |
 | [Dear Grandpa](https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [Dear Grandpa](https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3) | 2:58 | 2025-10-14 | 2025-11-12 |
 | [Dear stranger](https://open.spotify.com/track/7cWfA4LLhvNq2l2KPOlSi4) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Dear stranger](https://open.spotify.com/album/06kTnjCMXpv7EfI1g4zPc5) | 3:58 | 2024-10-08 | 2025-01-15 |
+| [Deep End](https://open.spotify.com/track/1797TbHHrKxxVyk2u5td2F) | [Jeremy Quartus](https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy) | [](https://open.spotify.com/album/null) | 3:47 | 2026-02-10 |  |
 | [Deep Inside](https://open.spotify.com/track/5dKUNd4Maxq32qDgIhirGN) | [GooDee](https://open.spotify.com/artist/7aneteJsZGNuXV2ZgIkq5v) | [Deep Inside](https://open.spotify.com/album/69LdwRkc49IXEghOXTaZmO) | 2:43 | 2025-02-18 | 2025-02-26 |
 | [delulu](https://open.spotify.com/track/3zhCjzd8GO8vy4724tLTk7) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [delulu](https://open.spotify.com/album/7kJLxc5uuoBEJIGrijIpSA) | 2:45 | 2025-09-03 | 2025-09-17 |
 | [DiNA](https://open.spotify.com/track/4ga5kO7qacjGkYZQYCK9Og) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [DiNA](https://open.spotify.com/album/02hQy084ewZMZCKLtxwg6c) | 4:23 | 2025-01-14 | 2025-12-03 |
@@ -235,7 +236,7 @@
 | [illusion](https://open.spotify.com/track/6m53DkRrzvS8oZWHs9oiz0) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [illusion](https://open.spotify.com/album/0wimYbq1Bt4h831oilomYX) | 2:49 | 2024-12-24 | 2025-02-12 |
 | [In Bloom](https://open.spotify.com/track/3f58lbFyAK65TaTQ83JtDh) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [In Bloom](https://open.spotify.com/album/3ynxUwwaoRYf2JW8nbID9L) | 3:06 | 2025-12-02 | 2026-01-21 |
 | [In My Life \(feat\. Madoki Yamasaki\)](https://open.spotify.com/track/7nuoQJnmtOGWHu00aJ46sr) | [Caravan](https://open.spotify.com/artist/6HcUBQ9LwRrhBwJdZguoma), [Madoki Yamasaki](https://open.spotify.com/artist/4h7zqN5uuUd5hwJVTe4Q4j) | [HOMEWORK \#2](https://open.spotify.com/album/191yjVDlKjKxb7lpTsJ7ws) | 4:55 | 2025-09-23 | 2025-10-01 |
-| [In silence](https://open.spotify.com/track/0Ycv0pZY8udyDZlBbWdEFT) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [In silence](https://open.spotify.com/album/4AnIbAvGzEhzLQoFMZhlZw) | 3:38 | 2026-02-03 |  |
+| [In silence](https://open.spotify.com/track/0Ycv0pZY8udyDZlBbWdEFT) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [In silence](https://open.spotify.com/album/4AnIbAvGzEhzLQoFMZhlZw) | 3:38 | 2026-02-03 | 2026-02-11 |
 | [INNER CHILD](https://open.spotify.com/track/0gOORv5Wb6gOqt2pqtWBHv) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [INNER CHILD](https://open.spotify.com/album/23WzSTrMBGr5j91gIyLfx7) | 3:36 | 2024-07-02 | 2024-07-17 |
 | [INSOMNIA](https://open.spotify.com/track/0L0nrPEHffucQqfWusbmrb) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [INSOMNIA](https://open.spotify.com/album/6HcP5DlLCM8vEagkSE1Uhu) | 4:03 | 2025-04-22 | 2025-06-12 |
 | [Instead of me](https://open.spotify.com/track/5ME3aSbiGqfEQzKHYphjax) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Instead of me](https://open.spotify.com/album/7FSDdVzn4vy60tLdQylGRd) | 5:31 | 2025-08-05 | 2025-08-20 |
@@ -285,7 +286,7 @@
 | [Liberation](https://open.spotify.com/track/5fg9cZHIAfPx37uhxWCZ3s) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [Liberation](https://open.spotify.com/album/2XX5U1bJs9C7kt1b7b1oW9) | 3:48 | 2024-08-06 | 2024-09-25 |
 | [Life is show case](https://open.spotify.com/track/3CtWTOnr3Sp0SlA53EgB9T) | [Sundayカミデ](https://open.spotify.com/artist/68gwW3maybvvPRmjHufvgy) | [Life is show case](https://open.spotify.com/album/5w1ZSCQzIjYkhb5PZ9K2U4) | 4:15 | 2025-11-25 | 2025-12-03 |
 | [Light](https://open.spotify.com/track/303gTSriG9PPpO8K2GRAsj) | [Sori Sawada](https://open.spotify.com/artist/2DVBuwrrWkKGMcohF3wVnF) | [\(Not\) Right](https://open.spotify.com/album/2FqZZgv5NjekUggMgkZxj9) | 5:12 | 2024-12-10 | 2024-12-18 |
-| [Like Gravity](https://open.spotify.com/track/7woHTrOb5btpt1k3JippcM) | [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Like Gravity](https://open.spotify.com/album/2prnZSlMBaKUD6NJmkZVb1) | 3:04 | 2025-09-23 |  |
+| [Like Gravity](https://open.spotify.com/track/7woHTrOb5btpt1k3JippcM) | [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Like Gravity](https://open.spotify.com/album/2prnZSlMBaKUD6NJmkZVb1) | 3:04 | 2025-09-23 | 2026-02-11 |
 | [LIME](https://open.spotify.com/track/3AlFbHf3ftf9JAiMf1KpOw) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [LIME](https://open.spotify.com/album/5J1FvWkGaI4ZT6AK8gisU8) | 4:10 | 2024-12-03 | 2025-01-07 |
 | [Linda](https://open.spotify.com/track/1QcS7T8lOfPr0CC4CsyOiD) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Linda](https://open.spotify.com/album/3wSuJSoEgnr5qd30nPf9By) | 3:12 | 2024-09-17 | 2024-09-25 |
 | [Lip Noise](https://open.spotify.com/track/3kmlp8uPqbrqTmvsyHSM1K) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [DEAR MYSTERIES](https://open.spotify.com/album/4hxdw3cTnoBALcncTVldxq) | 4:58 | 2025-11-11 | 2026-01-15 |
@@ -736,7 +737,7 @@
 | [チーズデイズ](https://open.spotify.com/track/7xvUOjYuPPioSqzUGFaLwh) | [原田ねくら](https://open.spotify.com/artist/4qIx6BtpXmDOxKxhpk3JXL) | [チーズデイズ](https://open.spotify.com/album/05tDf5dQBJmFcTyLXk9wYN) | 3:51 | 2025-05-07 | 2025-05-22 |
 | [ディストピア](https://open.spotify.com/track/7KrlMy84HDJXgbqdiKR2c2) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [ディストピア](https://open.spotify.com/album/6e3H5tVJtoMSpuuDilLoxp) | 3:54 | 2025-02-11 | 2025-02-19 |
 | [デイジー](https://open.spotify.com/track/6OalExVqGSXSXxT7lmzTLY) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [デイジー](https://open.spotify.com/album/4BkPgahyVN3J3Xo8fPVzP1) | 2:48 | 2025-05-27 | 2025-11-15 |
-| [デッドエンド](https://open.spotify.com/track/4leMDmtNqMBjfprfRlx7kd) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [デッドエンド](https://open.spotify.com/album/4CV8Dq2YA4oViwgltxwegz) | 3:06 | 2026-01-14 | 2026-01-28 |
+| [デッドエンド](https://open.spotify.com/track/4leMDmtNqMBjfprfRlx7kd) | [五十嵐ハル](https://open.spotify.com/artist/28a4P2rmW853MTC4pOlCv0) | [デッドエンド](https://open.spotify.com/album/4CV8Dq2YA4oViwgltxwegz) | 3:06 | 2026-01-14 |  |
 | [トモダマシ](https://open.spotify.com/track/6VcCIKmWQbc7eQEUNlULiQ) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [トモダマシ](https://open.spotify.com/album/77kT1606qGgLj8TcI1Q9Ob) | 3:17 | 2025-08-05 | 2025-08-13 |
 | [トランポリン](https://open.spotify.com/track/2kE9FubpAxrZNBpVxbSWT8) | [Yuta Orisaka](https://open.spotify.com/artist/27ZpqmpHDgVgmAcBULfzTH) | [Straße](https://open.spotify.com/album/71VzFoV1EadJXRt1dqPtvF) | 4:38 | 2025-05-07 | 2025-05-28 |
 | [トロイ](https://open.spotify.com/track/0ZxluYxnjFomtA5xQq6kpc) | [あれくん](https://open.spotify.com/artist/7voEy17zvlQojgmQYUlKDK) | [トロイ](https://open.spotify.com/album/5O9zrO8mS1S1IAVSX58DbT) | 3:58 | 2025-11-04 | 2025-11-12 |

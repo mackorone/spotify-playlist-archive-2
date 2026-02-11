@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Myles Smith, Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,784 likes - 90 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,729 likes - 90 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 42 | [A OK](https://open.spotify.com/track/7wQ4O3Doy7KhybAbkLQmuT) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [A OK](https://open.spotify.com/album/7zHmpaa8UpMrHzNwPBcdIA) | 2:56 |
 | 43 | [Monumental](https://open.spotify.com/track/4kP88dKJ2hMfRUstPKexhl) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [And I’d Do It Again](https://open.spotify.com/album/5b0B9A64cRVpwHZmvkEctI) | 2:47 |
 | 44 | [Imposter](https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Imposter](https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314) | 2:38 |
-| 45 | [Must Confess](https://open.spotify.com/track/4bsjRXyZxMQjYhmtWMvFJr) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Must Confess](https://open.spotify.com/album/6couwEU2h4Pthm5P9YbOrM) | 3:05 |
+| 45 | [Must Confess](https://open.spotify.com/track/4bsjRXyZxMQjYhmtWMvFJr) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Must Confess](https://open.spotify.com/album/6couwEU2h4Pthm5P9YbOrM) | 3:04 |
 | 46 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 |
 | 47 | [High Maintenance](https://open.spotify.com/track/3nUQ7JkB1GR4NUY4Lbhziy) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [High Maintenance](https://open.spotify.com/album/5Yw2010UiiBoJcJrlKnmmO) | 2:24 |
 | 48 | [Back To You](https://open.spotify.com/track/5fw5edT2Iu243gaNQbZwxC) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Back To You](https://open.spotify.com/album/1GRGtFtuMOIoxIZuw2i4oF) | 3:10 |

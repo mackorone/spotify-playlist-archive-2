@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 82384,
+  "num_followers": 82396,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,26 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Somewhere (feat. Gus Dapperton)",
+        "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 183943,
+      "name": "Somewhere (feat. Gus Dapperton)",
+      "url": "https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
         "url": "https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 227435,
       "name": "Vibe Like This (feat. Ty Dolla $ign & Lucky Daye)",
       "url": "https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Somewhere (feat. Gus Dapperton)",
-        "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 183943,
-      "name": "Somewhere (feat. Gus Dapperton)",
-      "url": "https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Catching Eyes",
         "url": "https://open.spotify.com/album/23e5nDOtNtNou7pfR431YI"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
     },
     {
       "added_at": "2024-06-28 21:13:36",

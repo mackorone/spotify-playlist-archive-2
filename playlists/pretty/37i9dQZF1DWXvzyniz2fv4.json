@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159087,
+  "num_followers": 159080,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,30 @@
     {
       "added_at": "2026-02-06 16:16:24",
       "album": {
+        "name": "OCANV",
+        "url": "https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D"
+      },
+      "artists": [
+        {
+          "name": "Kako",
+          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
+        },
+        {
+          "name": "Thiago Castanho",
+          "url": "https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER"
+        },
+        {
+          "name": "Marc\u00e3o Britto",
+          "url": "https://open.spotify.com/artist/5jKJ8fkQJwbAb8z0cFpaWe"
+        }
+      ],
+      "duration_ms": 225138,
+      "name": "Mundo Louco, N\u00f3s Tamb\u00e9m",
+      "url": "https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo"
+    },
+    {
+      "added_at": "2026-02-06 16:16:24",
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -303,30 +327,6 @@
       "duration_ms": 250434,
       "name": "Madrugada \u00e9 Solid\u00e3o",
       "url": "https://open.spotify.com/track/6WmASz2D2nydllhQzNxTOU"
-    },
-    {
-      "added_at": "2026-02-06 16:16:24",
-      "album": {
-        "name": "OCANV",
-        "url": "https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D"
-      },
-      "artists": [
-        {
-          "name": "Kako",
-          "url": "https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm"
-        },
-        {
-          "name": "Thiago Castanho",
-          "url": "https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER"
-        },
-        {
-          "name": "Marc\u00e3o Britto",
-          "url": "https://open.spotify.com/artist/5jKJ8fkQJwbAb8z0cFpaWe"
-        }
-      ],
-      "duration_ms": 225138,
-      "name": "Mundo Louco, N\u00f3s Tamb\u00e9m",
-      "url": "https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo"
     },
     {
       "added_at": "2026-02-06 16:16:24",
@@ -395,6 +395,30 @@
       "duration_ms": 133000,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU"
+    },
+    {
+      "added_at": "2026-02-06 16:16:24",
+      "album": {
+        "name": "A Casa \u00c9 Tua",
+        "url": "https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG"
+      },
+      "artists": [
+        {
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Blood Beatz",
+          "url": "https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc"
+        }
+      ],
+      "duration_ms": 198667,
+      "name": "A Casa \u00c9 Tua",
+      "url": "https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q"
     },
     {
       "added_at": "2026-02-06 16:16:24",
@@ -483,30 +507,6 @@
     {
       "added_at": "2026-02-06 16:16:24",
       "album": {
-        "name": "A Casa \u00c9 Tua",
-        "url": "https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG"
-      },
-      "artists": [
-        {
-          "name": "Pedro Qualy",
-          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
-        },
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Blood Beatz",
-          "url": "https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc"
-        }
-      ],
-      "duration_ms": 198667,
-      "name": "A Casa \u00c9 Tua",
-      "url": "https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q"
-    },
-    {
-      "added_at": "2026-02-06 16:16:24",
-      "album": {
         "name": "Amor N\u00e3o Sai de Moda",
         "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-02-06 16:16:24",
       "album": {
-        "name": "UM44K Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 163492,
-      "name": "Pode falar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
-    },
-    {
-      "added_at": "2026-02-06 16:16:24",
-      "album": {
         "name": "cinco noites em sp",
         "url": "https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 146288,
       "name": "sintetizar",
       "url": "https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X"
+    },
+    {
+      "added_at": "2026-02-06 16:16:24",
+      "album": {
+        "name": "UM44K Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 163492,
+      "name": "Pode falar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP"
     },
     {
       "added_at": "2026-02-06 16:16:24",
@@ -1135,8 +1135,8 @@
     {
       "added_at": "2026-02-06 16:16:24",
       "album": {
-        "name": "Fim de Semana",
-        "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
+        "name": "Modo Avi\u00e3o",
+        "url": "https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH"
       },
       "artists": [
         {
@@ -1148,25 +1148,21 @@
           "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
         },
         {
-          "name": "BORIS FARIAS",
-          "url": "https://open.spotify.com/artist/6Cp5dpCP8rgtVSEYewU6xF"
-        },
-        {
-          "name": "Mozart Mz",
-          "url": "https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne"
-        },
-        {
           "name": "Junior Lord",
           "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
         },
         {
           "name": "Pel\u00e9 MilFlows",
           "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Caslu",
+          "url": "https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T"
         }
       ],
-      "duration_ms": 163030,
-      "name": "Fim de Semana",
-      "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
+      "duration_ms": 168000,
+      "name": "Toda Linda (feat. Caslu)",
+      "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
     },
     {
       "added_at": "2026-02-06 16:16:24",
@@ -1259,8 +1255,8 @@
     {
       "added_at": "2026-02-06 16:16:24",
       "album": {
-        "name": "Modo Avi\u00e3o",
-        "url": "https://open.spotify.com/album/1GZPzZKe37xeQqxi1gXASH"
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
       "artists": [
         {
@@ -1272,21 +1268,25 @@
           "url": "https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2"
         },
         {
+          "name": "BORIS FARIAS",
+          "url": "https://open.spotify.com/artist/6Cp5dpCP8rgtVSEYewU6xF"
+        },
+        {
+          "name": "Mozart Mz",
+          "url": "https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne"
+        },
+        {
           "name": "Junior Lord",
           "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
         },
         {
           "name": "Pel\u00e9 MilFlows",
           "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Caslu",
-          "url": "https://open.spotify.com/artist/1FrO6hhB0YyDvFJMonSY9T"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Toda Linda (feat. Caslu)",
-      "url": "https://open.spotify.com/track/2NyTRP7BbxiiCdH3V48oyd"
+      "duration_ms": 163030,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
     },
     {
       "added_at": "2026-02-06 16:16:24",

@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 639518,
+  "num_followers": 639457,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Drop Stop Roll",
         "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1383,22 +1383,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
-        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
       "artists": [
         {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
         }
       ],
-      "duration_ms": 197474,
-      "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
-      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
+      "duration_ms": 200480,
+      "name": "Coming to Get You Nowhere",
+      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1419,18 +1415,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+        "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
+        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
       },
       "artists": [
         {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 200480,
-      "name": "Coming to Get You Nowhere",
-      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+      "duration_ms": 197474,
+      "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
+      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Speed, Sound, Lonely KV (ep)",
+        "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 315080,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/3NhJyuxuWg9dEX0A88HkiS"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Don't Do Me Good",
         "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 253613,
       "name": "Don't Do Me Good",
       "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Speed, Sound, Lonely KV (ep)",
-        "url": "https://open.spotify.com/album/74liwAdWZN6PljZ7COrEe6"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 315080,
-      "name": "Speed of the Sound of Loneliness",
-      "url": "https://open.spotify.com/track/3NhJyuxuWg9dEX0A88HkiS"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
+        "name": "Brother Sister",
+        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
+      },
+      "artists": [
+        {
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
+        }
+      ],
+      "duration_ms": 237186,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
         "name": "Road Trippin'",
         "url": "https://open.spotify.com/album/1GwMpo5f1BhiVvnWO9i0ys"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 208298,
       "name": "Migration of Souls",
       "url": "https://open.spotify.com/track/2GmGy1eJTvPACm3ekX0hxD"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
-        "name": "Brother Sister",
-        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
-      },
-      "artists": [
-        {
-          "name": "Watkins Family Hour",
-          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
-        }
-      ],
-      "duration_ms": 237186,
-      "name": "The Cure",
-      "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
     }
   ],
   "unique_name": "Scenic Route",

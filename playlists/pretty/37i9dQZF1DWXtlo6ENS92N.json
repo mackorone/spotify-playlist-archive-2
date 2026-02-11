@@ -1,12 +1,12 @@
 {
   "description": "Bollywood Central, jab baje toh seedha dil ke centre mein lage \ud83e\udef6\ud83c\udffc Cover - Saiyaara",
-  "num_followers": 1600522,
+  "num_followers": 1600627,
   "original_name": "Bollywood Central",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAL04DDLNIuZI4n1yn4WBL7pCkcX",
+  "snapshot_id": "AAAAAAFV7M2MvtaUxk/1PSluNiZgUld1",
   "tracks": [
     {
       "added_at": "2026-02-04 07:53:42",
@@ -31,6 +31,34 @@
       "duration_ms": 318217,
       "name": "Tum Ho Toh",
       "url": "https://open.spotify.com/track/5nMv7iOp4NxJaWx0t8361M"
+    },
+    {
+      "added_at": "2026-02-10 09:21:52",
+      "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        }
+      ],
+      "duration_ms": 362400,
+      "name": "Gehra Hua",
+      "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
     },
     {
       "added_at": "2026-02-04 07:53:42",
@@ -481,7 +509,7 @@
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
     },
     {
-      "added_at": "2026-02-04 07:53:42",
+      "added_at": "2026-02-10 09:21:52",
       "album": {
         "name": "Dhurandhar",
         "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
@@ -492,65 +520,21 @@
           "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
         },
         {
-          "name": "Shahzad Ali",
-          "url": "https://open.spotify.com/artist/4asaIarkMcpkYhSiMn1Ed5"
-        },
-        {
-          "name": "Subhadeep Das Chowdhury",
-          "url": "https://open.spotify.com/artist/3biZl77VIJSHTnwBnEZkkd"
-        },
-        {
-          "name": "Armaan Khan",
-          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
         },
         {
           "name": "Irshad Kamil",
           "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         },
         {
-          "name": "Roshan",
-          "url": "https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM"
-        },
-        {
-          "name": "Sahir Ludhianvi",
-          "url": "https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc"
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
         }
       ],
-      "duration_ms": 250860,
-      "name": "Ishq Jalakar - Karvaan",
-      "url": "https://open.spotify.com/track/7DonHcAdu5FHzLNESEEOuj"
-    },
-    {
-      "added_at": "2026-02-04 07:53:42",
-      "album": {
-        "name": "Street Dancer 3D",
-        "url": "https://open.spotify.com/album/50FHINh9xisewZgfucGbVL"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Garry Sandhu",
-          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Intense",
-          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
-        }
-      ],
-      "duration_ms": 188606,
-      "name": "Illegal Weapon 2.0",
-      "url": "https://open.spotify.com/track/7CY0CmCpSglfUKCBOOiRfw"
+      "duration_ms": 155142,
+      "name": "Naal Nachna",
+      "url": "https://open.spotify.com/track/2nnDPEbNxnBKq5RG6sObTg"
     },
     {
       "added_at": "2026-02-04 07:53:42",

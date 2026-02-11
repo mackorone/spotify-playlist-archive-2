@@ -4,12 +4,13 @@
 
 > 하나 뿐인 내 사랑을 정하는 날\. 따뜻하고 낭만적인 국내 가요와 마음 가득 행복함을 느껴보세요\. \(The day I decide on my one and only love\. Feel the happiness in your heart with warm and romantic domestic songs.\)
 
-96 songs - 6 hr 20 min
+99 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 | 2024-12-19 |  |
 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 | 2024-12-19 | 2025-04-30 |
+| [A Love Just For You](https://open.spotify.com/track/7jQp6vs7mSfvIsRvynDh9Q) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [A Love Just For You](https://open.spotify.com/album/1SImD1w5edFzQMbxjq147b) | 3:56 | 2026-02-10 |  |
 | [All about you](https://open.spotify.com/track/7fftC401ke4BzA3ucPIXES) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel Del Luna OST Part.3](https://open.spotify.com/album/5WAsRdVn8bIzklCuZUqeUR) | 3:29 | 2024-12-19 | 2025-06-24 |
 | [All For You](https://open.spotify.com/track/0HNIIJzAVqPXmUOZFx03Av) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Reply 1997 \- Love Story \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2CuDNaqMUHtQrt3B0hqfVb) | 4:08 | 2024-12-19 |  |
 | [Aloha](https://open.spotify.com/track/1hOEq5q9L41E2YbLhVvW5x) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/3GHYyymoaYQFxj7GWv1Ccs) | 4:04 | 2024-12-19 |  |
@@ -77,6 +78,7 @@
 | [Stay With Me \(Feat\. As One\)](https://open.spotify.com/track/2BU4hyW2QRikHfa7on9jMp) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [Moon Se Yoon](https://open.spotify.com/artist/0xD8ZN47ERtuZEbmCkwZ05), [As One](https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT) | [Stay With Me](https://open.spotify.com/album/2wJ2i4UQ1Hjp1gqrTtMXgD) | 3:40 | 2025-07-22 |  |
 | [The Eternal Moment](https://open.spotify.com/track/7os5JrOif9RLhqZLUW828v) | [KyungHa](https://open.spotify.com/artist/4ialM3GP21JCOjJ3bftNi8) | [The Eternal Moment](https://open.spotify.com/album/5LEhAYdGG8zjXQaoKGOD30) | 4:00 | 2025-07-29 |  |
 | [The Eternal Moment \- Acoustic Version](https://open.spotify.com/track/4MrYJK1f4beoDBAH3K3k9o) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Moment Becomes Forever](https://open.spotify.com/album/2Ujvr8rac4c8LPGMsqn0tI) | 4:03 | 2025-06-17 |  |
+| [The Miracle of Us \(Feat\. Jeon Sang Keun\)](https://open.spotify.com/track/1yDW6SxPAcvdtEO1GVgM6g) | [Song I Han](https://open.spotify.com/artist/4whjJjlywO81WrDptpdttm), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Asterism](https://open.spotify.com/album/3yVBWbnnr7EnjaJiPWdbAK) | 4:23 | 2026-02-10 |  |
 | [The Night I Miss You](https://open.spotify.com/track/09RSdKL22sHGrcidpL3g3d) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [The Night I Miss You](https://open.spotify.com/album/4EJBHjmepe24xKtaDKPNCi) | 4:58 | 2024-12-19 | 2025-06-24 |
 | [To You My Light \(feat\. LEE RAON\)](https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Red Moon: To You My Light](https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO) | 4:25 | 2024-12-19 |  |
 | [Together](https://open.spotify.com/track/3TDGIHf1Mdxat9VftcIVZ0) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Together](https://open.spotify.com/album/4OHIhLk0uyYAdmoBD8IjMI) | 3:26 | 2024-12-19 |  |
@@ -85,6 +87,7 @@
 | [Trust in me](https://open.spotify.com/track/4zCcKPm03kHARVAiyzlDX8) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Mr\. Trot WINNER SONG](https://open.spotify.com/album/2FulfDIqpydc4Q4vNlkk5g) | 4:02 | 2025-09-03 |  |
 | [Wedding day](https://open.spotify.com/track/3jdOfGISSsleBymbijTW8n) | [Lee Jun Ho](https://open.spotify.com/artist/6MHVkCZuNc7JpMExfxOE8Z) | [Destiny](https://open.spotify.com/album/2Dh0t1z6hTA5Ym96GxfQWt) | 4:01 | 2024-12-19 |  |
 | [Wedding Song \(feat\. WONPIL\(DAY6\)\)](https://open.spotify.com/track/3V04nXHMTLytI0hV1Rjwps) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Wedding\_Song](https://open.spotify.com/album/5911ACOYBruDs2gOVp0Tvi) | 3:52 | 2024-12-19 |  |
+| [What Love Is](https://open.spotify.com/track/18iOwgbRDm7FX3BIyOmfZE) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [What Love Is \(Positively Yours X Huh Gak\) \[Original Soundtrack\]](https://open.spotify.com/album/0vNd9d5KtDFOOQN0nGJB4F) | 3:04 | 2026-02-10 |  |
 | [Will You Marry Me](https://open.spotify.com/track/20XkFteMFP8g32KhsZpug7) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [My First](https://open.spotify.com/album/7toPg2DmQRsGqPTlzdt99A) | 3:48 | 2024-12-19 |  |
 | [Will you marry me?](https://open.spotify.com/track/2ZgMY8ifuvksRSE7mkK2WV) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Lee Seung Gi \`The Best\`](https://open.spotify.com/album/5vkF1JlshXF1ofmvQONqIN) | 3:48 | 2024-12-19 |  |
 | [With you](https://open.spotify.com/track/7FrabSVdfcPggA25gq3LJU) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [With you](https://open.spotify.com/album/7Hhn7y6LSD30X5Y0jYPWWi) | 3:43 | 2025-04-22 |  |

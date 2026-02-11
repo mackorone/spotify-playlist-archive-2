@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 698153,
+  "num_followers": 698248,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAADGEqPeGadARnIrwTzm4fdl",
+  "snapshot_id": "aYkjgAAAAAA/lXhphfNWS76J+MJFNNoF",
   "tracks": [
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
-        "url": "https://open.spotify.com/album/37EsuQ9TUWNuxc0lLGh5dM"
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 171115,
-      "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
-      "url": "https://open.spotify.com/track/3QsCqPFpctYwsNTAMp15P5"
+      "duration_ms": 238560,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
       "duration_ms": 257466,
       "name": "True Blue",
       "url": "https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
       "duration_ms": 304933,
       "name": "Secret",
       "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
+        "url": "https://open.spotify.com/album/37EsuQ9TUWNuxc0lLGh5dM"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 171115,
+      "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
+      "url": "https://open.spotify.com/track/3QsCqPFpctYwsNTAMp15P5"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 315466,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Breathless",
         "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 315466,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Something to Remember",
         "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 263813,
       "name": "I'll Remember (Theme from the Motion Picture With Honors)",
       "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 273533,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
     },
     {
       "added_at": null,
@@ -663,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
+        "name": "Erotica (PA Version)",
+        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
       },
       "artists": [
         {
@@ -672,25 +688,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 273533,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Breathless",
-        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 94986,
-      "name": "Now I'm Following You (Part I)",
-      "url": "https://open.spotify.com/track/0mPPeHgx3Kxj85Olq1hNU7"
+      "duration_ms": 291360,
+      "name": "Thief of Hearts",
+      "url": "https://open.spotify.com/track/0g8pRR7OcNonUgQnbpUs5B"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
       "duration_ms": 310266,
       "name": "This Used to Be My Playground",
       "url": "https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 253453,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/6poribUG9PSY1eudyCjJTS"
     },
     {
       "added_at": null,
@@ -739,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
       "artists": [
         {
@@ -748,9 +764,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 253453,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/6poribUG9PSY1eudyCjJTS"
+      "duration_ms": 236133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0"
     },
     {
       "added_at": null,
@@ -771,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Breathless",
+        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 94986,
+      "name": "Now I'm Following You (Part I)",
+      "url": "https://open.spotify.com/track/0mPPeHgx3Kxj85Olq1hNU7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -783,22 +815,6 @@
       "duration_ms": 239093,
       "name": "Express Yourself",
       "url": "https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0"
     },
     {
       "added_at": null,
@@ -819,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
       },
       "artists": [
         {
@@ -828,25 +844,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 262320,
-      "name": "Forbidden Love",
-      "url": "https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW"
+      "duration_ms": 278135,
+      "name": "You'll See",
+      "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
     },
     {
       "added_at": null,

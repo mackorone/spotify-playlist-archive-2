@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Ecca Vandal
 
-1,802 songs - 4 day 8 hr 16 min
+1,803 songs - 4 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Broken Headphones](https://open.spotify.com/track/5eLvCWoVsiRkLGen6HMC4A) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Broken Headphones](https://open.spotify.com/album/6Z0NqW8Ww6x6nEeCCHqpd0) | 3:17 | 2024-12-19 | 2025-01-24 |
 | [Broken Man](https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Broken Man](https://open.spotify.com/album/1iuhWWfLoy82yR2AgJyQry) | 3:21 | 2024-02-29 | 2024-05-18 |
 | [Brown Paper Bag](https://open.spotify.com/track/1305CPBxxAlpxmTciVehNu) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Brown Paper Bag](https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY) | 4:25 | 2024-02-15 | 2024-02-23 |
-| [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 | 2025-11-14 |  |
+| [Bruised Sky](https://open.spotify.com/track/3Xf7Njd3lTqZbNkeLPGoFH) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Bruised Sky](https://open.spotify.com/album/7qSK2ETB3f6sPy39dNbUr4) | 3:40 | 2025-11-14 | 2026-02-11 |
 | [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 | 2023-07-20 | 2023-07-28 |
 | [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 | 2023-09-21 | 2024-05-03 |
 | [Bubblegum Dog](https://open.spotify.com/track/5MHNVfob6U5PBe8y15A4MG) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bubblegum Dog](https://open.spotify.com/album/6CWVALzNFLjaPvr8HW5S9Z) | 4:21 | 2023-11-30 | 2023-12-08 |
@@ -480,7 +480,7 @@
 | [Drift](https://open.spotify.com/track/2DrqXZDc4SUKXp0nkRn9ze) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Drift](https://open.spotify.com/album/4UbbEC1bDQEBol2DLR2eGi) | 4:24 | 2023-04-06 | 2023-04-14 |
 | [Drifting](https://open.spotify.com/track/6dZ0nsuT3rtAnhl9b93IEY) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Drifting](https://open.spotify.com/album/3lt2n3wIE0XIRT2XXgo9nn) | 3:07 | 2024-02-08 | 2024-02-16 |
 | [Drive \(From F1® The Movie\)](https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Drive \(From F1® The Movie\)](https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc) | 3:07 | 2025-06-19 |  |
-| [Drive Myself Home](https://open.spotify.com/track/5qy96tWV5WWgJLiXuinD7e) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Drive Myself Home](https://open.spotify.com/album/4EHBw2Nv87XerwlcvJxiXx) | 3:39 | 2025-11-06 |  |
+| [Drive Myself Home](https://open.spotify.com/track/5qy96tWV5WWgJLiXuinD7e) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Drive Myself Home](https://open.spotify.com/album/4EHBw2Nv87XerwlcvJxiXx) | 3:39 | 2025-11-06 | 2026-02-11 |
 | [Drivin'](https://open.spotify.com/track/2xLCfxnW0HxrNpkFNtin7d) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Drivin'](https://open.spotify.com/album/67ZGAMyret2ZCdHzq0axeX) | 3:17 | 2024-07-18 | 2024-07-27 |
 | [Drones](https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Drones](https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb) | 2:30 | 2023-03-23 | 2023-04-29 |
 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 | 2023-04-13 | 2023-12-30 |
@@ -1229,7 +1229,7 @@
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-10-19 | 2023-11-03 |
 | [Prison of Flesh](https://open.spotify.com/track/3cg3s4m9gQkV1Aqp0yBP56) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Prison of Flesh](https://open.spotify.com/album/2nyNqY9t8kn8m1nwLSxEtC) | 7:00 | 2025-08-21 | 2025-09-29 |
 | [Private](https://open.spotify.com/track/1735xgk2J8CHCGY2LS1HM6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Private](https://open.spotify.com/album/3ZHB2EDswWPDigqKXI59CL) | 3:49 | 2025-10-23 |  |
-| [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 | 2025-11-27 | 2026-01-31 |
+| [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 | 2025-11-27 |  |
 | [Prizefighter](https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Prizefighter](https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq) | 3:20 | 2025-04-03 | 2025-05-30 |
 | [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 | 2023-05-25 | 2023-06-02 |
 | [Prove It To You](https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Prove It To You](https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J) | 3:20 | 2024-01-25 | 2024-02-02 |
@@ -1764,6 +1764,7 @@
 | [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 | 2023-05-18 | 2023-05-26 |
 | [You Don't Like Real Girls](https://open.spotify.com/track/4DyIiCu13N2psksuq1xeMU) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [ROLL MOTTLE](https://open.spotify.com/album/3PJCRV6Ht0IF3Esc6yvQxd) | 3:23 | 2023-12-21 | 2024-01-05 |
 | [You First \(Re: Remi Wolf\)](https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Re: This Is Why](https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j) | 3:54 | 2023-10-05 | 2023-12-30 |
+| [You Got to Lose](https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [You Got to Lose](https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1) | 3:17 | 2026-02-05 |  |
 | [You Hear Yes](https://open.spotify.com/track/72KK2zfWDMXDwHk2WEUUCv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [You Hear Yes](https://open.spotify.com/album/3ZuW9XxhtJDniEiR9nLKYI) | 2:43 | 2024-08-09 | 2024-09-27 |
 | [You Keep Me Up At Night](https://open.spotify.com/track/0POOOfkVbM8suYFRWUkDQQ) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ), [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Rocky](https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f) | [You Keep Me Up At Night](https://open.spotify.com/album/3Tt8qHRIi8pRlMLISmVQE3) | 2:18 | 2024-09-19 | 2024-11-29 |
 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 | 2024-01-25 | 2024-02-02 |

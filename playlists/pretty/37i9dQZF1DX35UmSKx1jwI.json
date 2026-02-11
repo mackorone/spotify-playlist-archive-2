@@ -1,6 +1,6 @@
 {
   "description": "Feel good, high energy beats to keep you motivated for that every day workout!",
-  "num_followers": 142873,
+  "num_followers": 142881,
   "original_name": "Gym Beats",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2024-07-24 13:57:08",
       "album": {
+        "name": "Twist in My Sobriety",
+        "url": "https://open.spotify.com/album/1FhwuPzJ4JtlCRHqDlMmls"
+      },
+      "artists": [
+        {
+          "name": "Sono",
+          "url": "https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC"
+        },
+        {
+          "name": "Sans Souci",
+          "url": "https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ"
+        }
+      ],
+      "duration_ms": 192396,
+      "name": "Twist in My Sobriety - Sans Souci Remix Edit",
+      "url": "https://open.spotify.com/track/3Y8JxJlJZ6GTjGcT7qac9b"
+    },
+    {
+      "added_at": "2024-07-24 13:57:08",
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/3zr4GVQ0J0N7Ko9q6M4PKP"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 260156,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0Kq38drV2CpPeaxkFqjJvg"
-    },
-    {
-      "added_at": "2024-07-24 13:57:08",
-      "album": {
-        "name": "Twist in My Sobriety",
-        "url": "https://open.spotify.com/album/1FhwuPzJ4JtlCRHqDlMmls"
-      },
-      "artists": [
-        {
-          "name": "Sono",
-          "url": "https://open.spotify.com/artist/7vBGVjjUKLWS8zLNSYwVVC"
-        },
-        {
-          "name": "Sans Souci",
-          "url": "https://open.spotify.com/artist/659AKqao14TDh7PNu5qDIZ"
-        }
-      ],
-      "duration_ms": 192396,
-      "name": "Twist in My Sobriety - Sans Souci Remix Edit",
-      "url": "https://open.spotify.com/track/3Y8JxJlJZ6GTjGcT7qac9b"
     },
     {
       "added_at": "2024-07-24 13:57:08",

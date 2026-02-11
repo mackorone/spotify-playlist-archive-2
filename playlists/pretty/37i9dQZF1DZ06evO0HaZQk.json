@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 523166,
+  "num_followers": 523208,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAAFpQqcc57BJAgaDF2M2CUq",
+  "snapshot_id": "aYkjgAAAAAA1ml+iMARW9EJzckaDUK1j",
   "tracks": [
     {
       "added_at": null,
@@ -407,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Golpes en el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 211268,
+      "name": "Golpes en el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 257493,
       "name": "Gulliver (with Natalia Lafourcade, \u00c1lex Gonz\u00e1lez y Sergio Vall\u00edn) - MTV Unplugged",
       "url": "https://open.spotify.com/track/3O38qNyWTWL4QOdFNJqMS2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golpes en el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 211268,
-      "name": "Golpes en el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
     },
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DESCARTABLE",
-        "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 211119,
-      "name": "LA NIEBLA",
-      "url": "https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 236000,
       "name": "Piensa en M\u00ed (with Vicentico)",
       "url": "https://open.spotify.com/track/18FDZomlMoJ1pcY1v44Tjn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "LA NIEBLA",
+      "url": "https://open.spotify.com/track/6P70hz3JRyFLp0tL4HWrZD"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
-        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 259586,
-      "name": "Alma M\u00eda (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ciudadana del Mundo Volumen 1",
         "url": "https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR"
       },
@@ -607,18 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que la Vida Vale",
-        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
       "artists": [
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
         }
       ],
-      "duration_ms": 190820,
-      "name": "Que la Vida Vale",
-      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
+      "duration_ms": 259586,
+      "name": "Alma M\u00eda (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que la Vida Vale",
+        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Que la Vida Vale",
+      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -659,6 +659,42 @@
       "duration_ms": 232333,
       "name": "Antes de Huir",
       "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mientras T\u00fa Dorm\u00edas",
+        "url": "https://open.spotify.com/album/6RGg8cAP8BYFHA8rvw5eXF"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Pajarito del Amor",
+      "url": "https://open.spotify.com/track/6blu785mOCiouD28NuComZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 237346,
+      "name": "Caminar bonito",
+      "url": "https://open.spotify.com/track/6YnvENj0TdekZctNH1LiFQ"
     },
     {
       "added_at": null,
@@ -683,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 237346,
-      "name": "Caminar bonito",
-      "url": "https://open.spotify.com/track/6YnvENj0TdekZctNH1LiFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pel\u00edcula Muda, Pt. 1",
         "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 264880,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mientras T\u00fa Dorm\u00edas",
-        "url": "https://open.spotify.com/album/6RGg8cAP8BYFHA8rvw5eXF"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Pajarito del Amor",
-      "url": "https://open.spotify.com/track/6blu785mOCiouD28NuComZ"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En el 2000",
+        "url": "https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "Amarte Duele",
+      "url": "https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tierra Querida",
         "url": "https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En el 2000",
-        "url": "https://open.spotify.com/album/5C2bUVAqDyZOm63TxgGsJU"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "Amarte Duele",
-      "url": "https://open.spotify.com/track/6MjhVHsInlmsPlEJ3KmfP6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -856,29 +856,9 @@
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 322013,
-      "name": "De todas las flores",
-      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
-        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
+      "duration_ms": 233800,
+      "name": "Mi manera de querer",
+      "url": "https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73"
     },
     {
       "added_at": null,
@@ -899,6 +879,26 @@
       "duration_ms": 179000,
       "name": "Una Ma\u00f1ana (with Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/2ooHEUx2reFH7jzhgpGQ77"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Son Amores (That's Amore) (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/10HQmG706HZtAhXRypWw01"
     },
     {
       "added_at": null,
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 233800,
-      "name": "Mi manera de querer",
-      "url": "https://open.spotify.com/track/2rT9arG3oKOPquWNik5l73"
+      "duration_ms": 322013,
+      "name": "De todas las flores",
+      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
     },
     {
       "added_at": null,

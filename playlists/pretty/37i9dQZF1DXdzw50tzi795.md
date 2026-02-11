@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> พลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: LITTLE JOHN
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: LITTLE JOHN
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,674 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,683 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 49 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 |
 | 50 | [BU](https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq) | [SURIYA MQT](https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY) | [BU](https://open.spotify.com/album/6KVDybfylX2lE1NUrpC70s) | 2:46 |
 
-Snapshot ID: `AAAAACz3HYZ672brza9KmOIBVafbdX0T`
+Snapshot ID: `AAAAAEluokuye0ONt8+LscIJpE9egezX`

@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1117283,
+  "num_followers": 1117454,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAAkUe3zFN/9OLu2Xod1ri3b",
+  "snapshot_id": "aYkjgAAAAAAyLBfVL+gMZwxO4UFj+oC0",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Morrita",
-        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+        "name": "Love To Be Loved",
+        "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
       },
       "artists": [
         {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         },
         {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 154951,
-      "name": "La Morrita",
-      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
+      "duration_ms": 170000,
+      "name": "Love To Be Loved",
+      "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
     },
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Morrita",
+        "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154951,
+      "name": "La Morrita",
+      "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Guaro (Remix)",
         "url": "https://open.spotify.com/album/1YiKQVj2jiaNCmuOjGASsq"
       },
@@ -643,62 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 239310,
-      "name": "Dame un Beso y Dime Adios (En Vivo)",
-      "url": "https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNA HISTORIA IMPORTANTE",
-        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 261475,
-      "name": "Otra como t\u00fa (feat. Car\u00edn Le\u00f3n)",
-      "url": "https://open.spotify.com/track/24KctiI2TNMOonbsSEQ6vQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "\u20601",
-      "url": "https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Otra Vida - Con Carin Leon",
         "url": "https://open.spotify.com/album/1UQhyBePO9aKNZW1sxDTlQ"
       },
@@ -719,6 +683,62 @@
       "duration_ms": 150974,
       "name": "En Otra Vida - Con Carin Leon",
       "url": "https://open.spotify.com/track/7GDeMqjePrVZ9O6d3HqKZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios (En Vivo)",
+      "url": "https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "\u20601",
+      "url": "https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNA HISTORIA IMPORTANTE",
+        "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 261475,
+      "name": "Otra como t\u00fa (feat. Car\u00edn Le\u00f3n)",
+      "url": "https://open.spotify.com/track/24KctiI2TNMOonbsSEQ6vQ"
     },
     {
       "added_at": null,
@@ -779,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 153785,
-      "name": "Indispensable",
-      "url": "https://open.spotify.com/track/7aGd2n90JJZ5QliVEDcuPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "As\u00ed de Enamorados",
         "url": "https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK"
       },
@@ -815,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pero Yo S\u00ed",
-        "url": "https://open.spotify.com/album/30FKp0VBdedabCWpWyqDf0"
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
       },
       "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
         {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 157745,
-      "name": "Pero Yo S\u00ed",
-      "url": "https://open.spotify.com/track/5MorjNKOpmx7FOmcov1tXB"
+      "duration_ms": 153785,
+      "name": "Indispensable",
+      "url": "https://open.spotify.com/track/7aGd2n90JJZ5QliVEDcuPz"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
       "duration_ms": 154525,
       "name": "Decret\u00e9",
       "url": "https://open.spotify.com/track/0JhtY0uWW7GINu2aMAtgFx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pero Yo S\u00ed",
+        "url": "https://open.spotify.com/album/30FKp0VBdedabCWpWyqDf0"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 157745,
+      "name": "Pero Yo S\u00ed",
+      "url": "https://open.spotify.com/track/5MorjNKOpmx7FOmcov1tXB"
     },
     {
       "added_at": null,
@@ -883,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 180542,
-      "name": "Te V\u00ed Con El",
-      "url": "https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encerrados Pero Enfiestados, Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1BfgliISvoltJW8kQdJel1"
       },
@@ -915,22 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfY ahora qu\u00e9 +?",
-        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
       },
       "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
         {
           "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 172853,
-      "name": "Mil motivos",
-      "url": "https://open.spotify.com/track/1vRGlAO0DaYZxDOaPsJzy9"
+      "duration_ms": 180542,
+      "name": "Te V\u00ed Con El",
+      "url": "https://open.spotify.com/track/3osBlMQdoOr4Mw7DU0q2v3"
     },
     {
       "added_at": null,
@@ -951,22 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Borrachera Con Los Honorables (En Vivo)",
-        "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
+        "name": "\u00bfY ahora qu\u00e9 +?",
+        "url": "https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         },
         {
-          "name": "Los Honorables",
-          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 188429,
-      "name": "La Boda del Huitlacoche - En Vivo",
-      "url": "https://open.spotify.com/track/7ewyZwEMNtt0lqtucOD4vs"
+      "duration_ms": 172853,
+      "name": "Mil motivos",
+      "url": "https://open.spotify.com/track/1vRGlAO0DaYZxDOaPsJzy9"
     }
   ],
   "unique_name": "This Is Car\u00edn Le\u00f3n",

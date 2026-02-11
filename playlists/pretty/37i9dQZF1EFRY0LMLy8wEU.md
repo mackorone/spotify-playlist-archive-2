@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75 likes - 40 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76 likes - 40 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRY0LMLy8wEU.md) - [plain]
 | 39 | [Empty Words](https://open.spotify.com/track/4UC5KqAFxGKLZWLI6YiCWm) | [Worship Center Music](https://open.spotify.com/artist/46df2ZIGYEvAR9fMn8lXWT) | [First Love \(Returning\. Communion\. Joy.\)](https://open.spotify.com/album/2vysXZJjiZZa4RXt12OhvU) | 6:08 |
 | 40 | [Jesus the Beloved](https://open.spotify.com/track/6F3qYlwI29KXV8ONsVfWpK) | [TON Piano](https://open.spotify.com/artist/6UZdfxjhzXPhX6V6RSIMsX) | [Jesus the Beloved](https://open.spotify.com/album/1qrjT2tDne3bCcKa1Idj50) | 5:50 |
 
-Snapshot ID: `AcJPkgAAAAA/ObycIwejwg5cDmFwLDgB`
+Snapshot ID: `AcJU9gAAAADxtkF5HB70vybtRFIe44pR`

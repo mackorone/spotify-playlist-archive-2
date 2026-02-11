@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211369,
+  "num_followers": 211368,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAADZerbTXrt2RwtWpnDtJuv9",
+  "snapshot_id": "aYkjgAAAAAAQ43mc/MIjI31TjN69TbUU",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Z",
-        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 216234,
-      "name": "Childs Play (feat. Chance the Rapper)",
-      "url": "https://open.spotify.com/track/7GPstnufSTScEaw9dMxO9H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 232064,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 216234,
+      "name": "Childs Play (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/7GPstnufSTScEaw9dMxO9H"
     },
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy (Acoustic)",
-        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 205815,
-      "name": "Holy - Acoustic",
-      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
         "url": "https://open.spotify.com/album/25KYUrojMfQ12t7IRan2Vx"
       },
@@ -391,22 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lost Boy",
-        "url": "https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu"
+        "name": "Holy (Acoustic)",
+        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
       },
       "artists": [
         {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 234614,
-      "name": "Bad Idea (feat. Chance the Rapper)",
-      "url": "https://open.spotify.com/track/5yK37zazHUe3WxEvymZs20"
+      "duration_ms": 205815,
+      "name": "Holy - Acoustic",
+      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
     },
     {
       "added_at": null,
@@ -443,6 +423,26 @@
       "duration_ms": 215062,
       "name": "Juice",
       "url": "https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lost Boy",
+        "url": "https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 234614,
+      "name": "Bad Idea (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/5yK37zazHUe3WxEvymZs20"
     },
     {
       "added_at": null,
@@ -576,13 +576,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 293050,
-      "name": "No More Old Men (feat. Jamila Woods)",
-      "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
+      "duration_ms": 255609,
+      "name": "The Highs & The Lows (feat. Joey BadA$$)",
+      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
     },
     {
       "added_at": null,
@@ -656,29 +656,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Do Or Die",
+          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
         }
       ],
-      "duration_ms": 255609,
-      "name": "The Highs & The Lows (feat. Joey BadA$$)",
-      "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stars Out",
-        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 107462,
-      "name": "Stars Out",
-      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
+      "duration_ms": 179368,
+      "name": "Ride (feat. Do or Die)",
+      "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 225923,
       "name": "Hot Shower",
       "url": "https://open.spotify.com/track/6TagqfYkLRIo8SPNdyaJ4f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stars Out",
+        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 107462,
+      "name": "Stars Out",
+      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
     },
     {
       "added_at": null,
@@ -736,13 +736,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Do Or Die",
-          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 179368,
-      "name": "Ride (feat. Do or Die)",
-      "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
+      "duration_ms": 293050,
+      "name": "No More Old Men (feat. Jamila Woods)",
+      "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
     },
     {
       "added_at": null,
@@ -867,22 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Love Letter To You 4 (Deluxe)",
-        "url": "https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9"
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 229244,
-      "name": "I Love You (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K"
+      "duration_ms": 284855,
+      "name": "Best Life (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Love Letter To You 4 (Deluxe)",
+        "url": "https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 229244,
+      "name": "I Love You (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
@@ -943,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 284855,
-      "name": "Best Life (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "iiiDrops",
         "url": "https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd"
       },
@@ -979,62 +979,6 @@
       "duration_ms": 212950,
       "name": "Girls @ (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/5p7sELomeqtq9ypH3VeVH1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Big Day",
-        "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 236685,
-      "name": "Do You Remember",
-      "url": "https://open.spotify.com/track/1PAD54xGsSjUQhbjP12Fg8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Boys 2",
-        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Joey Purp",
-          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
-        }
-      ],
-      "duration_ms": 133670,
-      "name": "Bad Boys 2",
-      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Might Need Security",
-        "url": "https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "I Might Need Security",
-      "url": "https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh"
     },
     {
       "added_at": null,
@@ -1063,6 +1007,62 @@
       "duration_ms": 232000,
       "name": "Need To Know (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Big Day",
+        "url": "https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 236685,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/1PAD54xGsSjUQhbjP12Fg8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Might Need Security",
+        "url": "https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "I Might Need Security",
+      "url": "https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boys 2",
+        "url": "https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        }
+      ],
+      "duration_ms": 133670,
+      "name": "Bad Boys 2",
+      "url": "https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA"
     },
     {
       "added_at": null,

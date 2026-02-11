@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,362 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,473 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,19 +79,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 69 | [IN THE LIGHT](https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [STEPPIN in the LIGHT](https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I) | 2:46 |
 | 70 | [True Religion](https://open.spotify.com/track/3IlnvgJOZFgiXv5nVu90E9) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [True Religion](https://open.spotify.com/album/6b8ssROuXDens0JWqg1Khk) | 4:02 |
 | 71 | [grand prix!](https://open.spotify.com/track/7l1fLGghECBsuAToYuwdKJ) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [grand prix!](https://open.spotify.com/album/5520zwKEHMsKQE08B2Vhhe) | 1:47 |
-| 72 | [Everything\_](https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq) | [Jon](https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q) | [Everything\_](https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1) | 3:51 |
-| 73 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 |
+| 72 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 |
+| 73 | [Everything\_](https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq) | [Jon](https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q) | [Everything\_](https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1) | 3:51 |
 | 74 | [Circles](https://open.spotify.com/track/0XZZ9dXJ48ddQfWBaMuool) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Circles](https://open.spotify.com/album/0MTTQdryI7nUrBJUklNq2D) | 2:00 |
 | 75 | [Move](https://open.spotify.com/track/2zFuw2F2ryWdseOeVILZlN) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Summer '24](https://open.spotify.com/album/71BjrIMnTqRayN5pm5b3mt) | 2:18 |
-| 76 | [The Heat](https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [The Heat](https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt) | 3:33 |
-| 77 | [Drive](https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Drive](https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ) | 3:13 |
+| 76 | [Drive](https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Drive](https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ) | 3:13 |
+| 77 | [The Heat](https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [The Heat](https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt) | 3:33 |
 | 78 | [I'd Be Lying](https://open.spotify.com/track/5gSSBeFZLEnvoXMYVIiCzK) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I'd Be Lying](https://open.spotify.com/album/1Nx3COSHouV525o3E16uTZ) | 2:34 |
 | 79 | [give & take](https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [give & take](https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC) | 3:26 |
 | 80 | [Learning To Let Go](https://open.spotify.com/track/3B8JMdJvuyPLokXb0eN8Wm) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Real Me](https://open.spotify.com/album/78GU0GtHUsMuU140MvN1wu) | 2:52 |
 | 81 | [SPIN BACK!](https://open.spotify.com/track/6io60qSWxYi4ZSWrF2lWYF) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [SPIN BACK!](https://open.spotify.com/album/4Zykomn4WwkD6yHyXC8Kcq) | 2:02 |
-| 82 | [Again And Again](https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Again And Again](https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn) | 3:09 |
-| 83 | [Still Small Voice](https://open.spotify.com/track/0N0bFgkkvD6sIX8PfJ1Ywi) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Still Small Voice](https://open.spotify.com/album/499GkCyuTPX1U2BXhSDBon) | 3:25 |
-| 84 | [Reckless Love](https://open.spotify.com/track/3bZBLuUUlBGOz3icz5zrRX) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Reckless Love](https://open.spotify.com/album/3l908EdsULb5j9vmSsNnvt) | 5:22 |
+| 82 | [Still Small Voice](https://open.spotify.com/track/0N0bFgkkvD6sIX8PfJ1Ywi) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Still Small Voice](https://open.spotify.com/album/499GkCyuTPX1U2BXhSDBon) | 3:25 |
+| 83 | [Reckless Love](https://open.spotify.com/track/3bZBLuUUlBGOz3icz5zrRX) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Reckless Love](https://open.spotify.com/album/3l908EdsULb5j9vmSsNnvt) | 5:22 |
+| 84 | [Again And Again](https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Again And Again](https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn) | 3:09 |
 | 85 | [Blinded](https://open.spotify.com/track/1wsxYJWrgYuVzieibPpyIP) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Blinded](https://open.spotify.com/album/4HIa4aAv2MMUq8eTlJUVCc) | 3:27 |
 | 86 | [Hindsight](https://open.spotify.com/track/0LMIo8xOv1832PxeSo46I8) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl) | [Hindsight](https://open.spotify.com/album/73rpx3OLPGonVhzo6KRa1q) | 3:18 |
 | 87 | [Crying Out Loud](https://open.spotify.com/track/2q7BXGqVOraGocLXEWk9Dn) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Crying Out Loud](https://open.spotify.com/album/4iMTjPySOIJY9dJk4wFGyB) | 3:20 |

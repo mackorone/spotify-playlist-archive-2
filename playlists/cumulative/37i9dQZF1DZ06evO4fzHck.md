@@ -4,7 +4,7 @@
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-103 songs - 8 hr 1 min
+104 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Cut \- 1990 Demo](https://open.spotify.com/track/6FMzcxqfyw7LKhgUPd3JWf) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/09bh5Tceq2zX28dCcgzEnF) | 3:33 | 2022-11-04 | 2022-11-17 |
 | [Cut Here](https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap) | 4:10 | 2022-11-04 |  |
 | [Disintegration \- Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 8:19 | 2022-11-04 |  |
+| [Do The Hansa \- 86 Mix / 2026 Remaster](https://open.spotify.com/track/3jTgYv61FVyyR6gGOmJxFK) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Boys Don’t Cry \(86 Mix\)](https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8) | 2:39 | 2026-02-11 |  |
 | [Doing The Unstuck](https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:21 | 2024-04-15 | 2024-11-19 |
 | [Drone:Nodrone](https://open.spotify.com/track/2rFip3zL6mqFv3XcALMqhd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 4:45 | 2024-11-03 | 2025-08-15 |
 | [Drone:Nodrone \- Daniel Avery Remix](https://open.spotify.com/track/53VwOqwtHFyfdVVnV4qxi5) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone:Nodrone \(Daniel Avery Remix\)](https://open.spotify.com/album/5v2r3zCZWFQSP9w6IHwcMc) | 5:20 | 2025-06-01 | 2025-08-03 |
@@ -78,7 +79,7 @@
 | [Open](https://open.spotify.com/track/21BxZ4jL908jasBK4t1HqU) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 6:50 | 2022-11-04 | 2024-01-08 |
 | [Perfect Girl](https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 2:33 | 2023-05-13 | 2024-11-03 |
 | [Pictures Of You \- Remastered](https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 7:28 | 2022-11-04 |  |
-| [Pillbox Tales \- 86 Mix / 2026 Remaster](https://open.spotify.com/track/5qwDt1wH76eat0yhPdvdLc) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Boys Don’t Cry \(86 Mix\)](https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8) | 2:57 | 2026-02-06 |  |
+| [Pillbox Tales \- 86 Mix / 2026 Remaster](https://open.spotify.com/track/5qwDt1wH76eat0yhPdvdLc) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Boys Don’t Cry \(86 Mix\)](https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8) | 2:57 | 2026-02-06 | 2026-02-11 |
 | [Plainsong \- 2010 Remaster](https://open.spotify.com/track/76rfUs6iZBa3OCf8tCBn27) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 5:17 | 2023-06-07 | 2023-07-12 |
 | [Plainsong \- Remastered](https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:17 | 2022-11-04 |  |
 | [Plastic Passion \- 79 Mix / 2026 Remaster](https://open.spotify.com/track/3mY0emITFckDU59zoXOZx2) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Boys Don’t Cry \(86 Mix\)](https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8) | 2:14 | 2026-02-04 |  |

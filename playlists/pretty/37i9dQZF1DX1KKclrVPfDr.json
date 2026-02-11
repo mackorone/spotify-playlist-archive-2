@@ -1,6 +1,6 @@
 {
   "description": "\u092d\u094b\u091c\u092a\u0941\u0930\u0940 \u0917\u093e\u0901\u0935 \u0926\u0947\u0936 \u0915\u0947 \u092e\u093e\u091f\u0940 \u0915\u0947 \u0928\u092f\u093e \u0938\u0902\u0917\u0940\u0924\u092e\u092f \u0938\u0941\u0917\u0902\u0927 \u0938\u0941\u0928\u0940\u0902.",
-  "num_followers": 11260,
+  "num_followers": 11272,
   "original_name": "Bhojpuriya Maati",
   "owner": {
     "name": "Spotify",
@@ -63,26 +63,6 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Sone Ke Sinhorwa (From \"Mehaan\")",
-        "url": "https://open.spotify.com/album/451b2pGI9EXSSncT0aYLeu"
-      },
-      "artists": [
-        {
-          "name": "Khushi Kakkar",
-          "url": "https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu"
-        },
-        {
-          "name": "RR Pankaj",
-          "url": "https://open.spotify.com/artist/2lfDVEQdxB082sSkJFqfb7"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Sone Ke Sinhorwa - From \"Mehaan\"",
-      "url": "https://open.spotify.com/track/0NahhEHM4OiXZ3m8a7Vcef"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
         "name": "Samdhi Ji (Wedding Song 2)",
         "url": "https://open.spotify.com/album/6LV5DklKkSNVEPzLa2cZjZ"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 174342,
       "name": "Samdhi Ji (Wedding Song 2)",
       "url": "https://open.spotify.com/track/1LFXcEokQkhnzhl3b00F5S"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
+        "name": "Sone Ke Sinhorwa (From \"Mehaan\")",
+        "url": "https://open.spotify.com/album/451b2pGI9EXSSncT0aYLeu"
+      },
+      "artists": [
+        {
+          "name": "Khushi Kakkar",
+          "url": "https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu"
+        },
+        {
+          "name": "RR Pankaj",
+          "url": "https://open.spotify.com/artist/2lfDVEQdxB082sSkJFqfb7"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Sone Ke Sinhorwa - From \"Mehaan\"",
+      "url": "https://open.spotify.com/track/0NahhEHM4OiXZ3m8a7Vcef"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Tani Tani Sa Baat",
-        "url": "https://open.spotify.com/album/23xQHa7AAa7bn1qIq049EB"
-      },
-      "artists": [
-        {
-          "name": "Kalpana Patowary",
-          "url": "https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Tani Tani Sa Baat",
-      "url": "https://open.spotify.com/track/1bJ6kc3V8OaJtFh1dgcgTa"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
         "name": "Holi Khele Raghuveera",
         "url": "https://open.spotify.com/album/4qtI6ApG6I8gOHHr3FLLOG"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 220170,
       "name": "Holi Khele Raghuveera",
       "url": "https://open.spotify.com/track/6lgbG3DfmZvJ7r1iJYbrN8"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
+        "name": "Tani Tani Sa Baat",
+        "url": "https://open.spotify.com/album/23xQHa7AAa7bn1qIq049EB"
+      },
+      "artists": [
+        {
+          "name": "Kalpana Patowary",
+          "url": "https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Tani Tani Sa Baat",
+      "url": "https://open.spotify.com/track/1bJ6kc3V8OaJtFh1dgcgTa"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -243,26 +243,6 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Nazariya Se Baat",
-        "url": "https://open.spotify.com/album/3Nb1wQ050DiRgB7f1ZvwcV"
-      },
-      "artists": [
-        {
-          "name": "Sakshi Singh",
-          "url": "https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX"
-        },
-        {
-          "name": "Sushant Asthana",
-          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "Nazariya Se Baat",
-      "url": "https://open.spotify.com/track/4c2wzNGvqLq3x6xvgxBX9g"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
         "name": "Kaise Khele Jaibu Sawan Mein Kajariya",
         "url": "https://open.spotify.com/album/3T82H0kkBVtlgkGN81WCeI"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 154285,
       "name": "Kaise Khele Jaibu Sawan Mein Kajariya",
       "url": "https://open.spotify.com/track/1f27pTsO6nwMoI93a7d6mc"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
+        "name": "Nazariya Se Baat",
+        "url": "https://open.spotify.com/album/3Nb1wQ050DiRgB7f1ZvwcV"
+      },
+      "artists": [
+        {
+          "name": "Sakshi Singh",
+          "url": "https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX"
+        },
+        {
+          "name": "Sushant Asthana",
+          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
+        }
+      ],
+      "duration_ms": 166829,
+      "name": "Nazariya Se Baat",
+      "url": "https://open.spotify.com/track/4c2wzNGvqLq3x6xvgxBX9g"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
+        "name": "CHUTKI BHAR SENURA",
+        "url": "https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy"
+      },
+      "artists": [
+        {
+          "name": "Mohini Dwivedi",
+          "url": "https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO"
+        }
+      ],
+      "duration_ms": 290400,
+      "name": "CHUTKI BHAR SENURA",
+      "url": "https://open.spotify.com/track/4LQ8sY86aDpaVOYLhlRNs6"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
         "name": "BIYAH WALI GAARI 4",
         "url": "https://open.spotify.com/album/0T6JdIksx9g5fBmdfs6n0j"
       },
@@ -683,24 +699,8 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "CHUTKI BHAR SENURA",
-        "url": "https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy"
-      },
-      "artists": [
-        {
-          "name": "Mohini Dwivedi",
-          "url": "https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO"
-        }
-      ],
-      "duration_ms": 290400,
-      "name": "CHUTKI BHAR SENURA",
-      "url": "https://open.spotify.com/track/4LQ8sY86aDpaVOYLhlRNs6"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
-        "name": "Doliya Kahar",
-        "url": "https://open.spotify.com/album/2g0vIAmEnvoCAJDuSuJrsi"
+        "name": "Sone Ke Supuliya",
+        "url": "https://open.spotify.com/album/5hE79CfvhWGGWbKd5KImz1"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss"
         }
       ],
-      "duration_ms": 247873,
-      "name": "Doliya Kahar",
-      "url": "https://open.spotify.com/track/1z2zRkwyPCKB0bBAR2dlLw"
+      "duration_ms": 276770,
+      "name": "Sone Ke Supuliya",
+      "url": "https://open.spotify.com/track/22UpBY3kHUUkAFMMA3Olxu"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Pyaar ka Vyapar",
-        "url": "https://open.spotify.com/album/0oC8Z3ACgjvm2ZprSMhsOP"
-      },
-      "artists": [
-        {
-          "name": "Priya Mallick",
-          "url": "https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Pyaar ka Vyapar",
-      "url": "https://open.spotify.com/track/1uZwqNRdcBAviDx2bcJoA2"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
         "name": "Jiya Kare Dhaka Dhak",
         "url": "https://open.spotify.com/album/6T3ImVHWiI0QKUFgWsnSB4"
       },
@@ -791,8 +775,24 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Sone Ke Supuliya",
-        "url": "https://open.spotify.com/album/5hE79CfvhWGGWbKd5KImz1"
+        "name": "Pyaar ka Vyapar",
+        "url": "https://open.spotify.com/album/0oC8Z3ACgjvm2ZprSMhsOP"
+      },
+      "artists": [
+        {
+          "name": "Priya Mallick",
+          "url": "https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Pyaar ka Vyapar",
+      "url": "https://open.spotify.com/track/1uZwqNRdcBAviDx2bcJoA2"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
+        "name": "Doliya Kahar",
+        "url": "https://open.spotify.com/album/2g0vIAmEnvoCAJDuSuJrsi"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss"
         }
       ],
-      "duration_ms": 276770,
-      "name": "Sone Ke Supuliya",
-      "url": "https://open.spotify.com/track/22UpBY3kHUUkAFMMA3Olxu"
+      "duration_ms": 247873,
+      "name": "Doliya Kahar",
+      "url": "https://open.spotify.com/track/1z2zRkwyPCKB0bBAR2dlLw"
     },
     {
       "added_at": "2025-12-16 11:45:02",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-12-16 11:45:02",
       "album": {
-        "name": "Kachauri Gali",
-        "url": "https://open.spotify.com/album/6iLsiXl8RXpspJlikhx6qc"
-      },
-      "artists": [
-        {
-          "name": "Priya Mallick",
-          "url": "https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw"
-        }
-      ],
-      "duration_ms": 225045,
-      "name": "Kachauri Gali",
-      "url": "https://open.spotify.com/track/2m7fE5rq2if3kiTDBb7wzD"
-    },
-    {
-      "added_at": "2025-12-16 11:45:02",
-      "album": {
         "name": "Puri Tarkari",
         "url": "https://open.spotify.com/album/5ulPeFyEUQ8OYHrAwhfOU7"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 174000,
       "name": "Puri Tarkari",
       "url": "https://open.spotify.com/track/5LKETVyIhr0twSuqY2NqtZ"
+    },
+    {
+      "added_at": "2025-12-16 11:45:02",
+      "album": {
+        "name": "Kachauri Gali",
+        "url": "https://open.spotify.com/album/6iLsiXl8RXpspJlikhx6qc"
+      },
+      "artists": [
+        {
+          "name": "Priya Mallick",
+          "url": "https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw"
+        }
+      ],
+      "duration_ms": 225045,
+      "name": "Kachauri Gali",
+      "url": "https://open.spotify.com/track/2m7fE5rq2if3kiTDBb7wzD"
     },
     {
       "added_at": "2025-12-16 11:45:02",

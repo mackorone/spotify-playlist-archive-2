@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Lauri Haav & Alina Burnet..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,143 likes - 93 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,142 likes - 93 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

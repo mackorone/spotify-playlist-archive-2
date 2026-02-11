@@ -4,7 +4,7 @@
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-206 songs - 11 hr 3 min
+207 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Andak \- عنداك](https://open.spotify.com/track/55ImWS9DvTTw0j4enHTbBx) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Andak \(عنداك\)](https://open.spotify.com/album/5G7tHCfT95m6WYXtdpBQHM) | 2:46 | 2023-07-07 | 2024-09-08 |
 | [Annani](https://open.spotify.com/track/0twBNB57gTFcFai9fbclTl) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [Annani](https://open.spotify.com/album/3p49TlN2ALFc9CRiTvU6T0) | 3:53 | 2023-12-08 | 2024-10-16 |
 | [Ayoub Amoury Baba Mimoun](https://open.spotify.com/track/0yWEVGMfGyRB5pMaX58mxA) | [Alejandro](https://open.spotify.com/artist/4VCCzXIV0wB8YFq0X71YW7) | [Ayoub Amoury Baba Mimoun](https://open.spotify.com/album/1E60O2evMgJowlnL1Yvc0i) | 3:50 | 2025-02-16 |  |
+| [B9it Tabe3 Galbi](https://open.spotify.com/track/4Rkt46PBhT2fRQ1KnY2tlH) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [B9it Tabe3 Galbi](https://open.spotify.com/album/57SfJVPDJsDvBBJKSe3EEK) | 3:29 | 2026-02-10 |  |
 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 | 2023-11-17 | 2024-07-24 |
 | [BACHA](https://open.spotify.com/track/52S3EFw5e1CzZUc9nUpoSU) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [BACHA](https://open.spotify.com/album/2kqUCO8m8rcRlfJBUi0Eqg) | 3:00 | 2024-04-12 | 2024-05-17 |
 | [Badadi](https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Badadi](https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB) | 2:45 | 2024-07-25 |  |
@@ -107,7 +108,7 @@
 | [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 | 2023-07-07 | 2023-10-27 |
 | [Kan Kis7abli](https://open.spotify.com/track/28YTJGOAnyrdmAAkorOie5) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Kan Kis7abli](https://open.spotify.com/album/1EAhT7MKSd0kVGJZKUD20V) | 3:22 | 2024-01-25 | 2025-01-02 |
 | [Khalass](https://open.spotify.com/track/1YAcYC4yCkdBkgSczACr7C) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:20 | 2023-07-07 | 2023-08-11 |
-| [KHAMSSA W KHMISS](https://open.spotify.com/track/7qwQfxmgJ2ARpX393yF21F) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [KHAMSSA W KHMISS](https://open.spotify.com/album/28F0rHWwXVBUpKhoHIwJVQ) | 2:19 | 2026-01-09 |  |
+| [KHAMSSA W KHMISS](https://open.spotify.com/track/7qwQfxmgJ2ARpX393yF21F) | [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg) | [KHAMSSA W KHMISS](https://open.spotify.com/album/28F0rHWwXVBUpKhoHIwJVQ) | 2:19 | 2026-01-09 | 2026-02-11 |
 | [Khiyana](https://open.spotify.com/track/2lR6Rca2ib6D63AYAw2Yr8) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Khiyana](https://open.spotify.com/album/77nd2bNKjX80AONYQGPLII) | 2:43 | 2025-05-05 | 2025-08-02 |
 | [kho khwatato](https://open.spotify.com/track/0Zc1kECFQAoJQDMKKsxDLr) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [hind ziadi](https://open.spotify.com/artist/4swfRw8HS51lw8HsO2VXVP) | [kho khwatato](https://open.spotify.com/album/03u30VQhTn0dWfMBIld2IV) | 3:43 | 2023-07-07 | 2024-05-18 |
 | [Kolchi belmouktab](https://open.spotify.com/track/6aySaMjVrS7XYy93MwBaej) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Kolchi belmouktab](https://open.spotify.com/album/4cjJA19wIQCYNTDdmA3tYB) | 2:34 | 2025-01-19 |  |

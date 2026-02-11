@@ -4,7 +4,7 @@
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-104 songs - 6 hr 3 min
+105 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Heart Like A Truck](https://open.spotify.com/track/5DIBVDJOHh7djepAjKHWCO) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:19 | 2023-12-13 |  |
 | [Heart Like A Truck](https://open.spotify.com/track/5UNMyX2AzF8X90wAYAxG6Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:19 | 2023-09-15 | 2023-12-14 |
 | [High on Somethin'](https://open.spotify.com/track/3IzJkRiZZqVLZ5hMEfuElB) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [High on Somethin'](https://open.spotify.com/album/4EzwszYds42Co3GAi54Wgc) | 3:04 | 2023-09-15 | 2025-03-16 |
+| [Hillbilly Hippie](https://open.spotify.com/track/6LkYprJuqpmKVRvkSG4DnL) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:31 | 2026-02-11 |  |
 | [Hold My Halo](https://open.spotify.com/track/0JFNEmvxVfMOV8HsICZkOj) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:26 | 2023-09-15 | 2023-12-14 |
 | [Hold My Halo](https://open.spotify.com/track/29O197ONSFNzq063eb0869) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:26 | 2023-12-13 |  |
 | [I Make Myself](https://open.spotify.com/track/4lY4XM0j4EwIwm4cFoQyNs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 4:34 | 2023-09-15 | 2024-08-25 |
@@ -96,7 +97,7 @@
 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 | 2023-09-15 | 2023-12-14 |
 | [Weak\-End](https://open.spotify.com/track/1WTWurcIy9hRnzJiJp3ZtI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:28 | 2023-09-15 | 2023-12-14 |
 | [Weak\-End](https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:28 | 2023-12-13 |  |
-| [What’s Up \(What’s Going On\)](https://open.spotify.com/track/7yVVTAPCav3KYMUksCTN3K) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:51 | 2026-01-24 |  |
+| [What’s Up \(What’s Going On\)](https://open.spotify.com/track/7yVVTAPCav3KYMUksCTN3K) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:51 | 2026-01-24 | 2026-02-11 |
 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 | 2024-08-25 |  |
 | [Wild Woman \- Lainey Wilson Version](https://open.spotify.com/track/0hdlsXpOCPyDF3NZ0HFSDf) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [One More Time](https://open.spotify.com/album/5V12ap591SmtretgcunhiO) | 3:32 | 2025-12-07 | 2025-12-14 |
 | [Wild Woman \- Lainey Wilson Version](https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wild Woman \(Lainey Wilson Version\)](https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA) | 3:32 | 2025-12-14 |  |

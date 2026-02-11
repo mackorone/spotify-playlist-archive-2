@@ -1,12 +1,12 @@
 {
   "description": "This is Avril Lavigne. The essential tracks, all in one playlist.",
-  "num_followers": 751068,
+  "num_followers": 751103,
   "original_name": "This Is Avril Lavigne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAACSKc44C7h9GlTkPgPcJEf2",
+  "snapshot_id": "aYkjgAAAAAC7VBQarZXeUpaZd8jZTKiv",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 242413,
-      "name": "My Happy Ending",
-      "url": "https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 216600,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 242413,
+      "name": "My Happy Ending",
+      "url": "https://open.spotify.com/track/6sqNctd7MlJoKDOxPVCAvU"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Nobody's Home",
-      "url": "https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Damn Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 240493,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/0dEQaNYfp5G7Sflek2Qnde"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -271,22 +255,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
       },
       "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 187249,
-      "name": "You Broke Me Too (feat. Avril Lavigne)",
-      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
+      "duration_ms": 202013,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/0dEQaNYfp5G7Sflek2Qnde"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "Hot",
+      "url": "https://open.spotify.com/track/6z7fZRrQfOH3ZjWEkC4QhC"
     },
     {
       "added_at": null,
@@ -307,18 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
       },
       "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
         {
           "name": "Avril Lavigne",
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 202973,
-      "name": "Hot",
-      "url": "https://open.spotify.com/track/6z7fZRrQfOH3ZjWEkC4QhC"
+      "duration_ms": 187249,
+      "name": "You Broke Me Too (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/5OuP08bgU2H7ZeDQQFQ6q8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -379,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+        "name": "Avril Lavigne (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
       },
       "artists": [
         {
@@ -388,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/5OuP08bgU2H7ZeDQQFQ6q8"
+      "duration_ms": 196253,
+      "name": "Hello Kitty",
+      "url": "https://open.spotify.com/track/5eo5uGyM4q70CLU3LZphfu"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
       "duration_ms": 152331,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avril Lavigne (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "Hello Kitty",
-      "url": "https://open.spotify.com/track/5eo5uGyM4q70CLU3LZphfu"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Go (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 223717,
-      "name": "Breakaway",
-      "url": "https://open.spotify.com/track/74kqTZLnGoPtCwGecA37Xi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Avril Lavigne (Expanded Edition)",
         "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
       },
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+        "name": "Let Go (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 208680,
-      "name": "Fall To Pieces",
-      "url": "https://open.spotify.com/track/396WOfbkqKaXYFwx6XjdOF"
+      "duration_ms": 223717,
+      "name": "Breakaway",
+      "url": "https://open.spotify.com/track/74kqTZLnGoPtCwGecA37Xi"
     },
     {
       "added_at": null,
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody's Home",
-        "url": "https://open.spotify.com/album/3lcqYhgY599FdXetGtNElV"
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 170533,
-      "name": "Knockin' on Heaven's Door - Studio Version",
-      "url": "https://open.spotify.com/track/6xF5RkVUNl7YkNapPCk2Ds"
+      "duration_ms": 208680,
+      "name": "Fall To Pieces",
+      "url": "https://open.spotify.com/track/396WOfbkqKaXYFwx6XjdOF"
     },
     {
       "added_at": null,
@@ -575,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+        "name": "Nobody's Home",
+        "url": "https://open.spotify.com/album/3lcqYhgY599FdXetGtNElV"
       },
       "artists": [
         {
@@ -584,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/4e8HF8QcD4HlfgRT6TGDlO"
+      "duration_ms": 170533,
+      "name": "Knockin' on Heaven's Door - Studio Version",
+      "url": "https://open.spotify.com/track/6xF5RkVUNl7YkNapPCk2Ds"
     },
     {
       "added_at": null,
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Go (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 234138,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
+      "duration_ms": 177600,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/4e8HF8QcD4HlfgRT6TGDlO"
     },
     {
       "added_at": null,
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under My Skin",
-        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+        "name": "Let Go (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7JxjNcaooYpX0JcfNQMxqs"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 179360,
-      "name": "He Wasn't",
-      "url": "https://open.spotify.com/track/0VRxqpFICUHJKuWx9sQrm6"
+      "duration_ms": 234138,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4SP8uUWJf9XFNAYyheD2gd"
     },
     {
       "added_at": null,
@@ -679,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
       },
       "artists": [
         {
@@ -688,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 189200,
-      "name": "The Best Damn Thing",
-      "url": "https://open.spotify.com/track/7lmX3dD2Xy13Jo1oCTR4ot"
+      "duration_ms": 179360,
+      "name": "He Wasn't",
+      "url": "https://open.spotify.com/track/0VRxqpFICUHJKuWx9sQrm6"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
       "duration_ms": 225266,
       "name": "Give You What You Like",
       "url": "https://open.spotify.com/track/3lRSfCNYx9XvJdCL2JcdVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "The Best Damn Thing",
+      "url": "https://open.spotify.com/track/7lmX3dD2Xy13Jo1oCTR4ot"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 168803,
-      "name": "Love Sux",
-      "url": "https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Internet Killed The Rockstar",
         "url": "https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 151989,
       "name": "Flames (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/4nEYidcaoFBLj9veMFc0Qf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 168803,
+      "name": "Love Sux",
+      "url": "https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB"
     },
     {
       "added_at": null,

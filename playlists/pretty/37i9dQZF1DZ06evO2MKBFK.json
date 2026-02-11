@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 634320,
+  "num_followers": 634291,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAAhq2Q1Zrp147I4DW/EreRt",
+  "snapshot_id": "aYkjgAAAAAAJrl0pcGxy+63pdDYs8z2D",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 256359,
-      "name": "Haru Haru",
-      "url": "https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 256359,
+      "name": "Haru Haru",
+      "url": "https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "Sunset Glow",
-      "url": "https://open.spotify.com/track/3qHBjPdFZeS0tfXywAxOKq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 264215,
       "name": "IF YOU",
       "url": "https://open.spotify.com/track/4kaY4LbdbomICC25gYGGtn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 204920,
+      "name": "Sunset Glow",
+      "url": "https://open.spotify.com/track/3qHBjPdFZeS0tfXywAxOKq"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special Edition 'Still Alive'",
-        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0c7QMo952Ga2qAJMdfEcrb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 211926,
       "name": "LET'S NOT FALL IN LOVE",
       "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Special Edition 'Still Alive'",
+        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0c7QMo952Ga2qAJMdfEcrb"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Issue",
-        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Last Farewell",
-      "url": "https://open.spotify.com/track/7KDHGgYt5fF2Lh9FxMbVML"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 219370,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Last Farewell",
+      "url": "https://open.spotify.com/track/7KDHGgYt5fF2Lh9FxMbVML"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
-        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
-      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 279655,
       "name": "LAST DANCE",
       "url": "https://open.spotify.com/track/7ijWcf4FsoxoyPK4B9WGp6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 253240,
+      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
-        "url": "https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Top Of The World",
-      "url": "https://open.spotify.com/track/7FXxI7DL2BDc2VgE9gRoUA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 237512,
       "name": "SOBER",
       "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
+        "url": "https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Top Of The World",
+      "url": "https://open.spotify.com/track/7FXxI7DL2BDc2VgE9gRoUA"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
-        "url": "https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 198760,
-      "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
-      "url": "https://open.spotify.com/track/5brqQm02a7xLvdStXioywi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
+        "url": "https://open.spotify.com/album/17XvKgRVajvlWWcf455jAh"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 198760,
+      "name": "\u30ac\u30e9\u30ac\u30e9 GO\uff01\uff01",
+      "url": "https://open.spotify.com/track/5brqQm02a7xLvdStXioywi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Special Edition 'Still Alive'",
         "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
       },
@@ -455,22 +455,6 @@
       "duration_ms": 198533,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KPOP - JPOP Made In Korea Vol. 2",
-        "url": "https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 198912,
-      "name": "Gara Gara Go!!",
-      "url": "https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 222989,
+      "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
+      "url": "https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
         "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 244040,
       "name": "SUPER STAR - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
       "url": "https://open.spotify.com/track/2GrmNtTCulwxR9lk8NQBAD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 222989,
-      "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
-      "url": "https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 200248,
       "name": "Lollipop Part.2",
       "url": "https://open.spotify.com/track/7jJnHoPel2hxKFlcLgTmoJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIGBANG Vol.1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 194280,
+      "name": "Dirty Cash",
+      "url": "https://open.spotify.com/track/0yZKieKXhoehUMVpYiGwWj"
     }
   ],
   "unique_name": "This Is BIGBANG",

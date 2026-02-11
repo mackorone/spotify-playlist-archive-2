@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 170000,
       "name": "Cycle Breaker",
       "url": "https://open.spotify.com/track/3lwKje10iLBmpzD18HHuBM"
@@ -676,6 +676,24 @@
       "duration_ms": 272742,
       "name": "Love",
       "url": "https://open.spotify.com/track/2Kerz9H9IejzeIpjhDJoYG"
+    },
+    {
+      "album": {
+        "name": "Luckiest",
+        "url": "https://open.spotify.com/album/5HXRBBh6x0VHAIS0hNVC0L"
+      },
+      "artists": [
+        {
+          "name": "Beeson",
+          "url": "https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185734,
+      "name": "Luckiest",
+      "url": "https://open.spotify.com/track/2U2skQkpTjmR1HlfMvHE7S"
     },
     {
       "album": {

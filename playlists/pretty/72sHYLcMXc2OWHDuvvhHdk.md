@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 556 likes - 2,283 songs - 5 day 13 hr 29 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 559 likes - 2,296 songs - 5 day 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2291,5 +2291,18 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2281 | [Susmuyor Düşünceler](https://open.spotify.com/track/57i2TyGSm7lcBpaWz92wyA) | [Evren Uğur](https://open.spotify.com/artist/2AZPixOsGHxuc0gqq3XOy4) | [Susmuyor Düşünceler](https://open.spotify.com/album/2QbCXokbsGqAhuae9hHHvS) | 2:18 |
 | 2282 | [Dear Malibu](https://open.spotify.com/track/6MXhSdqhQGJzLX2vdVK1O0) | [Pastel Atlas](https://open.spotify.com/artist/0dOOtoPeBfIwrRKMRJlda0) | [Dear Malibu](https://open.spotify.com/album/4lV1jPMuaz8odID52UUMcV) | 2:56 |
 | 2283 | [Smoke](https://open.spotify.com/track/0CcZD7BHmORK8eut285pnZ) | [Clejan](https://open.spotify.com/artist/6CbxzZHyeIz1Pig7giCufl), [Ohd Beats](https://open.spotify.com/artist/67lWlB4W8XqsGmw15U9J58) | [Smoke](https://open.spotify.com/album/60QPKhJDBDoAn0CjKwQx11) | 2:08 |
+| 2284 | [Pedine \(Come Voi\)](https://open.spotify.com/track/2KPKY59Bz0qCe7TbjX2dRh) | [Jeec](https://open.spotify.com/artist/3m21RYc8hGmj86j7758WEI), [Jack Langellotti](https://open.spotify.com/artist/5zwprFEgkf4geLBHbIXQXK) | [NEW \(Tutto Quello Che Non Ti Ho Detto\)](https://open.spotify.com/album/79BmHyu8SkBV00jTNyXzUD) | 2:41 |
+| 2285 | [In the quiet of the night](https://open.spotify.com/track/0E8HI1hCSZIUg8EwvvTLTH) | [Samadhi Radio](https://open.spotify.com/artist/1Xo5Iukw1wJ05KCIy9STI8) | [In the quiet of the night](https://open.spotify.com/album/37c6qoNN7SW3sF0547OjOt) | 3:37 |
+| 2286 | [On My Own \(Live\)](https://open.spotify.com/track/26g3Bk34MqtXNS0wuO2Ire) | [Herbert Kretzmer](https://open.spotify.com/artist/7mK42D3rSMKrezfx5n4dWY), [Ray Lao](https://open.spotify.com/artist/4ke0Z6uwW8AZKFMX1AdfJf) | [On My Own \(Live\)](https://open.spotify.com/album/5lCNLhmQSKiFHmLLPAVPFb) | 2:16 |
+| 2287 | [Horizon Calling](https://open.spotify.com/track/4BxnqtvpIgaNRGETVxwQJh) | [Max Hixon](https://open.spotify.com/artist/6re1c6RENl1HLndE5iiUHM) | [Horizon Calling](https://open.spotify.com/album/2fuVAKErh5r9qOkhJ4u04N) | 2:17 |
+| 2288 | [Al Borde De La Belleza](https://open.spotify.com/track/6I4RtHCbbsmzIx9RwE4wPZ) | [Loshe](https://open.spotify.com/artist/47dUfk9P1DT7rnyPBjAj4j) | [Al Borde De La Belleza](https://open.spotify.com/album/5KEALFSgtC1UzVWZ38dnSV) | 3:23 |
+| 2289 | [Sticks and Mud](https://open.spotify.com/track/0pOUxLuxxUMWDV6DUUxprJ) | [Lucas Lutter](https://open.spotify.com/artist/0eU98CzYOtXqvjbCtthN8b) | [Daydreams](https://open.spotify.com/album/08LOH6LRX9CGSqsRDV0Tpr) | 3:03 |
+| 2290 | [Keeping Me Awake](https://open.spotify.com/track/5MHF5uAHtNX3z7cuAjtyWC) | [K\*ahna](https://open.spotify.com/artist/1dshjRxQ8ml5FhI0YraJeG) | [Keeping Me Awake](https://open.spotify.com/album/7ldluNmPePg6bE2biDySXi) | 2:24 |
+| 2291 | [Do You Want Me](https://open.spotify.com/track/0mPlRoWozVrwoJXKGJ8KV2) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Do You Want Me](https://open.spotify.com/album/7GJrSnO6AcA9MPeKIpfnW2) | 2:10 |
+| 2292 | [Despedida](https://open.spotify.com/track/5GfPuTtdICzcHByzu09EkT) | [Lustosa](https://open.spotify.com/artist/3Ll04O6V7ozAxJOzSBbsh0) | [Despedida](https://open.spotify.com/album/0aXsX1iVBxcj3Ubb1g40od) | 4:05 |
+| 2293 | [Holy Man](https://open.spotify.com/track/3uInyoPP8RdqchB6E7vInx) | [Garrett Willis](https://open.spotify.com/artist/2GPmsoBevvDcoHmjp5cKwB) | [Holy Man](https://open.spotify.com/album/1lxIcaL5Ht5xRlAi1Ew9fH) | 3:45 |
+| 2294 | [Wings](https://open.spotify.com/track/0tlNA6X9fGAlwPQq2CkKqt) | [Mastering Silence](https://open.spotify.com/artist/4fZb8jkDew7kg3eFwzmyvp) | [Wings](https://open.spotify.com/album/6LS5xbOq6nryBJ3Jp2vKY8) | 2:09 |
+| 2295 | [Next Summer](https://open.spotify.com/track/6Uxd374CH8XLEvlRFvCMsT) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Next Summer](https://open.spotify.com/album/3Zd0Fhy0KxrF386X4u3fRu) | 3:29 |
+| 2296 | [NO AIR](https://open.spotify.com/track/5mHnbg3IyKiL73v4UDYzs2) | [Zheta AKA Beats](https://open.spotify.com/artist/0i4OyOnBFOalV7uzmx6Qny) | [NO AIR](https://open.spotify.com/album/7qzLOOFGmlXoktcjmVSM7X) | 2:48 |
 
-Snapshot ID: `AAAJgheSN7UdxgdTnbTRTNeEymS7HMHi`
+Snapshot ID: `AAAJjyefio84w4SJz5nXoDc/nbMfp+F3`

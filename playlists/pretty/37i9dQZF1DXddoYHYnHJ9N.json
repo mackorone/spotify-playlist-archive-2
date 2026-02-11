@@ -1,15 +1,35 @@
 {
-  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: VZS, JOJO, KKevin",
-  "num_followers": 94196,
+  "description": "Az 50 legn\u00e9pszer\u0171bb dal Magyarorsz\u00e1gon. Cover: VINI, BELANO",
+  "num_followers": 94203,
   "original_name": "Hot Hits Magyarorsz\u00e1g",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADQ3yVmiZ9XaNHJUPU4zr+AC8jNB",
+  "snapshot_id": "AAAAACchVjILHkgCL6WiL6xicQZ9bznc",
   "tracks": [
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
+      "album": {
+        "name": "VINNER",
+        "url": "https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "duration_ms": 159255,
+      "name": "SHAKE DAT",
+      "url": "https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3"
+    },
+    {
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "SHOW ME WHAT YOU GOT",
         "url": "https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC"
@@ -33,7 +53,7 @@
       "url": "https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "TOP TIER",
         "url": "https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx"
@@ -49,7 +69,23 @@
       "url": "https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "STARBOY",
         "url": "https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE"
@@ -65,7 +101,7 @@
       "url": "https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "HATALMASABB, MINT GONDOLN\u00c1D",
         "url": "https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O"
@@ -81,7 +117,23 @@
       "url": "https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
+      "album": {
+        "name": "BOTR\u00c1NY",
+        "url": "https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU"
+      },
+      "artists": [
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "BOTR\u00c1NY",
+      "url": "https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF"
+    },
+    {
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -97,7 +149,7 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "ICE SPICE",
         "url": "https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy"
@@ -113,43 +165,7 @@
       "url": "https://open.spotify.com/track/1TWN7SgqSXiaHuH8LoIXZN"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
-      "album": {
-        "name": "NU M\u0102 LAS\u0102",
-        "url": "https://open.spotify.com/album/53k7aEfUyjep2mkaviZRNl"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3th Andi",
-          "url": "https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu"
-        },
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        }
-      ],
-      "duration_ms": 163478,
-      "name": "NU M\u0102 LAS\u0102",
-      "url": "https://open.spotify.com/track/4f7QJX2A3SK4aVSK9bh4r5"
-    },
-    {
-      "added_at": "2026-02-03 11:39:35",
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "AFTERPARTY",
         "url": "https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd"
@@ -169,23 +185,27 @@
       "url": "https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
-        "name": "Megcsalok veled ak\u00e1rkit",
-        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
+        "name": "NU M\u0102 LAS\u0102",
+        "url": "https://open.spotify.com/album/53k7aEfUyjep2mkaviZRNl"
       },
       "artists": [
         {
-          "name": "Marics Peti",
-          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+          "name": "T\u00f3th Andi",
+          "url": "https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu"
+        },
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
         }
       ],
-      "duration_ms": 144461,
-      "name": "Megcsalok veled ak\u00e1rkit",
-      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
+      "duration_ms": 163478,
+      "name": "NU M\u0102 LAS\u0102",
+      "url": "https://open.spotify.com/track/4f7QJX2A3SK4aVSK9bh4r5"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "Felsz\u00e1ll\u00f3 \u00c1g",
         "url": "https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "BULLSHIT",
         "url": "https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW"
@@ -229,43 +249,23 @@
       "url": "https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
-        "name": "BOTR\u00c1NY",
-        "url": "https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU"
+        "name": "Megcsalok veled ak\u00e1rkit",
+        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
       },
       "artists": [
         {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
         }
       ],
-      "duration_ms": 146666,
-      "name": "BOTR\u00c1NY",
-      "url": "https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF"
+      "duration_ms": 144461,
+      "name": "Megcsalok veled ak\u00e1rkit",
+      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
-      "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
-    },
-    {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "21 R\u00f3zsasz\u00e1l",
         "url": "https://open.spotify.com/album/2Xf8aTbtaF1lEvTRQy4HVj"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/7L3baFE8EUbk7jbp2o4XB0"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "KERTES H\u00c1Z",
         "url": "https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "EXT\u00c1ZIS",
         "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "SeanPaul",
         "url": "https://open.spotify.com/album/5DA2IM6GgkiaZ0uCPQmRiK"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/0eod6RF1GCPzEZGVoSAkpY"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "\u00c9DEN",
         "url": "https://open.spotify.com/album/4TFfAeuhL7h30cwZv29rzI"
@@ -385,7 +385,27 @@
       "url": "https://open.spotify.com/track/37rab2ZEkXwsPboXTZxHBf"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "Lelkem, Nyugodj",
         "url": "https://open.spotify.com/album/63vYd4u5laaQ7Him1ZRz8q"
@@ -401,7 +421,7 @@
       "url": "https://open.spotify.com/track/1tm4qXlpkzkLrHqs9JPF73"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "EXT\u00c1ZIS",
         "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
@@ -421,7 +441,7 @@
       "url": "https://open.spotify.com/track/3s2IsVmmuH4Fi3491W7TF5"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "PONT J\u00d3",
         "url": "https://open.spotify.com/album/2nrPm89sh8J9HY1GHyedQ1"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/6hl5iWDLtE1OqsYxsoGZQm"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "vemzavr!",
         "url": "https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "SZEPTEMBER V\u00c9G\u00c9N (STRESSZ)",
         "url": "https://open.spotify.com/album/2qQIcOMqoiYMTxbBEcwdi4"
@@ -481,31 +501,7 @@
       "url": "https://open.spotify.com/track/5uZSmno7ltepBaL9wJ8ZrF"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
-      "album": {
-        "name": "Shao Leng Leng",
-        "url": "https://open.spotify.com/album/4LXciJekkF6F4twsS8q6vU"
-      },
-      "artists": [
-        {
-          "name": "hazetomika",
-          "url": "https://open.spotify.com/artist/3hvIZ2TPVhx5ZcTV7Q9nHL"
-        },
-        {
-          "name": "ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        },
-        {
-          "name": "Grasa",
-          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
-        }
-      ],
-      "duration_ms": 158683,
-      "name": "Shao Leng Leng",
-      "url": "https://open.spotify.com/track/5fSgT2wg6JV77rmrhREIiU"
-    },
-    {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "h\u00f3angyal",
         "url": "https://open.spotify.com/album/1x7cbY0aFqC5UEiJizAscJ"
@@ -525,7 +521,7 @@
       "url": "https://open.spotify.com/track/7rIhX5T8SR53HpmVTU26qn"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "FREY TIMI",
         "url": "https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k"
@@ -541,7 +537,75 @@
       "url": "https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
+      "album": {
+        "name": "HA MEGHALOK SE",
+        "url": "https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "V\u00c1RJ MEG",
+      "url": "https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b"
+    },
+    {
+      "added_at": "2026-02-10 09:33:06",
+      "album": {
+        "name": "BABY \u00c9N NEM J\u00c1TSZOM",
+        "url": "https://open.spotify.com/album/3nKzfmwfoZ5Nhc4K1EMOKk"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "duration_ms": 135172,
+      "name": "BABY \u00c9N NEM J\u00c1TSZOM",
+      "url": "https://open.spotify.com/track/69PO2SFd17GwZgI7t5z7iP"
+    },
+    {
+      "added_at": "2026-02-10 09:33:06",
+      "album": {
+        "name": "PLETYKA",
+        "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 155121,
+      "name": "PLETYKA",
+      "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
+    },
+    {
+      "added_at": "2026-02-10 09:33:06",
+      "album": {
+        "name": "Pap\u00edrom",
+        "url": "https://open.spotify.com/album/0aBLKzoryaeL5euj0bXxsf"
+      },
+      "artists": [
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "duration_ms": 159204,
+      "name": "Pap\u00edrom",
+      "url": "https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B"
+    },
+    {
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "Purgat\u00f3rium",
         "url": "https://open.spotify.com/album/0YjlfSP4BgfFzEeVx8mMf7"
@@ -565,75 +629,7 @@
       "url": "https://open.spotify.com/track/6WljAxThjbT9RPTDo25MqC"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
-      "album": {
-        "name": "HA MEGHALOK SE",
-        "url": "https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ"
-      },
-      "artists": [
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        },
-        {
-          "name": "RZMVS",
-          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "V\u00c1RJ MEG",
-      "url": "https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b"
-    },
-    {
-      "added_at": "2026-02-03 11:39:35",
-      "album": {
-        "name": "BABY \u00c9N NEM J\u00c1TSZOM",
-        "url": "https://open.spotify.com/album/3nKzfmwfoZ5Nhc4K1EMOKk"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        }
-      ],
-      "duration_ms": 135172,
-      "name": "BABY \u00c9N NEM J\u00c1TSZOM",
-      "url": "https://open.spotify.com/track/69PO2SFd17GwZgI7t5z7iP"
-    },
-    {
-      "added_at": "2026-02-03 11:39:35",
-      "album": {
-        "name": "PLETYKA",
-        "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 155121,
-      "name": "PLETYKA",
-      "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
-    },
-    {
-      "added_at": "2026-02-03 11:39:35",
-      "album": {
-        "name": "Pap\u00edrom",
-        "url": "https://open.spotify.com/album/0aBLKzoryaeL5euj0bXxsf"
-      },
-      "artists": [
-        {
-          "name": "RZMVS",
-          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
-        }
-      ],
-      "duration_ms": 159204,
-      "name": "Pap\u00edrom",
-      "url": "https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B"
-    },
-    {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "OHMAMMA",
         "url": "https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu"
@@ -653,7 +649,7 @@
       "url": "https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "Kimarad\u00e1s",
         "url": "https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI"
@@ -673,7 +669,7 @@
       "url": "https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
         "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
@@ -689,7 +685,7 @@
       "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "BE VAGYOK Z\u00c1RVA",
         "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
@@ -705,7 +701,7 @@
       "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "S\u00d6T\u00c9T",
         "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
@@ -721,7 +717,7 @@
       "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "Demo",
         "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
@@ -737,7 +733,7 @@
       "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8"
@@ -761,7 +757,7 @@
       "url": "https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -777,7 +773,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "KETT\u0150/KETT\u0150",
         "url": "https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk"
@@ -793,7 +789,7 @@
       "url": "https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
@@ -809,7 +805,7 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "Csurran, cseppen",
         "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
@@ -825,7 +821,7 @@
       "url": "https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "Lidokain",
         "url": "https://open.spotify.com/album/5hHkNlH2do1slAmf9FBKoJ"
@@ -841,7 +837,7 @@
       "url": "https://open.spotify.com/track/1tI1LGUz4fZg8es7toVK6K"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -857,7 +853,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
@@ -877,7 +873,7 @@
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -893,7 +889,7 @@
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "BAKPAKK",
         "url": "https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT"
@@ -917,7 +913,7 @@
       "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
     },
     {
-      "added_at": "2026-02-03 11:39:35",
+      "added_at": "2026-02-10 09:33:06",
       "album": {
         "name": "NINCS HOLNAP",
         "url": "https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd"

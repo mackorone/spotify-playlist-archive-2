@@ -4,7 +4,7 @@
 
 > born on the internet\. ft\. fakemink
 
-1,191 songs - 2 day 0 hr 18 min
+1,195 songs - 2 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [CAN'T STOP](https://open.spotify.com/track/3ffD4K3A0EALJmRyKy9YiR) | [William Crooks](https://open.spotify.com/artist/6RQSaarEM4qarzwuWvKvPw) | [CAN'T STOP](https://open.spotify.com/album/0Y986PjEdJmb5zcICQe0cp) | 2:17 | 2023-12-15 | 2023-12-30 |
 | [CAN'T TOUCH THIS](https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN \(Deluxe\)](https://open.spotify.com/album/76j8Cihag4ps0oykYSo0Bc) | 2:26 | 2021-10-29 | 2022-02-23 |
 | [CANT!](https://open.spotify.com/track/2RzMdCj25wvpNu2rD5PzEF) | [6o](https://open.spotify.com/artist/42D1U0ommjMX0HxRz4qcdv) | [CANT!](https://open.spotify.com/album/4rS6z4Vwr1qakINo0y6gmc) | 1:54 | 2023-01-13 | 2023-02-15 |
+| [Can’t Crash](https://open.spotify.com/track/20yYEiksiiLolkHLQYaih1) | [Sir Untre](https://open.spotify.com/artist/0PxbXmWt9rzhb3VDzcYn3H) | [@ Now, Die Later](https://open.spotify.com/album/3uUFErhMCEBO3jzKgnXGXw) | 1:52 | 2026-02-10 |  |
 | [Cap Freestyle](https://open.spotify.com/track/7vJDoWPSNTXu5v8H5siOin) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Cap Freestyle](https://open.spotify.com/album/6fMr0JDjgzEubioAdQlVhe) | 2:32 | 2022-07-15 | 2022-11-12 |
 | [Cap Freestyle](https://open.spotify.com/track/6ye5dPKpw2OZz0IRUuMbc4) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Cap Freestyle](https://open.spotify.com/album/7fweiD7TX7zUeIA88eaaEX) | 2:33 | 2022-07-15 | 2022-08-13 |
 | [capped out](https://open.spotify.com/track/5eZ7qde0QHE8nL78gFnXEf) | [Blackedy](https://open.spotify.com/artist/1KUAXExkHPbU9dtaqKwkK2) | [black core](https://open.spotify.com/album/1TX59zKlMc4zmZmC3H6nGH) | 1:49 | 2024-12-06 | 2026-02-08 |
@@ -826,6 +827,7 @@
 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 | 2022-09-17 |
 | [Paralyzed](https://open.spotify.com/track/1FMiq74MKAcEcbrlJpIMCI) | [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Paralyzed](https://open.spotify.com/album/7yIAC9MyrWgVeWovHZ5LLT) | 2:47 | 2022-01-28 | 2022-02-23 |
 | [PARANOIA INTRO](https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:10 | 2024-04-24 | 2024-10-05 |
+| [Party At My Place](https://open.spotify.com/track/6CtUVW0IkBCejttSw9Bgdi) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [Xavier](https://open.spotify.com/album/6f0DTjwsEkghJ0fgQmPTbh) | 2:21 | 2026-02-10 |  |
 | [Party Girlz](https://open.spotify.com/track/4dbthnQWUKNzEMDZ9Kc3jR) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Party Girlz](https://open.spotify.com/album/7q27DgPhiFNgKehyAIKABp) | 2:13 | 2023-01-20 | 2023-02-15 |
 | [PASTA](https://open.spotify.com/track/7yCnwyfRq6GSxmivcxnyKp) | [Mighty Bay](https://open.spotify.com/artist/6vAbPprzkLR2v8FpTgyYcV), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [PASTA](https://open.spotify.com/album/4AMWdPPnZpFQTUwMXWsHjo) | 2:06 | 2022-06-28 | 2022-08-29 |
 | [PELICAN](https://open.spotify.com/track/0V5TfRvQm0qLtv9Q0IPOKS) | [Cashout Mike](https://open.spotify.com/artist/00AolXifCyBruO9xdTyWgF) | [PELICAN](https://open.spotify.com/album/3pURr9iMS8fy1kK0K2SxK2) | 1:43 | 2022-03-12 | 2022-05-20 |
@@ -863,6 +865,7 @@
 | [Pretty](https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Okthxbb](https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6) | [Pretty](https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ) | 3:44 | 2021-11-23 | 2022-04-26 |
 | [pRETTy](https://open.spotify.com/track/6vDyzD9o8aYhR1963oJpkO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 2:42 | 2023-01-30 | 2023-05-06 |
 | [Pro Open \(with BabyTron\)](https://open.spotify.com/track/0vVG0pVOd221B10F8J0Krm) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Pro Open \(with BabyTron\)](https://open.spotify.com/album/7A8IZmbJDZ38S2YtHYmLRj) | 2:25 | 2024-05-31 | 2026-02-08 |
+| [Prospect](https://open.spotify.com/track/0HlpLCAwflcc1nrh7IrZg6) | [Sunny Lou](https://open.spotify.com/artist/1xGj3xMknfgZTXhBYzwdag), [Lightris](https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi) | [Prospect](https://open.spotify.com/album/3eKddCQy1gwaf6tJW1Fauu) | 2:10 | 2026-02-10 |  |
 | [Prove My Love](https://open.spotify.com/track/7xsZCOPVVcZTVQ36PvCpN5) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [DIAMONDS](https://open.spotify.com/album/3kzwY2NyciGzUmvPOHciap) | 4:29 | 2023-09-08 | 2023-10-14 |
 | [PSA](https://open.spotify.com/track/6T5i0o62ZyfHRRHHihYJ1n) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 1:53 | 2023-02-09 | 2023-08-19 |
 | [Public](https://open.spotify.com/track/65lV8m1obLQsdL76WjyRyy) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Public](https://open.spotify.com/album/3lxXrzog0ZLVIykCBAlf9P) | 2:01 | 2021-11-16 | 2022-02-26 |
@@ -880,6 +883,7 @@
 | [Rare Steppa](https://open.spotify.com/track/4IRcHxTAF48RyFA4rMzV2y) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare Steppa](https://open.spotify.com/album/0wLWXXmgSUHwIBvgCokK8K) | 1:58 | 2023-03-31 | 2023-05-27 |
 | [Rare Story Pt\. 2](https://open.spotify.com/track/5pA5DmqA3tNd9F8KMNrd1C) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Rare Story Pt\. 2](https://open.spotify.com/album/6C9kMdHKxcnmMua6nRkMCU) | 2:28 | 2023-08-25 | 2024-01-13 |
 | [RATHER BE](https://open.spotify.com/track/0ZeI050Xzsr5v6FodFzaLV) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [RATHER BE](https://open.spotify.com/album/2HwUleY40tW6VGwIiq5vmG) | 1:47 | 2023-12-01 | 2023-12-09 |
+| [RAVE](https://open.spotify.com/track/2JVETPhtTZVgBsZ4vI8caa) | [Dragnutz](https://open.spotify.com/artist/2TvrJYiAIIYezuVPba798c) | [RAVE](https://open.spotify.com/album/0xOQkGmPOitXhyw40dcKg2) | 1:30 | 2026-02-10 |  |
 | [Raver Explanation \- Blaketheman1000 Remix](https://open.spotify.com/track/2G3v3gvkwOOBopXERNe4vd) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv), [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I) | [Raver Explanation \(Blaketheman1000 Remix\)](https://open.spotify.com/album/2rMkAtcNYNLaCEBMSiOZfF) | 2:08 | 2022-12-02 | 2022-12-14 |
 | [Reactive](https://open.spotify.com/track/2Dj7TxdeKh70Fux4Yxpnpo) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Reactive](https://open.spotify.com/album/0ZhCxhtjZCPpgJEe1mhOEf) | 2:23 | 2023-05-26 | 2023-06-10 |
 | [Ready \(feat\. Gunna\)](https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:33 | 2021-09-30 | 2022-04-03 |

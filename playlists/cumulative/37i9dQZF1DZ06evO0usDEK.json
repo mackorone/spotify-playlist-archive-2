@@ -911,6 +911,24 @@
     },
     {
       "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222213,
+      "name": "See You Then",
+      "url": "https://open.spotify.com/track/56O99Nu2iSQsReVRcCXRX7"
+    },
+    {
+      "album": {
         "name": "The Very Best of Roberta Flack",
         "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
       },
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 299573,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/50ILHnbevWzqVvk1tYm3BO"

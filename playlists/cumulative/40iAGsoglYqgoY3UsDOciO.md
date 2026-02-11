@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-483 songs - 23 hr 21 min
+484 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [À Boutte de Toute](https://open.spotify.com/track/6zZDSgNYQPqKGkjHb4e1BG) | [Chacal](https://open.spotify.com/artist/5HukSi7X2MjzaLJrnCngDH) | [À Boutte de Toute](https://open.spotify.com/album/1Gvsvgh2Q5skhv3mADDCvK) | 2:35 | 2024-05-22 |  |
 | [ángel \(RIP X\)](https://open.spotify.com/track/3hCd6pcTPQGkn2NhBa8mpn) | [WAITY](https://open.spotify.com/artist/5QIFRFGSrzmedc5VNJeadj) | [ángel \(RIP X\)](https://open.spotify.com/album/207Ay8Bq2F8PVABw9uq946) | 1:16 | 2024-11-17 |  |
 | [Éxito & Riqueza](https://open.spotify.com/track/1dSnyuYhsBlD4DFV1coUWv) | [kunku\_arabe](https://open.spotify.com/artist/11gIrCC3WOekVJU2nF9o84) | [Éxito & Riqueza](https://open.spotify.com/album/4sRXyttQcHnfXsbezMrq7G) | 3:52 | 2024-07-24 |  |
+| [Şcreąm](https://open.spotify.com/track/7kylGTeeN4F2EdTdd9ILTb) | [Morg@n](https://open.spotify.com/artist/52mAgZb9Bb47DUbTkVTHZz), [o0Zay0o](https://open.spotify.com/artist/1ftuWlBifhQ7MmBuzT1RWI) | [Şcreąm](https://open.spotify.com/album/1r7rLfQ39zKjExdRHa1uvn) | 2:49 | 2026-02-10 |  |
 | [ЭРА](https://open.spotify.com/track/71pfeoPJ6reqTimj77r4HX) | [EZZZE](https://open.spotify.com/artist/318JArubWZ3Li1pml4il5a) | [ЭРА](https://open.spotify.com/album/6rWUYfvKqDCshEhFa1JKVa) | 3:01 | 2025-11-11 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Omah Lay, Shoday, Ruger, DJ Tunez, King Promise and Mr Eazi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,102 likes - 61 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,197 likes - 61 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

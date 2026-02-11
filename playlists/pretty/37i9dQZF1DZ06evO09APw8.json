@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 20015,
+  "num_followers": 20053,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABeoEUFD0plv1n7wRTzyfus",
+  "snapshot_id": "aYkjgAAAAABqe6iDXW+ZwP8wwzqeZUxJ",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 159495,
+      "name": "SAFE PLACE",
+      "url": "https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/3lcEjL8STyQO8JipxsnIqP"
       },
@@ -335,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 159495,
-      "name": "SAFE PLACE",
-      "url": "https://open.spotify.com/track/2R6jF4DMNAFKuhYgXZxqMu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PHOLKS",
         "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
       },
@@ -363,6 +363,26 @@
       "duration_ms": 190863,
       "name": "5MoreMinutes",
       "url": "https://open.spotify.com/track/5mf4gJaGjD5VAjOHDOo3mU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 207999,
+      "name": "I USED TO (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ"
     },
     {
       "added_at": null,
@@ -399,26 +419,6 @@
       "duration_ms": 283313,
       "name": "Until The End Of Time",
       "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 207999,
-      "name": "I USED TO (feat. Baby Rose)",
-      "url": "https://open.spotify.com/track/7Lx9TY1fYMAvOxk9GWFNkQ"
     },
     {
       "added_at": null,

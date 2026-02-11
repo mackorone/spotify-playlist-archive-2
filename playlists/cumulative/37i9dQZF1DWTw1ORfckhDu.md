@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,111 songs - 2 day 4 hr 47 min
+1,112 songs - 2 day 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,6 +692,7 @@
 | [oma tarina](https://open.spotify.com/track/6XSkjVF9rabSI4AEBDuKga) | [KähinäPate](https://open.spotify.com/artist/6rA8aAvLetQJNi8Dp8L01c) | [oma tarina](https://open.spotify.com/album/5I6ljn2PB9RjXKpPFGzmB6) | 3:32 | 2023-11-09 | 2023-11-17 |
 | [Oma Vika](https://open.spotify.com/track/1XVaev7QO2VXE9px7ZVYQU) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Oma Vika](https://open.spotify.com/album/263PqyFcT0ybALVIkRKZvt) | 2:57 | 2025-06-26 | 2025-09-05 |
 | [OMAKUVA](https://open.spotify.com/track/1Uj1Tda2aIvIP3qNRNMvDN) | [D1 DANI](https://open.spotify.com/artist/5xkRtoUiQ7UJ3WPEDZaKgx) | [OMAKUVA](https://open.spotify.com/album/2WutggA7sbLfixqKBWRv3j) | 3:03 | 2024-03-14 | 2024-04-05 |
+| [OMG \(feat\. Evelina\)](https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO), [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [OMG \(feat\. Evelina\)](https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d) | 3:21 | 2026-02-05 |  |
 | [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 | 2024-08-29 | 2024-09-13 |
 | [Onks se kuollu? \(feat\. Pihlaja\)](https://open.spotify.com/track/647n34NjL2NtvKTd0U0EBZ) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI), [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Onks se kuollu? \(feat\. Pihlaja\)](https://open.spotify.com/album/2IGkYJ4tZhFTyR5tPTl5Gj) | 2:39 | 2024-04-25 | 2024-07-05 |
 | [Onks se väärin \(feat\. Alina Burnet & JVG\)](https://open.spotify.com/track/4KLDps1W298pw97KmTL17p) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tello Tape](https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB) | 3:16 | 2025-12-11 |  |
@@ -996,7 +997,7 @@
 | [Turhaa](https://open.spotify.com/track/0DBKezbjOspWBoDdZFfTdu) | [Lyttä](https://open.spotify.com/artist/1u4Mhf4gOHmuUl6jfhRrDn), [Tohtori Getto](https://open.spotify.com/artist/2B97faqsVrAF7KGnS21TlY), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Kaks nimee](https://open.spotify.com/album/3qLb3UVN9hMTCSJ9H9Rq3Z) | 2:36 | 2024-02-29 | 2024-04-12 |
 | [TURVAT KII](https://open.spotify.com/track/4SgZSrBAplEFnqIW9btpVM) | [KähinäPate](https://open.spotify.com/artist/6rA8aAvLetQJNi8Dp8L01c) | [TURVAT KII](https://open.spotify.com/album/069qbLMU4TU7tUPwo2gXh0) | 2:55 | 2024-03-07 | 2024-03-22 |
 | [Tuu hakee sun mies \(feat\. Senya\)](https://open.spotify.com/track/7Hmw2A09c7o9g9SbtRT5ca) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuu hakee sun mies \(feat\. Senya\)](https://open.spotify.com/album/6DzW026bWi2rrGLDryPsIP) | 2:29 | 2025-04-17 | 2025-06-06 |
-| [Tuulta purjeisiin](https://open.spotify.com/track/6TlpSqesu3cFLa4tJcgRkC) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuulta purjeisiin](https://open.spotify.com/album/0RT64kLPZWjRD2XFPw3gpI) | 3:18 | 2025-11-20 |  |
+| [Tuulta purjeisiin](https://open.spotify.com/track/6TlpSqesu3cFLa4tJcgRkC) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuulta purjeisiin](https://open.spotify.com/album/0RT64kLPZWjRD2XFPw3gpI) | 3:18 | 2025-11-20 | 2026-02-11 |
 | [Tyhjä](https://open.spotify.com/track/0cDiCLdv3DR0KObUE4L3Zm) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Tyhjä](https://open.spotify.com/album/3q3y3cfi1JhuksxXlEPyPv) | 3:21 | 2025-03-06 | 2025-04-04 |
 | [Tyhmää](https://open.spotify.com/track/2zGCt8Nf4c9KvlM883rYJb) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [Tyhmää](https://open.spotify.com/album/2LXaYEFEKgtCwOh8tZ3uuR) | 2:21 | 2025-11-13 | 2026-01-15 |
 | [Tykkään](https://open.spotify.com/track/3heaaYQNPxuWq2OzQLDYhg) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Make Trap Great Again](https://open.spotify.com/album/6owFNJ6P5GhOuZunoNPSF1) | 3:06 | 2026-01-08 |  |

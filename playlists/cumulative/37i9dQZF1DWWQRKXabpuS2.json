@@ -4909,6 +4909,24 @@
     },
     {
       "album": {
+        "name": "Sayedati Al Arab",
+        "url": "https://open.spotify.com/album/6KojUAPJYWbkto1qSbnGfi"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321600,
+      "name": "Sayedati Al Arab",
+      "url": "https://open.spotify.com/track/7aEEyWk4tPuz78mC6Dx27v"
+    },
+    {
+      "album": {
         "name": "Sha'a Rabi",
         "url": "https://open.spotify.com/album/4DwOVSEePfdMFjAiyXyghG"
       },

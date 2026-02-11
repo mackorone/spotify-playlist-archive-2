@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Hades66
 
-[Spotify](https://open.spotify.com/user/spotify) - 548,982 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,076 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 3 | [Las Muñequitas](https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f) | [Mr Plata](https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [Las Muñequitas](https://open.spotify.com/album/7n15KecHJpMAvSLUpllKHu) | 3:13 |
 | 4 | [ALO](https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk) | [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl) | [ALO](https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy) | 2:25 |
 | 5 | [FANÁTICO](https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [FANÁTICO](https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z) | 3:55 |
-| 6 | [RIHANA](https://open.spotify.com/track/6pjGQ7mGGi2YxRKtqkJTan) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo) | [RIHANA](https://open.spotify.com/album/4gJ2YfhQ0COaQjVULDnfNq) | 2:36 |
+| 6 | [RIHANA](https://open.spotify.com/track/6pjGQ7mGGi2YxRKtqkJTan) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo), [High Galaxy Music](https://open.spotify.com/artist/6DX3eOyDrzIBvvBdZyxxqd) | [RIHANA](https://open.spotify.com/album/4gJ2YfhQ0COaQjVULDnfNq) | 2:36 |
 | 7 | [Dios los Bendiga \(feat\. Tito El Bambino\)](https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh) | [Dios los Bendiga \(feat\. Tito El Bambino\)](https://open.spotify.com/album/75L1b4ZIIgyJdhK7FccMwI) | 2:16 |
 | 8 | [Y si peleamos](https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Y si peleamos](https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY) | 3:12 |
 | 9 | [5 Estrellas \- W Sound 23](https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [5 Estrellas \- W Sound 23](https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 136 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 187 likes - 136 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 91 | [Before You Love Me](https://open.spotify.com/track/5x6GfRhKqnK06CzEVTUcc9) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP) | [Before You Love Me](https://open.spotify.com/album/1fpDo3COpXLZcS3d7uY2h2) | 2:55 |
 | 92 | [I Love You But You're Making Me Sad](https://open.spotify.com/track/1wkpY848iJvl8B93XqRZpS) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [I Love You But You're Making Me Sad](https://open.spotify.com/album/3BNara0XxzSHxw1ynSPRZP) | 2:55 |
 | 93 | [Boys Do Cry](https://open.spotify.com/track/6J7XDtuyQeqcZ6uQxdSpe6) | [CC Clarke](https://open.spotify.com/artist/3XS9mpXg2gu96uOeogDn1y) | [Boys Do Cry](https://open.spotify.com/album/2SZcLSepwoJC1ypxMSMtAi) | 2:46 |
-| 94 | [Good Time All The Time](https://open.spotify.com/track/7x1cMCQz8gCNkTqOU7TB7R) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Good Time All The Time](https://open.spotify.com/album/2lX0SIWgqbbHJOLjArC57h) | 3:12 |
-| 95 | [SIGN IT](https://open.spotify.com/track/0fXnyYPljuHzW3FRXAv9wP) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:09 |
+| 94 | [SIGN IT](https://open.spotify.com/track/0fXnyYPljuHzW3FRXAv9wP) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:09 |
+| 95 | [Good Time All The Time](https://open.spotify.com/track/7x1cMCQz8gCNkTqOU7TB7R) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Good Time All The Time](https://open.spotify.com/album/2lX0SIWgqbbHJOLjArC57h) | 3:12 |
 | 96 | [De l'or entre tes mains](https://open.spotify.com/track/0j7uxGJ7Epf7GhoZrbc4aH) | [Lou](https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg) | [Danser sur tes mots \(Version deluxe\)](https://open.spotify.com/album/4scYOlTVlXQvNWxqGX6TOk) | 3:17 |
 | 97 | [Fever](https://open.spotify.com/track/3QlC75jqpGZSpIi2xM0mfl) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Fever](https://open.spotify.com/album/2HEnmzQD2rjlbGzFnMhbxO) | 2:09 |
 | 98 | [Party In My Mind](https://open.spotify.com/track/6AyYs7KHYGCnb1262KBKoq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Party In My Mind](https://open.spotify.com/album/32935YTcbtHICTMQAzpYdv) | 2:39 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 135 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 136 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `AcJPiAAAAAD5V/MKx4HCEsvKYXVncAxr`
+Snapshot ID: `AcJVKAAAAADtsDShWNKoXdHgAN+t2pUU`

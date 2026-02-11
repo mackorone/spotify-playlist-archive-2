@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 65339,
+  "num_followers": 65346,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAAS6tpMtFa75g5pazqJMLlz",
+  "snapshot_id": "aYkjgAAAAADqmSWLfGnBvqcYttfJB3rM",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pel\u00edcula (Intervenida por Ximena Sari\u00f1ana)",
-        "url": "https://open.spotify.com/album/6k9ZfN94JcZC67UPDLuTDS"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 243797,
-      "name": "Pel\u00edcula - Intervenida por Ximena Sari\u00f1ana",
-      "url": "https://open.spotify.com/track/5fINk1PUFJA9NEqjm8WxHF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARADISO",
         "url": "https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9"
       },
@@ -611,22 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a la M\u00fasica Tropical (En Vivo)",
-        "url": "https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx"
+        "name": "Pel\u00edcula (Intervenida por Ximena Sari\u00f1ana)",
+        "url": "https://open.spotify.com/album/6k9ZfN94JcZC67UPDLuTDS"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 231424,
-      "name": "Pasito Tun Tun (with Ximena Sari\u00f1ana) - En Vivo",
-      "url": "https://open.spotify.com/track/6ofV5vpXVgXE9faaAq5k1o"
+      "duration_ms": 243797,
+      "name": "Pel\u00edcula - Intervenida por Ximena Sari\u00f1ana",
+      "url": "https://open.spotify.com/track/5fINk1PUFJA9NEqjm8WxHF"
     },
     {
       "added_at": null,
@@ -647,6 +627,26 @@
       "duration_ms": 239400,
       "name": "Mamita Santa",
       "url": "https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenaje a la M\u00fasica Tropical (En Vivo)",
+        "url": "https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 231424,
+      "name": "Pasito Tun Tun (with Ximena Sari\u00f1ana) - En Vivo",
+      "url": "https://open.spotify.com/track/6ofV5vpXVgXE9faaAq5k1o"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viendo Vemos",
-        "url": "https://open.spotify.com/album/5VffydBNDq78uI8GH22itk"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 198650,
-      "name": "Viendo Vemos",
-      "url": "https://open.spotify.com/track/2YuAAzb6H7V4h2nxH0IIdH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feliz Breakup",
         "url": "https://open.spotify.com/album/135jQqOPLRvdSdk5fFN4e0"
       },
@@ -731,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Existencia Kamikaze",
-        "url": "https://open.spotify.com/album/6fUzjJ4WJm5IfgJ9tONycP"
+        "name": "Viendo Vemos",
+        "url": "https://open.spotify.com/album/5VffydBNDq78uI8GH22itk"
       },
       "artists": [
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 197780,
-      "name": "Temes",
-      "url": "https://open.spotify.com/track/66LLNuHo95vCXZyYsKp33k"
+      "duration_ms": 198650,
+      "name": "Viendo Vemos",
+      "url": "https://open.spotify.com/track/2YuAAzb6H7V4h2nxH0IIdH"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Existencia Kamikaze",
+        "url": "https://open.spotify.com/album/6fUzjJ4WJm5IfgJ9tONycP"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 197780,
+      "name": "Temes",
+      "url": "https://open.spotify.com/track/66LLNuHo95vCXZyYsKp33k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Cosas Simples",
         "url": "https://open.spotify.com/album/4lZ99ROEF6NGeIOmce5bIW"
       },
@@ -795,26 +795,6 @@
       "duration_ms": 217168,
       "name": "Las Cosas Simples",
       "url": "https://open.spotify.com/track/0o0F4TAYTl4U9BUfvg7KFW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 231720,
-      "name": "La chula (with Ximena Sari\u00f1ana) - MTV Unplugged",
-      "url": "https://open.spotify.com/track/03aNG7WrtBVPh0gEtc8YuH"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 231720,
+      "name": "La chula (with Ximena Sari\u00f1ana) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/03aNG7WrtBVPh0gEtc8YuH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Es Igual",
         "url": "https://open.spotify.com/album/1gQ9pDMmLrEC6GHEKNzBBZ"
       },
@@ -887,22 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malcriado",
-        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
+        "name": "Amor Adolescente",
+        "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
       },
       "artists": [
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Sophia Perusquia",
+          "url": "https://open.spotify.com/artist/7eVOtn6Yckxj6jlfZMTrKR"
         }
       ],
-      "duration_ms": 195075,
-      "name": "Fetiche",
-      "url": "https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm"
+      "duration_ms": 49081,
+      "name": "Sophia",
+      "url": "https://open.spotify.com/track/0MQJCeRaKenhuEN1r6rO2A"
     },
     {
       "added_at": null,
@@ -927,22 +927,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Adolescente",
-        "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
+        "name": "Malcriado",
+        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         },
         {
-          "name": "Sophia Perusquia",
-          "url": "https://open.spotify.com/artist/7eVOtn6Yckxj6jlfZMTrKR"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 49081,
-      "name": "Sophia",
-      "url": "https://open.spotify.com/track/0MQJCeRaKenhuEN1r6rO2A"
+      "duration_ms": 195075,
+      "name": "Fetiche",
+      "url": "https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuevos Aires",
+        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 212894,
+      "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
+      "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
     },
     {
       "added_at": null,
@@ -979,26 +999,6 @@
       "duration_ms": 228906,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nuevos Aires",
-        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 212894,
-      "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
-      "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
     },
     {
       "added_at": null,

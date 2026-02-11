@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Kelsea Ballerini and Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,540 likes - 143 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,517 likes - 143 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-299 songs - 1 day 0 hr 34 min
+300 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Can't Stop the Feeling](https://open.spotify.com/track/0NsigEyiIwuysCjeU9EhRU) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/15G5lWobigPCcfut6h0eaD) | 3:28 | 2023-10-03 | 2023-11-11 |
 | [Can't Stop the Feeling](https://open.spotify.com/track/5CTd3hqGRzb8FYu7M2j9JE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/6qLxGWZeEO8XcScqKQ7tqZ) | 3:28 | 2022-10-21 | 2023-05-09 |
 | [Cathedral](https://open.spotify.com/track/6xqpsapUDne75YlKSfVgPA) | [Bouras](https://open.spotify.com/artist/5Lu7JOTiNvqjQswt0Uyms2), [ATLANTE \(FR\)](https://open.spotify.com/artist/25FteQX2fjFPB5hJNkAMFJ) | [Cathedral](https://open.spotify.com/album/5sf5dvrHT0c3TPR3n7fQ2H) | 4:11 | 2025-12-05 |  |
-| [Chaos \- Rave Mix](https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Chaos](https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs) | 4:00 | 2024-07-12 |  |
+| [Chaos \- Rave Mix](https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Chaos](https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs) | 4:00 | 2024-07-12 | 2026-02-11 |
 | [Checkmate](https://open.spotify.com/track/4WXu03JF0IF5royyfgJ7Fl) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO), [Andrea Botez](https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd) | [Checkmate](https://open.spotify.com/album/4jmiczml2DXJ5idy60KGwY) | 3:27 | 2025-09-26 | 2025-12-19 |
 | [Choir Of Spirits](https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd) | 6:45 | 2022-07-05 | 2023-10-17 |
 | [Choir Of Spirits](https://open.spotify.com/track/6BqmhyqTFbAXD5M8WnqhIM) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Choir Of Spirits](https://open.spotify.com/album/2lC45D73TicbOMEI1a8Fk7) | 6:45 | 2023-10-13 | 2024-04-19 |
@@ -141,6 +141,7 @@
 | [Kummer](https://open.spotify.com/track/145D2Gzn5X1ScHZywCmWqM) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [DIE TONIGHT EP](https://open.spotify.com/album/6ctoVbtzXSqLZqwjW428Zg) | 3:14 | 2025-08-08 | 2026-02-05 |
 | [Latin Lovers \- Joyhauser Remix](https://open.spotify.com/track/1YB65Lo727ADbfvuFax3Fe) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Latin Lovers \(Joyhauser Remix & Original\)](https://open.spotify.com/album/5owm5X6ySLbMkBrFvExxO9) | 4:35 | 2024-08-16 | 2025-09-01 |
 | [Legacy](https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Legacy](https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b) | 6:49 | 2024-02-16 |  |
+| [Let the Bass Kick](https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Let the Bass Kick](https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul) | 2:26 | 2026-02-04 |  |
 | [Let's Be Free](https://open.spotify.com/track/2zbHr6Xp7gc9LUKeDWB7pB) | [Kaspar](https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC) | [Let's Be Free](https://open.spotify.com/album/2RQ7Tg8QJ46zF4jkiF1dAE) | 6:02 | 2022-11-25 | 2023-01-05 |
 | [Life](https://open.spotify.com/track/0hgBCww9bE8ufZPndRdURi) | [2088](https://open.spotify.com/artist/4m1zEw1eweA16IcRBIWxNo) | [Life](https://open.spotify.com/album/7lViivbC59hJG6hr6aYuJj) | 6:09 | 2022-07-05 | 2022-07-12 |
 | [Lift Me Up](https://open.spotify.com/track/72TMpXTDPAo7aWpHleue8S) | [Oliver Rauch](https://open.spotify.com/artist/69A0XvHkEgLaSNelHsSuuV) | [Lift Me Up](https://open.spotify.com/album/69wmSV0itJ2bNrv0kEUsga) | 5:51 | 2022-07-05 | 2022-07-10 |

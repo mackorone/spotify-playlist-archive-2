@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Jasleen Royal
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,670 likes - 95 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,787 likes - 95 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 55 | [Jhol \- Acoustic](https://open.spotify.com/track/44LaY2y6wRRlSRjsqbKnuU) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Jhol \- Acoustic](https://open.spotify.com/album/1z8pfDEtCC0CxAOVT9IYkS) | 4:37 |
 | 56 | [O Maahi](https://open.spotify.com/track/6bmmHeCvZI92pRiTHxEdTC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Dunki](https://open.spotify.com/album/6mOSDGo8ZREISAbaiTMW5J) | 3:53 |
 | 57 | [Tauba Tauba](https://open.spotify.com/track/25Nxyrng0Z3jC5Q0hAibpw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Bad Newz](https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW) | 3:27 |
-| 58 | [Sang Rahiyo](https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Ujjwal Kashyap](https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq) | [Sang Rahiyo](https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ) | 3:33 |
+| 58 | [Sang Rahiyo](https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Ujjwal Kashyap](https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Sang Rahiyo](https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ) | 3:33 |
 | 59 | [Tujhe Kitna Chahne Lage \(From "Kabir Singh"\)](https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6) | [Tujhe Kitna Chahne Lage \(From "Kabir Singh"\)](https://open.spotify.com/album/3I8PdIhk6pNm8Kv0HiF14V) | 4:44 |
 | 60 | [Kinni Kinni](https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 3:33 |
 | 61 | [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Aaj Ki Raat \(From "Stree 2"\)](https://open.spotify.com/album/2P2orRpVU0F2Z1HGTi7AiS) | 3:48 |

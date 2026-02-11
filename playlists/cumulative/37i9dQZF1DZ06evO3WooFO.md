@@ -4,7 +4,7 @@
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 28 min
+108 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,13 +41,14 @@
 | [Disaster](https://open.spotify.com/track/5bEDnPCC90lizjjpxx2Gs9) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:42 | 2025-03-30 |  |
 | [Dogs Eating Dogs](https://open.spotify.com/track/5uqOdeWBd2gFKUAJPoy1q6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:30 | 2022-01-11 | 2025-05-31 |
 | [Don't Leave Me](https://open.spotify.com/track/1IAeSajljaXAkLZKXBZnE8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:23 | 2022-08-02 | 2024-07-24 |
-| [Down](https://open.spotify.com/track/4nXKO951m6TdWQQbH1KJH3) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:03 | 2022-01-11 |  |
+| [Down](https://open.spotify.com/track/1e1krgHCTUGDhhIgsRVHJ0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 3:03 | 2026-02-11 |  |
+| [Down](https://open.spotify.com/track/4nXKO951m6TdWQQbH1KJH3) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:03 | 2022-01-11 | 2026-02-11 |
 | [Dumpweed](https://open.spotify.com/track/5SlKhaPcdIfSjpoM2QtM4C) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:23 | 2022-01-11 |  |
 | [Dysentery Gary](https://open.spotify.com/track/0nGBoXoR5o9srQlP0BAZ1Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:45 | 2023-08-01 | 2024-07-21 |
 | [EDGING](https://open.spotify.com/track/6TcIJj5tKwaYXZI5Egx8U8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:29 | 2023-12-22 |  |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2022-10-15 | 2023-11-11 |
 | [Even If She Falls](https://open.spotify.com/track/1ZwFmhnj8GABP4P00lcvj9) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 2:59 | 2023-09-15 | 2023-11-11 |
-| [Even If She Falls](https://open.spotify.com/track/4s7qEhuFacYJMJjTISwTSo) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 2:59 | 2022-05-03 |  |
+| [Even If She Falls](https://open.spotify.com/track/4s7qEhuFacYJMJjTISwTSo) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 2:59 | 2022-05-03 | 2026-02-11 |
 | [EVERY OTHER WEEKEND](https://open.spotify.com/track/2m1ehaOMy2h8Gfi8bnC2D4) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 2:44 | 2024-09-08 | 2024-12-01 |
 | [Every Time I Look For You](https://open.spotify.com/track/0V7Wn8Fry7KBO5stYqpFvM) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:05 | 2022-01-11 |  |
 | [EVERYONE EVERYWHERE](https://open.spotify.com/track/4BbnpMp2j5GJzIjiDEFA6z) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:03 | 2024-09-08 | 2024-09-13 |
@@ -99,7 +100,7 @@
 | [She's Out Of Her Mind](https://open.spotify.com/track/4vQ6z9ZL5mdcQLmbZBvXrl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 2:42 | 2023-12-13 |  |
 | [She's Out Of Her Mind](https://open.spotify.com/track/6EE19skJ32p58xihYj2Waa) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 2:42 | 2022-01-11 | 2023-12-14 |
 | [Sober](https://open.spotify.com/track/3XNwHDhzksSGjQf2jBCsih) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 2:59 | 2022-01-11 | 2023-11-11 |
-| [Sometimes](https://open.spotify.com/track/1e6fOolUT77GWYvTVHHDkL) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Buddha](https://open.spotify.com/album/5I6NuHaiAe8nz2cC2ZPqBw) | 1:04 | 2025-05-16 | 2026-01-29 |
+| [Sometimes](https://open.spotify.com/track/1e6fOolUT77GWYvTVHHDkL) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Buddha](https://open.spotify.com/album/5I6NuHaiAe8nz2cC2ZPqBw) | 1:04 | 2025-05-16 |  |
 | [Stay Together For The Kids](https://open.spotify.com/track/3YD9EehnGOf88rGSZFrnHg) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:59 | 2022-01-11 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/5TxY7O9lFJJrd22FmboAXe) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:41 | 2022-01-11 | 2024-07-19 |
 | [Story Of A Lonely Guy](https://open.spotify.com/track/6c9UjtsLpfK5hTwTrdRDbR) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:39 | 2024-06-21 | 2024-06-22 |

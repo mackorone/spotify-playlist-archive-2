@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108293,
+      "name": "Ma Cherry (SANA)",
+      "url": "https://open.spotify.com/track/2X77m9e7LeLNRwGifHwPXQ"
+    },
+    {
+      "album": {
         "name": "My Man",
         "url": "https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg"
       },

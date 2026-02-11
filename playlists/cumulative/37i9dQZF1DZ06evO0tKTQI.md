@@ -4,7 +4,7 @@
 
 > This is Bratty\. The essential tracks, all in one playlist.
 
-65 songs - 3 hr 32 min
+66 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Salvador \- Acústico](https://open.spotify.com/track/4aGrxClh4bu8BxJjiEy6X7) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Segunda Piel Revisitado \(Acústico\)](https://open.spotify.com/album/2jctUnh6VWFecQQhE6ZYVB) | 4:14 | 2024-05-07 | 2025-04-03 |
 | [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 | 2023-11-10 |  |
 | [Shh](https://open.spotify.com/track/2FoUIyGK8ddv0LQQWrd5Ie) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:10 | 2023-11-10 |  |
+| [siempre quiero +](https://open.spotify.com/track/6uYAESroN4MLNbrUpddVgU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [siempre quiero +](https://open.spotify.com/album/0PktceOqLoT7kreoTfi38Z) | 3:10 | 2026-02-11 |  |
 | [Sobredósis De Tempra](https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Sobredósis De Tempra](https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN) | 2:58 | 2023-11-10 |  |
 | [tarde](https://open.spotify.com/track/2snboRLa5IkMkMAohyxEYN) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:31 | 2023-11-10 | 2025-03-05 |
 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 | 2023-11-10 |  |

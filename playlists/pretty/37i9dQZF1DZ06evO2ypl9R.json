@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAAj6+I0NJoTLbMHStW1ZEIT",
+  "snapshot_id": "aYkjgAAAAAADtGILPMR1Mm0opSl8TiQ7",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 567721,
+      "name": "Wut IZ Style?",
+      "url": "https://open.spotify.com/track/1mwMaWjLGCRehwM1f6FZdn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Envision Remixes",
         "url": "https://open.spotify.com/album/6h5GzvE8M453rbfa8NKjwK"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 556306,
       "name": "Envision - \u00c2me Remix",
       "url": "https://open.spotify.com/track/7IXVjnFnFsGQ21qBV3Uo1T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 567721,
-      "name": "Wut IZ Style?",
-      "url": "https://open.spotify.com/track/1mwMaWjLGCRehwM1f6FZdn"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 323262,
+      "name": "Don\u2019t Ever Look Back",
+      "url": "https://open.spotify.com/track/0GcwozvQwoXOcCbIyrW9zC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Feel For You (Yoruba Soul Remixes)",
         "url": "https://open.spotify.com/album/1cCnQtwVprQDiKoAX9Nwqp"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 323262,
-      "name": "Don\u2019t Ever Look Back",
-      "url": "https://open.spotify.com/track/0GcwozvQwoXOcCbIyrW9zC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dionne / What Gets You High?",
         "url": "https://open.spotify.com/album/1YZPa1oZN6tpuPCt26V15H"
       },
@@ -239,22 +239,6 @@
       "duration_ms": 239495,
       "name": "What Gets You High?",
       "url": "https://open.spotify.com/track/1fiXqAJ376nJ5rRfjDNW6c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prism EP",
-        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 340792,
-      "name": "Sistagurl",
-      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
     },
     {
       "added_at": null,
@@ -275,6 +259,42 @@
       "duration_ms": 388777,
       "name": "Pride (Main Mix)",
       "url": "https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prism EP",
+        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 340792,
+      "name": "Sistagurl",
+      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starbase 17",
+        "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
+      },
+      "artists": [
+        {
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 375128,
+      "name": "YOUniversal Love",
+      "url": "https://open.spotify.com/track/7fLfJbK21ZnYy5dzzSK9Jr"
     },
     {
       "added_at": null,
@@ -311,26 +331,6 @@
       "duration_ms": 287043,
       "name": "Recovery Music",
       "url": "https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Starbase 17",
-        "url": "https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg"
-      },
-      "artists": [
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 375128,
-      "name": "YOUniversal Love",
-      "url": "https://open.spotify.com/track/7fLfJbK21ZnYy5dzzSK9Jr"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elements Beyond",
+        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 470506,
+      "name": "April",
+      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Drawing Board",
         "url": "https://open.spotify.com/album/1rhHpHi0n3ZqE9tP28SUVL"
       },
@@ -423,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chill Out (Sit Back And Relax)",
-        "url": "https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        }
-      ],
-      "duration_ms": 229268,
-      "name": "Envisions - \u00c2me Acoustic Remix",
-      "url": "https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOSS",
         "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
       },
@@ -455,22 +451,6 @@
       "duration_ms": 200647,
       "name": "FLWN",
       "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elements Beyond",
-        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 470506,
-      "name": "April",
-      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
     },
     {
       "added_at": null,
@@ -495,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Note Revisited",
-        "url": "https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h"
+        "name": "Chill Out (Sit Back And Relax)",
+        "url": "https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
         }
       ],
-      "duration_ms": 283400,
-      "name": "A Time To Remember - Remix",
-      "url": "https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy"
+      "duration_ms": 229268,
+      "name": "Envisions - \u00c2me Acoustic Remix",
+      "url": "https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE"
     },
     {
       "added_at": null,
@@ -547,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 171668,
-      "name": "The Roads Of Kenya",
-      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brand New Feeling - Yoruba Soul Remixes",
         "url": "https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE"
       },
@@ -591,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Note Revisited",
+        "url": "https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 283400,
+      "name": "A Time To Remember - Remix",
+      "url": "https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INvite ONly",
         "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 258617,
       "name": "Plantation Earth",
       "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 171668,
+      "name": "The Roads Of Kenya",
+      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
     },
     {
       "added_at": null,
@@ -647,62 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pyrography",
-        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 217756,
-      "name": "A Day Without U",
-      "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cantos A Ochun et Oya [Juan Valentine ReEdit]",
-        "url": "https://open.spotify.com/album/6k6ANYZCzmhF4KyKxUsPMx"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Frankie Feliciano",
-          "url": "https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej"
-        },
-        {
-          "name": "Juan Valentine",
-          "url": "https://open.spotify.com/artist/3GDUvKkbqtscZQHS8Zrzni"
-        }
-      ],
-      "duration_ms": 425011,
-      "name": "Cantos a Ochun et Oya - Juan Valentine Re-Edit",
-      "url": "https://open.spotify.com/track/7CmRM4JiOswdLdF28NyajZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
         "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
       },
@@ -739,38 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 275419,
-      "name": "Booty Call",
-      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natives Tongue",
-        "url": "https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 236303,
-      "name": "Natives Tongue",
-      "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pyrography",
         "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
@@ -780,15 +692,15 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 169349,
-      "name": "Intro (Solemait)",
-      "url": "https://open.spotify.com/track/0yUIO5AhRDop02PKzsMn4P"
+      "duration_ms": 217756,
+      "name": "A Day Without U",
+      "url": "https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
       },
       "artists": [
         {
@@ -796,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
     },
     {
       "added_at": null,
@@ -823,6 +735,94 @@
       "duration_ms": 258019,
       "name": "Reign",
       "url": "https://open.spotify.com/track/3apFVRHxFDn8fHOcdJcUKf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cantos A Ochun et Oya [Juan Valentine ReEdit]",
+        "url": "https://open.spotify.com/album/6k6ANYZCzmhF4KyKxUsPMx"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Frankie Feliciano",
+          "url": "https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej"
+        },
+        {
+          "name": "Juan Valentine",
+          "url": "https://open.spotify.com/artist/3GDUvKkbqtscZQHS8Zrzni"
+        }
+      ],
+      "duration_ms": 425011,
+      "name": "Cantos a Ochun et Oya - Juan Valentine Re-Edit",
+      "url": "https://open.spotify.com/track/7CmRM4JiOswdLdF28NyajZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 169349,
+      "name": "Intro (Solemait)",
+      "url": "https://open.spotify.com/track/0yUIO5AhRDop02PKzsMn4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natives Tongue",
+        "url": "https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 236303,
+      "name": "Natives Tongue",
+      "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 514164,
+      "name": "Black Woman Cry",
+      "url": "https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 275419,
+      "name": "Booty Call",
+      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We Call Love",
         "url": "https://open.spotify.com/album/1FCRVkwVO9nrIzEWrIoYhv"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 378026,
       "name": "We Call Love",
       "url": "https://open.spotify.com/track/0orJzfilEns6w4Qo7TMibG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 514164,
-      "name": "Black Woman Cry",
-      "url": "https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 78418,
+  "num_followers": 78484,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAADUeI9G8OGrb/FyU/vB+o4",
+  "snapshot_id": "aYkjgAAAAADN22MSiDgxftUWw2reyi0L",
   "tracks": [
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 180050,
-      "name": "Soy La Suerte",
-      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
+      "duration_ms": 179050,
+      "name": "Sabe Lo Que Trae",
+      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 179050,
-      "name": "Sabe Lo Que Trae",
-      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
+      "duration_ms": 180050,
+      "name": "Soy La Suerte",
+      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Vida Que Nos Toco",
+        "url": "https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 174615,
+      "name": "Si Tu Jalas Yo Jalo",
+      "url": "https://open.spotify.com/track/2bO9xZpD5nOiel1GvGr1xG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Perder El Estilo",
         "url": "https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF"
       },
@@ -379,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida Que Nos Toco",
-        "url": "https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp"
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
       },
       "artists": [
         {
@@ -388,9 +404,25 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 174615,
-      "name": "Si Tu Jalas Yo Jalo",
-      "url": "https://open.spotify.com/track/2bO9xZpD5nOiel1GvGr1xG"
+      "duration_ms": 168213,
+      "name": "Ella Sali\u00f3 a Bailar",
+      "url": "https://open.spotify.com/track/4v0onUOF5JnWFEqQ3qlCSV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200070,
+      "name": "El de la Gorra 27",
+      "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
     },
     {
       "added_at": null,
@@ -415,22 +447,6 @@
       "duration_ms": 195242,
       "name": "Hierba de Receta",
       "url": "https://open.spotify.com/track/2ApWM2QZy7n5zZxwaCvH6j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200070,
-      "name": "El de la Gorra 27",
-      "url": "https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA"
     },
     {
       "added_at": null,
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "Ella Sali\u00f3 a Bailar",
-      "url": "https://open.spotify.com/track/4v0onUOF5JnWFEqQ3qlCSV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -507,6 +507,42 @@
       "duration_ms": 198582,
       "name": "C\u00f3mo Los Vaqueros",
       "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 166917,
+      "name": "Ya No Se Olvidarte",
+      "url": "https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Te Guffi - Remix",
+        "url": "https://open.spotify.com/album/4CLCaJZKlWYM2X8DT7PGK1"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "Como Te Guffi - Remix",
+      "url": "https://open.spotify.com/track/4S7G1heGcYCIZZfE8QSfnj"
     },
     {
       "added_at": null,
@@ -547,18 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+        "name": "Pa' Olvidarme de tus Besos",
+        "url": "https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 166917,
-      "name": "Ya No Se Olvidarte",
-      "url": "https://open.spotify.com/track/45jKkZbNaffSkV29TZr6CX"
+      "duration_ms": 187448,
+      "name": "Pa' Olvidarme de tus Besos",
+      "url": "https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN"
     },
     {
       "added_at": null,
@@ -587,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Olvidarme de tus Besos",
-        "url": "https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 187448,
-      "name": "Pa' Olvidarme de tus Besos",
-      "url": "https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bien Positivo",
         "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
@@ -627,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Te Guffi - Remix",
-        "url": "https://open.spotify.com/album/4CLCaJZKlWYM2X8DT7PGK1"
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
       "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 186750,
-      "name": "Como Te Guffi - Remix",
-      "url": "https://open.spotify.com/track/4S7G1heGcYCIZZfE8QSfnj"
+      "duration_ms": 175090,
+      "name": "24/7 Dolido",
+      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
     },
     {
       "added_at": null,
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+        "name": "Seguimos Adelante",
+        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 175090,
-      "name": "24/7 Dolido",
-      "url": "https://open.spotify.com/track/6SOEnAfMK7T4rzW3dsHrLk"
+      "duration_ms": 155730,
+      "name": "Estas Ganas de Tomar",
+      "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Adelante",
-        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 155730,
-      "name": "Estas Ganas de Tomar",
-      "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estrenando Amante",
         "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
       },
@@ -735,46 +735,6 @@
       "duration_ms": 168546,
       "name": "Estrenando Amante",
       "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Atreves A Pecar",
-        "url": "https://open.spotify.com/album/1aOpxtDib9iNhjwJdQTqIy"
-      },
-      "artists": [
-        {
-          "name": "Los Bohemios de Sinaloa",
-          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 172839,
-      "name": "Te Atreves A Pecar",
-      "url": "https://open.spotify.com/track/3PUBzloHZxJseSDkuNdl5X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Our Wave Nuestra Ola",
-        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 179905,
-      "name": "The King of Ice",
-      "url": "https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE"
     },
     {
       "added_at": null,
@@ -815,6 +775,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eso Es La Riqueza",
+        "url": "https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Eso Es La Riqueza",
+      "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Our Wave Nuestra Ola",
+        "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 179905,
+      "name": "The King of Ice",
+      "url": "https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Gordo",
         "url": "https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA"
       },
@@ -835,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Vueltas de la Vida",
-        "url": "https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW"
+        "name": "Te Atreves A Pecar",
+        "url": "https://open.spotify.com/album/1aOpxtDib9iNhjwJdQTqIy"
       },
       "artists": [
+        {
+          "name": "Los Bohemios de Sinaloa",
+          "url": "https://open.spotify.com/artist/3x1ZLPgWf6jDKeGUifNxE7"
+        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 246946,
-      "name": "Las Vueltas de la Vida",
-      "url": "https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl"
+      "duration_ms": 172839,
+      "name": "Te Atreves A Pecar",
+      "url": "https://open.spotify.com/track/3PUBzloHZxJseSDkuNdl5X"
     },
     {
       "added_at": null,
@@ -871,22 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eso Es La Riqueza",
-        "url": "https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3"
+        "name": "Las Vueltas de la Vida",
+        "url": "https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW"
       },
       "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 174693,
-      "name": "Eso Es La Riqueza",
-      "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
+      "duration_ms": 246946,
+      "name": "Las Vueltas de la Vida",
+      "url": "https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl"
     },
     {
       "added_at": null,

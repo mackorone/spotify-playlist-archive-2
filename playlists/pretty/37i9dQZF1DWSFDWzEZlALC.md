@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: rosmarin
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,427 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,392 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [leere worte](https://open.spotify.com/track/4I1EzAKn3BZECQfwszQGrg) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK), [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [leere worte](https://open.spotify.com/album/6bbRgY24yo7JVP932em24f) | 3:12 |
 | 2 | [kommst du runter, bin hier](https://open.spotify.com/track/52LgwKKkEroZ8tWFNO8rrG) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [kommst du runter, bin hier](https://open.spotify.com/album/2kG3sIChyIUW7fJDeiIUm5) | 2:41 |
-| 3 | [wen INTERESSIERTS.](https://open.spotify.com/track/7LWjUgzHKlria6VuM3WkFt) | [Laika Allein](https://open.spotify.com/artist/6ZI1Y5HJTs6aomTpuo1eqn), [hansi.media](https://open.spotify.com/artist/6yf1FDnl0JrQCUAHfx2IvP), [Rio Soul](https://open.spotify.com/artist/7iB4kePW3SASn69znn4RQM) | [wen INTERESSIERTS.](https://open.spotify.com/album/4djYXMzlOahgRd72pWoSDY) | 3:04 |
-| 4 | [24](https://open.spotify.com/track/2KQI8OvWiO3Dc4qI11ph0h) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [24](https://open.spotify.com/album/2mwxpip46E0BT2DPXW9LVo) | 3:31 |
+| 3 | [TANZSCHEIN](https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q) | [COSMÓ](https://open.spotify.com/artist/5nbBY85e9IUeoz6vr9EdQM) | [TANZSCHEIN](https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix) | 2:42 |
+| 4 | [blinde passagiere](https://open.spotify.com/track/6hWgRtdEqiHEyYJH9qk4Fh) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [blinde passagiere](https://open.spotify.com/album/1V1ibDiBGqIhChSZ3EHONo) | 3:04 |
 | 5 | [In Nächten Wie Diesen](https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [WIR](https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd) | 3:27 |
-| 6 | [TANZSCHEIN](https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q) | [COSMÓ](https://open.spotify.com/artist/5nbBY85e9IUeoz6vr9EdQM) | [TANZSCHEIN](https://open.spotify.com/album/1x70VU6LDfmoLdL8OgaKix) | 2:42 |
-| 7 | [blinde passagiere](https://open.spotify.com/track/6hWgRtdEqiHEyYJH9qk4Fh) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [blinde passagiere](https://open.spotify.com/album/1V1ibDiBGqIhChSZ3EHONo) | 3:04 |
+| 6 | [24](https://open.spotify.com/track/2KQI8OvWiO3Dc4qI11ph0h) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [24](https://open.spotify.com/album/2mwxpip46E0BT2DPXW9LVo) | 3:31 |
+| 7 | [wen INTERESSIERTS.](https://open.spotify.com/track/7LWjUgzHKlria6VuM3WkFt) | [Laika Allein](https://open.spotify.com/artist/6ZI1Y5HJTs6aomTpuo1eqn), [hansi.media](https://open.spotify.com/artist/6yf1FDnl0JrQCUAHfx2IvP), [Rio Soul](https://open.spotify.com/artist/7iB4kePW3SASn69znn4RQM) | [wen INTERESSIERTS.](https://open.spotify.com/album/4djYXMzlOahgRd72pWoSDY) | 3:04 |
 | 8 | [PINOCCHIO](https://open.spotify.com/track/18tyqyDTt7UqTaVSKc18Bn) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [PINOCCHIO](https://open.spotify.com/album/200tPb3IQw1l3sqqRi4jBk) | 2:42 |
 | 9 | [Lärm](https://open.spotify.com/track/1DT9aoFj8NaU030v0ulEqf) | [Haus F](https://open.spotify.com/artist/29oAnuHTt0nstMUpXooF6R) | [Lärm](https://open.spotify.com/album/34c0s3KnxOt1kejKFHBLQZ) | 2:34 |
 | 10 | [fremdknutschen](https://open.spotify.com/track/74jHaJ6g2IVxQtwchMLVxN) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [wünsch dir was ep](https://open.spotify.com/album/3CmUJUponEobaD7etkPeB1) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Haifischbecken](https://open.spotify.com/track/2ppiU0ulKCsMTbA72tUa5k) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Haifischbecken](https://open.spotify.com/album/6rfaLEpqZaRoEIg1Q8JP27) | 3:12 |
 | 75 | [DARF SIE DAS?](https://open.spotify.com/track/5nGrPZhDZi6iTqh8r0zmwx) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DARF SIE DAS?](https://open.spotify.com/album/30v3UHd96GVyvaEV6o1a6C) | 2:14 |
 
-Snapshot ID: `AAAAAEHnDCK+Jehhe4O9lVmTQRd7/e29`
+Snapshot ID: `AAAAAM1lCxQsZ7eTCTJE+syFJQusVmYY`

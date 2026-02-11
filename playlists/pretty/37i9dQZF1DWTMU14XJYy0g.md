@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 No Te Va Gustar con Ciro & Los Persas
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,075 likes - 101 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,071 likes - 101 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 2 | [Asuntos Pendientes](https://open.spotify.com/track/3fqQkByxxQm2qllggZlpN7) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Asuntos Pendientes](https://open.spotify.com/album/5Vr0HbJRdCJrFnW6h31GOe) | 3:26 |
 | 3 | [Nada para siempre \- Spotify Sessions](https://open.spotify.com/track/3aFpghYTgEFXdPfCPwljPD) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Peces Raros \- Spotify Sessions](https://open.spotify.com/album/5LD3GtufkvMOetFtAQiuNL) | 5:03 |
 | 4 | [La Noche De Ayer](https://open.spotify.com/track/3zP3i3HvBoESs7blohlvsi) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [FLORECE EN EL CAOS](https://open.spotify.com/album/1dFtJQK4H3PlsaPP2WZrdl) | 3:29 |
-| 5 | [Bicho de Ciudad \- Spotify Sessions](https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 4:46 |
+| 5 | [Bicho de Ciudad \- Spotify Sessions](https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 4:46 |
 | 6 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 |
 | 7 | [El Garca](https://open.spotify.com/track/3qyC8GF9eohAxZlLPynr7W) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [El Garca](https://open.spotify.com/album/7El1W1v6VaTuy0BZS7EEu1) | 4:54 |
 | 8 | [Películas De Acción](https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Películas De Acción](https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk) | 3:33 |

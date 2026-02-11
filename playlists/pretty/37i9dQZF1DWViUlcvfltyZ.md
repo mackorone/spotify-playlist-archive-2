@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Les Votives in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,088 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,078 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 83 | [Tragedy](https://open.spotify.com/track/2VFEjS42V3FvfLaBTDWKKP) | [WEL](https://open.spotify.com/artist/23iYgEmMtShtCyd0S29K3v), [Why Everyone Left](https://open.spotify.com/artist/3ygHyLDzZuoXW6nPeUNRhQ) | [Tragedy](https://open.spotify.com/album/3qUuPrWf5NjWR29GdcpJnt) | 2:40 |
 | 84 | [Ritmo Lento](https://open.spotify.com/track/3v5EEAqc29kj2zvzFXhdgv) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Ritmo Lento](https://open.spotify.com/album/2bcQDosnSgYGhFWPHX8oqi) | 3:00 |
 | 85 | [Roma Teheran](https://open.spotify.com/track/6xOLu7KmQmNt8VIl2prsuB) | [Il Nemico](https://open.spotify.com/artist/3akHRSGt7WDU8cuzmwbZTY) | [Non Fare Domande](https://open.spotify.com/album/3YGUHwrUapKwchOYBSH0nt) | 3:33 |
-| 86 | [L'arca dei nuovi maestri](https://open.spotify.com/track/5ONA8c8ZexzY8sMx8YwFEr) | [Festa del Perdono](https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5) | [Galactic Night Pt.2: L'arca dei nuovi maestri](https://open.spotify.com/album/6jCpV1oeLl7kEwW7uEhDia) | 3:04 |
+| 86 | [L'arca dei nuovi maestri](https://open.spotify.com/track/5ONA8c8ZexzY8sMx8YwFEr) | [Festa del Perdono](https://open.spotify.com/artist/0GXRolWpwHyGYUrclouuX5) | [Galactic Jazz Night Pt.2: L'arca dei nuovi maestri](https://open.spotify.com/album/6jCpV1oeLl7kEwW7uEhDia) | 3:04 |
 | 87 | [Ricordi](https://open.spotify.com/track/5M5NTwHNNLgoOKSMoatBEk) | [Atlante](https://open.spotify.com/artist/0xLBGvXZZt5vhuTOtqXrvY) | [Ricordi](https://open.spotify.com/album/5JpzCQH4KimLOWZlj5XFpZ) | 3:17 |
 | 88 | [Nati Inciampati](https://open.spotify.com/track/0mF3hBVmWoJj0JFpGXfxwh) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Nati Inciampati](https://open.spotify.com/album/723h0rH3uw8CQ8LKj3mPYQ) | 3:45 |
 | 89 | [Left Behind](https://open.spotify.com/track/7s7khJzZY9msU7ylxVJCd9) | [Painted Vein](https://open.spotify.com/artist/1Yz4iQXuDT8WRluhIxYHLa) | [Left Behind](https://open.spotify.com/album/3JYVaLMq6QBneVXbymOmHd) | 3:33 |

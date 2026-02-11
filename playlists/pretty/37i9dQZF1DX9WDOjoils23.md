@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,965 likes - 50 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,016 likes - 50 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 49 | [Jo Tere Gham Nu](https://open.spotify.com/track/0I7ZLpEWBn9DXQhih1wzCc) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [The Most Sad Songs](https://open.spotify.com/album/60SeyXXalnr8jNzxYgGBJi) | 5:12 |
 | 50 | [19 ton 21](https://open.spotify.com/track/4ehvrW0P9iy8CmdB1AsT9W) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Liberation](https://open.spotify.com/album/1ISsucOxZU3HPncDNOd4rz) | 3:42 |
 
-Snapshot ID: `AAAAAA9Ak6vnzG7TxKrnm4Vu+IlO3Spe`
+Snapshot ID: `AAAAAJ+C4V0a2v1QsACbKJI5dPzDhUfY`

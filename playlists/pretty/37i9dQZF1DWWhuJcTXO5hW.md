@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,684 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,690 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 5 | [Hal Asmar El\-Lon](https://open.spotify.com/track/1LJfErM0iTdKxp2BOM3sEA) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [The Collection](https://open.spotify.com/album/2fJ49tfoV8bE0XEQ7eQXq3) | 5:22 |
 | 6 | [Aicha](https://open.spotify.com/track/21wo3e3K1h5zy03Q3Nkk4E) | [Ahmed Alshaiba](https://open.spotify.com/artist/3draSJS8Ixp5PoZv1oWfwx) | [Aicha](https://open.spotify.com/album/3RRJUlqb8IJvxRKTyCG4h5) | 4:15 |
 | 7 | [Even If You Leave](https://open.spotify.com/track/3i8YW2Jy2ANDRi0f5VQhwD) | [Ara Dinkjian](https://open.spotify.com/artist/1yu2nsRarrGq79v5gNCX6X) | [An Armenian In America](https://open.spotify.com/album/3B53HQY2j0FkwfT8jeyrwW) | 4:16 |
-| 8 | [Al bint el shalabiya](https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 4:50 |
-| 9 | [Souvenir](https://open.spotify.com/track/5zKoRVSbZ3UQJX9Son7eJK) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Un homme libre](https://open.spotify.com/album/7immQi68cW0cg675tlCsmI) | 7:08 |
+| 8 | [Souvenir](https://open.spotify.com/track/5zKoRVSbZ3UQJX9Son7eJK) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Un homme libre](https://open.spotify.com/album/7immQi68cW0cg675tlCsmI) | 7:08 |
+| 9 | [Al bint el shalabiya](https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 4:50 |
 | 10 | [Nafas](https://open.spotify.com/track/2MOrdaDFhHoyTpefyvQWCF) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Selim Kusur](https://open.spotify.com/artist/3B2ZGMKcVz6MLE2R3SYcSi), [Glen Velez](https://open.spotify.com/artist/15iQ5XT6Esaps90Qp8XlXr), [Setrak Sarkissian](https://open.spotify.com/artist/1QLQGJzb3i3sH7rAuVaAsc) | [Nafas](https://open.spotify.com/album/4LwyNUteskctw7AwVmQSQy) | 1:34 |
 | 11 | [Oblivion](https://open.spotify.com/track/5sFJcINPGw2PjZHg4soZoK) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Oblivion](https://open.spotify.com/album/6KEMRKPWrk56GSXRX1jJBf) | 3:02 |
 | 12 | [Zourouni](https://open.spotify.com/track/4J7npFq7vLfUxuWvOq4Ttx) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:38 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 32 | [Dreams Of A Dying City](https://open.spotify.com/track/6ZEmjcKnZvbWV2qBvDR3rm) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT), [Jarrod Cagwin](https://open.spotify.com/artist/5sWtE2cBLTTbo9bfrNOYN0), [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0), [Gavino Murgia](https://open.spotify.com/artist/6iCQomJORy2bN4R47rVTvP), [Michel Godard](https://open.spotify.com/artist/1A25jYWj9rD6Co1KbnBGav) | [Hungry People](https://open.spotify.com/album/37ZVvmVPYFCyaDdNZaSRof) | 5:34 |
 | 33 | [Nuo Ather](https://open.spotify.com/track/3wviuDbyvbG0Vr3sO4IfUs) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:14 |
 | 34 | [Flamenco](https://open.spotify.com/track/2C4ksQvwsrBUH4okwq4ghL) | [Marcel Khalife](https://open.spotify.com/artist/03O78a3lgoVCdAvUhrZwTZ) | [Concerto Al Andalus](https://open.spotify.com/album/77jCXEpGQIAYIcUAumAsc5) | 0:59 |
-| 35 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
-| 36 | [Miss A](https://open.spotify.com/track/1xXLzy2BJD7yJDd6xAat55) | [Joseph Tawadros](https://open.spotify.com/artist/17wNBDPLkNYdnmAKwiwbih) | [The Bluebird, the Mystic and the Fool](https://open.spotify.com/album/1bQ9D3Vvx6EnKKb4aZ8WfO) | 1:05 |
+| 35 | [Miss A](https://open.spotify.com/track/1xXLzy2BJD7yJDd6xAat55) | [Joseph Tawadros](https://open.spotify.com/artist/17wNBDPLkNYdnmAKwiwbih) | [The Bluebird, the Mystic and the Fool](https://open.spotify.com/album/1bQ9D3Vvx6EnKKb4aZ8WfO) | 1:05 |
+| 36 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
 | 37 | [A Night In The Mountains](https://open.spotify.com/track/2jzVMkRBB97R6CEU77QWFs) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT) | [Blue Camel](https://open.spotify.com/album/4Qxx712hAyTvTsl1EsWeRj) | 8:37 |
 | 38 | [Imtinan](https://open.spotify.com/track/4LREyXwaLdFDnr14Udnqh6) | [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [Makan](https://open.spotify.com/album/0EPPt6up82A7e3bKId5s50) | 2:19 |
 | 39 | [Turkish Coffee](https://open.spotify.com/track/3169aUzrWTznvVupy1f20E) | [Basel Rajoub](https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp) | [Khameer](https://open.spotify.com/album/1nGR5fdDSZrUkeUrdbPxDC) | 4:24 |

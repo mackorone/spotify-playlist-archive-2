@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,553 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,715 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 79 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 |
 | 80 | [Waiting](https://open.spotify.com/track/38cyORDsDiclAjM4ycBGOq) | [Brenzy](https://open.spotify.com/artist/6G6qP0sP4oPveQ4bzizz4Z), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Waiting](https://open.spotify.com/album/6RwBnR5td7Huvn4CCQLlBp) | 2:54 |
 | 81 | [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 |
-| 82 | [LOVE NEVER FELT LIKE THIS](https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:55 |
+| 82 | [LOVE NEVER FELT LIKE THIS](https://open.spotify.com/track/2h3slSQMBstt11fys4CFYb) | [MAX](https://open.spotify.com/artist/66tvnb6jtiJVaMoknoaIEA) | [LOVE IN STEREO](https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny) | 2:55 |
 | 83 | [Supersonic](https://open.spotify.com/track/1TL8oEjxJqsB6nojBkBUgE) | [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Scary As Hell But I Love The Thrill](https://open.spotify.com/album/0RALiw4duBKgD7PXZBqzJd) | 2:55 |
 | 84 | [Under The Sun](https://open.spotify.com/track/5IwtSROe2KFbsFCu4rS1xY) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [No One Gets Out Alive](https://open.spotify.com/album/2cdEalh0GtDim6eecrjUy0) | 3:49 |
 | 85 | [Long Goodbye](https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/7JXHOJzHPh43y5gxDHoV97) | 4:23 |

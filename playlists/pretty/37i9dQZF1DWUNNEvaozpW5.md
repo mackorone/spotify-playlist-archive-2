@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Bunbury.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,645 likes - 120 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,678 likes - 120 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 37 | [Rojitas](https://open.spotify.com/track/5Srks36XWpQoF47EYF7ExI) | [Extrechinato y Tu](https://open.spotify.com/artist/5qi25oEuARj6wUbqiMSj0w) | [Poesía Básica](https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV) | 3:52 |
 | 38 | [Insurrección \- 2008 Remaster](https://open.spotify.com/track/7803rmspVDTFR78bj5KLPk) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Enemigos de lo ajeno \(2008 Remaster\)](https://open.spotify.com/album/5EnwReRtJtSNMVNEd5KwLZ) | 2:13 |
 | 39 | [Hasta que me quede sin voz](https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Hasta que me quede sin voz](https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx) | 5:06 |
-| 40 | [Veinticinco](https://open.spotify.com/track/5ZmVXMkruEitcEJYYL5m0V) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Veinticinco](https://open.spotify.com/album/68gJ7HIyXTJbj1dX9rJwHh) | 2:44 |
-| 41 | [Me has invitado a bailar](https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Me has invitado a bailar](https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp) | 3:12 |
+| 40 | [Me has invitado a bailar](https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Me has invitado a bailar](https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp) | 3:12 |
+| 41 | [Veinticinco](https://open.spotify.com/track/5ZmVXMkruEitcEJYYL5m0V) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Veinticinco](https://open.spotify.com/album/68gJ7HIyXTJbj1dX9rJwHh) | 2:44 |
 | 42 | [Chica de ayer](https://open.spotify.com/track/4chpfrjIqrOPshlDU4ZrKe) | [Nacha Pop](https://open.spotify.com/artist/1CdLG4i1rTEOsex2UE0jCH) | [Nacha Pop](https://open.spotify.com/album/5scxi8dzsvkrH6TamZv6NP) | 3:28 |
 | 43 | [Los Perros](https://open.spotify.com/track/15zPjWfZ6eUFMaL4aD5Gp8) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [COWBOYS DE LA A3](https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn) | 3:49 |
 | 44 | [Eso Que Tú Me Das](https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tragas o Escupes](https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7) | 3:34 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 76 | [El ritmo del garaje](https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Heroes De Los 80](https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd) | 4:53 |
 | 77 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
 | 78 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 |
-| 79 | [Lobo hombre en París \- Versión EP](https://open.spotify.com/track/2zusjwljepN2HlSFUcAxSY) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Lobo hombre en París](https://open.spotify.com/album/1feehmPHfXmZExKcTyT8A5) | 4:09 |
-| 80 | [Adiós papá](https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:57 |
+| 79 | [Adiós papá](https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [Saca La Lengua](https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY) | 3:57 |
+| 80 | [Lobo hombre en París \- Versión EP](https://open.spotify.com/track/2zusjwljepN2HlSFUcAxSY) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Lobo hombre en París](https://open.spotify.com/album/1feehmPHfXmZExKcTyT8A5) | 4:09 |
 | 81 | [20 de abril \- En directo 1997](https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Nos Vemos En Los Bares](https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz) | 3:57 |
 | 82 | [Tras la barra](https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Vamos Tirando](https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V) | 3:08 |
 | 83 | [Tu frialdad](https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok) | [Triana](https://open.spotify.com/artist/5hlBb5u8K5D8yrL8jwZ7N9) | [Un Encuentro](https://open.spotify.com/album/3OQX2EwYNN3FVKuUVLkVOL) | 4:23 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 114 | [Pacto Entre Caballeros](https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:56 |
 | 115 | [Pongamos Que Hablo de Madrid](https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt) | [Porretas](https://open.spotify.com/artist/728RoHc1KnzggoepsGWPdk) | [12 Botellines y 5 Tercios](https://open.spotify.com/album/06giFWDWB3yEX9eDtciSyd) | 2:53 |
 | 116 | [Pienso en Aquella Tarde](https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 2:53 |
-| 117 | [Abrázame](https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Metamorfosis\. En Directo Desde El Teatro Arriaga](https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr) | 5:29 |
-| 118 | [Quiero tener tu presencia](https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:40 |
+| 117 | [Quiero tener tu presencia](https://open.spotify.com/track/4oTpt5F428jN5vlCs4o5Yr) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Las 101 canciones \- Cinco décadas de Pop Español](https://open.spotify.com/album/3v3s1YhnnWUkQnZMotDz5U) | 3:40 |
+| 118 | [Abrázame](https://open.spotify.com/track/0rEZBTkZP2Q3c8upkx2WPf) | [Doctor Deseo](https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA) | [Metamorfosis\. En Directo Desde El Teatro Arriaga](https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr) | 5:29 |
 | 119 | [Salta!!!](https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn) | [Tequila](https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:10 |
 | 120 | [Cuando Brille el Sol](https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj) | [La Guardia](https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:43 |
 

@@ -1,6 +1,6 @@
 {
   "description": "Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.",
-  "num_followers": 1319559,
+  "num_followers": 1319441,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,18 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
         }
       ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -679,34 +679,18 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -723,6 +707,22 @@
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 243240,
-      "name": "Divinize",
-      "url": "https://open.spotify.com/track/2JH26hQtnqWUNnQET8o2N1"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 243240,
+      "name": "Divinize",
+      "url": "https://open.spotify.com/track/2JH26hQtnqWUNnQET8o2N1"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "West End Girl",
-        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "Pussy Palace",
-      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 193333,
       "name": "MUTT",
       "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 241693,
+      "name": "Pussy Palace",
+      "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -1275,22 +1275,18 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "The Night We Met",
-        "url": "https://open.spotify.com/album/1J9fxloDVUxge0DHLeUjdO"
+        "name": "SOMEWHERE IN BETWEEN",
+        "url": "https://open.spotify.com/album/5u0yJJQw4gu8pmkDKVAPiT"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
         }
       ],
-      "duration_ms": 209081,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/5Djt1AQnhfhYJjs4m7WS6G"
+      "duration_ms": 207290,
+      "name": "SOMEWHERE IN BETWEEN",
+      "url": "https://open.spotify.com/track/5OHXhjlFn1j4MUFYaSg6Zc"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -1315,18 +1311,22 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "SOMEWHERE IN BETWEEN",
-        "url": "https://open.spotify.com/album/5u0yJJQw4gu8pmkDKVAPiT"
+        "name": "The Night We Met",
+        "url": "https://open.spotify.com/album/1J9fxloDVUxge0DHLeUjdO"
       },
       "artists": [
         {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 207290,
-      "name": "SOMEWHERE IN BETWEEN",
-      "url": "https://open.spotify.com/track/5OHXhjlFn1j4MUFYaSg6Zc"
+      "duration_ms": 209081,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/5Djt1AQnhfhYJjs4m7WS6G"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -1347,6 +1347,22 @@
       "duration_ms": 160000,
       "name": "You Make Me Feel Loved",
       "url": "https://open.spotify.com/track/4NUvU9yvJHA28kD3bND0y2"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
         "name": "frieden",
         "url": "https://open.spotify.com/album/5iAkJn3zy2oVqeTMVyozku"
       },
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "Farewell, Starlite!",
-        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
-      },
-      "artists": [
-        {
-          "name": "Francis and the Lights",
-          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
-        }
-      ],
-      "duration_ms": 210944,
-      "name": "See Her Out (Thats Just Life)",
-      "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 311480,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        }
+      ],
+      "duration_ms": 210944,
+      "name": "See Her Out (Thats Just Life)",
+      "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
     },
     {
       "added_at": "2026-02-05 23:00:11",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-02-05 23:00:11",
       "album": {
-        "name": "lieblingslied",
-        "url": "https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp"
-      },
-      "artists": [
-        {
-          "name": "Mika No\u00e9",
-          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "lieblingslied",
-      "url": "https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K"
-    },
-    {
-      "added_at": "2026-02-05 23:00:11",
-      "album": {
         "name": "Zu sp\u00e4t um umzudrehen - EP",
         "url": "https://open.spotify.com/album/4ZlWpPndD8wgBG0XZmwDaP"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 177818,
       "name": "Zimmer",
       "url": "https://open.spotify.com/track/05jxlV1d75GkrMEZCP9qHQ"
+    },
+    {
+      "added_at": "2026-02-05 23:00:11",
+      "album": {
+        "name": "lieblingslied",
+        "url": "https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "lieblingslied",
+      "url": "https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K"
     },
     {
       "added_at": "2026-02-05 23:00:11",

@@ -1,6 +1,6 @@
 {
   "description": "lost in a haze",
-  "num_followers": 178229,
+  "num_followers": 178220,
   "original_name": "dazed",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "CPR",
-      "url": "https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 386626,
       "name": "Next Lifetime",
       "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "CPR",
+      "url": "https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte"
     },
     {
       "added_at": "2025-11-13 16:46:16",
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "Is This Real Love? (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 179579,
-      "name": "Is This Real Love? (feat. Lucky Daye) - Remix",
-      "url": "https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "Fall In Love With Her",
         "url": "https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 245581,
       "name": "Fall in Love With Her",
       "url": "https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "Is This Real Love? (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 179579,
+      "name": "Is This Real Love? (feat. Lucky Daye) - Remix",
+      "url": "https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO"
     },
     {
       "added_at": "2025-11-13 16:46:16",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "Speak",
-        "url": "https://open.spotify.com/album/6zL3up9B2Mo7krayRj0KBJ"
-      },
-      "artists": [
-        {
-          "name": "Sam Wills",
-          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Speak",
-      "url": "https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "it all ends with us",
         "url": "https://open.spotify.com/album/6HZA7wSrjCAwRC9x1BQG1J"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 226000,
       "name": "it all ends with us",
       "url": "https://open.spotify.com/track/4XAfqNOaiPj8WZw7r7pNYL"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/6zL3up9B2Mo7krayRj0KBJ"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/0XKVOYVQcLlvMHBWUmXmey"
     },
     {
       "added_at": "2025-11-13 16:46:16",

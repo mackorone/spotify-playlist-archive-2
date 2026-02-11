@@ -2,7 +2,7 @@
 
 ### [Altijd Goed](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Nieuwe tijdloze muziek\. Cover: Bruce Springsteen
+> Nieuwe tijdloze muziek\. Cover: Nona
 
 803 songs - 1 day 22 hr 53 min
 

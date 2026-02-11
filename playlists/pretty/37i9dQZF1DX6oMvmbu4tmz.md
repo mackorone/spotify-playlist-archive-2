@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 
 > De allerbeste songs van de 10's! Cover: Martin Garrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,369 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,365 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 | 66 | [Year Of Summer](https://open.spotify.com/track/3iKcDwqwMf6O547uQcyjaO) | [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Year of Summer](https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa) | 2:54 |
 | 67 | [Read All About It, Pt\. III](https://open.spotify.com/track/4n41lg3dl0abbHovuv5bAU) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/49sy06JJUk1CRwkG9wbRYw) | 4:43 |
 | 68 | [Tears \(feat\. Louisa Johnson\)](https://open.spotify.com/track/7py16W5fWYLFFS6BElKAjn) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Louisa Johnson](https://open.spotify.com/artist/5IHqlcCbQkyhWl0KmIwgeq) | [Tears \(feat\. Louisa Johnson\)](https://open.spotify.com/album/5J1vKkCC6aoOGZjE7YZrHE) | 3:45 |
-| 69 | [Calm After The Storm](https://open.spotify.com/track/6C2GZHFFO8uXuMYCHiW5Y4) | [The Common Linnets](https://open.spotify.com/artist/18h3nc5ixeV80KKGWDAaMG) | [The Common Linnets](https://open.spotify.com/album/5Vw9o8lKtDODFDX9abMaSw) | 3:32 |
-| 70 | [In Your Arms](https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Passing Through](https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG) | 3:35 |
+| 69 | [In Your Arms](https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Passing Through](https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG) | 3:35 |
+| 70 | [Calm After The Storm](https://open.spotify.com/track/6C2GZHFFO8uXuMYCHiW5Y4) | [The Common Linnets](https://open.spotify.com/artist/18h3nc5ixeV80KKGWDAaMG) | [The Common Linnets](https://open.spotify.com/album/5Vw9o8lKtDODFDX9abMaSw) | 3:32 |
 | 71 | [Hey](https://open.spotify.com/track/6KZmDucZFfvxGJkrHInbix) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Hey](https://open.spotify.com/album/0blPiZeFeUsC6zlCx2w5EH) | 3:35 |
 | 72 | [War](https://open.spotify.com/track/6mEl7vK6usgdsNm4QFHeEd) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Rivals](https://open.spotify.com/album/6udOhfnZ9TyExOZ4Js2QL2) | 2:56 |
 | 73 | [With You](https://open.spotify.com/track/21YWbLRtyRJl9PAtxUkDEf) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Pieces](https://open.spotify.com/album/1CbEGXLeN2Ql3WKcNxecHv) | 3:38 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oMvmbu4tmz.md) - [plain]
 | 90 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
 | 91 | [Solo Dance](https://open.spotify.com/track/6HUnnBwYZqcED1eQztxMBN) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance](https://open.spotify.com/album/3BcNHuKlAm57APDcwh7LJq) | 2:54 |
 | 92 | [Little Lion Man](https://open.spotify.com/track/1QTixxvaGxwe6GF8PBwAve) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More \(Benelux Edition\)](https://open.spotify.com/album/4yHxYRTHNocJenKZ4gQndD) | 4:07 |
-| 93 | [Home](https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T) | 4:28 |
-| 94 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
-| 95 | [Waves](https://open.spotify.com/track/2gGIhNmn8NaUr3LNofUIBZ) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/1LZ2KaIsWc2hhCjfU72lwK) | 2:54 |
+| 93 | [Waves](https://open.spotify.com/track/2gGIhNmn8NaUr3LNofUIBZ) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Waves](https://open.spotify.com/album/1LZ2KaIsWc2hhCjfU72lwK) | 2:54 |
+| 94 | [Home](https://open.spotify.com/track/0ZUMBOzlwNXfVE4Z8lSrsd) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/7xHurOB8aG4kNCKsaAn62T) | 4:28 |
+| 95 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
 | 96 | [Somebody That I Used To Know](https://open.spotify.com/track/6UxSmGD3Ys7BIpbUpSERBM) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/6ZoZzRBB86PzA3ay5IetcS) | 4:05 |
 | 97 | [Mercy](https://open.spotify.com/track/4lYTkvMkcNRj9uoSr8Zpws) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy](https://open.spotify.com/album/5k3xD5FmMQjKuqJgK4Qk4k) | 3:28 |
 | 98 | [Teach Me How To Dance With You](https://open.spotify.com/track/3eqWhMow4fBmD22XuuNQTe) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built For Me](https://open.spotify.com/album/20lXEjOaY6Il72FTbsgOhM) | 3:24 |

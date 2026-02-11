@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Chuyin, Eladio Carrion, Easykid & Kali Uchis, Carlos Vives & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,947 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,971 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 21 | [MUCHO CON DEMASIAO'](https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [MUCHO CON DEMASIAO'](https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu) | 2:19 |
 | 22 | [Barranquilla Está De Moda](https://open.spotify.com/track/168R1Z55BafUjCwjJk3oHT) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Barranquilla Está De Moda](https://open.spotify.com/album/4aKBp8ipnnJk25s5QgIcY0) | 3:47 |
 | 23 | [100](https://open.spotify.com/track/6mtTf7SdLIqjSjuPcCgrqn) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [Charlee Way](https://open.spotify.com/artist/6EDCaSmqeDArGXLlVEq15u) | [100](https://open.spotify.com/album/3XHoJ8Mq020H2nPwPTSPoH) | 2:27 |
-| 24 | [RIHANA](https://open.spotify.com/track/6pjGQ7mGGi2YxRKtqkJTan) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo) | [RIHANA](https://open.spotify.com/album/4gJ2YfhQ0COaQjVULDnfNq) | 2:36 |
+| 24 | [RIHANA](https://open.spotify.com/track/6pjGQ7mGGi2YxRKtqkJTan) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo), [High Galaxy Music](https://open.spotify.com/artist/6DX3eOyDrzIBvvBdZyxxqd) | [RIHANA](https://open.spotify.com/album/4gJ2YfhQ0COaQjVULDnfNq) | 2:36 |
 | 25 | [PEGATE](https://open.spotify.com/track/3U6lUocBntJT3UzB988NMV) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Maicol La M](https://open.spotify.com/artist/618UAJwbx5iSzaLonHgx2R) | [PEGATE](https://open.spotify.com/album/65GafzShvMmgisJqgYZzxa) | 4:32 |
 | 26 | [ROOKIE](https://open.spotify.com/track/3ocaYGBjzq91UVMD7KSvQF) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [ROOKIE](https://open.spotify.com/album/2mhU7skEyc9vn60DZE72M1) | 2:18 |
 | 27 | [Tambores](https://open.spotify.com/track/7fdvWeVrASDfx1rW9KIKz2) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Pressure 9X19](https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF), [Soul](https://open.spotify.com/artist/4SmQWZtxkR4pOAbDQasTvl) | [Tambores](https://open.spotify.com/album/187lDXZT6cr0z0X462Xbtt) | 2:56 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 30 | [Ganas De Tenerla](https://open.spotify.com/track/4IiZh49rYj1hJgBZRlCCXQ) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ganas De Tenerla](https://open.spotify.com/album/76GQ6FedYkpmjjZgM9fsML) | 3:06 |
 | 31 | [siempre quiero +](https://open.spotify.com/track/6uYAESroN4MLNbrUpddVgU) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [siempre quiero +](https://open.spotify.com/album/0PktceOqLoT7kreoTfi38Z) | 3:10 |
 | 32 | [N U E V A S A M I G A S](https://open.spotify.com/track/7EIngX6EUftqqsIylPCG1u) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [N U E V A S A M I G A S](https://open.spotify.com/album/4l42774GlI7LHF93BR7dlH) | 3:15 |
-| 33 | [algún día \- Spotify Sessions](https://open.spotify.com/track/0dbKJL6gTj6sxaG4pytAfl) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:15 |
+| 33 | [algún día \- Spotify Sessions](https://open.spotify.com/track/0dbKJL6gTj6sxaG4pytAfl) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg), [Cindy Cats](https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv) | [Ramma + Cindy Cats \- Spotify Sessions](https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7) | 3:15 |
 | 34 | [PERDIDO](https://open.spotify.com/track/67jfNQ8ntPHnhxDv31iWRL) | [Happykid](https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [PERDIDO](https://open.spotify.com/album/2ZBWXM9PcYCAbS0XQd9EQw) | 2:45 |
 | 35 | [NO PARA](https://open.spotify.com/track/2snV0xKwCvi12Cllb5M1lB) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [NO PARA](https://open.spotify.com/album/6IbfWaqJgeU3EhQZPhtf4w) | 2:55 |
 | 36 | [Ponte Perra](https://open.spotify.com/track/1DbT2COwAovcubwNvYIAg6) | [Mattei](https://open.spotify.com/artist/29fkrV8IuMETQBv8PgC6Lw), [DJ Urba](https://open.spotify.com/artist/0F0qHLgO0rPrxKUjv19N7z) | [Ponte Perra](https://open.spotify.com/album/7pgmxtpt0l7logu5f6d9Ee) | 2:54 |

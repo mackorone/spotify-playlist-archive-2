@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive, uplifting piano to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,540 likes - 134 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,570 likes - 134 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 119 | [Sonnenblume](https://open.spotify.com/track/5OwyqAz6sXFkq6Ny60M12h) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Sonnenblume](https://open.spotify.com/album/5fSmW7WWjIwYt5xtOgbu7t) | 2:12 |
 | 120 | [Forever](https://open.spotify.com/track/4EZtXiZ3PdrGxTQ43WLhub) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Forever](https://open.spotify.com/album/0yMEcM0YNb1hfPvZtnSnbY) | 2:11 |
 | 121 | [Peace In Water](https://open.spotify.com/track/6MOyr6CW5FmSSC3yWDOynt) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Peace In Water](https://open.spotify.com/album/41O9tKGlJ6FIIJemBI5qF1) | 2:12 |
-| 122 | [Water Lilies](https://open.spotify.com/track/3Eq0VAdDj1j9xyQ5EKU85N) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Water Lilies](https://open.spotify.com/album/5NebT6I9YPVwMy0aWfgtGm) | 2:00 |
+| 122 | [Water Lilies](https://open.spotify.com/track/3Eq0VAdDj1j9xyQ5EKU85N) | [John Vegard Schow](https://open.spotify.com/artist/6g97Cxa1mikyjT7mTR0ISE) | [Water Lilies](https://open.spotify.com/album/5NebT6I9YPVwMy0aWfgtGm) | 2:00 |
 | 123 | [Brighter Days](https://open.spotify.com/track/00QS3WvHXKf0BwZRcKtruO) | [Andrew Lodge](https://open.spotify.com/artist/34k08Wh9fmLzg8Hg3wPS2y) | [Brighter Days](https://open.spotify.com/album/2yo3evs2rNkuRBTDDwW4bw) | 3:25 |
 | 124 | [Solarised](https://open.spotify.com/track/2NuQU5ztiWnOT8PqNmwrU8) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Solarised](https://open.spotify.com/album/6Rled6otj5AJQ4qCBiVX0u) | 2:36 |
 | 125 | [in the rain](https://open.spotify.com/track/74H039CiAcy8fahVUYOETr) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [in the rain](https://open.spotify.com/album/4yZ1MJawVr3p6sGxU5enCP) | 2:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,010 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,019 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 18 | [W.I.N.N.E.](https://open.spotify.com/track/1FKLxZkh3skLUFeCvQ9KIn) | [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [Winne Zonder Strijd](https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4) | 3:42 |
 | 19 | [Regendans](https://open.spotify.com/track/4Z0RY6euB3SE0KtHrxDA4R) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 3:17 |
 | 20 | [Tijdmachine \- Edit](https://open.spotify.com/track/5HKJl9V8QDMflGBH0jFS85) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Tijdmachine](https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c) | 3:29 |
-| 21 | [Hele Meneer](https://open.spotify.com/track/7AbTXC2v7zuDE5lxthGQg5) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Vossig](https://open.spotify.com/album/6uA7RHsJLbT3IS5cWkRmJe) | 1:57 |
-| 22 | [Tante Lien](https://open.spotify.com/track/6lj0yxC8lnP3nHpits0vBa) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB) | 5:25 |
+| 21 | [Tante Lien](https://open.spotify.com/track/6lj0yxC8lnP3nHpits0vBa) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB) | 5:25 |
+| 22 | [Hele Meneer](https://open.spotify.com/track/7AbTXC2v7zuDE5lxthGQg5) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m) | [Vossig](https://open.spotify.com/album/6uA7RHsJLbT3IS5cWkRmJe) | 1:57 |
 | 23 | [Alleen](https://open.spotify.com/track/1RClBEEVn5SqHFM8gsyoXL) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Fresku](https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW) | 3:49 |
 | 24 | [Verre Oosten](https://open.spotify.com/track/1GhbUw7skwCjSzLB3tWtMj) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Vloeistof](https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2) | 4:46 |
 | 25 | [Aye](https://open.spotify.com/track/74LD0K8IpSkD1BktHfGHpj) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 2:58 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 53 | [Succes](https://open.spotify.com/track/07sdoNTz7WFJAL9nlsQ8Y5) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Succes/Ik Ben Twan](https://open.spotify.com/album/7vUGdwNbWKQcSXWX3LLQzp) | 3:31 |
 | 54 | [Klokkenluiders](https://open.spotify.com/track/3b7SQhQtEHJwQ3tfoLFeFs) | [Spookrijders](https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA) | [Klokkenluiders Van Amsterdam](https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB) | 6:28 |
 | 55 | [Ik Heb Je](https://open.spotify.com/track/6WpQuwf52PSYszyJlWRElp) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [De Ark De Triomf](https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM) | 4:03 |
-| 56 | [Hotel Beschaving](https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Tussen Licht En Lucht](https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu) | 3:08 |
+| 56 | [Sporen](https://open.spotify.com/track/3ql0vdOmqy74NqAqAtDXTI) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Vloeistof](https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2) | 4:15 |
 | 57 | [Je Kan Niks Doen](https://open.spotify.com/track/5zkRdTaRj9CeYp8F8zGfZW) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [De Fik Erin](https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W) | 3:31 |
-| 58 | [Sporen](https://open.spotify.com/track/3ql0vdOmqy74NqAqAtDXTI) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Vloeistof](https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2) | 4:15 |
+| 58 | [Hotel Beschaving](https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Tussen Licht En Lucht](https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu) | 3:08 |
 | 59 | [Nog 1 Keer](https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 5:15 |
 | 60 | [Wil je weten hoe et voelt](https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx) | [THC](https://open.spotify.com/artist/1SYGOtjedK1WEh5KOuOE0r), [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q), [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Zuen](https://open.spotify.com/artist/1Trt6PK9PHjaEoP3E1IIK5) | [Artikel 140](https://open.spotify.com/album/1pIov99nO7V3gL64S4HMro) | 4:32 |
 | 61 | [De Kleren Van De Keyser](https://open.spotify.com/track/2eABN9qCm4iAUQgedUxrCP) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [Noah's Ark](https://open.spotify.com/album/3qopX9Swa3jLMlk0UvhD5D) | 3:23 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 72 | [Arbeidersklasse](https://open.spotify.com/track/1Jh20M0XvpKmMogn6lVtXd) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Boulimia](https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV) | 3:00 |
 | 73 | [Doorhalen](https://open.spotify.com/track/4KxNh4U7UFEIzmzwvpZxUe) | [D.A.C.](https://open.spotify.com/artist/50NcB2kii1VKEbtZcHg0q1) | [Professioneel Chillen](https://open.spotify.com/album/0b8uErqyyk7vY1KgtX3Veg) | 5:48 |
 | 74 | [Bliksemschicht](https://open.spotify.com/track/72guUBKzk2X2jlVgNxoS18) | [Zwart Licht](https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ) | [Bliksemschicht](https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp) | 3:18 |
-| 75 | [Thuis \(feat\. Per.verz\)](https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC) | [Engel & Just](https://open.spotify.com/artist/0lvQ5K8AsLvcLZqyWWfchM) | [Thuis \(feat\. Per.verz\)](https://open.spotify.com/album/2mKBe45b3fvO7yNVzAlYm0) | 4:04 |
-| 76 | [Los Zand](https://open.spotify.com/track/2BMhiLVRbBvafIKOxkKfiF) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Blaxtar](https://open.spotify.com/artist/74Muw2FSN8BK2mMbh2gfZM) | [Tussen Licht En Lucht](https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu) | 4:05 |
+| 75 | [Los Zand](https://open.spotify.com/track/2BMhiLVRbBvafIKOxkKfiF) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Blaxtar](https://open.spotify.com/artist/74Muw2FSN8BK2mMbh2gfZM) | [Tussen Licht En Lucht](https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu) | 4:05 |
+| 76 | [Thuis \(feat\. Per.verz\)](https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC) | [Engel & Just](https://open.spotify.com/artist/0lvQ5K8AsLvcLZqyWWfchM) | [Thuis \(feat\. Per.verz\)](https://open.spotify.com/album/2mKBe45b3fvO7yNVzAlYm0) | 4:04 |
 | 77 | [Buiten West](https://open.spotify.com/track/6AIp4pG2ngu3CV8K69B40E) | [Kubus](https://open.spotify.com/artist/7cL6ZaJzLj5pFUF5iQbzDz) | [Buiten Westen](https://open.spotify.com/album/2hVxejRtyWEtdiAUbCtw57) | 4:06 |
 | 78 | [Dan Weet Je Het Nu](https://open.spotify.com/track/31OqezHdMpxRs6I6d8XTZR) | [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf) | [De Onderbaas](https://open.spotify.com/album/1NjbJNfN6CoKqJncMSxe5h) | 2:39 |
 | 79 | [Back Up Staat Klaar](https://open.spotify.com/track/3njjwzzYrCrjDkOOv1udM3) | [Zwart Licht](https://open.spotify.com/artist/0w8HhtFVgF0tqeiFGFRaiZ), [Leeroy](https://open.spotify.com/artist/5XOot0LfXGuSWgTmolsDzn) | [Bliksemschicht](https://open.spotify.com/album/3kJhgVpVWpAEneIvKGTOLp) | 3:21 |

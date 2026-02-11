@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 210471,
+  "num_followers": 210479,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABNwdxm1FTJRJUs7K+O35vm",
+  "snapshot_id": "aYkjgAAAAAD9+TCewwiPDUdCfDHxuzgw",
   "tracks": [
     {
       "added_at": null,
@@ -295,30 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O MENINO QUE QUERIA SER DEUS",
-        "url": "https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1GtWTLCdADlhMLyHTcL6XD"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "CORRA",
-      "url": "https://open.spotify.com/track/0megDVVOygNhatbqGU9lBm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
         "url": "https://open.spotify.com/album/3rUbKzPAKeCTKdBLsIuMD8"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 242526,
       "name": "Eu N\u00e3o Sou T\u00e3o Bom Assim",
       "url": "https://open.spotify.com/track/5GflWMue0Hausplsa02rLr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O MENINO QUE QUERIA SER DEUS",
+        "url": "https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1GtWTLCdADlhMLyHTcL6XD"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "CORRA",
+      "url": "https://open.spotify.com/track/0megDVVOygNhatbqGU9lBm"
     },
     {
       "added_at": null,
@@ -1196,13 +1196,13 @@
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "DJ Cost",
+          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
         }
       ],
-      "duration_ms": 256810,
-      "name": "Esquim\u00f3",
-      "url": "https://open.spotify.com/track/40b5YP1kX8xbWKvm0hFdZU"
+      "duration_ms": 218282,
+      "name": "Corre das Notas",
+      "url": "https://open.spotify.com/track/038NYpCmR4VPu9fyZxHRju"
     },
     {
       "added_at": null,
@@ -1272,13 +1272,13 @@
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "DJ Cost",
-          "url": "https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL"
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         }
       ],
-      "duration_ms": 218282,
-      "name": "Corre das Notas",
-      "url": "https://open.spotify.com/track/038NYpCmR4VPu9fyZxHRju"
+      "duration_ms": 256810,
+      "name": "Esquim\u00f3",
+      "url": "https://open.spotify.com/track/40b5YP1kX8xbWKvm0hFdZU"
     }
   ],
   "unique_name": "This Is Djonga",

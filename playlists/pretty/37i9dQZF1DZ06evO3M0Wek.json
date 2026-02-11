@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 114577,
+  "num_followers": 114594,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAArB61NTAkzIBm12hLThhpC",
+  "snapshot_id": "aYkjgAAAAAC8k0Gw2dOOnCvcsVZW/ccn",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/6WXN5Pvim9BKB6Wb765II5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Gereg (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4Lge00PEnR7Xb2ZKPItrys"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 349270,
       "name": "Song of Women (feat. Lzzy Hale of Halestorm)",
       "url": "https://open.spotify.com/track/1OZ2eE4InmLDhl5KVG002w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/6WXN5Pvim9BKB6Wb765II5"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halestorm (Deluxe)",
-        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 223213,
-      "name": "Bet U Wish U Had Me Back",
-      "url": "https://open.spotify.com/track/1ubMuTK0tZPAA1DqQia1WY"
+      "duration_ms": 222010,
+      "name": "Strange Girl",
+      "url": "https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+        "name": "Halestorm (Deluxe)",
+        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 222010,
-      "name": "Strange Girl",
-      "url": "https://open.spotify.com/track/6lsQurvT97J67VKSXuCDSx"
+      "duration_ms": 223213,
+      "name": "Bet U Wish U Had Me Back",
+      "url": "https://open.spotify.com/track/1ubMuTK0tZPAA1DqQia1WY"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 233897,
-      "name": "Gather The Lambs",
-      "url": "https://open.spotify.com/track/1HY8G7dYpwlxJ9XVrOq6j1"
+      "duration_ms": 216760,
+      "name": "Mayhem",
+      "url": "https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 216760,
-      "name": "Mayhem",
-      "url": "https://open.spotify.com/track/6ubqrTIJwspBSqx8XQHN2K"
+      "duration_ms": 233897,
+      "name": "Gather The Lambs",
+      "url": "https://open.spotify.com/track/1HY8G7dYpwlxJ9XVrOq6j1"
     },
     {
       "added_at": null,
@@ -747,6 +747,38 @@
       "duration_ms": 307160,
       "name": "Shoot to Thrill",
       "url": "https://open.spotify.com/track/2MwCQtdvtZGbW2Iu92FfFv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into the Wild Life (Deluxe)",
+        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Sick Individual",
+      "url": "https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 250881,
+      "name": "Black Vultures",
+      "url": "https://open.spotify.com/track/42rrPJg1u7rX7Rx52taVVn"
     },
     {
       "added_at": null,
@@ -771,38 +803,6 @@
       "duration_ms": 254887,
       "name": "Out In the Rain",
       "url": "https://open.spotify.com/track/3OEbly55618a1uDTP3Pd4a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 250881,
-      "name": "Black Vultures",
-      "url": "https://open.spotify.com/track/42rrPJg1u7rX7Rx52taVVn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Into the Wild Life (Deluxe)",
-        "url": "https://open.spotify.com/album/6jPjpEJBxT0HN71TAEohZ0"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Sick Individual",
-      "url": "https://open.spotify.com/track/5dPRMnwZ7CeQF4oolO8lYo"
     },
     {
       "added_at": null,

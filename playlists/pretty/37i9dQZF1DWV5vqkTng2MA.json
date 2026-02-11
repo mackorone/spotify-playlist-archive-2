@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Kokoroko",
-  "num_followers": 425554,
+  "num_followers": 425550,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
+        "name": "Cold Times",
+        "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
+      },
+      "artists": [
+        {
+          "name": "Brent Cowles",
+          "url": "https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Cold Times",
+      "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
         "name": "Burn It Down",
         "url": "https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 146520,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
-        "name": "Cold Times",
-        "url": "https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7"
-      },
-      "artists": [
-        {
-          "name": "Brent Cowles",
-          "url": "https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "Cold Times",
-      "url": "https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Something In The Water",
-        "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Something In The Water",
-      "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
         "url": "https://open.spotify.com/album/0LOwGeTAFeD4qSFXr4pKf8"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 215986,
       "name": "I'll Be Your Fool (feat. The McCrary Sisters)",
       "url": "https://open.spotify.com/track/43zk0iEDzsjOBOzJmEx6Nv"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Something In The Water",
+        "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Something In The Water",
+      "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Sister Andre",
-        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 185583,
-      "name": "Sister Andre",
-      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "King of Bohemia",
         "url": "https://open.spotify.com/album/0xLHW7kjCKGGRN7uaFRxH0"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 218749,
       "name": "King of Bohemia",
       "url": "https://open.spotify.com/track/34KtmwODrt1ia604Q6mzXy"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Sister Andre",
+        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "duration_ms": 185583,
+      "name": "Sister Andre",
+      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Too Big World",
-        "url": "https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2"
-      },
-      "artists": [
-        {
-          "name": "The Bumper Jacksons",
-          "url": "https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN"
-        }
-      ],
-      "duration_ms": 277013,
-      "name": "Trouble in Mind",
-      "url": "https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "Bend",
         "url": "https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 246453,
       "name": "Bend",
       "url": "https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Too Big World",
+        "url": "https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2"
+      },
+      "artists": [
+        {
+          "name": "The Bumper Jacksons",
+          "url": "https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN"
+        }
+      ],
+      "duration_ms": 277013,
+      "name": "Trouble in Mind",
+      "url": "https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Have a Seat",
-        "url": "https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "For Your Consideration",
-      "url": "https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/3m4a7fI9QpWDqPVUlPFvsD"
       },
@@ -1351,22 +1335,6 @@
       "duration_ms": 182458,
       "name": "Circles",
       "url": "https://open.spotify.com/track/2SaFRhlUcBfODGexqS41KP"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
-        "name": "Got Soul",
-        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
-      },
-      "artists": [
-        {
-          "name": "Robert Randolph & The Family Band",
-          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Got Soul",
-      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1391,6 +1359,38 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
+        "name": "Got Soul",
+        "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
+      },
+      "artists": [
+        {
+          "name": "Robert Randolph & The Family Band",
+          "url": "https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Got Soul",
+      "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Have a Seat",
+        "url": "https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "For Your Consideration",
+      "url": "https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
         "name": "I Wonder Why",
         "url": "https://open.spotify.com/album/23Kl1huMr3rcUyLvkxNBZF"
       },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Waterfallin'",
-        "url": "https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bazini",
-          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Waterfallin'",
-      "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "Who's Gonna Love You When I'm Gone",
         "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 219920,
       "name": "Who's Gonna Love You When I'm Gone",
       "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Waterfallin'",
+        "url": "https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Waterfallin'",
+      "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
     },
     {
       "added_at": "2025-12-08 17:30:48",

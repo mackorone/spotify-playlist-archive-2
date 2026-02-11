@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 ### [أفضل الأغاني الشرقية](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
 
-> Top Sharqi hits right now\. Cover: Akhras, Inez
+> Top Sharqi hits right now\. Cover: Nassif Zeytoun
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,623 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,665 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dayman Heik](https://open.spotify.com/track/5TA7eJhh32dROR5sotDL9d) | [Akhras](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4), [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Dayman Heik](https://open.spotify.com/album/0M3A5TjPd4Hp556PBoGP0c) | 2:48 |
-| 2 | [Wayli](https://open.spotify.com/track/4KSeLwo0wVyqZn81dQirht) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Wayli](https://open.spotify.com/album/75eviJkl1lIpWERd64sDzn) | 3:17 |
-| 3 | [Kazdoura](https://open.spotify.com/track/0Br77SqBisRvGY6yLXzpxz) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Abu Ward](https://open.spotify.com/artist/2xaYgmlluZUUKCcfJEUdYe) | [Kazdoura](https://open.spotify.com/album/4Py37GaBzo4gpfIkOqDJQA) | 3:21 |
+| 1 | [Kazdoura](https://open.spotify.com/track/0Br77SqBisRvGY6yLXzpxz) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Abu Ward](https://open.spotify.com/artist/2xaYgmlluZUUKCcfJEUdYe) | [Kazdoura](https://open.spotify.com/album/4Py37GaBzo4gpfIkOqDJQA) | 3:21 |
+| 2 | [Dayman Heik](https://open.spotify.com/track/5TA7eJhh32dROR5sotDL9d) | [Akhras](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4), [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Dayman Heik](https://open.spotify.com/album/0M3A5TjPd4Hp556PBoGP0c) | 2:48 |
+| 3 | [Wayli](https://open.spotify.com/track/4KSeLwo0wVyqZn81dQirht) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Wayli](https://open.spotify.com/album/75eviJkl1lIpWERd64sDzn) | 3:17 |
 | 4 | [Metl El Amira \| متل الأميرة](https://open.spotify.com/track/7IkehJkHPfmx6heDWgpSVM) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Metl El Amira \| متل الأميرة](https://open.spotify.com/album/6ErlABqP9JkNkwjV4x0ROb) | 2:54 |
 | 5 | [Badna Nroue](https://open.spotify.com/track/4Y29obvHXHeQFJUjZOEHqG) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Mega Haifa 2](https://open.spotify.com/album/01NVQQpvmM2ejbglR55Smx) | 1:45 |
 | 6 | [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 | 49 | [مُهرة \- MOHRA](https://open.spotify.com/track/4V5CPi2Z1amClPyxT24fgE) | [Ismaeil Tamr](https://open.spotify.com/artist/5DzUF6vIJJsWlTX6HgPD6v) | [مُهرة \- MOHRA](https://open.spotify.com/album/07tBDn21opfLJwRBn0O7Sm) | 3:19 |
 | 50 | [El Waet Hdiye](https://open.spotify.com/track/6lsZjyA5UAA8BYR88rAKNk) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Waet Hdiye](https://open.spotify.com/album/2K9R8YE2IyUuwTqQJJzxHi) | 3:16 |
 
-Snapshot ID: `AAAAAEBGpDbrKK/jHwG2K67p0otd/L6a`
+Snapshot ID: `AAAAAKq7Er9sGO3HhtxrMcCZ+wAGQiIR`

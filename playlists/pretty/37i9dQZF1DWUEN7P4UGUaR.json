@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 16710,
+  "num_followers": 16716,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-01-23 00:01:20",
       "album": {
+        "name": "Lifted High",
+        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
+      },
+      "artists": [
+        {
+          "name": "Kofi Karikari",
+          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
+        }
+      ],
+      "duration_ms": 203598,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa"
+    },
+    {
+      "added_at": "2026-01-23 00:01:20",
+      "album": {
         "name": "FAKY3 ME",
         "url": "https://open.spotify.com/album/6fwyJzUNTd0eEoJENZXnlT"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 311000,
       "name": "FAKY3 ME",
       "url": "https://open.spotify.com/track/7Msv1XFUkPhVQSqj3QVZmW"
-    },
-    {
-      "added_at": "2026-01-23 00:01:20",
-      "album": {
-        "name": "Lifted High",
-        "url": "https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF"
-      },
-      "artists": [
-        {
-          "name": "Kofi Karikari",
-          "url": "https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE"
-        }
-      ],
-      "duration_ms": 203598,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa"
     },
     {
       "added_at": "2026-01-23 00:01:20",
@@ -779,6 +779,26 @@
     {
       "added_at": "2026-01-23 00:01:20",
       "album": {
+        "name": "Ghana Local Praise Medley",
+        "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
+      },
+      "artists": [
+        {
+          "name": "DOXA WAVE GH",
+          "url": "https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6"
+        },
+        {
+          "name": "Shadrach Mensah Kwesi",
+          "url": "https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e"
+        }
+      ],
+      "duration_ms": 566414,
+      "name": "Ghana Local Praise Medley",
+      "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
+    },
+    {
+      "added_at": "2026-01-23 00:01:20",
+      "album": {
         "name": "Golden Oil",
         "url": "https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 209004,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/4Xo5vzskyIV3PbqLqsZMvz"
-    },
-    {
-      "added_at": "2026-01-23 00:01:20",
-      "album": {
-        "name": "Ghana Local Praise Medley",
-        "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
-      },
-      "artists": [
-        {
-          "name": "DOXA WAVE GH",
-          "url": "https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6"
-        },
-        {
-          "name": "Shadrach Mensah Kwesi",
-          "url": "https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e"
-        }
-      ],
-      "duration_ms": 566414,
-      "name": "Ghana Local Praise Medley",
-      "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
     },
     {
       "added_at": "2026-01-23 00:01:20",
@@ -867,22 +867,18 @@
     {
       "added_at": "2026-01-23 00:01:20",
       "album": {
-        "name": "Me Dan Wo (feat. Kweku Teye)",
-        "url": "https://open.spotify.com/album/4LJLbuiTeaYa47Ws73xIv5"
+        "name": "Nkunim (The Victory Song)",
+        "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Kweku Teye",
-          "url": "https://open.spotify.com/artist/1x3hebkiWy4EK1mxPMZ7Fp"
+          "name": "Carl Clottey",
+          "url": "https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R"
         }
       ],
-      "duration_ms": 372240,
-      "name": "Me Dan Wo (feat. Kweku Teye)",
-      "url": "https://open.spotify.com/track/0Dl0uNmmlnO71cIuYX2jhF"
+      "duration_ms": 409432,
+      "name": "Nkunim (The Victory Song)",
+      "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"
     }
   ],
   "unique_name": "Aseda",

@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130809,
+  "num_followers": 130810,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-02-05 16:00:33",
       "album": {
-        "name": "\u5922\u60f3\u5bb6 The Dreamer",
-        "url": "https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD"
-      },
-      "artists": [
-        {
-          "name": "Khalil Fong",
-          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
-        }
-      ],
-      "duration_ms": 236343,
-      "name": "\u56de\u7559",
-      "url": "https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX"
-    },
-    {
-      "added_at": "2026-02-05 16:00:33",
-      "album": {
         "name": "Hai Cheng",
         "url": "https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 232426,
       "name": "Hai Cheng",
       "url": "https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl"
+    },
+    {
+      "added_at": "2026-02-05 16:00:33",
+      "album": {
+        "name": "\u5922\u60f3\u5bb6 The Dreamer",
+        "url": "https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD"
+      },
+      "artists": [
+        {
+          "name": "Khalil Fong",
+          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
+        }
+      ],
+      "duration_ms": 236343,
+      "name": "\u56de\u7559",
+      "url": "https://open.spotify.com/track/5iFT7yzuvfK8WOqiN22QqX"
     },
     {
       "added_at": "2026-02-05 16:00:33",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-02-05 16:00:33",
       "album": {
-        "name": "!!!!",
-        "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
-      },
-      "artists": [
-        {
-          "name": "Chih Siou",
-          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
-        }
-      ],
-      "duration_ms": 216689,
-      "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
-      "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
-    },
-    {
-      "added_at": "2026-02-05 16:00:33",
-      "album": {
         "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
         "url": "https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 240285,
       "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
       "url": "https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0"
+    },
+    {
+      "added_at": "2026-02-05 16:00:33",
+      "album": {
+        "name": "!!!!",
+        "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
+      },
+      "artists": [
+        {
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+        }
+      ],
+      "duration_ms": 216689,
+      "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
+      "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
     },
     {
       "added_at": "2026-02-05 16:00:33",
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-02-05 16:00:33",
       "album": {
-        "name": "\u5d4c\u5165\u751f\u9577",
-        "url": "https://open.spotify.com/album/4WzTaRTT9piXbAzXyYIXvN"
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
       "artists": [
         {
-          "name": "\u52a0\u6728",
-          "url": "https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl"
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
         }
       ],
-      "duration_ms": 233949,
-      "name": "\u5074\u81c9",
-      "url": "https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz"
+      "duration_ms": 222266,
+      "name": "\u7aca\u7b11",
+      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
     },
     {
       "added_at": "2026-02-05 16:00:33",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-02-05 16:00:33",
       "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+        "name": "\u5d4c\u5165\u751f\u9577",
+        "url": "https://open.spotify.com/album/4WzTaRTT9piXbAzXyYIXvN"
       },
       "artists": [
         {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "\u52a0\u6728",
+          "url": "https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl"
         }
       ],
-      "duration_ms": 222266,
-      "name": "\u7aca\u7b11",
-      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+      "duration_ms": 233949,
+      "name": "\u5074\u81c9",
+      "url": "https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz"
     },
     {
       "added_at": "2026-02-05 16:00:33",

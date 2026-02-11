@@ -1210,10 +1210,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 126315,
       "name": "LEGEND, Pt. 1",
       "url": "https://open.spotify.com/track/1X2V62MMgJ19zDXPD2X2MJ"
+    },
+    {
+      "album": {
+        "name": "HERD IMMUNITY",
+        "url": "https://open.spotify.com/album/2YGdr1a5c3V6mpC6pxvEYU"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "LEGEND, Pt. 1",
+      "url": "https://open.spotify.com/track/7hrHSXqKIz2kTN7N7gfk1Y"
     },
     {
       "album": {

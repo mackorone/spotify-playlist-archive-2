@@ -2165,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Astral",
+        "url": "https://open.spotify.com/album/6rqF5Cx8HtkXzWtzcdeTQH"
+      },
+      "artists": [
+        {
+          "name": "Clari\u00e1",
+          "url": "https://open.spotify.com/artist/6Za8rqeiBcShSX1tzkUqkl"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238356,
+      "name": "Astral",
+      "url": "https://open.spotify.com/track/2zid4cfWtpcooEjSADhN2z"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot"
       },
@@ -30516,6 +30534,24 @@
       "duration_ms": 260282,
       "name": "The Machine",
       "url": "https://open.spotify.com/track/3MC6OOjEQtYqvWSjbwJS51"
+    },
+    {
+      "album": {
+        "name": "The Man of Many Faces",
+        "url": "https://open.spotify.com/album/3sfrbRSz5BBuWSVY2c3oZ0"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183919,
+      "name": "The Man of Many Faces",
+      "url": "https://open.spotify.com/track/6tgY6AA1lmQbIS4N0KYaB1"
     },
     {
       "album": {

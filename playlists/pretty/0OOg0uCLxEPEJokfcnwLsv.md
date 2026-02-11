@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 695 likes - 89 songs - 5 hr 37 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 698 likes - 92 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,8 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 87 | [Purple Wings](https://open.spotify.com/track/3FrWG2dq5dAvQVidWt3ORC) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [Purple Wings](https://open.spotify.com/album/6Yvrw0NredYIxJaxFjST52) | 5:41 |
 | 88 | [Shipwreck](https://open.spotify.com/track/0IQSAjyhwSk9xrwlwDFOvM) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Shipwreck](https://open.spotify.com/album/6AlUStpu1jaarNt1yb6CUi) | 3:12 |
 | 89 | [Letzter Kuss](https://open.spotify.com/track/24Y239nFAW5fky8A9BVH1r) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Letzter Kuss](https://open.spotify.com/album/1jevubVvUvW6JRZqiJgzMJ) | 4:01 |
+| 90 | [The Man's Always Getting Me Down](https://open.spotify.com/track/3dC2epYzUhJdjNRySyLc7x) | [Ben Aubergine](https://open.spotify.com/artist/3HoBbX5K0WawMbfNfXjqPz) | [The Man's Always Getting Me Down](https://open.spotify.com/album/5G7IrHgzWPFYZsVGvroARq) | 4:21 |
+| 91 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 |
+| 92 | [Be Able to Love](https://open.spotify.com/track/2WMcEWz3MGj2IkpaFxOi3W) | [EVGHENI TULGENCO](https://open.spotify.com/artist/65mGQebSGhzcpia0NZ4X3w) | [Be Able to Love](https://open.spotify.com/album/7aeQRtbSegbwni28Yb8QRo) | 3:06 |
 
-Snapshot ID: `AAAE3a05+h7VzJv558enrgYLiAzfZnLa`
+Snapshot ID: `AAAE4CEhOalKYzNlC2VHgBgM3cfvfysx`

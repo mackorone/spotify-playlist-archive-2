@@ -1,6 +1,6 @@
 {
   "description": "Classic rock to get your motor running. Cover: AC/DC",
-  "num_followers": 1250939,
+  "num_followers": 1251164,
   "original_name": "Classic Rock Drive",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAABA7f3418Iqxu3UxjF9xsvtAaHFg",
   "tracks": [
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Pendulum (Expanded Edition)",
-        "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 160133,
-      "name": "Have You Ever Seen The Rain",
-      "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
-    },
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 292333,
       "name": "Thunderstruck",
       "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Pendulum (Expanded Edition)",
+        "url": "https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 160133,
+      "name": "Have You Ever Seen The Rain",
+      "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Paint It, Black",
-      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Highway to Hell",
         "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 208110,
       "name": "Highway to Hell",
       "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Paint It, Black",
+      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 256000,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Back In Black",
         "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 210328,
       "name": "You Shook Me All Night Long",
       "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -427,22 +427,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
-      },
-      "artists": [
-        {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
-        }
-      ],
-      "duration_ms": 423840,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "90125 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 268506,
       "name": "Owner of a Lonely Heart",
       "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+        }
+      ],
+      "duration_ms": 423840,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
     },
     {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
-    },
-    {
       "added_at": "2024-03-26 13:19:07",
       "album": {
         "name": "Toys In The Attic",
@@ -551,6 +535,22 @@
       "duration_ms": 274088,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Steppenwolf",
-        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
-      },
-      "artists": [
-        {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Born To Be Wild - Single Version",
-      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Steppenwolf",
+        "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
+      },
+      "artists": [
+        {
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Born To Be Wild - Single Version",
+      "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
-      },
-      "artists": [
-        {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Dreamboat Annie",
         "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 328360,
       "name": "Magic Man",
       "url": "https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1821,22 +1821,6 @@
       "url": "https://open.spotify.com/track/3L60Vu9qmY6fg2QroRIxgi"
     },
     {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 111106,
-      "name": "The Happiest Days of Our Lives",
-      "url": "https://open.spotify.com/track/2O3l4X1yTua8oMMCtazkyo"
-    },
-    {
       "added_at": "2022-06-08 19:19:44",
       "album": {
         "name": "Fly By Night",
@@ -1851,6 +1835,22 @@
       "duration_ms": 202200,
       "name": "Fly By Night",
       "url": "https://open.spotify.com/track/54TaGh2JKs1pO9daXNXI5q"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 111106,
+      "name": "The Happiest Days of Our Lives",
+      "url": "https://open.spotify.com/track/2O3l4X1yTua8oMMCtazkyo"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1901,22 +1901,6 @@
       "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
     },
     {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
-      "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
-    },
-    {
       "added_at": "2022-06-08 19:19:44",
       "album": {
         "name": "Rush",
@@ -1931,6 +1915,22 @@
       "duration_ms": 429973,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/1gkn90ExKRNAOlhDs4RoW0"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Dancing In The Moonlight (It's Caught Me In It's Spotlight)",
+      "url": "https://open.spotify.com/track/6BmzbaB08O0FjHXeS0cR5b"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1965,6 +1965,22 @@
       "url": "https://open.spotify.com/track/3XcjIvaZVUFAIdIYZqY9bd"
     },
     {
+      "added_at": "2022-04-08 19:07:59",
+      "album": {
+        "name": "Flirtin' With Disaster",
+        "url": "https://open.spotify.com/album/7uFDBROeCBVOlV9CfZv0cT"
+      },
+      "artists": [
+        {
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+        }
+      ],
+      "duration_ms": 299200,
+      "name": "Flirtin' with Disaster",
+      "url": "https://open.spotify.com/track/61BywQA7q8KjpGjp3rHuRv"
+    },
+    {
       "added_at": "2021-03-02 18:13:49",
       "album": {
         "name": "Whitesnake (2018 Remaster)",
@@ -1995,22 +2011,6 @@
       "duration_ms": 240600,
       "name": "Jailbreak",
       "url": "https://open.spotify.com/track/4qbiCq2xkNPyojuZFeNeqx"
-    },
-    {
-      "added_at": "2022-04-08 19:07:59",
-      "album": {
-        "name": "Flirtin' With Disaster",
-        "url": "https://open.spotify.com/album/7uFDBROeCBVOlV9CfZv0cT"
-      },
-      "artists": [
-        {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
-        }
-      ],
-      "duration_ms": 299200,
-      "name": "Flirtin' with Disaster",
-      "url": "https://open.spotify.com/track/61BywQA7q8KjpGjp3rHuRv"
     },
     {
       "added_at": "2022-04-08 19:07:59",
@@ -2125,20 +2125,20 @@
       "url": "https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF"
     },
     {
-      "added_at": "2024-05-28 22:24:36",
+      "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Classic",
-        "url": "https://open.spotify.com/album/03XgnNQDve2dWqBG1ARjvR"
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
         }
       ],
-      "duration_ms": 257834,
-      "name": "Run To You (Classic Version)",
-      "url": "https://open.spotify.com/track/0gLEDVr1QbNtqTR00P1D8N"
+      "duration_ms": 508333,
+      "name": "Paradise By the Dashboard Light",
+      "url": "https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -2157,20 +2157,20 @@
       "url": "https://open.spotify.com/track/3ztKHejzVoxJRKSZHFFMdJ"
     },
     {
-      "added_at": "2021-03-02 18:13:49",
+      "added_at": "2024-05-28 22:24:36",
       "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM"
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/03XgnNQDve2dWqBG1ARjvR"
       },
       "artists": [
         {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 508333,
-      "name": "Paradise By the Dashboard Light",
-      "url": "https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU"
+      "duration_ms": 257834,
+      "name": "Run To You (Classic Version)",
+      "url": "https://open.spotify.com/track/0gLEDVr1QbNtqTR00P1D8N"
     },
     {
       "added_at": "2021-03-02 18:13:49",

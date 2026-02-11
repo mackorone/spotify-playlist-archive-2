@@ -4,7 +4,7 @@
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-95 songs - 8 hr 9 min
+96 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [El Shaday \(Ao Vivo\)](https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [El Shaday \(Ao Vivo\)](https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB) | 5:23 | 2024-01-18 | 2024-10-02 |
 | [Em Teu Nome Há Poder \(Ao Vivo\)](https://open.spotify.com/track/1BNQRaKNzpON8391fA1f6w) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Em Teu Nome Há Poder \(Ao Vivo\)](https://open.spotify.com/album/3MT5kzpvVPsjl1OzmdK1Ur) | 8:30 | 2023-12-13 | 2024-04-28 |
 | [Em Teu Nome Há Poder \(Ao Vivo\)](https://open.spotify.com/track/4dCYSSfMAwSmBhubwaMtgN) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Ele É Jesus \(Ao Vivo\)](https://open.spotify.com/album/1HkiodWGSRocxPIye85Feo) | 8:30 | 2024-04-29 | 2024-09-20 |
+| [Esse é o Tempo \- Ao Vivo](https://open.spotify.com/track/7eIciWAwHfLIOtd8txVvGC) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Esse é o Tempo \(Ao Vivo\)](https://open.spotify.com/album/5FBDdFLbOshcxouxjCWfQ2) | 5:31 | 2026-02-11 |  |
 | [Eu Creio \(Ao Vivo\)](https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Creio \(Ao Vivo\)](https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI) | 5:21 | 2026-01-29 |  |
 | [Eu Creio Nos Planos de Deus \- Ao Vivo](https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv) | 4:04 | 2025-02-08 |  |
 | [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6) | 5:38 | 2025-09-11 |  |
@@ -43,7 +44,7 @@
 | [Eu Quero Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/2Nb9mgW0c83TKElErV1hur) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Quero Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/7dgfrDeBKbyU8ExzdSbtcl) | 5:24 | 2023-07-09 | 2023-07-14 |
 | [Eu Sei que Não Estou Só](https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Com os Olhos da Fé](https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk) | 4:38 | 2023-07-09 |  |
 | [Eu Te Ouvi \- Ao Vivo](https://open.spotify.com/track/6Nd8xm5PxHE3E7cRtDRfP8) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Te Ouvi \(Ao Vivo\)](https://open.spotify.com/album/2U9dIctF3FOBSdHS4n1nnt) | 4:03 | 2024-07-13 |  |
-| [Faça Tudo Novo \- Ao Vivo](https://open.spotify.com/track/319Hr7LruSvK0neSYl2Bjo) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Faça Tudo Novo \(Ao Vivo\)](https://open.spotify.com/album/1cGoC3F84bnn2Wb2OunP6O) | 4:32 | 2026-01-15 |  |
+| [Faça Tudo Novo \- Ao Vivo](https://open.spotify.com/track/319Hr7LruSvK0neSYl2Bjo) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Faça Tudo Novo \(Ao Vivo\)](https://open.spotify.com/album/1cGoC3F84bnn2Wb2OunP6O) | 4:32 | 2026-01-15 | 2026-02-11 |
 | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Forma de Cuidado \(Ao Vivo\)](https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa) | 4:04 | 2023-07-09 |  |
 | [Força](https://open.spotify.com/track/5aZMrryYfsOa0GV95kjPO2) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:26 | 2023-07-09 |  |
 | [Fé e a Razão](https://open.spotify.com/track/0zWJggve8BGN44iUC5MxLP) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Incomparável](https://open.spotify.com/album/0BgFA0t9FPDRMA2QPgVRFU) | 3:44 | 2023-07-09 | 2025-10-19 |

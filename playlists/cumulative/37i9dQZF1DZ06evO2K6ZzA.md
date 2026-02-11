@@ -4,7 +4,7 @@
 
 > This is sombr\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 54 min
+33 songs - 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [do i ever cross your mind](https://open.spotify.com/track/5dt0PVoQ5xq5mvrJ1Bp3ou) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [do i ever cross your mind](https://open.spotify.com/album/64LvLycOf6UhESaamfZ2Yp) | 2:48 | 2025-12-30 |  |
 | [don't let me down](https://open.spotify.com/track/4zoE7mMAGOTbYFi4UmkTTb) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in another life](https://open.spotify.com/album/7s2brPeMK5VwHgOeTH6J4R) | 3:43 | 2025-12-30 |  |
 | [fine](https://open.spotify.com/track/7whMBp15emD4yuMLMTazmA) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [fine](https://open.spotify.com/album/6DnW8qL9nSPpOeYOYlyluz) | 3:52 | 2025-12-30 |  |
+| [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-11 |  |
 | [i don't know you anymore](https://open.spotify.com/track/5FCMqNc9fodjQRIXbG7Ld1) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [i don't know you anymore](https://open.spotify.com/album/4lih3eiFN9LVskoAk8FDWm) | 3:47 | 2025-12-30 |  |
 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 | 2025-12-30 |  |
 | [i'll remember tonight](https://open.spotify.com/track/06IdOdSeh4nnIgH3btVa7j) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [i'll remember tonight](https://open.spotify.com/album/6u6DZ9erldiL0ITDgqbFdl) | 3:57 | 2025-12-30 |  |

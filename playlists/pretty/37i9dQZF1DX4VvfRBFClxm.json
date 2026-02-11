@@ -1,6 +1,6 @@
 {
   "description": "A mix of soulful, folksy, and beloved singer-songwriter acoustic gems. Cover: Noah Kahan",
-  "num_followers": 1466991,
+  "num_followers": 1466945,
   "original_name": "Acoustic Hits",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Cold Little Heart (Radio Edit)",
-        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Cold Little Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "I Was / I Am",
         "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 239027,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Songs to Break Up To",
-        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 199391,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 203800,
       "name": "What Do You Mean? - Acoustic",
       "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Songs to Break Up To",
+        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 199391,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Your Song (Acoustic)",
         "url": "https://open.spotify.com/album/0qEUDm9Vrh5YE0BIoD1DLZ"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 188057,
       "name": "Can't See Straight - Acoustic",
       "url": "https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "A Pillar of Salt",
+        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 319053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Can't Help Falling In Love",
-        "url": "https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Can't Help Falling In Love",
-      "url": "https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "You Signed Up For This",
         "url": "https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 208320,
       "name": "Volcano",
       "url": "https://open.spotify.com/track/084opnma7Z8lJ8RQMTsMdt"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Can't Help Falling In Love",
+        "url": "https://open.spotify.com/album/1S3qHwtPhRzJ7wLu3QbWee"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "Can't Help Falling In Love",
+      "url": "https://open.spotify.com/track/4kfcKQXyllqS2JRxKdHBaP"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lego House - Single",
-        "url": "https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Lego House",
-      "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Old Friends",
         "url": "https://open.spotify.com/album/2zpHfAiut6wqmWNS3McrxI"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 213600,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Lego House - Single",
+        "url": "https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Lego House",
+      "url": "https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Lay It on Me (Acoustic)",
-        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 201561,
-      "name": "Lay It on Me - Acoustic",
-      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Craving (Acoustic)",
         "url": "https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 226240,
       "name": "Craving - Acoustic Version",
       "url": "https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Lay It on Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 201561,
+      "name": "Lay It on Me - Acoustic",
+      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
     },
     {
       "added_at": "2024-07-12 04:00:00",

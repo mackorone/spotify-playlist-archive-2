@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 6503,
+  "num_followers": 6505,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAADhicp9+mOLl2Ke7GTL10u+",
+  "snapshot_id": "aYkjgAAAAABEBF2Xp1xhihpL83zOaD8/",
   "tracks": [
     {
       "added_at": null,
@@ -43,30 +43,6 @@
       "duration_ms": 317013,
       "name": "Fica Tranquilo",
       "url": "https://open.spotify.com/track/5M3cdM4H3Lv425CN5Nq8cM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Escritor",
-        "url": "https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd"
-      },
-      "artists": [
-        {
-          "name": "Misaias Oliveira",
-          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
-        },
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 289248,
-      "name": "Escritor",
-      "url": "https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN"
     },
     {
       "added_at": null,
@@ -115,6 +91,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Escritor",
+        "url": "https://open.spotify.com/album/1EvoEIiPtezj0uAVKyvlVd"
+      },
+      "artists": [
+        {
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 289248,
+      "name": "Escritor",
+      "url": "https://open.spotify.com/track/0PBoBEHYRIdBV5JNywK2IN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
@@ -122,11 +122,15 @@
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Deus Vai Agir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
+      "duration_ms": 358973,
+      "name": "Se O Mar N\u00e3o Se Abrir / Cita\u00e7\u00e3o: Firme Nas Promessas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0vDhtdj7GlEWspnNvxTqb2"
     },
     {
       "added_at": null,
@@ -140,9 +144,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 238133,
-      "name": "Quem Nunca",
-      "url": "https://open.spotify.com/track/3g0GvJxgn2eZoJAdrqUdGk"
+      "duration_ms": 290040,
+      "name": "Nas M\u00e3os do Oleiro",
+      "url": "https://open.spotify.com/track/28fcOzkWlYVKVJDQntl4eO"
     },
     {
       "added_at": null,
@@ -198,15 +202,11 @@
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 358973,
-      "name": "Se O Mar N\u00e3o Se Abrir / Cita\u00e7\u00e3o: Firme Nas Promessas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0vDhtdj7GlEWspnNvxTqb2"
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 290040,
-      "name": "Nas M\u00e3os do Oleiro",
-      "url": "https://open.spotify.com/track/28fcOzkWlYVKVJDQntl4eO"
+      "duration_ms": 238133,
+      "name": "Quem Nunca",
+      "url": "https://open.spotify.com/track/3g0GvJxgn2eZoJAdrqUdGk"
     },
     {
       "added_at": null,
@@ -254,15 +254,11 @@
         {
           "name": "Todah Music",
           "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        },
-        {
-          "name": "Pablo Gabriel",
-          "url": "https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG"
         }
       ],
-      "duration_ms": 349984,
-      "name": "Deus do Amanh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FEw9JQkDELlGDDwqqVYKG"
+      "duration_ms": 543627,
+      "name": "Eliseu - Ao Vivo",
+      "url": "https://open.spotify.com/track/4z9cbMtDF6v9EpVXUWqWYM"
     },
     {
       "added_at": null,
@@ -334,11 +330,15 @@
         {
           "name": "Todah Music",
           "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        },
+        {
+          "name": "Pablo Gabriel",
+          "url": "https://open.spotify.com/artist/7jsrzqz6ClJH4P1lBaxNxG"
         }
       ],
-      "duration_ms": 543627,
-      "name": "Eliseu - Ao Vivo",
-      "url": "https://open.spotify.com/track/4z9cbMtDF6v9EpVXUWqWYM"
+      "duration_ms": 349984,
+      "name": "Deus do Amanh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FEw9JQkDELlGDDwqqVYKG"
     },
     {
       "added_at": null,
@@ -535,38 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 270533,
-      "name": "Por Tr\u00e1s Desse Sil\u00eancio",
-      "url": "https://open.spotify.com/track/1WmDM8aO0X9fxPO4I77Qc2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 258880,
-      "name": "A Porta do meu Quarto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilo",
         "url": "https://open.spotify.com/album/2U8Z37cBZSCuN6IVd9wrMu"
       },
@@ -587,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
       "artists": [
         {
@@ -596,9 +564,45 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 237187,
-      "name": "Vai Acontecer",
-      "url": "https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7"
+      "duration_ms": 258880,
+      "name": "A Porta do meu Quarto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7j22XYPTYKpk7QPdG2fCLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 270533,
+      "name": "Por Tr\u00e1s Desse Sil\u00eancio",
+      "url": "https://open.spotify.com/track/1WmDM8aO0X9fxPO4I77Qc2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/2jpAVrNOYTHLguyC7ccPGj"
     },
     {
       "added_at": null,
@@ -668,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 308059,
-      "name": "O Desfecho",
-      "url": "https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4"
+      "duration_ms": 237187,
+      "name": "Vai Acontecer",
+      "url": "https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7"
     },
     {
       "added_at": null,
@@ -734,15 +738,11 @@
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/2jpAVrNOYTHLguyC7ccPGj"
+      "duration_ms": 308059,
+      "name": "O Desfecho",
+      "url": "https://open.spotify.com/track/4wLdCnugMTuCRL3QnM0Nr4"
     },
     {
       "added_at": null,

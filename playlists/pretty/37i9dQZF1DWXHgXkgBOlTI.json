@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u795e\u4fdd\u5f70",
-  "num_followers": 32458,
+  "num_followers": 32464,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-02-04 05:10:43",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "Spartacus",
+      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
+    },
+    {
+      "added_at": "2026-02-04 05:10:43",
+      "album": {
         "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
         "url": "https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 494000,
       "name": "Yes! Ramen!! [Feat. Sonicwonder]",
       "url": "https://open.spotify.com/track/1KbsFchJaw3BU5iwnTrd8s"
-    },
-    {
-      "added_at": "2026-02-04 05:10:43",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
-      },
-      "artists": [
-        {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "Spartacus",
-      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
     },
     {
       "added_at": "2026-02-04 05:10:43",
@@ -755,22 +755,18 @@
     {
       "added_at": "2026-02-04 05:10:43",
       "album": {
-        "name": "Horns Riot",
-        "url": "https://open.spotify.com/album/75yKmLPDLWt0G9RdDlHNY6"
+        "name": "Start Over Focus",
+        "url": "https://open.spotify.com/album/4ILyp34lXBAY4y4S1by092"
       },
       "artists": [
         {
-          "name": "TRI4TH",
-          "url": "https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia"
-        },
-        {
-          "name": "Calmera",
-          "url": "https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw"
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
         }
       ],
-      "duration_ms": 247509,
-      "name": "Horns Riot",
-      "url": "https://open.spotify.com/track/23Qd9pGRAGYvkW769SDCIg"
+      "duration_ms": 242000,
+      "name": "SALVALAI",
+      "url": "https://open.spotify.com/track/4h3BoLlp0fvVODmaY9CIiB"
     },
     {
       "added_at": "2026-02-04 05:10:43",
@@ -807,6 +803,26 @@
     {
       "added_at": "2026-02-04 05:10:43",
       "album": {
+        "name": "Horns Riot",
+        "url": "https://open.spotify.com/album/75yKmLPDLWt0G9RdDlHNY6"
+      },
+      "artists": [
+        {
+          "name": "TRI4TH",
+          "url": "https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia"
+        },
+        {
+          "name": "Calmera",
+          "url": "https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw"
+        }
+      ],
+      "duration_ms": 247509,
+      "name": "Horns Riot",
+      "url": "https://open.spotify.com/track/23Qd9pGRAGYvkW769SDCIg"
+    },
+    {
+      "added_at": "2026-02-04 05:10:43",
+      "album": {
         "name": "New Horizon",
         "url": "https://open.spotify.com/album/3rYt9et8uKmF1ek5CPDW2F"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 146760,
       "name": "Greenfield",
       "url": "https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo"
-    },
-    {
-      "added_at": "2026-02-04 05:10:43",
-      "album": {
-        "name": "Start Over Focus",
-        "url": "https://open.spotify.com/album/4ILyp34lXBAY4y4S1by092"
-      },
-      "artists": [
-        {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "SALVALAI",
-      "url": "https://open.spotify.com/track/4h3BoLlp0fvVODmaY9CIiB"
     },
     {
       "added_at": "2026-02-04 05:10:43",

@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: D\u00e9yyess",
-  "num_followers": 1674316,
+  "num_followers": 1674262,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPUORfxDV7j1qozupquLah16yeTc",
+  "snapshot_id": "AAAAACKkSwJgYnPuZCpUqwSQ967roBDh",
   "tracks": [
     {
       "added_at": "2026-02-06 14:09:47",
@@ -25,24 +25,20 @@
       "url": "https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh"
     },
     {
-      "added_at": "2026-02-06 15:30:35",
+      "added_at": "2025-12-12 05:00:43",
       "album": {
-        "name": "Rein Me In (with Olivia Dean)",
-        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
       "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
         {
           "name": "Olivia Dean",
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 339410,
-      "name": "Rein Me In (with Olivia Dean)",
-      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
       "added_at": "2026-01-30 05:01:06",
@@ -63,18 +59,18 @@
     {
       "added_at": "2025-12-12 05:00:43",
       "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
+      "duration_ms": 180000,
+      "name": "Sweet Boy",
+      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -93,20 +89,20 @@
       "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
     },
     {
-      "added_at": "2025-12-12 05:00:43",
+      "added_at": "2026-01-30 05:01:06",
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+        "name": "Luckiest",
+        "url": "https://open.spotify.com/album/5HXRBBh6x0VHAIS0hNVC0L"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "Beeson",
+          "url": "https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Sweet Boy",
-      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa"
+      "duration_ms": 185734,
+      "name": "Luckiest",
+      "url": "https://open.spotify.com/track/2U2skQkpTjmR1HlfMvHE7S"
     },
     {
       "added_at": "2026-02-06 14:33:31",
@@ -205,6 +201,22 @@
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
     },
     {
+      "added_at": "2026-01-16 05:00:34",
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
       "added_at": "2025-12-12 05:00:43",
       "album": {
         "name": "Lady Lady",
@@ -223,22 +235,6 @@
     {
       "added_at": "2025-12-12 05:00:43",
       "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 218660,
-      "name": "Sally, When The Wine Runs Out",
-      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -253,20 +249,20 @@
       "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
     },
     {
-      "added_at": "2026-01-16 05:00:34",
+      "added_at": "2025-12-12 05:00:43",
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Earrings",
-      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+      "duration_ms": 218660,
+      "name": "Sally, When The Wine Runs Out",
+      "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -289,68 +285,24 @@
       "url": "https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq"
     },
     {
-      "added_at": "2025-12-12 05:00:43",
+      "added_at": "2026-02-06 15:30:35",
       "album": {
-        "name": "Fancy That",
-        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+        "name": "Rein Me In (with Olivia Dean)",
+        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 149666,
-      "name": "Illegal",
-      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
-      },
-      "artists": [
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
-    },
-    {
-      "added_at": "2026-01-27 19:16:07",
-      "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
-    },
-    {
-      "added_at": "2026-01-05 17:11:06",
-      "album": {
-        "name": "LOVE YOU LESS",
-        "url": "https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 201186,
-      "name": "LOVE YOU LESS",
-      "url": "https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY"
+      "duration_ms": 339410,
+      "name": "Rein Me In (with Olivia Dean)",
+      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
     },
     {
       "added_at": "2026-02-06 14:09:47",
@@ -371,6 +323,70 @@
     {
       "added_at": "2025-12-12 05:00:43",
       "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 149666,
+      "name": "Illegal",
+      "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
+    },
+    {
+      "added_at": "2026-01-27 19:16:07",
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "added_at": "2025-12-12 05:00:43",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
+    },
+    {
+      "added_at": "2026-01-05 17:11:06",
+      "album": {
+        "name": "LOVE YOU LESS",
+        "url": "https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 201186,
+      "name": "LOVE YOU LESS",
+      "url": "https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY"
+    },
+    {
+      "added_at": "2025-12-12 05:00:43",
+      "album": {
         "name": "d\u00a3aler",
         "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
       },
@@ -383,6 +399,22 @@
       "duration_ms": 160666,
       "name": "d\u00a3aler",
       "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
+    },
+    {
+      "added_at": "2025-12-12 05:00:43",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 232375,
+      "name": "i wish i knew how to quit you",
+      "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -461,6 +493,22 @@
       "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
     },
     {
+      "added_at": "2026-02-06 14:09:47",
+      "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 128986,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
+    },
+    {
       "added_at": "2025-12-12 05:00:43",
       "album": {
         "name": "lucre",
@@ -483,22 +531,6 @@
     {
       "added_at": "2025-12-12 05:00:43",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M"
-      },
-      "artists": [
-        {
-          "name": "Jace June",
-          "url": "https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP"
-        }
-      ],
-      "duration_ms": 168001,
-      "name": "Come Home",
-      "url": "https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
         "name": "I\u2019m Only F**king Myself",
         "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
       },
@@ -515,34 +547,18 @@
     {
       "added_at": "2025-12-12 05:00:43",
       "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Jace June",
+          "url": "https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP"
         }
       ],
-      "duration_ms": 232375,
-      "name": "i wish i knew how to quit you",
-      "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
-    },
-    {
-      "added_at": "2026-02-06 14:09:47",
-      "album": {
-        "name": "Piss In The Wind",
-        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 128986,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/0haXcqxsgfbGTq6OYjLyIs"
+      "duration_ms": 168001,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -667,6 +683,22 @@
     {
       "added_at": "2025-12-12 05:00:43",
       "album": {
+        "name": "Past Won't Leave My Bed",
+        "url": "https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 166106,
+      "name": "Past Won't Leave My Bed",
+      "url": "https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ"
+    },
+    {
+      "added_at": "2025-12-12 05:00:43",
+      "album": {
         "name": "Shelly 2",
         "url": "https://open.spotify.com/album/4THHnIlzoybD2SpgzsAmCX"
       },
@@ -679,6 +711,22 @@
       "duration_ms": 228692,
       "name": "Cross Your Mind",
       "url": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84"
+    },
+    {
+      "added_at": "2026-01-16 15:43:34",
+      "album": {
+        "name": "At The Beach, In Every Life",
+        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 303698,
+      "name": "Sugar Water",
+      "url": "https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -699,38 +747,6 @@
       "duration_ms": 179373,
       "name": "Bleed (feat. Omar Apollo)",
       "url": "https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "Past Won't Leave My Bed",
-        "url": "https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Past Won't Leave My Bed",
-      "url": "https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ"
-    },
-    {
-      "added_at": "2026-01-16 15:43:34",
-      "album": {
-        "name": "At The Beach, In Every Life",
-        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 303698,
-      "name": "Sugar Water",
-      "url": "https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -799,22 +815,6 @@
     {
       "added_at": "2025-12-12 05:00:43",
       "album": {
-        "name": "Take A Drive",
-        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Take A Drive",
-      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
         "name": "terrible4u",
         "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
       },
@@ -827,6 +827,22 @@
       "duration_ms": 198092,
       "name": "terrible4u",
       "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
+    },
+    {
+      "added_at": "2025-12-12 05:00:43",
+      "album": {
+        "name": "Take A Drive",
+        "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Take A Drive",
+      "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
     },
     {
       "added_at": "2026-01-16 05:00:34",
@@ -909,6 +925,22 @@
       "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
     },
     {
+      "added_at": "2026-02-06 14:37:06",
+      "album": {
+        "name": "double edged sword",
+        "url": "https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "duration_ms": 208023,
+      "name": "double edged sword",
+      "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
+    },
+    {
       "added_at": "2025-12-12 05:00:43",
       "album": {
         "name": "The Clearing",
@@ -939,22 +971,6 @@
       "duration_ms": 206652,
       "name": "Vampire Bat",
       "url": "https://open.spotify.com/track/4rLyT7uQtWQRtGShwTaUju"
-    },
-    {
-      "added_at": "2026-02-06 14:37:06",
-      "album": {
-        "name": "double edged sword",
-        "url": "https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW"
-      },
-      "artists": [
-        {
-          "name": "Hailey Picardi",
-          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
-        }
-      ],
-      "duration_ms": 208023,
-      "name": "double edged sword",
-      "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -1025,22 +1041,6 @@
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
     },
     {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "This Is The World (I Made It For You) / Nice Day",
-        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 281786,
-      "name": "This Is The World (I Made It For You)",
-      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
-    },
-    {
       "added_at": "2026-01-23 05:28:47",
       "album": {
         "name": "The Lady on the Moon",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2025-12-12 05:00:43",
       "album": {
+        "name": "This Is The World (I Made It For You) / Nice Day",
+        "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 281786,
+      "name": "This Is The World (I Made It For You)",
+      "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
+    },
+    {
+      "added_at": "2025-12-12 05:00:43",
+      "album": {
         "name": "Hemingway",
         "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
       },
@@ -1071,6 +1087,38 @@
       "duration_ms": 196697,
       "name": "Hemingway",
       "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
+    },
+    {
+      "added_at": "2026-02-06 14:09:47",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 266129,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
+    },
+    {
+      "added_at": "2026-02-06 14:09:47",
+      "album": {
+        "name": "Under The Streetlights",
+        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 213483,
+      "name": "I Should Know Better",
+      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -1105,22 +1153,6 @@
       "url": "https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6"
     },
     {
-      "added_at": "2026-02-06 14:09:47",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 266129,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
-    },
-    {
       "added_at": "2026-01-16 05:00:34",
       "album": {
         "name": "Memory Be a Blade",
@@ -1135,22 +1167,6 @@
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "Chasing The Chimera",
-        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 231499,
-      "name": "Small Town Joan of Arc",
-      "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
     },
     {
       "added_at": "2026-01-16 05:00:34",
@@ -1169,20 +1185,20 @@
       "url": "https://open.spotify.com/track/0vjwvjTIr3xicvWyDbMRLm"
     },
     {
-      "added_at": "2026-02-06 14:09:47",
+      "added_at": "2025-12-12 05:00:43",
       "album": {
-        "name": "Under The Streetlights",
-        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
+        "name": "Chasing The Chimera",
+        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
         }
       ],
-      "duration_ms": 213483,
-      "name": "I Should Know Better",
-      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
+      "duration_ms": 231499,
+      "name": "Small Town Joan of Arc",
+      "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -1373,22 +1389,6 @@
       "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
     },
     {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "portals//polarities",
-        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 256481,
-      "name": "leave it all behind, Mike",
-      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
-    },
-    {
       "added_at": "2026-01-30 05:01:06",
       "album": {
         "name": "I Hope You Don't Remember Me",
@@ -1403,6 +1403,22 @@
       "duration_ms": 205500,
       "name": "I Hope You Don't Remember Me",
       "url": "https://open.spotify.com/track/0H1iIWraMgzBMIQglJQXvJ"
+    },
+    {
+      "added_at": "2025-12-12 05:00:43",
+      "album": {
+        "name": "portals//polarities",
+        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 256481,
+      "name": "leave it all behind, Mike",
+      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
     },
     {
       "added_at": "2026-01-16 16:09:32",
@@ -1569,6 +1585,22 @@
       "url": "https://open.spotify.com/track/1xo0olV5DcTUQX9cpoUv5m"
     },
     {
+      "added_at": "2026-01-23 05:28:47",
+      "album": {
+        "name": "Tainted",
+        "url": "https://open.spotify.com/album/1RLsN47hAGZn9ab3diH7MM"
+      },
+      "artists": [
+        {
+          "name": "Borderline",
+          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Tainted",
+      "url": "https://open.spotify.com/track/7EVuRBZoqoW6uVrSlv3m7Y"
+    },
+    {
       "added_at": "2025-12-12 05:00:43",
       "album": {
         "name": "Paranoia",
@@ -1589,20 +1621,20 @@
       "url": "https://open.spotify.com/track/3NmT8Lem5MY63PEUf3iDKj"
     },
     {
-      "added_at": "2026-01-23 05:28:47",
+      "added_at": "2025-12-12 05:00:43",
       "album": {
-        "name": "Tainted",
-        "url": "https://open.spotify.com/album/1RLsN47hAGZn9ab3diH7MM"
+        "name": "flower",
+        "url": "https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH"
       },
       "artists": [
         {
-          "name": "Borderline",
-          "url": "https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ"
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Tainted",
-      "url": "https://open.spotify.com/track/7EVuRBZoqoW6uVrSlv3m7Y"
+      "duration_ms": 148495,
+      "name": "flower",
+      "url": "https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -1619,22 +1651,6 @@
       "duration_ms": 193887,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/4WDzpyln8Ac9JbElIEv2bl"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "flower",
-        "url": "https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 148495,
-      "name": "flower",
-      "url": "https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF"
     },
     {
       "added_at": "2025-12-12 05:00:43",
@@ -1683,30 +1699,6 @@
       "duration_ms": 189296,
       "name": "Water in the Room",
       "url": "https://open.spotify.com/track/6jD8X49YmTeMryIv14P1il"
-    },
-    {
-      "added_at": "2025-12-12 05:00:43",
-      "album": {
-        "name": "Baby Chop",
-        "url": "https://open.spotify.com/album/2T5gFlPWWhKIgLjAORrIwh"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        },
-        {
-          "name": "No Rome",
-          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 213743,
-      "name": "Baby Chop",
-      "url": "https://open.spotify.com/track/7uE1ItStahZOmoJTGBfR9w"
     }
   ],
   "unique_name": "Indie Pop",

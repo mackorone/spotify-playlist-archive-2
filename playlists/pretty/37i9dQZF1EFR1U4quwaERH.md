@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 38 | [That Ain't Gonna Work](https://open.spotify.com/track/5GMBBeXAaPginxJD3Xr6sV) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [That Ain't Gonna Work](https://open.spotify.com/album/3eMtCjoy2mC30MRLrwbMMg) | 3:08 |
 | 39 | [White Man](https://open.spotify.com/track/5zyyicAObouqjww4FL7vsP) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:13 |
 | 40 | [Follows](https://open.spotify.com/track/2MGwAvO56lblxFlggZVd9x) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Grace](https://open.spotify.com/artist/4iLp5b76SpDZGgOjkH2eBB) | [Before We Go](https://open.spotify.com/album/41ZB4TvqplWsBpk4h3hf94) | 4:00 |
-| 41 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
-| 42 | [High Key](https://open.spotify.com/track/26conjuiPm1qB5KnLUtYar) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/4FYQFYBKEVSjNNHk5aU2TR) | 2:12 |
+| 41 | [High Key](https://open.spotify.com/track/26conjuiPm1qB5KnLUtYar) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/4FYQFYBKEVSjNNHk5aU2TR) | 2:12 |
+| 42 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
 | 43 | [Impala](https://open.spotify.com/track/1hSd9wVOZKN9bkctsRMSJM) | [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [APPETITE FOR DISASTER](https://open.spotify.com/album/2xKVOKhRSFgKTrwhTPGoZe) | 3:07 |
 | 44 | [Special](https://open.spotify.com/track/7fbTqRCqyNVguCbUDGUGzG) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL), [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [Special](https://open.spotify.com/album/1svkjtosqPMrU78xbCf0MM) | 3:38 |
 | 45 | [Enough](https://open.spotify.com/track/69t1HCs16EDsBuso21e2cT) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 3:05 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 84 | [WADE](https://open.spotify.com/track/1LoOSpYVTugNmrB0bWszvC) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/7Ba5HRA90FvV54xFVRNfDs) | 2:46 |
 | 85 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcJPiAAAAAC8D6YjSB6uNVsZlyVC5ED/`
+Snapshot ID: `AcJVKAAAAADF8Cvd4ckeEXiwiQO5jmSE`

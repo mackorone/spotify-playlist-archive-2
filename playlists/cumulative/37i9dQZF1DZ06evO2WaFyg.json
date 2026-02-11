@@ -1769,6 +1769,36 @@
     },
     {
       "album": {
+        "name": "Slime Language 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre"
+      },
+      "artists": [
+        {
+          "name": "Young Stoner Life",
+          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Bslime",
+          "url": "https://open.spotify.com/artist/2EnD37GNRe2REqHBKqMnZQ"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225173,
+      "name": "No Surprise (feat. Don Toliver & Bslime)",
+      "url": "https://open.spotify.com/track/5yjcHfRu0LWD9XpvWabQGj"
+    },
+    {
+      "album": {
         "name": "Trap House 3",
         "url": "https://open.spotify.com/album/4iTLFFT8jaDsQcLnS08vvL"
       },
@@ -2458,7 +2488,7 @@
       ],
       "date_added": "2023-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 366592,
       "name": "SKITZO (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0bkV1iQHSxBaksUqgEkcbc"

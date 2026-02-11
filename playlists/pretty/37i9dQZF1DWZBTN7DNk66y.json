@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 28359,
+  "num_followers": 28361,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -259,26 +259,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "El Viejo",
-        "url": "https://open.spotify.com/album/5p7kLopaRQvub9x68Tk8Bk"
-      },
-      "artists": [
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        },
-        {
-          "name": "Sebasti\u00e1n Teysera",
-          "url": "https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK"
-        }
-      ],
-      "duration_ms": 209261,
-      "name": "El Viejo",
-      "url": "https://open.spotify.com/track/3ugyzwRwTTIKGkfKPFbmD5"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Se Vos",
         "url": "https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 276252,
       "name": "Se Vos",
       "url": "https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "El Viejo",
+        "url": "https://open.spotify.com/album/5p7kLopaRQvub9x68Tk8Bk"
+      },
+      "artists": [
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        },
+        {
+          "name": "Sebasti\u00e1n Teysera",
+          "url": "https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK"
+        }
+      ],
+      "duration_ms": 209261,
+      "name": "El Viejo",
+      "url": "https://open.spotify.com/track/3ugyzwRwTTIKGkfKPFbmD5"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "Los Ojos del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Morris",
+          "url": "https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi"
+        }
+      ],
+      "duration_ms": 231038,
+      "name": "Barquito de Papel",
+      "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "Si Me Voy Antes Que Vos",
         "url": "https://open.spotify.com/album/6oQhH2tBt62FLkyJDuhD1e"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 151564,
       "name": "Si Me Voy Antes Que Vos",
       "url": "https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "Los Ojos del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Morris",
-          "url": "https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi"
-        }
-      ],
-      "duration_ms": 231038,
-      "name": "Barquito de Papel",
-      "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "Te vamos a salvar",
+        "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
+      },
+      "artists": [
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
+      "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "\u00c1rboles",
         "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 222006,
       "name": "Amor Amor",
       "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "Te vamos a salvar",
-        "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
-      },
-      "artists": [
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
-      "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "V13",
-        "url": "https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        },
-        {
-          "name": "Vera Frod",
-          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
-        }
-      ],
-      "duration_ms": 175810,
-      "name": "V13",
-      "url": "https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Sampa",
         "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 269540,
       "name": "Sampa",
       "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "V13",
+        "url": "https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        },
+        {
+          "name": "Vera Frod",
+          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
+        }
+      ],
+      "duration_ms": 175810,
+      "name": "V13",
+      "url": "https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "Las Luces Que Estaban Ocultas [en vivo]",
+        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
+      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "Vals de la Luna (Vivo en Madrid)",
         "url": "https://open.spotify.com/album/4GUXXkfXgUVlbbp9yhzNmb"
       },
@@ -1119,18 +1135,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Las Luces Que Estaban Ocultas [en vivo]",
-        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
+        "name": "Qui\u00e9n da M\u00e1s?",
+        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
       },
       "artists": [
         {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+          "name": "Marcos French",
+          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 324000,
-      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
-      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
+      "duration_ms": 272010,
+      "name": "Qui\u00e9n da M\u00e1s?",
+      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1151,26 +1171,6 @@
       "duration_ms": 203701,
       "name": "Juana De C\u00e1diz",
       "url": "https://open.spotify.com/track/6HPltAAAB93eEXGfPuDW7K"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "Qui\u00e9n da M\u00e1s?",
-        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
-      },
-      "artists": [
-        {
-          "name": "Marcos French",
-          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 272010,
-      "name": "Qui\u00e9n da M\u00e1s?",
-      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Sur",
-        "url": "https://open.spotify.com/album/1ktpb9wyvA5xAt3wP6lCLK"
-      },
-      "artists": [
-        {
-          "name": "Seba Alfaro",
-          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
-        }
-      ],
-      "duration_ms": 193910,
-      "name": "Cobquecura",
-      "url": "https://open.spotify.com/track/5ZnFgUWXHN7mfxcLWb4adt"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 190691,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Sur",
+        "url": "https://open.spotify.com/album/1ktpb9wyvA5xAt3wP6lCLK"
+      },
+      "artists": [
+        {
+          "name": "Seba Alfaro",
+          "url": "https://open.spotify.com/artist/4BsdSj5TfV0HQiUwdRBQbk"
+        }
+      ],
+      "duration_ms": 193910,
+      "name": "Cobquecura",
+      "url": "https://open.spotify.com/track/5ZnFgUWXHN7mfxcLWb4adt"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
-        "url": "https://open.spotify.com/album/3uH2ROBFtaK4OtCeGnN8ve"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
-      "url": "https://open.spotify.com/track/4eHeoo5GeKXidSyxflaTjY"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Fuera de mi lugar (a la medianoche)",
         "url": "https://open.spotify.com/album/4n6x8opHANhAIi6MulKw9o"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 235558,
       "name": "Fuera de mi lugar (a la medianoche)",
       "url": "https://open.spotify.com/track/2RIP2mkuJTH4D7zkS9zf7F"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
+        "url": "https://open.spotify.com/album/3uH2ROBFtaK4OtCeGnN8ve"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "\u00bfQu\u00e9 Ser\u00e1 de Ti?",
+      "url": "https://open.spotify.com/track/4eHeoo5GeKXidSyxflaTjY"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1707,8 +1707,8 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "El Sol Est\u00e1 Mojado",
-        "url": "https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY"
+        "name": "Ba\u00f1era",
+        "url": "https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX"
       },
       "artists": [
         {
@@ -1716,13 +1716,13 @@
           "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
         },
         {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
         }
       ],
-      "duration_ms": 255290,
-      "name": "El Sol Est\u00e1 Mojado",
-      "url": "https://open.spotify.com/track/0S5X7mezP843brjI9SfQr2"
+      "duration_ms": 152381,
+      "name": "Ba\u00f1era",
+      "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Dos Hemisferios",
-        "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 215931,
-      "name": "Dos Hemisferios",
-      "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Sexo y Sushi",
         "url": "https://open.spotify.com/album/6KkeJ1xofRxxvVkTpuG1hu"
       },
@@ -1807,26 +1787,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Ba\u00f1era",
-        "url": "https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        },
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 152381,
-      "name": "Ba\u00f1era",
-      "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Cantor",
         "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
       },
@@ -1839,6 +1799,46 @@
       "duration_ms": 211719,
       "name": "Cantor",
       "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "El Sol Est\u00e1 Mojado",
+        "url": "https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        },
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 255290,
+      "name": "El Sol Est\u00e1 Mojado",
+      "url": "https://open.spotify.com/track/0S5X7mezP843brjI9SfQr2"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Dos Hemisferios",
+        "url": "https://open.spotify.com/album/0qOwKIT9GbWmRMUNi84yF8"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 215931,
+      "name": "Dos Hemisferios",
+      "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
     },
     {
       "added_at": "2026-01-09 03:00:10",

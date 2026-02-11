@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 961668,
+  "num_followers": 961692,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
+        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 178355,
+      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
+      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Something Just Like This",
         "url": "https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 217935,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/3Iy7HHDobkkXJuBrSbuoU0"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
-        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 178355,
-      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
-      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
-      },
-      "artists": [
-        {
-          "name": "Reggii",
-          "url": "https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP"
-        }
-      ],
-      "duration_ms": 174837,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Send My Love (To Your New Lover) [Live]",
         "url": "https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Derivatives",
-        "url": "https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
       },
       "artists": [
         {
-          "name": "William Fitzsimmons",
-          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+          "name": "Reggii",
+          "url": "https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP"
         }
       ],
-      "duration_ms": 192639,
-      "name": "I Kissed a Girl",
-      "url": "https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc"
+      "duration_ms": 174837,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1059,6 +1043,22 @@
       "duration_ms": 183472,
       "name": "Don't Wanna Know - Acoustic Version",
       "url": "https://open.spotify.com/track/4fHJwyR7JILiSAbLyXcrKx"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Derivatives",
+        "url": "https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4"
+      },
+      "artists": [
+        {
+          "name": "William Fitzsimmons",
+          "url": "https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM"
+        }
+      ],
+      "duration_ms": 192639,
+      "name": "I Kissed a Girl",
+      "url": "https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Brandy (You're a Fine Girl)",
-        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
+        "name": "High and Dry",
+        "url": "https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2"
       },
       "artists": [
         {
-          "name": "Catey Shaw",
-          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 208198,
-      "name": "Brandy (You're a Fine Girl)",
-      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
+      "duration_ms": 249752,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/7bwd4cmXcxV1tcv391C1IX"
+        "name": "Brandy (You're a Fine Girl)",
+        "url": "https://open.spotify.com/album/4MBX8MJkzfTltROCMA4FUy"
       },
       "artists": [
         {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+          "name": "Catey Shaw",
+          "url": "https://open.spotify.com/artist/5nfow6tv4Dtm6K4WHzczBI"
         }
       ],
-      "duration_ms": 201683,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e"
+      "duration_ms": 208198,
+      "name": "Brandy (You're a Fine Girl)",
+      "url": "https://open.spotify.com/track/3fORBfRj5nyTDvsCslufoH"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/7bwd4cmXcxV1tcv391C1IX"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 201683,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Please Keep Loving Me (Acoustic)",
         "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 231582,
       "name": "Once In a While - Acoustic",
       "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "High and Dry",
-        "url": "https://open.spotify.com/album/6O8BafrfHOLH6V2v3dsPV2"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 249752,
-      "name": "High and Dry",
-      "url": "https://open.spotify.com/track/5jUExRL4pCNDYPz9qzzK2F"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 227279,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Dancing In The Moonlight: The Best Of Toploader",
         "url": "https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 180573,
       "name": "Dancing in the Moonlight - Acoustic Version",
       "url": "https://open.spotify.com/track/3whQonlWrOjLVkZcA1GQsV"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Shut up and Dance",
-        "url": "https://open.spotify.com/album/73nVNq34LtpDZmRHWV1fo0"
-      },
-      "artists": [
-        {
-          "name": "Anchor + Bell",
-          "url": "https://open.spotify.com/artist/1mjqymUKo7KbLtvfYD386t"
-        }
-      ],
-      "duration_ms": 176182,
-      "name": "Shut up and Dance",
-      "url": "https://open.spotify.com/track/7K9GqO7ciCHJe2bkoZoM5i"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
+        "name": "Shut up and Dance",
+        "url": "https://open.spotify.com/album/73nVNq34LtpDZmRHWV1fo0"
       },
       "artists": [
         {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+          "name": "Anchor + Bell",
+          "url": "https://open.spotify.com/artist/1mjqymUKo7KbLtvfYD386t"
         }
       ],
-      "duration_ms": 227279,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2"
+      "duration_ms": 176182,
+      "name": "Shut up and Dance",
+      "url": "https://open.spotify.com/track/7K9GqO7ciCHJe2bkoZoM5i"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0w8ZP4LJNTahWf43STWyIA"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/5FwD0r8W7XSBtXc7Jb4HuC"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Havana (Acoustic)",
         "url": "https://open.spotify.com/album/6h1bLyGqSOqyh1kjN4yz3T"
       },
@@ -2151,22 +2167,6 @@
       "duration_ms": 272000,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/4hh1aGOyYlqVEeHWTghR6v"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0w8ZP4LJNTahWf43STWyIA"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/5FwD0r8W7XSBtXc7Jb4HuC"
     },
     {
       "added_at": "2024-07-10 07:20:21",

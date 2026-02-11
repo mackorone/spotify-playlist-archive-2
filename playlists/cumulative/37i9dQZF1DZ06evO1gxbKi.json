@@ -218,7 +218,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 142498,
       "name": "Bells Of St. Mary's",
       "url": "https://open.spotify.com/track/611n0U5H1a1KW9fyDlJGja"
@@ -370,6 +370,24 @@
       "duration_ms": 110270,
       "name": "Can't Sit Down - Live",
       "url": "https://open.spotify.com/track/2gghVdo9UnrCAf07hE8l4f"
+    },
+    {
+      "album": {
+        "name": "The Best Of Sister Rosetta Tharpe",
+        "url": "https://open.spotify.com/album/0JxBYG03IPDAcCdNEtQq7x"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227636,
+      "name": "Claiming Jesus",
+      "url": "https://open.spotify.com/track/1Zk9d0kAMofNfP347eTwPH"
     },
     {
       "album": {
@@ -2402,10 +2420,28 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 167373,
       "name": "Strange Things Happening Every Day",
       "url": "https://open.spotify.com/track/2xzjrWmKD8lh4H4tgmVorQ"
+    },
+    {
+      "album": {
+        "name": "Just Shout!",
+        "url": "https://open.spotify.com/album/0xVdSd5cOmnLrp96uLqAPR"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167373,
+      "name": "Strange Things Happening Every Day",
+      "url": "https://open.spotify.com/track/65QPlBzfKi0Kg00YU4rrvA"
     },
     {
       "album": {

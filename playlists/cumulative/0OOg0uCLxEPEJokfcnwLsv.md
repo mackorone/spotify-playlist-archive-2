@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-295 songs - 18 hr 21 min
+298 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Back on the Chain Gang](https://open.spotify.com/track/780AZOfAaKecd83UUEYqVW) | [Gigi Scott](https://open.spotify.com/artist/333VviZLcrBgqyvaX9Tab8) | [Back on the Chain Gang](https://open.spotify.com/album/1TtpRhlOogrGGRaf1Zr2wV) | 4:09 | 2025-12-29 | 2026-01-21 |
 | [Back to Zero](https://open.spotify.com/track/5h4P5D7fapPvJE2u9Z4V03) | [Aaron Friend & the Enemies](https://open.spotify.com/artist/1w0QljQB8KWyuRWEnBgTeM) | [Back to Zero](https://open.spotify.com/album/2YVLvdyUCUsHdT9dhzUxHv) | 2:55 | 2025-11-26 | 2026-01-05 |
 | [Baron Samedi](https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 4:33 | 2026-01-28 |  |
+| [Be Able to Love](https://open.spotify.com/track/2WMcEWz3MGj2IkpaFxOi3W) | [EVGHENI TULGENCO](https://open.spotify.com/artist/65mGQebSGhzcpia0NZ4X3w) | [Be Able to Love](https://open.spotify.com/album/7aeQRtbSegbwni28Yb8QRo) | 3:06 | 2026-02-10 |  |
 | [Been So Long](https://open.spotify.com/track/181JBo6fgmCPougtkMU4xO) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Been So Long](https://open.spotify.com/album/4KdRx4zeATizHzXA5T45TK) | 4:01 | 2025-12-20 | 2026-01-21 |
 | [Bella](https://open.spotify.com/track/1ASPU1mX9IhqhiwcCN3WHb) | [Andacia](https://open.spotify.com/artist/6V8nJSc2EDQYdwfKzNA9pd) | [Bella](https://open.spotify.com/album/66UowctBk5iPa9KdvyxeZO) | 3:21 | 2026-01-12 |  |
 | [Big Momma's Door](https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Big Momma's Door](https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj) | 5:13 | 2025-12-22 | 2026-01-21 |
@@ -173,6 +174,7 @@
 | [Más Dulce que Gris](https://open.spotify.com/track/2bvd7uARfmVQ1GDtuoQSlT) | [Delirio](https://open.spotify.com/artist/3Fpq6dElb8GooXoecLKM7G) | [VITRUM](https://open.spotify.com/album/056vQabi5S1twEzRiW8o2y) | 4:33 | 2026-01-22 |  |
 | [Never Gonna Make You Mine](https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Never Gonna Make You Mine](https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz) | 3:02 | 2025-11-21 | 2025-12-12 |
 | [NO](https://open.spotify.com/track/0EVKsHWoodqSaburPbBUzJ) | [MONOBERMUDO](https://open.spotify.com/artist/3LMo7RbDhqPnuLwtfGQihv) | [NO](https://open.spotify.com/album/19v34ghKtt5qmrLZySuq4K) | 1:59 | 2025-11-04 | 2025-11-22 |
+| [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-02-10 |  |
 | [No Regrets](https://open.spotify.com/track/5VYopasSs1SJL9l6fgqTZA) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [No Regrets](https://open.spotify.com/album/76jbaG6yFjt6m3jQIIFxgF) | 3:02 | 2025-11-13 | 2025-12-12 |
 | [No Sympathy](https://open.spotify.com/track/26gB1uyvQVxwFDNOs68Tfw) | [Tia Rose](https://open.spotify.com/artist/1gGadeENa0utvSOoPSlLSc) | [No Sympathy](https://open.spotify.com/album/32faOwJCBADaLbFoPtrcbx) | 3:27 | 2025-12-11 | 2026-01-05 |
 | [Notopia](https://open.spotify.com/track/2cuabAoFvJj2yx1xDhjxee) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 3:55 | 2025-10-27 | 2025-11-22 |
@@ -250,6 +252,7 @@
 | [The Hook](https://open.spotify.com/track/1d56JDKGyZatnz6RRJjHcO) | [PRÝNCESS](https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt) | [The Hook](https://open.spotify.com/album/2OOTX25BaTsbeoSL5yvNWy) | 2:38 | 2025-12-03 | 2025-12-28 |
 | [The Hope and Desperation of the Sea](https://open.spotify.com/track/6lxU2is3bvGg1qzCpZXMOo) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [The Hope and Desperation of the Sea](https://open.spotify.com/album/74S6lWVbgQSkyDmqUznX1b) | 3:42 | 2025-12-06 | 2025-12-28 |
 | [The Longest Time](https://open.spotify.com/track/0unM5Lavi7GnYL2cL1KJYi) | [Little Beast](https://open.spotify.com/artist/1VtBno35V1m2SDlvNwaWbY) | [The Longest Time](https://open.spotify.com/album/2y1ZM2E7RxgzgXeDijbnl7) | 4:30 | 2025-11-11 | 2025-12-12 |
+| [The Man's Always Getting Me Down](https://open.spotify.com/track/3dC2epYzUhJdjNRySyLc7x) | [Ben Aubergine](https://open.spotify.com/artist/3HoBbX5K0WawMbfNfXjqPz) | [The Man's Always Getting Me Down](https://open.spotify.com/album/5G7IrHgzWPFYZsVGvroARq) | 4:21 | 2026-02-10 |  |
 | [The Only Path](https://open.spotify.com/track/6UujZvpE9Zi6lXV7Ndi1HH) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [The Only Path](https://open.spotify.com/album/5C4yZxHiPHcXi1jwHgQkPw) | 3:04 | 2025-12-29 | 2026-01-29 |
 | [The Perfect Buzz](https://open.spotify.com/track/4nIbtAyxR6yeBxgONwdtda) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [The Perfect Buzz](https://open.spotify.com/album/2kPgxCfeUcADkJSxT0jBtG) | 2:46 | 2026-02-04 |  |
 | [The Poorest Man](https://open.spotify.com/track/2vD6arZnrJGMuj6C977t0o) | [Brassard](https://open.spotify.com/artist/27AIl8w2zVXZM9z6YpNU27) | [Marathon](https://open.spotify.com/album/03fIWOLe2bwngeOwGnIJW2) | 4:04 | 2025-12-25 | 2026-01-21 |

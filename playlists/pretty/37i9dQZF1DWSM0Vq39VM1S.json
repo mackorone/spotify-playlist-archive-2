@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388726,
+  "num_followers": 388716,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
+        "name": "Old Man",
+        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 207242,
+      "name": "Old Man",
+      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
         "name": "BIG MONEY",
         "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
       },
@@ -379,18 +395,18 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "Old Man",
-        "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
         }
       ],
-      "duration_ms": 207242,
-      "name": "Old Man",
-      "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+      "duration_ms": 208890,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -407,22 +423,6 @@
       "duration_ms": 243595,
       "name": "Rent California",
       "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 208890,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 191244,
+      "name": "Walk The Way",
+      "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
         "name": "La femme aux yeux de sel",
         "url": "https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 232813,
       "name": "Drink the Ocean (feat. Oracle Sisters)",
       "url": "https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
-        "name": "Ridin'",
-        "url": "https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 191244,
-      "name": "Walk The Way",
-      "url": "https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "Joy Will Find Its Way",
-        "url": "https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc"
-      },
-      "artists": [
-        {
-          "name": "Penelope Antena",
-          "url": "https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH"
-        }
-      ],
-      "duration_ms": 200243,
-      "name": "The Bed Unfold",
-      "url": "https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/39JRixi3qOjhXvEWjvigfT"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 218962,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4XMjBid32yY7UsphrpJevX"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
+        "name": "Joy Will Find Its Way",
+        "url": "https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc"
+      },
+      "artists": [
+        {
+          "name": "Penelope Antena",
+          "url": "https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH"
+        }
+      ],
+      "duration_ms": 200243,
+      "name": "The Bed Unfold",
+      "url": "https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
         "name": "Cruel",
         "url": "https://open.spotify.com/album/1Y3OY3nhlsmEQnzXjkqP9C"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 184826,
       "name": "Cruel",
       "url": "https://open.spotify.com/track/6MHU4IpKlrs74RpgDvM3Jg"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
     },
     {
       "added_at": "2026-02-05 23:00:16",

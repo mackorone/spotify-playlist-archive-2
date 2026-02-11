@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Broken Social Scene
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,599 likes - 155 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,553 likes - 155 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

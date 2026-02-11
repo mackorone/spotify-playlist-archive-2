@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 332223,
+  "num_followers": 332318,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAACcu9eoM09O9O+7vW83dw6",
+  "snapshot_id": "aYkjgAAAAACLlAuRXw+4C2EdsyTFcg4W",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 172421,
-      "name": "Bottle and Mary Jane",
-      "url": "https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Fought Hallelujah (with Jelly Roll)",
         "url": "https://open.spotify.com/album/5i6FE12zihgbxlSBEva1sY"
       },
@@ -335,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
       "artists": [
         {
@@ -344,9 +328,25 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Halfway To Hell",
-      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
+      "duration_ms": 172421,
+      "name": "Bottle and Mary Jane",
+      "url": "https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 159208,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/1GM66MYIbWfSdPLop4vXym"
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 159208,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/5GwOJaOWIuRi5eebSRnstT"
+      "duration_ms": 178440,
+      "name": "Halfway To Hell",
+      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 171925,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 190230,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/19CCQeIOxxUDcpFw539zd7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 171925,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/1n2N1qOSZcjGmaIoJSjgZa"
     },
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 198426,
+      "name": "Don't Want To (with Keith Urban)",
+      "url": "https://open.spotify.com/track/74UZosQdVAsRovxHKjrHZt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Missionary",
         "url": "https://open.spotify.com/album/65naY9lNYSZh6h1mOeqsGN"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 185092,
       "name": "Last Dance With Mary Jane (feat. Tom Petty & Jelly Roll)",
       "url": "https://open.spotify.com/track/4nqKqrFUwEkHEGKBr1lBe3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
-        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 198426,
-      "name": "Don't Want To (with Keith Urban)",
-      "url": "https://open.spotify.com/track/74UZosQdVAsRovxHKjrHZt"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
         "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
       },
       "artists": [
         {
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 169258,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX"
+      "duration_ms": 201280,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
     },
     {
       "added_at": null,
@@ -791,6 +775,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 169258,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime Cry",
+        "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 134001,
+      "name": "Devil Go Away (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/2EXk9xakgtdNIwXpsDxGZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Bailee Ann",
+          "url": "https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV"
+        }
+      ],
+      "duration_ms": 215477,
+      "name": "Tears Could Talk",
+      "url": "https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leather",
         "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
       },
@@ -823,46 +863,6 @@
       "duration_ms": 163103,
       "name": "Hate Goes On",
       "url": "https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Bailee Ann",
-          "url": "https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV"
-        }
-      ],
-      "duration_ms": 215477,
-      "name": "Tears Could Talk",
-      "url": "https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slime Cry",
-        "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 134001,
-      "name": "Devil Go Away (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/2EXk9xakgtdNIwXpsDxGZJ"
     },
     {
       "added_at": null,

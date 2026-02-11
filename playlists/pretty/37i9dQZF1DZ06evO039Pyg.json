@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 331255,
+  "num_followers": 331305,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAAMOKq7o/OkFwvgTW+kjXm6",
+  "snapshot_id": "aYkjgAAAAAC4NFsE7ogAG1Cnz/FH+eyf",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suicide Squad: The Album",
-        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 177028,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Folded - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7a3yNq3BIyDEYPguafVKDf"
       },
@@ -115,22 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+        "name": "Suicide Squad: The Album",
+        "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
       },
       "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 180493,
-      "name": "Done for Me (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7"
+      "duration_ms": 177028,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3"
     },
     {
       "added_at": null,
@@ -151,6 +131,26 @@
       "duration_ms": 225520,
       "name": "Good Life (with G-Eazy & Kehlani)",
       "url": "https://open.spotify.com/track/0Oa9mHOnH14GZ4toWwkf4c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "Done for Me (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7"
     },
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Thing (with Kehlani)",
-        "url": "https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 210901,
-      "name": "Good Thing (with Kehlani)",
-      "url": "https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Jaguar's Dream",
         "url": "https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 179974,
       "name": "KEHLANI (REMIX) [feat. Kehlani]",
       "url": "https://open.spotify.com/track/4rugSJgsPQ1KlbWYZnoEsa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Thing (with Kehlani)",
+        "url": "https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 210901,
+      "name": "Good Thing (with Kehlani)",
+      "url": "https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/0ygpm3Vqgsg1lRIl7JMvVm"
-      },
-      "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 142768,
-      "name": "go",
-      "url": "https://open.spotify.com/track/1Zsf0U4SPsf4aaWxcfftYx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mind Of Mine (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 212747,
       "name": "wRoNg (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7iCeaYJSEdGWeFNTAEqUzJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "go",
+        "url": "https://open.spotify.com/album/0ygpm3Vqgsg1lRIl7JMvVm"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 142768,
+      "name": "go",
+      "url": "https://open.spotify.com/track/1Zsf0U4SPsf4aaWxcfftYx"
     },
     {
       "added_at": null,
@@ -651,18 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "(un)Folded",
-        "url": "https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw"
+        "name": "I Like Dat",
+        "url": "https://open.spotify.com/album/6tFOjuF74joX0RHbimAZp3"
       },
       "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 286040,
-      "name": "(un)Folded",
-      "url": "https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr"
+      "duration_ms": 242085,
+      "name": "I Like Dat",
+      "url": "https://open.spotify.com/track/7KrlNS2VqiNNJ82RMQdxBn"
     },
     {
       "added_at": null,
@@ -683,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like Dat",
-        "url": "https://open.spotify.com/album/6tFOjuF74joX0RHbimAZp3"
+        "name": "(un)Folded",
+        "url": "https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw"
       },
       "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 242085,
-      "name": "I Like Dat",
-      "url": "https://open.spotify.com/track/7KrlNS2VqiNNJ82RMQdxBn"
+      "duration_ms": 286040,
+      "name": "(un)Folded",
+      "url": "https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr"
     },
     {
       "added_at": null,
@@ -763,42 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/7MTIDmToGs0I5Oue9V0CHl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "blue water road",
-        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 244635,
-      "name": "altar",
-      "url": "https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -823,6 +787,42 @@
       "duration_ms": 240093,
       "name": "Faking It (feat. Kehlani & Lil Yachty)",
       "url": "https://open.spotify.com/track/0pJPdSVti6cTM1Q6xYGmcf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 244635,
+      "name": "altar",
+      "url": "https://open.spotify.com/track/1DVgSm1FpFBT8usWhnC5vF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/7MTIDmToGs0I5Oue9V0CHl"
     },
     {
       "added_at": null,

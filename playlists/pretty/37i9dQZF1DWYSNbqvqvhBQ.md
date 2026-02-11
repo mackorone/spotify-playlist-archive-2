@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 ### [Altijd Goed](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Nieuwe tijdloze muziek\. Cover: Bruce Springsteen
+> Nieuwe tijdloze muziek\. Cover: Nona
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,870 likes - 85 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,844 likes - 85 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Streets of Minneapolis](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:35 |
-| 2 | [Get It Right](https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Get It Right](https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs) | 2:52 |
-| 3 | [Dark Before The Dawn](https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Dark Before The Dawn](https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb) | 3:35 |
-| 4 | [Giving Her Away](https://open.spotify.com/track/4RFHH3exrleUOwgyLbEFvJ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Giving Her Away](https://open.spotify.com/album/2pnoWZN6epQVXs2XREE8l4) | 3:33 |
-| 5 | [Don’t Be Silly](https://open.spotify.com/track/5HjaxbPAq0UYRjAY9gZEcx) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr), [Barry Hay](https://open.spotify.com/artist/48ys6hjOjK51qyn2W0QN2y) | [Don’t Be Silly](https://open.spotify.com/album/0V64voJRjQ3zboCinONl2c) | 2:46 |
-| 6 | [This Is All I'll Be](https://open.spotify.com/track/0szz1ZU7v1NkYfMDQX7HeF) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [This Is All I'll Be](https://open.spotify.com/album/5ElZ82ll0Q0d1dFUdzEopC) | 3:10 |
+| 1 | [This Is All I'll Be](https://open.spotify.com/track/0szz1ZU7v1NkYfMDQX7HeF) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [This Is All I'll Be](https://open.spotify.com/album/5ElZ82ll0Q0d1dFUdzEopC) | 3:10 |
+| 2 | [Streets of Minneapolis](https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Streets of Minneapolis](https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed) | 4:35 |
+| 3 | [Get It Right](https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Get It Right](https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs) | 2:52 |
+| 4 | [Dark Before The Dawn](https://open.spotify.com/track/7p1zQqPlC3gju243x8BTYZ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Dark Before The Dawn](https://open.spotify.com/album/5IDysKWEasAmRL0GtLQaLb) | 3:35 |
+| 5 | [Giving Her Away](https://open.spotify.com/track/4RFHH3exrleUOwgyLbEFvJ) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Giving Her Away](https://open.spotify.com/album/2pnoWZN6epQVXs2XREE8l4) | 3:33 |
+| 6 | [Don’t Be Silly](https://open.spotify.com/track/5HjaxbPAq0UYRjAY9gZEcx) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr), [Barry Hay](https://open.spotify.com/artist/48ys6hjOjK51qyn2W0QN2y) | [Don’t Be Silly](https://open.spotify.com/album/0V64voJRjQ3zboCinONl2c) | 2:46 |
 | 7 | [Somebody Like You](https://open.spotify.com/track/4k95xD9yCyyABh7CDG4U1X) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Somebody Like You](https://open.spotify.com/album/52V9qRqE73KZRWJaObBi9m) | 3:03 |
 | 8 | [L'aurora \(feat\. Alicia Keys\)](https://open.spotify.com/track/2KWeyq9rNnXLubrBqUw1zC) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 5:09 |
 | 9 | [Youman](https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Youman](https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv) | 3:36 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 84 | [Stay](https://open.spotify.com/track/7FN3Fip2tdiGjW0BuqXRL7) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Stay](https://open.spotify.com/album/0mQwwcyTyf26ezDOfwwQag) | 3:45 |
 | 85 | [Stripes](https://open.spotify.com/track/0m44vc74oAmoRLXS6QToW8) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Stripes](https://open.spotify.com/album/5e1hRjKNjbpWu6AntxnJMM) | 3:11 |
 
-Snapshot ID: `AAAAANvvkbuAenHayY2y0+ynbo+mJM1P`
+Snapshot ID: `AAAAAORGi9BhcSmpI0Cjg8S72zRHMfnP`

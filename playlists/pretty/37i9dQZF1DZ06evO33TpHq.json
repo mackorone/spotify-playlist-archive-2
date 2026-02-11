@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 61876,
+  "num_followers": 61904,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAACP7IrJweJ9Wt0OnvuoUSth",
+  "snapshot_id": "aYkjgAAAAACzFtk/1ZQ7Aw8vyaDyMGay",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 265653,
-      "name": "This Is Our God",
-      "url": "https://open.spotify.com/track/365fchCf6KIm5uEbEGplKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Of The Saints",
         "url": "https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 250066,
       "name": "Homesick For Heaven",
       "url": "https://open.spotify.com/track/2Oz1rooRd8K1uINofVYgrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 265653,
+      "name": "This Is Our God",
+      "url": "https://open.spotify.com/track/365fchCf6KIm5uEbEGplKz"
     },
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 302253,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAVID (Soundtrack from the Angel Original Film)",
         "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 227448,
       "name": "Psalm 8 (from the Angel Film DAVID)",
       "url": "https://open.spotify.com/track/4gMXtvbTCGhvnMll5QR8F3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 302253,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "Sunday Is Coming",
-      "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAVID (Soundtrack from the Angel Original Film)",
         "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 208183,
       "name": "Why God - My God",
       "url": "https://open.spotify.com/track/4v3UsxasOoLT3BTMuJHKL3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "Sunday Is Coming",
+      "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
     },
     {
       "added_at": null,
@@ -384,29 +384,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 273800,
-      "name": "Able",
-      "url": "https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
-        }
-      ],
-      "duration_ms": 274586,
-      "name": "Psalm 23",
-      "url": "https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl"
+      "duration_ms": 239666,
+      "name": "Running To A Runaway",
+      "url": "https://open.spotify.com/track/5LQ9sggtmciQlOQmV79wDA"
     },
     {
       "added_at": null,
@@ -427,6 +407,26 @@
       "duration_ms": 133207,
       "name": "I Will Not Be Afraid (Reprise)",
       "url": "https://open.spotify.com/track/6HjiwLJ1CzTn6Yhmpf5PK2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 274586,
+      "name": "Psalm 23",
+      "url": "https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl"
     },
     {
       "added_at": null,
@@ -456,9 +456,25 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 239666,
-      "name": "Running To A Runaway",
-      "url": "https://open.spotify.com/track/5LQ9sggtmciQlOQmV79wDA"
+      "duration_ms": 273800,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymn Of Heaven (Acoustic Sessions)",
+        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 272391,
+      "name": "Reason I Sing - Acoustic",
+      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 270560,
       "name": "Where I'm Standing Now (feat. Brandon Lake)",
       "url": "https://open.spotify.com/track/3JBMyUHHYz30GCpJL99zGX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymn Of Heaven (Acoustic Sessions)",
-        "url": "https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 272391,
-      "name": "Reason I Sing - Acoustic",
-      "url": "https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear Has No Power",
-        "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "Fear Has No Power",
-      "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Then Christ Came (feat. Phil Wickham)",
         "url": "https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ"
       },
@@ -663,22 +647,6 @@
       "duration_ms": 235921,
       "name": "Then Christ Came (feat. Phil Wickham)",
       "url": "https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hymn Of Heaven",
-        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "His Name Is Jesus",
-      "url": "https://open.spotify.com/track/298GZi660o5g2AAv3kfuGo"
     },
     {
       "added_at": null,
@@ -707,6 +675,38 @@
       "duration_ms": 506796,
       "name": "Worthy of My Song (Worthy of It All)",
       "url": "https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hymn Of Heaven",
+        "url": "https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "His Name Is Jesus",
+      "url": "https://open.spotify.com/track/298GZi660o5g2AAv3kfuGo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fear Has No Power",
+        "url": "https://open.spotify.com/album/6QKXUS981SnxMrwd6CkkOo"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "Fear Has No Power",
+      "url": "https://open.spotify.com/track/5Tsftbxui79a8Ccydcle46"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God Acoustic Sessions",
-        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 464398,
-      "name": "Divine / Sailing / Time / Hymn - Acoustic",
-      "url": "https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace, Vol. II",
         "url": "https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N"
       },
@@ -779,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "People Of Heaven",
-        "url": "https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D"
+        "name": "Children of God Acoustic Sessions",
+        "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
       },
       "artists": [
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 252624,
-      "name": "People Of Heaven",
-      "url": "https://open.spotify.com/track/4q5b4EHkkv2Zb2dgHZjt0z"
+      "duration_ms": 464398,
+      "name": "Divine / Sailing / Time / Hymn - Acoustic",
+      "url": "https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV"
     },
     {
       "added_at": null,
@@ -811,6 +791,26 @@
       "duration_ms": 240266,
       "name": "Till I Found You",
       "url": "https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "People Of Heaven",
+        "url": "https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 252624,
+      "name": "People Of Heaven",
+      "url": "https://open.spotify.com/track/4q5b4EHkkv2Zb2dgHZjt0z"
     },
     {
       "added_at": null,

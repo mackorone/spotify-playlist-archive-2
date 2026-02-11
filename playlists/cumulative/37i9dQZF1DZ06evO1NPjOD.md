@@ -4,10 +4,11 @@
 
 > This is City Girls\. The essential tracks, all in one playlist.
 
-83 songs - 3 hr 58 min
+84 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [4 1 Nite](https://open.spotify.com/track/10iEDtadUnpzEsgohPmATA) | [Mike Smiff](https://open.spotify.com/artist/7cothdI1W9TGQXdnzyqXmH), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [4 1 Nite](https://open.spotify.com/album/0ZmKE5dS6QIyXHuNkxVgUV) | 3:25 | 2026-02-11 |  |
 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 | 2022-10-28 |  |
 | [Act Bad](https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Act Bad](https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ) | 3:12 | 2023-05-27 |  |
 | [Act Up](https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:38 | 2022-10-28 |  |
@@ -71,7 +72,7 @@
 | [Supahood](https://open.spotify.com/track/0bhUCHVn9o7u6YZwYGLKwi) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [All Monsters Are Human](https://open.spotify.com/album/1Ds7Xoj5ihJkFvTKwXWaIA) | 3:32 | 2023-01-31 | 2023-07-30 |
 | [Supahood](https://open.spotify.com/track/2Ce1E9cfqbLUVWspvSOsVg) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx), [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [All Monsters Are Human](https://open.spotify.com/album/3VCKLu2hDzNr1FciTvcSkf) | 3:32 | 2024-07-07 | 2025-03-15 |
 | [Surf](https://open.spotify.com/track/5EgSl85L3mZlAQFUt4I4BG) | [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [AzChike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Cyncerely, C3](https://open.spotify.com/album/6uNuXilVlRxt9ryawO1nCS) | 3:31 | 2022-10-28 | 2023-05-16 |
-| [Sweet Tooth](https://open.spotify.com/track/5z3gOVUk7km3eNJM8M57tv) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:23 | 2022-11-08 |  |
+| [Sweet Tooth](https://open.spotify.com/track/5z3gOVUk7km3eNJM8M57tv) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:23 | 2022-11-08 | 2026-02-11 |
 | [Take Money](https://open.spotify.com/track/120nygI7DcxAXigooArYKy) | [Cashflow Harlem](https://open.spotify.com/artist/46e4kw7Ahn7VwRaVcXiLlZ), [Jaleel Knight](https://open.spotify.com/artist/2xiVuPWzSoDtVRcOQxNNGK), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Take Money](https://open.spotify.com/album/3VHKbIoAqthCRMJ3ZtRpQX) | 2:08 | 2023-07-13 | 2025-03-14 |
 | [Take Yo Man](https://open.spotify.com/track/5aOpKCKguEnViGOKZxZern) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:56 | 2022-10-28 |  |
 | [That's My Bitch](https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 1:55 | 2022-10-28 |  |

@@ -1,6 +1,6 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 482297,
+  "num_followers": 482330,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
+        "name": "All Out of Good Days",
+        "url": "https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        }
+      ],
+      "duration_ms": 179255,
+      "name": "Sick of Being Young",
+      "url": "https://open.spotify.com/track/0slTKYvwZHbjpzMANF4QwT"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
         "name": "Who Laughs Last",
         "url": "https://open.spotify.com/album/0OifCOsQ8dJGiAEkXuIddD"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 283946,
       "name": "Who Laughs Last (feat. Kristen Stewart)",
       "url": "https://open.spotify.com/track/5K2KkZmixWKjiOa3I7D2pn"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
-        "name": "All Out of Good Days",
-        "url": "https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S"
-      },
-      "artists": [
-        {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
-        }
-      ],
-      "duration_ms": 179255,
-      "name": "Sick of Being Young",
-      "url": "https://open.spotify.com/track/0slTKYvwZHbjpzMANF4QwT"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Part Of The Band",
-        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 260148,
-      "name": "Part Of The Band",
-      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Set Yourself Free",
         "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 185740,
       "name": "Set Yourself Free",
       "url": "https://open.spotify.com/track/4w7XRsCWPzXiC7HZUEVLFl"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Part Of The Band",
+        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 260148,
+      "name": "Part Of The Band",
+      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 354360,
-      "name": "Lazy Eye",
-      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Never Had to Leave",
         "url": "https://open.spotify.com/album/2JBomcPj6tIDhtLBfP4MV7"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 354360,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
         "name": "Oregon / Harvard",
         "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 248399,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Crying Over U",
         "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 234231,
       "name": "Crying Over U",
       "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 248399,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
+        "name": "Death of Me",
+        "url": "https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP"
+      },
+      "artists": [
+        {
+          "name": "Brandon Jenner",
+          "url": "https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x"
+        }
+      ],
+      "duration_ms": 214230,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
         "name": "Guitar Beat",
         "url": "https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 221092,
       "name": "Blades",
       "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
-        "name": "Death of Me",
-        "url": "https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP"
-      },
-      "artists": [
-        {
-          "name": "Brandon Jenner",
-          "url": "https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x"
-        }
-      ],
-      "duration_ms": 214230,
-      "name": "Death of Me",
-      "url": "https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "I Remember Way Too Much (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0Jyta4WQVQakKAKNGJnCQH"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 222540,
-      "name": "I Remember Way Too Much - Acoustic Version",
-      "url": "https://open.spotify.com/track/0cqHnXoMyt3ZMCb4IpPy4d"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Get Hurt",
         "url": "https://open.spotify.com/album/0VZk3U8WPylj3x0PFwP6yj"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 223360,
       "name": "Get Hurt",
       "url": "https://open.spotify.com/track/5EeMYgfcEoRLnxw6CUUVfm"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "I Remember Way Too Much (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0Jyta4WQVQakKAKNGJnCQH"
+      },
+      "artists": [
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 222540,
+      "name": "I Remember Way Too Much - Acoustic Version",
+      "url": "https://open.spotify.com/track/0cqHnXoMyt3ZMCb4IpPy4d"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Ain't Scared",
-        "url": "https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw"
-      },
-      "artists": [
-        {
-          "name": "The Tragic Thrills",
-          "url": "https://open.spotify.com/artist/6Xk7kGyfSdpeuvIlMHx8ys"
-        }
-      ],
-      "duration_ms": 260333,
-      "name": "Ain't Scared",
-      "url": "https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Your Life Your Time (Acoustic)",
         "url": "https://open.spotify.com/album/4sxRXwPnLAWdfg4TwA4D1v"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 293037,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "Ain't Scared",
+        "url": "https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw"
+      },
+      "artists": [
+        {
+          "name": "The Tragic Thrills",
+          "url": "https://open.spotify.com/artist/6Xk7kGyfSdpeuvIlMHx8ys"
+        }
+      ],
+      "duration_ms": 260333,
+      "name": "Ain't Scared",
+      "url": "https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "The Fences of Stonehenge",
-        "url": "https://open.spotify.com/album/2OdyVeAmuM7NKo9zgWx215"
-      },
-      "artists": [
-        {
-          "name": "Wild Pink",
-          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "The Fences of Stonehenge",
-      "url": "https://open.spotify.com/track/4SJ7yrRxPhwQNgSzgl4xnS"
-    },
-    {
-      "added_at": "2025-02-07 05:35:29",
-      "album": {
         "name": "Lady Lou",
         "url": "https://open.spotify.com/album/1Yh3TJP49ypjIuQVy5Kcmi"
       },
@@ -2375,6 +2359,22 @@
       "duration_ms": 277177,
       "name": "Home for the Weekend",
       "url": "https://open.spotify.com/track/1YB4xS05wUpuCaJs8IFDjA"
+    },
+    {
+      "added_at": "2025-02-07 05:35:29",
+      "album": {
+        "name": "The Fences of Stonehenge",
+        "url": "https://open.spotify.com/album/2OdyVeAmuM7NKo9zgWx215"
+      },
+      "artists": [
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "The Fences of Stonehenge",
+      "url": "https://open.spotify.com/track/4SJ7yrRxPhwQNgSzgl4xnS"
     },
     {
       "added_at": "2025-02-07 05:35:29",
@@ -2463,18 +2463,22 @@
     {
       "added_at": "2025-02-07 05:35:29",
       "album": {
-        "name": "Alone in the Mountains",
-        "url": "https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4"
+        "name": "I Live In Patterns (feat. Alix Page)",
+        "url": "https://open.spotify.com/album/1F97dMZ1k8BwYp9H9bNswN"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+          "name": "Taylor Janzen",
+          "url": "https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc"
+        },
+        {
+          "name": "Alix Page",
+          "url": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ"
         }
       ],
-      "duration_ms": 196707,
-      "name": "Alone in the Mountains",
-      "url": "https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi"
+      "duration_ms": 222546,
+      "name": "I Live In Patterns (feat. Alix Page)",
+      "url": "https://open.spotify.com/track/7LDHQfiTWtQ4VMJA1Cm7Vv"
     }
   ],
   "unique_name": "License To Chill",

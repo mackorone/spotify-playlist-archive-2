@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 119161,
+  "num_followers": 119163,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABWp2rPEyCMAqZgHsmQ/geu",
+  "snapshot_id": "aYkjgAAAAADgNQM+gnrCj/Fh2y45M0FA",
   "tracks": [
     {
       "added_at": null,
@@ -103,6 +103,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 229210,
+      "name": "Taste (feat. Offset)",
+      "url": "https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -127,22 +147,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
       "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 229210,
-      "name": "Taste (feat. Offset)",
-      "url": "https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt"
+      "duration_ms": 191466,
+      "name": "DON'T YOU LIE",
+      "url": "https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g"
     },
     {
       "added_at": null,
@@ -163,22 +179,6 @@
       "duration_ms": 193466,
       "name": "at my purest (feat. Offset)",
       "url": "https://open.spotify.com/track/338HvC3y58zPScamNZu4Dr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "DON'T YOU LIE",
-      "url": "https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g"
     },
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "prada dem (feat. Offset)",
-      "url": "https://open.spotify.com/track/7fzN9lz890zav0HERLvVKZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 173253,
       "name": "SAY MY GRACE (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "prada dem (feat. Offset)",
+      "url": "https://open.spotify.com/track/7fzN9lz890zav0HERLvVKZ"
     },
     {
       "added_at": null,
@@ -307,6 +307,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "WORTH IT (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -331,26 +351,6 @@
       "duration_ms": 268933,
       "name": "Ghostface Killers (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5u6vkDnOyaf8LsteDAj2ub"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "WORTH IT (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
     },
     {
       "added_at": null,
@@ -411,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "EI8HT",
+          "url": "https://open.spotify.com/artist/70rSvlI9SRspEr0C84bJ5Q"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 162280,
+      "name": "Silk & Cologne (EI8HT & Offset) - Spider-Verse Remix",
+      "url": "https://open.spotify.com/track/5Lv5L45PQmp5CTjs5PlQ6e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 257600,
       "name": "Rap Saved Me (feat. Quavo)",
       "url": "https://open.spotify.com/track/0tdCy39PgWN8LFWu34ORn3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
-      },
-      "artists": [
-        {
-          "name": "EI8HT",
-          "url": "https://open.spotify.com/artist/70rSvlI9SRspEr0C84bJ5Q"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 162280,
-      "name": "Silk & Cologne (EI8HT & Offset) - Spider-Verse Remix",
-      "url": "https://open.spotify.com/track/5Lv5L45PQmp5CTjs5PlQ6e"
     },
     {
       "added_at": null,
@@ -783,30 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quality Control: Control The Streets Volume 2",
-        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
-      },
-      "artists": [
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 157645,
-      "name": "100 Racks (Offset feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodie SZN",
         "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 192779,
       "name": "Startender (feat. Offset and Tyga)",
       "url": "https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 157645,
+      "name": "100 Racks (Offset feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9"
     },
     {
       "added_at": null,
@@ -927,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Droptopwop",
+        "url": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Met Gala (feat. Offset)",
+      "url": "https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Huncho Jack, Jack Huncho",
         "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
       },
@@ -951,42 +971,6 @@
       "duration_ms": 228431,
       "name": "Dubai Shit",
       "url": "https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Droptopwop",
-        "url": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Met Gala (feat. Offset)",
-      "url": "https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 151181,
-      "name": "HAUNTED BY FAME",
-      "url": "https://open.spotify.com/track/2pHnTA5XactfK9TvlHBKsu"
     },
     {
       "added_at": null,
@@ -1019,22 +1003,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+        "name": "HAUNTED BY FAME",
+        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
       },
       "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 157693,
-      "name": "Baby Sitter (feat. Offset)",
-      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
+      "duration_ms": 151181,
+      "name": "HAUNTED BY FAME",
+      "url": "https://open.spotify.com/track/2pHnTA5XactfK9TvlHBKsu"
     },
     {
       "added_at": null,
@@ -1063,18 +1043,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
       },
       "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 88888,
-      "name": "FREE PICK",
-      "url": "https://open.spotify.com/track/4UUlVqWOcN68QgLd1GnWVp"
+      "duration_ms": 157693,
+      "name": "Baby Sitter (feat. Offset)",
+      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "Disrespectful",
+      "url": "https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH"
     }
   ],
   "unique_name": "This Is Offset",

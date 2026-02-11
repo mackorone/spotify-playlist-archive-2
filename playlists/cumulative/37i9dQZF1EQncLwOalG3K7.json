@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZdFHPjFQhbv>Shakira</a>, <a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a>, <a href=spotify:playlist:37i9dQZF1EIZAFAJb8SmrK>PinkPantheress</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZkocYgozwHV>Idgitaf</a>, <a href=spotify:playlist:37i9dQZF1EIYJUf4DGOAx2>Zara Larsson</a>, <a href=spotify:playlist:37i9dQZF1EIW59fyjC7s7V>Alex Warren</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 189553,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
@@ -2128,7 +2128,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 220360,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"
@@ -4158,7 +4158,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 215626,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
@@ -4220,6 +4220,24 @@
       "duration_ms": 240240,
       "name": "Se Me Va La Voz",
       "url": "https://open.spotify.com/track/4QubLlsaYXoQH3CxGxuTry"
+    },
+    {
+      "album": {
+        "name": "Sedia Aku Sebelum Hujan",
+        "url": "https://open.spotify.com/album/1E1Sg8OtAbUNUeq7kat4KP"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230130,
+      "name": "Sedia Aku Sebelum Hujan",
+      "url": "https://open.spotify.com/track/64qfw9JZl3RYCrq4Mn0WvT"
     },
     {
       "album": {
@@ -4488,7 +4506,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -4528,7 +4546,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"

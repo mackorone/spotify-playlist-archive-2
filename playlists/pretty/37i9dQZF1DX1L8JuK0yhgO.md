@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,323 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,325 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [back for me](https://open.spotify.com/track/7HZMIIF0neWvNC8P1UgAQo) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [back for me](https://open.spotify.com/album/2sGhKPde7GODDkdaH2aP6C) | 3:28 |
+| 1 | [back for me](https://open.spotify.com/track/7HZMIIF0neWvNC8P1UgAQo) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [YONCE](https://open.spotify.com/artist/5QnTDESz5t2Fq7m2B5a7IJ) | [back for me](https://open.spotify.com/album/2sGhKPde7GODDkdaH2aP6C) | 3:28 |
 | 2 | [HITSUJI](https://open.spotify.com/track/6lxBbKee8B57prmzPDu5aO) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [HITSUJI](https://open.spotify.com/album/38udARm3saUU5IhbVyDR9W) | 3:18 |
 | 3 | [幽霊になっても美しい](https://open.spotify.com/track/7ziRc53RRPcJUXdM2TTynr) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [utas](https://open.spotify.com/album/0zcxntmRM4l8MCPd9zYEWP) | 4:12 |
 | 4 | [Venus!](https://open.spotify.com/track/60rPhNTNVydBZsmeZ99VVG) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [oksami](https://open.spotify.com/artist/1b0Xogb0sa1XfgUXFWPb26) | [Venus!](https://open.spotify.com/album/25ozTBobUH1m57JV5wCH09) | 2:29 |

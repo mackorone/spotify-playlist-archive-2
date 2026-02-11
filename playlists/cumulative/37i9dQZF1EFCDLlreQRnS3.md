@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR">Moli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 7 hr 36 min
+147 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Let Go \(feat\. Kiesza\)](https://open.spotify.com/track/51C4aVMVoqIFPSJFmS9ccf) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Let Go \(feat\. Kiesza\)](https://open.spotify.com/album/6yKIoCB54wFFE0KRFaCp9d) | 2:34 | 2024-01-29 |  |
 | [Let It Go](https://open.spotify.com/track/3svOpX4WPGJk9ZQ34D3c9s) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Highs & Lows](https://open.spotify.com/album/3NPxIfnIdVZiKAOZxe6YVA) | 2:57 | 2024-01-29 |  |
 | [Let Me](https://open.spotify.com/track/2npfqeejU2qhzYRKPuKsUw) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Let Me](https://open.spotify.com/album/0LQqdd53wpvfCrKcf15eW8) | 2:52 | 2024-09-27 |  |
+| [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 | 2026-02-10 |  |
 | [life was a beach](https://open.spotify.com/track/6NvcOlh7gtas2XCW2KACYo) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 2:54 | 2024-01-29 |  |
 | [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 | 2024-04-14 |  |
 | [Lonely Days](https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Lonely Days](https://open.spotify.com/album/3t4J5uFJHqUubUkx8zTjf1) | 2:33 | 2024-07-08 |  |

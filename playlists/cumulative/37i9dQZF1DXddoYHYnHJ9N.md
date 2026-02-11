@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: VZS, JOJO, KKevin
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: VINI, BELANO
 
-182 songs - 9 hr 3 min
+183 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-15 | 2025-01-14 |
 | [ANGYALOK](https://open.spotify.com/track/5VzhASm2474qyIwDbDQjFw) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ANGYALOK](https://open.spotify.com/album/7El982ts9FR1auscPCNLr6) | 3:31 | 2025-06-24 | 2025-11-21 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-10 | 2025-06-10 |
-| [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-26 |  |
+| [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-26 | 2026-02-11 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-05-27 |
 | [Apály](https://open.spotify.com/track/156AeYPPIRgeYJWmC3JUbO) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Apály](https://open.spotify.com/album/1Mh4B5kMXU35AexkEjOlSX) | 2:10 | 2024-07-01 | 2024-08-07 |
 | [BABY ÉN NEM JÁTSZOM](https://open.spotify.com/track/69PO2SFd17GwZgI7t5z7iP) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [BABY ÉN NEM JÁTSZOM](https://open.spotify.com/album/3nKzfmwfoZ5Nhc4K1EMOKk) | 2:15 | 2025-11-03 |  |
@@ -46,7 +46,7 @@
 | [Doktor \- Torz](https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Torz](https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh) | 2:58 | 2024-07-01 | 2025-02-04 |
 | [Don't Be Afraid](https://open.spotify.com/track/5qxPTaUYRmfwJdYWbQ9j2W) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Don't Be Afraid](https://open.spotify.com/album/5uN3XLrt5SwVjN9fwvfh2I) | 2:52 | 2025-03-31 | 2025-05-06 |
 | [Don't Turn The Bass Down](https://open.spotify.com/track/70xt0VZFShxSbfhTg3NcmF) | [L'Entourloop](https://open.spotify.com/artist/63vMehdxxRWq9HBZHskapk), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Don't Turn The Bass Down](https://open.spotify.com/album/0CiOjI1XyhoRhyvdq1icOh) | 3:22 | 2024-07-01 | 2024-10-08 |
-| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-20 | 2025-03-25 |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-20 |  |
 | [díva](https://open.spotify.com/track/52kBWybNy033009vfeYu5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:15 | 2024-08-13 | 2025-12-16 |
 | [Egy éjszaka](https://open.spotify.com/track/7fttxh2ROKLw4rVQMyYbm7) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Talpra cigányok](https://open.spotify.com/album/2Ql5DaKsixp6Oev9vRKlak) | 2:06 | 2025-06-24 | 2025-09-12 |
 | [EGY/KETTŐ](https://open.spotify.com/track/7g4EKsrNrdZ4WzUxf4beOw) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [EGY/KETTŐ](https://open.spotify.com/album/4ZGTtTBhvo82ptO3YcTno4) | 4:59 | 2024-11-18 | 2025-08-05 |
@@ -145,7 +145,8 @@
 | [SeanPaul](https://open.spotify.com/track/0eod6RF1GCPzEZGVoSAkpY) | [Burai](https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [Goore](https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp), [Kretz](https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd) | [SeanPaul](https://open.spotify.com/album/5DA2IM6GgkiaZ0uCPQmRiK) | 3:57 | 2026-01-05 |  |
 | [seholse](https://open.spotify.com/track/3NSBh6qLvHPHMVoj4ET5Rc) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee), [Apu](https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN) | [seholse](https://open.spotify.com/album/4Tn7GiPLNrlrbadZRiZiKI) | 2:19 | 2024-07-01 | 2024-12-17 |
 | [SENKI NEM SZÓL RÁNK](https://open.spotify.com/track/2vE3ycwf1fDcPt5v8RykaT) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw) | [BANNANI](https://open.spotify.com/album/1tHyKcCUoVbv045LQBFKHO) | 2:50 | 2024-10-28 | 2025-10-14 |
-| [Shao Leng Leng](https://open.spotify.com/track/5fSgT2wg6JV77rmrhREIiU) | [hazetomika](https://open.spotify.com/artist/3hvIZ2TPVhx5ZcTV7Q9nHL), [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [Shao Leng Leng](https://open.spotify.com/album/4LXciJekkF6F4twsS8q6vU) | 2:38 | 2025-11-17 |  |
+| [SHAKE DAT](https://open.spotify.com/track/7a9QYpDPIBwHTDtX7W79t3) | [VINI](https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV), [BELANO](https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA) | [VINNER](https://open.spotify.com/album/44ZyazKbcQOMu0awUPOBPc) | 2:39 | 2026-02-10 |  |
+| [Shao Leng Leng](https://open.spotify.com/track/5fSgT2wg6JV77rmrhREIiU) | [hazetomika](https://open.spotify.com/artist/3hvIZ2TPVhx5ZcTV7Q9nHL), [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [Shao Leng Leng](https://open.spotify.com/album/4LXciJekkF6F4twsS8q6vU) | 2:38 | 2025-11-17 | 2026-02-11 |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-03-17 | 2025-10-07 |
 | [SHOW ME WHAT YOU GOT](https://open.spotify.com/track/3NfFj4Tcdp9LtI5tnKoJLR) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [JOJO](https://open.spotify.com/artist/7m6qRs0oYNvnjCCKwRg4Om), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [SHOW ME WHAT YOU GOT](https://open.spotify.com/album/6ESO4ZbS6LSGHhByv5E0nC) | 4:22 | 2026-02-03 |  |
 | [SISS](https://open.spotify.com/track/2wYEY39laan1ePP1etfI1N) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [SISS](https://open.spotify.com/album/6cCrVfhvI1Wy9G5w55wxlM) | 2:50 | 2024-10-07 | 2025-12-02 |

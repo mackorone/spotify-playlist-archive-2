@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 234466,
       "name": "Late Night Walk",
       "url": "https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 220040,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
@@ -3116,6 +3116,24 @@
       "duration_ms": 223800,
       "name": "Love will find a way",
       "url": "https://open.spotify.com/track/6C7mJCBnZOxDrPVh9PHB1o"
+    },
+    {
+      "album": {
+        "name": "Spring Fever, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5jqqQhTujHEUIHATQ4LDg9"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Love you like a Fool",
+      "url": "https://open.spotify.com/track/2RNAIcJixTEHe2k33auTg6"
     },
     {
       "album": {
@@ -5939,6 +5957,24 @@
     },
     {
       "album": {
+        "name": "What Love Is (Positively Yours X Huh Gak) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0vNd9d5KtDFOOQN0nGJB4F"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/18iOwgbRDm7FX3BIyOmfZE"
+    },
+    {
+      "album": {
         "name": "What Should I do",
         "url": "https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt"
       },
@@ -6080,7 +6116,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 270000,
       "name": "You",
       "url": "https://open.spotify.com/track/56n3vNJ6S9vUJgcFxTnJ8l"
@@ -6102,6 +6138,28 @@
       "duration_ms": 225686,
       "name": "You",
       "url": "https://open.spotify.com/track/1cOdLIVkanabBExcxmdDXe"
+    },
+    {
+      "album": {
+        "name": "[I am SOLO] Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Ihpj2sz9Lnz2QhMnEzO11"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        },
+        {
+          "name": "Son Hyeeun",
+          "url": "https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199118,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/0czEsiasPB3aw1ywgUU9mh"
     },
     {
       "album": {

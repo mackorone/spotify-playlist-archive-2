@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1220,
+  "num_followers": 1224,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAALC5HTcOt3rwCJviU9hU7dGMJ1qhXo",
+  "snapshot_id": "AAALG8o9RNPPSMCOA2N8vHxsLUlLHkPH",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -39,6 +39,74 @@
       "duration_ms": 333031,
       "name": "Echo Chambers",
       "url": "https://open.spotify.com/track/0QPdGdupsEmBguX9QSOQYA"
+    },
+    {
+      "added_at": "2026-02-10 16:01:07",
+      "album": {
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/5OwVt7UNBROLRM51st1mzl"
+      },
+      "artists": [
+        {
+          "name": "Bailout",
+          "url": "https://open.spotify.com/artist/0zMC0Fju9Z3pdVfssAjpNa"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Surface Tension",
+      "url": "https://open.spotify.com/track/14lIWSDdW8kO9GZVF6Cov3"
+    },
+    {
+      "added_at": "2026-02-10 15:44:47",
+      "album": {
+        "name": "Fade Into You",
+        "url": "https://open.spotify.com/album/6OIHhPBTOcRDC7bWaAjm9n"
+      },
+      "artists": [
+        {
+          "name": "TeethOut",
+          "url": "https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl"
+        },
+        {
+          "name": "KINLEY",
+          "url": "https://open.spotify.com/artist/6WApYmZLE3W3YD89SWf3hX"
+        }
+      ],
+      "duration_ms": 204732,
+      "name": "Fade Into You",
+      "url": "https://open.spotify.com/track/4MUfRUYdt358Ghh5qtkGfL"
+    },
+    {
+      "added_at": "2026-02-10 15:22:22",
+      "album": {
+        "name": "SORRY NOT SORRY",
+        "url": "https://open.spotify.com/album/6RceDfzryPdZwtKLDnbN5r"
+      },
+      "artists": [
+        {
+          "name": "Ellen and the Boyz",
+          "url": "https://open.spotify.com/artist/1OHPJaybtKXTppv7gTwvmY"
+        }
+      ],
+      "duration_ms": 198763,
+      "name": "SORRY NOT SORRY",
+      "url": "https://open.spotify.com/track/0ynUNnv7dhPa4tv8TQReX2"
+    },
+    {
+      "added_at": "2026-02-10 15:19:31",
+      "album": {
+        "name": "FUCK IT UP",
+        "url": "https://open.spotify.com/album/0nOUs8uvcwZdlKMfknrptr"
+      },
+      "artists": [
+        {
+          "name": "The Snorts",
+          "url": "https://open.spotify.com/artist/1xNqX2tWhzFu37OQD7OM7y"
+        }
+      ],
+      "duration_ms": 135664,
+      "name": "FUCK IT UP",
+      "url": "https://open.spotify.com/track/13MTMEqRON3PbgA7hjHTf9"
     },
     {
       "added_at": "2026-02-06 10:34:56",
@@ -1175,86 +1243,6 @@
       "duration_ms": 184672,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/3IO5Y88XRmDL8gJIZjqKDj"
-    },
-    {
-      "added_at": "2026-01-10 09:29:11",
-      "album": {
-        "name": "This One Is for Free",
-        "url": "https://open.spotify.com/album/3btpkO8OgHri2VNnSYIayz"
-      },
-      "artists": [
-        {
-          "name": "Poor Bambi",
-          "url": "https://open.spotify.com/artist/4GvgWv8CdOC1wDhLx78N7T"
-        }
-      ],
-      "duration_ms": 135082,
-      "name": "This One Is for Free",
-      "url": "https://open.spotify.com/track/2eXhn1zYO6WXsBFyiPTWOB"
-    },
-    {
-      "added_at": "2026-01-10 09:21:04",
-      "album": {
-        "name": "MOTHER NATURE",
-        "url": "https://open.spotify.com/album/3LaNJTjjgIZXZ4WtHrKgWD"
-      },
-      "artists": [
-        {
-          "name": "BLUESTEM",
-          "url": "https://open.spotify.com/artist/6DX5eMdrpgAVp7oLk5CPDz"
-        }
-      ],
-      "duration_ms": 325603,
-      "name": "COMMON GROUND",
-      "url": "https://open.spotify.com/track/6lDbGbC9Vl5kQkPPJEeUXs"
-    },
-    {
-      "added_at": "2026-01-10 09:18:04",
-      "album": {
-        "name": "Parasitic Grifter Scum",
-        "url": "https://open.spotify.com/album/0bkrZBpUmgtwE40ZXkFnFG"
-      },
-      "artists": [
-        {
-          "name": "Day Friend",
-          "url": "https://open.spotify.com/artist/4wYwdk6HkYoJOdUkkliNEw"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Brainworm, Pt. 1",
-      "url": "https://open.spotify.com/track/1TMFN6OpFmC771TXwgbOIW"
-    },
-    {
-      "added_at": "2026-01-10 08:02:07",
-      "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/0Ib4Sa441CofNTvVb8uvPk"
-      },
-      "artists": [
-        {
-          "name": "Drexl Bowie",
-          "url": "https://open.spotify.com/artist/42gYTrrgVcmssefJRBi2Je"
-        }
-      ],
-      "duration_ms": 209368,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/3qQKz4xekRuwzNMNOlD28z"
-    },
-    {
-      "added_at": "2026-01-10 07:13:53",
-      "album": {
-        "name": "Scared",
-        "url": "https://open.spotify.com/album/7sCy6hCnSixbqRPQqrLqI7"
-      },
-      "artists": [
-        {
-          "name": "NOTADOG",
-          "url": "https://open.spotify.com/artist/0yhmmI36uKysaByptGU6Jn"
-        }
-      ],
-      "duration_ms": 186226,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/5WXLf0F01kssLi9XOLDeSW"
     },
     {
       "added_at": "2025-11-20 11:02:56",
@@ -4853,6 +4841,22 @@
       "url": "https://open.spotify.com/track/5uySOdkPzsed6jNrp7jZyn"
     },
     {
+      "added_at": "2026-02-10 10:00:18",
+      "album": {
+        "name": "Galaxies",
+        "url": "https://open.spotify.com/album/6DTeJYyWQwgwVdF9TOOeOU"
+      },
+      "artists": [
+        {
+          "name": "Point Disarray",
+          "url": "https://open.spotify.com/artist/1vhafqghiLlE3Nd6WEjM4B"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Galaxies",
+      "url": "https://open.spotify.com/track/6ksrOcaWlkKExMysls33P3"
+    },
+    {
       "added_at": "2026-02-09 09:09:50",
       "album": {
         "name": "sidewalk",
@@ -4883,6 +4887,110 @@
       "duration_ms": 231428,
       "name": "Vessel",
       "url": "https://open.spotify.com/track/6lfG1ve3hUeViVHq5Qqzqq"
+    },
+    {
+      "added_at": "2026-02-10 09:59:51",
+      "album": {
+        "name": "Romper El Plan",
+        "url": "https://open.spotify.com/album/4JZK2qlbgeUJ0UiCPORIqK"
+      },
+      "artists": [
+        {
+          "name": "Abismo",
+          "url": "https://open.spotify.com/artist/4BHfQZgTgag2M8R8vRHBDN"
+        },
+        {
+          "name": "Dikers",
+          "url": "https://open.spotify.com/artist/2BKzoHM3OPLcwwMS7GKyg3"
+        },
+        {
+          "name": "Iker Piedrafita",
+          "url": "https://open.spotify.com/artist/5rEj8lImgvqATqAtJVJbMH"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Romper El Plan",
+      "url": "https://open.spotify.com/track/5NLkOwbYEtEImzmKoZXtJ7"
+    },
+    {
+      "added_at": "2026-02-10 16:11:35",
+      "album": {
+        "name": "Giant DeNiro (Live)",
+        "url": "https://open.spotify.com/album/0QkYALhuOncbbnnsjMhGV8"
+      },
+      "artists": [
+        {
+          "name": "Giant DeNiro",
+          "url": "https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY"
+        }
+      ],
+      "duration_ms": 193913,
+      "name": "Straight Edging - Live",
+      "url": "https://open.spotify.com/track/1T6ZLrCMzvIyXqam5lfGoF"
+    },
+    {
+      "added_at": "2026-02-10 16:13:12",
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/7zSVo9c8DiZrT39xaYKMGh"
+      },
+      "artists": [
+        {
+          "name": "State of crime & science",
+          "url": "https://open.spotify.com/artist/6dP4AQGrIm5wOWMFMLPMXL"
+        }
+      ],
+      "duration_ms": 243779,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/78BKCSPFRZDZg8Z48dbYXs"
+    },
+    {
+      "added_at": "2026-02-10 16:14:04",
+      "album": {
+        "name": "Only Punk",
+        "url": "https://open.spotify.com/album/15ndZAnxijfCRa6ha9vK80"
+      },
+      "artists": [
+        {
+          "name": "Transazione Negata",
+          "url": "https://open.spotify.com/artist/5Qpt3qMs1IQunN4aR7qCXw"
+        }
+      ],
+      "duration_ms": 193478,
+      "name": "Only Punk",
+      "url": "https://open.spotify.com/track/3K9oYUOz0mM2ql90paasTO"
+    },
+    {
+      "added_at": "2026-02-10 16:23:41",
+      "album": {
+        "name": "Two Songs",
+        "url": "https://open.spotify.com/album/58c7FsuIF9OPC6lUPtBsZm"
+      },
+      "artists": [
+        {
+          "name": "Sweet Avenue",
+          "url": "https://open.spotify.com/artist/75Cjwervrw6KbpnBVBLlpF"
+        }
+      ],
+      "duration_ms": 164505,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/1lpSfHqGaImWgBCnrAiGez"
+    },
+    {
+      "added_at": "2026-02-10 16:25:52",
+      "album": {
+        "name": "Broken (Goodbye)",
+        "url": "https://open.spotify.com/album/724YnXwsn0WHxmRZjia31B"
+      },
+      "artists": [
+        {
+          "name": "Ten Eighty Trees",
+          "url": "https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Broken (Goodbye)",
+      "url": "https://open.spotify.com/track/22r1gUmB2NNu88vNv1Cqc0"
     }
   ],
   "unique_name": "Shuffle Roulette",

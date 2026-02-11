@@ -1,15 +1,87 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 11886,
+  "num_followers": 11884,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPaudLskfzMLbgkty0G4D/X978Qq",
+  "snapshot_id": "AAAAANVvS2vnTQtFJRUpf40B43nLE1dc",
   "tracks": [
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
+      "album": {
+        "name": "Same Days",
+        "url": "https://open.spotify.com/album/4lZsj3u5XyFtEv3IS3HMqg"
+      },
+      "artists": [
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z"
+        },
+        {
+          "name": "HYESUNG",
+          "url": "https://open.spotify.com/artist/3bbbIk5GiwAbgso06bJMiM"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        }
+      ],
+      "duration_ms": 145565,
+      "name": "Same Days",
+      "url": "https://open.spotify.com/track/4Rupjlu5lEdF9pv2rt7sJa"
+    },
+    {
+      "added_at": "2026-02-10 05:29:01",
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/1uyVWiPzaLDIzKIpgSOmWg"
+      },
+      "artists": [
+        {
+          "name": "MIND U",
+          "url": "https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Confession (With Yu SeungWoo, Jeong Sewoon)",
+      "url": "https://open.spotify.com/track/7Devw20if8wj2k2ny2xYsu"
+    },
+    {
+      "added_at": "2026-02-10 05:29:01",
+      "album": {
+        "name": "you don't know",
+        "url": "https://open.spotify.com/album/3VnA1BOm8DnF1tWnCZdRy1"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 151971,
+      "name": "how much i love you",
+      "url": "https://open.spotify.com/track/0jEqL6ylvAzcMzVrQAvvLG"
+    },
+    {
+      "added_at": "2026-02-10 05:29:01",
+      "album": {
+        "name": "Spring Fever, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN"
+      },
+      "artists": [
+        {
+          "name": "SUNG HAN BIN",
+          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "You Are Spring",
+      "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"
+    },
+    {
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Spring Fever, Pt. 7 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW"
@@ -25,23 +97,7 @@
       "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
-      "album": {
-        "name": "Red Diary Page.1",
-        "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Some",
-      "url": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9"
-    },
-    {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "One-way Love (Feat. h3hyeon)",
         "url": "https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX"
@@ -61,7 +117,39 @@
       "url": "https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
+      "album": {
+        "name": "XO, My Cyberlove",
+        "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk"
+    },
+    {
+      "added_at": "2026-02-10 05:29:01",
+      "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "Some",
+      "url": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9"
+    },
+    {
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Some",
         "url": "https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6"
@@ -85,23 +173,7 @@
       "url": "https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
-      "album": {
-        "name": "Spring Fever, Pt. 5 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN"
-      },
-      "artists": [
-        {
-          "name": "SUNG HAN BIN",
-          "url": "https://open.spotify.com/artist/2nklCgDz87eN9JcPTlWFEp"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "You Are Spring",
-      "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"
-    },
-    {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "poppop - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/46VvKhK6C8GC2Ew7nAIK3Y"
@@ -117,23 +189,7 @@
       "url": "https://open.spotify.com/track/4fqWeOA8LcipNx6NOlFqtM"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
-      "album": {
-        "name": "XO, My Cyberlove",
-        "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk"
-    },
-    {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Your BGM Vol.1",
         "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
@@ -149,23 +205,7 @@
       "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
-      "album": {
-        "name": "bimil:ier vol.1 \"so this is love\"",
-        "url": "https://open.spotify.com/album/0EknhSeos8ohB3kvWPiwCp"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 203425,
-      "name": "so this is love",
-      "url": "https://open.spotify.com/track/1ijP3U4gkxG9SmPBOL7MYV"
-    },
-    {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "...l",
         "url": "https://open.spotify.com/album/3mOHNMIoQXQfux8b0pgQI0"
@@ -181,23 +221,7 @@
       "url": "https://open.spotify.com/track/36qXU2yyq1JtGp05omV7bu"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
-      "album": {
-        "name": "To My Beloved Thief, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/73xC19YQk363A7KxR142sW"
-      },
-      "artists": [
-        {
-          "name": "KickFlip",
-          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Something Feels Wrong",
-      "url": "https://open.spotify.com/track/3smVG3fNKHoO4Di5CWB3Wm"
-    },
-    {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
@@ -213,7 +237,7 @@
       "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Dynamite Kiss (Original Television Soundtrack), Pt.3",
         "url": "https://open.spotify.com/album/1wD9dXi6cZXqbAueDxpvuS"
@@ -229,7 +253,7 @@
       "url": "https://open.spotify.com/track/70EAgvy4fUexEViBeylMzS"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
@@ -245,7 +269,7 @@
       "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
@@ -261,7 +285,7 @@
       "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
         "url": "https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL"
@@ -277,7 +301,7 @@
       "url": "https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Be Melodramatic (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg"
@@ -293,7 +317,7 @@
       "url": "https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Good Person (2022)",
         "url": "https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm"
@@ -309,7 +333,7 @@
       "url": "https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4"
@@ -325,7 +349,7 @@
       "url": "https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
         "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
@@ -341,7 +365,23 @@
       "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
+      "album": {
+        "name": "To My Beloved Thief, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/73xC19YQk363A7KxR142sW"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Something Feels Wrong",
+      "url": "https://open.spotify.com/track/3smVG3fNKHoO4Di5CWB3Wm"
+    },
+    {
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
@@ -361,7 +401,7 @@
       "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Paint on Spring",
         "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
@@ -377,7 +417,7 @@
       "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Episode 25",
         "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
@@ -393,7 +433,7 @@
       "url": "https://open.spotify.com/track/6BMNPNij62XvOMQF5BPGym"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "HONEY",
         "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
@@ -413,7 +453,7 @@
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Message (with Gist)",
         "url": "https://open.spotify.com/album/3yUzjFo7J9UHdxUeYrkpeW"
@@ -433,7 +473,7 @@
       "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "A-TEEN Part. 2",
         "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
@@ -449,7 +489,7 @@
       "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Red Diary Page.1",
         "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
@@ -465,7 +505,7 @@
       "url": "https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "\uc81c4\ucc28 \uc0ac\ub791\ud601\uba85 (Original Sound Track) Pt.1",
         "url": "https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC"
@@ -481,7 +521,7 @@
       "url": "https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "STAYC Special Single [I WANT IT]",
         "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
@@ -497,7 +537,7 @@
       "url": "https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "My Dearest (ToGetHer X xooos) (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w"
@@ -513,7 +553,7 @@
       "url": "https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Love(Prod.Rocoberry)",
         "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
@@ -533,7 +573,7 @@
       "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Before the Petals Fall",
         "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
@@ -549,7 +589,7 @@
       "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "[ MAL ]",
         "url": "https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1"
@@ -565,7 +605,7 @@
       "url": "https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
         "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
@@ -585,7 +625,7 @@
       "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Love Frequency (Original Soundtrack from Just For Meeting You)",
         "url": "https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l"
@@ -601,7 +641,7 @@
       "url": "https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "\uc654\ub2e4 \uac14\ub2e4 \u314e\u314e",
         "url": "https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap"
@@ -621,7 +661,7 @@
       "url": "https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "MY PRIDE",
         "url": "https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA"
@@ -637,7 +677,7 @@
       "url": "https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "my fave",
         "url": "https://open.spotify.com/album/1FSSyUFTvCcIXDkfKtH4E7"
@@ -653,7 +693,7 @@
       "url": "https://open.spotify.com/track/6poejHjAalbDehuxJR1zsq"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "It just happened",
         "url": "https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh"
@@ -673,7 +713,7 @@
       "url": "https://open.spotify.com/track/1aMxvF0VxH9uyTCRFceyfm"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
         "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
@@ -693,7 +733,7 @@
       "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "How's your night (She is My Type\u2661 X Jeong Eun Ji)",
         "url": "https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ"
@@ -709,7 +749,7 @@
       "url": "https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "UU",
         "url": "https://open.spotify.com/album/7cWgmtrB5W17ULVPh8C8tO"
@@ -725,7 +765,7 @@
       "url": "https://open.spotify.com/track/1TYZNWwdRYY3700tFiP4JF"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Seesaw",
         "url": "https://open.spotify.com/album/3gYNVEE8VfeXPlIIZkavQp"
@@ -741,7 +781,7 @@
       "url": "https://open.spotify.com/track/1E7Od6wnOPFv80O1AuTCPE"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Introverted Us X Rothy (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3YpsY8C48pbYTplvZgddkw"
@@ -757,7 +797,7 @@
       "url": "https://open.spotify.com/track/159WRqvjKuDcItE2g0pWQp"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "HAAN X SHIRT : Energy",
         "url": "https://open.spotify.com/album/5jHoX07f3takq1mUAfl3bT"
@@ -777,7 +817,7 @@
       "url": "https://open.spotify.com/track/4OeS83JBtLaSb0YpmDXE2I"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/0CWiteWy2CGtpJTsHqmhms"
@@ -793,7 +833,7 @@
       "url": "https://open.spotify.com/track/3r8ySXFh7glcKFij6LUzCz"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "What about (feat. PENOMECO)",
         "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
@@ -813,7 +853,7 @@
       "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
     },
     {
-      "added_at": "2026-01-29 08:18:12",
+      "added_at": "2026-02-10 05:29:01",
       "album": {
         "name": "Hold Your Hand",
         "url": "https://open.spotify.com/album/2gFLIjvED2uSeyLyDXQggo"
@@ -827,38 +867,6 @@
       "duration_ms": 200400,
       "name": "Hold Your Hand",
       "url": "https://open.spotify.com/track/5eXAACvvEEYLhrFiSh6S0q"
-    },
-    {
-      "added_at": "2026-01-29 08:18:12",
-      "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/4vuGJU3d8YCJZRSNvFHX90"
-      },
-      "artists": [
-        {
-          "name": "Wine Loop",
-          "url": "https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/5TfjXWXIFzctqqiAoT7bSi"
-    },
-    {
-      "added_at": "2026-01-29 08:18:12",
-      "album": {
-        "name": "Once Upon a Small Town (Original Television Soundtrack), Pt.4",
-        "url": "https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa"
-      },
-      "artists": [
-        {
-          "name": "Song Youjin",
-          "url": "https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY"
     }
   ],
   "unique_name": "\uc378 !",

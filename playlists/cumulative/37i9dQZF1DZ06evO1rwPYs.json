@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Az\u00facar Negra",
+        "url": "https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230333,
+      "name": "Amores De Un D\u00eda",
+      "url": "https://open.spotify.com/track/3TbQtyfyQlj6hocCR4ulh9"
+    },
+    {
+      "album": {
         "name": "Quimbo Quimbumbia",
         "url": "https://open.spotify.com/album/6qOAKmAkf61KzST6YvInsM"
       },
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 199666,
       "name": "Las Pilanderas",
       "url": "https://open.spotify.com/track/7xXOh3KqSjkTmO2h9SjGWJ"

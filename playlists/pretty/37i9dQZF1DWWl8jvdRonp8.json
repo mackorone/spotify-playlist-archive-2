@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 295383,
+  "num_followers": 295457,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Las Romanticas Favoritas de Fuerza Regida",
         "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 197880,
       "name": "No Puedo Olvidarla",
       "url": "https://open.spotify.com/track/7b1TG0vsbfYWRvMtnR4t7Z"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 228160,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
         }
       ],
-      "duration_ms": 189280,
-      "name": "Mi Najayita",
-      "url": "https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N"
+      "duration_ms": 174533,
+      "name": "Poquito A Poco",
+      "url": "https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
         }
       ],
-      "duration_ms": 174533,
-      "name": "Poquito A Poco",
-      "url": "https://open.spotify.com/track/0J0N6Jp94JyjDgtnuuQaVi"
+      "duration_ms": 189280,
+      "name": "Mi Najayita",
+      "url": "https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N"
     },
     {
       "added_at": "2025-01-23 17:30:18",

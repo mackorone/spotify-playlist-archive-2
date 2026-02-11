@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-361 songs - 23 hr 54 min
+362 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Ordinary Miracle](https://open.spotify.com/track/1Tu6GUElqFOmZLvFvv3u0C) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Ordinary Miracle](https://open.spotify.com/album/2QkrEOaBQb6PxUslSGu3Yu) | 3:44 | 2025-04-05 |  |
 | [Overflow](https://open.spotify.com/track/732o97x5cTUkBSGTMkn00R) | [Madison Hamm](https://open.spotify.com/artist/2rhQrZikDlpjv7XQr6rlqT) | [Overflow](https://open.spotify.com/album/4XiTbwVZZDjQJOPYUPu4zz) | 3:25 | 2024-07-26 | 2025-04-05 |
 | [Overthinking](https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Overthinking](https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH) | 3:24 | 2025-04-05 |  |
-| [patient.](https://open.spotify.com/track/7IR29E7bJQ4J8PUAAggdrw) | [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Lofi Hymns.](https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW), [Dan's music](https://open.spotify.com/artist/6G6KxdPb45tFu5fvsZriVW) | [patient.](https://open.spotify.com/album/2IZ952a45yh2M2pwEyOYBK) | 3:20 | 2025-12-13 |  |
+| [patient.](https://open.spotify.com/track/7IR29E7bJQ4J8PUAAggdrw) | [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx), [Lofi Hymns.](https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW), [Dan's music](https://open.spotify.com/artist/6G6KxdPb45tFu5fvsZriVW) | [patient.](https://open.spotify.com/album/2IZ952a45yh2M2pwEyOYBK) | 3:20 | 2025-12-13 | 2026-02-11 |
 | [Peace](https://open.spotify.com/track/5OlA8wCfwEyKh3ZZdCUjxf) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [Peace](https://open.spotify.com/album/3tE9TpTQossZEL136kY0lM) | 1:32 | 2025-10-10 |  |
 | [Peace \- Acoustic](https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 5:07 | 2021-10-31 | 2024-07-27 |
 | [Peace Be Still](https://open.spotify.com/track/6naJCIwcdALuA7X6t3wFBA) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Peace Be Still](https://open.spotify.com/album/0hvmi61bBgQ50K0XWp7OyU) | 4:08 | 2025-12-13 |  |
@@ -282,6 +282,7 @@
 | [Simple Phrase](https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Simple Phrase](https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0) | 3:28 | 2025-04-05 |  |
 | [Sing Of Your Love \- Live](https://open.spotify.com/track/7pZFRGLVp7ytiV0k4cGbN8) | [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq), [Richard Moses](https://open.spotify.com/artist/1KzCX7X1mgFR6CP8LEO7GQ), [Esther Cole](https://open.spotify.com/artist/6SLRS2riyxswA1BQauCxAf) | [Sing Of Your Love \(Live\)](https://open.spotify.com/album/2YxPlUxsa6rkdghoc4KNoZ) | 4:31 | 2025-08-08 | 2025-09-28 |
 | [Sing Over Me](https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Sing Over Me](https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY) | 4:14 | 2024-06-23 | 2025-04-05 |
+| [sirens \- Sarah Nathalié Mix](https://open.spotify.com/track/5j0ySCK0HUXElgaRfPsta6) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [sirens \(Sarah Nathalié Mix\)](https://open.spotify.com/album/6YaT0gY4eoWXuqXDC9ociS) | 3:24 | 2025-12-13 |  |
 | [Slow Down](https://open.spotify.com/track/63TTQznl7Jmazif66HLiab) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Sunrise](https://open.spotify.com/album/51liDjbYOuhLfFCpGATjqF) | 3:37 | 2025-04-05 |  |
 | [So Well](https://open.spotify.com/track/1uVIYYfysvEHvyAWKuF7sv) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Goodness of God: Songs of Worship](https://open.spotify.com/album/74R9jB4mMP9ei58XOno64f) | 4:49 | 2021-10-31 | 2023-08-08 |
 | [So Well](https://open.spotify.com/track/6oEH8lhWAcFZUJZRpakBpB) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [So Well](https://open.spotify.com/album/7tDMDC5zHGdawFHfFrKpwj) | 4:49 | 2021-10-31 | 2022-11-21 |

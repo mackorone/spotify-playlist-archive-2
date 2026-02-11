@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: ILLENIUM",
-  "num_followers": 68943,
+  "num_followers": 68942,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2026-02-05 15:00:07",
       "album": {
-        "name": "1-800",
-        "url": "https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Ironmouse",
-          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
-        }
-      ],
-      "duration_ms": 209515,
-      "name": "1-800",
-      "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
-    },
-    {
-      "added_at": "2026-02-05 15:00:07",
-      "album": {
         "name": "Move (feat. Camila Cabello & Malachiii)",
         "url": "https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello & Malachiii)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
+    },
+    {
+      "added_at": "2026-02-05 15:00:07",
+      "album": {
+        "name": "1-800",
+        "url": "https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Ironmouse",
+          "url": "https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C"
+        }
+      ],
+      "duration_ms": 209515,
+      "name": "1-800",
+      "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
     },
     {
       "added_at": "2026-02-05 15:00:07",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-02-05 15:00:07",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
-    },
-    {
-      "added_at": "2026-02-05 15:00:07",
-      "album": {
         "name": "All the Things She Said",
         "url": "https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 165299,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx"
+    },
+    {
+      "added_at": "2026-02-05 15:00:07",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
     },
     {
       "added_at": "2026-02-05 15:00:07",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-02-05 15:00:07",
       "album": {
-        "name": "GALA",
-        "url": "https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 227175,
-      "name": "GALA",
-      "url": "https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES"
-    },
-    {
-      "added_at": "2026-02-05 15:00:07",
-      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/1CFYXwvtEcMoaFgQJZzNRE"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2026-02-05 15:00:07",
       "album": {
+        "name": "GALA",
+        "url": "https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 227175,
+      "name": "GALA",
+      "url": "https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES"
+    },
+    {
+      "added_at": "2026-02-05 15:00:07",
+      "album": {
         "name": "Come Find Me (with Clementine Douglas)",
         "url": "https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs"
       },
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-05 15:00:07",
       "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE"
-    },
-    {
-      "added_at": "2026-02-05 15:00:07",
-      "album": {
         "name": "Love Is The Only Thing",
         "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
       },
@@ -1055,22 +1039,18 @@
     {
       "added_at": "2026-02-05 15:00:07",
       "album": {
-        "name": "Focus (feat. CLOVES)",
-        "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
+        "name": "Embers",
+        "url": "https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         }
       ],
-      "duration_ms": 238242,
-      "name": "Focus (feat. CLOVES)",
-      "url": "https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7"
+      "duration_ms": 181200,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE"
     },
     {
       "added_at": "2026-02-05 15:00:07",
@@ -1091,6 +1071,26 @@
       "duration_ms": 258461,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
+    },
+    {
+      "added_at": "2026-02-05 15:00:07",
+      "album": {
+        "name": "Focus (feat. CLOVES)",
+        "url": "https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 238242,
+      "name": "Focus (feat. CLOVES)",
+      "url": "https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7"
     },
     {
       "added_at": "2026-02-05 15:00:07",
@@ -1679,6 +1679,30 @@
     {
       "added_at": "2026-02-05 15:00:07",
       "album": {
+        "name": "OMG! (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/1Tvjx0HSnZx85wmtnDXVsP"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 152989,
+      "name": "OMG! (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2TuVErkUG3BdQR0dsbtakg"
+    },
+    {
+      "added_at": "2026-02-05 15:00:07",
+      "album": {
         "name": "d00mscrvll",
         "url": "https://open.spotify.com/album/7oopgknSuc08RQ5jR0aBjy"
       },
@@ -1699,22 +1723,6 @@
       "duration_ms": 160806,
       "name": "Loitering (ft. Kodak Black)",
       "url": "https://open.spotify.com/track/1jMhBGKs5FSWcFSqXOlyW9"
-    },
-    {
-      "added_at": "2026-02-05 15:00:07",
-      "album": {
-        "name": "The Way I Are",
-        "url": "https://open.spotify.com/album/5zWSMWktWUZq2crOfyWuxW"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 186667,
-      "name": "The Way I Are",
-      "url": "https://open.spotify.com/track/5osKlPBtBF4rC9o7PyCWm1"
     }
   ],
   "unique_name": "mint Japan",

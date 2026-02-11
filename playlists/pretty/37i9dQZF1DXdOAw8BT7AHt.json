@@ -1,6 +1,6 @@
 {
   "description": "The best in every corner of modern punk rock. Cover: Joyce Manor",
-  "num_followers": 471808,
+  "num_followers": 471820,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-02-06 05:00:49",
       "album": {
-        "name": "Keep Planting Flowers",
-        "url": "https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR"
-      },
-      "artists": [
-        {
-          "name": "Stick To Your Guns",
-          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
-        }
-      ],
-      "duration_ms": 203853,
-      "name": "Spineless",
-      "url": "https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa"
-    },
-    {
-      "added_at": "2026-02-06 05:00:49",
-      "album": {
         "name": "Hablame Bonito",
         "url": "https://open.spotify.com/album/0Xshxl3jl5UWJCCHm4R29y"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 175793,
       "name": "Hablame Bonito",
       "url": "https://open.spotify.com/track/4iu0dsOOKLsjyjMiT0WyLP"
+    },
+    {
+      "added_at": "2026-02-06 05:00:49",
+      "album": {
+        "name": "Keep Planting Flowers",
+        "url": "https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR"
+      },
+      "artists": [
+        {
+          "name": "Stick To Your Guns",
+          "url": "https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ"
+        }
+      ],
+      "duration_ms": 203853,
+      "name": "Spineless",
+      "url": "https://open.spotify.com/track/4DIL3Xgnb9PAqewEf9FRZa"
     },
     {
       "added_at": "2026-02-06 05:00:49",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2026-02-06 05:00:49",
       "album": {
-        "name": "Eternal Youth",
-        "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
+        "name": "Erasure",
+        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
       },
       "artists": [
         {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
         }
       ],
-      "duration_ms": 152101,
-      "name": "I See How It Is",
-      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
+      "duration_ms": 189159,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
     },
     {
       "added_at": "2026-02-06 05:00:49",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-02-06 05:00:49",
       "album": {
-        "name": "Erasure",
-        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
+        "name": "Eternal Youth",
+        "url": "https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX"
       },
       "artists": [
         {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
         }
       ],
-      "duration_ms": 189159,
-      "name": "Erasure",
-      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
+      "duration_ms": 152101,
+      "name": "I See How It Is",
+      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
     },
     {
       "added_at": "2026-02-06 05:00:49",
@@ -1235,6 +1235,22 @@
       "duration_ms": 200314,
       "name": "Pub Watch",
       "url": "https://open.spotify.com/track/0t4aamr11YYxKon8iEyGbj"
+    },
+    {
+      "added_at": "2026-02-06 05:00:49",
+      "album": {
+        "name": "Straight Up (Needy)",
+        "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "duration_ms": 194273,
+      "name": "Straight Up (Needy)",
+      "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
     },
     {
       "added_at": "2026-02-06 05:00:49",
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2026-02-06 05:00:49",
       "album": {
-        "name": "Straight Up (Needy)",
-        "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
+        "name": "Swing Life Away",
+        "url": "https://open.spotify.com/album/4i8WGpA8DFqNsI6rhhIBOY"
       },
       "artists": [
         {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+          "name": "Crooked Teeth",
+          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
         }
       ],
-      "duration_ms": 194273,
-      "name": "Straight Up (Needy)",
-      "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
+      "duration_ms": 227987,
+      "name": "Swing Life Away",
+      "url": "https://open.spotify.com/track/0i8S7t9Lf6x08wNFZLMziN"
     },
     {
       "added_at": "2026-02-06 05:00:49",
@@ -1319,22 +1335,6 @@
       "duration_ms": 227306,
       "name": "Stepping On A Rake",
       "url": "https://open.spotify.com/track/4j7xEmmnHVhhJfmCSfRc6W"
-    },
-    {
-      "added_at": "2026-02-06 05:00:49",
-      "album": {
-        "name": "Swing Life Away",
-        "url": "https://open.spotify.com/album/4i8WGpA8DFqNsI6rhhIBOY"
-      },
-      "artists": [
-        {
-          "name": "Crooked Teeth",
-          "url": "https://open.spotify.com/artist/37gTAIe8kJ5xGtkJLsfFgP"
-        }
-      ],
-      "duration_ms": 227987,
-      "name": "Swing Life Away",
-      "url": "https://open.spotify.com/track/0i8S7t9Lf6x08wNFZLMziN"
     },
     {
       "added_at": "2026-02-06 05:00:49",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2026-02-06 05:00:49",
       "album": {
-        "name": "Salsa Verde",
-        "url": "https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ"
+        "name": "An Artist Is An Artist",
+        "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
       },
       "artists": [
         {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
         }
       ],
-      "duration_ms": 204704,
-      "name": "Salsa Verde",
-      "url": "https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l"
+      "duration_ms": 191448,
+      "name": "An Artist Is An Artist",
+      "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
     },
     {
       "added_at": "2026-02-06 05:00:49",
@@ -1531,6 +1531,22 @@
       "duration_ms": 122057,
       "name": "Hyperpop Killed My Dog",
       "url": "https://open.spotify.com/track/1nBN5F1NbH5cq8wtTBcZ56"
+    },
+    {
+      "added_at": "2026-02-06 05:00:49",
+      "album": {
+        "name": "Salsa Verde",
+        "url": "https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 204704,
+      "name": "Salsa Verde",
+      "url": "https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l"
     },
     {
       "added_at": "2026-02-06 05:00:49",
@@ -1599,22 +1615,6 @@
       "duration_ms": 176007,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/5IN4Tidgh7w7omsfytcq0S"
-    },
-    {
-      "added_at": "2026-02-06 05:00:49",
-      "album": {
-        "name": "An Artist Is An Artist",
-        "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
-      },
-      "artists": [
-        {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
-        }
-      ],
-      "duration_ms": 191448,
-      "name": "An Artist Is An Artist",
-      "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
     },
     {
       "added_at": "2026-02-06 05:00:49",

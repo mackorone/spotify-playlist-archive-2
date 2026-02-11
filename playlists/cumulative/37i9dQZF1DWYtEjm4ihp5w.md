@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Stormy
+> Cover: Najm, Abduh
 
-483 songs - 1 day 1 hr 15 min
+484 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Kola Lila](https://open.spotify.com/track/2VqhFDBSEwU19GdTWs4Ehf) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Kola Lila](https://open.spotify.com/album/0b43XR2Qo0YHr0SjPCDy5S) | 3:27 | 2025-05-15 | 2025-07-17 |
 | [Kolla Sa3a](https://open.spotify.com/track/1oQadPm2panJK4zXWmeqYG) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Kolla Sa3a](https://open.spotify.com/album/785SSEHwMU8CaP8qhR5UfV) | 2:31 | 2025-02-03 | 2025-08-08 |
 | [KOUDOUROU](https://open.spotify.com/track/4Wx54faWzcpENP6oEST3Fv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:22 | 2025-06-27 |  |
-| [Koulchi Dial Alah](https://open.spotify.com/track/3JKgfoiKyBdxF2sw2lPNUH) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Koulchi Dial Allah](https://open.spotify.com/album/2ot0LJmlCgjB8ml3oFK6OL) | 2:57 | 2025-07-16 |  |
+| [Koulchi Dial Alah](https://open.spotify.com/track/3JKgfoiKyBdxF2sw2lPNUH) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Koulchi Dial Allah](https://open.spotify.com/album/2ot0LJmlCgjB8ml3oFK6OL) | 2:57 | 2025-07-16 | 2026-02-11 |
 | [KOUN RAJEL](https://open.spotify.com/track/4SxZyjZiFdlSW5YTUhMU7t) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [KOUN RAJEL](https://open.spotify.com/album/0oRaXdhsMKLj3h0BPQBuxK) | 3:23 | 2022-11-25 | 2023-02-14 |
 | [KTER MN 10](https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [KTER MN 10](https://open.spotify.com/album/3Y6HHfbV7ducsDdzwfn1lT) | 2:24 | 2025-07-14 |  |
 | [L'adresse](https://open.spotify.com/track/2JyZg2ZTWewdYavDVETj1I) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [L'adresse](https://open.spotify.com/album/186lJPIiwQ6wsKxIHRtNgN) | 3:03 | 2026-01-25 |  |
@@ -259,6 +259,7 @@
 | [LV COCO](https://open.spotify.com/track/62yJbbO1aBTfdT2XAUtBxh) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [LV COCO](https://open.spotify.com/album/15MDWkpeViZTZrsRRM0BTP) | 3:03 | 2022-11-14 | 2023-04-10 |
 | [Lyam](https://open.spotify.com/track/18pIEEGWFYvsLuLFwGMenD) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Metamorphose](https://open.spotify.com/album/3fkr5EHa2WgdxVulin2pGU) | 3:36 | 2024-10-02 | 2024-11-21 |
 | [Lyam](https://open.spotify.com/track/2k46XpoEmXFj8s0TAcb1Bh) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Metamorphose](https://open.spotify.com/album/36tEw2LCtzCcHT4ATz7fy6) | 3:36 | 2023-07-13 | 2024-10-03 |
+| [Lyke Dat](https://open.spotify.com/track/2NJjqqZQUoWo5vsXM6osYp) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lyke Dat](https://open.spotify.com/album/1Fx4UhGZo2w6CTliXvZg8F) | 2:14 | 2026-02-10 |  |
 | [L’allemagne \- Bonus](https://open.spotify.com/track/127o4DBdyOacwktIX5Nh28) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/25gV823TIXt2rIf9G9Mt01) | 3:01 | 2022-11-14 | 2023-02-19 |
 | [L’appel V2](https://open.spotify.com/track/4wnqyUswpvK48T8LkfV75J) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Alha9i9a \(الحقيقة\)](https://open.spotify.com/album/4ChviB4GBxtlmGtDk4Z81M) | 2:40 | 2025-06-05 | 2025-12-19 |
 | [L’Bayda Mon Amour](https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:48 | 2024-12-12 | 2025-07-02 |

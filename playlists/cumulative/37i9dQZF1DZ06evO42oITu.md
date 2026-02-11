@@ -4,7 +4,7 @@
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-161 songs - 12 hr 12 min
+162 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Always On My Mind](https://open.spotify.com/track/5YSoTfjiCDMynt1cocGIsS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Bradley Walker](https://open.spotify.com/artist/3WDUptC9KS6ZFNwkZipSlQ) | [Always On My Mind](https://open.spotify.com/album/5tDR5P1fGfzgPhaY7lvBPd) | 3:38 | 2023-09-21 | 2023-11-11 |
 | [Autumn Leaves](https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton](https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe) | 5:40 | 2022-10-31 |  |
 | [Autumn Leaves](https://open.spotify.com/track/6bLy8YiVKRpUzwWZG6lVDq) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton](https://open.spotify.com/album/2kuvLiT8HjMGWzsOq4k1Uk) | 5:40 | 2022-08-05 | 2022-11-01 |
-| [Bad Love](https://open.spotify.com/track/185dxn5sEgOnBX5iwCDHkp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 5:08 | 2023-06-13 |  |
+| [Bad Love](https://open.spotify.com/track/185dxn5sEgOnBX5iwCDHkp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 5:08 | 2023-06-13 | 2026-02-11 |
 | [Before You Accuse Me](https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 3:58 | 2025-04-26 |  |
 | [Before You Accuse Me \- 2013 Remaster](https://open.spotify.com/track/3xsYslIyJbMLk8n9qlUnrb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 3:59 | 2022-08-05 | 2022-11-02 |
 | [Before You Accuse Me \- Acoustic Live](https://open.spotify.com/track/63FLIj5L2qTI2nSArBny5p) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 3:59 | 2022-11-03 | 2025-04-26 |
@@ -155,6 +155,7 @@
 | [The Call](https://open.spotify.com/track/5Ya1SKVBBaRDiXD6Sy5LBR) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Meanwhile](https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ) | 5:07 | 2024-10-09 | 2024-12-01 |
 | [The Rebels](https://open.spotify.com/track/0oRc8P9uLo5Ycu4s531c6V) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Meanwhile](https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ) | 4:08 | 2024-10-09 | 2025-01-08 |
 | [The Thrill Is Gone](https://open.spotify.com/track/4kyKnNbxFe86MMeV4xpDL8) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King & Friends \- 80](https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce) | 5:01 | 2022-08-05 |  |
+| [The Thrill Is Gone](https://open.spotify.com/track/1uhMPhUvVTQV9aawmxepS7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 5:05 | 2026-02-11 |  |
 | [Theme From A Movie That Never Happened \- Orchestral](https://open.spotify.com/track/5j1duApHM0rAJQqVmnc9H8) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Rarities 1983\-1998](https://open.spotify.com/album/30D06gnDL2ybmtALWlXsHB) | 3:30 | 2023-03-01 | 2023-03-10 |
 | [They Call Me The Breeze](https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 3:06 | 2022-10-12 |  |
 | [This Has Gotta Stop](https://open.spotify.com/track/4Cz032U4qrWCrjuqMoFWFq) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Meanwhile](https://open.spotify.com/album/7ASFpTja76OXENB9qkzXjJ) | 4:23 | 2024-10-25 | 2024-12-04 |

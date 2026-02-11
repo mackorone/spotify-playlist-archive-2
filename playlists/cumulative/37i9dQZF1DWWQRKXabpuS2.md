@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-448 songs - 1 day 6 hr 38 min
+449 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Sanhat Al Batal](https://open.spotify.com/track/0CnIBJh5OQSLLxCEvRom5s) | [Tareq Al Harbi](https://open.spotify.com/artist/5sc0loMqCN6R1ap06baL2K) | [Sanhat Al Batal](https://open.spotify.com/album/3zvLLHOURRbEsXWqudBwnW) | 3:15 | 2022-01-21 | 2022-06-15 |
 | [Saqat Aamdan](https://open.spotify.com/track/707mEqg0arM4lj6fC0q4QP) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [Fahad Al Kubaisi 2024](https://open.spotify.com/album/6TnNr4o8tLHKQ82SE44sU1) | 5:08 | 2024-04-14 | 2025-01-25 |
 | [Sara Barg](https://open.spotify.com/track/611PXXtuU51ToWk55udzWo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sara Barg](https://open.spotify.com/album/38JLjvDN9Vmdv3hlf6KA0O) | 4:07 | 2022-07-22 | 2023-02-03 |
+| [Sayedati Al Arab](https://open.spotify.com/track/7aEEyWk4tPuz78mC6Dx27v) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sayedati Al Arab](https://open.spotify.com/album/6KojUAPJYWbkto1qSbnGfi) | 5:21 | 2026-02-10 |  |
 | [Sha'a Rabi](https://open.spotify.com/track/3xHc0sVjmX3wELp4Gl2bQf) | [Fahad El Salem](https://open.spotify.com/artist/4qVn0gcHkdthKF07tD8F7D), [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Sha'a Rabi](https://open.spotify.com/album/4DwOVSEePfdMFjAiyXyghG) | 4:26 | 2023-03-24 | 2023-09-22 |
 | [Shabeah Rouhi](https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shabeah Rouhi](https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd) | 6:15 | 2023-05-12 | 2023-12-06 |
 | [Shahr 7](https://open.spotify.com/track/5W38ngA8pVHq5AnsyWNVM5) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Shahr 7](https://open.spotify.com/album/2Bhcqu0QL5QSr6RmtIffsv) | 6:06 | 2024-04-10 | 2024-04-19 |

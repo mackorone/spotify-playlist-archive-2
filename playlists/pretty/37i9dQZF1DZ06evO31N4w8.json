@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 67048,
+  "num_followers": 67056,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAA5z0ymiRQ4YKcIg1lLvyt7",
+  "snapshot_id": "aYkjgAAAAABjuwMKSCjWsYNAvxPflhUG",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Que El Mundo Ruede",
-        "url": "https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Que El Mundo Ruede",
-      "url": "https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuesta Arriba",
         "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
       },
@@ -235,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Coraz\u00f3n Norte\u00f1o",
-        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
+        "name": "Y Que El Mundo Ruede",
+        "url": "https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0"
       },
       "artists": [
         {
@@ -244,9 +228,25 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 254706,
-      "name": "Sim\u00f3n Blanco",
-      "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
+      "duration_ms": 173480,
+      "name": "Que El Mundo Ruede",
+      "url": "https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Maquinista",
+        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 195853,
+      "name": "China De Los Ojos Negros",
+      "url": "https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Maquinista",
-        "url": "https://open.spotify.com/album/69lJRuexU5t09latWCcR2L"
+        "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 195853,
-      "name": "China De Los Ojos Negros",
-      "url": "https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz"
+      "duration_ms": 254706,
+      "name": "Sim\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
     },
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rifare Mi Suerte",
+        "url": "https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "Tu Ultimo Verano",
+      "url": "https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 219320,
       "name": "Ya Para Que",
       "url": "https://open.spotify.com/track/17jm8TyGeg2ZHMUk0L9IL7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rifare Mi Suerte",
-        "url": "https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 181773,
-      "name": "Tu Ultimo Verano",
-      "url": "https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Clasicas del Ayer, Vol. 1",
-        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "El Golpe Traidor",
-      "url": "https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entrega De Amor",
         "url": "https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 189426,
       "name": "Una Mujer Como T\u00fa",
       "url": "https://open.spotify.com/track/62zSWES4N5m1tr7ovTMWf3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Clasicas del Ayer, Vol. 1",
+        "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "El Golpe Traidor",
+      "url": "https://open.spotify.com/track/3Dw29YgE0kNvEBDX1WGTpX"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 Exitos: La Maquina Musical Numero Uno",
+        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9xitos Recientes y Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/2ePeZ2R1SVuS0HzmJguVm1"
       },
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Exitos: La Maquina Musical Numero Uno",
-        "url": "https://open.spotify.com/album/1zROvL56Rc1Ginre3mWSgD"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/1Pdf0Ra4DMrCeOQOYigle9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Clasicas del Ayer, Vol. 1",
         "url": "https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17"
       },
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 159666,
-      "name": "Sabor Amargo",
-      "url": "https://open.spotify.com/track/6LnuxOIGplVSvySp6mHnR3"
+      "duration_ms": 172120,
+      "name": "Un Enga\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldito Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5vZnkMXH16Uk4SYXtYn07f"
+        "name": "20 Exitos Historicos, Vol. 2",
+        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 168196,
-      "name": "Cambias O Me Pierdes",
-      "url": "https://open.spotify.com/track/1d9jP5F4QzEVVL7r88aXV1"
+      "duration_ms": 184133,
+      "name": "Amor Ingrato",
+      "url": "https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04"
     },
     {
       "added_at": null,
@@ -708,15 +708,15 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 172120,
-      "name": "Un Enga\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5"
+      "duration_ms": 159666,
+      "name": "Sabor Amargo",
+      "url": "https://open.spotify.com/track/6LnuxOIGplVSvySp6mHnR3"
     },
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos Historicos, Vol. 2",
-        "url": "https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV"
+        "name": "Maldito Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5vZnkMXH16Uk4SYXtYn07f"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 184133,
-      "name": "Amor Ingrato",
-      "url": "https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04"
+      "duration_ms": 168196,
+      "name": "Cambias O Me Pierdes",
+      "url": "https://open.spotify.com/track/1d9jP5F4QzEVVL7r88aXV1"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
+        "name": "Ni El Diablo Te Va A Querer",
+        "url": "https://open.spotify.com/album/14ukGrCsnpYZcooY1fBfxY"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 202573,
-      "name": "Las Rejas No Matan",
-      "url": "https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq"
+      "duration_ms": 174053,
+      "name": "Ni El Diablo Te Va A Querer",
+      "url": "https://open.spotify.com/track/65mruN5u6IQMRIXubbhMQK"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni El Diablo Te Va A Querer",
-        "url": "https://open.spotify.com/album/14ukGrCsnpYZcooY1fBfxY"
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 174053,
-      "name": "Ni El Diablo Te Va A Querer",
-      "url": "https://open.spotify.com/track/65mruN5u6IQMRIXubbhMQK"
+      "duration_ms": 202573,
+      "name": "Las Rejas No Matan",
+      "url": "https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq"
     },
     {
       "added_at": null,

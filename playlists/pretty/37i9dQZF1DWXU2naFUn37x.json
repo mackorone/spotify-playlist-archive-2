@@ -1,6 +1,6 @@
 {
   "description": "Lacrim, Papa e Nerissima in cover della playlist dello street rap italiano \u26d3\ufe0f",
-  "num_followers": 924329,
+  "num_followers": 924295,
   "original_name": "Street Culto",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,26 @@
     {
       "added_at": "2026-02-09 23:01:14",
       "album": {
+        "name": "FINEST (feat. Tedua)",
+        "url": "https://open.spotify.com/album/5chGbKyqrrNdkljmYQgIG3"
+      },
+      "artists": [
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 135666,
+      "name": "FINEST (feat. Tedua)",
+      "url": "https://open.spotify.com/track/5VuEZjUveMohvOpiIZOAr3"
+    },
+    {
+      "added_at": "2026-02-09 23:01:14",
+      "album": {
         "name": "100 Kili (feat. Simba La Rue)",
         "url": "https://open.spotify.com/album/4JGD5aGxAO4UXRN5O0IZqn"
       },
@@ -758,10 +778,6 @@
         {
           "name": "Flaco G",
           "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
-        },
-        {
-          "name": "Idua",
-          "url": "https://open.spotify.com/artist/1a7b1Lrgvn3bKAs23oCI5b"
         }
       ],
       "duration_ms": 151578,
@@ -1092,7 +1108,7 @@
           "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
         }
       ],
-      "duration_ms": 156382,
+      "duration_ms": 137872,
       "name": "CELEBRIT\u00c0 (feat. Papa V & Nerissima Serpe)",
       "url": "https://open.spotify.com/track/2yImdlsk2aGNxpkJwZTv9f"
     },

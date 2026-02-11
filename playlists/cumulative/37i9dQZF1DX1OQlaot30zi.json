@@ -46605,6 +46605,28 @@
     },
     {
       "album": {
+        "name": "FINEST (feat. Tedua)",
+        "url": "https://open.spotify.com/album/5chGbKyqrrNdkljmYQgIG3"
+      },
+      "artists": [
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135666,
+      "name": "FINEST (feat. Tedua)",
+      "url": "https://open.spotify.com/track/5VuEZjUveMohvOpiIZOAr3"
+    },
+    {
+      "album": {
         "name": "Fingono",
         "url": "https://open.spotify.com/album/5AiGvFOyMpPCoqapQiz5g8"
       },

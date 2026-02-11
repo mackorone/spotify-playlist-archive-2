@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 188982,
+  "num_followers": 188997,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABbLllXN2ToEPQWHN1v3mX8",
+  "snapshot_id": "aYkjgAAAAABDHfjj/BvHQ+tOoD+K4jeO",
   "tracks": [
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pearl Sessions",
-        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 99706,
-      "name": "Overheard In The Studio...",
-      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
+      "duration_ms": 196507,
+      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
+      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+        "name": "The Pearl Sessions",
+        "url": "https://open.spotify.com/album/2wkjA7zJrCFQcBJpD4tHA7"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 196507,
-      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
-      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
+      "duration_ms": 99706,
+      "name": "Overheard In The Studio...",
+      "url": "https://open.spotify.com/track/0rB1ACV8tKm8lDGtsgMfIO"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 37062,
+  "num_followers": 37065,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -203,26 +203,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "fiesta",
-        "url": "https://open.spotify.com/album/7f2SsN58aFgvlZQj7mgYGw"
-      },
-      "artists": [
-        {
-          "name": "hazzelbeats",
-          "url": "https://open.spotify.com/artist/3dT7oRtDgSIB5HENQ223Nb"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 137187,
-      "name": "fiesta",
-      "url": "https://open.spotify.com/track/6TsUg8El8NguxXebmWgSCs"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 114000,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "fiesta",
+        "url": "https://open.spotify.com/album/7f2SsN58aFgvlZQj7mgYGw"
+      },
+      "artists": [
+        {
+          "name": "hazzelbeats",
+          "url": "https://open.spotify.com/artist/3dT7oRtDgSIB5HENQ223Nb"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 137187,
+      "name": "fiesta",
+      "url": "https://open.spotify.com/track/6TsUg8El8NguxXebmWgSCs"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -439,18 +439,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
       },
       "artists": [
         {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 124245,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
+      "duration_ms": 190000,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -503,8 +503,24 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 124245,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Nos Usamos",
+        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
       },
       "artists": [
         {
@@ -512,9 +528,9 @@
           "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -535,22 +551,6 @@
       "duration_ms": 153162,
       "name": "jazmin",
       "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -579,24 +579,24 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
       "artists": [
         {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "la espera",
-        "url": "https://open.spotify.com/album/1WWq4XoeC07MZOBdxBce28"
+        "name": "SANTA TIERRA",
+        "url": "https://open.spotify.com/album/6soq6nzux0A2nBcDbhA5Sb"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 87529,
-      "name": "la espera",
-      "url": "https://open.spotify.com/track/2FXnJjGKL6G6StzO0vST1l"
+      "duration_ms": 144363,
+      "name": "La Villa",
+      "url": "https://open.spotify.com/track/1X54JQsqoNdQS11kpCwh1U"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -627,6 +627,38 @@
       "duration_ms": 186000,
       "name": "Guapachosa",
       "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Un Final",
+        "url": "https://open.spotify.com/album/1mZdIgakWgOWhiTUq6nIg1"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 235863,
+      "name": "Un Final",
+      "url": "https://open.spotify.com/track/00YOjUb6jOzPwBK0aqhvK0"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -687,22 +719,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Nos Usamos",
-        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "tranqui",
         "url": "https://open.spotify.com/album/1E0WkP4PHH8eatHnoxzXsO"
       },
@@ -715,26 +731,6 @@
       "duration_ms": 122191,
       "name": "tranqui",
       "url": "https://open.spotify.com/track/7DMW7Mo9muPOoCpfAgKEFL"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Dale Dale",
-        "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Dale Dale",
-      "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -759,6 +755,74 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Dale Dale",
+        "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Dale Dale",
+      "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "la espera",
+        "url": "https://open.spotify.com/album/1WWq4XoeC07MZOBdxBce28"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 87529,
+      "name": "la espera",
+      "url": "https://open.spotify.com/track/2FXnJjGKL6G6StzO0vST1l"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Nadie sabe nada de nadie",
+        "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "Nadie sabe nada de nadie",
+      "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Sugar Leafs",
+        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "Sugar Leafs",
+      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Erick",
         "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
       },
@@ -771,22 +835,6 @@
       "duration_ms": 172528,
       "name": "Erick",
       "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "SANTA TIERRA",
-        "url": "https://open.spotify.com/album/6soq6nzux0A2nBcDbhA5Sb"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 144363,
-      "name": "La Villa",
-      "url": "https://open.spotify.com/track/1X54JQsqoNdQS11kpCwh1U"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -811,22 +859,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Sugar Leafs",
-        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "Sugar Leafs",
-      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "lost in a dream",
         "url": "https://open.spotify.com/album/1GxXT299HiVWL3tp3Tbogk"
       },
@@ -847,18 +879,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Un Final",
-        "url": "https://open.spotify.com/album/1mZdIgakWgOWhiTUq6nIg1"
+        "name": "El Tambor",
+        "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "Aguachill",
+          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
         }
       ],
-      "duration_ms": 235863,
-      "name": "Un Final",
-      "url": "https://open.spotify.com/track/00YOjUb6jOzPwBK0aqhvK0"
+      "duration_ms": 106357,
+      "name": "El Tambor",
+      "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -879,22 +911,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "El Tambor",
-        "url": "https://open.spotify.com/album/7pFDCIMxVuXw1qQb0cJfGh"
-      },
-      "artists": [
-        {
-          "name": "Aguachill",
-          "url": "https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB"
-        }
-      ],
-      "duration_ms": 106357,
-      "name": "El Tambor",
-      "url": "https://open.spotify.com/track/5Y1tv2UYS9qnJDYsPuv2IS"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "que chulada",
         "url": "https://open.spotify.com/album/1VL31Ov2UyihVGEDQSoptV"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 134261,
       "name": "que chulada",
       "url": "https://open.spotify.com/track/6H58pGPGHVWaoK2JOe0r5y"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 121258,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -979,6 +979,38 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 121258,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Lucid Dreams",
+        "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 120750,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Retreat",
         "url": "https://open.spotify.com/album/5DSFC0n76z9CoGVwVmuPkD"
       },
@@ -999,38 +1031,6 @@
       "duration_ms": 109714,
       "name": "Retreat",
       "url": "https://open.spotify.com/track/6Bj1q3VcWh4DP5pg0calE2"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Nadie sabe nada de nadie",
-        "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Nadie sabe nada de nadie",
-      "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Lucid Dreams",
-        "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
-      },
-      "artists": [
-        {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
-        }
-      ],
-      "duration_ms": 120750,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "como los ni\u00f1os",
-        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 150956,
-      "name": "como los ni\u00f1os",
-      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "THIS TENDER APPEAL",
         "url": "https://open.spotify.com/album/4FXEQpFsX5l7Lb6QCeIgRl"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "como los ni\u00f1os",
+        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 150956,
+      "name": "como los ni\u00f1os",
+      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Birria",
         "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
       },
@@ -1159,22 +1159,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Lofi En La Mamalona",
-        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
+        "name": "Good things take time",
+        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
       },
       "artists": [
         {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
         }
       ],
-      "duration_ms": 116666,
-      "name": "Lofi En La Mamalona",
-      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
+      "duration_ms": 99428,
+      "name": "Good things take time",
+      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1199,38 +1195,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Good things take time",
-        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
+        "name": "Lofi En La Mamalona",
+        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
       },
       "artists": [
         {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Good things take time",
-      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "All Good in the Hood",
-        "url": "https://open.spotify.com/album/4uQFWwL68IbPDekcTVIX84"
-      },
-      "artists": [
-        {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         },
         {
-          "name": "Dr. Octosax",
-          "url": "https://open.spotify.com/artist/2BOqGRO3gFNm0pECPIuJm2"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 107294,
-      "name": "All Good in the Hood",
-      "url": "https://open.spotify.com/track/6glzOKKrShPuFB8aPWgafO"
+      "duration_ms": 116666,
+      "name": "Lofi En La Mamalona",
+      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1255,6 +1235,26 @@
       "duration_ms": 133600,
       "name": "98 pasos",
       "url": "https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "All Good in the Hood",
+        "url": "https://open.spotify.com/album/4uQFWwL68IbPDekcTVIX84"
+      },
+      "artists": [
+        {
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+        },
+        {
+          "name": "Dr. Octosax",
+          "url": "https://open.spotify.com/artist/2BOqGRO3gFNm0pECPIuJm2"
+        }
+      ],
+      "duration_ms": 107294,
+      "name": "All Good in the Hood",
+      "url": "https://open.spotify.com/track/6glzOKKrShPuFB8aPWgafO"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "2 de suadero con todo",
-        "url": "https://open.spotify.com/album/0PCCDz04565lReyRpRgGUI"
-      },
-      "artists": [
-        {
-          "name": "Melody the Basset",
-          "url": "https://open.spotify.com/artist/2UmnfJU8FScnShtNuuhU1k"
-        },
-        {
-          "name": "Multiverso Rec",
-          "url": "https://open.spotify.com/artist/4vfh7YNp9RCsbvotgivvGd"
-        }
-      ],
-      "duration_ms": 278918,
-      "name": "2 de suadero con todo",
-      "url": "https://open.spotify.com/track/4P3TFxyAgji4gBWAGzAR56"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Lost Memories",
         "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
       },
@@ -1351,6 +1331,22 @@
       "duration_ms": 146845,
       "name": "Lost Memories",
       "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "22 Hrs.",
+      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1379,34 +1375,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+        "name": "2 de suadero con todo",
+        "url": "https://open.spotify.com/album/0PCCDz04565lReyRpRgGUI"
       },
       "artists": [
         {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "22 Hrs.",
-      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "todas las ma\u00f1anas",
-        "url": "https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs"
-      },
-      "artists": [
+          "name": "Melody the Basset",
+          "url": "https://open.spotify.com/artist/2UmnfJU8FScnShtNuuhU1k"
+        },
         {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+          "name": "Multiverso Rec",
+          "url": "https://open.spotify.com/artist/4vfh7YNp9RCsbvotgivvGd"
         }
       ],
-      "duration_ms": 147621,
-      "name": "todas las ma\u00f1anas",
-      "url": "https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv"
+      "duration_ms": 278918,
+      "name": "2 de suadero con todo",
+      "url": "https://open.spotify.com/track/4P3TFxyAgji4gBWAGzAR56"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1427,6 +1411,22 @@
       "duration_ms": 104013,
       "name": "La Feria",
       "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "todas las ma\u00f1anas",
+        "url": "https://open.spotify.com/album/2C8HdbAXTfMZamykf1ptqs"
+      },
+      "artists": [
+        {
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+        }
+      ],
+      "duration_ms": 147621,
+      "name": "todas las ma\u00f1anas",
+      "url": "https://open.spotify.com/track/6IHjrdyb7o1YxQ1tXlvjvv"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1459,26 +1459,6 @@
       "duration_ms": 140000,
       "name": "Buena Onda",
       "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Haymaker",
-        "url": "https://open.spotify.com/album/78nOoKkouc8JNg5mJCoVTU"
-      },
-      "artists": [
-        {
-          "name": "Ferocious Folk",
-          "url": "https://open.spotify.com/artist/3ElseR4s7wXvietjmXYRyB"
-        },
-        {
-          "name": "Chill Yume",
-          "url": "https://open.spotify.com/artist/4ZBlnStaBtNzGrqKcIIl7b"
-        }
-      ],
-      "duration_ms": 114876,
-      "name": "Haymaker",
-      "url": "https://open.spotify.com/track/3nSxyYMdMjVvFoX7YRk2Ll"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1519,6 +1499,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Haymaker",
+        "url": "https://open.spotify.com/album/78nOoKkouc8JNg5mJCoVTU"
+      },
+      "artists": [
+        {
+          "name": "Ferocious Folk",
+          "url": "https://open.spotify.com/artist/3ElseR4s7wXvietjmXYRyB"
+        },
+        {
+          "name": "Chill Yume",
+          "url": "https://open.spotify.com/artist/4ZBlnStaBtNzGrqKcIIl7b"
+        }
+      ],
+      "duration_ms": 114876,
+      "name": "Haymaker",
+      "url": "https://open.spotify.com/track/3nSxyYMdMjVvFoX7YRk2Ll"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Zer",
         "url": "https://open.spotify.com/album/3vxAsKE2JVdmikgaSDCCXL"
       },
@@ -1531,46 +1531,6 @@
       "duration_ms": 186214,
       "name": "MexFi",
       "url": "https://open.spotify.com/track/6CyAiLN9Oh7dZo1t3sSU3U"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "El Chavito Triste",
-      "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/1sIwMHuFsffNmqByL5OPuc"
-      },
-      "artists": [
-        {
-          "name": "ikigai.",
-          "url": "https://open.spotify.com/artist/6A4AoY3CHEb7F4CHF7uR7d"
-        },
-        {
-          "name": "Patiotic Records",
-          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
-        }
-      ],
-      "duration_ms": 100500,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/52tssbVu5L3YEazbSSHZKs"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1595,6 +1555,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "El Chavito Triste",
+      "url": "https://open.spotify.com/track/7trcOO7EkUVYqklE7dl2LE"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Abr\u00e1zame mucho estos d\u00edas",
         "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
       },
@@ -1607,6 +1587,62 @@
       "duration_ms": 162479,
       "name": "Abr\u00e1zame mucho estos d\u00edas",
       "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Trompo de Pastor",
+        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
+      },
+      "artists": [
+        {
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Trompo de Pastor",
+      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/1sIwMHuFsffNmqByL5OPuc"
+      },
+      "artists": [
+        {
+          "name": "ikigai.",
+          "url": "https://open.spotify.com/artist/6A4AoY3CHEb7F4CHF7uR7d"
+        },
+        {
+          "name": "Patiotic Records",
+          "url": "https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ"
+        }
+      ],
+      "duration_ms": 100500,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/52tssbVu5L3YEazbSSHZKs"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "van life",
+        "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
+      },
+      "artists": [
+        {
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+        }
+      ],
+      "duration_ms": 135714,
+      "name": "van life",
+      "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1631,22 +1667,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Trompo de Pastor",
-        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
-      },
-      "artists": [
-        {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Trompo de Pastor",
-      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "wandering through soft colors",
         "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
       },
@@ -1663,22 +1683,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "van life",
-        "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
+        "name": "Canciones Para Ver Las Nubes Pasar",
+        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
       },
       "artists": [
         {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
-        },
-        {
-          "name": "Acrylic Sleep",
-          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
         }
       ],
-      "duration_ms": 135714,
-      "name": "van life",
-      "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
+      "duration_ms": 164117,
+      "name": "Canci\u00f3n en Forma de Elefante",
+      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1719,22 +1735,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Canciones Para Ver Las Nubes Pasar",
-        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Canci\u00f3n en Forma de Elefante",
-      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw"
       },
@@ -1767,22 +1767,6 @@
       "duration_ms": 197802,
       "name": "Agua",
       "url": "https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "LOFI CHRISTMAS VI",
-        "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
-      },
-      "artists": [
-        {
-          "name": "Akira The Don",
-          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "THE CHRISTMAS SONG LOFI",
-      "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1827,6 +1811,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "LOFI CHRISTMAS VI",
+        "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
+      },
+      "artists": [
+        {
+          "name": "Akira The Don",
+          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "THE CHRISTMAS SONG LOFI",
+      "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "woozy",
         "url": "https://open.spotify.com/album/76lS2gqtVbaRUMedAAzKN1"
       },
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "nueva",
-        "url": "https://open.spotify.com/album/5NkN72QNdkaSWPfYUiIIjT"
+        "name": "Summer Purr",
+        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
       },
       "artists": [
         {
-          "name": "tres islas",
-          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
+          "name": "Kissa Kat",
+          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
         }
       ],
-      "duration_ms": 156190,
-      "name": "nueva",
-      "url": "https://open.spotify.com/track/7HLPjCVZc2to6RuR792N3Q"
+      "duration_ms": 156000,
+      "name": "Summer Purr",
+      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
     }
   ],
   "unique_name": "LoFi mexa",

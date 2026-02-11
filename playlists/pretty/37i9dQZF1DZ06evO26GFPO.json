@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 307376,
+  "num_followers": 307383,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAACgqid9SbmwHd4d8nP+9QUB",
+  "snapshot_id": "aYkjgAAAAADrNbRhacKl3eI2zO3Lq3Mm",
   "tracks": [
     {
       "added_at": null,
@@ -95,26 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano (Ao vivo)",
-        "url": "https://open.spotify.com/album/2HKlCAIctOxLg9KCvtX4Yu"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 529585,
-      "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano - Ao vivo",
-      "url": "https://open.spotify.com/track/3hXCANK2ys6D2HZE3kuDfz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saudade da Gente (Ao Vivo na Resenha Pagode e Chinelo)",
         "url": "https://open.spotify.com/album/39IY5gyzMAY6N8ufNZKP93"
       },
@@ -135,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2 (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
+        "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano (Ao vivo)",
+        "url": "https://open.spotify.com/album/2HKlCAIctOxLg9KCvtX4Yu"
       },
       "artists": [
         {
@@ -144,33 +124,13 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "J\u00falio Sereno",
-          "url": "https://open.spotify.com/artist/0tXdd4bB63iJoJaidfdVrQ"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 208755,
-      "name": "Teu Segredo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6zR192lueVX45AwK5PLB0M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        }
-      ],
-      "duration_ms": 194211,
-      "name": "1% - Ao Vivo",
-      "url": "https://open.spotify.com/track/6gu8xo31Bsg22KhwTLJsmJ"
+      "duration_ms": 529585,
+      "name": "Numanice Lud Session - Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano - Ao vivo",
+      "url": "https://open.spotify.com/track/3hXCANK2ys6D2HZE3kuDfz"
     },
     {
       "added_at": null,
@@ -199,6 +159,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "duration_ms": 194211,
+      "name": "1% - Ao Vivo",
+      "url": "https://open.spotify.com/track/6gu8xo31Bsg22KhwTLJsmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice #2 (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "J\u00falio Sereno",
+          "url": "https://open.spotify.com/artist/0tXdd4bB63iJoJaidfdVrQ"
+        }
+      ],
+      "duration_ms": 208755,
+      "name": "Teu Segredo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6zR192lueVX45AwK5PLB0M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
       },
@@ -223,22 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+        "name": "Macetando",
+        "url": "https://open.spotify.com/album/5hylnoVPMP3cRU2Jwh9z5r"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         },
         {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 222362,
-      "name": "Cigana - Ao Vivo",
-      "url": "https://open.spotify.com/track/58RnbwfvEYB8VS5JHrUwc8"
+      "duration_ms": 167786,
+      "name": "Macetando",
+      "url": "https://open.spotify.com/track/4uR8CslffeNgPZ3lSuyfAc"
     },
     {
       "added_at": null,
@@ -275,6 +275,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 222362,
+      "name": "Cigana - Ao Vivo",
+      "url": "https://open.spotify.com/track/58RnbwfvEYB8VS5JHrUwc8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Numanice #2 (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
       },
@@ -291,6 +327,22 @@
       "duration_ms": 121636,
       "name": "Perfume - Ao Vivo",
       "url": "https://open.spotify.com/track/6Eu4upXqRZxGTJref5U5c4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Se N\u00e3o Chorar com Pagode - Ao Vivo",
+      "url": "https://open.spotify.com/track/4BB3adxRhL1lTK5WpB1eo1"
     },
     {
       "added_at": null,
@@ -315,58 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+        "name": "A For\u00e7a do Nosso Som Continua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 154164,
-      "name": "Falta de Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Macetando",
-        "url": "https://open.spotify.com/album/5hylnoVPMP3cRU2Jwh9z5r"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
         },
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 167786,
-      "name": "Macetando",
-      "url": "https://open.spotify.com/track/4uR8CslffeNgPZ3lSuyfAc"
+      "duration_ms": 182861,
+      "name": "Teu Segredo - Ao Vivo",
+      "url": "https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx"
     },
     {
       "added_at": null,
@@ -391,6 +407,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 154164,
+      "name": "Falta de Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prazer, eu sou Ferrugem (Ao vivo)",
         "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
@@ -407,42 +443,6 @@
       "duration_ms": 233637,
       "name": "Paci\u00eancia (Participa\u00e7\u00e3o especial de Ludmilla) - Ao vivo",
       "url": "https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Se N\u00e3o Chorar com Pagode - Ao Vivo",
-      "url": "https://open.spotify.com/track/4BB3adxRhL1lTK5WpB1eo1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A For\u00e7a do Nosso Som Continua (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY"
-      },
-      "artists": [
-        {
-          "name": "Vou pro Sereno",
-          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 182861,
-      "name": "Teu Segredo - Ao Vivo",
-      "url": "https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx"
     },
     {
       "added_at": null,
@@ -467,22 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Falta de Mim (Ao Vivo na Resenha Pagode e Chinelo)",
-        "url": "https://open.spotify.com/album/0gcFrFuriHDLPi8fzPTy8R"
+        "name": "Jogando em Casa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ZsXRycbphQ4lVSDuUISuK"
       },
       "artists": [
         {
-          "name": "Grupo BalacoBaco",
-          "url": "https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ"
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
         },
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 142152,
-      "name": "Falta de Mim (Ao Vivo na Resenha Pagode e Chinelo)",
-      "url": "https://open.spotify.com/track/04SCTah7kzN0Sdw0lCd1in"
+      "duration_ms": 219939,
+      "name": "J\u00e1 Tentei - Ao Vivo",
+      "url": "https://open.spotify.com/track/6JIhgAuKTkKsvJkFUGmoRU"
     },
     {
       "added_at": null,
@@ -503,6 +503,26 @@
       "duration_ms": 176297,
       "name": "Destilado - Ao Vivo",
       "url": "https://open.spotify.com/track/1J8rfA9BdhlpzNSKKePf3U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Falta de Mim (Ao Vivo na Resenha Pagode e Chinelo)",
+        "url": "https://open.spotify.com/album/0gcFrFuriHDLPi8fzPTy8R"
+      },
+      "artists": [
+        {
+          "name": "Grupo BalacoBaco",
+          "url": "https://open.spotify.com/artist/3rPWjTxht8F3lTQpEUn8gJ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 142152,
+      "name": "Falta de Mim (Ao Vivo na Resenha Pagode e Chinelo)",
+      "url": "https://open.spotify.com/track/04SCTah7kzN0Sdw0lCd1in"
     },
     {
       "added_at": null,
@@ -555,26 +575,6 @@
       "duration_ms": 682816,
       "name": "Poesia Ac\u00fastica #10 Recome\u00e7ar",
       "url": "https://open.spotify.com/track/2F2f4Bg37EB6vCoRIcyzCl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jogando em Casa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ZsXRycbphQ4lVSDuUISuK"
-      },
-      "artists": [
-        {
-          "name": "Vou pro Sereno",
-          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 219939,
-      "name": "J\u00e1 Tentei - Ao Vivo",
-      "url": "https://open.spotify.com/track/6JIhgAuKTkKsvJkFUGmoRU"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 196039,
+      "name": "Meu Defeito",
+      "url": "https://open.spotify.com/track/6bIfEba9GxPRhIdRmFz8zv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Numanice (Ao vivo)",
         "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
@@ -663,6 +679,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice #2",
+        "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 164141,
+      "name": "Maldivas",
+      "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 201301,
+      "name": "Sinais de fogo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fragmentos",
         "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
       },
@@ -672,9 +724,25 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 196039,
-      "name": "Meu Defeito",
-      "url": "https://open.spotify.com/track/6bIfEba9GxPRhIdRmFz8zv"
+      "duration_ms": 156511,
+      "name": "Dopamina",
+      "url": "https://open.spotify.com/track/7jji4uvYD5QCa0qdlg0nUo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 401511,
+      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
+      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
     },
     {
       "added_at": null,
@@ -706,95 +774,11 @@
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 201301,
-      "name": "Sinais de fogo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 401511,
-      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
-      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 156511,
-      "name": "Dopamina",
-      "url": "https://open.spotify.com/track/7jji4uvYD5QCa0qdlg0nUo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Para\u00edso",
-        "url": "https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 205884,
-      "name": "Para\u00edso",
-      "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice #2",
-        "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 164141,
-      "name": "Maldivas",
-      "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 281421,
-      "name": "Mande Um Sinal / Sinais - Ao vivo",
-      "url": "https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w"
+      "duration_ms": 160027,
+      "name": "Eu estive Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc"
     },
     {
       "added_at": null,
@@ -819,6 +803,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 281421,
+      "name": "Mande Um Sinal / Sinais - Ao vivo",
+      "url": "https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para\u00edso",
+        "url": "https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 205884,
+      "name": "Para\u00edso",
+      "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lud Session #2: Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
         "url": "https://open.spotify.com/album/0zaigYjLBnB3JcrUwZEfNV"
       },
@@ -835,38 +851,6 @@
       "duration_ms": 559903,
       "name": "Lud Session #2: Modo Avi\u00e3o / A Tua Voz / 700 Por Hora / Radar / A M\u00fasica Mais Triste do Ano",
       "url": "https://open.spotify.com/track/7HYdckQd1guaSYVwMQ3SFL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 160027,
-      "name": "Eu estive Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 325002,
-      "name": "Sintoma de Amor / Depois do Amor / Agenda - Ao vivo",
-      "url": "https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj"
     },
     {
       "added_at": null,
@@ -895,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 325002,
+      "name": "Sintoma de Amor / Depois do Amor / Agenda - Ao vivo",
+      "url": "https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VIL\u00c3",
         "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
       },
@@ -907,6 +907,26 @@
       "duration_ms": 148800,
       "name": "Sintomas de Prazer",
       "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello mundo (Ao vivo)",
+        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 157494,
+      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
+      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
     },
     {
       "added_at": null,
@@ -939,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello mundo (Ao vivo)",
-        "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 157494,
-      "name": "Invocada (Participa\u00e7\u00e3o especial de L\u00e9o Santana) - Ao vivo",
-      "url": "https://open.spotify.com/track/4k20Ie47EcWtS4wMBn8w8S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fragmentos",
         "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
       },
@@ -968,9 +968,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 171076,
-      "name": "Falta Eu",
-      "url": "https://open.spotify.com/track/6EvLTPpU0lLKQpCGgSm5Ky"
+      "duration_ms": 162720,
+      "name": "Textos Longos",
+      "url": "https://open.spotify.com/track/37dS7VQJ3lbdSNO6vRwI8P"
     },
     {
       "added_at": null,

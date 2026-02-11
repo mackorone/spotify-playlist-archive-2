@@ -1,13 +1,29 @@
 {
-  "description": "Nieuwe tijdloze muziek. Cover: Bruce Springsteen",
-  "num_followers": 451870,
+  "description": "Nieuwe tijdloze muziek. Cover: Nona",
+  "num_followers": 451844,
   "original_name": "Altijd Goed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANvvkbuAenHayY2y0+ynbo+mJM1P",
+  "snapshot_id": "AAAAAORGi9BhcSmpI0Cjg8S72zRHMfnP",
   "tracks": [
+    {
+      "added_at": "2026-02-06 08:55:20",
+      "album": {
+        "name": "This Is All I'll Be",
+        "url": "https://open.spotify.com/album/5ElZ82ll0Q0d1dFUdzEopC"
+      },
+      "artists": [
+        {
+          "name": "Nona",
+          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
+        }
+      ],
+      "duration_ms": 190117,
+      "name": "This Is All I'll Be",
+      "url": "https://open.spotify.com/track/0szz1ZU7v1NkYfMDQX7HeF"
+    },
     {
       "added_at": "2026-02-06 08:55:20",
       "album": {
@@ -91,22 +107,6 @@
       "duration_ms": 166810,
       "name": "Don\u2019t Be Silly",
       "url": "https://open.spotify.com/track/5HjaxbPAq0UYRjAY9gZEcx"
-    },
-    {
-      "added_at": "2026-02-06 08:55:20",
-      "album": {
-        "name": "This Is All I'll Be",
-        "url": "https://open.spotify.com/album/5ElZ82ll0Q0d1dFUdzEopC"
-      },
-      "artists": [
-        {
-          "name": "Nona",
-          "url": "https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb"
-        }
-      ],
-      "duration_ms": 190117,
-      "name": "This Is All I'll Be",
-      "url": "https://open.spotify.com/track/0szz1ZU7v1NkYfMDQX7HeF"
     },
     {
       "added_at": "2026-02-06 08:55:20",

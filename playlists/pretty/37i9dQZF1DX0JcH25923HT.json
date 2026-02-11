@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 572586,
+  "num_followers": 572800,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -763,26 +763,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Pininfarina (Remix)",
-        "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
+        "name": "Ahora Me Llama",
+        "url": "https://open.spotify.com/album/5G7fWlRbbz0ebcdTaEomEu"
       },
       "artists": [
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 260787,
-      "name": "Pininfarina - Remix",
-      "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
+      "duration_ms": 233293,
+      "name": "Ahora Me Llama",
+      "url": "https://open.spotify.com/track/4jhIWuW51XDplWJRfnG7AU"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -803,22 +799,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Ahora Me Llama",
-        "url": "https://open.spotify.com/album/5G7fWlRbbz0ebcdTaEomEu"
+        "name": "Pininfarina (Remix)",
+        "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 233293,
-      "name": "Ahora Me Llama",
-      "url": "https://open.spotify.com/track/4jhIWuW51XDplWJRfnG7AU"
+      "duration_ms": 260787,
+      "name": "Pininfarina - Remix",
+      "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -863,6 +863,38 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/1ySViVTiU5OmwkJdqXGiug"
+      },
+      "artists": [
+        {
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 284626,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "B.U.H.O",
         "url": "https://open.spotify.com/album/03obMR1fgKaIIuQHEZDNee"
       },
@@ -899,38 +931,6 @@
       "duration_ms": 298393,
       "name": "B.U.H.O",
       "url": "https://open.spotify.com/track/3juYl7RDkfwMGX5a17ach5"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/1ySViVTiU5OmwkJdqXGiug"
-      },
-      "artists": [
-        {
-          "name": "Revol",
-          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 284626,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1179,8 +1179,8 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Jimmy Fallon (Remix)",
-        "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
+        "name": "Nivel",
+        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
       },
       "artists": [
         {
@@ -1190,19 +1190,11 @@
         {
           "name": "Duki",
           "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         }
       ],
-      "duration_ms": 242376,
-      "name": "Jimmy Fallon - Remix",
-      "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
+      "duration_ms": 192000,
+      "name": "Perdoname Si Llego Tarde",
+      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1299,8 +1291,8 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Nivel",
-        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
+        "name": "Jimmy Fallon (Remix)",
+        "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
       },
       "artists": [
         {
@@ -1310,11 +1302,19 @@
         {
           "name": "Duki",
           "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Perdoname Si Llego Tarde",
-      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
+      "duration_ms": 242376,
+      "name": "Jimmy Fallon - Remix",
+      "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Me Llueven",
+        "url": "https://open.spotify.com/album/7pt7KWgOozxnMAZtHFd2sG"
+      },
+      "artists": [
+        {
+          "name": "Mark B.",
+          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 165994,
+      "name": "Me Llueven",
+      "url": "https://open.spotify.com/track/2Iv7PCElmi1dZfzHWzMczA"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Maracucho Bueno Muere Chiquito",
         "url": "https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5"
       },
@@ -1403,26 +1423,6 @@
       "duration_ms": 119438,
       "name": "#Ysya2020 Vol. 5 - Silbando",
       "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Me Llueven",
-        "url": "https://open.spotify.com/album/7pt7KWgOozxnMAZtHFd2sG"
-      },
-      "artists": [
-        {
-          "name": "Mark B.",
-          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 165994,
-      "name": "Me Llueven",
-      "url": "https://open.spotify.com/track/2Iv7PCElmi1dZfzHWzMczA"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "You're Welcome",
-        "url": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sigo Fresh",
-      "url": "https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Como Soy",
         "url": "https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 312232,
       "name": "Como Soy",
       "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sigo Fresh",
+      "url": "https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1935,26 +1935,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Se Termin\u00f3 (feat. Kodigo)",
-        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
-        }
-      ],
-      "duration_ms": 202083,
-      "name": "Se Termin\u00f3 (feat. Kodigo)",
-      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Krippy Kush (feat. 21 Savage & Rvssian) [Remix]",
         "url": "https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 236965,
       "name": "Krippy Kush (feat. 21 Savage & Rvssian) - Remix",
       "url": "https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Se Termin\u00f3 (feat. Kodigo)",
+        "url": "https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "duration_ms": 202083,
+      "name": "Se Termin\u00f3 (feat. Kodigo)",
+      "url": "https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ"
     },
     {
       "added_at": "2024-03-08 16:14:30",

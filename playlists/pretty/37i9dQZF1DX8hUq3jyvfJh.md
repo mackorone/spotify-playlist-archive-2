@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Julia Mestre e mais mulheres incríveis no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,620 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,622 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 25 | [Sinais](https://open.spotify.com/track/6P6at3wi3tLu201xR9mQkd) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Literalmente Devaneios](https://open.spotify.com/album/1gWZCVHiEDQ8Ijx4rrzMuk) | 3:47 |
 | 26 | [La Vie Est Belle](https://open.spotify.com/track/1RhafjU3mDDgjyLDPmCLNl) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Perfumes e Cigarros](https://open.spotify.com/album/5oZDe1sGUZ2cLaMH0FuIVa) | 2:20 |
 | 27 | [Umami](https://open.spotify.com/track/3r32wc9pcsAvekdnTuuJHI) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N) | [Umami](https://open.spotify.com/album/0DyNe2AEPsriNVpY5YGjDG) | 3:59 |
-| 28 | [Matar Saudade](https://open.spotify.com/track/63avrzRhhhKz0yrRKb6SKn) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Souvenir](https://open.spotify.com/album/1OBfikgKBcqn6pv5A0u0Pn) | 2:20 |
-| 29 | [Venha Comigo](https://open.spotify.com/track/1wDEZqedy42frd4VVaY19k) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [PIQUE](https://open.spotify.com/album/3MI3xJpbJSXDMk4qmkwSul) | 3:45 |
+| 28 | [Venha Comigo](https://open.spotify.com/track/1wDEZqedy42frd4VVaY19k) | [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE) | [PIQUE](https://open.spotify.com/album/3MI3xJpbJSXDMk4qmkwSul) | 3:45 |
+| 29 | [Matar Saudade](https://open.spotify.com/track/63avrzRhhhKz0yrRKb6SKn) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Souvenir](https://open.spotify.com/album/1OBfikgKBcqn6pv5A0u0Pn) | 2:20 |
 | 30 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
 | 31 | [Mil e uma Noites](https://open.spotify.com/track/2tWJnn5FPV7K9zAxjaHrVf) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Mil e uma Noites](https://open.spotify.com/album/3yU72PPiAtFrH1J0aEeOyx) | 3:06 |
 | 32 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |

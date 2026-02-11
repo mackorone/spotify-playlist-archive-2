@@ -4,7 +4,7 @@
 
 > Rising voices, enduring roots\. Cover: Meels
 
-327 songs - 19 hr 57 min
+328 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Parröthead2.0](https://open.spotify.com/track/7nF71dXC3roeMIhc2RIdoi) | [Deloyd Elze](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo) | [Parröthead2.0](https://open.spotify.com/album/13HryHLjZmm2VIZod1Ls2T) | 2:24 | 2026-01-09 |  |
 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 | 2022-01-28 | 2024-01-05 |
 | [Phone](https://open.spotify.com/track/6CmtXPRckXzOCYh6aw0kqk) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [Phone](https://open.spotify.com/album/0Sa7qZIblkaE3V9rS0eBLj) | 3:55 | 2023-04-07 |  |
+| [Playing Fetch](https://open.spotify.com/track/5FSdDpJ2O30Jp7Ec8JYKR2) | [Trinity Jane](https://open.spotify.com/artist/3WkvvBMBUEzcLLGTBFTngT) | [Playing Fetch](https://open.spotify.com/album/0z6S6ABEqOY9bk0X9Ex7Yh) | 3:30 | 2026-02-06 |  |
 | [Promise Of A Postcard \- Acoustic](https://open.spotify.com/track/1CTSXj2U1kTxA8CoEWfHPd) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Acoustic Tales](https://open.spotify.com/album/6VbyvdnBA7oW9dfWvYc1e0) | 3:29 | 2024-01-05 | 2026-01-15 |
 | [Property Line](https://open.spotify.com/track/24vqPVOfqHTIqf1QzGy2qn) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Property Line](https://open.spotify.com/album/04y1xdX3N1r6ns09xw7hJI) | 2:24 | 2023-05-26 | 2023-07-15 |
 | [Ready](https://open.spotify.com/track/1Nt7Anp2dEuY7oDCouQPlO) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Consequences](https://open.spotify.com/album/3HrrIjkYerBeAVBfNsQoXv) | 4:33 | 2022-01-28 | 2024-03-09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nDIMO REX)",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nSuen(\uc218\uc5d4))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 221693,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/2cbllYULJNYhcDK37Uh8hR"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 221680,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/07W0lOkOUhVhdJQ9wVepWr"
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 167000,
       "name": "Change Me (feat. homezone)",
       "url": "https://open.spotify.com/track/4KbwEh7tdy3RFSI62vT2lW"
@@ -6676,7 +6676,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 212349,
       "name": "Have I Asked You",
       "url": "https://open.spotify.com/track/6ntNYbDZwSmYiQAaqTYo01"
@@ -10326,7 +10326,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 182480,
       "name": "Mood",
       "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
@@ -17720,7 +17720,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 179146,
       "name": "Yes or No (Feat. \ud5c8\uc724\uc9c4 of LE SSERAFIM, Crush)",
       "url": "https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq"

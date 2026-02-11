@@ -3136,7 +3136,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 215858,
       "name": "AIZO",
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
@@ -7536,7 +7536,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -10386,7 +10386,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 275293,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/5oGK9Yr2EzKMb27Jpr5hpL"
@@ -12412,7 +12412,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 270697,
       "name": "Canasteo",
       "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
@@ -15784,7 +15784,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 205320,
       "name": "Como Es Que Se Hace",
       "url": "https://open.spotify.com/track/0ou3TddCNhvZeyGFbz7Y6E"
@@ -16178,7 +16178,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -22747,6 +22747,24 @@
     },
     {
       "album": {
+        "name": "Entre nosotros",
+        "url": "https://open.spotify.com/album/5ys4XoyGb77htRTiKdjoeY"
+      },
+      "artists": [
+        {
+          "name": "WoundsMusic",
+          "url": "https://open.spotify.com/artist/4qqyZl4xNCFjYxMviA7Inv"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259679,
+      "name": "El amor no pide",
+      "url": "https://open.spotify.com/track/1DljKU05j5sCTYhZXv9skI"
+    },
+    {
+      "album": {
         "name": "El Avioncito",
         "url": "https://open.spotify.com/album/0WxhnVh7PYSmNNe1b1BDWS"
       },
@@ -23066,7 +23084,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 259688,
       "name": "El D\u00eda De Las Crayolas",
       "url": "https://open.spotify.com/track/5M3snNEJKHTFyxqL6qoG32"
@@ -24294,7 +24312,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 204319,
       "name": "Ella Aprendio A Irse",
       "url": "https://open.spotify.com/track/70xEo41ymzVEvVUfjVJVXP"
@@ -32659,6 +32677,24 @@
     },
     {
       "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
+    },
+    {
+      "album": {
         "name": "Hermanas de leche",
         "url": "https://open.spotify.com/album/4LXo5dlL6OmxhSUB8dCVfp"
       },
@@ -34098,6 +34134,24 @@
       "duration_ms": 128738,
       "name": "HYPNOTIC DATA",
       "url": "https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc"
+    },
+    {
+      "album": {
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
     },
     {
       "album": {
@@ -59718,7 +59772,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 151146,
       "name": "Por un Pendejo no se llora - Salud mi Reina",
       "url": "https://open.spotify.com/track/4VPl3WGYKxQG8EVis7uLDt"
@@ -63796,6 +63850,24 @@
       "duration_ms": 213760,
       "name": "Rollin' (Air Raid Vehicle)",
       "url": "https://open.spotify.com/track/3IV4swNduIRunHREK80owz"
+    },
+    {
+      "album": {
+        "name": "Rollitos de Papel",
+        "url": "https://open.spotify.com/album/7eZ9SGcuTyYH6tHeLFhuu1"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182475,
+      "name": "Rollitos de Papel",
+      "url": "https://open.spotify.com/track/2In4JKhdvDXXszMTh6PlnN"
     },
     {
       "album": {
@@ -70456,7 +70528,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
@@ -73137,6 +73209,24 @@
     },
     {
       "album": {
+        "name": "Entre nosotros",
+        "url": "https://open.spotify.com/album/5ys4XoyGb77htRTiKdjoeY"
+      },
+      "artists": [
+        {
+          "name": "WoundsMusic",
+          "url": "https://open.spotify.com/artist/4qqyZl4xNCFjYxMviA7Inv"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288360,
+      "name": "Te quiero tanto",
+      "url": "https://open.spotify.com/track/3kgS8XT7nXfObvqUfx2m4i"
+    },
+    {
+      "album": {
         "name": "Te Regalo",
         "url": "https://open.spotify.com/album/0k43xjg0bI0CcNOA1agoxO"
       },
@@ -75494,6 +75584,32 @@
       "duration_ms": 112000,
       "name": "Todo el d\u00eda",
       "url": "https://open.spotify.com/track/44SHOivgbtSM5DfSw9GBsa"
+    },
+    {
+      "album": {
+        "name": "Todo el d\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/5aDNzQ1LanjQmbAz52EJ1I"
+      },
+      "artists": [
+        {
+          "name": "4bes",
+          "url": "https://open.spotify.com/artist/73SuBOu3iOokNerNlByLoY"
+        },
+        {
+          "name": "GIMARIO",
+          "url": "https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH"
+        },
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Todo el d\u00eda - Remix",
+      "url": "https://open.spotify.com/track/0uWFWD3ZRiVCgxheiOYhWx"
     },
     {
       "album": {

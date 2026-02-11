@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 559157,
+  "num_followers": 559414,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAADBwwhQDmAs0nGsvOyZfSf7",
+  "snapshot_id": "aYkjgAAAAADYQofhOHcNfC8XS9f+CjZa",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alch Si",
-        "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
+        "name": "Don't Stop The Magic",
+        "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 153953,
-      "name": "Alch Si",
-      "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
+      "duration_ms": 190553,
+      "name": "Di Que S\u00ed",
+      "url": "https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9"
     },
     {
       "added_at": null,
@@ -283,22 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Stop The Magic",
-        "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
+        "name": "Alch Si",
+        "url": "https://open.spotify.com/album/7rCPyUIciqYswpRXTa1JYc"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         },
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 190553,
-      "name": "Di Que S\u00ed",
-      "url": "https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9"
+      "duration_ms": 153953,
+      "name": "Alch Si",
+      "url": "https://open.spotify.com/track/5cWgwbui8BasfjCXvBZ7UA"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beses Asi",
-        "url": "https://open.spotify.com/album/1YBPQVTzgm5J8aPCWO3ZTC"
+        "name": "no lo ves",
+        "url": "https://open.spotify.com/album/7hpcGYh5e59jKEu5bby13Q"
       },
       "artists": [
         {
@@ -772,13 +772,13 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 183500,
-      "name": "Beses Asi",
-      "url": "https://open.spotify.com/track/7hI8ffEBErrm820TRaS0dV"
+      "duration_ms": 149797,
+      "name": "no lo ves",
+      "url": "https://open.spotify.com/track/7qCMCckflYXyt518lLIWbb"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "no lo ves",
-        "url": "https://open.spotify.com/album/7hpcGYh5e59jKEu5bby13Q"
+        "name": "Beses Asi",
+        "url": "https://open.spotify.com/album/1YBPQVTzgm5J8aPCWO3ZTC"
       },
       "artists": [
         {
@@ -824,13 +824,13 @@
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 149797,
-      "name": "no lo ves",
-      "url": "https://open.spotify.com/track/7qCMCckflYXyt518lLIWbb"
+      "duration_ms": 183500,
+      "name": "Beses Asi",
+      "url": "https://open.spotify.com/track/7hI8ffEBErrm820TRaS0dV"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Retiro",
-        "url": "https://open.spotify.com/album/4e54zPQ8pqXkFHTKL7xLVj"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 248875,
-      "name": "Me Retiro",
-      "url": "https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pienso En Ella",
         "url": "https://open.spotify.com/album/7cHJ27ODl19jWx14kWMPMT"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 159552,
       "name": "Pienso En Ella",
       "url": "https://open.spotify.com/track/1JLN3lX1fFAJoFPjUhp4ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Retiro",
+        "url": "https://open.spotify.com/album/4e54zPQ8pqXkFHTKL7xLVj"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 248875,
+      "name": "Me Retiro",
+      "url": "https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h"
     },
     {
       "added_at": null,

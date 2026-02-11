@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: No Doubt",
-  "num_followers": 1485541,
+  "num_followers": 1485680,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Floored",
-        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "All The Pain Money Can Buy",
         "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 257093,
       "name": "The Way",
       "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Floored",
+        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
     },
     {
       "added_at": "2024-06-26 02:07:58",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-06-26 02:07:58",
       "album": {
-        "name": "Goldfinger",
-        "url": "https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS"
-      },
-      "artists": [
-        {
-          "name": "Goldfinger",
-          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Here In Your Bedroom",
-      "url": "https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG"
-    },
-    {
-      "added_at": "2024-06-26 02:07:58",
-      "album": {
         "name": "A Casual Affair - The Best Of Tonic",
         "url": "https://open.spotify.com/album/3T4nMxe1j3LgnyqFimzlWg"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 263280,
       "name": "If You Could Only See",
       "url": "https://open.spotify.com/track/7H5OQN4iv3cKE3ZNP5Mbct"
+    },
+    {
+      "added_at": "2024-06-26 02:07:58",
+      "album": {
+        "name": "Goldfinger",
+        "url": "https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS"
+      },
+      "artists": [
+        {
+          "name": "Goldfinger",
+          "url": "https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Here In Your Bedroom",
+      "url": "https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG"
     },
     {
       "added_at": "2024-06-26 02:07:58",

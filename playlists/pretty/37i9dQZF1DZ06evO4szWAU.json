@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 87185,
+  "num_followers": 87213,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAACbuK7VQehkc+LYc9LFzfGv",
+  "snapshot_id": "aYkjgAAAAAByuX7XfakRVkDR7KzxbkmA",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 227280,
-      "name": "Ah-Ah / O-No",
-      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
+      "duration_ms": 306640,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
     },
     {
       "added_at": null,
@@ -291,22 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 306640,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1r6oqZhRYStrYWSeGKuCFP"
+      "duration_ms": 227280,
+      "name": "Ah-Ah / O-No",
+      "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Juicio",
-        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 369120,
-      "name": "Aguanile",
-      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The 'Brillante' Best",
         "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 259000,
       "name": "Usted Abus\u00f3",
       "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Juicio",
+        "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 369120,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
     },
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Del Solar De Los Aburridos",
+        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 364160,
+      "name": "Ligia Elena",
+      "url": "https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Band And Their Music: Campeones",
         "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 331720,
       "name": "Qu\u00edtate T\u00fa - Live",
       "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Del Solar De Los Aburridos",
-        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 364160,
-      "name": "Ligia Elena",
-      "url": "https://open.spotify.com/track/38UKG3bIB4gT3EzQqE3eEm"
     },
     {
       "added_at": null,
@@ -787,22 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hustler",
-        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 317813,
-      "name": "Eso Se Baila As\u00ed",
-      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+      "duration_ms": 295480,
+      "name": "Te Conozco",
+      "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
     },
     {
       "added_at": null,
@@ -843,6 +843,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 317813,
+      "name": "Eso Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Man And His Music: The Player",
         "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 354600,
       "name": "Paname\u00f1a",
       "url": "https://open.spotify.com/track/2v6JSAgQcMqr0hQwUsbGF8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 295480,
-      "name": "Te Conozco",
-      "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
     },
     {
       "added_at": null,
@@ -899,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones Del Solar De Los Aburridos",
+        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 420666,
+      "name": "Tibur\u00f3n",
+      "url": "https://open.spotify.com/track/7nbzvThgq44C1X56D4RZuL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Good, The Bad, And The Ugly",
         "url": "https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 308520,
       "name": "G\u00fcaracha",
       "url": "https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones Del Solar De Los Aburridos",
-        "url": "https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 420666,
-      "name": "Tibur\u00f3n",
-      "url": "https://open.spotify.com/track/7nbzvThgq44C1X56D4RZuL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: LINARES
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,466 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,478 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 90 | [FUEGO](https://open.spotify.com/track/2leVNsiTuckKtGV0SwVWtE) | [Jae Bermeo](https://open.spotify.com/artist/4zrkNkivNRU14qMihEDsR4) | [FUEGO](https://open.spotify.com/album/10RFhUkTMwtaJPNQkS0t9w) | 2:50 |
 | 91 | [Amén \- Remix](https://open.spotify.com/track/1EvtaHbQgrLfkfnRViARfy) | [R Nova](https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx) | [Amén \(Remix\)](https://open.spotify.com/album/73XwhxiIuVkbg9QZmztyHo) | 3:24 |
 | 92 | [Bienvenido A Casa](https://open.spotify.com/track/0EUaWidgoqMfEI5hBU2d1B) | [Carlito Codigo](https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR), [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Dexter Music](https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG) | [Bienvenido A Casa](https://open.spotify.com/album/5gY580udTGgI7a7KKhhULm) | 3:16 |
-| 93 | [Lágrimas de Redención](https://open.spotify.com/track/2VOdyqZs4ilHrXwT71pSSv) | [Aisha Ruah](https://open.spotify.com/artist/3brCegvQEvbakBXdt4DZHC), [Su Nombre Es Jesus](https://open.spotify.com/artist/1Vpp0ggKHiJj86ixkDmO0B) | [Lágrimas de Redención](https://open.spotify.com/album/4j9aXn6KGmblgoZluBlM4V) | 3:06 |
+| 93 | [Lágrimas de Redención](https://open.spotify.com/track/2VOdyqZs4ilHrXwT71pSSv) | [Aisha Ruah](https://open.spotify.com/artist/3brCegvQEvbakBXdt4DZHC), [Su Nombre Es Jesus](https://open.spotify.com/artist/1Vpp0ggKHiJj86ixkDmO0B) | [Lágrimas de Redención](https://open.spotify.com/album/4j9aXn6KGmblgoZluBlM4V) | 3:04 |
 | 94 | [LA CARRERA](https://open.spotify.com/track/5CXwffu2JuV5ZbkaRltH6n) | [LINARES](https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8), [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT) | [LA CARRERA](https://open.spotify.com/album/1sSG2TAk0x8UPvxK7XP4UF) | 2:57 |
 | 95 | [Amazona](https://open.spotify.com/track/6TQjNQjQqY0ZiTzWd0Y9HY) | [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M) | [Amazona](https://open.spotify.com/album/7ntEllTt0YircplfviGbCI) | 2:17 |
 | 96 | [otravueltaxx](https://open.spotify.com/track/3XMy5JodnfHt0NwZ8VBwnu) | [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Barajas](https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw) | [otravueltaxx](https://open.spotify.com/album/7D9NsndIznJ2GEJAd1DxaB) | 3:08 |

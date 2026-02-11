@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks. Cover: Rob Zombie",
-  "num_followers": 1402538,
+  "num_followers": 1402665,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "\u00c6nima",
-        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 311293,
-      "name": "Stinkfist",
-      "url": "https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "As Daylight Dies (Special Edition)",
         "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 244773,
       "name": "My Curse",
       "url": "https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "duration_ms": 311293,
+      "name": "Stinkfist",
+      "url": "https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -1071,18 +1071,22 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Symbolic (Remastered Version)",
-        "url": "https://open.spotify.com/album/1QgFthItpbxvMXlgGjvhBR"
+        "name": "War Pigs (Charity Version)",
+        "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
       },
       "artists": [
         {
-          "name": "Death",
-          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        },
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 392800,
-      "name": "Symbolic",
-      "url": "https://open.spotify.com/track/0dpFb4qv92TE9R00Lq4SAW"
+      "duration_ms": 484779,
+      "name": "War Pigs - Charity Version",
+      "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -1151,22 +1155,18 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "War Pigs (Charity Version)",
-        "url": "https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf"
+        "name": "Symbolic (Remastered Version)",
+        "url": "https://open.spotify.com/album/1QgFthItpbxvMXlgGjvhBR"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        },
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Death",
+          "url": "https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn"
         }
       ],
-      "duration_ms": 484779,
-      "name": "War Pigs - Charity Version",
-      "url": "https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q"
+      "duration_ms": 392800,
+      "name": "Symbolic",
+      "url": "https://open.spotify.com/track/0dpFb4qv92TE9R00Lq4SAW"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
+        "name": "CURSED",
+        "url": "https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 183964,
+      "name": "Hatred",
+      "url": "https://open.spotify.com/track/1S7pZAerfgfRVARfQ8eZgh"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
         "name": "Rumble of Thunder (Deluxe)",
         "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
-        "name": "CURSED",
-        "url": "https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 183964,
-      "name": "Hatred",
-      "url": "https://open.spotify.com/track/1S7pZAerfgfRVARfQ8eZgh"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Infinite",
-        "url": "https://open.spotify.com/album/7LiSs7UGdx7JVhBC2HCFmF"
-      },
-      "artists": [
-        {
-          "name": "Stratovarius",
-          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "Hunting High and Low",
-      "url": "https://open.spotify.com/track/1vDJE9fE7FB8proknu3u8E"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Scars (Expanded Edition)",
         "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 195653,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/7LiSs7UGdx7JVhBC2HCFmF"
+      },
+      "artists": [
+        {
+          "name": "Stratovarius",
+          "url": "https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Hunting High and Low",
+      "url": "https://open.spotify.com/track/1vDJE9fE7FB8proknu3u8E"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
+        "name": "The Catalyst",
+        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
+      },
+      "artists": [
+        {
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+        }
+      ],
+      "duration_ms": 220893,
+      "name": "The Catalyst",
+      "url": "https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
         "name": "Und die Engel singen",
         "url": "https://open.spotify.com/album/3XGBLits7rW4XngEyzjTJF"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 235000,
       "name": "The Duelist",
       "url": "https://open.spotify.com/track/3iQLR1D3L0iremvqRF0HXE"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
-        "name": "The Catalyst",
-        "url": "https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj"
-      },
-      "artists": [
-        {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
-        }
-      ],
-      "duration_ms": 220893,
-      "name": "The Catalyst",
-      "url": "https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Calamity",
-        "url": "https://open.spotify.com/album/0Ux6ZxV51wrLE5dWkaLPci"
-      },
-      "artists": [
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 173372,
-      "name": "Calamity",
-      "url": "https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Parasomnia",
         "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 444120,
       "name": "Bend the Clock",
       "url": "https://open.spotify.com/track/68D2W6r8x6vcdzHCPVmw04"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Calamity",
+        "url": "https://open.spotify.com/album/0Ux6ZxV51wrLE5dWkaLPci"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "duration_ms": 173372,
+      "name": "Calamity",
+      "url": "https://open.spotify.com/track/2BhO5MD5myhWXL82di1W8v"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
+        "name": "Scum",
+        "url": "https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu"
+      },
+      "artists": [
+        {
+          "name": "Napalm Death",
+          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "Scum",
+      "url": "https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
         "name": "Para Bellum",
         "url": "https://open.spotify.com/album/0ea7kKW9urApKz2E5MIgPW"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 267530,
       "name": "Voyage of the Dead Marauder (feat. Patty Gurdy)",
       "url": "https://open.spotify.com/track/15tb65IQDLvVlz8znIQfAu"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
-        "name": "Scum",
-        "url": "https://open.spotify.com/album/51wqCUWehVrNj2Ltc83zJu"
-      },
-      "artists": [
-        {
-          "name": "Napalm Death",
-          "url": "https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "Scum",
-      "url": "https://open.spotify.com/track/64syMK7oo9VPihJBj1IBGH"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Break the Spell",
-        "url": "https://open.spotify.com/album/3Fjjxc5rAZr8xw0gl25crI"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Break the Spell",
-      "url": "https://open.spotify.com/track/2XLfNFUKxi1er33lMTa34m"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "The Gallows",
         "url": "https://open.spotify.com/album/2OanGtG5sW8esAhY25EMoH"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 230375,
       "name": "The Gallows",
       "url": "https://open.spotify.com/track/6lF3rwnMFBlbZeCWwZTWoS"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "Break the Spell",
+        "url": "https://open.spotify.com/album/3Fjjxc5rAZr8xw0gl25crI"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Break the Spell",
+      "url": "https://open.spotify.com/track/2XLfNFUKxi1er33lMTa34m"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2779,18 +2779,22 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Sidewinder",
-        "url": "https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o"
+        "name": "Laid to Rest (HEALTH Remix)",
+        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
       },
       "artists": [
         {
-          "name": "Volumes",
-          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        },
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
         }
       ],
-      "duration_ms": 239682,
-      "name": "Sidewinder",
-      "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
+      "duration_ms": 158604,
+      "name": "Laid to Rest - HEALTH Remix",
+      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -2811,22 +2815,18 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Laid to Rest (HEALTH Remix)",
-        "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
+        "name": "Sidewinder",
+        "url": "https://open.spotify.com/album/3T8MDwZkCfPGGw5SByI38o"
       },
       "artists": [
         {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        },
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
         }
       ],
-      "duration_ms": 158604,
-      "name": "Laid to Rest - HEALTH Remix",
-      "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
+      "duration_ms": 239682,
+      "name": "Sidewinder",
+      "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -3183,22 +3183,18 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Degradation Rules (feat. Tony Iommi)",
-        "url": "https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq"
+        "name": "Bring Out Your Dead",
+        "url": "https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+          "name": "Elysion",
+          "url": "https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v"
         }
       ],
-      "duration_ms": 250274,
-      "name": "Degradation Rules (feat. Tony Iommi)",
-      "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
+      "duration_ms": 242172,
+      "name": "Crossing Over",
+      "url": "https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -3219,18 +3215,22 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "Bring Out Your Dead",
-        "url": "https://open.spotify.com/album/5Y9cEIruQ0SQCXgugO8igf"
+        "name": "Degradation Rules (feat. Tony Iommi)",
+        "url": "https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq"
       },
       "artists": [
         {
-          "name": "Elysion",
-          "url": "https://open.spotify.com/artist/5yxZeKeX0FcaT6OlOnx52v"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
         }
       ],
-      "duration_ms": 242172,
-      "name": "Crossing Over",
-      "url": "https://open.spotify.com/track/0qbIG8PmVDHRcJQ7FXKQTB"
+      "duration_ms": 250274,
+      "name": "Degradation Rules (feat. Tony Iommi)",
+      "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
     },
     {
       "added_at": "2026-01-23 05:00:18",
@@ -3267,22 +3267,6 @@
     {
       "added_at": "2026-01-23 05:00:18",
       "album": {
-        "name": "The Shit Ov God",
-        "url": "https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 336773,
-      "name": "The Shit Ov God",
-      "url": "https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd"
-    },
-    {
-      "added_at": "2026-01-23 05:00:18",
-      "album": {
         "name": "Vermillion",
         "url": "https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9"
       },
@@ -3303,6 +3287,22 @@
       "duration_ms": 239266,
       "name": "Cradle To The Grave",
       "url": "https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7"
+    },
+    {
+      "added_at": "2026-01-23 05:00:18",
+      "album": {
+        "name": "The Shit Ov God",
+        "url": "https://open.spotify.com/album/3ccudifPGHRHUE8AMuCUQC"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "The Shit Ov God",
+      "url": "https://open.spotify.com/track/3HgNP8qTCHld77Sp6s6WJd"
     }
   ],
   "unique_name": "Heavy Metal",

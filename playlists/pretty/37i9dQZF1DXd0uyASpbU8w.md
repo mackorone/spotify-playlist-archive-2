@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Dwson, J\. Cole, Ella Mai, Royal MusiQ and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,966 likes - 69 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,982 likes - 69 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

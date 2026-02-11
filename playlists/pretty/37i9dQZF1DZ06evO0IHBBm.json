@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31255,
+  "num_followers": 31254,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAACwt8NiP8FwGNMWrCSIcvTf",
+  "snapshot_id": "aYkjgAAAAACyaQDRGocqLTknyh00LbkB",
   "tracks": [
     {
       "added_at": null,
@@ -247,18 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 273821,
-      "name": "Eu Quero Ver o Seu Milagre",
-      "url": "https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i"
+      "duration_ms": 355746,
+      "name": "Milagre",
+      "url": "https://open.spotify.com/track/63achhyLh1fXYjk0wUvT4m"
     },
     {
       "added_at": null,
@@ -279,22 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 355746,
-      "name": "Milagre",
-      "url": "https://open.spotify.com/track/63achhyLh1fXYjk0wUvT4m"
+      "duration_ms": 273821,
+      "name": "Eu Quero Ver o Seu Milagre",
+      "url": "https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 343372,
-      "name": "O Convidado",
-      "url": "https://open.spotify.com/track/1LFsK6UZv04d0AlfWtB8GZ"
+      "duration_ms": 260013,
+      "name": "Sou Teu Deus",
+      "url": "https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2"
     },
     {
       "added_at": null,
@@ -344,9 +344,25 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 284560,
-      "name": "Quem Viver Ver\u00e1",
-      "url": "https://open.spotify.com/track/1V12zsH9LzszGEwxcPUhWo"
+      "duration_ms": 289960,
+      "name": "Preciosidade",
+      "url": "https://open.spotify.com/track/5dZ44ovq0lsSvf72vAC1t2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 343372,
+      "name": "O Convidado",
+      "url": "https://open.spotify.com/track/1LFsK6UZv04d0AlfWtB8GZ"
     },
     {
       "added_at": null,
@@ -371,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
       },
       "artists": [
         {
@@ -380,9 +396,25 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 260013,
-      "name": "Sou Teu Deus",
-      "url": "https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2"
+      "duration_ms": 294226,
+      "name": "Ressuscita",
+      "url": "https://open.spotify.com/track/62VvRM3T2IdsjbBYJI6oqI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamante (2010)",
+        "url": "https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 284560,
+      "name": "Quem Viver Ver\u00e1",
+      "url": "https://open.spotify.com/track/1V12zsH9LzszGEwxcPUhWo"
     },
     {
       "added_at": null,
@@ -407,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamante (2010)",
-        "url": "https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R"
+        "name": "A Tenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
       },
       "artists": [
         {
@@ -416,25 +448,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 289960,
-      "name": "Preciosidade",
-      "url": "https://open.spotify.com/track/5dZ44ovq0lsSvf72vAC1t2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 294226,
-      "name": "Ressuscita",
-      "url": "https://open.spotify.com/track/62VvRM3T2IdsjbBYJI6oqI"
+      "duration_ms": 470263,
+      "name": "A Tenda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
     },
     {
       "added_at": null,
@@ -455,18 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+        "name": "Apocalipse",
+        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 470263,
-      "name": "A Tenda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+      "duration_ms": 286400,
+      "name": "Escondido Nele",
+      "url": "https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb"
     },
     {
       "added_at": null,
@@ -495,26 +515,6 @@
       "duration_ms": 835400,
       "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
       "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apocalipse",
-        "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
-        }
-      ],
-      "duration_ms": 286400,
-      "name": "Escondido Nele",
-      "url": "https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 323200,
+      "name": "Sou o Que Sou",
+      "url": "https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damares (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
       },
@@ -675,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+        "name": "P\u00e1gina Virada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
       },
       "artists": [
         {
@@ -684,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 323200,
-      "name": "Sou o Que Sou",
-      "url": "https://open.spotify.com/track/3jWAJKgbJl6mPivyVZhJo5"
+      "duration_ms": 423916,
+      "name": "P\u00e1gina Virada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
     },
     {
       "added_at": null,
@@ -711,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1gina Virada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
       },
       "artists": [
         {
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 423916,
-      "name": "P\u00e1gina Virada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
+      "duration_ms": 334840,
+      "name": "Obra Prima",
+      "url": "https://open.spotify.com/track/3928bnwtme1mZo7NV0kYpf"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
       "duration_ms": 540720,
       "name": "O Deus que Faz (Ao Vivo)",
       "url": "https://open.spotify.com/track/5QLgebw9fQi8YI4OeZqXxW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 334840,
-      "name": "Obra Prima",
-      "url": "https://open.spotify.com/track/3928bnwtme1mZo7NV0kYpf"
     },
     {
       "added_at": null,

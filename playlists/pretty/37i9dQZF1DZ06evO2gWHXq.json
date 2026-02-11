@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 228062,
+  "num_followers": 228070,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAA71qopBch4zVzNsQDKyZoB",
+  "snapshot_id": "aYkjgAAAAAA7/MuGZdfL2JhkBs2KtsZ4",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
       "duration_ms": 207109,
       "name": "VIVA M\u00c9XICO",
       "url": "https://open.spotify.com/track/2kh6djQUWo8pqR8FagrMaA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ciego Y La Sorda",
+        "url": "https://open.spotify.com/album/39ZxtXEAVaime1bFdmpQ5h"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "El Ciego Y La Sorda",
+      "url": "https://open.spotify.com/track/5Gmw8NXSc2ZlwNjctMCoUS"
     },
     {
       "added_at": null,
@@ -431,22 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Round 2 (feat. MC Davo) - Single",
-        "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
       "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Round 2",
-      "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
+      "duration_ms": 180053,
+      "name": "Debes de saber",
+      "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
     },
     {
       "added_at": null,
@@ -483,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+        "name": "Round 2 (feat. MC Davo) - Single",
+        "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
       },
       "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 180053,
-      "name": "Debes de saber",
-      "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
+      "duration_ms": 201000,
+      "name": "Round 2",
+      "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
     },
     {
       "added_at": null,
@@ -667,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Acostumbraste",
+        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Te Acostumbraste",
+      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Pido a la Noche",
         "url": "https://open.spotify.com/album/5A2O82embthnUakFLo7US1"
       },
@@ -695,22 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Acostumbraste",
-        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
+        "name": "Round 7",
+        "url": "https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         },
         {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 182168,
-      "name": "Te Acostumbraste",
-      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
+      "duration_ms": 214864,
+      "name": "Round 7",
+      "url": "https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd"
     },
     {
       "added_at": null,
@@ -731,26 +771,6 @@
       "duration_ms": 234500,
       "name": "Round 1",
       "url": "https://open.spotify.com/track/7tD4XEfccqvsG7iUuDt0BB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Round 7",
-        "url": "https://open.spotify.com/album/5ynjByApIoTlaO6Hszz59N"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 214864,
-      "name": "Round 7",
-      "url": "https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd"
     },
     {
       "added_at": null,
@@ -795,42 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marybel (Remix)",
-        "url": "https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU"
-      },
-      "artists": [
-        {
-          "name": "Dj Aza",
-          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Jowell",
-          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
-        },
-        {
-          "name": "Gaelo",
-          "url": "https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt"
-        },
-        {
-          "name": "Alan Dazmel",
-          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Marybel - Remix",
-      "url": "https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las 2 Caras",
         "url": "https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK"
       },
@@ -871,6 +855,42 @@
       "duration_ms": 206500,
       "name": "Por si pego",
       "url": "https://open.spotify.com/track/6f7FcB2WIxmu8IJPqxY1nq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marybel (Remix)",
+        "url": "https://open.spotify.com/album/17cVR6PmWZBTbiIV3NH3yU"
+      },
+      "artists": [
+        {
+          "name": "Dj Aza",
+          "url": "https://open.spotify.com/artist/2qsETcaDdvTRTaL3nU4zNK"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        },
+        {
+          "name": "Gaelo",
+          "url": "https://open.spotify.com/artist/7r76FpQEWB31MAmrO9qjPt"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Marybel - Remix",
+      "url": "https://open.spotify.com/track/7dMzc5RCPKKRLnMN98U2Tg"
     },
     {
       "added_at": null,
@@ -1107,22 +1127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "La Historia De Un Olvido",
-      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Dominio",
         "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
@@ -1139,38 +1143,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuern\u00fa (Remix)",
-        "url": "https://open.spotify.com/album/5pdGU20ApbWD65z17UM7aJ"
+        "name": "Psicosis",
+        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
       },
       "artists": [
         {
-          "name": "Jamby El Favo",
-          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Galindo Again",
-          "url": "https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW"
-        },
-        {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Maicke Casiano",
-          "url": "https://open.spotify.com/artist/1s1kprQ0YxAfGStUKtO3n7"
         }
       ],
-      "duration_ms": 459413,
-      "name": "Cuern\u00fa - Remix",
-      "url": "https://open.spotify.com/track/54vHQsmoNbitu4ghpbC00x"
+      "duration_ms": 179120,
+      "name": "La Historia De Un Olvido",
+      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
     },
     {
       "added_at": null,
@@ -1211,22 +1195,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+        "name": "Cuern\u00fa (Remix)",
+        "url": "https://open.spotify.com/album/5pdGU20ApbWD65z17UM7aJ"
       },
       "artists": [
+        {
+          "name": "Jamby El Favo",
+          "url": "https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Galindo Again",
+          "url": "https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW"
+        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "I-Majesty",
-          "url": "https://open.spotify.com/artist/4yNVJTZaepHWcdaicjksLR"
+          "name": "Maicke Casiano",
+          "url": "https://open.spotify.com/artist/1s1kprQ0YxAfGStUKtO3n7"
         }
       ],
-      "duration_ms": 225400,
-      "name": "Qu\u00edmica (feat. i-Majesty)",
-      "url": "https://open.spotify.com/track/7HuVcnjU28gSmHPjvPchpY"
+      "duration_ms": 459413,
+      "name": "Cuern\u00fa - Remix",
+      "url": "https://open.spotify.com/track/54vHQsmoNbitu4ghpbC00x"
     }
   ],
   "unique_name": "This Is MC Davo",

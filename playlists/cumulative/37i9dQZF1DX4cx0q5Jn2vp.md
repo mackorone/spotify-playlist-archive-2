@@ -2,9 +2,9 @@
 
 ### [Kilig Pa More](https://open.spotify.com/playlist/37i9dQZF1DX4cx0q5Jn2vp)
 
-> yiheeeeeeee
+> <a href="spotify:presents:musicmatch">match din kaya kayo based on your favorite song?</a>\. <3
 
-278 songs - 16 hr 28 min
+280 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Divine](https://open.spotify.com/track/3PKQwa7S5IHhstiTAxWNyL) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [BGYO](https://open.spotify.com/album/6991pQ2aa8RWzSCobBxGf4) | 2:20 | 2025-03-21 | 2025-04-15 |
 | [Diwa](https://open.spotify.com/track/1gbrKuaixnhfgy9ZiAxlyd) | [Solace Out The Door](https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c) | [Diwa](https://open.spotify.com/album/3vz2skJN2kk5DUrjpVVZLN) | 3:11 | 2025-11-10 |  |
 | [DIYOSA](https://open.spotify.com/track/12AwQOlkVNbi90XlD64qqH) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [ZACK: FOR ALL](https://open.spotify.com/album/7LVnO3GNEfzjixX3ApTY1E) | 3:30 | 2023-02-23 | 2023-03-12 |
-| [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 | 2025-02-12 | 2026-02-09 |
+| [drinks or coffee](https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:13 | 2025-02-12 |  |
 | [Drive](https://open.spotify.com/track/2l4ZBEYH67RwM66z0whkAI) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Drive](https://open.spotify.com/album/2twlPZI6mnkHbuC9amSwzy) | 3:42 | 2022-04-04 | 2022-07-14 |
 | [Dumaloy](https://open.spotify.com/track/1X6CvDSqNCsOy0h2pv9Yjd) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Dumaloy](https://open.spotify.com/album/0CPFOWJixO9sorCggeUYy1) | 4:20 | 2022-04-04 | 2022-07-29 |
 | [Duyan](https://open.spotify.com/track/4YyVQYnnzEO3y7hHNSn6sg) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Duyan](https://open.spotify.com/album/1BS12C5PNcVlIQ2EQFoaGx) | 4:58 | 2026-01-26 |  |
@@ -165,7 +165,7 @@
 | [Love You Still](https://open.spotify.com/track/1IJzTK9cWDCEOqdSHdJB5j) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [Love You Still](https://open.spotify.com/album/3XZCedQsI0e7g3oqpBkIBv) | 4:27 | 2022-04-04 | 2022-07-27 |
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2023-09-13 | 2023-09-27 |
 | [Lumang Gunita](https://open.spotify.com/track/6y2vT4HD1jxx4ak9zAwhWD) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Lumang Gunita](https://open.spotify.com/album/4YyUobyOK37XTX41efmYnJ) | 4:03 | 2024-07-10 | 2024-09-05 |
-| [Luna](https://open.spotify.com/track/2HlJwsf2ItbQoUd6QlIcxY) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa), [Sol](https://open.spotify.com/artist/5X0TyKrix2K8jKMDNAxGUT) | [Luna](https://open.spotify.com/album/1fX5TB9TKXAmD2iCvU3yl0) | 4:01 | 2026-01-19 |  |
+| [Luna](https://open.spotify.com/track/2HlJwsf2ItbQoUd6QlIcxY) | [Dro Perez](https://open.spotify.com/artist/1Qwm4EmOYuY34nAFfeEUOa), [Sol](https://open.spotify.com/artist/5X0TyKrix2K8jKMDNAxGUT) | [Luna](https://open.spotify.com/album/1fX5TB9TKXAmD2iCvU3yl0) | 4:01 | 2026-01-19 | 2026-02-11 |
 | [M.K.S.](https://open.spotify.com/track/1gRCVNsHQQFL1calvkujTJ) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [M.K.S.](https://open.spotify.com/album/68Jq8iPPpSOZE4LC3nOUt9) | 3:05 | 2025-05-05 | 2025-06-03 |
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2022-06-27 | 2024-09-19 |
 | [Makaluma](https://open.spotify.com/track/4DbxowBVFjO0MYLVuggLxp) | [Wilbert Ross](https://open.spotify.com/artist/6bVVssXSh08il9SKx18XOA) | [Makaluma](https://open.spotify.com/album/33S8LzhLap877vvSsRoevj) | 3:46 | 2025-02-28 | 2025-04-15 |
@@ -212,6 +212,7 @@
 | [Palagi \- TJxKZ Version](https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Palagi \(TJxKZ Version\)](https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0) | 4:01 | 2024-09-04 | 2025-11-11 |
 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 | 2025-11-07 |  |
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2023-07-26 | 2025-11-08 |
+| [pelikula](https://open.spotify.com/track/0oJfnh4VKNasIDgzn9dUU6) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Pasakalye](https://open.spotify.com/album/6wsRiy69i3LW7LSRF2Wlrg) | 3:34 | 2026-02-10 |  |
 | [Perfectly Imperfect](https://open.spotify.com/track/6UrfCXDyGaLbDVkAvuOTFS) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER), [Jeremy G](https://open.spotify.com/artist/5BukDmriB1WrLFDavZzHdJ) | [Perfectly Imperfect](https://open.spotify.com/album/2iDrdt40iEFpT2BsjlyRSh) | 4:19 | 2022-04-04 | 2022-07-28 |
 | [Piliin](https://open.spotify.com/track/6NTsYsrWYtsXhTPNZAV0Dp) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Piliin](https://open.spotify.com/album/5BwCXtMXzUlqM80zsqoFyJ) | 4:39 | 2025-12-01 | 2026-01-15 |
 | [Pinipili](https://open.spotify.com/track/0xJ4Qk9lIisIjOrI8bLkNP) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Pinipili](https://open.spotify.com/album/4T3NUu3OMXdyR8D6Fi9NfC) | 3:00 | 2024-11-06 | 2024-11-30 |
@@ -236,6 +237,7 @@
 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 | 2022-04-04 | 2022-07-29 |
 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 | 2024-06-08 |  |
 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 | 2024-09-18 |  |
+| [Star Song](https://open.spotify.com/track/5TGaPefQfu1Z2exPWU96Vf) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Star Song](https://open.spotify.com/album/1XHBSxQuqSPrzJEmzlKRUB) | 3:56 | 2026-02-10 |  |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-06-11 |  |
 | [Still You](https://open.spotify.com/track/01tlnMZbaHDRuEqdfTbsJo) | [Kyle Juliano](https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5) | [Still You](https://open.spotify.com/album/1G2LUZmx7vzYuam4IVggZv) | 3:28 | 2022-04-04 | 2022-07-29 |
 | [Stuck](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 3:03 | 2025-11-05 | 2025-12-25 |
@@ -258,9 +260,9 @@
 | [The Search Is Over](https://open.spotify.com/track/7g7mYjkJzHkCye65pzfK7Q) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [The Search Is Over](https://open.spotify.com/album/0glELRFO61WFYXpQascxcK) | 4:01 | 2022-04-04 | 2022-06-17 |
 | [this is what forever feels like \(with Nick Jonas\)](https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [this is what forever feels like](https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI) | 2:34 | 2024-09-18 | 2024-11-16 |
 | [Tina](https://open.spotify.com/track/3h44D1XQCCtte7wtJJ9jyT) | [Ren Bugash](https://open.spotify.com/artist/5KuDdMpdzVoH8hRnxKOKlj) | [Tina](https://open.spotify.com/album/2JA1bALgbEnecph30pm1bc) | 3:33 | 2025-07-16 | 2025-09-11 |
-| [Tinatangi](https://open.spotify.com/track/07k9FJcGxOPSt6i6as8HnU) | [Kevin Montillano](https://open.spotify.com/artist/7Ef2aO3yFTcUnkv3Se81Ju) | [Tinatangi](https://open.spotify.com/album/0yNSLsg0CkWoBIzggQ2pRJ) | 3:24 | 2026-01-26 |  |
+| [Tinatangi](https://open.spotify.com/track/07k9FJcGxOPSt6i6as8HnU) | [Kevin Montillano](https://open.spotify.com/artist/7Ef2aO3yFTcUnkv3Se81Ju) | [Tinatangi](https://open.spotify.com/album/0yNSLsg0CkWoBIzggQ2pRJ) | 3:24 | 2026-01-26 | 2026-02-11 |
 | [Tumalon](https://open.spotify.com/track/3jY7hKSQ1Iqm8GXgs8lYHb) | [Solace Out The Door](https://open.spotify.com/artist/08x1UThF1Onk5rM2mO1F1c) | [Tumalon](https://open.spotify.com/album/6369WTiMYEJdEL4Sv0CSis) | 3:38 | 2024-12-16 | 2025-02-20 |
-| [Tumaya](https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y) | [Bert Symoun](https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz) | [Tumaya](https://open.spotify.com/album/3AY8kdUZXjy0AX7GA4GwwH) | 3:27 | 2026-01-26 |  |
+| [Tumaya](https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y) | [Bert Symoun](https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz) | [Tumaya](https://open.spotify.com/album/3AY8kdUZXjy0AX7GA4GwwH) | 3:27 | 2026-01-26 | 2026-02-11 |
 | [Tungo](https://open.spotify.com/track/7GHmdjKA61hiAHz8eeVPpq) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Tungo](https://open.spotify.com/album/4MPcLwldS79h2yL76EY032) | 2:47 | 2025-02-12 | 2025-02-18 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-04 | 2022-06-28 |
 | [Vanish Into You](https://open.spotify.com/track/5IoPnNiYAOvHHJpz13wzRL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:04 | 2025-05-09 | 2026-01-27 |

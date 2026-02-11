@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,268 likes - 100 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,284 likes - 100 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Elysian Invocation](https://open.spotify.com/track/0kXC6pXH7wj9vKIjq7Mcrn) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm) | [Elysian Invocation / "Pollen of the Earth"](https://open.spotify.com/album/4EONfGE1CgzJ5wT03NRqJ2) | 14:55 |
+| 1 | [Elysian Invocation](https://open.spotify.com/track/0kXC6pXH7wj9vKIjq7Mcrn) | [Carlos Niño & Friends](https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK), [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm) | [Elysian Invocation / "Pollen on the Earth"](https://open.spotify.com/album/4EONfGE1CgzJ5wT03NRqJ2) | 14:55 |
 | 2 | [Strata, Act \(Joy Contemporary\)\* London SECOND SET](https://open.spotify.com/track/4fe0B85OSHpzXkpdsZSKEc) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy), [XT](https://open.spotify.com/artist/66oK2w14hE1NPQNjmHji0h), [Seymour Wright](https://open.spotify.com/artist/65Cx00IQh13D8u9xhsbOAA), [Paul Abbott](https://open.spotify.com/artist/2CYQ7o1erSJsxHo1V6TkxW) | [Strata, Act \(Joy Contemporary\)\*](https://open.spotify.com/album/4vpejRxRg5sSDAb2LIDvT2) | 43:24 |
 | 3 | [In The Dark](https://open.spotify.com/track/317ZymuYyBkuoFZcLjkOF1) | [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L), [Henry Threadgill](https://open.spotify.com/artist/0bSP8obSwEpc8XEOE7qc63) | [Around You Is A Forest](https://open.spotify.com/album/4StVdvXvF5DSy5WJ7qVR2i) | 4:47 |
 | 4 | [Too Lost to Care](https://open.spotify.com/track/3X6SiZpVTyelmzCRdnlWRR) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV), [Gene Coye](https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb), [Jermaine Paul](https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21), [Jose Miguel Perez](https://open.spotify.com/artist/5GX31EnMcvTzsIJ0SSXlzR) | [Too Lost to Care](https://open.spotify.com/album/6EbBImBLb563RTdAbqzizU) | 2:12 |

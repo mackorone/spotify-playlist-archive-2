@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 177124,
+  "num_followers": 177138,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Vidas Paralelas",
-      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Donde los Ponys Pastan",
         "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
@@ -299,18 +283,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "\u00d3leos",
-        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
       "artists": [
         {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 230640,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3"
+      "duration_ms": 237386,
+      "name": "Vidas Paralelas",
+      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -327,6 +311,22 @@
       "duration_ms": 205000,
       "name": "Nunca Me Dejes",
       "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "\u00d3leos",
+        "url": "https://open.spotify.com/album/1NZAyCK3PcS200TsNhSA4z"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/0GD3HmHYuyW2h1XS6Gdzt3"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Blanco F\u00e1cil",
-        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 263838,
-      "name": "Completamente",
-      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Dualidad",
         "url": "https://open.spotify.com/album/4Dj3RsVvxpyh9V1yQv9fhS"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 215146,
       "name": "Fluye",
       "url": "https://open.spotify.com/track/20SMxLSrSzsjE0xr7FEsQu"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Blanco F\u00e1cil",
+        "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 263838,
+      "name": "Completamente",
+      "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Efecto Domin\u00f3",
-        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        }
-      ],
-      "duration_ms": 217911,
-      "name": "Querer",
-      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Millonaria",
         "url": "https://open.spotify.com/album/3IbOWCON3FLtK3Yp7ZBC6A"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 220478,
       "name": "Why?",
       "url": "https://open.spotify.com/track/1QyPYtnOVwmprWCjVgPo1Q"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Efecto Domin\u00f3",
+        "url": "https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        }
+      ],
+      "duration_ms": 217911,
+      "name": "Querer",
+      "url": "https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Atemahawke",
-        "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 260466,
-      "name": "Host of a Ghost",
-      "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Gran Salto 1997-2014",
         "url": "https://open.spotify.com/album/3Wag0awiCvOgN4Sj6BXSuy"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 260786,
       "name": "Azul Oscuro",
       "url": "https://open.spotify.com/track/0QN72F39qCxtXJnyBGoUvy"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Atemahawke",
+        "url": "https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 260466,
+      "name": "Host of a Ghost",
+      "url": "https://open.spotify.com/track/0HTFDQQb7auJ2dZwXtPK5e"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Kiosko",
-        "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 253501,
-      "name": "Kiosko",
-      "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Hola Chicuelos",
         "url": "https://open.spotify.com/album/3MecKdIIiFxEOX9HZNmyZf"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 244933,
       "name": "Al\u00f3",
       "url": "https://open.spotify.com/track/1bBO92RtVTlJlfxuVaLek8"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Kiosko",
+        "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 253501,
+      "name": "Kiosko",
+      "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X"
+        "name": "Madre M\u00eda",
+        "url": "https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9"
       },
       "artists": [
         {
-          "name": "Sol Flamingo",
-          "url": "https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr"
+          "name": "Salvador y el Unicornio",
+          "url": "https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm"
         }
       ],
-      "duration_ms": 218060,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c"
+      "duration_ms": 226413,
+      "name": "Agua De Coco",
+      "url": "https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Madre M\u00eda",
-        "url": "https://open.spotify.com/album/6YMJdiKeDvmtmDuGPQIVA9"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X"
       },
       "artists": [
         {
-          "name": "Salvador y el Unicornio",
-          "url": "https://open.spotify.com/artist/4rrx0ClvlnMpZTDX4Uasbm"
+          "name": "Sol Flamingo",
+          "url": "https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr"
         }
       ],
-      "duration_ms": 226413,
-      "name": "Agua De Coco",
-      "url": "https://open.spotify.com/track/6Tpl9zu09N2EB7zzLLJKw2"
+      "duration_ms": 218060,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c"
     },
     {
       "added_at": "2023-09-01 16:42:45",

@@ -1,6 +1,6 @@
 {
   "description": "2026 es el nuevo 2016 \ud83d\udcf8 Justin Bieber",
-  "num_followers": 92283,
+  "num_followers": 92704,
   "original_name": "2016 vibes \u2728",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
         "name": "Primera Cita",
         "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 205600,
       "name": "Safari",
       "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Blanco Perla",
         "url": "https://open.spotify.com/album/6mgSRh6Ck9zlY5e9o7ADx7"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 171093,
       "name": "Ginza",
       "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/49gRYU6hBWgSH2JVixGkJq"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Know-It-All (Deluxe)",
         "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Royalty (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa"
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 201265,
-      "name": "Back To Sleep",
-      "url": "https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba"
+      "duration_ms": 244440,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/49gRYU6hBWgSH2JVixGkJq"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1339,6 +1323,22 @@
       "duration_ms": 305350,
       "name": "Dang! (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Royalty (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 201265,
+      "name": "Back To Sleep",
+      "url": "https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba"
     },
     {
       "added_at": "2026-01-23 01:08:49",

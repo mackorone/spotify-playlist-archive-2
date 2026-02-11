@@ -1,6 +1,6 @@
 {
   "description": "mood:  \ud83d\ude0e\u2708\ufe0f",
-  "num_followers": 69985,
+  "num_followers": 69999,
   "original_name": "Tayer \u0637\u0627\u064a\u0631\u200e",
   "owner": {
     "name": "Spotify",
@@ -187,18 +187,22 @@
     {
       "added_at": "2026-01-28 06:22:05",
       "album": {
-        "name": "Arabi",
-        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
+        "name": "Doberwoman",
+        "url": "https://open.spotify.com/album/46qNNnHFwhmzuKpRlUOcqS"
       },
       "artists": [
         {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        },
+        {
+          "name": "Furelise",
+          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
         }
       ],
-      "duration_ms": 165714,
-      "name": "7ali Ya 7ali",
-      "url": "https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo"
+      "duration_ms": 178214,
+      "name": "Doberwoman",
+      "url": "https://open.spotify.com/track/55euixOw1IYjWcL6L3ZCzl"
     },
     {
       "added_at": "2026-01-28 06:22:05",
@@ -219,22 +223,18 @@
     {
       "added_at": "2026-01-28 06:22:05",
       "album": {
-        "name": "Doberwoman",
-        "url": "https://open.spotify.com/album/46qNNnHFwhmzuKpRlUOcqS"
+        "name": "Arabi",
+        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
       },
       "artists": [
         {
-          "name": "Valerieblud",
-          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
-        },
-        {
-          "name": "Furelise",
-          "url": "https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn"
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
         }
       ],
-      "duration_ms": 178214,
-      "name": "Doberwoman",
-      "url": "https://open.spotify.com/track/55euixOw1IYjWcL6L3ZCzl"
+      "duration_ms": 165714,
+      "name": "7ali Ya 7ali",
+      "url": "https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo"
     },
     {
       "added_at": "2026-01-28 06:22:05",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-01-28 06:22:05",
       "album": {
-        "name": "Tflow #3",
-        "url": "https://open.spotify.com/album/0hgYh8LXX79nMbqStev8o7"
-      },
-      "artists": [
-        {
-          "name": "Tflow",
-          "url": "https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Yak Adnya",
-      "url": "https://open.spotify.com/track/2hN2qEJBO7jEnPTPx6EyMB"
-    },
-    {
-      "added_at": "2026-01-28 06:22:05",
-      "album": {
         "name": "AUJ",
         "url": "https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 222702,
       "name": "T9aws",
       "url": "https://open.spotify.com/track/4nlCsDNb1kXoFzshANeIfT"
+    },
+    {
+      "added_at": "2026-01-28 06:22:05",
+      "album": {
+        "name": "Tflow #3",
+        "url": "https://open.spotify.com/album/0hgYh8LXX79nMbqStev8o7"
+      },
+      "artists": [
+        {
+          "name": "Tflow",
+          "url": "https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Yak Adnya",
+      "url": "https://open.spotify.com/track/2hN2qEJBO7jEnPTPx6EyMB"
     },
     {
       "added_at": "2026-01-28 06:22:05",

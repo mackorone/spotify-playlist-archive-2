@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Inkandescencia y Laura DSK.",
-  "num_followers": 114512,
+  "num_followers": 114520,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Mentirosa",
-        "url": "https://open.spotify.com/album/6KvNCJlrntxikr81cVe5sX"
-      },
-      "artists": [
-        {
-          "name": "Me Fritos and the Gimme Cheetos",
-          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
-        }
-      ],
-      "duration_ms": 88000,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2PAYM7HAtFQKZPnAI10vlr"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "Bienvenidos a Occidente",
         "url": "https://open.spotify.com/album/1F2GuNExWo3absC9LEqEcY"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 254946,
       "name": "Prefiero Caminar",
       "url": "https://open.spotify.com/track/0SUYFrnEmh4QZOdThDoJ5B"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Mentirosa",
+        "url": "https://open.spotify.com/album/6KvNCJlrntxikr81cVe5sX"
+      },
+      "artists": [
+        {
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+        }
+      ],
+      "duration_ms": 88000,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2PAYM7HAtFQKZPnAI10vlr"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
+        "name": "Quiero que sepas",
+        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 170662,
+      "name": "Quiero que sepas",
+      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 130632,
       "name": "La Historia se Repite",
       "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
-        "name": "Quiero que sepas",
-        "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 170662,
-      "name": "Quiero que sepas",
-      "url": "https://open.spotify.com/track/33Dh6Ot8qS3nC13zAopC5y"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -931,42 +931,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Camino hacia la ruina",
-        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
-      },
-      "artists": [
-        {
-          "name": "Comando 9mm",
-          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
-        }
-      ],
-      "duration_ms": 285640,
-      "name": "Amor frenop\u00e1tico",
-      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
-        "name": "Corona de espinas",
-        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
-      },
-      "artists": [
-        {
-          "name": "Bihotza",
-          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
-        },
-        {
-          "name": "Calero LDN",
-          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Corona de espinas",
-      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "Ni una Sola Palabra",
         "url": "https://open.spotify.com/album/3cCGlsL0rcQXpASb4Lqeka"
       },
@@ -979,6 +943,22 @@
       "duration_ms": 148000,
       "name": "Ni una Sola Palabra",
       "url": "https://open.spotify.com/track/1rDoB0YlZ6V3V9xEoJoRnN"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Camino hacia la ruina",
+        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
+      },
+      "artists": [
+        {
+          "name": "Comando 9mm",
+          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
+        }
+      ],
+      "duration_ms": 285640,
+      "name": "Amor frenop\u00e1tico",
+      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1019,22 +999,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Una y Mil Veces",
-        "url": "https://open.spotify.com/album/6CHz9QHJw6gRsaqCIrUbSM"
+        "name": "Corona de espinas",
+        "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
       "artists": [
         {
-          "name": "Detrapo",
-          "url": "https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60"
+          "name": "Bihotza",
+          "url": "https://open.spotify.com/artist/1aIFr0WatL4gF7dpeb168w"
         },
         {
-          "name": "Sinaia",
-          "url": "https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG"
+          "name": "Calero LDN",
+          "url": "https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR"
         }
       ],
-      "duration_ms": 266698,
-      "name": "Una y Mil Veces",
-      "url": "https://open.spotify.com/track/38ynrtrPa6laWTufKuW7vK"
+      "duration_ms": 217466,
+      "name": "Corona de espinas",
+      "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1059,6 +1039,26 @@
       "duration_ms": 240800,
       "name": "No Sabemos Perder",
       "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Una y Mil Veces",
+        "url": "https://open.spotify.com/album/6CHz9QHJw6gRsaqCIrUbSM"
+      },
+      "artists": [
+        {
+          "name": "Detrapo",
+          "url": "https://open.spotify.com/artist/3cjnl4G8EXCdyKkyfYmA60"
+        },
+        {
+          "name": "Sinaia",
+          "url": "https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG"
+        }
+      ],
+      "duration_ms": 266698,
+      "name": "Una y Mil Veces",
+      "url": "https://open.spotify.com/track/38ynrtrPa6laWTufKuW7vK"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Antifascismo",
-        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
-      },
-      "artists": [
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 260127,
-      "name": "Antifascismo",
-      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "Ahora soy un punkarra",
         "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
+        "name": "Antifascismo",
+        "url": "https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU"
+      },
+      "artists": [
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 260127,
+      "name": "Antifascismo",
+      "url": "https://open.spotify.com/track/0V945W0o8KQijRUY98x59d"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
         "name": "Punk Latino Vol. 1",
         "url": "https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN"
       },
@@ -1223,6 +1223,38 @@
       "duration_ms": 266733,
       "name": "Ellos Dicen Mierda (Live)",
       "url": "https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Rico deprimido (XX5)",
+        "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
+      },
+      "artists": [
+        {
+          "name": "Kaotiko",
+          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
+        }
+      ],
+      "duration_ms": 205696,
+      "name": "Rico deprimido - XX5",
+      "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1263,38 +1295,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
-        }
-      ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
-        "name": "Rico deprimido (XX5)",
-        "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
-      },
-      "artists": [
-        {
-          "name": "Kaotiko",
-          "url": "https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S"
-        }
-      ],
-      "duration_ms": 205696,
-      "name": "Rico deprimido - XX5",
-      "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "ORAIN ETA BETI",
         "url": "https://open.spotify.com/album/5a0fsO4ZjntLu9BFVfmyjm"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Revi\u00e9ntales",
-        "url": "https://open.spotify.com/album/0ONeQsEFJhLNopVqTbddsL"
-      },
-      "artists": [
-        {
-          "name": "Guillotina Punk Rock",
-          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Revi\u00e9ntales",
-      "url": "https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "ANTIFASCISTA",
         "url": "https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 273052,
       "name": "ANTIFASCISTA",
       "url": "https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Revi\u00e9ntales",
+        "url": "https://open.spotify.com/album/0ONeQsEFJhLNopVqTbddsL"
+      },
+      "artists": [
+        {
+          "name": "Guillotina Punk Rock",
+          "url": "https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Revi\u00e9ntales",
+      "url": "https://open.spotify.com/track/1PQwitLud555xFVIQnyj2t"
     },
     {
       "added_at": "2026-02-09 12:00:06",

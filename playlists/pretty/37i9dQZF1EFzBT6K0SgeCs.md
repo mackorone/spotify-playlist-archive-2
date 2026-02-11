@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5TBp8FDzDLGbfSwadAIZiN">Finneas O'Connell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,657 likes - 139 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,659 likes - 139 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 125 | [Passion and Pain Taste the Same When I’m Weak](https://open.spotify.com/track/1AZgTZAnKhbhIzqKEnKOqu) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Sunshine Kitty \(Paw Prints Edition\)](https://open.spotify.com/album/48I4Jtcqu5K5jZWadn035d) | 4:00 |
 | 126 | [The Ending](https://open.spotify.com/track/6n2AXXSIDoVIrCBRSTM8Zo) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [VIII](https://open.spotify.com/album/1WLT9X55scygUSpb304x4L) | 3:35 |
 | 127 | [Little Window](https://open.spotify.com/track/72cwGuUy3bxv6zSIT2VfEG) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 4:13 |
-| 128 | [Home](https://open.spotify.com/track/758bSg93OazKDrAbemPk8i) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 3:45 |
-| 129 | [Same Old Story](https://open.spotify.com/track/3WbVETD9kUFDIZIr6978SB) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 4:02 |
+| 128 | [Same Old Story](https://open.spotify.com/track/3WbVETD9kUFDIZIr6978SB) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7) | 4:02 |
+| 129 | [Home](https://open.spotify.com/track/758bSg93OazKDrAbemPk8i) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 3:45 |
 | 130 | [Start Forgetting Death](https://open.spotify.com/track/2yT3SUxa8Xgrow5I7NLq5P) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:44 |
 | 131 | [Lovely To See You Again](https://open.spotify.com/track/4AiMuxNC1ES3yTzuFnXPwE) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [No Time To Die \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1) | 1:25 |
 | 132 | [Bus Stop Billie](https://open.spotify.com/track/1oN6msNmVEq1w1DslDTsj3) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 1:32 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzBT6K0SgeCs.md) - [plain]
 | 138 | [Wash You Off](https://open.spotify.com/track/5P9Wd1OpXa9IbP6mLMI9c2) | [Kenzie Nimmo](https://open.spotify.com/artist/1L3mQeJx5YUcTqhIHD7pjV) | [Reckless Mess](https://open.spotify.com/album/2uESJILWyhUM6QvD1enlDP) | 3:19 |
 | 139 | [Where the Poison Is \(16\-Bit FINNEAS Emulation\)](https://open.spotify.com/track/0SjugAYwjDRwSTVLcJpTtE) | [Arcade Player](https://open.spotify.com/artist/1v4YnufenjE9BLAfP90qvt) | [The Impossible Game Soundtrack, Vol\. 50](https://open.spotify.com/album/7JwSu9PDWyIejIoFanQSJu) | 3:09 |
 
-Snapshot ID: `AcJPiAAAAACiwsh5fku1Il2Oy2/wA4gW`
+Snapshot ID: `AcJVKAAAAAAkLE8EbBB1dlKupOLw/Iyq`

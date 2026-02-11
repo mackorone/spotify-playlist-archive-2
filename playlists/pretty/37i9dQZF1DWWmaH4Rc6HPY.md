@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Playa Limbo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,613 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,616 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,14 +60,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 50 | [La Salvación](https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Salvación](https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC) | 4:45 |
 | 51 | [Despertar](https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Despertar](https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4) | 3:35 |
 | 52 | [La Última Noche \- con Estopa](https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [La Última Noche \(con Estopa\)](https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7) | 3:49 |
-| 53 | [Prayer in C](https://open.spotify.com/track/7sNg9mh9ciatqUzJLAyUNZ) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Prayer in C](https://open.spotify.com/album/2uHBOdq5JJ3oL7I0orLqM3) | 2:42 |
-| 54 | [Cuando Estamos Tú Y Yo](https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Cuando Estamos Tú Y Yo](https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF) | 2:39 |
+| 53 | [Cuando Estamos Tú Y Yo](https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Cuando Estamos Tú Y Yo](https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF) | 2:39 |
+| 54 | [Prayer in C](https://open.spotify.com/track/7sNg9mh9ciatqUzJLAyUNZ) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Prayer in C](https://open.spotify.com/album/2uHBOdq5JJ3oL7I0orLqM3) | 2:42 |
 | 55 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
-| 56 | [los 41](https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los 41](https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ) | 3:26 |
-| 57 | [narcisista o bipolar?](https://open.spotify.com/track/7IaWxF4spFVtFVRP5QBh5s) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0), [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [narcisista o bipolar?](https://open.spotify.com/album/3JpY6fp4LsPUAci6gRLjFS) | 2:29 |
-| 58 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
-| 59 | [Miedo](https://open.spotify.com/track/0MaSESPxb2TtRBvtqd6sAx) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Miedo](https://open.spotify.com/album/0HiImAtftKt8Ob2Viw26PB) | 3:16 |
-| 60 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
+| 56 | [EL PEOR](https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [EL PEOR](https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv) | 1:54 |
+| 57 | [los 41](https://open.spotify.com/track/63o7SbqFj3ltG4hb1AQzN0) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [los 41](https://open.spotify.com/album/0ZUc3UHaSIvBKfT8PZ6NfQ) | 3:26 |
+| 58 | [narcisista o bipolar?](https://open.spotify.com/track/7IaWxF4spFVtFVRP5QBh5s) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0), [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [narcisista o bipolar?](https://open.spotify.com/album/3JpY6fp4LsPUAci6gRLjFS) | 2:29 |
+| 59 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
+| 60 | [Miedo](https://open.spotify.com/track/0MaSESPxb2TtRBvtqd6sAx) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU), [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Miedo](https://open.spotify.com/album/0HiImAtftKt8Ob2Viw26PB) | 3:16 |
 | 61 | [Sed de Acción](https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [R](https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR) | 3:30 |
 | 62 | [Contradicción](https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Contradicción](https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y) | 4:56 |
 | 63 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |

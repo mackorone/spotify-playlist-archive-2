@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105735,
+  "num_followers": 105738,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
         "name": "Turn The Lights Off",
         "url": "https://open.spotify.com/album/4Xo7jcwuvnxDQoYq9N1yA6"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 178946,
       "name": "Turn The Lights Off - Radio Edit",
       "url": "https://open.spotify.com/track/7apywiCuMzvSZIa0SKeH99"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
-        "name": "White Keys",
-        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 144101,
-      "name": "White Keys",
-      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "added_at": "2026-02-06 12:54:45",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
         "name": "locket",
         "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
       },
@@ -271,26 +287,6 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
-        "name": "BEFORE I FORGET",
-        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 264226,
-      "name": "RATHER BE (feat. Lithe)",
-      "url": "https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i"
       },
@@ -311,6 +307,26 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
+        "name": "BEFORE I FORGET",
+        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 264226,
+      "name": "RATHER BE (feat. Lithe)",
+      "url": "https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
         "name": "SO CLOSE TO WHAT??? (deluxe)",
         "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 168134,
       "name": "NOBODY'S GIRL",
       "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
       "added_at": "2026-02-06 12:54:45",
@@ -515,6 +515,26 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
+        "name": "Drive Safe",
+        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Drive Safe",
+      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
         "name": "Gut Punch",
         "url": "https://open.spotify.com/album/7EPAooBQphOBWLEnYrljAn"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 188802,
       "name": "bandaids",
       "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
-        "name": "Drive Safe",
-        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        },
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Drive Safe",
-      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
     },
     {
       "added_at": "2026-02-06 12:54:45",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
-        "name": "Play (Deluxe)",
-        "url": "https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 161069,
-      "name": "Skeletons",
-      "url": "https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
         "name": "PHOLKS",
         "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 165599,
       "name": "My Muse",
       "url": "https://open.spotify.com/track/22c6Yop5YVEAhw8UG6O1W1"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
+        "name": "Play (Deluxe)",
+        "url": "https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 161069,
+      "name": "Skeletons",
+      "url": "https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q"
     },
     {
       "added_at": "2026-02-06 12:54:45",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
-        "name": "Death of Love",
-        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 206028,
-      "name": "Death of Love",
-      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
         "name": "have to.",
         "url": "https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 207023,
       "name": "have to.",
       "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
+        "name": "Death of Love",
+        "url": "https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 206028,
+      "name": "Death of Love",
+      "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
     },
     {
       "added_at": "2026-02-06 12:54:45",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
         "name": "BACK WHEN YOU WERE MINE",
         "url": "https://open.spotify.com/album/7fMHdU1j2w6HL2YhWoLU7k"
       },
@@ -911,6 +927,22 @@
       "duration_ms": 161346,
       "name": "BACK WHEN YOU WERE MINE",
       "url": "https://open.spotify.com/track/2RsXDEF05f7Ji6p5cbYaqT"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
+        "name": "Sisters With Me",
+        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 244591,
+      "name": "Sisters With Me",
+      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
     },
     {
       "added_at": "2026-02-06 12:54:45",
@@ -963,6 +995,22 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
+        "name": "A PERFECT WORLD",
+        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "A PERFECT WORLD",
+      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
         "name": "The Hardest Thing (feat. Tony Allen) / Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
         "url": "https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4"
       },
@@ -991,38 +1039,6 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
-        "name": "A PERFECT WORLD",
-        "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "A PERFECT WORLD",
-      "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
-        "name": "Sisters With Me",
-        "url": "https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 244591,
-      "name": "Sisters With Me",
-      "url": "https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
         "name": "YEBO",
         "url": "https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7"
       },
@@ -1035,6 +1051,22 @@
       "duration_ms": 162205,
       "name": "At The Party",
       "url": "https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
+        "name": "DON'T LOVE ME",
+        "url": "https://open.spotify.com/album/7wOSqpCqcAd6CEns2C9onZ"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/3JTKIKcLjpteIOQ1M5d5nm"
     },
     {
       "added_at": "2026-02-06 12:54:45",
@@ -1059,38 +1091,6 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
-        "name": "DON'T LOVE ME",
-        "url": "https://open.spotify.com/album/7wOSqpCqcAd6CEns2C9onZ"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 181942,
-      "name": "DON'T LOVE ME",
-      "url": "https://open.spotify.com/track/3JTKIKcLjpteIOQ1M5d5nm"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/5ftBriC68ZmOzyVWecx1iK"
       },
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
-        "name": "L.U.C.K.Y",
-        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+        "name": "Sunday Best",
+        "url": "https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T"
       },
       "artists": [
         {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
         }
       ],
-      "duration_ms": 138706,
-      "name": "L.U.C.K.Y",
-      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+      "duration_ms": 257733,
+      "name": "Sweet To Me",
+      "url": "https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y"
     },
     {
       "added_at": "2026-02-06 12:54:45",
@@ -1139,6 +1139,38 @@
       "duration_ms": 182400,
       "name": "Natural Disaster",
       "url": "https://open.spotify.com/track/1GzENjFiUZL7O6jreawkQE"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
+        "name": "L.U.C.K.Y",
+        "url": "https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
+        "name": "Nobody Wants This Season 2: The Soundtrack",
+        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 185155,
+      "name": "In The Dark - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y"
     },
     {
       "added_at": "2026-02-06 12:54:45",
@@ -1163,18 +1195,22 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
-        "name": "Nobody Wants This Season 2: The Soundtrack",
-        "url": "https://open.spotify.com/album/1XKT456HjHTeUw56O9HQEe"
+        "name": "(over)lever",
+        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
       },
       "artists": [
         {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
         }
       ],
-      "duration_ms": 185155,
-      "name": "In The Dark - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/2T6eMBY0y0ArR0wHIOUF6Y"
+      "duration_ms": 168021,
+      "name": "ingen andre (feat. Annika)",
+      "url": "https://open.spotify.com/track/5rq9wIneeqXYPnohfYVzv7"
     },
     {
       "added_at": "2026-02-06 12:54:45",
@@ -1211,42 +1247,6 @@
       "duration_ms": 154155,
       "name": "Ai Freestyle",
       "url": "https://open.spotify.com/track/2U6Z3P81M2hySvxe2vcjEx"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
-        "name": "Sunday Best",
-        "url": "https://open.spotify.com/album/7DEY5qf1aurVCNdfKRU59T"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Sweet To Me",
-      "url": "https://open.spotify.com/track/7GopuuJWfS8V67xSeKeV2Y"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
-        "name": "(over)lever",
-        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        },
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 168021,
-      "name": "ingen andre (feat. Annika)",
-      "url": "https://open.spotify.com/track/5rq9wIneeqXYPnohfYVzv7"
     },
     {
       "added_at": "2026-02-06 12:54:45",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
+        "name": "Begge To",
+        "url": "https://open.spotify.com/album/2DClmVE5u5kWjrEkQgQDRj"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 186439,
+      "name": "Begge To",
+      "url": "https://open.spotify.com/track/6UKrwmUHGDWtUxQXu0lrjg"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
         "name": "From The Pyre",
         "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2026-02-06 12:54:45",
       "album": {
-        "name": "Begge To",
-        "url": "https://open.spotify.com/album/2DClmVE5u5kWjrEkQgQDRj"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 186439,
-      "name": "Begge To",
-      "url": "https://open.spotify.com/track/6UKrwmUHGDWtUxQXu0lrjg"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
         "name": "jeg tror jeg elsker dig for evigt",
         "url": "https://open.spotify.com/album/16t5Ewp0D7rDDQZBlcNevX"
       },
@@ -1371,6 +1371,26 @@
       "duration_ms": 193020,
       "name": "jeg tror jeg elsker dig for evigt",
       "url": "https://open.spotify.com/track/2bsahf0KRgkJB8LDE4rmAb"
+    },
+    {
+      "added_at": "2026-02-06 12:54:45",
+      "album": {
+        "name": "Lyse N\u00e6tter",
+        "url": "https://open.spotify.com/album/5eTKYD1eF9BpmqbizWcfV4"
+      },
+      "artists": [
+        {
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        },
+        {
+          "name": "Sigvardt",
+          "url": "https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "Lyse N\u00e6tter",
+      "url": "https://open.spotify.com/track/14iDVL9nkEM9ViJ26IvM0I"
     },
     {
       "added_at": "2026-02-06 12:54:45",
@@ -1391,22 +1411,6 @@
       "duration_ms": 174750,
       "name": "Nyhavn (feat. Ella Augusta)",
       "url": "https://open.spotify.com/track/1IcCUdRb9sHuJUd7jsC8Vd"
-    },
-    {
-      "added_at": "2026-02-06 12:54:45",
-      "album": {
-        "name": "TO MAKE PEOPLE HAPPY",
-        "url": "https://open.spotify.com/album/5hBLIA2KYKkHLJWWS1K1tq"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "WAY YOU SMILE",
-      "url": "https://open.spotify.com/track/20gQ2YTRFIzSwLla3GRsGp"
     }
   ],
   "unique_name": "De nye",

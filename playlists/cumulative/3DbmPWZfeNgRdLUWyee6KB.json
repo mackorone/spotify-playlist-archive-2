@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "A quoi bon",
+        "url": "https://open.spotify.com/album/3keMZ2GXAofv25DynqnSBU"
+      },
+      "artists": [
+        {
+          "name": "Kyara",
+          "url": "https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226054,
+      "name": "A quoi bon",
+      "url": "https://open.spotify.com/track/3BOJLuvEAvFB7oLmuFMahx"
+    },
+    {
+      "album": {
         "name": "A Tram for Lovers",
         "url": "https://open.spotify.com/album/2zl2uTA8T7mK9ibpjaP0Hw"
       },
@@ -4693,6 +4711,24 @@
     },
     {
       "album": {
+        "name": "All in One",
+        "url": "https://open.spotify.com/album/4tAYZAjdvpsskwRxDT3bXn"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Erhan",
+          "url": "https://open.spotify.com/artist/7mve4x9DCP237Y8I1UC4TK"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184241,
+      "name": "Joyful Days",
+      "url": "https://open.spotify.com/track/2ejqRknRaC6zC1WQLuUcTb"
+    },
+    {
+      "album": {
         "name": "Aerial Minds",
         "url": "https://open.spotify.com/album/2c0rWMixj6Or2q7VdOVujJ"
       },
@@ -8186,6 +8222,24 @@
       "duration_ms": 350545,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/2Si2i7LLkGIl1PSm2MEXov"
+    },
+    {
+      "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/28GEpbSVfkg6AripcKvexZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Santos Oliveira",
+          "url": "https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167561,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/5UFMhB0iMZ9IRZnXVtE9uJ"
     },
     {
       "album": {

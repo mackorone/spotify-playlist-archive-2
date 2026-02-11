@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: YOVNGCHIMI, JC Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,099 likes - 99 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,493,085 likes - 99 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MVLAN](https://open.spotify.com/track/74t17BRV4el0mU0Tb8XY1k) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [MVLAN](https://open.spotify.com/album/0zL3m3TQqvgJ1donJHGAmN) | 3:41 |
-| 2 | [RIHANA](https://open.spotify.com/track/6pjGQ7mGGi2YxRKtqkJTan) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo) | [RIHANA](https://open.spotify.com/album/4gJ2YfhQ0COaQjVULDnfNq) | 2:36 |
+| 2 | [RIHANA](https://open.spotify.com/track/6pjGQ7mGGi2YxRKtqkJTan) | [Tony Monta](https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo), [High Galaxy Music](https://open.spotify.com/artist/6DX3eOyDrzIBvvBdZyxxqd) | [RIHANA](https://open.spotify.com/album/4gJ2YfhQ0COaQjVULDnfNq) | 2:36 |
 | 3 | [MUSA REMIX](https://open.spotify.com/track/5ReIuecGjsHabpYSNlKnuR) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [SVNTI](https://open.spotify.com/artist/16dsBR4zAkt54kTENN56bN) | [MUSA REMIX](https://open.spotify.com/album/0OzPnxDGJMGTSbxr2llzes) | 3:30 |
 | 4 | [GANAS](https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [GANAS](https://open.spotify.com/album/5kvrX3U5XjJVzCbtr71K7T) | 3:10 |
 | 5 | [Las Muñequitas](https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f) | [Mr Plata](https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [Las Muñequitas](https://open.spotify.com/album/7n15KecHJpMAvSLUpllKHu) | 3:13 |

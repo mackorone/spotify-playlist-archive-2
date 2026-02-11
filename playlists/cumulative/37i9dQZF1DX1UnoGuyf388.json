@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Pop music driving the current, every week.  Cover: Seyi Vibez & Omah Lay",
+  "description": "Pop music driving the current, every week.  Cover: RAYE",
   "name": "Pop Frequency",
   "tracks": [
     {
@@ -498,7 +498,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 170578,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1jjfb6Ne65MgkrT3jTJMLv"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 175265,
       "name": "Body",
       "url": "https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57"
@@ -2193,6 +2193,24 @@
     },
     {
       "album": {
+        "name": "DANGERUSH",
+        "url": "https://open.spotify.com/album/4cYtuwrNSzsYe0QnD6Bqnz"
+      },
+      "artists": [
+        {
+          "name": "Jourdin Pauline",
+          "url": "https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167628,
+      "name": "DANGERUSH",
+      "url": "https://open.spotify.com/track/5WfjsBrLERzoPafwsxOOhE"
+    },
+    {
+      "album": {
         "name": "Dawn of a Misfit",
         "url": "https://open.spotify.com/album/4yAcfYYfi03HIp0aG0MkSb"
       },
@@ -2644,7 +2662,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 171553,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
@@ -2758,6 +2776,28 @@
       "duration_ms": 169708,
       "name": "Drink Water (feat. Jon Bellion and Fireboy DML)",
       "url": "https://open.spotify.com/track/5sLEmcvR8qwxE0nh0fqGr1"
+    },
+    {
+      "album": {
+        "name": "Drive Safe",
+        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Drive Safe",
+      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
     },
     {
       "album": {
@@ -2906,6 +2946,24 @@
       "duration_ms": 181137,
       "name": "EGO DYE",
       "url": "https://open.spotify.com/track/1iw4Chi31B4zwIYqDbEqJB"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/1s4mHTfjmO4CU8AACjkmsS"
+      },
+      "artists": [
+        {
+          "name": "Tolou",
+          "url": "https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182508,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/3YajsKbYUph5hzfmXzLo4B"
     },
     {
       "album": {
@@ -3452,7 +3510,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 148746,
       "name": "Follow Excitement!",
       "url": "https://open.spotify.com/track/3kmNmUivuxN6zhOWTpi0Gx"
@@ -4268,6 +4326,24 @@
       "duration_ms": 138947,
       "name": "HEATWAVE",
       "url": "https://open.spotify.com/track/6px1hvyZ0WujEYrhGgu23g"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266129,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
     },
     {
       "album": {
@@ -5530,7 +5606,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 213456,
       "name": "Learn To Love (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5qQYndZ8HuHCbN0PZf4l3o"
@@ -9386,7 +9462,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 219968,
       "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
       "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
@@ -9953,6 +10029,24 @@
     },
     {
       "album": {
+        "name": "The Rain Isn't Over",
+        "url": "https://open.spotify.com/album/2gRUZi7aXJUVt7COu8CMtB"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182348,
+      "name": "The Rain Isn't Over",
+      "url": "https://open.spotify.com/track/63r4GdzKCnwc0sq6l79mp0"
+    },
+    {
+      "album": {
         "name": "The Rush",
         "url": "https://open.spotify.com/album/4zXVhFAp2JpAv4iUOfEugv"
       },
@@ -10235,6 +10329,28 @@
     },
     {
       "album": {
+        "name": "REAL, Vol. 1",
+        "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145492,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
+    },
+    {
+      "album": {
         "name": "Turn it up",
         "url": "https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0"
       },
@@ -10272,6 +10388,24 @@
       "duration_ms": 176160,
       "name": "Turn Your Phone Off",
       "url": "https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z"
+    },
+    {
+      "album": {
+        "name": "Twisted",
+        "url": "https://open.spotify.com/album/2BFNePqPv0p0nsxbtgD1RE"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/0Oqiavr7my94MXN2K8HLeJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Brasco & NAVI, Sam J’taime, TYCH & IJSLAND \(Abel & Sef\) en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,420 likes - 84 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,417 likes - 84 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

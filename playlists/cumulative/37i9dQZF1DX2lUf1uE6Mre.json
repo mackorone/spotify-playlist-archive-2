@@ -2271,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "DEUTSCHER BADBOY",
+        "url": "https://open.spotify.com/album/0LOnAZ6R6N3RuvqFzeuGPe"
+      },
+      "artists": [
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143558,
+      "name": "DEUTSCHER BADBOY",
+      "url": "https://open.spotify.com/track/0uSpBgfi1AesqaL4WlYnfQ"
+    },
+    {
+      "album": {
         "name": "Diadem",
         "url": "https://open.spotify.com/album/0TSNWMt7fOHD4QjLy6RXmI"
       },
@@ -2906,7 +2924,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 145793,
       "name": "Farbenblind",
       "url": "https://open.spotify.com/track/6jnslZYy0L9PUx41LhY2rS"

@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 13286,
+  "num_followers": 13287,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAADSO4YGCo8md6mmNKw1dhyW",
+  "snapshot_id": "aYkjgAAAAADiC6xND+qf9LF1DX4ZXwSI",
   "tracks": [
     {
       "added_at": null,
@@ -211,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 190962,
-      "name": "ROTTEN (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/15jg4vt123axobdGleLugn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YOU HEAR ME THO",
         "url": "https://open.spotify.com/album/5gCuDvedKVLRv6o4mbW2di"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 141818,
       "name": "YOU HEAR ME THO",
       "url": "https://open.spotify.com/track/2nGUl0oc9DGIful2EqadW2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 190962,
+      "name": "ROTTEN (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/15jg4vt123axobdGleLugn"
     },
     {
       "added_at": null,
@@ -347,22 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Ones Left",
-        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
+        "name": "WOULDN'T HOLD YOU UP",
+        "url": "https://open.spotify.com/album/20G2sl0k5dMI6yDnyqWhOq"
       },
       "artists": [
         {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
         },
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 106843,
-      "name": "Can't Be Fucked With",
-      "url": "https://open.spotify.com/track/7AmVwZ9vImbly1xOkUFJZI"
+      "duration_ms": 94945,
+      "name": "WOULDN'T HOLD YOU UP",
+      "url": "https://open.spotify.com/track/2y526hGkXuetJy3duEqIRq"
     },
     {
       "added_at": null,
@@ -383,6 +383,26 @@
       "duration_ms": 151956,
       "name": "Members Only (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/3pygdjgdMt04N8R6Mar0wF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Ones Left",
+        "url": "https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 106843,
+      "name": "Can't Be Fucked With",
+      "url": "https://open.spotify.com/track/7AmVwZ9vImbly1xOkUFJZI"
     },
     {
       "added_at": null,
@@ -411,6 +431,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 193617,
+      "name": "Lick Back Remix (feat. Future & Young Thug)",
+      "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Young Shiners",
+      "url": "https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/4KLUvDEJRMLGNHy8xZCLrX"
       },
@@ -423,6 +483,26 @@
       "duration_ms": 157354,
       "name": "Tug of War March17",
       "url": "https://open.spotify.com/track/5Ol3Ltzg948mZyNVSacwhx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL TORO 2",
+        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 145317,
+      "name": "I THINK (FEAT. LIL BABY)",
+      "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
     },
     {
       "added_at": null,
@@ -454,55 +534,15 @@
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Young Shiners",
-      "url": "https://open.spotify.com/track/1g2nx2OTpQqGV3hF1BnpIK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 193617,
-      "name": "Lick Back Remix (feat. Future & Young Thug)",
-      "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL TORO 2",
-        "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 145317,
-      "name": "I THINK (FEAT. LIL BABY)",
-      "url": "https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx"
+      "duration_ms": 161052,
+      "name": "Special Remix (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI"
     },
     {
       "added_at": null,
@@ -527,26 +567,6 @@
       "duration_ms": 125885,
       "name": "Anthem (with Big Sean & EST Gee) - Soundtrack Version",
       "url": "https://open.spotify.com/track/7CeNOTM3asX0zt6pAi9a6W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Special Remix (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/5sXYCAzaTHonbB7OVqU0TI"
     },
     {
       "added_at": null,
@@ -591,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Dem Boyz",
-        "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 185948,
-      "name": "Rose Gold (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Still Dont Feel Nun",
         "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
       },
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Free Dem Boyz",
+        "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 185948,
+      "name": "Rose Gold (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bigger Than Life Or Death (Deluxe)",
         "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },
@@ -663,6 +683,22 @@
       "duration_ms": 156981,
       "name": "Balloons (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Still Dont Feel Nun",
+        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 141015,
+      "name": "Ball Forever",
+      "url": "https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN"
     },
     {
       "added_at": null,
@@ -687,18 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Still Dont Feel Nun",
-        "url": "https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w"
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
       "artists": [
         {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 141015,
-      "name": "Ball Forever",
-      "url": "https://open.spotify.com/track/3YEvtD0NBLP9fFmvKkrnJN"
+      "duration_ms": 132501,
+      "name": "All I Know (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
     },
     {
       "added_at": null,
@@ -719,26 +759,6 @@
       "duration_ms": 160033,
       "name": "Burglars & Murderers (feat. EST Gee)",
       "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 132501,
-      "name": "All I Know (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
     },
     {
       "added_at": null,
@@ -843,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 165972,
-      "name": "UNDEFEATED",
-      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ion Feel Nun",
         "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
       },
@@ -871,6 +875,22 @@
       "duration_ms": 106904,
       "name": "Morals",
       "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 165972,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
     },
     {
       "added_at": null,
@@ -907,26 +927,6 @@
       "duration_ms": 161333,
       "name": "Flash (feat. Bloodhound Q50)",
       "url": "https://open.spotify.com/track/1RfA60GyVrkHTStCoa2Vcn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Esteem Pack (Remixes)",
-        "url": "https://open.spotify.com/album/3bQ2Jhz80HCABIcUgByewU"
-      },
-      "artists": [
-        {
-          "name": "Lambo4oe",
-          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Self Esteem (featuring EST Gee)",
-      "url": "https://open.spotify.com/track/3EMZ5YFHpmRqN93ccBniJc"
     },
     {
       "added_at": null,

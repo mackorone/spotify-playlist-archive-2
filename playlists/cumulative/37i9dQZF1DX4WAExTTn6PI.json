@@ -4005,6 +4005,24 @@
     },
     {
       "album": {
+        "name": "Playing Fetch",
+        "url": "https://open.spotify.com/album/0z6S6ABEqOY9bk0X9Ex7Yh"
+      },
+      "artists": [
+        {
+          "name": "Trinity Jane",
+          "url": "https://open.spotify.com/artist/3WkvvBMBUEzcLLGTBFTngT"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210733,
+      "name": "Playing Fetch",
+      "url": "https://open.spotify.com/track/5FSdDpJ2O30Jp7Ec8JYKR2"
+    },
+    {
+      "album": {
         "name": "Acoustic Tales",
         "url": "https://open.spotify.com/album/6VbyvdnBA7oW9dfWvYc1e0"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,425 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,430 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 16 | [En Un Solo Dia](https://open.spotify.com/track/3Me4qJDkBKKfIFWg7JcLY6) | [Negros](https://open.spotify.com/artist/3eA9KcIgfIe4siS6dByAb4), [Alina Vargas](https://open.spotify.com/artist/7uG4YWxqyeeSaZMnv7ekzV) | [Armadura De Rosas](https://open.spotify.com/album/7q1Ya9cTQeN1ryNie2dDaF) | 3:09 |
 | 17 | [Un Dia A La Vez](https://open.spotify.com/track/6k1R4AYVLZ3YCkIhTZ4Vy7) | [Lalo Y Los Descalzos](https://open.spotify.com/artist/3k7FDxixhDQYNuxOtiN7jl) | [Las Mejores Vol\. 1](https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY) | 3:21 |
 | 18 | [El Gallo Rojo](https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [El Gallo Rojo](https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH) | 2:35 |
-| 19 | [Ruge Uge](https://open.spotify.com/track/4qUDaUEXqZtGzxiwQbNC82) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Christian Puga y los Ladrones Sueltos](https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E) | 3:43 |
-| 20 | [Si Tú Supieras](https://open.spotify.com/track/1Pt5Ne6IbnPyLdBnYiChHV) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [Emergencia de Amor](https://open.spotify.com/album/4Ep0QJGPadz7Agnejcy8jK) | 3:47 |
+| 19 | [Si Tú Supieras](https://open.spotify.com/track/1Pt5Ne6IbnPyLdBnYiChHV) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [Emergencia de Amor](https://open.spotify.com/album/4Ep0QJGPadz7Agnejcy8jK) | 3:47 |
+| 20 | [Ruge Uge](https://open.spotify.com/track/4qUDaUEXqZtGzxiwQbNC82) | [Los Ladrones Sueltos](https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF) | [Christian Puga y los Ladrones Sueltos](https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E) | 3:43 |
 | 21 | [Ay Que Vida](https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe) | [Qmbia Juan](https://open.spotify.com/artist/3XGlCtII7O0K0SvCwAj0Wx) | [Qmbia Juan](https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6) | 3:57 |
 | 22 | [Lo Intentamos](https://open.spotify.com/track/53oLP8HW9lSk0ZYvTsDoIa) | [Kchorros de la Línea 3](https://open.spotify.com/artist/6LBGFAO4Ue5OstjwocFIP2) | [Báilalo Báilalo](https://open.spotify.com/album/20zOZgfdwPf5wiJYF033E9) | 2:48 |
 | 23 | [Hamaca Paraguaya](https://open.spotify.com/track/0oHEwoLk8e2dCwaFxtQ1qq) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Hamaca Paraguaya](https://open.spotify.com/album/7ja8ZfNGuWbvS3lre15CFp) | 2:38 |

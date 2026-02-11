@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,238 likes - 276 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,239 likes - 276 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,8 +261,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 251 | [They're Jealous of Me](https://open.spotify.com/track/4Xoj8JzI9AEwa1fIMLxdSU) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Growing Up Girls](https://open.spotify.com/album/2kuDolN2GQ2Mh6rKTbbNkD) | 2:54 |
 | 252 | [The Reunion \- Instrumental Interlude, Pt\. 1](https://open.spotify.com/track/03ZLYdHAN1IF9cFTwHrtZR) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Rare, Rarer & Rarest](https://open.spotify.com/album/4jCUaQ3CEu82w3w0EYrELn) | 1:56 |
 | 253 | [THE SHEIK](https://open.spotify.com/track/7BDZIEXyJ5xIT0dGV3v9kr) | [THE CLOVERS](https://open.spotify.com/artist/3cG0rRF1ZLzhZWyRYvskUf) | [ラヴ・ポーション・ナンバー・ナイン](https://open.spotify.com/album/73bmfm6XPyPGKJjg7GYVaB) | 2:30 |
-| 254 | [The Slide](https://open.spotify.com/track/67Ae2TYDdJ3uymxLFynJmQ) | [Freddie Scott](https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT) | [Hey Girl](https://open.spotify.com/album/1NfKXGEGEAHmYSyAfVjdK9) | 2:04 |
-| 255 | [Randy](https://open.spotify.com/track/0pypxZqEyE64cAYixBt00F) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Growing Up Girls](https://open.spotify.com/album/2kuDolN2GQ2Mh6rKTbbNkD) | 2:13 |
+| 254 | [Randy](https://open.spotify.com/track/0pypxZqEyE64cAYixBt00F) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Growing Up Girls](https://open.spotify.com/album/2kuDolN2GQ2Mh6rKTbbNkD) | 2:13 |
+| 255 | [The Slide](https://open.spotify.com/track/67Ae2TYDdJ3uymxLFynJmQ) | [Freddie Scott](https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT) | [Hey Girl](https://open.spotify.com/album/1NfKXGEGEAHmYSyAfVjdK9) | 2:04 |
 | 256 | [Happy Being Fat](https://open.spotify.com/track/5pD3ZBr7iPrSxwHyPm9MsP) | [Big Dee Irwin](https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa) | [Another Night With Big Dee Irwin: The Complete Dimension Recordings And More](https://open.spotify.com/album/6P1NRF6amZAXo77GG1tniN) | 2:33 |
 | 257 | [Love Eyes \- Remastered](https://open.spotify.com/track/5qJeIzaoIodrrKSOeugESh) | [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3), [Bertell Dache](https://open.spotify.com/artist/7sB4wR6iuxLodTRyIo7xeD) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/29vKALglR7SVF9gVuF4ktW) | 1:58 |
 | 258 | [Walking Proud](https://open.spotify.com/track/24ojoYJmIgv2wun96LhrMM) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p) | [The Original Hits](https://open.spotify.com/album/7bdZkkSOAU2iy9fyzdP0ru) | 2:32 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 275 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 | 276 | [So Did I](https://open.spotify.com/track/1X6oGhjB6wU1tUjnozuPtq) | [Jackie Trent](https://open.spotify.com/artist/2u5zpLHWeLbAyvfFZfcTPb) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:56 |
 
-Snapshot ID: `AcJPagAAAACIB3rDb6yFfJuikzPuT3wk`
+Snapshot ID: `AcJVAAAAAADVpmaTiVW52K2blraY2KkW`

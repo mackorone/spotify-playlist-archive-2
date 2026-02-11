@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Kenta204",
+  "description": "The best new music by independent artists and labels. Cover: VV-Ace",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -4383,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "Arms",
+        "url": "https://open.spotify.com/album/1AdWfbPyBlJ6oIHJZVZzcX"
+      },
+      "artists": [
+        {
+          "name": "Chuck Sics",
+          "url": "https://open.spotify.com/artist/4q4nkhzdH153MfVfA6Gjxl"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250927,
+      "name": "Arms",
+      "url": "https://open.spotify.com/track/4Zp30rRrbH9YC06eDHebWf"
+    },
+    {
+      "album": {
         "name": "Around",
         "url": "https://open.spotify.com/album/5sfmsDl4lB1lZdX2gxIK3q"
       },
@@ -5418,7 +5436,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 297391,
       "name": "Backwards Step",
       "url": "https://open.spotify.com/track/44dAUybkWmNpfqVCYxo592"
@@ -10840,7 +10858,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 195428,
       "name": "Butterfly Eyes",
       "url": "https://open.spotify.com/track/5jokqGku7kSRDj2B7wlc96"
@@ -16086,7 +16104,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 273448,
       "name": "Cry For Me",
       "url": "https://open.spotify.com/track/2hzwynvjnS8kL7PNB1iU7D"
@@ -16356,6 +16374,24 @@
       "duration_ms": 165103,
       "name": "Curtains",
       "url": "https://open.spotify.com/track/0YfvkdUqg9ijrZ8ueWV5C6"
+    },
+    {
+      "album": {
+        "name": "Cut from a Different Cloth",
+        "url": "https://open.spotify.com/album/4znj45eazMTgFxxCHn6Nf3"
+      },
+      "artists": [
+        {
+          "name": "Chet Sounds",
+          "url": "https://open.spotify.com/artist/6tL6Eapfk83u9m5yvCVedX"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275133,
+      "name": "Cut from a Different Cloth",
+      "url": "https://open.spotify.com/track/3kEjRXprp8Vul5y71zvafC"
     },
     {
       "album": {
@@ -21440,6 +21476,24 @@
       "duration_ms": 168479,
       "name": "Ego Ride",
       "url": "https://open.spotify.com/track/2zZ8YzZrzjlMl47XaiRfXd"
+    },
+    {
+      "album": {
+        "name": "EH LE LE LE",
+        "url": "https://open.spotify.com/album/7gji0oo5NOMWTb7eiBIRGI"
+      },
+      "artists": [
+        {
+          "name": "VV-Ace",
+          "url": "https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167767,
+      "name": "EH LE LE LE",
+      "url": "https://open.spotify.com/track/3bnjO5EQ6vajksHb2VODbZ"
     },
     {
       "album": {
@@ -34793,6 +34847,24 @@
     },
     {
       "album": {
+        "name": "I Need A Room",
+        "url": "https://open.spotify.com/album/3eM76TvENrD4k97V05HRLt"
+      },
+      "artists": [
+        {
+          "name": "soft star",
+          "url": "https://open.spotify.com/artist/5EpWCM5quwzO5FPjkDxB8E"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212307,
+      "name": "I Need A Room",
+      "url": "https://open.spotify.com/track/2lg7UaXJIbiMTb5p0J5fko"
+    },
+    {
+      "album": {
         "name": "i need it back",
         "url": "https://open.spotify.com/album/0F4aKw0cd3R938xrYQ33aM"
       },
@@ -35346,6 +35418,24 @@
       "duration_ms": 217166,
       "name": "I Want To Love You (Rock Ballad)",
       "url": "https://open.spotify.com/track/5tLKBGrdi8WR2QRQ4SWp3y"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/75EypBsyG1RP34r7LwMnXY"
+      },
+      "artists": [
+        {
+          "name": "Bryson Hill",
+          "url": "https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164296,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4HOns4faEjBFkyJXEuhaiZ"
     },
     {
       "album": {
@@ -36484,7 +36574,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 170525,
       "name": "if...",
       "url": "https://open.spotify.com/track/2GMufa0DEVJqEj9ix1yuqd"
@@ -42830,7 +42920,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 192886,
       "name": "Londontown",
       "url": "https://open.spotify.com/track/7DdU5onurQoEFbrEhLXoCX"
@@ -43184,6 +43274,24 @@
       "duration_ms": 218816,
       "name": "Lose Me",
       "url": "https://open.spotify.com/track/0n200eSwMRLEOpLsfGjPHq"
+    },
+    {
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/6IV2rQfOkJIj8Q0kgRgKbu"
+      },
+      "artists": [
+        {
+          "name": "About Yesterday",
+          "url": "https://open.spotify.com/artist/1NpflW3ZkpfS1xj3BrWqga"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234319,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7cY5spPtbWjinUJzkyjK5Y"
     },
     {
       "album": {
@@ -43924,7 +44032,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 179009,
       "name": "Love Without Meaning",
       "url": "https://open.spotify.com/track/41ScsVPOyy2ZDLkbVARzED"
@@ -57178,7 +57286,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 164897,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/5ZWToHjjGASzIlPqvaZXZs"
@@ -62220,6 +62328,24 @@
       "duration_ms": 207537,
       "name": "Secret",
       "url": "https://open.spotify.com/track/41HaFRz3X85UZ6Il3XAk93"
+    },
+    {
+      "album": {
+        "name": "Greetings from Itchy and the Nits",
+        "url": "https://open.spotify.com/album/0zgz2F5kH668aSUvdI4rfY"
+      },
+      "artists": [
+        {
+          "name": "Itchy and the Nits",
+          "url": "https://open.spotify.com/artist/2HaxruhERCGJpz57qqjk8h"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95937,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/7LN2eS7gyXt1MenkXRlqAF"
     },
     {
       "album": {
@@ -77496,7 +77622,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 201578,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/6yDxM08M2nwsH6AipRpoAq"
@@ -82540,6 +82666,24 @@
       "duration_ms": 176863,
       "name": "You're So Cold (Like My House)",
       "url": "https://open.spotify.com/track/5lZ4w2PUb6K6JGQM4tIGzK"
+    },
+    {
+      "album": {
+        "name": "Young & Green",
+        "url": "https://open.spotify.com/album/68ksDVafcSKhaKllSXXBAf"
+      },
+      "artists": [
+        {
+          "name": "Joely",
+          "url": "https://open.spotify.com/artist/7mYSAs4oBqRlShTTVkNnxg"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240472,
+      "name": "Young & Green",
+      "url": "https://open.spotify.com/track/5XV0jYzNnJDnmL2jn8R8Ek"
     },
     {
       "album": {

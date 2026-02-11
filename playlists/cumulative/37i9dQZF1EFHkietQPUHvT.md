@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-105 songs - 5 hr 20 min
+106 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [day i die](https://open.spotify.com/track/1UhDG1nEctrXaCJR85p0iF) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [day i die](https://open.spotify.com/album/7mv2k44vhKlpDu8uv3j8YO) | 2:55 | 2024-04-26 | 2024-05-13 |
 | [day i die](https://open.spotify.com/track/5QailQmHeDLllMTGD9LaDR) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Bleeding Heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 2:55 | 2024-05-15 | 2024-06-08 |
 | [day i die](https://open.spotify.com/track/6OiLEkbkyXxaDE2PXYi6js) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:55 | 2024-05-12 |  |
-| [Dizzy](https://open.spotify.com/track/3yklxY8pm64CJ3BJSSjvEL) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:32 | 2026-02-03 |  |
+| [Dizzy](https://open.spotify.com/track/3yklxY8pm64CJ3BJSSjvEL) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8) | 2:32 | 2026-02-03 | 2026-02-11 |
+| [Dizzy](https://open.spotify.com/track/56f8q8bWmA1w1DyoBHvHvp) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [Delulu Pack](https://open.spotify.com/album/09YZd8EhjQjGDJbc8EUuKq) | 2:32 | 2026-02-10 |  |
 | [Don't Wake Me](https://open.spotify.com/track/6PWxbGXyK8X8FNbnprbfk7) | [Damian McGinty](https://open.spotify.com/artist/55vhWUMlow4Z91foJtpm1Y) | [Those Were the Days](https://open.spotify.com/album/22f6PrUj5bGs2JFNkabso5) | 3:10 | 2024-03-10 |  |
 | [Dopamine](https://open.spotify.com/track/09pDFuRiJpAwTIifF3aPht) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Dopamine](https://open.spotify.com/album/2QWxTZD0HTnNj4JTLCTzJH) | 3:05 | 2024-08-15 |  |
 | [Double Vision](https://open.spotify.com/track/2pfyDztdrbcvB3ommeiCSR) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Brodie](https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t) | [Double Vision](https://open.spotify.com/album/4BqyUjSItakCqDyxWqBbxk) | 2:11 | 2024-09-03 |  |

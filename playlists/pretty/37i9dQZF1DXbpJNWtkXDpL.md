@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Malcriada
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,177 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,173 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 32 | [COCINE Y COCINE](https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 2:35 |
 | 33 | [LLORAR!](https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64) | [LLORAR!](https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4) | 1:47 |
 | 34 | [amar t duele](https://open.spotify.com/track/3CwrAtQNT5y6uOd6WREZ2E) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [amar t duele](https://open.spotify.com/album/72usUOS1AxtEeQ3wtL1bXg) | 2:30 |
-| 35 | [Rosita Lean](https://open.spotify.com/track/3n0jLga7AMhPpL2E2sEhAo) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Rosita Lean](https://open.spotify.com/album/2qDUgdjgjYzlwIy3f1aavG) | 1:31 |
-| 36 | [Obsesionado Contigo](https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Obsesionado Contigo](https://open.spotify.com/album/2Ok43A9PgC9F6pqHXp4UWV) | 2:11 |
+| 35 | [Obsesionado Contigo](https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Obsesionado Contigo](https://open.spotify.com/album/2Ok43A9PgC9F6pqHXp4UWV) | 2:11 |
+| 36 | [Rosita Lean](https://open.spotify.com/track/3n0jLga7AMhPpL2E2sEhAo) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Rosita Lean](https://open.spotify.com/album/2qDUgdjgjYzlwIy3f1aavG) | 1:31 |
 | 37 | [No Me Quiero Morir](https://open.spotify.com/track/4yzqsGLNuEriKgemEeMjEu) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [No Me Quiero Morir](https://open.spotify.com/album/6jIjHEbtTg8oSOxhU1HdiX) | 2:15 |
 | 38 | [PUM PUM!](https://open.spotify.com/track/3iDvs7VMQVO7IB2oasLRLB) | [Gloory Hole](https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO) | [¡GLORIA EL CENTRO DE REHABILITACION!](https://open.spotify.com/album/4gYKdqjLLwAB0edudEYR8j) | 2:38 |
 | 39 | [cash cash](https://open.spotify.com/track/6EzomjCdOsOBJna2gFxJ6Q) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [T.V ADDICT](https://open.spotify.com/album/6KfTjOfKY3UKBHeonlTH8K) | 2:41 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 43 | [Tu Consentido](https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [Tu Consentido](https://open.spotify.com/album/2CUjxJCHuHkd1PpWWvsp3J) | 3:10 |
 | 44 | [114](https://open.spotify.com/track/5reFj6CzqTHOkdyCklBBU5) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp) | [114](https://open.spotify.com/album/6FtUyWYm2cF60ST9W5l8yZ) | 3:12 |
 | 45 | [veranito2k](https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [veranito2k](https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG) | 2:40 |
-| 46 | [Me Levanté de la Cama](https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Me Levanté de la Cama](https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc) | 3:02 |
-| 47 | [Verano Cruel](https://open.spotify.com/track/7cD9XsdYgNoKMdAVFak7y9) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Verano Cruel](https://open.spotify.com/album/3IrYOrtOpokQ3q3xSg37WW) | 2:51 |
+| 46 | [Verano Cruel](https://open.spotify.com/track/7cD9XsdYgNoKMdAVFak7y9) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Verano Cruel](https://open.spotify.com/album/3IrYOrtOpokQ3q3xSg37WW) | 2:51 |
+| 47 | [Me Levanté de la Cama](https://open.spotify.com/track/4V0aNgN7GJUTE59i7MvWnj) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Me Levanté de la Cama](https://open.spotify.com/album/1bn2Cjy3WmM0F3d6x37Bvc) | 3:02 |
 | 48 | [MAMI DÓNDESTÁS?](https://open.spotify.com/track/2BT0VEE5A8kj01Xl6LaM1u) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [MAMI DÓNDESTÁS?](https://open.spotify.com/album/6MT747J1IrkZCseX2Immmw) | 2:23 |
 | 49 | [Cumbia Psicópata](https://open.spotify.com/track/5O9v2v8maQtg6s4J1mjuPY) | [Insulini](https://open.spotify.com/artist/41f5h5dLeXaQszzuoNAGYE) | [Cumbia Psicópata](https://open.spotify.com/album/3kmi764fRGYOBYEY5AZrfL) | 3:00 |
 | 50 | [Voz en el Mar](https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Voz en el Mar](https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb) | 3:14 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 70 | [Viento Feroz](https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Viento Feroz](https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X) | 3:16 |
 | 71 | [ILÓGICO](https://open.spotify.com/track/2ain46lL2sjUK5n2Ga0tdv) | [Luis Figueroa](https://open.spotify.com/artist/7fDr7tMkSGgH1KZCCybxzf) | [ILÓGICO](https://open.spotify.com/album/5hheRnvNp16dtTEJKgNg7E) | 3:03 |
 | 72 | [Llueve Sobre La Ciudad](https://open.spotify.com/track/3YUg0FYvaM5uuVYT3IlMNQ) | [El Danny Padilla](https://open.spotify.com/artist/2UJvfUojwzaFvZmxbMtjzg) | [Exitos Ajenos, Vol\. 1](https://open.spotify.com/album/0TonMYiG2DK3b8oBSe8Yaw) | 3:26 |
-| 73 | [UN DÍA INOLVIDABLE](https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH), [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [UN DÍA INOLVIDABLE](https://open.spotify.com/album/2gebtTNWr7VKAJxpduDhXK) | 3:11 |
-| 74 | [Hesitated](https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Hesitated](https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp) | 2:40 |
-| 75 | [MI D](https://open.spotify.com/track/78UCRREwnCspGmSX6njy35) | [Roby Damian](https://open.spotify.com/artist/1ZZuCXECSRpnxKceMooLk5) | [REGGAETON CUTE \(VOL\. 2\)](https://open.spotify.com/album/0kjy8jkLfjNuLpsD0IYcC7) | 2:38 |
+| 73 | [Hesitated](https://open.spotify.com/track/1fnuYWqNsBCiESuFshooZP) | [Jack Rabbit](https://open.spotify.com/artist/2jL9dVkE0xmhsIn0QsNvIp) | [Hesitated](https://open.spotify.com/album/5ywgK5eO82SBdjksTyMobp) | 2:40 |
+| 74 | [UN DÍA INOLVIDABLE](https://open.spotify.com/track/1oE3XNRIn02bCdf3WwaWbI) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH), [NETO ROXS](https://open.spotify.com/artist/72tQXlolJ2rcObhahYgIvJ) | [UN DÍA INOLVIDABLE](https://open.spotify.com/album/2gebtTNWr7VKAJxpduDhXK) | 3:11 |
+| 75 | [Altamar](https://open.spotify.com/track/45Vk2ZZEtqTIucIiHb9rHV) | [Cross MX](https://open.spotify.com/artist/7g54DTnLOS70qX8oOrUnBN), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8) | [CATARSIS](https://open.spotify.com/album/0XqgxZJoR52pM3fHDJJjqP) | 2:29 |
 
 Snapshot ID: `AAAAAJeDvEIvIag87x0QOKRwWLWkjAHe`

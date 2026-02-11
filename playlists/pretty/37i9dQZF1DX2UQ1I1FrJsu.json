@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 143565,
+  "num_followers": 143628,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Let My People Go",
-        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
       "artists": [
         {
-          "name": "Darondo",
-          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
         }
       ],
-      "duration_ms": 209160,
-      "name": "Didn't I",
-      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
+      "duration_ms": 166179,
+      "name": "Are You Looking Up",
+      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+        "name": "Let My People Go",
+        "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
       "artists": [
         {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+          "name": "Darondo",
+          "url": "https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc"
         }
       ],
-      "duration_ms": 166179,
-      "name": "Are You Looking Up",
-      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
+      "duration_ms": 209160,
+      "name": "Didn't I",
+      "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
+        "name": "Radio Retaliation",
+        "url": "https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Sweet Tides",
+      "url": "https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "Radio Retaliation",
-        "url": "https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 288933,
-      "name": "Sweet Tides",
-      "url": "https://open.spotify.com/track/6BlJSNxgtngyE6WAVY87NT"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 229477,
-      "name": "There Will Be No Crying",
-      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
         "name": "Yesterday's Gone",
         "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 194426,
       "name": "Ain't Nothing Changed",
       "url": "https://open.spotify.com/track/5dvpipXxOIH96gcGEKR1Iu"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "There Will Be No Crying",
+      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
+        "name": "Untitled (Rise)",
+        "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 305829,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
       },
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Untitled (Rise)",
-        "url": "https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF"
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 305829,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb"
+      "duration_ms": 110526,
+      "name": "la luna enamorada",
+      "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1663,22 +1679,6 @@
       "duration_ms": 237600,
       "name": "YoSoyMatt (feat. Hermanu)",
       "url": "https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 110526,
-      "name": "la luna enamorada",
-      "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
     },
     {
       "added_at": "2026-02-06 05:00:44",

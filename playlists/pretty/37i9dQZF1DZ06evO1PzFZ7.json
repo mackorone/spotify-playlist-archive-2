@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152103,
+  "num_followers": 152104,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABSgvToq+XESbhPbyF3AR07",
+  "snapshot_id": "aYkjgAAAAABkc8N2chPuEprRXPZAA/Aj",
   "tracks": [
     {
       "added_at": null,
@@ -755,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aguachile",
-        "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
+        "name": "Yuri y Sus Amigos del Regional Mexicano",
+        "url": "https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V"
       },
       "artists": [
         {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 182858,
-      "name": "CASTIGO",
-      "url": "https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA"
+      "duration_ms": 226032,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
     },
     {
       "added_at": null,
@@ -791,22 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yuri y Sus Amigos del Regional Mexicano",
-        "url": "https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V"
+        "name": "Aguachile",
+        "url": "https://open.spotify.com/album/6G5UTGp9bHYZkGCiVDcknp"
       },
       "artists": [
         {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
         },
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 226032,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE"
+      "duration_ms": 182858,
+      "name": "CASTIGO",
+      "url": "https://open.spotify.com/track/1x0S0tqbakof1xny43nOSA"
     },
     {
       "added_at": null,

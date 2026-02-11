@@ -1541,6 +1541,32 @@
     },
     {
       "album": {
+        "name": "70/30 (Single)",
+        "url": "https://open.spotify.com/album/430y8VoyRuJbMSCHGfwHS4"
+      },
+      "artists": [
+        {
+          "name": "Nekxum",
+          "url": "https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c"
+        },
+        {
+          "name": "Javiielo",
+          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224530,
+      "name": "70/30",
+      "url": "https://open.spotify.com/track/2vcXgYcaagTIhcXCYGNSlE"
+    },
+    {
+      "album": {
         "name": "ALMA",
         "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
       },
@@ -1826,7 +1852,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 203142,
       "name": "A LO GANTER",
       "url": "https://open.spotify.com/track/2z4OpdR7GVZ41fvS2xOafx"
@@ -3932,6 +3958,24 @@
       "duration_ms": 139673,
       "name": "Alta Gama",
       "url": "https://open.spotify.com/track/0A9tKdUOauWHIjz1SAO3jA"
+    },
+    {
+      "album": {
+        "name": "Alta y serena",
+        "url": "https://open.spotify.com/album/3rvf5QWbk7sVYj0hgJJf3W"
+      },
+      "artists": [
+        {
+          "name": "OneTapes1950s",
+          "url": "https://open.spotify.com/artist/0FTPrYYQzYcNlx9GnKvFqB"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Alta y serena",
+      "url": "https://open.spotify.com/track/0KZwSfQBCb4NonnJtJy1Zg"
     },
     {
       "album": {
@@ -9842,7 +9886,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 275293,
       "name": "Bonita Bonita",
       "url": "https://open.spotify.com/track/5oGK9Yr2EzKMb27Jpr5hpL"
@@ -10066,6 +10110,32 @@
       "duration_ms": 204981,
       "name": "BORRACHA",
       "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
+    },
+    {
+      "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "BOTA",
+      "url": "https://open.spotify.com/track/1mRqeViSSY5ir944Xp9p2j"
     },
     {
       "album": {
@@ -11372,7 +11442,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 270697,
       "name": "Canasteo",
       "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
@@ -20228,7 +20298,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -29995,6 +30065,24 @@
     },
     {
       "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
+    },
+    {
+      "album": {
         "name": "Dos",
         "url": "https://open.spotify.com/album/46uZCKwuDk9FY6urFLAVxS"
       },
@@ -31042,6 +31130,24 @@
       "duration_ms": 128738,
       "name": "HYPNOTIC DATA",
       "url": "https://open.spotify.com/track/26wxtmoH4uPUF1n5VlPxMc"
+    },
+    {
+      "album": {
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
     },
     {
       "album": {
@@ -36250,6 +36356,24 @@
       "duration_ms": 367146,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/1VCJ7vk3Y2DoJIAEOXe3V8"
+    },
+    {
+      "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Last of a Dying Breed",
+      "url": "https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q"
     },
     {
       "album": {
@@ -41753,6 +41877,24 @@
     },
     {
       "album": {
+        "name": "Bronceado de Cantina",
+        "url": "https://open.spotify.com/album/0vtjEMYlSEV9FkBYg8HVUy"
+      },
+      "artists": [
+        {
+          "name": "Macha Y El Bloque Depresivo",
+          "url": "https://open.spotify.com/artist/1pdmhuBAqiOFaFuXRvLoyy"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162120,
+      "name": "Me vas a extra\u00f1ar",
+      "url": "https://open.spotify.com/track/7MgXNpAdxeeYDBq95g88IE"
+    },
+    {
+      "album": {
         "name": "Me Veo Rico",
         "url": "https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G"
       },
@@ -45884,7 +46026,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 153750,
       "name": "M\u00e1s linda que ayer",
       "url": "https://open.spotify.com/track/4mmg0bHtwihahCotqiqx7T"
@@ -62180,7 +62322,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 188589,
       "name": "Sin Ilusiones",
       "url": "https://open.spotify.com/track/5QzQIzAdo2gN6iDRNRBKA6"
@@ -62836,7 +62978,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -64260,7 +64402,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
@@ -68720,7 +68862,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 192064,
       "name": "Todo Lo Fue",
       "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"

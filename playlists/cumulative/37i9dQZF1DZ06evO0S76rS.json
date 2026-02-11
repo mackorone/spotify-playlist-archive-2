@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Barranquilla Est\u00e1 De Moda",
+        "url": "https://open.spotify.com/album/4aKBp8ipnnJk25s5QgIcY0"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227360,
+      "name": "Barranquilla Est\u00e1 De Moda",
+      "url": "https://open.spotify.com/track/168R1Z55BafUjCwjJk3oHT"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo Hits",
         "url": "https://open.spotify.com/album/3lIJD63zpiEC1qgk0t1dZA"
       },
@@ -582,7 +600,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 338964,
       "name": "Digo Yo",
       "url": "https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU"

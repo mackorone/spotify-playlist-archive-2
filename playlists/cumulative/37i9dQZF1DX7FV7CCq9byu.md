@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,476 songs - 3 day 3 hr 22 min
+1,477 songs - 3 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1442,6 +1442,7 @@
 | [Who are you?](https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn) | 2:31 | 2025-01-17 | 2025-03-14 |
 | [Who Knows](https://open.spotify.com/track/31P3lzjtP65naJF9LLnY2n) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Who Knows](https://open.spotify.com/album/1yFSk5BGw4B2fDnwJ7hulw) | 2:51 | 2025-05-08 | 2025-06-13 |
 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 | 2024-10-17 | 2024-11-23 |
+| [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 | 2026-02-10 |  |
 | [Whole Damn Summer](https://open.spotify.com/track/3ArB9nvOdiTAYyfgjEojrg) | [Kiana](https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g) | [Whole Damn Summer](https://open.spotify.com/album/6pbrBaGrAjelkXqXUOvFUf) | 2:42 | 2024-06-27 | 2024-08-23 |
 | [Why Is She Still Here?](https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Why Is She Still Here?](https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq) | 2:30 | 2025-07-17 | 2025-09-05 |
 | [Why Keep Trying?](https://open.spotify.com/track/2ZN7xICw1NCMvDffky7Crj) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [Why Keep Trying?](https://open.spotify.com/album/3UUWAoL4MspBet1B7lNJNX) | 3:42 | 2025-03-06 | 2025-04-11 |

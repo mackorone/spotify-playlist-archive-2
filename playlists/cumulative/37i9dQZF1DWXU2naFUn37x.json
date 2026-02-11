@@ -4669,7 +4669,7 @@
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 156382,
+      "duration_ms": 137872,
       "name": "CELEBRIT\u00c0 (feat. Papa V & Nerissima Serpe)",
       "url": "https://open.spotify.com/track/2yImdlsk2aGNxpkJwZTv9f"
     },
@@ -7558,6 +7558,28 @@
       "duration_ms": 120000,
       "name": "FINCH\u00c9 NON ARRIVA LA BELLA VITA",
       "url": "https://open.spotify.com/track/3UAqmfO3U40eRAM8Cy8dbR"
+    },
+    {
+      "album": {
+        "name": "FINEST (feat. Tedua)",
+        "url": "https://open.spotify.com/album/5chGbKyqrrNdkljmYQgIG3"
+      },
+      "artists": [
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135666,
+      "name": "FINEST (feat. Tedua)",
+      "url": "https://open.spotify.com/track/5VuEZjUveMohvOpiIZOAr3"
     },
     {
       "album": {
@@ -14382,10 +14404,6 @@
         {
           "name": "Flaco G",
           "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
-        },
-        {
-          "name": "Idua",
-          "url": "https://open.spotify.com/artist/1a7b1Lrgvn3bKAs23oCI5b"
         }
       ],
       "date_added": "2025-12-12",

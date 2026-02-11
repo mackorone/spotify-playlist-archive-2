@@ -1,6 +1,6 @@
 {
   "description": "To all the 7abieb out there. Cover:  Tamer Ashour.",
-  "num_followers": 208471,
+  "num_followers": 208499,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-10-08 07:02:25",
       "album": {
-        "name": "Sabran",
-        "url": "https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X"
-      },
-      "artists": [
-        {
-          "name": "AL SHAMI",
-          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Sabran",
-      "url": "https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae"
-    },
-    {
-      "added_at": "2025-10-08 07:02:25",
-      "album": {
         "name": "Ya Ayech Bi Oyouni",
         "url": "https://open.spotify.com/album/58bJrHDzBpbByyqV3WMqCH"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 242760,
       "name": "Ma Baaref",
       "url": "https://open.spotify.com/track/3o33CncxOfTLMYcGAIND9t"
+    },
+    {
+      "added_at": "2025-10-08 07:02:25",
+      "album": {
+        "name": "Sabran",
+        "url": "https://open.spotify.com/album/17b30vKiI4h0MzAokaF83X"
+      },
+      "artists": [
+        {
+          "name": "AL SHAMI",
+          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Sabran",
+      "url": "https://open.spotify.com/track/682Rtn75JGXSwDR8h0Fqae"
     },
     {
       "added_at": "2025-10-08 07:02:25",
@@ -963,26 +963,6 @@
     {
       "added_at": "2025-10-08 07:02:25",
       "album": {
-        "name": "Red Bull Sika",
-        "url": "https://open.spotify.com/album/4C2MYpwVnY9eI16REXuX66"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        },
-        {
-          "name": "Malak",
-          "url": "https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf"
-        }
-      ],
-      "duration_ms": 180599,
-      "name": "Nerga3 Le Awel Yom",
-      "url": "https://open.spotify.com/track/4vvC2mzVHEpN5sif3H3uk5"
-    },
-    {
-      "added_at": "2025-10-08 07:02:25",
-      "album": {
         "name": "El Hob Dayaani",
         "url": "https://open.spotify.com/album/4GQkyZMC7NjgtfMwdIkWrs"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 190581,
       "name": "El Hob Dayaani",
       "url": "https://open.spotify.com/track/1d8a7PXLEjkTtEuz5hWuv2"
+    },
+    {
+      "added_at": "2025-10-08 07:02:25",
+      "album": {
+        "name": "Habibi Elli",
+        "url": "https://open.spotify.com/album/5aSjZMQpfrCBnGodq3u0Xo"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Chaker",
+          "url": "https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0"
+        },
+        {
+          "name": "Rima Yussef",
+          "url": "https://open.spotify.com/artist/44AnhJxSH9AE3b6KpO5rZl"
+        }
+      ],
+      "duration_ms": 251294,
+      "name": "Habibi Elli",
+      "url": "https://open.spotify.com/track/6WMT7X0aCuWHrNWzPng4BS"
     }
   ],
   "unique_name": "Arabic Love Songs",

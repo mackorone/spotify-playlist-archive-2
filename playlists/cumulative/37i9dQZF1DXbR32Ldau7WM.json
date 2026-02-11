@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: UVERworld",
+  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: Quruli \u304f\u308b\u308a",
   "name": "Rock Strike Japan",
   "tracks": [
     {
@@ -3888,7 +3888,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 196502,
       "name": "Everblack (feat. David Simonich)",
       "url": "https://open.spotify.com/track/4zngVa4uioPfsuDonRuXHv"
@@ -15786,6 +15786,24 @@
       "duration_ms": 238534,
       "name": "Vengeance",
       "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209610,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/3KYcUhGvlF0t0Zyj3qAHCV"
     },
     {
       "album": {

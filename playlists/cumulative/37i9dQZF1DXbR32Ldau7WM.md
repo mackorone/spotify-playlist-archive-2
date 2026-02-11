@@ -2,9 +2,9 @@
 
 ### [Rock Strike Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> J\-Rock acts who have broken the border and are making global impact\.   Cover: UVERworld
+> J\-Rock acts who have broken the border and are making global impact\.   Cover: Quruli くるり
 
-1,491 songs - 4 day 1 hr 37 min
+1,492 songs - 4 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [ETERNAL](https://open.spotify.com/track/3HE753A8uCfdNBPFCRRbmY) | [Kiyoharu](https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A) | [ETERNAL](https://open.spotify.com/album/2RoIU7aELUTrkGnN77W4Ns) | 4:47 | 2024-03-12 | 2024-04-19 |
 | [ETERNAL](https://open.spotify.com/track/4MLsKopLnvzWwAwDWnR2op) | [Kiyoharu](https://open.spotify.com/artist/1Jt0plJvCjpJ956Y8p1E7A) | [ETERNAL](https://open.spotify.com/album/2YIeAJSBcMSFPrgGW88nnu) | 4:47 | 2024-03-05 | 2024-03-24 |
 | [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 | 2026-02-05 |  |
-| [Everblack \(feat\. David Simonich\)](https://open.spotify.com/track/4zngVa4uioPfsuDonRuXHv) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX), [David Simonich](https://open.spotify.com/artist/4VfRlW2jlturNdkawu7dmI) | [The Weight of Sound](https://open.spotify.com/album/5NXDBIwFFXf0ty5mN8KBkP) | 3:16 | 2026-02-05 |  |
+| [Everblack \(feat\. David Simonich\)](https://open.spotify.com/track/4zngVa4uioPfsuDonRuXHv) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX), [David Simonich](https://open.spotify.com/artist/4VfRlW2jlturNdkawu7dmI) | [The Weight of Sound](https://open.spotify.com/album/5NXDBIwFFXf0ty5mN8KBkP) | 3:16 | 2026-02-05 | 2026-02-11 |
 | [Everything With You](https://open.spotify.com/track/1Q6e1o8Dy3H8wG0RGahl2t) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 3:58 | 2022-11-22 | 2022-12-14 |
 | [EVERYWHERE](https://open.spotify.com/track/3o9IoxPIqhflWJjR0Tiyo0) | [INABA / SALAS](https://open.spotify.com/artist/2jrmtlq6cZjytdgG8xW6BG) | [EVERYWHERE](https://open.spotify.com/album/7D9c3Csn8B0qtw7I0JCTPo) | 3:37 | 2025-02-18 | 2025-03-19 |
 | [EVIL](https://open.spotify.com/track/4VB2FmoiZ1y5FXLJ3NX9eB) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 3:35 | 2025-08-19 | 2025-09-04 |
@@ -860,6 +860,7 @@
 | [Vandalize \- Japanese Version](https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Vandalize](https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a) | 3:14 | 2022-09-06 | 2022-11-13 |
 | [Vanilla](https://open.spotify.com/track/0ScnRmW5aehQSRTbHSBMS8) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [Vanilla](https://open.spotify.com/album/3gpNbqNmHS6M3jIrcg05DW) | 3:15 | 2023-01-17 | 2023-02-01 |
 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 | 2024-02-13 | 2025-04-30 |
+| [Venus](https://open.spotify.com/track/3KYcUhGvlF0t0Zyj3qAHCV) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [](https://open.spotify.com/album/null) | 3:29 | 2026-02-10 |  |
 | [Vertigo](https://open.spotify.com/track/5WqrUkIkSR3MWcJq18bJ6Y) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [XV e.p.](https://open.spotify.com/album/3XovZ522dgqvzUynQ1Ja9u) | 4:18 | 2025-03-11 | 2025-04-09 |
 | [Very Special](https://open.spotify.com/track/3LXHBMFOo9h9BemsSp9NDq) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Very Special](https://open.spotify.com/album/2QzJ56blkzDzS50a9xZcNa) | 3:03 | 2022-11-29 | 2022-12-21 |
 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 | 2022-05-10 | 2024-07-03 |

@@ -1,6 +1,6 @@
 {
   "description": "A mix of punk rock to get you through your workout.",
-  "num_followers": 544411,
+  "num_followers": 544420,
   "original_name": "Punk Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -615,18 +615,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Mindreader",
-        "url": "https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ"
+        "name": "deathwish (feat. nothing,nowhere.)",
+        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
         }
       ],
-      "duration_ms": 173520,
-      "name": "Mindreader",
-      "url": "https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX"
+      "duration_ms": 147907,
+      "name": "deathwish (feat. nothing,nowhere.)",
+      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -647,22 +651,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "deathwish (feat. nothing,nowhere.)",
-        "url": "https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw"
+        "name": "Mindreader",
+        "url": "https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 147907,
-      "name": "deathwish (feat. nothing,nowhere.)",
-      "url": "https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O"
+      "duration_ms": 173520,
+      "name": "Mindreader",
+      "url": "https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Degenerates",
-        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Degenerates",
-      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Afraid of Heights (Deluxe Version)",
         "url": "https://open.spotify.com/album/2kqjqQneZx935suPAhokuj"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 146436,
       "name": "Jurassic Park",
       "url": "https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Degenerates",
+        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Degenerates",
+      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "INTERNATIONALLY UNKNOWN",
-        "url": "https://open.spotify.com/album/5xRIjNGS3sXzJ4E6TCQmYd"
-      },
-      "artists": [
-        {
-          "name": "RAT BOY",
-          "url": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC"
-        }
-      ],
-      "duration_ms": 134941,
-      "name": "I WANNA SKATE",
-      "url": "https://open.spotify.com/track/4ZuMFVVmGmnxPbqWGKecca"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Steady Glow",
         "url": "https://open.spotify.com/album/7xXGabh3KEE6qt7pk9iro3"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 210750,
       "name": "Serotonin",
       "url": "https://open.spotify.com/track/7JeIpiCXappsI31Mg4BcWz"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "INTERNATIONALLY UNKNOWN",
+        "url": "https://open.spotify.com/album/5xRIjNGS3sXzJ4E6TCQmYd"
+      },
+      "artists": [
+        {
+          "name": "RAT BOY",
+          "url": "https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC"
+        }
+      ],
+      "duration_ms": 134941,
+      "name": "I WANNA SKATE",
+      "url": "https://open.spotify.com/track/4ZuMFVVmGmnxPbqWGKecca"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
+        "name": "THE FIRST TEST",
+        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
+      },
+      "artists": [
+        {
+          "name": "Speed",
+          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
+        }
+      ],
+      "duration_ms": 134224,
+      "name": "THE FIRST TEST",
+      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
         "name": "Letter to Self",
         "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 239237,
       "name": "Hit Like A Girl",
       "url": "https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
-        "name": "THE FIRST TEST",
-        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
-      },
-      "artists": [
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
-        }
-      ],
-      "duration_ms": 134224,
-      "name": "THE FIRST TEST",
-      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
+        "name": "What Are We Standing For",
+        "url": "https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK"
       },
       "artists": [
         {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 182266,
-      "name": "Won't Give Up The Fight",
-      "url": "https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3"
+      "duration_ms": 173600,
+      "name": "What Are We Standing For",
+      "url": "https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "What Are We Standing For",
-        "url": "https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK"
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
       "artists": [
         {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 173600,
-      "name": "What Are We Standing For",
-      "url": "https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk"
+      "duration_ms": 182266,
+      "name": "Won't Give Up The Fight",
+      "url": "https://open.spotify.com/track/60O4BYfrtOOcq9rywcEyi3"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "SIGNED and SEALED in BLOOD",
-        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 306520,
-      "name": "Rose Tattoo",
-      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 187655,
       "name": "Cop Outs and Cover Ups",
       "url": "https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "SIGNED and SEALED in BLOOD",
+        "url": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 306520,
+      "name": "Rose Tattoo",
+      "url": "https://open.spotify.com/track/4bLKGUkVRxIyrN1770DdDm"
     },
     {
       "added_at": "2024-07-19 11:53:42",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-19 11:53:42",
       "album": {
-        "name": "Nothing",
-        "url": "https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 178989,
-      "name": "Nothing",
-      "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
-    },
-    {
-      "added_at": "2024-07-19 11:53:42",
-      "album": {
         "name": "A Beautiful Place To Drown",
         "url": "https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 190000,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/7zziAaDRIHcKWSBC4DTAZZ"
+    },
+    {
+      "added_at": "2024-07-19 11:53:42",
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 178989,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv"
     },
     {
       "added_at": "2024-07-19 11:53:42",

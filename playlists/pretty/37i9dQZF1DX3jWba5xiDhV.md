@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,508 likes - 75 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,624 likes - 75 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 14 | [Vamos a la Playa](https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:37 |
 | 15 | [Insieme](https://open.spotify.com/track/4DSjwylMkecSMTG4Xxa0Bj) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Insieme](https://open.spotify.com/album/2UyUMOvrS4GzC8Zrc7UYLm) | 3:05 |
 | 16 | [Amore No \- Remix](https://open.spotify.com/track/4kS6IGvg5hpIljAjeBXyES) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Amore No \(Remix\)](https://open.spotify.com/album/7siFsVqJah96pV20WNfkvU) | 3:02 |
-| 17 | [I Need You Tonight](https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx) | [Punkin Machine](https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK) | [I Need You Tonite / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 5:38 |
+| 17 | [Hypnotic Tango \- Original 12" Version](https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID) | [My Mine](https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o) | [Hypnotic Tango](https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C) | 6:09 |
 | 18 | [Luna Manga](https://open.spotify.com/track/44YVqCyXdmfPgxykjnzUkw) | [Eternal Love](https://open.spotify.com/artist/6RGEvodcU9SrSfrnvIOSTl) | [Ritmomento](https://open.spotify.com/album/7p7sdHAqivaTObw64x5xoc) | 4:42 |
-| 19 | [Hypnotic Tango \- Original 12" Version](https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID) | [My Mine](https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o) | [Hypnotic Tango](https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C) | 6:09 |
+| 19 | [I Need You Tonight](https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx) | [Punkin Machine](https://open.spotify.com/artist/7oc9zyI7Oi70GGiz7B6LVK) | [I Need You Tonite / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 5:38 |
 | 20 | [Reset](https://open.spotify.com/track/69XBLvNPFQZPEFtQvmhDes) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF), [Coloray](https://open.spotify.com/artist/6a3p6ZKDkTzrVbloxkD73E) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 5:52 |
 | 21 | [Disco Sole](https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Nuova Napoli](https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD) | 4:23 |
 | 22 | [Croccante](https://open.spotify.com/track/4GFe5vaZYjORRV0pBt66Ya) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Bruno Belissimo](https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Croccante](https://open.spotify.com/album/0K95zImK465Wa8M0AZLcPJ) | 2:33 |

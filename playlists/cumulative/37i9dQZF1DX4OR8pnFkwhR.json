@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: OSHIKIKEIGO",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u30e4\u30f3\u30b0\u30b9\u30ad\u30cb\u30fc",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -2726,7 +2726,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 249100,
       "name": "Blue age",
       "url": "https://open.spotify.com/track/6ntXvzVRFfhIglEbNcv1a7"
@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 157139,
       "name": "BOUNCE (feat. C.O.S.A.)",
       "url": "https://open.spotify.com/track/0yMqE8BPui92vB2It7NpWJ"
@@ -11079,6 +11079,24 @@
     },
     {
       "album": {
+        "name": "EYE",
+        "url": "https://open.spotify.com/album/0SxFKQ1SqA3SF9EPcSG5E0"
+      },
+      "artists": [
+        {
+          "name": "NOMELON NOLEMON",
+          "url": "https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "KILLERMOON",
+      "url": "https://open.spotify.com/track/5Zgu2pFwTgpTzMdyjNpII1"
+    },
+    {
+      "album": {
         "name": "Supply/Demand",
         "url": "https://open.spotify.com/album/66GKqO8pdJu5J32LyIqZ2v"
       },
@@ -13035,6 +13053,24 @@
     },
     {
       "album": {
+        "name": "MERMAID",
+        "url": "https://open.spotify.com/album/6Fj7mkeJYB0xedAE9Z0nfo"
+      },
+      "artists": [
+        {
+          "name": "Meg Bonus",
+          "url": "https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227739,
+      "name": "MERMAID",
+      "url": "https://open.spotify.com/track/0e92rOquxmNrIGTJoPphGq"
+    },
+    {
+      "album": {
         "name": "Mermaid",
         "url": "https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F"
       },
@@ -14062,7 +14098,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 92893,
       "name": "Nah \u3060",
       "url": "https://open.spotify.com/track/6V2f3APqea1JU5g7c2Z3zr"
@@ -19689,6 +19725,24 @@
     },
     {
       "album": {
+        "name": "Stack",
+        "url": "https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG"
+    },
+    {
+      "album": {
         "name": "stage",
         "url": "https://open.spotify.com/album/56oBF9FFbxn2yy7bGvS93d"
       },
@@ -19884,6 +19938,24 @@
       "duration_ms": 163608,
       "name": "stay tune",
       "url": "https://open.spotify.com/track/7n3UucbScaMCOHayTBcyaX"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2026-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "stay with me",
+      "url": "https://open.spotify.com/track/1smgzMnfgCPrp1UagrgOjO"
     },
     {
       "album": {
@@ -32426,7 +32498,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 156561,
       "name": "\u5225\u306b",
       "url": "https://open.spotify.com/track/6GTWbbbPZeRP3h9xdsp1Qh"

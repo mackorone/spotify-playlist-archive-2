@@ -4,7 +4,7 @@
 
 > Shake up your wake up with a selection of feel good songs that will get you bouncing out the door.
 
-1,523 songs - 3 day 14 hr 22 min
+1,524 songs - 3 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Dirty Sexy Money \(feat\. Charli XCX & French Montana\)](https://open.spotify.com/track/0tPQPaOKM32WgMSbPCYyRH) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Dirty Sexy Money \(feat\. Charli XCX & French Montana\)](https://open.spotify.com/album/613u1KxcevDq5Kd8j0zD2U) | 2:52 | 2019-07-31 | 2019-08-09 |
 | [Disco Cowgirl](https://open.spotify.com/track/3ShZPsqNw5P6AxqEzWcgMp) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Disco Cowgirl](https://open.spotify.com/album/0xnQxuzAjBDkab4zPtFwOh) | 3:25 | 2025-05-26 | 2025-06-24 |
 | [disco tits](https://open.spotify.com/track/6E1dxU9KL2FYgjv8hM54Dx) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [BLUE LIPS \(lady wood phase II\)](https://open.spotify.com/album/3nB6kz45Z9N6MU8uYghdev) | 3:43 | 2019-07-29\* | 2019-08-27 |
-| [Divine Feelings](https://open.spotify.com/track/06le8jEsKxtLkbB1veBrRx) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/2k9nGCstGHGdMhRqTlImN0) | 3:28 | 2025-09-16 |  |
+| [Divine Feelings](https://open.spotify.com/track/06le8jEsKxtLkbB1veBrRx) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/2k9nGCstGHGdMhRqTlImN0) | 3:28 | 2025-09-16 | 2026-02-11 |
 | [Do I Need To Know What Love Is? \(feat\. Josh Teskey\)](https://open.spotify.com/track/0TEEKxwbiFzWsgz8bNiv5R) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Do I Need To Know What Love Is? \(feat\. Josh Teskey\)](https://open.spotify.com/album/71D9MrSKeTKlyEn8btYGlv) | 3:30 | 2024-10-31 | 2024-11-19 |
 | [Do It Again](https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Do It Again](https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv) | 3:27 | 2019-07-29\* | 2019-08-09 |
 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 | 2022-04-01 | 2022-04-03 |
@@ -1470,6 +1470,7 @@
 | [WHATEVERWHATEVER](https://open.spotify.com/track/5HiyqL9aXOxGn0ORd6ua13) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [WHATEVERWHATEVER](https://open.spotify.com/album/5nCl0anzakUn8ycOHqYFne) | 2:28 | 2025-05-26 | 2025-06-24 |
 | [Wheels](https://open.spotify.com/track/3KsatAMRt1a7iryhWt5I8U) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:38 | 2021-03-15 | 2022-04-21 |
 | [When I'm With Him](https://open.spotify.com/track/5Nqm4oYBZ8ldrRbvTsKCZg) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [When I'm With Him](https://open.spotify.com/album/3nW2S00lbIIgOn6sP7LHAM) | 3:13 | 2019-07-29\* | 2022-04-08 |
+| [When We Were Young](https://open.spotify.com/track/3Up4Umt7RGaKsmU6aUpAlR) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [When We Were Young](https://open.spotify.com/album/1Zf7IoTfjpHBfk1baVolew) | 3:08 | 2026-02-10 |  |
 | [When You Leave](https://open.spotify.com/track/4gK4g9BSjc0s8oF8nlUbJ9) | [Nikki Vianna](https://open.spotify.com/artist/5YyGLejM00snCF1RJKlocJ), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [When You Leave](https://open.spotify.com/album/65pFV6D3AOxq5T8UN5lTiO) | 2:53 | 2021-03-07 | 2022-04-20 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-05 | 2023-01-30 |
 | [Whenever \(feat\. Conor Maynard\)](https://open.spotify.com/track/3DGar7krWlmrXRFHBcQF6z) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [The Boy Next Door](https://open.spotify.com/artist/4QfOh8rJ0OddhhXHD5QyWs), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Whenever \(feat\. Conor Maynard\)](https://open.spotify.com/album/5so9rCf7p2L6w6o4KZahE9) | 2:43 | 2021-03-22 | 2021-05-24 |

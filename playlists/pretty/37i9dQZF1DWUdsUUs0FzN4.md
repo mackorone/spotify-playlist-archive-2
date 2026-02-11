@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con FLVCKKA y Yeri Mua hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,321 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,325 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 9 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 |
 | 10 | [SiNoMeLloranVivo](https://open.spotify.com/track/28L5hz89OMvfcyu9Ef89wC) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP) | [LA OBSESION, VOL\. 1](https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM) | 2:32 |
 | 11 | [Fancy](https://open.spotify.com/track/21p1eBu4YSjLpaq3HY3Kcv) | [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [Fancy](https://open.spotify.com/album/56bx66S5IACSXarZGq1D2D) | 2:52 |
-| 12 | [mwah :3](https://open.spotify.com/track/0OK4Dhc10O8cTXdesihLGL) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [mwah :3](https://open.spotify.com/album/20mHriSaQYEi1ls1NgV3hK) | 2:02 |
-| 13 | [Super](https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:43 |
+| 12 | [Super](https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:43 |
+| 13 | [mwah :3](https://open.spotify.com/track/0OK4Dhc10O8cTXdesihLGL) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [mwah :3](https://open.spotify.com/album/20mHriSaQYEi1ls1NgV3hK) | 2:02 |
 | 14 | [So what we get drunk? \- Extended Version](https://open.spotify.com/track/7zFPAd3w2ca2QD8syuo7D5) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [So what we get drunk? \(Extended Version\)](https://open.spotify.com/album/2fDTcmDkz4D0LAzbUNdeCy) | 7:04 |
 | 15 | [BOBOMENSOTONTO](https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:01 |
 | 16 | [Siento que merezco más](https://open.spotify.com/track/4Z6pPinNzkGtbgAlE88263) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [TODOS LOS DÍAS TODO EL DÍA](https://open.spotify.com/album/0DMDbZtZT028siJ0GEdLrQ) | 2:45 |

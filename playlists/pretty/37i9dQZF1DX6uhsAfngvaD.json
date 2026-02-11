@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 320434,
+  "num_followers": 320437,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Bad Dream",
+        "url": "https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 202502,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Oncle Jazz",
         "url": "https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK"
       },
@@ -271,18 +287,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Bad Dream",
-        "url": "https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw"
+        "name": "DJ-Kicks: Logic1000",
+        "url": "https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx"
       },
       "artists": [
         {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "Casey MQ",
+          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
         }
       ],
-      "duration_ms": 202502,
-      "name": "Bad Dream",
-      "url": "https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg"
+      "duration_ms": 169997,
+      "name": "Lurk - Mixed",
+      "url": "https://open.spotify.com/track/064kl8lbsGVBN07jKkl014"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -307,26 +327,6 @@
       "duration_ms": 187364,
       "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
       "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "DJ-Kicks: Logic1000",
-        "url": "https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        },
-        {
-          "name": "Casey MQ",
-          "url": "https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8"
-        }
-      ],
-      "duration_ms": 169997,
-      "name": "Lurk - Mixed",
-      "url": "https://open.spotify.com/track/064kl8lbsGVBN07jKkl014"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Face Down In The Garden",
+        "url": "https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq"
+      },
+      "artists": [
+        {
+          "name": "Tennis",
+          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
+        }
+      ],
+      "duration_ms": 252593,
+      "name": "12 Blown Tires",
+      "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Ways To Get Out",
         "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 225848,
       "name": "Our Past Lives",
       "url": "https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Face Down In The Garden",
-        "url": "https://open.spotify.com/album/1oFMLVK71dL1Jpq6aoCoIq"
-      },
-      "artists": [
-        {
-          "name": "Tennis",
-          "url": "https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM"
-        }
-      ],
-      "duration_ms": 252593,
-      "name": "12 Blown Tires",
-      "url": "https://open.spotify.com/track/43sc5VGNzFauUOnepR9VSc"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Ways To Get Out (Deluxe)",
-        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 247866,
-      "name": "Come Down and Waste With Me",
-      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Quite Like You",
         "url": "https://open.spotify.com/album/5mja6AsqxnYjorZZ9eG77X"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 179839,
       "name": "Quite Like You",
       "url": "https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Ways To Get Out (Deluxe)",
+        "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 247866,
+      "name": "Come Down and Waste With Me",
+      "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -731,6 +731,42 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "Back Into Your Arms",
+        "url": "https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO"
+      },
+      "artists": [
+        {
+          "name": "RINSE",
+          "url": "https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0"
+        },
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 263801,
+      "name": "Back Into Your Arms",
+      "url": "https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Falling Apart Without You",
+        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Falling Apart Without You",
+      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "baby\u2019s out of luck again",
         "url": "https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX"
       },
@@ -763,26 +799,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Back Into Your Arms",
-        "url": "https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO"
-      },
-      "artists": [
-        {
-          "name": "RINSE",
-          "url": "https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0"
-        },
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 263801,
-      "name": "Back Into Your Arms",
-      "url": "https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "sulky baby",
         "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 278998,
       "name": "sulky baby",
       "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "Falling Apart Without You",
-        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Falling Apart Without You",
-      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 289800,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "baby's out of luck again",
         "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 289800,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
     },
     {
       "added_at": "2025-05-01 21:52:32",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAAcb9aT/4/RlRcuaEnlUZ/E",
+  "snapshot_id": "aYkjgAAAAABikOEHDzOZeyHg/9DBh8/u",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "Pipa Voada (feat. Emicida)",
+      "url": "https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Sol Tamb\u00e9m Chora",
         "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
       },
@@ -187,26 +211,6 @@
       "duration_ms": 257654,
       "name": "Ven\u00e7a",
       "url": "https://open.spotify.com/track/3dtHGICnmZt45FNHD1s8nf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Baiana",
-      "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
     },
     {
       "added_at": null,
@@ -251,26 +255,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
       "artists": [
         {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 185333,
-      "name": "Pipa Voada (feat. Emicida)",
-      "url": "https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi"
+      "duration_ms": 233320,
+      "name": "Baiana",
+      "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
     },
     {
       "added_at": null,
@@ -418,11 +418,15 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Amaro Freitas",
+          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
         }
       ],
-      "duration_ms": 120410,
-      "name": "A coisa mais esperan\u00e7osa e mais dilacerante s\u00e3o a mesma",
-      "url": "https://open.spotify.com/track/5WuVX5GiUShm29LMxzRE2j"
+      "duration_ms": 162350,
+      "name": "Finado Neguim memo?",
+      "url": "https://open.spotify.com/track/7JyTfeqT0jXjRMmuPh09vZ"
     },
     {
       "added_at": null,
@@ -498,15 +502,31 @@
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Amaro Freitas",
-          "url": "https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679"
         }
       ],
-      "duration_ms": 162350,
-      "name": "Finado Neguim memo?",
-      "url": "https://open.spotify.com/track/7JyTfeqT0jXjRMmuPh09vZ"
+      "duration_ms": 120410,
+      "name": "A coisa mais esperan\u00e7osa e mais dilacerante s\u00e3o a mesma",
+      "url": "https://open.spotify.com/track/5WuVX5GiUShm29LMxzRE2j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa\u00eds do Futebol",
+        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
+      },
+      "artists": [
+        {
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 149002,
+      "name": "Pa\u00eds do Futebol",
+      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
     },
     {
       "added_at": null,
@@ -531,26 +551,6 @@
       "duration_ms": 275555,
       "name": "Leandro Roque",
       "url": "https://open.spotify.com/track/6CloyUaUDsg2gOp51hT9ao"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa\u00eds do Futebol",
-        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
-      },
-      "artists": [
-        {
-          "name": "MC Guime",
-          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 149002,
-      "name": "Pa\u00eds do Futebol",
-      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 232733,
-      "name": "Madagascar",
-      "url": "https://open.spotify.com/track/0FAisOr5R8iaelTo9j6nQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Criolo E Emicida Ao Vivo (Live)",
         "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
       },
@@ -635,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 335600,
-      "name": "Canan\u00e9ia, Iguape e Ilha Comprida",
-      "url": "https://open.spotify.com/track/3aXbjjFVHC86pSZey62vbS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emicidio",
         "url": "https://open.spotify.com/album/7JcUXadRJlfoeo4Nj597CO"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 197746,
       "name": "Eu Gosto Dela",
       "url": "https://open.spotify.com/track/1fQ9v8EmKsTDzcrucB00K9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 232733,
+      "name": "Madagascar",
+      "url": "https://open.spotify.com/track/0FAisOr5R8iaelTo9j6nQ4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 335600,
+      "name": "Canan\u00e9ia, Iguape e Ilha Comprida",
+      "url": "https://open.spotify.com/track/3aXbjjFVHC86pSZey62vbS"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rafa Kabelo",
+          "url": "https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj"
+        }
+      ],
+      "duration_ms": 240117,
+      "name": "Alma G\u00eamea",
+      "url": "https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
@@ -735,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
-        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
       },
       "artists": [
         {
@@ -744,13 +764,13 @@
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Rafa Kabelo",
-          "url": "https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj"
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
         }
       ],
-      "duration_ms": 240117,
-      "name": "Alma G\u00eamea",
-      "url": "https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8"
+      "duration_ms": 312680,
+      "name": "A Cada Vento (feat. Rael) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5PfR5Cm2WcxZMCEej8Muo8"
     },
     {
       "added_at": null,
@@ -771,26 +791,6 @@
       "duration_ms": 243373,
       "name": "A Cada Vento - Live",
       "url": "https://open.spotify.com/track/2e1FJPgVRQZFT53QKUR7BD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Anos de Triunfo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        }
-      ],
-      "duration_ms": 312680,
-      "name": "A Cada Vento (feat. Rael) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5PfR5Cm2WcxZMCEej8Muo8"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 284693,
+      "name": "Ooorra - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
         "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 298226,
       "name": "M\u00e3e",
       "url": "https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Anos de Triunfo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 284693,
-      "name": "Ooorra - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Levanta e Anda",
-        "url": "https://open.spotify.com/album/2N1TNLiSMyJFNvn4zP5XN6"
-      },
-      "artists": [
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 173812,
-      "name": "Levanta e Anda",
-      "url": "https://open.spotify.com/track/0gbRoCASJO6l75d7A5XsXc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mil Coisas",
         "url": "https://open.spotify.com/album/2NMDHZ1pEPkE07103NN30W"
       },
@@ -995,6 +975,22 @@
       "duration_ms": 202800,
       "name": "Mil Coisas",
       "url": "https://open.spotify.com/track/6EAbcrcNWpxJXSZHEw0TbK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "S\u00f3 Isso",
+      "url": "https://open.spotify.com/track/6HWD7W8mDDnSy18GFwuHt7"
     },
     {
       "added_at": null,
@@ -1023,6 +1019,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Levanta e Anda",
+        "url": "https://open.spotify.com/album/2N1TNLiSMyJFNvn4zP5XN6"
+      },
+      "artists": [
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 173812,
+      "name": "Levanta e Anda",
+      "url": "https://open.spotify.com/track/0gbRoCASJO6l75d7A5XsXc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 209480,
       "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "S\u00f3 Isso",
-      "url": "https://open.spotify.com/track/6HWD7W8mDDnSy18GFwuHt7"
     },
     {
       "added_at": null,
@@ -1079,22 +1079,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Criolo E Emicida Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+        "name": "Quintal",
+        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
       },
       "artists": [
         {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
         },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         }
       ],
-      "duration_ms": 211280,
-      "name": "Subirusdoistiozin - Live",
-      "url": "https://open.spotify.com/track/7bLMLwx6gJrCXoppD2YqOu"
+      "duration_ms": 180448,
+      "name": "Melhor Rem\u00e9dio",
+      "url": "https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Sozim",
+      "url": "https://open.spotify.com/track/2l6Cfr8vIkONQJKQRRHnsz"
     },
     {
       "added_at": null,
@@ -1119,22 +1135,6 @@
       "duration_ms": 246320,
       "name": "Oi Compadre - Ao Vivo",
       "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Sozim",
-      "url": "https://open.spotify.com/track/2l6Cfr8vIkONQJKQRRHnsz"
     }
   ],
   "unique_name": "This Is Emicida",

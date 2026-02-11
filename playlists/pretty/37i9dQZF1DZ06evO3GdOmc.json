@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 45455,
+  "num_followers": 45459,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAADRTSbNGdbUvcKCJNQGTQjG",
+  "snapshot_id": "aYkjgAAAAACQjDruBqoEC8y5VQFb0Ln+",
   "tracks": [
     {
       "added_at": null,
@@ -83,8 +83,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
       "artists": [
         {
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 221079,
-      "name": "Just Be Held",
-      "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
+      "duration_ms": 323866,
+      "name": "Voice of Truth",
+      "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
     },
     {
       "added_at": null,
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casting Crowns",
-        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 323866,
-      "name": "Voice of Truth",
-      "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
+      "duration_ms": 221079,
+      "name": "Just Be Held",
+      "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
     },
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Thrive",
-      "url": "https://open.spotify.com/track/08shoW0qPqgMDnNQppWAQj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Live Worship Experience",
         "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 393120,
       "name": "Great Are You Lord - Live",
       "url": "https://open.spotify.com/track/4raGCYqMOIn8n9bgQJSNxk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 306200,
+      "name": "Thrive",
+      "url": "https://open.spotify.com/track/08shoW0qPqgMDnNQppWAQj"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Next Thing",
-        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "One Step Away",
-      "url": "https://open.spotify.com/track/5hOYQACuJVKPsVcTHjaeEH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come To The Well",
         "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 239973,
       "name": "Courageous",
       "url": "https://open.spotify.com/track/28Bao9cmaIMsqxragOM8ba"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "One Step Away",
+      "url": "https://open.spotify.com/track/5hOYQACuJVKPsVcTHjaeEH"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "In the Hands of the Potter",
-      "url": "https://open.spotify.com/track/2xMi9GG2hWkjgtgxfv1pSR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come To The Well",
         "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 338133,
       "name": "Jesus, Friend Of Sinners",
       "url": "https://open.spotify.com/track/2ex0hGTbxQBBmKEpPwzxOt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 289453,
+      "name": "Even When You're Running",
+      "url": "https://open.spotify.com/track/1A1JXSMsVOrPe2UV3PNhHl"
     },
     {
       "added_at": null,
@@ -412,25 +412,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 266426,
-      "name": "Joyful, Joyful",
-      "url": "https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 289453,
-      "name": "Even When You're Running",
-      "url": "https://open.spotify.com/track/1A1JXSMsVOrPe2UV3PNhHl"
+      "duration_ms": 218746,
+      "name": "If We've Ever Needed You",
+      "url": "https://open.spotify.com/track/33RrcL9vPax7BkUg95Kp7t"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
       "duration_ms": 271280,
       "name": "Already There",
       "url": "https://open.spotify.com/track/1d0uIYuNGbAfgNX0Bm1wKm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "In the Hands of the Potter",
+      "url": "https://open.spotify.com/track/2xMi9GG2hWkjgtgxfv1pSR"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until The Whole World Hears",
-        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "If We've Ever Needed You",
-      "url": "https://open.spotify.com/track/33RrcL9vPax7BkUg95Kp7t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Healer",
         "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 148413,
       "name": "Crazy People",
       "url": "https://open.spotify.com/track/2WCHNPQYkjeuoVzcuEBaFF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 266426,
+      "name": "Joyful, Joyful",
+      "url": "https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Until The Whole World Hears",
-        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 303800,
-      "name": "Until The Whole World Hears",
-      "url": "https://open.spotify.com/track/0bZ9e7IoTlBnivvPEbNY6b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Live Worship Experience",
         "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 379213,
       "name": "Good Good Father - Live",
       "url": "https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 303800,
+      "name": "Until The Whole World Hears",
+      "url": "https://open.spotify.com/track/0bZ9e7IoTlBnivvPEbNY6b"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "The Power of the Cross",
-      "url": "https://open.spotify.com/track/4B8RK4DDqNSch0gn9g0Dl4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casting Crowns",
         "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 208466,
       "name": "What If His People Prayed",
       "url": "https://open.spotify.com/track/2qRnTIbCkw5YZG9hk8VfP6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "The Power of the Cross",
+      "url": "https://open.spotify.com/track/4B8RK4DDqNSch0gn9g0Dl4"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorious Day: Hymns of Faith",
-        "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 183906,
-      "name": "When We All Get to Heaven",
-      "url": "https://open.spotify.com/track/0IL8cGV1ni3VP2SFeNCRuJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casting Crowns",
         "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
@@ -791,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
+        "name": "Glorious Day: Hymns of Faith",
+        "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
       },
       "artists": [
         {
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 191466,
-      "name": "Healer",
-      "url": "https://open.spotify.com/track/6rt4pxatKBWEK34ElopOmw"
+      "duration_ms": 183906,
+      "name": "When We All Get to Heaven",
+      "url": "https://open.spotify.com/track/0IL8cGV1ni3VP2SFeNCRuJ"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 265720,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2zmJZypH7dZoPmKOK1xt0O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/6rt4pxatKBWEK34ElopOmw"
     }
   ],
   "unique_name": "This Is Casting Crowns",

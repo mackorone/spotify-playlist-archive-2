@@ -458,10 +458,32 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 229013,
       "name": "Confirm (feat. Davido)",
       "url": "https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz"
+    },
+    {
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Confirm (feat. Davido)",
+      "url": "https://open.spotify.com/track/51HF0a00Y1qhfbMy8Z2tNj"
     },
     {
       "album": {
@@ -1018,7 +1040,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 224026,
       "name": "Heal D World",
       "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
@@ -1776,7 +1798,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-11",
       "duration_ms": 205450,
       "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
       "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Detonautas
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,978 likes - 55 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,914 likes - 55 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

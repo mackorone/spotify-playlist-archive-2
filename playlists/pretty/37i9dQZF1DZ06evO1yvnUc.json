@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 168062,
+  "num_followers": 168136,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABshZUbOg2pGcjdzX+Y7RU0",
+  "snapshot_id": "aYkjgAAAAADzPiKw/lc6nH/2kJXG+CHw",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 175211,
+      "name": "Only U",
+      "url": "https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 277720,
       "name": "Members Only (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/24FUBxaAYSBlWsbSnEzDcn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYNEXTDOOR 3 (P3)",
-        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 175211,
-      "name": "Only U",
-      "url": "https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 243977,
-      "name": "Don't Run",
-      "url": "https://open.spotify.com/track/4rKlOGw7Q0si6csx1Xq2IQ"
+      "duration_ms": 202661,
+      "name": "Not Nice",
+      "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
     },
     {
       "added_at": null,
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 202661,
-      "name": "Not Nice",
-      "url": "https://open.spotify.com/track/6tHt7Ln9RV8FTlT4kTxr2b"
+      "duration_ms": 243977,
+      "name": "Don't Run",
+      "url": "https://open.spotify.com/track/4rKlOGw7Q0si6csx1Xq2IQ"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Bad Bunny dovunque: ai Grammys, al Super Bowl e sulla cover della playlist più grande in Italia 🔥
+> Bad Bunny dovunque, e anche sulla cover della playlist più grande in Italia 🔥
 
-286 songs - 14 hr 50 min
+287 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [BACIO DI GIUDA \(feat\. Mida & VillaBanks\)](https://open.spotify.com/track/3zp0YPZ5jA8XS9UPmA3O5j) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [BACIO DI GIUDA \(feat\. Mida & VillaBanks\)](https://open.spotify.com/album/3z9ZS5Px2IrcsgagRYUqkt) | 2:47 | 2024-06-28 | 2024-11-05 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-07-03 |  |
 | [Bad Boy \(feat\. Shiva, Capo Plaza\)](https://open.spotify.com/track/2RtHstoMxzCZp3QaR5unjR) | [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [Bad Boy \(feat\. Shiva, Capo Plaza\)](https://open.spotify.com/album/5OSF6lRPctmMUhtpWSyJbd) | 2:40 | 2024-07-25 | 2024-10-25 |
+| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2026-02-10 |  |
 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 | 2025-02-12 |  |
 | [Bam Bam](https://open.spotify.com/track/4KVniEaketaWkpVFVrIEgw) | [Banfy](https://open.spotify.com/artist/66piBHz32ujp2aF1nDRJf8), [Sheridan](https://open.spotify.com/artist/36zIbeEUmCu7vMaYy2HiJy) | [Bam Bam](https://open.spotify.com/album/00tWjalfGuKzjfkIj9f1WE) | 3:00 | 2025-08-28 | 2026-01-20 |
 | [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/track/62OO2X47vPk5WxTx68HDqg) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [BAMBOLA \(feat\. Niky Savage\)](https://open.spotify.com/album/3M3ROZK07jqgSacqr6gcyX) | 3:14 | 2024-12-19 | 2025-03-28 |
@@ -163,7 +164,7 @@
 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 | 2024-12-23 |  |
 | [Lentamente](https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/5COzjRVJky9LsYdMVGk1L3) | 3:26 | 2025-02-12 | 2025-05-13 |
 | [Lo So Che](https://open.spotify.com/track/3w73qvCSGWPCx7w1UMIh6e) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 3:01 | 2025-02-20 | 2025-04-18 |
-| [Loquito \(with Celine G\)](https://open.spotify.com/track/12X6Xp0LYHgEFOnofZcGCn) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Celine G](https://open.spotify.com/artist/7ztO12lZMunK43UpFs0VM3) | [FASTLIFE 5 : Audio Luxury](https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T) | 2:50 | 2026-01-12 |  |
+| [Loquito \(with Celine G\)](https://open.spotify.com/track/12X6Xp0LYHgEFOnofZcGCn) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Celine G](https://open.spotify.com/artist/7ztO12lZMunK43UpFs0VM3) | [FASTLIFE 5 : Audio Luxury](https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T) | 2:50 | 2026-01-12 | 2026-02-11 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-28 | 2024-07-12 |
 | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI) | 3:46 | 2024-06-28 | 2024-09-14 |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-02 | 2024-12-24 |

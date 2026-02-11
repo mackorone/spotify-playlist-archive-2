@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 93653,
+  "num_followers": 93666,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -559,30 +559,6 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
-        "name": "Gershwin: Rhapsody in Blue",
-        "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        }
-      ],
-      "duration_ms": 275706,
-      "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
-      "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
-    },
-    {
-      "added_at": "2025-12-15 11:57:31",
-      "album": {
         "name": "Gershwin Fantasy",
         "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 1224000,
       "name": "Fantasy for Violin and Orchestra on Porgy and Bess (excerpts)",
       "url": "https://open.spotify.com/track/7s4gJpuzOOTsFkmrlhvsvy"
+    },
+    {
+      "added_at": "2025-12-15 11:57:31",
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue",
+        "url": "https://open.spotify.com/album/2NO6kml1PSIKXTVXYoQVXc"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "duration_ms": 275706,
+      "name": "Of Thee I Sing: Overture (Arr. D. Rose for Orchestra)",
+      "url": "https://open.spotify.com/track/2OyY9i6Ct7zLdrron7eIdt"
     },
     {
       "added_at": "2025-12-15 11:57:31",
@@ -683,6 +683,30 @@
     {
       "added_at": "2025-12-15 11:57:31",
       "album": {
+        "name": "Michael Tilson Thomas Conducts Gershwin",
+        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        }
+      ],
+      "duration_ms": 426866,
+      "name": "Oh, Kay!: Overture",
+      "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
+    },
+    {
+      "added_at": "2025-12-15 11:57:31",
+      "album": {
         "name": "Icon: Menuhin and Grappelli",
         "url": "https://open.spotify.com/album/7pKyZXyyF4ikG7UPG5YDUr"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 139626,
       "name": "Gershwin / Arr. Harris: Fascinatin' Rhythm",
       "url": "https://open.spotify.com/track/7hEmaEBReUuhaskdorVGRq"
-    },
-    {
-      "added_at": "2025-12-15 11:57:31",
-      "album": {
-        "name": "Michael Tilson Thomas Conducts Gershwin",
-        "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Michael Tilson Thomas",
-          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        }
-      ],
-      "duration_ms": 426866,
-      "name": "Oh, Kay!: Overture",
-      "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
     },
     {
       "added_at": "2025-12-15 11:57:31",

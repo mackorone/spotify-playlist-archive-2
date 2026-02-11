@@ -1,12 +1,12 @@
 {
   "description": "This is Slipknot. The essential tracks, all in one playlist.",
-  "num_followers": 1066419,
+  "num_followers": 1066524,
   "original_name": "This Is Slipknot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAAB5rUTvMvAYUH4U1EardTRS",
+  "snapshot_id": "aYkjgAAAAAAPhb/Bc0rg/i1V/sDaxrTy",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipknot",
-        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Spit It Out",
-      "url": "https://open.spotify.com/track/2yTnWN1R5j6grXC8YLf5mc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vol. 3: The Subliminal Verses (Special Edition)",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 224320,
       "name": "Vermilion, Pt. 2",
       "url": "https://open.spotify.com/track/0O7lENhqOySbsL743G7PqD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slipknot",
+        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Spit It Out",
+      "url": "https://open.spotify.com/track/2yTnWN1R5j6grXC8YLf5mc"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipknot",
-        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 199880,
-      "name": "(sic)",
-      "url": "https://open.spotify.com/track/5u2qiqQGUBy8fvXTvs9i2X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vol. 3: The Subliminal Verses (Special Edition)",
         "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 316666,
       "name": "Vermilion",
       "url": "https://open.spotify.com/track/0fX9KPa0i9RGDI59gI90i9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slipknot",
+        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "(sic)",
+      "url": "https://open.spotify.com/track/5u2qiqQGUBy8fvXTvs9i2X"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipknot",
-        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Surfacing",
-      "url": "https://open.spotify.com/track/7ilvmUhG4jmCuJV4ZvjkKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Hope Is Gone (10th Anniversary)",
         "url": "https://open.spotify.com/album/2ISXjEm0D4chvU2IDNvUqk"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 277800,
       "name": "Sulfur",
       "url": "https://open.spotify.com/track/1ckta9xwbEcxLaGClreVRf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slipknot",
+        "url": "https://open.spotify.com/album/5lOFvOWAdy9G6p44noRILU"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Surfacing",
+      "url": "https://open.spotify.com/track/7ilvmUhG4jmCuJV4ZvjkKT"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Out Life",
-        "url": "https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 340132,
-      "name": "All Out Life",
-      "url": "https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slipknot (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 265453,
       "name": "Purity",
       "url": "https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Out Life",
+        "url": "https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 340132,
+      "name": "All Out Life",
+      "url": "https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5"
     },
     {
       "added_at": null,

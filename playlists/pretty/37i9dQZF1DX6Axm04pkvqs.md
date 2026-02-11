@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,266 likes - 80 songs - 11 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,342 likes - 80 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 59 | [You Cover Me](https://open.spotify.com/track/37JvyLbD2sZqJb0xVYE80U) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [You Cover Me](https://open.spotify.com/album/3MpNFst8nlIyBLSt17ErjT) | 17:58 |
 | 60 | [Holy Ghost](https://open.spotify.com/track/62iIcfToRxBNTZ1qstamVC) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 5:23 |
 | 61 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
-| 62 | [Intense Spontaneous Worship](https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [The Zamar Experience](https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa) | 9:24 |
+| 62 | [Chants of Intimacy](https://open.spotify.com/track/5pzgMmTjKJlThDPQnfRX5I) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [The Zamar Experience](https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa) | 12:50 |
 | 63 | [Burning with the Holy Ghost](https://open.spotify.com/track/6etwAw9xwGZzr9Te2Mp9Dw) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 5:29 |
 | 64 | [Let Me Want What You Want](https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8) | [The Paul\-Enenche Family](https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT) | [Let Me Want What You Want](https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q) | 8:03 |
 | 65 | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa) | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97) | 14:59 |
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 68 | [Eze Mmuo](https://open.spotify.com/track/4Ja1oWQdJqXZ35ZZ1GAdua) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Eze Mmuo](https://open.spotify.com/album/6HYR6TCB7BypDFHryf87Kn) | 5:33 |
 | 69 | [Holyghost](https://open.spotify.com/track/5DK8nQppYFosgt9BspPeT6) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Holyghost](https://open.spotify.com/album/0auDRLR3Nv8Mv3E953UYZQ) | 5:42 |
 | 70 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 |
-| 71 | [Chants of Intimacy](https://open.spotify.com/track/5pzgMmTjKJlThDPQnfRX5I) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [The Zamar Experience](https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa) | 12:50 |
+| 71 | [Intense Spontaneous Worship](https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [The Zamar Experience](https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa) | 9:24 |
 | 72 | [Song of Angels \(The Call\)](https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Gwen Samuel](https://open.spotify.com/artist/3MKVPEAKVqjOWppgRRqIfK) | [Song of Angels \(The Call\)](https://open.spotify.com/album/758w7ppEQYjtKeLn0E9n4p) | 6:09 |
 | 73 | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 |
 | 74 | [Bowels of the Spirit \(Prayer Chant\)](https://open.spotify.com/track/09NtOUOldnVP8Me3DSaus5) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 46:05 |
 | 75 | [Hallelujah Chant \(Ruach Hakodesh\)](https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha) | [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Hallelujah Chant](https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv) | 4:55 |
 | 76 | [Awake](https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:20 |
-| 77 | [Ihe I Na\-Emere M DI Mma](https://open.spotify.com/track/75uBK33oMZqgY8zV5PeiCO) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX), [The City Choir](https://open.spotify.com/artist/1SVHoT2JwZ2NP7JbYK9VvJ) | [Ihe I Na\-Emere M DI Mma](https://open.spotify.com/album/5DoRb3TJZwF4C1g4GMdgvw) | 9:38 |
-| 78 | [Song of Answers \(Spirits Must Obey\)](https://open.spotify.com/track/47TMxkW5qIPFTEKqbFWh0i) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Song of Answers \(Spirits Must Obey\)](https://open.spotify.com/album/6iLpI8vsGEnpCyEzTYRAuV) | 11:08 |
+| 77 | [Song of Answers \(Spirits Must Obey\)](https://open.spotify.com/track/47TMxkW5qIPFTEKqbFWh0i) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Song of Answers \(Spirits Must Obey\)](https://open.spotify.com/album/6iLpI8vsGEnpCyEzTYRAuV) | 11:08 |
+| 78 | [Ihe I Na\-Emere M DI Mma](https://open.spotify.com/track/75uBK33oMZqgY8zV5PeiCO) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX), [The City Choir](https://open.spotify.com/artist/1SVHoT2JwZ2NP7JbYK9VvJ) | [Ihe I Na\-Emere M DI Mma](https://open.spotify.com/album/5DoRb3TJZwF4C1g4GMdgvw) | 9:38 |
 | 79 | [Ruach Hakodesh](https://open.spotify.com/track/62QpDTmSK8QctvbxEdBPrG) | [Patience Adjei](https://open.spotify.com/artist/6620mC2YUJtGYmx4rmk373) | [Ruach Hakodesh](https://open.spotify.com/album/60kUZ9PqK6MlCKpN4tL44d) | 11:31 |
 | 80 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 |
 

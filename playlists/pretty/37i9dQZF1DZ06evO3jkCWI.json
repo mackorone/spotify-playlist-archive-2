@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 195339,
+  "num_followers": 195364,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAACvD/p93uZgMg8IfeBf1tOq",
+  "snapshot_id": "aYkjgAAAAACSJ57D/iBGYIzrXX526xxd",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Mi Caballo Pobre",
+      "url": "https://open.spotify.com/track/6SQfZKwce4nGuMwrcVwK8C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se\u00f1al De Alerta",
         "url": "https://open.spotify.com/album/28K8AZI79UWVamCJZglQlq"
       },
@@ -247,6 +263,22 @@
       "duration_ms": 165853,
       "name": "Ni Que Tuvieras Tanta Suerte",
       "url": "https://open.spotify.com/track/0OzRg0JDqxDDxtmKn2GUVi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Demasiado Tarde",
+        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "Lo Callar\u00e9",
+      "url": "https://open.spotify.com/track/4yhcbZ7HZxK1UI5SOAEdlC"
     },
     {
       "added_at": null,
@@ -267,38 +299,6 @@
       "duration_ms": 187541,
       "name": "Nomas Por Orgullo",
       "url": "https://open.spotify.com/track/0wuk8DmghrkwUhtGSqIotu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Mi Caballo Pobre",
-      "url": "https://open.spotify.com/track/6SQfZKwce4nGuMwrcVwK8C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 187613,
-      "name": "Lo Callar\u00e9",
-      "url": "https://open.spotify.com/track/4yhcbZ7HZxK1UI5SOAEdlC"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Vida O Muerte",
-        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "De Vida O Muerte",
-      "url": "https://open.spotify.com/track/4TbjXIEyA9VKdBx5WuSw4B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventanas Al Viento",
         "url": "https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 188960,
       "name": "Te Quiero Para Mi",
       "url": "https://open.spotify.com/track/6K36cGSYWq4kRO4lMEKXJf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Vida O Muerte",
+        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "De Vida O Muerte",
+      "url": "https://open.spotify.com/track/4TbjXIEyA9VKdBx5WuSw4B"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Alfredo Galeana",
-      "url": "https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Laurita Garza",
         "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 186893,
       "name": "Coraz\u00f3n De Oro",
       "url": "https://open.spotify.com/track/0QLxVp77k6Ioz6qSBjUPUL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Alfredo Galeana",
+      "url": "https://open.spotify.com/track/2NG18tx27J4dBTszPLJluP"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aferrado Al Amor",
-        "url": "https://open.spotify.com/album/6pEDYFi8ddb1yiJKF1h0yV"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        },
-        {
-          "name": "Los Herederos De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "La Viviana",
-      "url": "https://open.spotify.com/track/6UsGCiKi5RwwosYEsVwQz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta El Final",
         "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
       },
@@ -643,22 +623,6 @@
       "duration_ms": 170440,
       "name": "Puedes Irte",
       "url": "https://open.spotify.com/track/7DXfMfBmAYQMewI2I68y8P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Dios No Lo Quiera",
-      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
     },
     {
       "added_at": null,
@@ -679,6 +643,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aferrado Al Amor",
+        "url": "https://open.spotify.com/album/6pEDYFi8ddb1yiJKF1h0yV"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        },
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "La Viviana",
+      "url": "https://open.spotify.com/track/6UsGCiKi5RwwosYEsVwQz3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Dios No Lo Quiera",
+      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos De Pegue",
         "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 193706,
       "name": "Lucio Pe\u00f1a",
       "url": "https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi H\u00e9roe",
-        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Degenerado",
-      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
     },
     {
       "added_at": null,
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Vida O Muerte",
-        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
+        "name": "Mi H\u00e9roe",
+        "url": "https://open.spotify.com/album/1Flg5XJrhqjvd70wX6QV9C"
       },
       "artists": [
         {
@@ -736,9 +720,25 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 153733,
-      "name": "La Costumbre",
-      "url": "https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2"
+      "duration_ms": 159013,
+      "name": "Degenerado",
+      "url": "https://open.spotify.com/track/413NV5nNVfbEh7vG1x2GTl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/1ZJRBIV1t8h1BkiuQeEt36"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 194506,
+      "name": "Me Refiero A T\u00ed",
+      "url": "https://open.spotify.com/track/2XXODc6DG0sBs3uhiXQQpq"
     },
     {
       "added_at": null,
@@ -755,6 +755,38 @@
       "duration_ms": 182440,
       "name": "El Careto Y El Comando",
       "url": "https://open.spotify.com/track/0HuP5xLv151vNqT7e7AH9O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Vida O Muerte",
+        "url": "https://open.spotify.com/album/1LNsca8XvZVZ0SzFlYuU5V"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 153733,
+      "name": "La Costumbre",
+      "url": "https://open.spotify.com/track/1lhPvRuwUY0BIgxx98cOL2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Nada Contigo",
+      "url": "https://open.spotify.com/track/0BElkouvu7hJy1NB2RF1Va"
     },
     {
       "added_at": null,
@@ -787,38 +819,6 @@
       "duration_ms": 158893,
       "name": "La Vieja Banca",
       "url": "https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es Demasiado Tarde",
-        "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Vete Con El",
-      "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Nada Contigo",
-      "url": "https://open.spotify.com/track/0BElkouvu7hJy1NB2RF1Va"
     }
   ],
   "unique_name": "This Is Los Invasores De Nuevo Le\u00f3n",

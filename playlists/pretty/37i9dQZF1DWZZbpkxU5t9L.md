@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,193 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,177 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 53 | [メガネを外して](https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [メガネを外して](https://open.spotify.com/album/5sHKJwFpJERdma9qtdm7Gl) | 3:09 |
 | 54 | [FLIP FLAP](https://open.spotify.com/track/1UnjUCSGYDOLSYHC7d7sJd) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FLIP FLAP](https://open.spotify.com/album/69QaS9hTqUs9Cdwooo13g5) | 2:29 |
 | 55 | [HIROYUKI](https://open.spotify.com/track/7CgRATanHcULEWtJMsVzBy) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [HIROYUKI](https://open.spotify.com/album/2mTQyRdJ0FsYZ0077a6BQ2) | 2:26 |
-| 56 | [back for me](https://open.spotify.com/track/7HZMIIF0neWvNC8P1UgAQo) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [YONCE](https://open.spotify.com/artist/5k2q1zqe89zMofacOpysHf) | [back for me](https://open.spotify.com/album/2sGhKPde7GODDkdaH2aP6C) | 3:28 |
+| 56 | [back for me](https://open.spotify.com/track/7HZMIIF0neWvNC8P1UgAQo) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [YONCE](https://open.spotify.com/artist/5QnTDESz5t2Fq7m2B5a7IJ) | [back for me](https://open.spotify.com/album/2sGhKPde7GODDkdaH2aP6C) | 3:28 |
 | 57 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
 | 58 | [パズル](https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [パズル](https://open.spotify.com/album/374nxZf7LeBYBvUVKx4fMt) | 3:16 |
 | 59 | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/track/0yMqE8BPui92vB2It7NpWJ) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/album/44D0vIz4TIkfyRU1f4h374) | 2:37 |

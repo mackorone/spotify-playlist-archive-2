@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,581 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,580 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 26 | [GENERACJA CUZI](https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY) | [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [GENERACJA CUZI](https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU) | 1:53 |
 | 27 | [7 DAM](https://open.spotify.com/track/3wqUx2hnHutdVYW7uWTc0J) | [Zeamsone](https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY) | [WIRTUOZ](https://open.spotify.com/album/1gK5TWRqoEPMmEToOeNJ7n) | 2:14 |
 | 28 | [INDICA](https://open.spotify.com/track/7hUFPuqd0dCGypZMbZWdPS) | [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh), [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [INDICA](https://open.spotify.com/album/0EBbd5arpiQ8oGtL59JTHh) | 3:30 |
-| 29 | [JZWWZJ](https://open.spotify.com/track/6SHI61VemlOua5StSLM6sL) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [Czaha](https://open.spotify.com/artist/4QnVEkkzc4FkISFmri44MW), [DJ Gondek](https://open.spotify.com/artist/77rH9w8wnkKGNrKDSAFOsU) | [Życia Weteran](https://open.spotify.com/album/56axY2U9ujBdKqkPz7e07p) | 2:51 |
-| 30 | [INTRODESTRUKCJA](https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf) | [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0) | [INTRODESTRUKCJA](https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA) | 2:14 |
+| 29 | [INTRODESTRUKCJA](https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf) | [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [White Widow](https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0) | [INTRODESTRUKCJA](https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA) | 2:14 |
+| 30 | [JZWWZJ](https://open.spotify.com/track/6SHI61VemlOua5StSLM6sL) | [Bonus RPK](https://open.spotify.com/artist/070tdNOiP3pIsGlqNfVkG3), [Czaha](https://open.spotify.com/artist/4QnVEkkzc4FkISFmri44MW), [DJ Gondek](https://open.spotify.com/artist/77rH9w8wnkKGNrKDSAFOsU) | [Życia Weteran](https://open.spotify.com/album/56axY2U9ujBdKqkPz7e07p) | 2:51 |
 | 31 | [RING RING](https://open.spotify.com/track/3VjDhZl73eK9VgvRQovsmw) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [YARSKI](https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6) | [RING RING](https://open.spotify.com/album/4qmp6ahoR0Qhb3JN2wtSPc) | 2:36 |
 | 32 | [MADONNA](https://open.spotify.com/track/4fyuRAFi2Zigy7kgk5Sq4v) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [TRAP OR DIE](https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS) | 2:39 |
 | 33 | [Znachor](https://open.spotify.com/track/39l5Izu23Frq6l8PE0JtaO) | [KęKę](https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj), [Nody Beats](https://open.spotify.com/artist/1yAGqHfZiNmD5XFqJJEXUI) | [04:01](https://open.spotify.com/album/0rMY6sS2J58oeblsjSWx1G) | 3:00 |

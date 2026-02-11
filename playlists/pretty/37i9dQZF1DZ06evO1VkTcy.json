@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22333,
+  "num_followers": 22334,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYPdgAAAAABxBDWy8Pq+DRuxy8lx7Dlj",
+  "snapshot_id": "aYkjgAAAAAAkDix006TINN3xEnd5zc/4",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Podium",
+        "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sorrisos (feat. Lourena)",
+      "url": "https://open.spotify.com/track/4S3zWMCOGI5k61u78QTGWR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poesia Ac\u00fastica",
+        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 600000,
+      "name": "Poesia Ac\u00fastica #11 Nada Mudou",
+      "url": "https://open.spotify.com/track/0BiXrraKIkkc4Qj2lcgVUc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica 16",
         "url": "https://open.spotify.com/album/4KmL1W9yrbIlpKOO3L976y"
       },
@@ -259,74 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia Ac\u00fastica",
-        "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 600000,
-      "name": "Poesia Ac\u00fastica #11 Nada Mudou",
-      "url": "https://open.spotify.com/track/0BiXrraKIkkc4Qj2lcgVUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Podium",
-        "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sorrisos (feat. Lourena)",
-      "url": "https://open.spotify.com/track/4S3zWMCOGI5k61u78QTGWR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corda Bamba",
         "url": "https://open.spotify.com/album/2ubtGX0eu9F0UVLMx7sNE5"
       },
@@ -379,30 +379,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
-        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
+        "name": "Poesia de Boteco",
+        "url": "https://open.spotify.com/album/5JyVfUGi4mSUZZ9DHdnbJc"
       },
       "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
         {
           "name": "Pineapple StormTv",
           "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "billboard Brasil",
-          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
         }
       ],
-      "duration_ms": 261397,
-      "name": "Dizeres",
-      "url": "https://open.spotify.com/track/6xlD60qg2yRZhlLvy6PZ3v"
+      "duration_ms": 312207,
+      "name": "Poesia de Boteco",
+      "url": "https://open.spotify.com/track/4uExiXNq9cL45Y1cLmNtAO"
     },
     {
       "added_at": null,
@@ -439,38 +447,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poesia de Boteco",
-        "url": "https://open.spotify.com/album/5JyVfUGi4mSUZZ9DHdnbJc"
+        "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
+        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
       },
       "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
         },
         {
-          "name": "J. Eskine",
-          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         },
         {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+          "name": "billboard Brasil",
+          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
         }
       ],
-      "duration_ms": 312207,
-      "name": "Poesia de Boteco",
-      "url": "https://open.spotify.com/track/4uExiXNq9cL45Y1cLmNtAO"
+      "duration_ms": 261397,
+      "name": "Dizeres",
+      "url": "https://open.spotify.com/track/6xlD60qg2yRZhlLvy6PZ3v"
     },
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "5458",
+        "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
+      },
+      "artists": [
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 187629,
+      "name": "5458",
+      "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
         "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 279499,
       "name": "Acabou",
       "url": "https://open.spotify.com/track/5gK09qUQ4XYVoPeUEa99RE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5458",
-        "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
-      },
-      "artists": [
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 187629,
-      "name": "5458",
-      "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
     },
     {
       "added_at": null,
@@ -659,34 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
-        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "billboard Brasil",
-          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
-        }
-      ],
-      "duration_ms": 173291,
-      "name": "Louco Por Voc\u00ea",
-      "url": "https://open.spotify.com/track/79ixyXR5hjLWNdk8ricxAi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seja Forte",
         "url": "https://open.spotify.com/album/3mdrAMknncQfphwa2wukcx"
       },
@@ -727,82 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruxaria 051",
-        "url": "https://open.spotify.com/album/5wwsozSTK5ftZLbZYXb287"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Mc J9",
-          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
-        },
-        {
-          "name": "Luka Pumes",
-          "url": "https://open.spotify.com/artist/4OQArJT8U8ERpczgb96GiY"
-        },
-        {
-          "name": "DJ Thi Marquez",
-          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
-        },
-        {
-          "name": "CP no Beat",
-          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
-        },
-        {
-          "name": "prodPdrin",
-          "url": "https://open.spotify.com/artist/13Nx98HKg4gpZYvZShzgmt"
-        },
-        {
-          "name": "Dom M",
-          "url": "https://open.spotify.com/artist/1sr9tfI7nXNsh1YPTsPZcn"
-        },
-        {
-          "name": "RAP IN CENA",
-          "url": "https://open.spotify.com/artist/7kdYYoCudHnWFDFJhYZTJ2"
-        },
-        {
-          "name": "Analogic",
-          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
-        }
-      ],
-      "duration_ms": 235919,
-      "name": "O Corre Nunca Vai Parar",
-      "url": "https://open.spotify.com/track/7Hkk9sj1032Lv1S61s5qzy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 289122,
-      "name": "Na Areia",
-      "url": "https://open.spotify.com/track/6MriBuIGeZzm2CKC0HuKQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
         "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
       },
@@ -810,6 +706,10 @@
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
           "name": "Pineapple StormTv",
@@ -820,9 +720,9 @@
           "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
         }
       ],
-      "duration_ms": 235987,
-      "name": "Medley Poesia Ac\u00fastica 9, 11",
-      "url": "https://open.spotify.com/track/2LvTfB9Jgh82XMa81Orz5E"
+      "duration_ms": 173291,
+      "name": "Louco Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/79ixyXR5hjLWNdk8ricxAi"
     },
     {
       "added_at": null,
@@ -883,6 +783,106 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bruxaria 051",
+        "url": "https://open.spotify.com/album/5wwsozSTK5ftZLbZYXb287"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Mc J9",
+          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
+        },
+        {
+          "name": "Luka Pumes",
+          "url": "https://open.spotify.com/artist/4OQArJT8U8ERpczgb96GiY"
+        },
+        {
+          "name": "DJ Thi Marquez",
+          "url": "https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA"
+        },
+        {
+          "name": "CP no Beat",
+          "url": "https://open.spotify.com/artist/1ta5CY6ruoV25kWA3Tk2hW"
+        },
+        {
+          "name": "prodPdrin",
+          "url": "https://open.spotify.com/artist/13Nx98HKg4gpZYvZShzgmt"
+        },
+        {
+          "name": "Dom M",
+          "url": "https://open.spotify.com/artist/1sr9tfI7nXNsh1YPTsPZcn"
+        },
+        {
+          "name": "RAP IN CENA",
+          "url": "https://open.spotify.com/artist/7kdYYoCudHnWFDFJhYZTJ2"
+        },
+        {
+          "name": "Analogic",
+          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
+        }
+      ],
+      "duration_ms": 235919,
+      "name": "O Corre Nunca Vai Parar",
+      "url": "https://open.spotify.com/track/7Hkk9sj1032Lv1S61s5qzy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
+        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "billboard Brasil",
+          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
+        }
+      ],
+      "duration_ms": 235987,
+      "name": "Medley Poesia Ac\u00fastica 9, 11",
+      "url": "https://open.spotify.com/track/2LvTfB9Jgh82XMa81Orz5E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 289122,
+      "name": "Na Areia",
+      "url": "https://open.spotify.com/track/6MriBuIGeZzm2CKC0HuKQ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Sa\u00edda Est\u00e1 Dentro",
         "url": "https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8"
       },
@@ -899,6 +899,30 @@
       "duration_ms": 231407,
       "name": "P\u00e1ssaros",
       "url": "https://open.spotify.com/track/09a27piHzkROsmYoFqr15A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Anos de Caju, Vol. 1",
+        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Maguzinho",
+          "url": "https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 203350,
+      "name": "Rid\u00edculo",
+      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
     },
     {
       "added_at": null,
@@ -951,30 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos de Caju, Vol. 1",
-        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        },
-        {
-          "name": "Maguzinho",
-          "url": "https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 203350,
-      "name": "Rid\u00edculo",
-      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj"
       },
@@ -1007,6 +1007,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avi\u00e3o",
+        "url": "https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 241171,
+      "name": "Avi\u00e3o",
+      "url": "https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
         "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
       },
@@ -1031,8 +1051,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avi\u00e3o",
-        "url": "https://open.spotify.com/album/3jofE4ABxA4B0nNFGEvj1P"
+        "name": "O Seu Grande Amor",
+        "url": "https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t"
       },
       "artists": [
         {
@@ -1040,13 +1060,13 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
         }
       ],
-      "duration_ms": 241171,
-      "name": "Avi\u00e3o",
-      "url": "https://open.spotify.com/track/6kdJ1Y8M9IDrEczN8FFweO"
+      "duration_ms": 211896,
+      "name": "O Seu Grande Amor",
+      "url": "https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe"
     },
     {
       "added_at": null,
@@ -1071,26 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Seu Grande Amor",
-        "url": "https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "O Seu Grande Amor",
-      "url": "https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deixa Ir",
         "url": "https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5"
       },
@@ -1107,6 +1107,30 @@
       "duration_ms": 152470,
       "name": "Deixa Ir",
       "url": "https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Cupido Querido",
+      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
     },
     {
       "added_at": null,
@@ -1171,30 +1195,6 @@
       "duration_ms": 156000,
       "name": "Tava Tudo Tranquilin",
       "url": "https://open.spotify.com/track/3WgK0z2h5KFdS4qRSw2H07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Cupido Querido",
-      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
     },
     {
       "added_at": null,
@@ -1299,26 +1299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 o Mundo Acabar",
-        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "At\u00e9 o Mundo Acabar",
-      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bonjour",
         "url": "https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2"
       },
@@ -1343,8 +1323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake",
-        "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
+        "name": "At\u00e9 o Mundo Acabar",
+        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
       },
       "artists": [
         {
@@ -1352,13 +1332,13 @@
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
+      "duration_ms": 204520,
+      "name": "At\u00e9 o Mundo Acabar",
+      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
     },
     {
       "added_at": null,
@@ -1379,6 +1359,26 @@
       "duration_ms": 176111,
       "name": "Chore N\u00e3o",
       "url": "https://open.spotify.com/track/5aC2Avnr6X3HVRJcu4R9ar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
     },
     {
       "added_at": null,

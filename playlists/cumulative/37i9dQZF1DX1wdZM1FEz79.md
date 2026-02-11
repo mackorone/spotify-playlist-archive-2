@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장범준 \(Jang Beom June\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-651 songs - 1 day 14 hr 19 min
+652 songs - 1 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Hide and Seek](https://open.spotify.com/track/4dv1Ygd62DuZEjzqVivgKE) | [Park Seo Ryoung](https://open.spotify.com/artist/3feVktwro8QoXPKQqe20gy) | [Hide and Seek](https://open.spotify.com/album/1QgeqdZEcBZXSUqykXvyDZ) | 3:06 | 2022-05-03 | 2022-06-19 |
 | [Hide And Seek](https://open.spotify.com/track/6kgbXxqe6gDKMYrjNL3zqD) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Jumpin'](https://open.spotify.com/album/5zIcY1Rd64xth4HmCwmYwu) | 2:57 | 2022-03-31 | 2022-04-16 |
 | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/track/40YR1sAECqtYHaiN4wzQ9e) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/album/7ttphjk6H0f6fQ95WyOp5b) | 1:28 | 2022-03-31 | 2022-04-18 |
-| [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-07 |  |
+| [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-07 | 2026-02-11 |
 | [HOME](https://open.spotify.com/track/5TgEh8iGP5sfusUa1R5Z0H) | [HANUM](https://open.spotify.com/artist/6VniDsTqx9dE63GYUWM5AH) | [HOME](https://open.spotify.com/album/4iXVWGwbnDMI78HAx5WRT0) | 2:53 | 2022-12-20 | 2023-01-11 |
 | [home town](https://open.spotify.com/track/0UM7QmLlgoMOgwohLPtXbB) | [iseo](https://open.spotify.com/artist/1sJcgK5qmEdJzFtw7EGKHy) | [hometown](https://open.spotify.com/album/251GBeMnMBt09acRMBsOKb) | 3:01 | 2025-06-09 | 2025-06-25 |
 | [hometown](https://open.spotify.com/track/7MOMJntlnsDH95Q9KBbpGh) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [hometown](https://open.spotify.com/album/2OQOLKNqzQJAaRgEsQC3z3) | 3:13 | 2022-03-31 | 2022-04-20 |
@@ -472,6 +472,7 @@
 | [Spring Love \(feat\. Ahin\)](https://open.spotify.com/track/6yfBZ5lr40Ckhas4fAD1r2) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Ahin](https://open.spotify.com/artist/5JNaIRLfD6BwSR0R6jfT6B) | [Spring Love \(feat\. Ahin\)](https://open.spotify.com/album/1rbVqD8VBB5U0pJN5wdLLM) | 3:32 | 2022-03-31 | 2022-04-19 |
 | [Spring With You \(feat\. 20 Years of Age\)](https://open.spotify.com/track/6x2NxClyNFYyxfzr7Accjn) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG), [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [Fit Me](https://open.spotify.com/album/7nGDmQqfUlVvXnmJF4Aid9) | 3:47 | 2022-04-12 | 2022-04-14 |
 | [Star](https://open.spotify.com/track/6wftNadxJrNC2jyVdt2Biu) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [My Girlfriend is the Man \(Original Soundtrack\) Part.5](https://open.spotify.com/album/7END3fAnSeSi907kheRqD2) | 4:27 | 2025-08-18 | 2025-09-30 |
+| [Star](https://open.spotify.com/track/4SShZF2CETTC32MIetxVSQ) | [MILLIGRAM](https://open.spotify.com/artist/1K9B1uiDf6ZSA8mshCQnqv) | [Star](https://open.spotify.com/album/6YCRkKU7yjm8d3VrRCcDkz) | 3:10 | 2026-02-10 |  |
 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 | 2022-06-20 | 2024-09-24 |
 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-06-27 | 2024-08-02 |
 | [Starlight](https://open.spotify.com/track/05ho1OFzZj2yGMcEGPKtCF) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/7hhddpXpVkzeJBgR4zkis2) | 4:33 | 2021-12-10 | 2022-07-21 |

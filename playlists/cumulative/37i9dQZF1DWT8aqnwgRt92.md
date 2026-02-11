@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,454 songs - 6 day 7 hr 41 min
+2,457 songs - 6 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1030,6 +1030,7 @@
 | [Saigo no Kyojin](https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Saigo no Kyojin](https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg) | 4:00 | 2023-11-05 | 2024-01-12 |
 | [Sailing](https://open.spotify.com/track/0Tjfd3zPoTpPo7FwR21DC2) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sailing](https://open.spotify.com/album/1hzne4NVJBLxSD78Flnzww) | 3:06 | 2024-11-05 | 2025-01-22 |
 | [Sailor, Sail On](https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Sailor, Sail On](https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P) | 4:08 | 2025-12-18 | 2026-01-21 |
+| [Sakujitsu feat\. Yoshino](https://open.spotify.com/track/2YEnUfQGubDsBaKtj3tAXu) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg), [Yoshino](https://open.spotify.com/artist/1wxjNzmgvPAUKWaDRfn8LT) | [Sakujitsu feat\. Yoshino](https://open.spotify.com/album/70Z9YOvlJty23tdoIV8vQD) | 3:20 | 2026-02-10 |  |
 | [Salt & Sugar](https://open.spotify.com/track/2X0wvwTrhRC9oDdCa48DPR) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Salt & Sugar](https://open.spotify.com/album/3VFrgDd3xHNejGad8vyBh3) | 3:51 | 2023-04-11 | 2023-04-26 |
 | [SALT AND PEPPER](https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [SALT AND PEPPER](https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ) | 3:18 | 2025-10-07 | 2026-01-15 |
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-08-29 | 2023-10-08 |
@@ -1451,6 +1452,7 @@
 | [おれはジャイアンさまだ! \- 2022](https://open.spotify.com/track/4twohb62NBcXxAEAPF4lF6) | [ジャイアン \(CV: 木村 昴\)](https://open.spotify.com/artist/4dqkQ7WY5gXehLHawc7ht6) | [ジャイアントドリーム/おれはジャイアンさまだ!2022](https://open.spotify.com/album/7dnlGbyQpyFRRwcI7hUV3p) | 2:08 | 2022-07-19 | 2022-08-17 |
 | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/track/5eMZFpCA34CjojOSMwtLTQ) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [おーる・ざ・やんぐ・ぎーくす](https://open.spotify.com/album/7DdO9kXkzARuAeVDc15Ibs) | 4:03 | 2024-02-08 | 2024-02-14 |
 | [お化けひまわり](https://open.spotify.com/track/5Gn4dQju4nRtBfPmvjLGuh) | [Pii](https://open.spotify.com/artist/2PSgWXYHWYU45JStIE38LH) | [お化けひまわり](https://open.spotify.com/album/5jpzjlkCt5fwM9slW8k5Zm) | 3:23 | 2024-04-23 | 2024-05-25 |
+| [お姫様にはなれない](https://open.spotify.com/track/4zRDU4Hp53z8d1ZiRFxbZt) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [お姫様にはなれない](https://open.spotify.com/album/7k6CVndNeJFm3imC3vEDhT) | 3:43 | 2026-02-10 |  |
 | [かえりみちの色](https://open.spotify.com/track/3bLVwyhaJuRyxZAGWO0vv0) | [渋谷ハル](https://open.spotify.com/artist/6mXvoLGqYh8T8As0LYuU8s) | [かえりみちの色](https://open.spotify.com/album/15V9z87xbRv1SECaxMDxrs) | 4:09 | 2022-07-07 | 2022-07-29 |
 | [かかった魔法はアマノジャク](https://open.spotify.com/track/2tSjz7fRrvwTfQWaElC1xX) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [AIMI SOUND](https://open.spotify.com/album/7MdsF6SQF5LIkZK82DhaDr) | 3:32 | 2022-07-12 | 2022-08-24 |
 | [かげくらべの唄](https://open.spotify.com/track/5ZVwgbV1wAnyWXTzTxRfKv) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [かげくらべの唄](https://open.spotify.com/album/1wscrF8e8yuOYsFV9hoIJm) | 4:33 | 2024-07-03 | 2024-07-10 |
@@ -2270,6 +2272,7 @@
 | [熱風は流転する](https://open.spotify.com/track/3B67pEQ2QiBIzh8iK6lCsk) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [熱風は流転する](https://open.spotify.com/album/7eaCQ74HiChrED7TPver3S) | 3:37 | 2023-03-14 | 2023-04-02 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-06 | 2024-01-17 |
 | [燦々デイズ \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/track/0cVZrZ7Xz1DabRUmiyanl0) | [SACRA BLUE BEATS](https://open.spotify.com/artist/7JFAWhsI7NNXmSo38Rk1Yn) | [燦々デイズ \-SACRA BLUE BEATS Mix\-](https://open.spotify.com/album/45vCjeChn7dWsMXKxSARwP) | 3:50 | 2022-11-22 | 2022-12-24 |
+| [燦然 \- Sanzen](https://open.spotify.com/track/1yn3Io5ULS4jLPSNvgZTpH) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [燦然 / 生きがい](https://open.spotify.com/album/5PTVBumincWhvUzUJiTwRY) | 5:07 | 2026-02-10 |  |
 | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/track/2eag5tepAFxHgvyM5DNed5) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/album/6Rql8tyfUXkJWq5tlzVMjP) | 4:11 | 2024-04-02 | 2024-07-06 |
 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 | 2023-11-07 | 2024-01-10 |
 | [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 | 2022-10-19 |

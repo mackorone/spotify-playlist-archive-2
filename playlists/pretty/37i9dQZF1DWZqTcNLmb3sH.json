@@ -1,13 +1,37 @@
 {
-  "description": "Check out the latest hits from Sandalwood!\nCover : Mark",
-  "num_followers": 67487,
+  "description": "Check out the latest hits from Sandalwood!\nCover : Rakkasapuradhol",
+  "num_followers": 67500,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAET4bq0Yd1nxqCvflsPXjT1jsftC",
+  "snapshot_id": "AAAAADYFSxw+VZJpFa8Q8P0Z5pIO6Slj",
   "tracks": [
+    {
+      "added_at": "2026-02-10 09:50:01",
+      "album": {
+        "name": "Rakkasapuradhol (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0jF9XRzEzXXrqnYkqD4DhT"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Kranthi Kumar",
+          "url": "https://open.spotify.com/artist/3pAyB3aMEya2VVlQi6Y2rp"
+        },
+        {
+          "name": "Nishan Rai",
+          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
+        }
+      ],
+      "duration_ms": 112793,
+      "name": "Rakkasapuradhol Title Track",
+      "url": "https://open.spotify.com/track/1ND5PI9m4E6ndn0xg3YJyu"
+    },
     {
       "added_at": "2026-01-14 10:57:55",
       "album": {
@@ -79,6 +103,46 @@
       "duration_ms": 245069,
       "name": "Kalavu Kaledogide Begane (From \"Sukhibhavaa\")",
       "url": "https://open.spotify.com/track/1vnFHpbeSjpeQHfcImW5nY"
+    },
+    {
+      "added_at": "2026-02-10 09:53:33",
+      "album": {
+        "name": "Manase Madhura (From \"RAMA AND RAMU\")",
+        "url": "https://open.spotify.com/album/6FGEUlycL8iMBexHzh0UFg"
+      },
+      "artists": [
+        {
+          "name": "Chandru Obaiah",
+          "url": "https://open.spotify.com/artist/4cllCIrGu05Jo803DCYW9N"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Manase Madhura (From \"RAMA AND RAMU\")",
+      "url": "https://open.spotify.com/track/5UCXZ7yvmRPppS7hqp7SXl"
+    },
+    {
+      "added_at": "2026-02-10 09:50:01",
+      "album": {
+        "name": "Rakkasapuradhol (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0jF9XRzEzXXrqnYkqD4DhT"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Bharath Lingesh",
+          "url": "https://open.spotify.com/artist/6OA8i0ioxEYeqft5UtpSoF"
+        },
+        {
+          "name": "Kushala",
+          "url": "https://open.spotify.com/artist/3QAvUy5TZuksie8UDWJ3oW"
+        }
+      ],
+      "duration_ms": 197192,
+      "name": "Amavase Raatri",
+      "url": "https://open.spotify.com/track/1JoFBh6Gp7ECb4U2xMyBqt"
     },
     {
       "added_at": "2026-01-15 13:28:49",
@@ -1685,34 +1749,6 @@
       "url": "https://open.spotify.com/track/3YKanugIzdL1kZNzFHP6PT"
     },
     {
-      "added_at": "2025-12-18 06:38:39",
-      "album": {
-        "name": "Shuru Shuru (From \"Balaramana Dinagalu\")",
-        "url": "https://open.spotify.com/album/1VG64NDCzV3YdAvEjzehV1"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Punya Selva",
-          "url": "https://open.spotify.com/artist/6uvIzuYq1gO5Q4AkLwSIgw"
-        },
-        {
-          "name": "Jayanth Kaikini",
-          "url": "https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57"
-        }
-      ],
-      "duration_ms": 293076,
-      "name": "Shuru Shuru (From \"Balaramana Dinagalu\")",
-      "url": "https://open.spotify.com/track/6caIpgTk0IghWvmd9m1Rvh"
-    },
-    {
       "added_at": "2025-12-18 06:32:58",
       "album": {
         "name": "Ista Ade (From \"Chowkidar\")",
@@ -1855,58 +1891,6 @@
       "duration_ms": 254000,
       "name": "Innu Munde Neene Ella (From \"Radheyaa\")",
       "url": "https://open.spotify.com/track/6Mj4u7bUAO1yCU8p34DtcW"
-    },
-    {
-      "added_at": "2025-11-25 06:35:06",
-      "album": {
-        "name": "Ishta Aade Nee (From \"Love OTP\")",
-        "url": "https://open.spotify.com/album/331GhtxC2bm6Bvh3KvqpNU"
-      },
-      "artists": [
-        {
-          "name": "Anand Rajavikram",
-          "url": "https://open.spotify.com/artist/3dRKC2Ej6Dn7afgPJoZ1xZ"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
-        },
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Ishta Aade Nee (From \"Love OTP\")",
-      "url": "https://open.spotify.com/track/2Jnk4jjeQ7j8vz00JyObw6"
-    },
-    {
-      "added_at": "2025-11-21 08:15:16",
-      "album": {
-        "name": "Nee Nannavale (From \"Theertharoopa Thandeyavarige\")",
-        "url": "https://open.spotify.com/album/0cLwPOWz23qXGqKgTx4FJ6"
-      },
-      "artists": [
-        {
-          "name": "Joe Costa",
-          "url": "https://open.spotify.com/artist/40u3WdSvVLSyNNPKKb2pRP"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
-        },
-        {
-          "name": "Rajath Hegde",
-          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
-        },
-        {
-          "name": "Eesha Suchi",
-          "url": "https://open.spotify.com/artist/7BQODxJYjUv5TppoSGnFZI"
-        }
-      ],
-      "duration_ms": 242604,
-      "name": "Nee Nannavale (From \"Theertharoopa Thandeyavarige\")",
-      "url": "https://open.spotify.com/track/5DHBbQMtltAis26A2nBXqQ"
     }
   ],
   "unique_name": "Latest Kannada",
