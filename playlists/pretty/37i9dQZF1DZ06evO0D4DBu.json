@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211368,
+  "num_followers": 211364,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAAQ43mc/MIjI31TjN69TbUU",
+  "snapshot_id": "aYp1AAAAAAClbVQvn/ag0t+5nIofns0+",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
-        "url": "https://open.spotify.com/album/25KYUrojMfQ12t7IRan2Vx"
+        "name": "Holy (Acoustic)",
+        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
       },
       "artists": [
         {
-          "name": "Francis and the Lights",
-          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 195356,
-      "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
-      "url": "https://open.spotify.com/track/0VaIsQoIQY10uxBrOyZ5cQ"
+      "duration_ms": 205815,
+      "name": "Holy - Acoustic",
+      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
     },
     {
       "added_at": null,
@@ -371,22 +371,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy (Acoustic)",
-        "url": "https://open.spotify.com/album/7CMuwbRcESagTQFvKHGuYU"
+        "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
+        "url": "https://open.spotify.com/album/25KYUrojMfQ12t7IRan2Vx"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
         },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 205815,
-      "name": "Holy - Acoustic",
-      "url": "https://open.spotify.com/track/6gcQJ6W4H89xkQFm63gcsB"
+      "duration_ms": 195356,
+      "name": "May I Have This Dance (Remix) [feat. Chance the Rapper]",
+      "url": "https://open.spotify.com/track/0VaIsQoIQY10uxBrOyZ5cQ"
     },
     {
       "added_at": null,

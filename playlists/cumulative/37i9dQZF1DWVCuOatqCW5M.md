@@ -4,7 +4,7 @@
 
 > Latest music from Tulsi Kumar, Aparshakti Khuarana, A.R\. Ameen, Jasleen Royal and more.
 
-1,722 songs - 4 day 1 hr 45 min
+1,722 songs - 4 day 1 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -547,7 +547,7 @@
 | [Hai Zaroori](https://open.spotify.com/track/5mqvLOGrokTUGy93dOcMkI) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Aman Bhatt](https://open.spotify.com/artist/172xhFQ5qc8xbiPA6KS1vw), [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Hai Zaroori](https://open.spotify.com/album/7tf3ISeRlTM34j4V2MyoFN) | 3:06 | 2024-06-14 | 2024-07-19 |
 | [Hain Kaha Ka Iraada](https://open.spotify.com/track/2cIHxbQR5xGmsIJYdjjSQL) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Salman Ali](https://open.spotify.com/artist/0ygVoSAqn4tgm4AgCuKQpF), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Hain Kaha Ka Iraada](https://open.spotify.com/album/18HDVTeZUIvSeaxUl1IL3e) | 4:46 | 2025-10-10 | 2025-11-28 |
 | [Hairaan](https://open.spotify.com/track/4mWfZ7Y8uMPOqB6nmv3gBi) | [Kaushik\-Guddu](https://open.spotify.com/artist/7EiUTtmmkwGtbgR6gZaZzW), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Hairaan](https://open.spotify.com/album/32YGwReeRRTIh8MuT28w3v) | 3:30 | 2022-06-10 | 2022-07-30 |
-| [Haldi Mehandi \- Haatho Me Mehandi](https://open.spotify.com/track/6CcJ2zLl8cILX7u9rsvUcJ) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY), [Branal Rajeev](https://open.spotify.com/artist/1hjVLuzFgVoz1NHB40kV5j), [R Maharaaj](https://open.spotify.com/artist/6gdhBz69A3MSuvx89d7jFS) | [Haldi Mehandi \- Haatho Me Mehandi](https://open.spotify.com/album/0Ejfg25pyq9cz7Hu0HDuF7) | 5:07 | 2026-02-06 |  |
+| [Haldi Mehandi \- Haatho Me Mehandi](https://open.spotify.com/track/6CcJ2zLl8cILX7u9rsvUcJ) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY), [Branal Rajeev](https://open.spotify.com/artist/1hjVLuzFgVoz1NHB40kV5j), [R Maharaaj](https://open.spotify.com/artist/6gdhBz69A3MSuvx89d7jFS) | [Haldi Mehandi \- Haatho Me Mehandi](https://open.spotify.com/album/0Ejfg25pyq9cz7Hu0HDuF7) | 5:04 | 2026-02-06 |  |
 | [Halka Halka Sa](https://open.spotify.com/track/2ZNLjSD4JEOsVppqoEZDV2) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Halka Halka Sa](https://open.spotify.com/album/67fiStdddjDUcNNCZBfd6w) | 3:25 | 2024-02-09 | 2024-04-06 |
 | [Halki Halki Si](https://open.spotify.com/track/6AQPgRpWzJX9CvAACYhKE1) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Halki Halki Si](https://open.spotify.com/album/1y0qtvGfDgBtzXHOiSFBrF) | 3:54 | 2024-02-23 | 2024-05-18 |
 | [Hania](https://open.spotify.com/track/7yER8tfabF5oi4Kr2wn3q3) | [PRIYANSHU](https://open.spotify.com/artist/7eEvdqIc3p9CqKs7EbmQl9), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Hania](https://open.spotify.com/album/3GilDUB1JJwDaSewWiF5t9) | 2:11 | 2024-03-29 | 2024-04-19 |

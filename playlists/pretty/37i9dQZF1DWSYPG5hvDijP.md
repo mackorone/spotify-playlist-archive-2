@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Dee MC
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,618 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,632 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 66 | [Awara Hoon](https://open.spotify.com/track/4Svjkynzt68wB9QIoF1yN1) | [Anurag Ranga](https://open.spotify.com/artist/6gK3DtQWcbmcDwIH46HAiK), [Abhishek Raina](https://open.spotify.com/artist/11kJaZYEE0xblhOGLMrk1U), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Awara Hoon](https://open.spotify.com/album/7i2zU2VDZmrkoHV3XVmiqM) | 2:37 |
 | 67 | [Afsane](https://open.spotify.com/track/6ufI4xxIUxDz9iZ3StaDEU) | [Mic Pe Devil](https://open.spotify.com/artist/3XnN1tsWz1FmgU6eEBmfXI) | [Afsane](https://open.spotify.com/album/1vwk1fOtbLvIswDkfUYWWu) | 2:31 |
 | 68 | [Jwala](https://open.spotify.com/track/10I5YMwyLflZXKIPIHMFjy) | [OG Lucifer](https://open.spotify.com/artist/4JZ2uZ41sx2hqx7TcwM18g), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO) | [Poore Dil Se!](https://open.spotify.com/album/0WzUC2dO7D0VZFisepYYoX) | 2:51 |
-| 69 | [Whoop whoop](https://open.spotify.com/track/1dhJC9AL16nopnQz625nJR) | [Umreeki](https://open.spotify.com/artist/3fbgvIDX8ytExMOCSOdJrf), [pho](https://open.spotify.com/artist/6nAdtREGChtEfWylvD13Cq), [Sun J](https://open.spotify.com/artist/4BhzHxxEllRbpygXbzcY7s), [Vaaman](https://open.spotify.com/artist/3NyL2PjsPYCVImosIiU6hS) | [Sunn Oye](https://open.spotify.com/album/2To6VqfyXVewchDXs87PJi) | 2:34 |
+| 69 | [Whoop whoop](https://open.spotify.com/track/1dhJC9AL16nopnQz625nJR) | [Umreeki](https://open.spotify.com/artist/3fbgvIDX8ytExMOCSOdJrf), [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC), [Sun J](https://open.spotify.com/artist/4BhzHxxEllRbpygXbzcY7s), [Vaaman](https://open.spotify.com/artist/3NyL2PjsPYCVImosIiU6hS) | [Sunn Oye](https://open.spotify.com/album/2To6VqfyXVewchDXs87PJi) | 2:34 |
 | 70 | [haha](https://open.spotify.com/track/6icQHbFjio6rNSWDmHKmaF) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [haha](https://open.spotify.com/album/7sJZZB7hCLT0ZAMKVaQ4wn) | 2:00 |
 | 71 | [Qabool](https://open.spotify.com/track/7iGgCGOvFnfuGbEms83QIO) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [faizal](https://open.spotify.com/artist/3iMtnIUSnojtxLhlP294k4) | [Qabool](https://open.spotify.com/album/5rG8wS4mLFFOhE5cMhfemm) | 3:31 |
 | 72 | [Late Knights](https://open.spotify.com/track/2fD1rGBOm7uvrZgJ2vgpeP) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [Walking on Water](https://open.spotify.com/album/0XJyOVcQlRENIxTGc357JQ) | 3:35 |

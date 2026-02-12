@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Rakkasapuradhol",
-  "num_followers": 67500,
+  "num_followers": 67504,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADYFSxw+VZJpFa8Q8P0Z5pIO6Slj",
+  "snapshot_id": "AAAAAGcpHs8qdArie3q3okt5/69SrCrB",
   "tracks": [
     {
       "added_at": "2026-02-10 09:50:01",
@@ -143,6 +143,34 @@
       "duration_ms": 197192,
       "name": "Amavase Raatri",
       "url": "https://open.spotify.com/track/1JoFBh6Gp7ECb4U2xMyBqt"
+    },
+    {
+      "added_at": "2026-02-11 10:48:50",
+      "album": {
+        "name": "Bedhavu Ellide (From \"Sees Kaddi\")",
+        "url": "https://open.spotify.com/album/35e9JCrdKRQFYrhXH1v9qk"
+      },
+      "artists": [
+        {
+          "name": "K C Balasarangan",
+          "url": "https://open.spotify.com/artist/7b5pJ3sqgxxD2BYEQKl9eQ"
+        },
+        {
+          "name": "Mahendra Gouda",
+          "url": "https://open.spotify.com/artist/4KEvQ5WBpdAczU676zxvKI"
+        },
+        {
+          "name": "Zubin Paul",
+          "url": "https://open.spotify.com/artist/1oXfbG8k6rwPkPfYkxlmO7"
+        },
+        {
+          "name": "Shubham Prasad",
+          "url": "https://open.spotify.com/artist/7aJE4JQhjIfGw5SmnmR9Am"
+        }
+      ],
+      "duration_ms": 177442,
+      "name": "Bedhavu Ellide (From \"Sees Kaddi\")",
+      "url": "https://open.spotify.com/track/6TavbZoUhRxLw9KuZPCuNA"
     },
     {
       "added_at": "2026-01-15 13:28:49",
@@ -1651,34 +1679,6 @@
       "duration_ms": 85310,
       "name": "Buguri (From \"Raktha Kashmira\") (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/46Lah8gtVWWenq8cMIPwVu"
-    },
-    {
-      "added_at": "2025-12-19 08:51:38",
-      "album": {
-        "name": "Sahana Sahana (From \"The Rajasaab\") [KANNADA]",
-        "url": "https://open.spotify.com/album/0nSfqBKRaKVcf26lY5gHe6"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "D Dheeraj",
-          "url": "https://open.spotify.com/artist/0rKnHgY9I7k8OiSPuTeIQr"
-        },
-        {
-          "name": "Sruthi Ranjani",
-          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
-        },
-        {
-          "name": "Asg",
-          "url": "https://open.spotify.com/artist/63lBLrHWGAXYIxnq9fuJsR"
-        }
-      ],
-      "duration_ms": 263060,
-      "name": "Sahana Sahana (From \"The Rajasaab\") [KANNADA]",
-      "url": "https://open.spotify.com/track/5KJEnY12IA9BpPefwYxgZM"
     },
     {
       "added_at": "2025-11-03 10:55:48",

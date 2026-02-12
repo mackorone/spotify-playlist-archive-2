@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Os Pagodes Que a Gente Gosta (Bloco Trajet\u00f3ria) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3rpi8IO51jU3Dj7jxihM8E"
+      },
+      "artists": [
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209386,
+      "name": "Aquela Foto / Fica Com Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/23DYwZ4B5H0YFUaV8KhjDX"
+    },
+    {
+      "album": {
         "name": "Arrego / Pronto Pro Ca\u00f4 / Sacanagem Dela (Ao Vivo)",
         "url": "https://open.spotify.com/album/3UmqaY5Z3RrhpFAPpjPVGG"
       },
@@ -6144,7 +6162,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 172887,
       "name": "\u00c9 Dor Que N\u00e3o Passa / Diferent\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/6mWKlQPzqFMnkeEMoKoaVs"

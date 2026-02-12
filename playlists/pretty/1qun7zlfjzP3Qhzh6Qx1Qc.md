@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Ella Langley.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 33,888 likes - 107 songs - 5 hr 57 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 33,887 likes - 107 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

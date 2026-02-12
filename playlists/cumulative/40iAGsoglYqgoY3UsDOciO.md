@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-484 songs - 23 hr 24 min
+485 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Corpse Bride](https://open.spotify.com/track/5ij2sbmLClFGnWBrtr6Cwv) | [Highrise](https://open.spotify.com/artist/0K37X9yuGZbV6PVwjuDxtj) | [Corpse Bride](https://open.spotify.com/album/4FCMyEPnnWsmNjkrtW4NgT) | 1:52 | 2024-08-06 |  |
 | [Countin' On You](https://open.spotify.com/track/7Edr1e24lcvCFIuuYfahWR) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Khi Infinite](https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Countin' On You \(FAST X Soundtrack\)](https://open.spotify.com/album/79TSpvgNIyR8faqntvl11N) | 2:28 | 2023-07-26 |  |
 | [Criteria](https://open.spotify.com/track/3j0SCXX9MhdSxYpdFAlJms) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Criteria](https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6) | 1:45 | 2023-07-26 |  |
+| [Crunch Time](https://open.spotify.com/track/1zs08Z4WOWrBLXFOMmoEHl) | [Kershey](https://open.spotify.com/artist/5PXnOMWHxDzYxQucJp4bq8) | [Crunch Time](https://open.spotify.com/album/01vdh0IeFJRK2awZeuP04Q) | 2:24 | 2026-02-11 |  |
 | [CUORE DI GHIACCIO](https://open.spotify.com/track/1r88vtpM65rQ9FNkOmfW1Z) | [F1NIN](https://open.spotify.com/artist/2pEkdA1xF9Zc0gp0oUX2K3) | [CUORE DI GHIACCIO](https://open.spotify.com/album/18pNKBNJe0sFWPUs3gvlIs) | 2:25 | 2024-10-02 |  |
 | [D in da A](https://open.spotify.com/track/2N8YelMa5lSCBycq1hhuZK) | [D.loading](https://open.spotify.com/artist/5ogOlBGV3hK3AD8ZJXOpl9) | [D in Da A](https://open.spotify.com/album/09EFjsbE4gXYn6I8qgTc2r) | 2:37 | 2026-01-28 |  |
 | [Dark Objects](https://open.spotify.com/track/7LAQ2KdUEzv0o0JqKjdmKg) | [Idol Talk](https://open.spotify.com/artist/4Zywk3Dn7UZ2peYgMp1Yhh) | [Allure](https://open.spotify.com/album/7A1CxgVowMWVBneKC3DjzT) | 3:11 | 2025-04-24 |  |

@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 209113,
       "name": "Dekha Ji Dekha Maine",
       "url": "https://open.spotify.com/track/0SA1zJy9pTG3xMKmyhTWiH"
@@ -2350,6 +2350,24 @@
       "duration_ms": 203520,
       "name": "Koi Si",
       "url": "https://open.spotify.com/track/26ku8sJ1rV2gQAEuNs38X6"
+    },
+    {
+      "album": {
+        "name": "Kya Bataun Tujhe (From \"Pagalpan\")",
+        "url": "https://open.spotify.com/album/1HNcqGvz5xkqFYzrftdBv0"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270080,
+      "name": "Kya Bataun Tujhe (From \"Pagalpan\")",
+      "url": "https://open.spotify.com/track/3lgVAqlhro4HQ6sSPc0n0t"
     },
     {
       "album": {

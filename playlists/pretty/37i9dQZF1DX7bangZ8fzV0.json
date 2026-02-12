@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Leah",
-  "num_followers": 141772,
+  "num_followers": 141816,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -287,18 +287,22 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Roeper",
-        "url": "https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz"
+        "name": "Francois Van Coke",
+        "url": "https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs"
       },
       "artists": [
         {
-          "name": "Theuns Jordaan",
-          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn"
         }
       ],
-      "duration_ms": 228440,
-      "name": "Sal Jy Bly",
-      "url": "https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT"
+      "duration_ms": 246401,
+      "name": "Toe Vind Ek Jou",
+      "url": "https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -323,22 +327,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Francois Van Coke",
-        "url": "https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs"
+        "name": "Roeper",
+        "url": "https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn"
+          "name": "Theuns Jordaan",
+          "url": "https://open.spotify.com/artist/4FG57Vo1nipFsF1lRfYtE4"
         }
       ],
-      "duration_ms": 246401,
-      "name": "Toe Vind Ek Jou",
-      "url": "https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z"
+      "duration_ms": 228440,
+      "name": "Sal Jy Bly",
+      "url": "https://open.spotify.com/track/13cZuZKQT5X7u7vFeLQGnT"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -379,18 +379,22 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Ja. Nee. Lekker. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ntTrtwUni1E0PAlSe61rY"
+        "name": "Dagdrome in Suburbia",
+        "url": "https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ"
       },
       "artists": [
         {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
         }
       ],
-      "duration_ms": 182602,
-      "name": "Ballade Vir 'N Enkeling",
-      "url": "https://open.spotify.com/track/3AnbHTbNiQuURUxHiiFBtl"
+      "duration_ms": 191466,
+      "name": "Dagdrome in Suburbia",
+      "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -411,22 +415,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Dagdrome in Suburbia",
-        "url": "https://open.spotify.com/album/3RzHaNjl15r6TWi3QDSAPZ"
+        "name": "Ja. Nee. Lekker. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ntTrtwUni1E0PAlSe61rY"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
         }
       ],
-      "duration_ms": 191466,
-      "name": "Dagdrome in Suburbia",
-      "url": "https://open.spotify.com/track/10Ql7yWoFEmRNp83JeS4Uk"
+      "duration_ms": 182602,
+      "name": "Ballade Vir 'N Enkeling",
+      "url": "https://open.spotify.com/track/3AnbHTbNiQuURUxHiiFBtl"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -879,18 +879,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Wil Jy Bly",
-        "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
+        "name": "Jannaman",
+        "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
       },
       "artists": [
         {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
         }
       ],
-      "duration_ms": 187391,
-      "name": "Wil Jy Bly",
-      "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
+      "duration_ms": 205114,
+      "name": "Jannaman",
+      "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -915,18 +915,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Jannaman",
-        "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
+        "name": "Wil Jy Bly",
+        "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
       },
       "artists": [
         {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
         }
       ],
-      "duration_ms": 205114,
-      "name": "Jannaman",
-      "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
+      "duration_ms": 187391,
+      "name": "Wil Jy Bly",
+      "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Hart Breek",
-        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
-      },
-      "artists": [
-        {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "Hart Breek",
-      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "Die Lot",
         "url": "https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F"
       },
@@ -979,22 +963,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Die Piesangskille",
-        "url": "https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 246438,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "Country Girl Van Bloem",
         "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
       },
@@ -1007,6 +975,38 @@
       "duration_ms": 176640,
       "name": "Country Girl Van Bloem",
       "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Hart Breek",
+        "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "Hart Breek",
+      "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Die Piesangskille",
+        "url": "https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 246438,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Troumateriaal",
-        "url": "https://open.spotify.com/album/7qWT35R3KlS5cNQegnYAEt"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 201044,
-      "name": "Troumateriaal",
-      "url": "https://open.spotify.com/track/2bxBLbKyJWd0406RLKr6wK"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
         "name": "Kom Klop Weer",
         "url": "https://open.spotify.com/album/0WOG7BXSflSIEor7Bj7vkc"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 175147,
       "name": "Kom Klop Weer",
       "url": "https://open.spotify.com/track/47EtqjVFxnOCu7qK6c53h4"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "Troumateriaal",
+        "url": "https://open.spotify.com/album/7qWT35R3KlS5cNQegnYAEt"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 201044,
+      "name": "Troumateriaal",
+      "url": "https://open.spotify.com/track/2bxBLbKyJWd0406RLKr6wK"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
+        "name": "NIE M\u00d4RE NIE NOU",
+        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 158680,
+      "name": "NIE M\u00d4RE NIE NOU",
+      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
         "name": "Klein Bietjie",
         "url": "https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 181194,
       "name": "Klein Bietjie",
       "url": "https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
-        "name": "Elsie",
-        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 156191,
-      "name": "Elsie",
-      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 156191,
+      "name": "Elsie",
+      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
         "name": "Impulsief",
         "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 183317,
       "name": "Impulsief",
       "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
-        "name": "NIE M\u00d4RE NIE NOU",
-        "url": "https://open.spotify.com/album/4LpFTzqLouhqyFFYMjMUEv"
-      },
-      "artists": [
-        {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "NIE M\u00d4RE NIE NOU",
-      "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1231,22 +1231,6 @@
       "duration_ms": 192676,
       "name": "Shut Up & Soen My",
       "url": "https://open.spotify.com/track/1LVudOtqu2VZzuE1UrfjpL"
-    },
-    {
-      "added_at": "2026-01-15 22:00:30",
-      "album": {
-        "name": "AVBOB Se Stoep",
-        "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
-      },
-      "artists": [
-        {
-          "name": "Snotkop",
-          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
-        }
-      ],
-      "duration_ms": 208969,
-      "name": "AVBOB Se Stoep",
-      "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "H2O\u00eb",
-        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
+        "name": "AVBOB Se Stoep",
+        "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
       },
       "artists": [
         {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
         }
       ],
-      "duration_ms": 175375,
-      "name": "H2O\u00eb",
-      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
+      "duration_ms": 208969,
+      "name": "AVBOB Se Stoep",
+      "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1311,6 +1295,22 @@
       "duration_ms": 164520,
       "name": "Wat Kan 'n Man Dan Doen",
       "url": "https://open.spotify.com/track/7LkWQdDSF1h7pcikce3CSs"
+    },
+    {
+      "added_at": "2026-01-15 22:00:30",
+      "album": {
+        "name": "H2O\u00eb",
+        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "H2O\u00eb",
+      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
     },
     {
       "added_at": "2026-01-15 22:00:30",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-01-15 22:00:30",
       "album": {
-        "name": "Diepseeduiker 17",
-        "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
       },
       "artists": [
         {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
         }
       ],
-      "duration_ms": 165149,
-      "name": "Diepseeduiker 17",
-      "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
+      "duration_ms": 187094,
+      "name": "Witblits",
+      "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
     }
   ],
   "unique_name": "Afrikaanse Hits",

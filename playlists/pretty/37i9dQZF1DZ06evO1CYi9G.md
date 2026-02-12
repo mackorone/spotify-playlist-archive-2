@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 
 > This is Mudvayne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,474 likes - 39 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,480 likes - 39 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 | 12 | [Scarlet Letters](https://open.spotify.com/track/04EJruMxHBrSoOfZg0p5o9) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 3:55 |
 | 13 | [Determined](https://open.spotify.com/track/0GBiT1wHV68bU0Cv8ZU2HZ) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 2:39 |
 | 14 | [\-1](https://open.spotify.com/track/2v4OZx6CBj631eoyayjYn1) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 3:58 |
-| 15 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:27 |
+| 15 | [Silenced](https://open.spotify.com/track/7zBp5vs6V2bXiNt5FulPf5) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 3:01 |
 | 16 | [Dull Boy](https://open.spotify.com/track/0rIPU2d3P2AbRDLj5spMMj) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 4:13 |
-| 17 | [Silenced](https://open.spotify.com/track/7zBp5vs6V2bXiNt5FulPf5) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The End Of All Things To Come](https://open.spotify.com/album/0bmdX1znMOjwK30Zu8sTGo) | 3:01 |
+| 17 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:27 |
 | 18 | [Internal Primates Forever](https://open.spotify.com/track/1mhwzvD3iVSR1SUOemLAHc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 4:25 |
 | 19 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
 | 20 | [A Cinderella Story](https://open.spotify.com/track/3k8IsJILZMzwPCgiRALs3Q) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The New Game](https://open.spotify.com/album/6QlW96KZrbxk0u5MiTMkDK) | 4:39 |
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1CYi9G.md) - [plain]
 | 32 | [On The Move \- Demo](https://open.spotify.com/track/1IdIsjIw9rCpuLB7vkb7rX) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 3:55 |
 | 33 | [Closer](https://open.spotify.com/track/1Hp7LP0VU8FN5fMjlvgbyf) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 3:21 |
 | 34 | [Seed](https://open.spotify.com/track/2FSaIjUhyJ21nEwIe0JApd) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 3:27 |
-| 35 | [Dead Inside](https://open.spotify.com/track/3KC2CER0sTOo8aNgMRR4Mm) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 4:55 |
+| 35 | [Heard It All Before](https://open.spotify.com/track/5cozFCkv98UAKT9GYsret6) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 6:05 |
 | 36 | [Some Assembly Required](https://open.spotify.com/track/5vdTsxP1p3Vshq9TaI9Ffr) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 2:46 |
-| 37 | [Heard It All Before](https://open.spotify.com/track/5cozFCkv98UAKT9GYsret6) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 6:05 |
+| 37 | [Dead Inside](https://open.spotify.com/track/3KC2CER0sTOo8aNgMRR4Mm) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Mudvayne](https://open.spotify.com/album/6yLcsHhdfUAug0lIWqxuxS) | 4:55 |
 | 38 | [Coal](https://open.spotify.com/track/5s19JphuCWGQvB746yYrW4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 5:03 |
 | 39 | [Central Disposal](https://open.spotify.com/track/2NUeBUhxW4dmreJbHce5Ws) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [The Beginning Of All Things To End](https://open.spotify.com/album/6aBCXfFv8Nq5u7pnrwrpmd) | 3:16 |
 
-Snapshot ID: `aYkjgAAAAAAviLAA68DzfxrYPdJ6/7Cw`
+Snapshot ID: `aYp1AAAAAAA6Rg/AcJP4LJxqr/zrbbv7`

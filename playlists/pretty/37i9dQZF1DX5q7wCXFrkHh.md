@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,283 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,349 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 49 | [Makin' Whoopee](https://open.spotify.com/track/4HNb3OWOv70aNdKbfDi8BY) | [George Shearing Trio](https://open.spotify.com/artist/6o67W9DYNT2hhkJDB97YsT) | [Jazz Moments](https://open.spotify.com/album/2yRs4Ul96CMhmL09Th20BK) | 4:00 |
 | 50 | [Rain](https://open.spotify.com/track/6HKPWcktY1fRY2JwXtWDd9) | [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [All Kinds Of Weather](https://open.spotify.com/album/1cq8v5c8Y6KuvPtwPi3aWT) | 4:14 |
 | 51 | [Empty Pockets \- Remastered 2007](https://open.spotify.com/track/4Cq9NtjeUASIkunQeXajCX) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 6:12 |
-| 52 | [Dinah \(Take 2\)](https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Solo Monk \(Expanded Edition\)](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) | 2:28 |
-| 53 | [Contemplation](https://open.spotify.com/track/55GY76amiMF9wjAeto5vco) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 9:12 |
+| 52 | [Contemplation](https://open.spotify.com/track/55GY76amiMF9wjAeto5vco) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 9:12 |
+| 53 | [Dinah \(Take 2\)](https://open.spotify.com/track/1XS5vGKquDNjxU6gLQcKd2) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Solo Monk \(Expanded Edition\)](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) | 2:28 |
 | 54 | [How High The Moon](https://open.spotify.com/track/6NaOd4T2RdzU92CBTcTPQn) | [Hank Jones Trio](https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U) | [The Trio](https://open.spotify.com/album/61YL3smwkMQDcs8qPqmPOx) | 6:03 |
 | 55 | [On The Street Where You Live](https://open.spotify.com/track/69SlyKc3sdj9WW3J5A4LuX) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [The Shearing Piano](https://open.spotify.com/album/4oy7zZUlZZvjCAeZvXf2w4) | 2:52 |
 | 56 | [Angelo](https://open.spotify.com/track/57LtAkQYV0aD4ULVk9szkW) | [Shai Maestro](https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj) | [Shai Maestro Trio](https://open.spotify.com/album/53LA5Radjeit5J77Ka1T0w) | 4:27 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 80 | [Now He Sings, Now He Sobs](https://open.spotify.com/track/0k1RNOBLz27hIvNaRHqI4D) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Now He Sings, Now He Sobs \(Expanded Edition\)](https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE) | 7:03 |
 | 81 | [My Blue Heaven](https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Mary Lou Williams Presents Black Christ of the Andes](https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy) | 3:10 |
 | 82 | [Moonglow](https://open.spotify.com/track/63dQ8xVOLqecwnTV4NTPng) | [Art Tatum](https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq) | [The Art Tatum Solo Masterpieces, Vol\. 1 \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/1tvuzt99vv75fA2SKfLde0) | 2:58 |
-| 83 | [Dream](https://open.spotify.com/track/0psSSpJgJIkaAY4a8jND1V) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Written In The Stars](https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S) | 6:44 |
-| 84 | [I Got It Bad](https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Rosario Giuliani](https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06) | [Duke's Dream](https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd) | 7:20 |
+| 83 | [I Got It Bad](https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Rosario Giuliani](https://open.spotify.com/artist/74RIvQKHT5SRchMBOCZJ06) | [Duke's Dream](https://open.spotify.com/album/6zNBkblD9SxmMG9WP2ClMd) | 7:20 |
+| 84 | [Dream](https://open.spotify.com/track/0psSSpJgJIkaAY4a8jND1V) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Written In The Stars](https://open.spotify.com/album/14C2yqQ0xfZQjhomR3nh8S) | 6:44 |
 | 85 | [A Blue Time](https://open.spotify.com/track/17LII4B6V1AhONoueVwoJU) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Eclypso](https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT) | 6:14 |
 | 86 | [Waltz For Debby \- Live / Take 1](https://open.spotify.com/track/5wFi8FLKFeKTXnbV4p4NiI) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [The Complete Village Vanguard Recordings, 1961](https://open.spotify.com/album/0rdlBkBl9UWoLDcEfxAkU5) | 6:46 |
 | 87 | [Pound For Pound](https://open.spotify.com/track/6Y4cnbaeT5RgE9QvSeTuCY) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [Made Possible](https://open.spotify.com/album/2KACSClTW3V11lbuxDmEGs) | 6:10 |

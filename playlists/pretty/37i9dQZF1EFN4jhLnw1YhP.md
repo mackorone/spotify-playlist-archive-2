@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFN4jhLnw1YhP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43 likes - 19 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 44 likes - 19 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFN4jhLnw1YhP.md) - [plain]
 | 18 | [Tightropes](https://open.spotify.com/track/6ihtjwDFO3MB8nCeYN9MdE) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4), [Adam Butler](https://open.spotify.com/artist/59OcLANY6VTX2eInlGP3GG) | [Tightropes](https://open.spotify.com/album/4jayika7Sm4T9JM6at4a9H) | 4:21 |
 | 19 | [will u still love me](https://open.spotify.com/track/1wMhzgDtNq2neEw1PuSIUM) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [will u still love me](https://open.spotify.com/album/7y246xFgZBfyNEMo0D7Twg) | 4:32 |
 
-Snapshot ID: `AcJVFAAAAAB1koYreQxsLA08AFsIuR7D`
+Snapshot ID: `AcJaoAAAAADuRWF4ZF6wwZYHgWDBTnNL`

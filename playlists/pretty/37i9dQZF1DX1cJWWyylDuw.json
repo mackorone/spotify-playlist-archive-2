@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Face Yourself",
-  "num_followers": 284605,
+  "num_followers": 284704,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-01-16 17:25:53",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/5lxqoACoFFCyZaISr77Hdj"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Forlorn",
-      "url": "https://open.spotify.com/track/5BCK5qslfX22rNkVnwomkw"
-    },
-    {
-      "added_at": "2026-01-16 17:25:53",
-      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/5qmU7eJyoveXFgvE4xyy27"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 184477,
       "name": "Talk",
       "url": "https://open.spotify.com/track/41Xb3pnU2AiIcWKwdsDOIt"
+    },
+    {
+      "added_at": "2026-01-16 17:25:53",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/5lxqoACoFFCyZaISr77Hdj"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Forlorn",
+      "url": "https://open.spotify.com/track/5BCK5qslfX22rNkVnwomkw"
     },
     {
       "added_at": "2026-01-16 17:25:53",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-01-16 17:25:53",
       "album": {
-        "name": "Without End",
-        "url": "https://open.spotify.com/album/0IA2Y65MEFgE8x2y6OhNwP"
-      },
-      "artists": [
-        {
-          "name": "Distinguisher",
-          "url": "https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Without End",
-      "url": "https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh"
-    },
-    {
-      "added_at": "2026-01-16 17:25:53",
-      "album": {
         "name": "Aeons of Oblivion",
         "url": "https://open.spotify.com/album/2qplxtai1BdGPrjIjUo1Hr"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 221446,
       "name": "Aeons of Oblivion",
       "url": "https://open.spotify.com/track/6HcXTUJEOpTbiCPyGtU1sA"
+    },
+    {
+      "added_at": "2026-01-16 17:25:53",
+      "album": {
+        "name": "Without End",
+        "url": "https://open.spotify.com/album/0IA2Y65MEFgE8x2y6OhNwP"
+      },
+      "artists": [
+        {
+          "name": "Distinguisher",
+          "url": "https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Without End",
+      "url": "https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh"
     },
     {
       "added_at": "2026-01-16 17:25:53",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2026-01-16 17:25:53",
       "album": {
-        "name": "Crossing Nails",
-        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
+        "name": "Sing to the Grave",
+        "url": "https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o"
       },
       "artists": [
         {
-          "name": "Crystal Lake",
-          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
         }
       ],
-      "duration_ms": 222928,
-      "name": "Crossing Nails",
-      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
+      "duration_ms": 159417,
+      "name": "Sing to the Grave",
+      "url": "https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU"
     },
     {
       "added_at": "2026-01-16 17:25:53",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2026-01-16 17:25:53",
       "album": {
-        "name": "Sing to the Grave",
-        "url": "https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o"
+        "name": "Crossing Nails",
+        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
       },
       "artists": [
         {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
         }
       ],
-      "duration_ms": 159417,
-      "name": "Sing to the Grave",
-      "url": "https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU"
+      "duration_ms": 222928,
+      "name": "Crossing Nails",
+      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
     },
     {
       "added_at": "2026-01-16 17:25:53",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2026-01-16 17:25:53",
       "album": {
-        "name": "Seed",
-        "url": "https://open.spotify.com/album/37TC4QxiwGRzFfvoCcZqiK"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Seed",
-      "url": "https://open.spotify.com/track/7l3t98bEOf3yHZGBSNjDXD"
-    },
-    {
-      "added_at": "2026-01-16 17:25:53",
-      "album": {
         "name": "Darksign",
         "url": "https://open.spotify.com/album/5x9VPJjSwDYIWvWEc2MVu1"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 187500,
       "name": "Darksign",
       "url": "https://open.spotify.com/track/2MjnvcOVBjpTaXBBTuL0t1"
+    },
+    {
+      "added_at": "2026-01-16 17:25:53",
+      "album": {
+        "name": "Seed",
+        "url": "https://open.spotify.com/album/37TC4QxiwGRzFfvoCcZqiK"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/7l3t98bEOf3yHZGBSNjDXD"
     },
     {
       "added_at": "2026-01-16 17:25:53",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2026-01-16 17:25:53",
       "album": {
-        "name": "Sworn To Repay",
-        "url": "https://open.spotify.com/album/74ZJH8kdxayr72jwpcAluo"
-      },
-      "artists": [
-        {
-          "name": "Acranius",
-          "url": "https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG"
-        }
-      ],
-      "duration_ms": 164914,
-      "name": "Sworn To Repay",
-      "url": "https://open.spotify.com/track/7eotZ4yZxAh6ktFjowQnXA"
-    },
-    {
-      "added_at": "2026-01-16 17:25:53",
-      "album": {
         "name": "The Isnis",
         "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 197614,
       "name": "The Isnis",
       "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
+    },
+    {
+      "added_at": "2026-01-16 17:25:53",
+      "album": {
+        "name": "Sworn To Repay",
+        "url": "https://open.spotify.com/album/74ZJH8kdxayr72jwpcAluo"
+      },
+      "artists": [
+        {
+          "name": "Acranius",
+          "url": "https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG"
+        }
+      ],
+      "duration_ms": 164914,
+      "name": "Sworn To Repay",
+      "url": "https://open.spotify.com/track/7eotZ4yZxAh6ktFjowQnXA"
     },
     {
       "added_at": "2026-01-16 17:25:53",

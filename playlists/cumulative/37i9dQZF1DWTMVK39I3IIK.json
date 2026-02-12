@@ -4351,6 +4351,24 @@
     },
     {
       "album": {
+        "name": "shortcuts",
+        "url": "https://open.spotify.com/album/2lP7f5wXJy2g3zWiI1U371"
+      },
+      "artists": [
+        {
+          "name": "sweepy",
+          "url": "https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "North",
+      "url": "https://open.spotify.com/track/1NGusiS2w1O7tmJPgBfDTi"
+    },
+    {
+      "album": {
         "name": "nothing at all",
         "url": "https://open.spotify.com/album/5qCrlkXncgAS7h7f5VsOGa"
       },
@@ -7016,7 +7034,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 167065,
       "name": "Won't Be Me",
       "url": "https://open.spotify.com/track/0rBiDLWMhp6pNZBBIvbbyF"

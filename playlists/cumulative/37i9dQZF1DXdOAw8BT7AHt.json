@@ -6988,7 +6988,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 179454,
       "name": "Nice to Know Ya",
       "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
@@ -9802,6 +9802,24 @@
       "duration_ms": 200453,
       "name": "The Hogg",
       "url": "https://open.spotify.com/track/0EafyqIHJGK9WuTX5KaqZ7"
+    },
+    {
+      "album": {
+        "name": "Brotherhood Demo",
+        "url": "https://open.spotify.com/album/0vL9ARWBlnjyrJ5rag2EVS"
+      },
+      "artists": [
+        {
+          "name": "Blood & Tears",
+          "url": "https://open.spotify.com/artist/2TtDxxQQEqbb6gy5o7cOnW"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "The Hurt Continues",
+      "url": "https://open.spotify.com/track/51sb7CUU1tSAw1iWe3tQwn"
     },
     {
       "album": {

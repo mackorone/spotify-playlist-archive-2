@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Tokai\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,541 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,548 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Concrete Valley](https://open.spotify.com/track/0fU8a6ynFpnDx4jECwGLWE) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Concrete Valley 0.5](https://open.spotify.com/album/53Y4VuYwteJcwIlB3PlVvW) | 2:35 |
 | 50 | [Like You](https://open.spotify.com/track/45jEOvG3aufhNH0sNqrALd) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Like You](https://open.spotify.com/album/6pmhnoMFLa3e6wf0BtfV2N) | 4:46 |
 
-Snapshot ID: `AAAAAED895S8/gDrRfAE/9UWqgX9Pi4j`
+Snapshot ID: `AAAAAF6VCATdb7Vk8cQ1xpc1D4B/ov88`

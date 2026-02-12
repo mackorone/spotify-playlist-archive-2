@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 514171,
+  "num_followers": 514293,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAADKOEZsS07oSwmwMyoVNbG1",
+  "snapshot_id": "aYp1AAAAAAAtbaks6cKNgL6soHlrQS48",
   "tracks": [
     {
       "added_at": null,
@@ -423,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
+        "name": "Johannesburg",
+        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
       },
       "artists": [
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
         }
       ],
-      "duration_ms": 339720,
-      "name": "Ghosts That We Knew",
-      "url": "https://open.spotify.com/track/1XN57COv6cbcIZ1LhYtxQd"
+      "duration_ms": 267946,
+      "name": "There Will Be Time",
+      "url": "https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ"
     },
     {
       "added_at": null,
@@ -487,22 +491,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Johannesburg",
-        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
       },
       "artists": [
         {
           "name": "Mumford & Sons",
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
         }
       ],
-      "duration_ms": 267946,
-      "name": "There Will Be Time",
-      "url": "https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ"
+      "duration_ms": 339720,
+      "name": "Ghosts That We Knew",
+      "url": "https://open.spotify.com/track/1XN57COv6cbcIZ1LhYtxQd"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Babel (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 314893,
-      "name": "Lover of the Light",
-      "url": "https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 236883,
       "name": "Monster",
       "url": "https://open.spotify.com/track/2DT29yY6D5Ko07qMohmuGe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Babel (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35eil0gecelJP5QrLS1Qzn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 314893,
+      "name": "Lover of the Light",
+      "url": "https://open.spotify.com/track/3ZQYhvXr4SXcmiWqmEnRS0"
     },
     {
       "added_at": null,

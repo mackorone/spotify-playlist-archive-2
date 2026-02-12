@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [triston](https://open.spotify.com/album/4IMw4E9GF0k37gvB5uiT0C) | 0:00 | 2026-01-30 |  |
+| [](https://open.spotify.com/track/7q8sg6yXIJZG6YdW1QgdOY) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [triston](https://open.spotify.com/album/4IMw4E9GF0k37gvB5uiT0C) | 0:00 | 2026-01-30 | 2026-02-12 |
 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 | 2024-03-22 | 2024-05-03 |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-08-24 | 2023-09-15 |
 | [+ Perra + Bitch](https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:18 | 2025-06-06 | 2025-11-22 |

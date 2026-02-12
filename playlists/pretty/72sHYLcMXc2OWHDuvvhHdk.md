@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 559 likes - 2,296 songs - 5 day 14 hr 7 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 559 likes - 2,307 songs - 5 day 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2304,5 +2304,16 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2294 | [Wings](https://open.spotify.com/track/0tlNA6X9fGAlwPQq2CkKqt) | [Mastering Silence](https://open.spotify.com/artist/4fZb8jkDew7kg3eFwzmyvp) | [Wings](https://open.spotify.com/album/6LS5xbOq6nryBJ3Jp2vKY8) | 2:09 |
 | 2295 | [Next Summer](https://open.spotify.com/track/6Uxd374CH8XLEvlRFvCMsT) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Next Summer](https://open.spotify.com/album/3Zd0Fhy0KxrF386X4u3fRu) | 3:29 |
 | 2296 | [NO AIR](https://open.spotify.com/track/5mHnbg3IyKiL73v4UDYzs2) | [Zheta AKA Beats](https://open.spotify.com/artist/0i4OyOnBFOalV7uzmx6Qny) | [NO AIR](https://open.spotify.com/album/7qzLOOFGmlXoktcjmVSM7X) | 2:48 |
+| 2297 | [Not Your Childhood Sounds](https://open.spotify.com/track/2nSY3lHJfKlYeWsz6xGfq8) | [Kid For Today](https://open.spotify.com/artist/6easV0fgZea9928WvjA4Ny) | [Not Your Childhood Sounds](https://open.spotify.com/album/44kIFGHppaGxG6kERmBKGS) | 5:03 |
+| 2298 | [Existential Defeat](https://open.spotify.com/track/6AYZXyYIKkMOQEyDnIZtA6) | [Fugu Quintet](https://open.spotify.com/artist/5Hzt7Dgy0rQ17eHrZWAFrA) | [Existential Defeat](https://open.spotify.com/album/7h720iTwFtqWWxJvm5k1eP) | 5:50 |
+| 2299 | [Fortified](https://open.spotify.com/track/4eIxHvz4PJ45ZdoKwp5bHW) | [Zachary Durham](https://open.spotify.com/artist/1dthBIwsePbhwnSDF5i9zk) | [Fortified](https://open.spotify.com/album/7IwtfgSt5nXHrxmhHFEQN6) | 3:40 |
+| 2300 | [Letters From The Front](https://open.spotify.com/track/641AXiD4w5qs61BRXS4kGm) | [James Langley](https://open.spotify.com/artist/3DyaG5YVa6SW0zAMfJ6cHp) | [Letters From The Front](https://open.spotify.com/album/3zPZiuC4kdkaZaPYlpURvS) | 4:52 |
+| 2301 | [Shadow on the Wall](https://open.spotify.com/track/59Fvs3IRjHZBpluLeZTy9D) | [Jaro Lynx](https://open.spotify.com/artist/3XmMGe0vtkreQhTmE3f982) | [Shadow on the Wall](https://open.spotify.com/album/20oUJOXxuD2GzUQmZBLkzs) | 3:04 |
+| 2302 | [Lido Samba](https://open.spotify.com/track/2N2BH8QZWLv9mcsUgelkng) | [Reckless Deriver](https://open.spotify.com/artist/3RRj44H6cTLgSQt0Z3LwkG) | [Lido Samba](https://open.spotify.com/album/4IMutCMPTlPkCEkmSUi9C4) | 3:26 |
+| 2303 | [My Saviour](https://open.spotify.com/track/3ZazOI4IXxcTbvTBjsnULA) | [Little Fables](https://open.spotify.com/artist/5eRmLnXByFps5ZVRsJyy0c) | [My Saviour](https://open.spotify.com/album/5OLyo38j8pJAk8pctrcVbu) | 3:34 |
+| 2304 | [El Quebrantahuesos](https://open.spotify.com/track/3Eic47jz6CFDCRyl2sN24C) | [César Maltrago](https://open.spotify.com/artist/0nilA2j3BsBqp3iWOhQloM), [Chris Becerril](https://open.spotify.com/artist/72cgldM9L6hzeuMOka9SQk) | [El Quebrantahuesos](https://open.spotify.com/album/09NDJ9gT2N3mw1e9ytWCeV) | 4:58 |
+| 2305 | [Descontrolada](https://open.spotify.com/track/7rmziVMZPo7QJk1tYyrHK3) | [BoraRoger](https://open.spotify.com/artist/0ZqTAL4oC4tLViGNKPDRqY) | [Descontrolada](https://open.spotify.com/album/3lmQOQsaDAt0S7EcVYXJHA) | 2:11 |
+| 2306 | [Backyard Kings](https://open.spotify.com/track/7qrRSrYdSbW7ESfOFhbat1) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [Backyard Kings](https://open.spotify.com/album/0XigRjeeyL65dPAdnQYdJL) | 2:26 |
+| 2307 | [Gleichsein \- Extended Version](https://open.spotify.com/track/1vnMCjKEUsQW7uuWMZPDlJ) | [Florian Döppert](https://open.spotify.com/artist/6XiAqQIEjUavVqcIc9UfJG), [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Gleichsein \(Extended Version\)](https://open.spotify.com/album/1dxD08b8jWCRwVr4rV7gZj) | 7:21 |
 
-Snapshot ID: `AAAJjyefio84w4SJz5nXoDc/nbMfp+F3`
+Snapshot ID: `AAAJmkZwR93FJdfv+nn9qn2TwtiB1PK5`

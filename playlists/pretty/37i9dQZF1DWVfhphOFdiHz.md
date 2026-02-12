@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Jennarie
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,863 likes - 67 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,880 likes - 67 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 264923,
+  "num_followers": 265041,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Disco Inferno",
-      "url": "https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Regulate\u2026 G Funk Era",
         "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
       },
@@ -315,6 +315,26 @@
       "duration_ms": 248866,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -343,22 +363,18 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 234000,
-      "name": "The Way You Move (feat. Sleepy Brown)",
-      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+      "duration_ms": 196626,
+      "name": "If I Can't",
+      "url": "https://open.spotify.com/track/6mcu7D7QuABVwUGDwovOEh"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -375,22 +391,6 @@
       "duration_ms": 252026,
       "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
       "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 196626,
-      "name": "If I Can't",
-      "url": "https://open.spotify.com/track/6mcu7D7QuABVwUGDwovOEh"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Still Writing In My Diary: 2nd Entry",
-        "url": "https://open.spotify.com/album/16D0usG2u8oFoJSCLWGrix"
-      },
-      "artists": [
-        {
-          "name": "Petey Pablo",
-          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
-        }
-      ],
-      "duration_ms": 235186,
-      "name": "Freek-A-Leek",
-      "url": "https://open.spotify.com/track/4UNhyW0R7qylxrF6Z0q2Tb"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 240026,
       "name": "So Fresh, So Clean",
       "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Still Writing In My Diary: 2nd Entry",
+        "url": "https://open.spotify.com/album/16D0usG2u8oFoJSCLWGrix"
+      },
+      "artists": [
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "duration_ms": 235186,
+      "name": "Freek-A-Leek",
+      "url": "https://open.spotify.com/track/4UNhyW0R7qylxrF6Z0q2Tb"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -975,30 +975,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "The Saga Continues...",
-        "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Black Rob",
-          "url": "https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49"
-        },
-        {
-          "name": "Mark Curry",
-          "url": "https://open.spotify.com/artist/20N6dS0vq9kMWXUqEkFrBA"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Bad Boy for Life",
-      "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Warriorz",
         "url": "https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 247693,
       "name": "Ante Up Remix (feat. Busta Rhymes, Teflon & Remi Martin) - Remix",
       "url": "https://open.spotify.com/track/5osSw3tL07Tuid7AWsvYcc"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "The Saga Continues...",
+        "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Black Rob",
+          "url": "https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49"
+        },
+        {
+          "name": "Mark Curry",
+          "url": "https://open.spotify.com/artist/20N6dS0vq9kMWXUqEkFrBA"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Bad Boy for Life",
+      "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
     },
     {
       "added_at": "2024-10-25 23:07:14",

@@ -4,7 +4,7 @@
 
 > The Amity Affliction is on top of today's best Metal playlist.
 
-1,228 songs - 3 day 7 hr 56 min
+1,229 songs - 3 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/2mTi7e03FygOF0bds32848) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/album/4GuxQZOki4NdCKpn9kW9xn) | 3:32 | 2023-03-03 | 2023-11-18 |
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-07-15 | 2022-10-08 |
 | [Higher Than Death](https://open.spotify.com/track/1uSnbsUf7odODC8r6qPPPx) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [EndEx](https://open.spotify.com/album/7wHoOSWfxWuHcZrLeZHj1B) | 4:19 | 2023-09-29 | 2024-05-11 |
+| [Hive Mind \(feat\. Denzel Curry\)](https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Hive Mind \(feat\. Denzel Curry\)](https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg) | 3:26 | 2026-02-11 |  |
 | [Holding On](https://open.spotify.com/track/3BgaAjG6a44OLGcU6cTUeM) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Holding On](https://open.spotify.com/album/7eGsWt8otdCw1IUShUJmrJ) | 2:54 | 2025-11-21 |  |
 | [Hole Hearted](https://open.spotify.com/track/6WU2sHLqU13QUzwV9m6iGB) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Hole Hearted](https://open.spotify.com/album/10kEMeY4T4I4gPn1gYLOgD) | 3:13 | 2024-08-23 | 2024-10-12 |
 | [Hordes of Khan](https://open.spotify.com/track/0iKl4lIShzrEV904iGjIfE) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Hordes of Khan](https://open.spotify.com/album/52Cnp3vBqtODAZlXD3p8jy) | 3:43 | 2025-06-06 | 2025-09-13 |

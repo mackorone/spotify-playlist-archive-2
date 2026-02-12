@@ -1,12 +1,12 @@
 {
   "description": "This is Quicksand. The essential tracks, all in one playlist.",
-  "num_followers": 1554,
+  "num_followers": 1555,
   "original_name": "This Is Quicksand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAD0KCwzfwxj0npX7d1d4EFe",
+  "snapshot_id": "aYp1AAAAAAD1Pso2jRUwvtYidcv4dMRj",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 155066,
-      "name": "Simpleton",
-      "url": "https://open.spotify.com/track/2Jo7mEf8lL1tUaxFLyHZBu"
+      "duration_ms": 128600,
+      "name": "Blister",
+      "url": "https://open.spotify.com/track/6NnO1eSFVOW8cLnfJvfy60"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
         }
       ],
-      "duration_ms": 128600,
-      "name": "Blister",
-      "url": "https://open.spotify.com/track/6NnO1eSFVOW8cLnfJvfy60"
+      "duration_ms": 155066,
+      "name": "Simpleton",
+      "url": "https://open.spotify.com/track/2Jo7mEf8lL1tUaxFLyHZBu"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Your favorite artists, recorded live - just like you were there! Cover: Eric Church",
-  "num_followers": 143137,
+  "num_followers": 143134,
   "original_name": "Country Live",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-02-06 05:00:35",
       "album": {
+        "name": "Live From 2025",
+        "url": "https://open.spotify.com/album/3EGfky2LBE7t8mWKtHzNeg"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 307387,
+      "name": "Man of the Year - Live From 2025",
+      "url": "https://open.spotify.com/track/367yl2jWYwN2R3jP1Sce3r"
+    },
+    {
+      "added_at": "2026-02-06 05:00:35",
+      "album": {
         "name": "Love On The Inside (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4JcEVEfuqjJhPxmi1Ji3Fl"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 254346,
       "name": "Life In A Northern Town - Live",
       "url": "https://open.spotify.com/track/0TwCdMeFjEltHiNjtii8Jk"
-    },
-    {
-      "added_at": "2026-02-06 05:00:35",
-      "album": {
-        "name": "Live From 2025",
-        "url": "https://open.spotify.com/album/3EGfky2LBE7t8mWKtHzNeg"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 307387,
-      "name": "Man of the Year - Live From 2025",
-      "url": "https://open.spotify.com/track/367yl2jWYwN2R3jP1Sce3r"
     },
     {
       "added_at": "2026-02-06 05:00:35",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-02-06 05:00:35",
       "album": {
-        "name": "Willie And Family Live",
-        "url": "https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB"
+        "name": "Sounds Like The Radio (Live)",
+        "url": "https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
         }
       ],
-      "duration_ms": 219296,
-      "name": "Whiskey River - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
-      "url": "https://open.spotify.com/track/2DC2kFrRHR9IVAuRdjAUQa"
+      "duration_ms": 214561,
+      "name": "Sounds Like the Radio - Live",
+      "url": "https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO"
     },
     {
       "added_at": "2026-02-06 05:00:35",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-02-06 05:00:35",
       "album": {
-        "name": "Sounds Like The Radio (Live)",
-        "url": "https://open.spotify.com/album/25nHEVlMBs3eRknLJw6laD"
+        "name": "Willie And Family Live",
+        "url": "https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB"
       },
       "artists": [
         {
-          "name": "Zach Top",
-          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 214561,
-      "name": "Sounds Like the Radio - Live",
-      "url": "https://open.spotify.com/track/11XAdc6wTAZLetxTkG6FKO"
+      "duration_ms": 219296,
+      "name": "Whiskey River - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
+      "url": "https://open.spotify.com/track/2DC2kFrRHR9IVAuRdjAUQa"
     },
     {
       "added_at": "2026-02-06 05:00:35",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-02-06 05:00:35",
       "album": {
+        "name": "Live from the 717",
+        "url": "https://open.spotify.com/album/4uZUIVFWNUjpImruvXfdiI"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "Pretty Little Poison - Live from the 717",
+      "url": "https://open.spotify.com/track/1ykQRCGrdVjkfXC8bSWYUs"
+    },
+    {
+      "added_at": "2026-02-06 05:00:35",
+      "album": {
         "name": "Brooks & Dunn and Friends - Live from CMT Crossroads",
         "url": "https://open.spotify.com/album/7kgTfRyCCwAIMFpGRktONm"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 216656,
       "name": "Different \u2018Round Here - Live",
       "url": "https://open.spotify.com/track/3ENzGRDiKCLnbWXuY8vibZ"
-    },
-    {
-      "added_at": "2026-02-06 05:00:35",
-      "album": {
-        "name": "Live from the 717",
-        "url": "https://open.spotify.com/album/4uZUIVFWNUjpImruvXfdiI"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "Pretty Little Poison - Live from the 717",
-      "url": "https://open.spotify.com/track/1ykQRCGrdVjkfXC8bSWYUs"
     },
     {
       "added_at": "2026-02-06 05:00:35",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-02-06 05:00:35",
       "album": {
-        "name": "Body Like A Back Road (15 In A 30 Tour Live)",
-        "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 288106,
-      "name": "Body Like A Back Road - 15 In A 30 Tour Live",
-      "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
-    },
-    {
-      "added_at": "2026-02-06 05:00:35",
-      "album": {
         "name": "For The Last Time",
         "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 211706,
       "name": "Write This Down - Live",
       "url": "https://open.spotify.com/track/5AP4NeswU941cNkFxeloME"
+    },
+    {
+      "added_at": "2026-02-06 05:00:35",
+      "album": {
+        "name": "Body Like A Back Road (15 In A 30 Tour Live)",
+        "url": "https://open.spotify.com/album/2aO5dy6212d4dg93KXYF82"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 288106,
+      "name": "Body Like A Back Road - 15 In A 30 Tour Live",
+      "url": "https://open.spotify.com/track/2zqSCyJ3aeJRGqPrHuHClk"
     },
     {
       "added_at": "2026-02-06 05:00:35",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-02-06 05:00:35",
       "album": {
+        "name": "Live At The Ryman",
+        "url": "https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 218720,
+      "name": "21 Summer - Live",
+      "url": "https://open.spotify.com/track/49dulUPJIGiADT4YFygPKw"
+    },
+    {
+      "added_at": "2026-02-06 05:00:35",
+      "album": {
         "name": "Live From Telluride",
         "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
       },
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2026-02-06 05:00:35",
       "album": {
-        "name": "Live At The Ryman",
-        "url": "https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi"
+        "name": "AMERICAN PALM: Live from the Road",
+        "url": "https://open.spotify.com/album/1gnGuzTSNvjdLdsXZk1qsJ"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
         }
       ],
-      "duration_ms": 218720,
-      "name": "21 Summer - Live",
-      "url": "https://open.spotify.com/track/49dulUPJIGiADT4YFygPKw"
+      "duration_ms": 183986,
+      "name": "I LOVE THIS BEACH - Live from the Road",
+      "url": "https://open.spotify.com/track/4Fm0awAyWB46EP7zCgpuJY"
     },
     {
       "added_at": "2026-02-06 05:00:35",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2026-02-06 05:00:35",
       "album": {
-        "name": "AMERICAN PALM: Live from the Road",
-        "url": "https://open.spotify.com/album/1gnGuzTSNvjdLdsXZk1qsJ"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        }
-      ],
-      "duration_ms": 183986,
-      "name": "I LOVE THIS BEACH - Live from the Road",
-      "url": "https://open.spotify.com/track/4Fm0awAyWB46EP7zCgpuJY"
-    },
-    {
-      "added_at": "2026-02-06 05:00:35",
-      "album": {
         "name": "Me and My Kind (Live)",
         "url": "https://open.spotify.com/album/4mi8LU8Z2rUQcsQ4vKXswc"
       },
@@ -1703,22 +1703,6 @@
       "duration_ms": 163013,
       "name": "Me and My Kind - Live",
       "url": "https://open.spotify.com/track/01pn2Jr3H7j8VOKGTh4Ptf"
-    },
-    {
-      "added_at": "2026-02-06 05:00:35",
-      "album": {
-        "name": "Wings (Live at the Ryman)",
-        "url": "https://open.spotify.com/album/2gg3gSnirMHzSdZLvS1Fvs"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 363528,
-      "name": "Wings - Live at the Ryman",
-      "url": "https://open.spotify.com/track/0vaCkZTsFBiWvjVHLFxuG2"
     },
     {
       "added_at": "2026-02-06 05:00:35",
@@ -1739,18 +1723,34 @@
     {
       "added_at": "2026-02-06 05:00:35",
       "album": {
-        "name": "Humble And Kind (Live)",
-        "url": "https://open.spotify.com/album/44aZxLs9jCb2aMdo68TPn3"
+        "name": "Wings (Live at the Ryman)",
+        "url": "https://open.spotify.com/album/2gg3gSnirMHzSdZLvS1Fvs"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 230970,
-      "name": "Humble And Kind - Live",
-      "url": "https://open.spotify.com/track/4VVvE9X2mXjXlP26uBqStZ"
+      "duration_ms": 363528,
+      "name": "Wings - Live at the Ryman",
+      "url": "https://open.spotify.com/track/0vaCkZTsFBiWvjVHLFxuG2"
+    },
+    {
+      "added_at": "2026-02-06 05:00:35",
+      "album": {
+        "name": "For The Last Time",
+        "url": "https://open.spotify.com/album/5fTdNsMGe7catekOvaDgZB"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Check Yes Or No - Live",
+      "url": "https://open.spotify.com/track/71MDysNhBpxguK9t97hM4U"
     }
   ],
   "unique_name": "Country Live",

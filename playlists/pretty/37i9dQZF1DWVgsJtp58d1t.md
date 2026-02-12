@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Click into the feed for more on Black History Month
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,150 likes - 130 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,281 likes - 130 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

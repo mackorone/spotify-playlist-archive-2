@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Kleber Lucas",
-  "num_followers": 182485,
+  "num_followers": 182515,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,18 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Comprou",
-        "url": "https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7"
+        "name": "Um Pedido",
+        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
       },
       "artists": [
         {
-          "name": "William Augusto",
-          "url": "https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K"
-        },
-        {
-          "name": "Paloma Possi",
-          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
-        },
-        {
-          "name": "Cleber Ao Cubo",
-          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
         }
       ],
-      "duration_ms": 282760,
-      "name": "Comprou",
-      "url": "https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm"
+      "duration_ms": 255568,
+      "name": "Um Pedido",
+      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -391,18 +383,26 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Um Pedido",
-        "url": "https://open.spotify.com/album/2gnoxLvqvZlneqneuT3QUE"
+        "name": "Comprou",
+        "url": "https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7"
       },
       "artists": [
         {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+          "name": "William Augusto",
+          "url": "https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K"
+        },
+        {
+          "name": "Paloma Possi",
+          "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
+        },
+        {
+          "name": "Cleber Ao Cubo",
+          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
         }
       ],
-      "duration_ms": 255568,
-      "name": "Um Pedido",
-      "url": "https://open.spotify.com/track/3aATJedaQUNpGRqtYdDxJK"
+      "duration_ms": 282760,
+      "name": "Comprou",
+      "url": "https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
-        "url": "https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4"
-      },
-      "artists": [
-        {
-          "name": "Pablo Simplicio",
-          "url": "https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5"
-        }
-      ],
-      "duration_ms": 169318,
-      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
-      "url": "https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
         "name": "Ton Carfi 20 anos (Ao Vivo)",
         "url": "https://open.spotify.com/album/2vNkUge260SMhGlBBbQP4p"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 313918,
       "name": "Pirei - Ao Vivo",
       "url": "https://open.spotify.com/track/3qowb3VU8LBMd2FL3tOmoU"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
+        "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
+        "url": "https://open.spotify.com/album/0q1ZWtWIRqQyZfr9RX1Ws4"
+      },
+      "artists": [
+        {
+          "name": "Pablo Simplicio",
+          "url": "https://open.spotify.com/artist/6ftRI57Dy5WBwjZb8bk4f5"
+        }
+      ],
+      "duration_ms": 169318,
+      "name": "Jesus Cristo Mudou Meu Viver (What a Difference You've Made in My Life)",
+      "url": "https://open.spotify.com/track/1PwbhJqb9IucLGt7NXF4oo"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -499,22 +499,6 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Luz - Parte 1",
-        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 221193,
-      "name": "Zanzando",
-      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
         "name": "Aleluia",
         "url": "https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 171320,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
+        "name": "Luz - Parte 1",
+        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 221193,
+      "name": "Zanzando",
+      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -711,26 +711,6 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Eis-me Aqui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        },
-        {
-          "name": "Cleber Ao Cubo",
-          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
-        }
-      ],
-      "duration_ms": 331110,
-      "name": "Eis-me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
         "name": "Por Amor a Ti",
         "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
       },
@@ -747,18 +727,22 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Seu Nome \u00c9",
-        "url": "https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt"
+        "name": "Eis-me Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00q9ks8TGjmFo9ZCLygt6l"
       },
       "artists": [
         {
-          "name": "Coral Enok",
-          "url": "https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA"
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        },
+        {
+          "name": "Cleber Ao Cubo",
+          "url": "https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk"
         }
       ],
-      "duration_ms": 340671,
-      "name": "Seu Nome \u00c9",
-      "url": "https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc"
+      "duration_ms": 331110,
+      "name": "Eis-me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3oPiwYIKTRWa0EHaqTRcQb"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -783,6 +767,22 @@
       "duration_ms": 219124,
       "name": "Estado de Gra\u00e7a",
       "url": "https://open.spotify.com/track/55uFwkTDMaj8JglcYMHz3T"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
+        "name": "Seu Nome \u00c9",
+        "url": "https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt"
+      },
+      "artists": [
+        {
+          "name": "Coral Enok",
+          "url": "https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA"
+        }
+      ],
+      "duration_ms": 340671,
+      "name": "Seu Nome \u00c9",
+      "url": "https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
+        "name": "Multiforme",
+        "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
         "name": "SoL\u00e1mento",
         "url": "https://open.spotify.com/album/6WgpLh2PWatLc4oFuq2Tgn"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 223529,
       "name": "SoL\u00e1mento",
       "url": "https://open.spotify.com/track/03WxyQeysg0DnQiTvtOUOM"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
-        "name": "Multiforme",
-        "url": "https://open.spotify.com/album/2S1OyRDUOrbNBLCR6S1IOT"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/5V00qGOkpLho3QRvWM8Gyh"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Nunca Vou Parar (Live)",
-        "url": "https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF"
-      },
-      "artists": [
-        {
-          "name": "Daniel Araujo",
-          "url": "https://open.spotify.com/artist/4Jq7MWwjAEjcBI7TdTtCYg"
-        }
-      ],
-      "duration_ms": 225900,
-      "name": "Nunca Vou Parar - Live",
-      "url": "https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
         "name": "Quero Te Levar Comigo",
         "url": "https://open.spotify.com/album/4kvKVOVwLkE1YYP0i7SIq6"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 279360,
       "name": "Quero Te Levar Comigo",
       "url": "https://open.spotify.com/track/0ATKsRzQ4dQvN0m4sewCTB"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
+        "name": "Nunca Vou Parar (Live)",
+        "url": "https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF"
+      },
+      "artists": [
+        {
+          "name": "Daniel Araujo",
+          "url": "https://open.spotify.com/artist/4Jq7MWwjAEjcBI7TdTtCYg"
+        }
+      ],
+      "duration_ms": 225900,
+      "name": "Nunca Vou Parar - Live",
+      "url": "https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS"
     },
     {
       "added_at": "2025-05-23 03:01:26",

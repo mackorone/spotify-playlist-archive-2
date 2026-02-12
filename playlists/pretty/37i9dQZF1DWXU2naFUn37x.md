@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Lacrim, Papa e Nerissima in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,295 likes - 55 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,265 likes - 55 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 34 | [FW/SS25 \(Freestyle\)](https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 |
 | 35 | [NON METTERCI BECCO](https://open.spotify.com/track/0xruiSHt6TaFZvQuGdDlJV) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:02 |
 | 36 | [INFAMI \(feat\. Side Baby, Ketama126 & Close Listen\)](https://open.spotify.com/track/4O6POAxljB6cfjKx3I2s8A) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [INFAMI \(feat\. Side Baby, Ketama126 & Close Listen\)](https://open.spotify.com/album/7c0wmhZ4UFreXQnNimQkec) | 2:39 |
-| 37 | [NULLA DI BELLO \(feat\. 22simba e Flaco G\)](https://open.spotify.com/track/6ELc14qHl2zH5SWw0I5Tha) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [NULLA DI BELLO](https://open.spotify.com/album/6Mx1PWUdidxleVFFzVmpzt) | 2:31 |
+| 37 | [NULLA DI BELLO \(feat\. 22simba e Flaco G\)](https://open.spotify.com/track/6ELc14qHl2zH5SWw0I5Tha) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9), [Idua](https://open.spotify.com/artist/1a7b1Lrgvn3bKAs23oCI5b) | [NULLA DI BELLO](https://open.spotify.com/album/6Mx1PWUdidxleVFFzVmpzt) | 2:31 |
 | 38 | [Angioletto & Ivan](https://open.spotify.com/track/3E8CHshsY22HCd4mfNCj3h) | [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [Angioletto & Ivan](https://open.spotify.com/album/3sHmICKLEu1zDk2HXSEikH) | 2:10 |
 | 39 | [LIFE IS LIFE \(feat\. Nerissima Serpe & Papa V\)](https://open.spotify.com/track/0XvfITMZy29MKaVWjpeg9X) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU) | [BIG 5](https://open.spotify.com/album/4Are0mNScwygiibFFK39db) | 3:04 |
 | 40 | [MONEY MACHINE \(feat\. Lazza & Tony Effe\)](https://open.spotify.com/track/4txJR7LWq7AQYNYoBCf0gB) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:48 |

@@ -29113,6 +29113,24 @@
     },
     {
       "album": {
+        "name": "Broken Syntax Tapes",
+        "url": "https://open.spotify.com/album/1xJ6RDh4GTPYct7EqDIsmO"
+      },
+      "artists": [
+        {
+          "name": "Romiche",
+          "url": "https://open.spotify.com/artist/0xEnsODJYTD6y7fq7396k6"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246919,
+      "name": "Henuza",
+      "url": "https://open.spotify.com/track/2NzCwz5yoAwnU7s5W3qH3m"
+    },
+    {
+      "album": {
         "name": "Tim (Expanded)",
         "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
       },
@@ -68374,6 +68392,24 @@
       "duration_ms": 204029,
       "name": "Viernes Impar",
       "url": "https://open.spotify.com/track/6nIzS0eniRxxQBw3QynDlm"
+    },
+    {
+      "album": {
+        "name": "Soulslike",
+        "url": "https://open.spotify.com/album/1hU2zINgJZfvnSTo65Yb9T"
+      },
+      "artists": [
+        {
+          "name": "Gilgulim",
+          "url": "https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292445,
+      "name": "Vigilia",
+      "url": "https://open.spotify.com/track/1yDtMXTP3T5RQFxRS2Ez6O"
     },
     {
       "album": {

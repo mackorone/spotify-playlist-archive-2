@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4514,
+  "num_followers": 4516,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAC6FLnR6saGG0CYHZRz55II",
+  "snapshot_id": "aYp1AAAAAAACtptbZuZwF86aaQuIAkgo",
   "tracks": [
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Clothes",
-        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
+        "name": "Warn Me",
+        "url": "https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 191890,
-      "name": "Old Clothes",
-      "url": "https://open.spotify.com/track/5wVQyKqsPKDswDJH4QSJfE"
+      "duration_ms": 194346,
+      "name": "Warn Me",
+      "url": "https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warn Me",
-        "url": "https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Warn Me",
-      "url": "https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Clothes",
         "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
       },
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 159151,
-      "name": "Swear",
-      "url": "https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J"
+      "duration_ms": 191890,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/5wVQyKqsPKDswDJH4QSJfE"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 100613,
       "name": "Let Go/Trashed Floors",
       "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 159151,
+      "name": "Swear",
+      "url": "https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J"
     }
   ],
   "unique_name": "This Is Tigers Jaw",

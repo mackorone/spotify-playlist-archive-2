@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Guilt, Evil Level Live, Nightsweat and more",
+  "description": "With The Guilt, Hex Formes, Evil Level Live and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 259000,
       "name": "Armour Hill",
       "url": "https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d"
@@ -602,7 +602,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 317997,
       "name": "Blast",
       "url": "https://open.spotify.com/track/6CiJ6Qx5lFZDbd0o8JCziN"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 224163,
       "name": "Bleed (Everything You Bury)",
       "url": "https://open.spotify.com/track/2cccKUd5qsD6l4bM9bxHZV"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 269538,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/0mPFxfSyLG9vyyOo0mohkk"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 219511,
       "name": "I can't sleep",
       "url": "https://open.spotify.com/track/5Ccro6iY3KDNOvsvNZsdtv"
@@ -4087,6 +4087,24 @@
     },
     {
       "album": {
+        "name": "If You Even Care",
+        "url": "https://open.spotify.com/album/5OXJjbymWNF6OmBnOVrfYh"
+      },
+      "artists": [
+        {
+          "name": "Bleach Dreamer",
+          "url": "https://open.spotify.com/artist/1rxmoEILeJ6RzCRWRkikBp"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279652,
+      "name": "Not Another Happy Ending",
+      "url": "https://open.spotify.com/track/4FpAgGVNNAP0EzQi1BfpKv"
+    },
+    {
+      "album": {
         "name": "Not Under Your Spell",
         "url": "https://open.spotify.com/album/4LQn2RFdhNM8IgE5ynWqLA"
       },
@@ -4442,7 +4460,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 206462,
       "name": "POV",
       "url": "https://open.spotify.com/track/2OWvD5JeW5USo607C4GK60"
@@ -4800,7 +4818,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 249372,
       "name": "Rough Love",
       "url": "https://open.spotify.com/track/7MiZhqVuFxDb5FKcJywwKO"
@@ -5068,7 +5086,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 190000,
       "name": "Shadow Projection",
       "url": "https://open.spotify.com/track/7tlIYcO8HcsXn0FM8niJAx"
@@ -5654,7 +5672,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 378375,
       "name": "Succubus",
       "url": "https://open.spotify.com/track/5fJQ6sOlhFSGr3k3Rb3B0g"
@@ -6334,7 +6352,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 197888,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4LGumMKgQR6CIuFdecAowS"
@@ -6370,7 +6388,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 142785,
       "name": "Truth Behind The Lies",
       "url": "https://open.spotify.com/track/6t7NYKv8fxf1uXgkz9JGWb"
@@ -6478,7 +6496,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 238373,
       "name": "Unthinkable",
       "url": "https://open.spotify.com/track/3LkNBDxqs44zWx4ixcv5AS"
@@ -6855,6 +6873,24 @@
     },
     {
       "album": {
+        "name": "Thresholds",
+        "url": "https://open.spotify.com/album/47iKT2U28JPKhuewrlM3Pk"
+      },
+      "artists": [
+        {
+          "name": "God in a Black Suit",
+          "url": "https://open.spotify.com/artist/2tMAzA224zvKXlWsCgLp3Q"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276535,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/4s4sUzZZ4arHtSFxE4Il7p"
+    },
+    {
+      "album": {
         "name": "Whispers",
         "url": "https://open.spotify.com/album/0JHzzqes3sawQWOp9deqCM"
       },
@@ -7054,6 +7090,24 @@
       "duration_ms": 314181,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"
+    },
+    {
+      "album": {
+        "name": "\u041b\u043e\u0441\u043a",
+        "url": "https://open.spotify.com/album/2DD92xTxAKDtGSqbpjMUXT"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0418\u041c\u041f\u0410\u0427\u0415",
+          "url": "https://open.spotify.com/artist/2Nq0XCT6qH8GOTgaXq2dXV"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313985,
+      "name": "\u041b\u043e\u0441\u043a",
+      "url": "https://open.spotify.com/track/6ZkxLZy1nTeEj4zpvjJ7lQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy"

@@ -1,12 +1,12 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 180071,
+  "num_followers": 180073,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALQ4Ue03cObNy3yFnmMAZI4cfUXd",
+  "snapshot_id": "AAAAAAuy1ROBwzd4QLwxe9u6QoiT94lg",
   "tracks": [
     {
       "added_at": "2026-02-03 15:00:11",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "Guess Who?",
-        "url": "https://open.spotify.com/album/0vbmhoUstB351YpKBO2hM7"
-      },
-      "artists": [
-        {
-          "name": "Nulbarich",
-          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "NEW ERA",
-      "url": "https://open.spotify.com/track/1mJxoz6ErtRhtkZHVgOuK6"
-    },
-    {
-      "added_at": "2026-02-03 15:00:11",
-      "album": {
         "name": "\u66d6\u6627\u306aBEACH",
         "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 159000,
       "name": "\u66d6\u6627\u306aBEACH",
       "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
+    },
+    {
+      "added_at": "2026-02-03 15:00:11",
+      "album": {
+        "name": "Guess Who?",
+        "url": "https://open.spotify.com/album/0vbmhoUstB351YpKBO2hM7"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "NEW ERA",
+      "url": "https://open.spotify.com/track/1mJxoz6ErtRhtkZHVgOuK6"
     },
     {
       "added_at": "2026-02-03 15:00:11",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+        "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "url": "https://open.spotify.com/album/08V4DnfoV2GJEhipLhUyrD"
       },
       "artists": [
         {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
         }
       ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+      "duration_ms": 195900,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/4u9vXoi6e2SRaCQNicDg3B"
     },
     {
       "added_at": "2026-02-03 15:00:11",
@@ -1271,18 +1271,34 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
-        "url": "https://open.spotify.com/album/08V4DnfoV2GJEhipLhUyrD"
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
       "artists": [
         {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
         }
       ],
-      "duration_ms": 195900,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
-      "url": "https://open.spotify.com/track/4u9vXoi6e2SRaCQNicDg3B"
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+    },
+    {
+      "added_at": "2026-02-03 15:00:11",
+      "album": {
+        "name": "Season",
+        "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
     },
     {
       "added_at": "2026-02-03 15:00:11",
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "Season",
-        "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
+        "name": "HONDA",
+        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "Friday Night Plans",
+          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
+      "duration_ms": 239746,
+      "name": "HONDA",
+      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
     },
     {
       "added_at": "2026-02-03 15:00:11",
@@ -1351,22 +1367,6 @@
       "duration_ms": 255293,
       "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
       "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
-    },
-    {
-      "added_at": "2026-02-03 15:00:11",
-      "album": {
-        "name": "HONDA",
-        "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
-      },
-      "artists": [
-        {
-          "name": "Friday Night Plans",
-          "url": "https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "HONDA",
-      "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
     },
     {
       "added_at": "2026-02-03 15:00:11",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "\u541b\u3068drive",
-        "url": "https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 259615,
-      "name": "\u541b\u3068drive",
-      "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
-    },
-    {
-      "added_at": "2026-02-03 15:00:11",
-      "album": {
         "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73\uff01\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
         "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 220960,
       "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
       "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
+    },
+    {
+      "added_at": "2026-02-03 15:00:11",
+      "album": {
+        "name": "\u541b\u3068drive",
+        "url": "https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "duration_ms": 259615,
+      "name": "\u541b\u3068drive",
+      "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
     },
     {
       "added_at": "2026-02-03 15:00:11",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
-      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
-    },
-    {
-      "added_at": "2026-02-03 15:00:11",
-      "album": {
         "name": "\u3061\u304c\u3046",
         "url": "https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 230786,
       "name": "eden",
       "url": "https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY"
+    },
+    {
+      "added_at": "2026-02-03 15:00:11",
+      "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
+      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

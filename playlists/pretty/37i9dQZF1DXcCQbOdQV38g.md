@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,901 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,896 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 59 | [In De Schuur](https://open.spotify.com/track/4d2NiGtCaVrMihMfarLE8o) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Lars](https://open.spotify.com/album/43TZEM7ygBER2J582OdGWX) | 3:01 |
 | 60 | [Más Más Más](https://open.spotify.com/track/28hEtjNvlDhtb38fgXsLRa) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Más Más Más](https://open.spotify.com/album/01hHnT4Hmzju6oF6Cyq9XM) | 2:34 |
 | 61 | [Amsterdam](https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Amsterdam](https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz) | 2:52 |
-| 62 | [Zomernacht In Griekenland](https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zomernacht In Griekenland](https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD) | 2:47 |
-| 63 | [Jij en Ik](https://open.spotify.com/track/2m1ToXJCTuy72tjWshhiv7) | [Belle Perez](https://open.spotify.com/artist/58llsXEROa2xdy24HI6D3r), [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Jij en Ik](https://open.spotify.com/album/2fZn6VOg5V3AuudSaM2cfp) | 3:09 |
+| 62 | [Jij en Ik](https://open.spotify.com/track/2m1ToXJCTuy72tjWshhiv7) | [Belle Perez](https://open.spotify.com/artist/58llsXEROa2xdy24HI6D3r), [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Jij en Ik](https://open.spotify.com/album/2fZn6VOg5V3AuudSaM2cfp) | 3:09 |
+| 63 | [Zomernacht In Griekenland](https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Zomernacht In Griekenland](https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD) | 2:47 |
 | 64 | [Hoe](https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [The Singles Collection](https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw) | 2:51 |
 | 65 | [Hotelschool](https://open.spotify.com/track/1R46BVgLnBXkVYAl31rKIF) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:21 |
 | 66 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 | 69 | [Eenzame Nacht](https://open.spotify.com/track/7ieHImUwrGS8PJyd7tfxY4) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Eenzame Nacht](https://open.spotify.com/album/52OJSSsNbX5y0r84mcBULb) | 2:40 |
 | 70 | [Un Chance](https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Un Chance](https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd) | 2:52 |
 
-Snapshot ID: `AAAAAA+ubkdoFKbyyTr6tS7mCmz9vaXC`
+Snapshot ID: `AAAAAKsn4HcsamHbEVskWPHuCC15PH+3`

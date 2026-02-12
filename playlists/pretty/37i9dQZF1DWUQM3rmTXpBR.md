@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Seera
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,982 likes - 40 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,001 likes - 40 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Zaman \(زمن\)](https://open.spotify.com/track/7FuKhxqlfiqEZdtcTZtmP9) | [Seera](https://open.spotify.com/artist/2F1QgtQgZA2gx2ovc1bEkc) | [Sarab \(سراب\)](https://open.spotify.com/album/1iNbgYCR4hjyxWFvtvenei) | 5:33 |
 | 2 | [Hannen](https://open.spotify.com/track/1tuvDoD0kG32dVuZziBTQ3) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Hannen](https://open.spotify.com/album/24Dst2Jb2e2G8LYLBY75ZL) | 2:37 |
-| 3 | [Aleem Allah عليم الله](https://open.spotify.com/track/3vOYS16Twv5u9sLO0yxswF) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Aleem Allah عليم الله](https://open.spotify.com/album/1Y69tspoX8E1X6MOKIKhOB) | 3:58 |
+| 3 | [Aleem Allah عليم الله \(Galbi Wadani Lawain قلبي وداني لوين\)](https://open.spotify.com/track/3vOYS16Twv5u9sLO0yxswF) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Aleem Allah عليم الله \(Galbi Wadani Lawain قلبي وداني لوين\)](https://open.spotify.com/album/1Y69tspoX8E1X6MOKIKhOB) | 3:58 |
 | 4 | [Mesh Bet2ooly leh مش بتقولي ليه](https://open.spotify.com/track/11g8MT4npcCvkTee8njIM0) | [Pink Seasalt](https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D) | [Mesh Bet2ooly leh مش بتقولي ليه](https://open.spotify.com/album/5Gr5eMsxHvJLt1RrtkJr96) | 2:31 |
 | 5 | [Bas7ab Kalami بسحب كلامي](https://open.spotify.com/track/30Bkjnh9HaUgxAF6SBb1fP) | [Autostrad](https://open.spotify.com/artist/4WtbPWxKvsXj9lWBi5buWJ) | [Bas7ab Kalami بسحب كلامي](https://open.spotify.com/album/5oFTSkuZ3KzhrQfZr3oSTi) | 3:41 |
 | 6 | [Yumain O Leila](https://open.spotify.com/track/08NqxhwtQzKtRdPtRSBuTR) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Malyoun](https://open.spotify.com/album/1Sxmi03WJhcGlccCwPXSDM) | 7:53 |

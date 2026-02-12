@@ -4,7 +4,7 @@
 
 > 
 
-1,337 songs - 2 day 22 hr 30 min
+1,340 songs - 2 day 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,6 +534,7 @@
 | [How it go](https://open.spotify.com/track/6yTy7zuNnUglg5EIlD5vX4) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:04 | 2023-02-28 | 2024-03-05 |
 | [How To Fish \[feat\. Reach\]](https://open.spotify.com/track/643DoQg4WfSiU4voJBdpEW) | [Dela](https://open.spotify.com/artist/3ZNUlWnJXhcuBaTJGnOO8O) | [Atmosphere Airlines Vol.1](https://open.spotify.com/album/1zcezEmMRB9zI8OPyFeVF4) | 3:08 | 2026-01-13 |  |
 | [HTAFL](https://open.spotify.com/track/0ezt3b76CRzJcmCMmCVmbw) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Lost Files](https://open.spotify.com/album/5SLvT5S6ZthRj2sOqD649Q) | 2:55 | 2022-12-23 | 2023-05-09 |
+| [Hymn For A Droid](https://open.spotify.com/track/6e7LEf6iDAkshuWbpnqcKN) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [And Now For The Whatchamacallit](https://open.spotify.com/album/61gvdyrZybWdOsDBzSMdrj) | 3:27 | 2026-02-11 |  |
 | [I Been](https://open.spotify.com/track/1liQkxQP5nunXlGYueCqkS) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 2:34 | 2025-03-03 | 2025-05-21 |
 | [I Bought Her \(feat\. Lil Duke\)](https://open.spotify.com/track/7HPUVxJdwGMujRmstBlvp7) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Duke](https://open.spotify.com/artist/06Qf6vq8AVIpE9XIw8LAsY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:21 | 2023-07-13 | 2024-03-05 |
 | [I Can't Help Myself](https://open.spotify.com/track/2SurOaNVxytJfonS5X5ZyD) | [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Stacy Epps](https://open.spotify.com/artist/59liBbbghYBWqX9dN68XYH) | [The Disrupt](https://open.spotify.com/album/3h0arkbd1vMtQcNJ5OR6Ov) | 3:29 | 2026-01-13 |  |
@@ -830,6 +831,7 @@
 | [oHio \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4Aa6NtW6JQcFEvR831K8xu) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:51 | 2024-03-04 | 2024-04-24 |
 | [ok / what i do](https://open.spotify.com/track/1jNaZAWYQnCAJiACFHWgRO) | [Destroy Lonely Archive](https://open.spotify.com/artist/5ZerbSqqmkJ6Um3rtywm6o) | [XO](https://open.spotify.com/album/0CDS6LJ9nlplHklEIgkCtr) | 2:03 | 2022-07-28 | 2023-12-14 |
 | [ok / what i do](https://open.spotify.com/track/4V7fgGBWKeNnTfn4UvcV60) | [kokori](https://open.spotify.com/artist/1tUWteCf6kMckNEm6DFGOZ) | [XO](https://open.spotify.com/album/16czINg68lsXnb7y3zfdoQ) | 2:06 | 2023-12-27 | 2024-04-24 |
+| [Old Yellow Bricks](https://open.spotify.com/track/3BcQFPRZuuUClWStz29WjN) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 3:07 | 2026-02-11 |  |
 | [OLYMPIAN](https://open.spotify.com/track/4uoADk7q83CHvXHW3k1etM) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:54 | 2025-06-01 |  |
 | [OMG](https://open.spotify.com/track/2qF9R6Q0bAdlN3fkgYqKM8) | [Kankan](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:15 | 2025-06-23 |  |
 | [ON 1](https://open.spotify.com/track/4K7qziboa9VHtqCCFutDgm) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 3:04 | 2024-12-19 | 2025-05-21 |
@@ -1155,6 +1157,7 @@
 | [TASTE](https://open.spotify.com/track/3IM6Cc6bK88qFYXrF8wh8t) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:50 | 2024-11-05 | 2026-02-08 |
 | [Teach You To Be Lonely](https://open.spotify.com/track/1u3SbjzS20gjIePyLGZmYR) | [Sybyr](https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ) | [Salty Sammy](https://open.spotify.com/album/0lmjWuU4ZrinYP5NW7ip61) | 4:39 | 2022-09-05 | 2023-04-24 |
 | [Tease \(feat\. Pharrell\)](https://open.spotify.com/track/2xyRZ1lxkW5cXDTRt4bT9o) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hollywood: A Story of a Dozen Roses \(Deluxe Version\)](https://open.spotify.com/album/79EyqF9taW9XFPKci2U5D9) | 2:55 | 2025-09-29 |  |
+| [Teddy Picker](https://open.spotify.com/track/4OkPamOn5GofkOQu64Z4eR) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:40 | 2026-02-11 |  |
 | [Teen X Babe](https://open.spotify.com/track/1HYOCC0xTD7ym5oOmP5AKz) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:56 | 2022-03-07 | 2023-12-14 |
 | [TELEKINESIS \(feat\. SZA & Future\)](https://open.spotify.com/track/1i9lZvlaDdWDPyXEE95aiq) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 5:53 | 2023-08-07 | 2024-03-05 |
 | [Tell Me Who Profits](https://open.spotify.com/track/2HoinVXGivQoUGO49A1HjN) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:01 | 2025-12-15 |  |

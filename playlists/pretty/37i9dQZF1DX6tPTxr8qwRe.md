@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Precious Pepala on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,653 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,624 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 27 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
 | 28 | [avoidant little b <3](https://open.spotify.com/track/3l9GDt9skAJW4i1wsdDo7R) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [avoidant little b <3](https://open.spotify.com/album/4FISs2pE6LZVxCfb0RIBGJ) | 2:28 |
 | 29 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 |
-| 30 | [SPEAKERS](https://open.spotify.com/track/1A9xerPyv4MQJBpCvAqSeD) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [SPEAKERS](https://open.spotify.com/album/1jLXo9Y5IH2C9fnnnzdN84) | 2:01 |
+| 30 | [SPEAKERS](https://open.spotify.com/track/1A9xerPyv4MQJBpCvAqSeD) | [CARLA](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [SPEAKERS](https://open.spotify.com/album/1jLXo9Y5IH2C9fnnnzdN84) | 2:01 |
 | 31 | [SERiAL KiLLER](https://open.spotify.com/track/5hAKpqv7L2bhzzQr4XDN6z) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [SERiAL KiLLER](https://open.spotify.com/album/0izQeMP2SyIqsD8vH3s3bi) | 2:52 |
 | 32 | [Predator](https://open.spotify.com/track/4Yw8f14VJifM5loeSSKlW0) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [Predator](https://open.spotify.com/album/41U6YwMaGP6wdtRTZptEaG) | 1:55 |
 | 33 | [Kiss](https://open.spotify.com/track/4OwxTsR3IPjFCX0sii5vtP) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Kiss](https://open.spotify.com/album/0d0LjZgArvtjtzX6SnDulV) | 2:48 |

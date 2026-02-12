@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3609,
+  "num_followers": 3611,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAABeuM55FUu2jZt4TzZx2z0c",
+  "snapshot_id": "aYp1AAAAAACXishuaMf4tnUHnSaOvvj9",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baby Chefe",
+        "url": "https://open.spotify.com/album/2fPcIIk8PON9R793bOoqOv"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 140220,
+      "name": "Mo Parada",
+      "url": "https://open.spotify.com/track/1K2CtHPaeHw3lIYJ8Z1khA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00fasicas Para Marolar",
         "url": "https://open.spotify.com/album/3arnEefvVL9ReTcoHiNOFp"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 171008,
       "name": "Gostoso esse Pretinho",
       "url": "https://open.spotify.com/track/3VQ4Dszt8yygoYp0n0OlBt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby Chefe",
-        "url": "https://open.spotify.com/album/2fPcIIk8PON9R793bOoqOv"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 140220,
-      "name": "Mo Parada",
-      "url": "https://open.spotify.com/track/1K2CtHPaeHw3lIYJ8Z1khA"
     },
     {
       "added_at": null,
@@ -1015,30 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO III",
-        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
-      },
-      "artists": [
-        {
-          "name": "Attlanta",
-          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Ogrand",
-          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "VIM DE L\u00c1",
-      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem que t\u00e1 vindo no porte?",
         "url": "https://open.spotify.com/album/70MNJElKz42IGINcxMhJG5"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 150711,
       "name": "Quem que t\u00e1 vindo no porte?",
       "url": "https://open.spotify.com/track/2vkkLaM2uBX8d5Gs1IBjsa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUTURO III",
+        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
+      },
+      "artists": [
+        {
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Ogrand",
+          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "VIM DE L\u00c1",
+      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
     },
     {
       "added_at": null,
@@ -1099,30 +1099,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLASMA",
-        "url": "https://open.spotify.com/album/3WJttvkL7ss7DwkYz43JkQ"
-      },
-      "artists": [
-        {
-          "name": "Rizzi Get Busy",
-          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "PG 400",
-          "url": "https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz"
-        }
-      ],
-      "duration_ms": 174861,
-      "name": "MEC",
-      "url": "https://open.spotify.com/track/4sRo2cKLhGI3SlOftXq4I0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revoada",
         "url": "https://open.spotify.com/album/6mGAkk5Is9C9FZSaMSnU1Z"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 195447,
       "name": "Revoada",
       "url": "https://open.spotify.com/track/7n68UDdlNilSIsqI9A4ROG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PLASMA",
+        "url": "https://open.spotify.com/album/3WJttvkL7ss7DwkYz43JkQ"
+      },
+      "artists": [
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "PG 400",
+          "url": "https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz"
+        }
+      ],
+      "duration_ms": 174861,
+      "name": "MEC",
+      "url": "https://open.spotify.com/track/4sRo2cKLhGI3SlOftXq4I0"
     },
     {
       "added_at": null,

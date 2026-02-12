@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,974 likes - 28 songs - 1 hr 44 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,979 likes - 28 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 5 | [Arrow](https://open.spotify.com/track/0LkDH8SBIHcbjX8Vj8PByc) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Arrow](https://open.spotify.com/album/5YLItJy7JpxhHQMX9sDvvU) | 3:29 |
 | 6 | [Penny in the Lake](https://open.spotify.com/track/5evrRclzNI40NmyRNIjr79) | [Ratboys](https://open.spotify.com/artist/1SoBNpuC0N4nvaQFENS0qf) | [Penny in the Lake](https://open.spotify.com/album/0S0JTdP9qAROyrjNOXe35Q) | 3:51 |
 | 7 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
-| 8 | [OFFERINGS](https://open.spotify.com/track/19n32jI1QJiXMr3KXFRCfk) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/5kwsNJFbDmWUpst7JVmEei) | [OFFERINGS](https://open.spotify.com/album/2kgwGxKuLxEHBQjKXs9qo7) | 3:02 |
+| 8 | [OFFERINGS](https://open.spotify.com/track/19n32jI1QJiXMr3KXFRCfk) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [OFFERINGS](https://open.spotify.com/album/2kgwGxKuLxEHBQjKXs9qo7) | 3:02 |
 | 9 | [Eyes Lowered](https://open.spotify.com/track/4tlvJc74uAN61eG23u5E7k) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Eyes Lowered](https://open.spotify.com/album/2ZoUCoXKmNTQso7YaDWrRL) | 3:44 |
 | 10 | [Citizen I.C.E.](https://open.spotify.com/track/1Gjk9xVoLX2c5xFSBow3ut) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu) | [Citizen I.C.E.](https://open.spotify.com/album/0a8UXVBxYkdx4KmYkjMamt) | 1:23 |
 | 11 | [Worry Angel](https://open.spotify.com/track/2KbsdGIrImQKjWGCAxWgQ5) | [Witch Post](https://open.spotify.com/artist/4TBDzXf9NfvFpqLOAodNYQ) | [Worry Angel](https://open.spotify.com/album/5mDYNjrQF8oPGycWsGQA7f) | 3:59 |

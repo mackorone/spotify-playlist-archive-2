@@ -1,6 +1,6 @@
 {
   "description": "Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.",
-  "num_followers": 391854,
+  "num_followers": 391831,
   "original_name": "Rainy Day",
   "owner": {
     "name": "Spotify",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
-        "name": "Thin",
-        "url": "https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn"
+        "name": "Little Oblivions",
+        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
       "artists": [
         {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 159102,
-      "name": "Vedauwoo",
-      "url": "https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi"
+      "duration_ms": 209986,
+      "name": "Crying Wolf",
+      "url": "https://open.spotify.com/track/2Fp9c5VhgUHFDhW4v9jQA0"
     },
     {
       "added_at": "2024-07-05 20:47:34",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
-        "name": "Little Oblivions",
-        "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
+        "name": "Thin",
+        "url": "https://open.spotify.com/album/7z3uh23KJCyppUMkYwiHLn"
       },
       "artists": [
         {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
         }
       ],
-      "duration_ms": 209986,
-      "name": "Crying Wolf",
-      "url": "https://open.spotify.com/track/2Fp9c5VhgUHFDhW4v9jQA0"
+      "duration_ms": 159102,
+      "name": "Vedauwoo",
+      "url": "https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi"
     },
     {
       "added_at": "2024-07-05 20:47:34",
@@ -951,6 +951,26 @@
     {
       "added_at": "2024-07-05 20:47:34",
       "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/3HaXu8yI1wBwmQB2ifgccT"
+      },
+      "artists": [
+        {
+          "name": "Ainslie Wills",
+          "url": "https://open.spotify.com/artist/6pOtVlJugMBAdUU8OU1xDe"
+        },
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/7DEY4XYmucW9CajmANlscn"
+    },
+    {
+      "added_at": "2024-07-05 20:47:34",
+      "album": {
         "name": "Forest Fires",
         "url": "https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j"
       },
@@ -979,30 +999,6 @@
       "duration_ms": 199906,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D"
-    },
-    {
-      "added_at": "2024-07-05 20:47:34",
-      "album": {
-        "name": "Killer + The Sound",
-        "url": "https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Abby Gundersen",
-          "url": "https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q"
-        }
-      ],
-      "duration_ms": 475186,
-      "name": "Killer + The Sound",
-      "url": "https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS"
     }
   ],
   "unique_name": "Rainy Day",

@@ -1,13 +1,129 @@
 {
   "description": "",
-  "num_followers": 22637,
+  "num_followers": 22640,
   "original_name": "Malaa Selection ",
   "owner": {
     "name": "Ma La",
     "url": "https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy"
   },
-  "snapshot_id": "AAAKff9y3ucMkXi9UjqO5c/PbgA5O9Zl",
+  "snapshot_id": "AAAKiCpbDqcpui3BfM48R89sa/pXc5c4",
   "tracks": [
+    {
+      "added_at": "2026-02-11 07:20:55",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/5XuKcuWfhlgvNSwylIQu0e"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        },
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6JY6jXuAuTEH8VMgmkW87Y"
+    },
+    {
+      "added_at": "2026-02-11 07:22:53",
+      "album": {
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/0jpb8dwJSWcZOgao05mnGt"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "duration_ms": 140005,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/2BisOilWiyxNr0NMoZRxO6"
+    },
+    {
+      "added_at": "2026-02-11 07:23:38",
+      "album": {
+        "name": "Be Without You",
+        "url": "https://open.spotify.com/album/0cJIafKRuQ84XkvfPk8Umo"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 208181,
+      "name": "Be Without You",
+      "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
+    },
+    {
+      "added_at": "2026-02-11 07:25:59",
+      "album": {
+        "name": "Get Flavor",
+        "url": "https://open.spotify.com/album/4uZ31Ph9ssSSBgY2UOgekC"
+      },
+      "artists": [
+        {
+          "name": "Adaru",
+          "url": "https://open.spotify.com/artist/6w8EDSvxku1HxRykFvPVDL"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Get Flavor",
+      "url": "https://open.spotify.com/track/1cKJO9AfPPK1X58JBASqAl"
+    },
+    {
+      "added_at": "2026-02-11 07:15:05",
+      "album": {
+        "name": "Funk Rider",
+        "url": "https://open.spotify.com/album/0Smedj3kQlLiwpIsiPSOh3"
+      },
+      "artists": [
+        {
+          "name": "Dale Howard",
+          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
+        }
+      ],
+      "duration_ms": 200601,
+      "name": "Funk Rider",
+      "url": "https://open.spotify.com/track/6RZakjq46iwjOvcTrVryOz"
+    },
+    {
+      "added_at": "2026-02-11 07:15:33",
+      "album": {
+        "name": "Out of My Mind EP",
+        "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 204737,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
+    },
+    {
+      "added_at": "2026-02-11 07:20:30",
+      "album": {
+        "name": "Make My Day",
+        "url": "https://open.spotify.com/album/6cQSuvnkSmmgHve6ZiwR4f"
+      },
+      "artists": [
+        {
+          "name": "ESSE",
+          "url": "https://open.spotify.com/artist/4PFWrk1gURzx5KuGSSLO19"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Make My Day",
+      "url": "https://open.spotify.com/track/0CakZhdFnhL3nHpHTeCZ7W"
+    },
     {
       "added_at": "2025-11-25 00:35:49",
       "album": {

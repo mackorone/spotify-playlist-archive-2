@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 287569,
+  "num_followers": 287599,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAADrGpbowNp37htbxbg2kEUo",
+  "snapshot_id": "aYp1AAAAAADAHcuGlegabBZn1cLWYosG",
   "tracks": [
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I quit (deluxe)",
-        "url": "https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 176826,
-      "name": "Tie you down",
-      "url": "https://open.spotify.com/track/6lvvECsIZNkcEl38gN8ehb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flood / Glow",
         "url": "https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 134413,
       "name": "Glow (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/3Qy4hBI9YBIt3yNYPMXPn8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I quit (deluxe)",
+        "url": "https://open.spotify.com/album/3KspmBolf6H0PpEPwN1dyu"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Tie you down",
+      "url": "https://open.spotify.com/track/6lvvECsIZNkcEl38gN8ehb"
     },
     {
       "added_at": null,

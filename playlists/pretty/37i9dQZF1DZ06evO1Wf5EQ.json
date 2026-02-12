@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAACkv62Iiz1SklNHa5Yfad39",
+  "snapshot_id": "aYp1AAAAAABHPNlzIvZeyud3t09W9jip",
   "tracks": [
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 130728,
-      "name": "Best Alone",
-      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
+      "duration_ms": 108178,
+      "name": "Supper at Six",
+      "url": "https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 108178,
-      "name": "Supper at Six",
-      "url": "https://open.spotify.com/track/63jsh7N63DiaxMZjOTpaOV"
+      "duration_ms": 130728,
+      "name": "Best Alone",
+      "url": "https://open.spotify.com/track/1qpDidD87uRAKNZc2NgxUz"
     },
     {
       "added_at": null,
@@ -287,22 +287,6 @@
       "duration_ms": 184293,
       "name": "Training With Mr. Schaibel",
       "url": "https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Godless (Original Music from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 135493,
-      "name": "Welcome To LaBelle",
-      "url": "https://open.spotify.com/track/39ymvR1OhXUe0qt7YeFA7y"
     },
     {
       "added_at": null,

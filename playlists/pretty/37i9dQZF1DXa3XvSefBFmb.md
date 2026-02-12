@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Rita Rocha, e explora as músicas escolhidas pelos nossos editores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,039 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,040 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Tua ou de Mais Ninguém](https://open.spotify.com/track/0mwRAQkY6POLxGA0PZwcoz) | [Tatiana Duarte](https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT) | [Tua ou de Mais Ninguém](https://open.spotify.com/album/0713IGq29NJqWg9jpWqIce) | 3:15 |
 | 50 | [Como é Fraco o Coração \(feat\. Tiago Nogueira\)](https://open.spotify.com/track/2Wx3KYVPj7OxIPPcCwQqMl) | [Elisa](https://open.spotify.com/artist/5dmOPgOqzAhlpOlGFUouNh), [Tiago Nogueira](https://open.spotify.com/artist/4eGX5Ukp5TPGJGYVmC91UF) | [Como é Fraco o Coração \(feat\. Tiago Nogueira\)](https://open.spotify.com/album/0Oj590VuDO7PDwHnlz8Cq1) | 2:46 |
 
-Snapshot ID: `AAAAAAmGx0xfRl/3TxZTgsycM6UKv0z8`
+Snapshot ID: `AAAAAEHZGm17d6aVBXUetDglt35bSnuK`

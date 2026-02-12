@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Marina Daza.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: TERE!",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -8440,6 +8440,24 @@
       "duration_ms": 209198,
       "name": "Algoritmos",
       "url": "https://open.spotify.com/track/2dZ3947Hp24o6tSY7hF247"
+    },
+    {
+      "album": {
+        "name": "Alguien (quien sea)",
+        "url": "https://open.spotify.com/album/7w9y1bBWSWv1y1BJmEuXM4"
+      },
+      "artists": [
+        {
+          "name": "El Gavira",
+          "url": "https://open.spotify.com/artist/1UvQwGhNMpOK3fqW1kBW8s"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197360,
+      "name": "Alguien (quien sea)",
+      "url": "https://open.spotify.com/track/58otJbmPf2f6pJQUBOg2GU"
     },
     {
       "album": {
@@ -40726,7 +40744,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 186811,
       "name": "DORMIR",
       "url": "https://open.spotify.com/track/3jn9XrG5y4W6b2TMHZxwLA"
@@ -48871,6 +48889,24 @@
     },
     {
       "album": {
+        "name": "En un coche a ninguna parte",
+        "url": "https://open.spotify.com/album/7gMeoULmEW0pyjgN11FY5S"
+      },
+      "artists": [
+        {
+          "name": "Elena Carat",
+          "url": "https://open.spotify.com/artist/4F7tG90z3UVK5jSItq3GbM"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181256,
+      "name": "En un coche a ninguna parte",
+      "url": "https://open.spotify.com/track/3bonbD6kszJ2ba5FFTVauu"
+    },
+    {
+      "album": {
         "name": "En un Hilo",
         "url": "https://open.spotify.com/album/53nWOyzKB91cyHUz9MbHdt"
       },
@@ -51228,7 +51264,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 154127,
       "name": "Especialista",
       "url": "https://open.spotify.com/track/7yWhTh5ZaS2QfLlyYu93hG"
@@ -54928,7 +54964,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 185274,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/7l54hHBQLOoGK60avlMTBi"
@@ -61982,7 +62018,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 166588,
       "name": "HENTAI (\u5909\u614b)",
       "url": "https://open.spotify.com/track/48L0VPBtQRf6gBqKnkW3xF"
@@ -66811,6 +66847,24 @@
     },
     {
       "album": {
+        "name": "Jimmy Choo",
+        "url": "https://open.spotify.com/album/0qsGM5Hk2dCqCRoloK6xR5"
+      },
+      "artists": [
+        {
+          "name": "DEIVY",
+          "url": "https://open.spotify.com/artist/2GSncWSx6wRX5EYLkDlx1C"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Jimmy Choo",
+      "url": "https://open.spotify.com/track/1NEz9BWykRr2TYOEbigWkw"
+    },
+    {
+      "album": {
         "name": "Jo",
         "url": "https://open.spotify.com/album/61blXR0n3hN40kDQdVpMRX"
       },
@@ -68428,6 +68482,24 @@
       "duration_ms": 145917,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/2liDKbaX6TnqW5y24ql9rm"
+    },
+    {
+      "album": {
+        "name": "KOMOYO",
+        "url": "https://open.spotify.com/album/76vfznZPqDkP9wYqQt5aNv"
+      },
+      "artists": [
+        {
+          "name": "fuckfilipp",
+          "url": "https://open.spotify.com/artist/6gFcPZeMtfpB8DPaSqm10A"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140432,
+      "name": "KOMOYO",
+      "url": "https://open.spotify.com/track/6BEgs0M9ZsBuayFrmxAPrA"
     },
     {
       "album": {
@@ -85318,6 +85390,24 @@
       "duration_ms": 201693,
       "name": "Maya",
       "url": "https://open.spotify.com/track/6LKKRE40TErnDna4S19JcG"
+    },
+    {
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/4AGurc9lsr93iR0phMtJcH"
+      },
+      "artists": [
+        {
+          "name": "Moni Fernandez",
+          "url": "https://open.spotify.com/artist/4Yi02zSYTtpx63FVyTwXoy"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0KExjPs75jR8bZl6UfKpmS"
     },
     {
       "album": {
@@ -109266,7 +109356,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 159512,
       "name": "Pantal\u00f3n de pijama",
       "url": "https://open.spotify.com/track/3Ukkvgr59Cp8AEQ3KnSYFk"
@@ -110726,6 +110816,24 @@
       "duration_ms": 169024,
       "name": "Payaso Triste",
       "url": "https://open.spotify.com/track/3uifQY9uYynGt20PA2rUXs"
+    },
+    {
+      "album": {
+        "name": "guerra y paz",
+        "url": "https://open.spotify.com/album/0wR8D7YqXpocvemFiQbAX1"
+      },
+      "artists": [
+        {
+          "name": "cryymm",
+          "url": "https://open.spotify.com/artist/4QW4Rb5rAM0eXitKwAjqeX"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "paz",
+      "url": "https://open.spotify.com/track/52xCEdh1JK9j1aZ53LhV7K"
     },
     {
       "album": {
@@ -114822,6 +114930,24 @@
       "duration_ms": 177777,
       "name": "POPSTAR",
       "url": "https://open.spotify.com/track/46U43hwlA48jQW5pxYhbkk"
+    },
+    {
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/6D3ofJdacNfuLf5sjohPsl"
+      },
+      "artists": [
+        {
+          "name": "Eva Calyza",
+          "url": "https://open.spotify.com/artist/6rUgNfaBgUk0WCQbNafgKh"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161786,
+      "name": "POPSTAR",
+      "url": "https://open.spotify.com/track/7A3axGJfdBYFDtwWbPPOE5"
     },
     {
       "album": {
@@ -137280,7 +137406,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 152000,
       "name": "Tarara",
       "url": "https://open.spotify.com/track/4qOfpYoDGz2r216pPNFMAA"
@@ -137632,7 +137758,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 208095,
       "name": "Te Amo (Mal)",
       "url": "https://open.spotify.com/track/0NeimgjlCZ3Se0VpNKRH3o"
@@ -148772,7 +148898,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 194819,
       "name": "Una casita blanca",
       "url": "https://open.spotify.com/track/3XNcOtvXyrwOXJBKHZcWba"
@@ -156830,6 +156956,28 @@
       "duration_ms": 186860,
       "name": "Yung Ice",
       "url": "https://open.spotify.com/track/1IbKN7Fl03kvBkJbMsfq65"
+    },
+    {
+      "album": {
+        "name": "Yuuuuuuuuu",
+        "url": "https://open.spotify.com/album/1q8xvA8bwY7bX3col8nl51"
+      },
+      "artists": [
+        {
+          "name": "Hadren",
+          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+        },
+        {
+          "name": "GEM777",
+          "url": "https://open.spotify.com/artist/2npJ68ByZkis4g9m4s79wv"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186214,
+      "name": "Yuuuuuuuuu",
+      "url": "https://open.spotify.com/track/1ltESONZwR4ypbWAcRD02U"
     },
     {
       "album": {

@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Warheart (Lineage2M Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3gmyQopFJOFppX4owfMnxt"
+      },
+      "artists": [
+        {
+          "name": "2WEI",
+          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212664,
+      "name": "Final Conflict 2",
+      "url": "https://open.spotify.com/track/2woGJCALsoizlpJY9HOXZH"
+    },
+    {
+      "album": {
         "name": "Everybody's Gone to the Rapture (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM"
       },

@@ -4248,7 +4248,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 262736,
       "name": "Manasu",
       "url": "https://open.spotify.com/track/3Akm212i2lCzxfFnX7Bioe"
@@ -6734,6 +6734,32 @@
       "duration_ms": 306465,
       "name": "Paruguna Raave",
       "url": "https://open.spotify.com/track/2S9GsyC3Nka76RGX8AXe1e"
+    },
+    {
+      "album": {
+        "name": "Parvatisha Shivayya (Telugu)",
+        "url": "https://open.spotify.com/album/0PtOU06IPVhm4GxXVsfGfr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "RG Sarathee",
+          "url": "https://open.spotify.com/artist/6gDxmSG5MI9uerekgteCxO"
+        },
+        {
+          "name": "Dr. Radhagopee",
+          "url": "https://open.spotify.com/artist/3530IXr3qu2H4PqjlQkHRI"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286363,
+      "name": "Parvatisha Shivayya (Telugu)",
+      "url": "https://open.spotify.com/track/2ETXcSk5S5X9fidFk45imc"
     },
     {
       "album": {

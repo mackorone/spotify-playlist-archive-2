@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Theodora, Rim'K x Soolking et sombr au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,780 likes - 86 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,760 likes - 86 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

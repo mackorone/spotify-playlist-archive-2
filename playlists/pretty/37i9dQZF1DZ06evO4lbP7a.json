@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 49878,
+  "num_followers": 49883,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAACGW1LSDvqS/i9BBDgFl73d",
+  "snapshot_id": "aYp1AAAAAACMWlyFdBzJQYVNQnQSg7CY",
   "tracks": [
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ever",
-        "url": "https://open.spotify.com/album/7x0EC8RQn7L2ZghQDGZ7qe"
+        "name": "\u4e00\u5bf8\u306e\u8d64",
+        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 196166,
-      "name": "Ever",
-      "url": "https://open.spotify.com/track/3WiGi6UeOTH1hhjCaTTQwT"
+      "duration_ms": 231673,
+      "name": "\u4e00\u5bf8\u306e\u8d64",
+      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
     },
     {
       "added_at": null,
@@ -684,15 +684,15 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 270166,
-      "name": "rain check",
-      "url": "https://open.spotify.com/track/3dyleGMI23oZV0wgojOkpR"
+      "duration_ms": 195133,
+      "name": "Film",
+      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u4e00\u5bf8\u306e\u8d64",
-        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
+        "name": "Ever",
+        "url": "https://open.spotify.com/album/7x0EC8RQn7L2ZghQDGZ7qe"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 231673,
-      "name": "\u4e00\u5bf8\u306e\u8d64",
-      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
+      "duration_ms": 196166,
+      "name": "Ever",
+      "url": "https://open.spotify.com/track/3WiGi6UeOTH1hhjCaTTQwT"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Film",
-      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
+      "duration_ms": 270166,
+      "name": "rain check",
+      "url": "https://open.spotify.com/track/3dyleGMI23oZV0wgojOkpR"
     },
     {
       "added_at": null,

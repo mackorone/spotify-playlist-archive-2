@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,492 likes - 100 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,530 likes - 100 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 92 | [Nostalgia](https://open.spotify.com/track/1IgmK98o6h5a0uWUMYZNVx) | [Tomh.](https://open.spotify.com/artist/0Jav1F9KkDu2SgE5Sc5MPU), [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Nostalgia](https://open.spotify.com/album/3OfPKcmUrcS9IvEeZEbbUN) | 2:10 |
 | 93 | [memories](https://open.spotify.com/track/10MkkA1td0CFP5fS5UdPwt) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Leticia Filizzola](https://open.spotify.com/artist/7rHYMlHbizDvsZKdhnuEM0) | [memories](https://open.spotify.com/album/6xEJv80S6ZguPs0M74eqyy) | 1:45 |
 | 94 | [calm under the waves](https://open.spotify.com/track/3ZzVDui02aDM48L6RfQeST) | [Pete Mac](https://open.spotify.com/artist/1VH2tnoymN5uu7iNLGGte3), [No Mic](https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT) | [calm under the waves](https://open.spotify.com/album/1CEUmdAdqrFdNadplU7TNe) | 2:00 |
-| 95 | [Brookside](https://open.spotify.com/track/63GQrIWOaKE71ksIGPCjJt) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [Brookeside](https://open.spotify.com/album/742Q0p2d8ElX0pjv3IIrIN) | 2:05 |
+| 95 | [Brookside](https://open.spotify.com/track/63GQrIWOaKE71ksIGPCjJt) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [Brookside](https://open.spotify.com/album/742Q0p2d8ElX0pjv3IIrIN) | 2:05 |
 | 96 | [Kick Back](https://open.spotify.com/track/0fiYMoRODdyelOSeuIg3mD) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Kick Back](https://open.spotify.com/album/54DDVudEhLEg1Si60x3Sh9) | 1:40 |
 | 97 | [Clear Skies](https://open.spotify.com/track/1N5L6TGOYl4udaEk2UxRu2) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Clear Skies](https://open.spotify.com/album/6i2OcCQDNlpywA5dVDE9UA) | 2:00 |
 | 98 | [Piece Of Mind](https://open.spotify.com/track/5OSf4uYa3fNUghwbZoGg7W) | [Botram](https://open.spotify.com/artist/0k2TLULCjH6fGrGHa83yTu) | [Piece Of Mind](https://open.spotify.com/album/5v7xOzrMsvse3qcKqDr4Iy) | 2:23 |

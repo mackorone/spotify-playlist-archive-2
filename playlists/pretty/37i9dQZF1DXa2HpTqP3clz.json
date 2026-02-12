@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 167260,
+  "num_followers": 167259,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
+        "name": "North of Despair",
+        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
+      },
+      "artists": [
+        {
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Eliza",
+      "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
         "name": "Working Man Blues",
         "url": "https://open.spotify.com/album/4Nhgn4wHH4JTjMeN0r8WjJ"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "North of Despair",
-        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
+        "name": "My Little Girl in Tennessee (Live)",
+        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
       },
       "artists": [
         {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+          "name": "Water Tower",
+          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
         }
       ],
-      "duration_ms": 194320,
-      "name": "Eliza",
-      "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
+      "duration_ms": 166400,
+      "name": "My Little Girl in Tennessee - Live",
+      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -643,22 +659,6 @@
       "duration_ms": 179389,
       "name": "My Tennessee Mountain Home",
       "url": "https://open.spotify.com/track/6NtjZAMX3jjuzNqHKMFCu8"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "My Little Girl in Tennessee (Live)",
-        "url": "https://open.spotify.com/album/2KCEPrxG000PkTJy4GyUs5"
-      },
-      "artists": [
-        {
-          "name": "Water Tower",
-          "url": "https://open.spotify.com/artist/2Ljo9zBf5ot9mZH6kpCcl0"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "My Little Girl in Tennessee - Live",
-      "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Hubbardville Store",
-        "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
-      },
-      "artists": [
-        {
-          "name": "Lost Dog Street Band",
-          "url": "https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq"
-        }
-      ],
-      "duration_ms": 252520,
-      "name": "Hubbardville Store",
-      "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Happy Valley",
         "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 218500,
       "name": "Grassy Cove",
       "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Hubbardville Store",
+        "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
+      },
+      "artists": [
+        {
+          "name": "Lost Dog Street Band",
+          "url": "https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq"
+        }
+      ],
+      "duration_ms": 252520,
+      "name": "Hubbardville Store",
+      "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -783,18 +783,18 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Make Me Stay or Make Me Go",
-        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+        "name": "Heading East to West Virginia",
+        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
       },
       "artists": [
         {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+          "name": "Russell Moore & IIIrd Tyme Out",
+          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Make Me Stay or Make Me Go",
-      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
+      "duration_ms": 156536,
+      "name": "Heading East to West Virginia",
+      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -819,38 +819,18 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Heading East to West Virginia",
-        "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
+        "name": "Make Me Stay or Make Me Go",
+        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
       },
       "artists": [
         {
-          "name": "Russell Moore & IIIrd Tyme Out",
-          "url": "https://open.spotify.com/artist/435e39CJddwkCUEK86yIkg"
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
         }
       ],
-      "duration_ms": 156536,
-      "name": "Heading East to West Virginia",
-      "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Jake Workman",
-          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
-        }
-      ],
-      "duration_ms": 267954,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+      "duration_ms": 191000,
+      "name": "Make Me Stay or Make Me Go",
+      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -887,30 +867,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Wall Guitar (Since You Said Goodbye)",
-        "url": "https://open.spotify.com/album/2a15WcuEBGzKhPzvJ4Dhzm"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        },
-        {
-          "name": "Steve Martin",
-          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
-        },
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Wall Guitar (Since You Said Goodbye)",
-      "url": "https://open.spotify.com/track/1NkoCD7N4J4X3V1t38LVOz"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Work Song (I Can Still Sing)",
         "url": "https://open.spotify.com/album/2deofjFoM5Rwugpm0iF3Yj"
       },
@@ -931,18 +887,46 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Saint Anthony",
-        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
       "artists": [
         {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Jake Workman",
+          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
         }
       ],
-      "duration_ms": 163149,
-      "name": "Saint Anthony",
-      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
+      "duration_ms": 267954,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Wall Guitar (Since You Said Goodbye)",
+        "url": "https://open.spotify.com/album/2a15WcuEBGzKhPzvJ4Dhzm"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        },
+        {
+          "name": "Steve Martin",
+          "url": "https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Wall Guitar (Since You Said Goodbye)",
+      "url": "https://open.spotify.com/track/1NkoCD7N4J4X3V1t38LVOz"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -975,6 +959,22 @@
       "duration_ms": 174000,
       "name": "Blue Night",
       "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Saint Anthony",
+        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Please Mr Please",
-        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
-      },
-      "artists": [
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 272326,
-      "name": "Please Mr Please",
-      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Last Road Going Home",
         "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 214306,
       "name": "Last Road Going Home",
       "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Please Mr Please",
+        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 272326,
+      "name": "Please Mr Please",
+      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Runnin' from the Weather",
-        "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
-      },
-      "artists": [
-        {
-          "name": "Larry & Joe",
-          "url": "https://open.spotify.com/artist/3rnapzAMNCrWgCU45Zgnwj"
-        },
-        {
-          "name": "Sophie Wellington",
-          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Runnin' from the Weather",
-      "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Mr. Charlie",
         "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 273627,
       "name": "Mr. Charlie",
       "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Runnin' from the Weather",
+        "url": "https://open.spotify.com/album/5xXWvwOfvFnvwcgQwZmWEk"
+      },
+      "artists": [
+        {
+          "name": "Larry & Joe",
+          "url": "https://open.spotify.com/artist/3rnapzAMNCrWgCU45Zgnwj"
+        },
+        {
+          "name": "Sophie Wellington",
+          "url": "https://open.spotify.com/artist/2QsDhtqBdhs5RAyMnKye7C"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Runnin' from the Weather",
+      "url": "https://open.spotify.com/track/35OzicAta0YmBkeB7olWB8"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Ingardia",
-          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
-        }
-      ],
-      "duration_ms": 216950,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Will You Ever Be Mine",
         "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 158480,
       "name": "Will You Ever Be Mine",
       "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Ingardia",
+          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
+        }
+      ],
+      "duration_ms": 216950,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Hillside",
-        "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 190764,
-      "name": "Hillside",
-      "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Reason To Believe",
         "url": "https://open.spotify.com/album/4e0ipEnmu8sMBeISv4RGrn"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 173688,
       "name": "Reason To Believe",
       "url": "https://open.spotify.com/track/7eYu7mpSO3ReYrPM2Hyg72"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Hillside",
+        "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 190764,
+      "name": "Hillside",
+      "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "All the Mornings Have an Echo",
-        "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
+        "name": "As the Crow Flies",
+        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
       },
       "artists": [
         {
-          "name": "Forest Sun",
-          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+          "name": "Green Mountain Grass",
+          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
         }
       ],
-      "duration_ms": 175128,
-      "name": "All the Mornings Have an Echo",
-      "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
+      "duration_ms": 206373,
+      "name": "The Banker",
+      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "As the Crow Flies",
-        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
+        "name": "All the Mornings Have an Echo",
+        "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
       },
       "artists": [
         {
-          "name": "Green Mountain Grass",
-          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
         }
       ],
-      "duration_ms": 206373,
-      "name": "The Banker",
-      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
+      "duration_ms": 175128,
+      "name": "All the Mornings Have an Echo",
+      "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "This Sad Song (Single Version) [Live]",
-        "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 138534,
-      "name": "This Sad Song (Single Version) [Live]",
-      "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "These Ole Blues",
         "url": "https://open.spotify.com/album/7pOUqo4VhWgWlHCGCzGoaS"
       },
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Hang Around for the Heartbreak",
-        "url": "https://open.spotify.com/album/5CSL7Qy9qIxwAefETqmUy6"
+        "name": "This Sad Song (Single Version) [Live]",
+        "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
       },
       "artists": [
         {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Hang Around for the Heartbreak",
-      "url": "https://open.spotify.com/track/5AdjLQJAOvXsdInkY1nuPD"
+      "duration_ms": 138534,
+      "name": "This Sad Song (Single Version) [Live]",
+      "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1747,6 +1731,22 @@
       "duration_ms": 235786,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Hang Around for the Heartbreak",
+        "url": "https://open.spotify.com/album/5CSL7Qy9qIxwAefETqmUy6"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Hang Around for the Heartbreak",
+      "url": "https://open.spotify.com/track/5AdjLQJAOvXsdInkY1nuPD"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1783,22 +1783,18 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Far Away With You",
-        "url": "https://open.spotify.com/album/0DGzXfo9DLJOzhI8iJtLc9"
+        "name": "Radio John: Songs of John Hartford",
+        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
       },
       "artists": [
         {
-          "name": "Woody Platt",
-          "url": "https://open.spotify.com/artist/7fWVcDi14a93bylRRHvUp3"
-        },
-        {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
         }
       ],
-      "duration_ms": 237529,
-      "name": "Toe The Line",
-      "url": "https://open.spotify.com/track/5JpB4chcqKKQherHTNtGfw"
+      "duration_ms": 198493,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
     }
   ],
   "unique_name": "Grass Roots",

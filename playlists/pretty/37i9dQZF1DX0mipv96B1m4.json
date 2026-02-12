@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1618,
+  "num_followers": 1620,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+      },
+      "artists": [
+        {
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Teacher",
         "url": "https://open.spotify.com/album/0iYizww1zmBgvN4rW34nQb"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 164400,
       "name": "Teacher",
       "url": "https://open.spotify.com/track/31onESW2T3d0A9KcITQeQK"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
-      },
-      "artists": [
-        {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -527,30 +527,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Sikyegomba",
-        "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Guvnor Ace",
-          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
-        },
-        {
-          "name": "DVJ Pofia",
-          "url": "https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC"
-        }
-      ],
-      "duration_ms": 210364,
-      "name": "Sikyegomba",
-      "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Getting Better",
         "url": "https://open.spotify.com/album/4k0zaChGbs479PYPo1EWUC"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 245363,
       "name": "Getting Better",
       "url": "https://open.spotify.com/track/6fkrSntANiQEQhFMkswCrd"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Sikyegomba",
+        "url": "https://open.spotify.com/album/3i1lB4GFhWfD21E5kqLQ8Y"
+      },
+      "artists": [
+        {
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Guvnor Ace",
+          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
+        },
+        {
+          "name": "DVJ Pofia",
+          "url": "https://open.spotify.com/artist/0GHtfnwTJJIMnkg2e9NYmC"
+        }
+      ],
+      "duration_ms": 210364,
+      "name": "Sikyegomba",
+      "url": "https://open.spotify.com/track/1IufVzWMopUl7jajUAiJ6y"
     },
     {
       "added_at": "2024-03-01 12:07:08",

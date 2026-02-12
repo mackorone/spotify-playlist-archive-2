@@ -4,7 +4,7 @@
 
 > bolsa nova é pra caber 💵 ne?!?! // Emilly Guedes, LAY
 
-351 songs - 16 hr 32 min
+351 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Forasteiro](https://open.spotify.com/track/5DKHLJEuO3wcUksmcSV4fg) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Paulo Dionísio](https://open.spotify.com/artist/2yA2ENYD6IQ6eKmf78Ym0r) | [Forasteiro](https://open.spotify.com/album/7uN5MHZaKna9fvaSPtOck6) | 4:50 | 2023-05-19 | 2023-06-24 |
 | [FREESTYLE DAS FAIXA ROSA](https://open.spotify.com/track/1lx5dn3ESLOPPhEQ0G6TgB) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FEBRE AMARELA \(Deluxe Edition\)](https://open.spotify.com/album/5JWjH3OtpyiD0iQ0SJoYLw) | 2:32 | 2022-03-11 | 2022-07-29 |
 | [FREESTYLE DAS FAIXA ROSA](https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FEBRE AMARELA \(Deluxe Edition\)](https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL) | 2:35 | 2022-07-08 | 2022-12-03 |
-| [Fulô](https://open.spotify.com/track/6yCGjhu4yi8FVnN3lk1FwJ) | [CRYSTAYLE](https://open.spotify.com/artist/59KPAYOS6AbPROvGLTE8E8), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [gptonosbeats](https://open.spotify.com/artist/3bQ24dwmU7qN9pDapFUGUR), [Enigma](https://open.spotify.com/artist/0rHv4lpQmpMv4qboL8KaaQ) | [Fulô](https://open.spotify.com/album/2qjW8ftSQ03mVlHlqzRiIq) | 2:31 | 2026-02-06 |  |
+| [Fulô](https://open.spotify.com/track/6yCGjhu4yi8FVnN3lk1FwJ) | [CRYSTAYLE](https://open.spotify.com/artist/59KPAYOS6AbPROvGLTE8E8), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [gptonosbeats](https://open.spotify.com/artist/3bQ24dwmU7qN9pDapFUGUR), [Enigma](https://open.spotify.com/artist/0rHv4lpQmpMv4qboL8KaaQ) | [Fulô](https://open.spotify.com/album/2qjW8ftSQ03mVlHlqzRiIq) | 2:28 | 2026-02-06 |  |
 | [Fuso](https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Fuso](https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP) | 1:54 | 2024-12-13 | 2025-09-23 |
 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 | 2023-07-28 | 2024-03-02 |
 | [Fôlego](https://open.spotify.com/track/1MV7BgHnQh2ENGiwGkXrXO) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Quase Pronta Mixtape](https://open.spotify.com/album/5wTqiHGF8xdbWxExOU9yJq) | 2:46 | 2025-03-24 | 2025-05-13 |

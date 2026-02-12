@@ -39751,6 +39751,24 @@
     },
     {
       "album": {
+        "name": "People Stomping",
+        "url": "https://open.spotify.com/album/3EfstHkKuzbsaBdP2pH6Vy"
+      },
+      "artists": [
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200446,
+      "name": "People Stomping",
+      "url": "https://open.spotify.com/track/3o6DqahWxz11eSDFw7qExX"
+    },
+    {
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/2jMsEsVMkf7LaUiQD7KR90"
       },

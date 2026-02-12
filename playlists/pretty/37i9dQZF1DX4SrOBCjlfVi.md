@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring EsDeeKid, J\. Cole, Hurricane Wisdom and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,918 likes - 49 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,951 likes - 49 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 10 | [Moonlight](https://open.spotify.com/track/7xNlLf5BFpXLsTqodQ4OoT) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Pup Pack: 3rd Shift](https://open.spotify.com/album/5hM25uBbtsquAlLGDmMWhb) | 3:20 |
 | 11 | [Job's Not Done \(feat\. ERA\)](https://open.spotify.com/track/2h6zYUzAGc6LNE0jLkazkm) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [ERA](https://open.spotify.com/artist/4Aefs4DWkn6zjggzBiK7Gj) | [Job's Not Done \(feat\. ERA\)](https://open.spotify.com/album/07DLX06IuDYwIdrbu0K1bq) | 2:27 |
 | 12 | [GUAPO](https://open.spotify.com/track/749Om40dkalc4mcUTmLZAK) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD), [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H), [thickney](https://open.spotify.com/artist/7cvYYJFBuw4169sVI1Krk5) | [GUAPO](https://open.spotify.com/album/6hnc9sPkRo0VvjFM7TNvoe) | 3:06 |
-| 13 | [OFFERINGS](https://open.spotify.com/track/19n32jI1QJiXMr3KXFRCfk) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/5kwsNJFbDmWUpst7JVmEei) | [OFFERINGS](https://open.spotify.com/album/2kgwGxKuLxEHBQjKXs9qo7) | 3:02 |
+| 13 | [OFFERINGS](https://open.spotify.com/track/19n32jI1QJiXMr3KXFRCfk) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [OFFERINGS](https://open.spotify.com/album/2kgwGxKuLxEHBQjKXs9qo7) | 3:02 |
 | 14 | [WOULDN'T HOLD YOU UP](https://open.spotify.com/track/2y526hGkXuetJy3duEqIRq) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [WOULDN'T HOLD YOU UP](https://open.spotify.com/album/20G2sl0k5dMI6yDnyqWhOq) | 1:34 |
 | 15 | [KEYSTYLE](https://open.spotify.com/track/7Ke3ZbmPsYJKSjP6LiNT4K) | [Lil Tony Official](https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6) | [Mrs.Key \(Deluxe\)](https://open.spotify.com/album/6lKYq1KOa3lim180CDXNsq) | 2:11 |
 | 16 | [Due To All](https://open.spotify.com/track/55sO8kSEqDtvRnebC4pXoA) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Due To All](https://open.spotify.com/album/2LOM0j6wHXiCUOcKZnh2iG) | 3:10 |
@@ -56,6 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 46 | [Havin That](https://open.spotify.com/track/2tGZImnTGIb8BJe8VLaveu) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Rich Off Picks](https://open.spotify.com/album/3qSbBl4C1czJ7IiguBo9D5) | 2:36 |
 | 47 | [ICON](https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [ICON](https://open.spotify.com/album/0OfR0ZKIbir2qUEYBDHtAw) | 2:11 |
 | 48 | [Pickup](https://open.spotify.com/track/3gAC0FGwgRuwM97G1OM69F) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [Pickup](https://open.spotify.com/album/1MupQK4McEeoPyRXJs3wmv) | 2:34 |
-| 49 | [let em' know](https://open.spotify.com/track/619HqL1aPW1uZbUbBmtVfz) | [KOAD](https://open.spotify.com/artist/5QQtovQzgOb1s1UQDnQfN0) | [let em' know](https://open.spotify.com/album/46GvKsjXe8w2HehUwTjHQE) | 1:57 |
+| 49 | [let 'em know](https://open.spotify.com/track/619HqL1aPW1uZbUbBmtVfz) | [KOAD](https://open.spotify.com/artist/5QQtovQzgOb1s1UQDnQfN0) | [let 'em know](https://open.spotify.com/album/46GvKsjXe8w2HehUwTjHQE) | 1:57 |
 
 Snapshot ID: `AAAAAIyycd4oueUevxrZZAVl4RPj/Ys/`

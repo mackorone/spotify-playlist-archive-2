@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,865 songs - 4 day 15 hr 57 min
+1,868 songs - 4 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Coronavirus](https://open.spotify.com/track/2YO0as657BVnGKcGqSlpxG) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc), [Mighty Sharp](https://open.spotify.com/artist/0cXYj85k096b6dNf89oVll) | [Coronavirus](https://open.spotify.com/album/6j9TEwizaJtlEp8ggMp0zb) | 3:56 | 2024-03-25 |  |
 | [Coronavirus \- Instrumental Mix](https://open.spotify.com/track/2NxwKtCznxifMGpaa2A6ry) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc) | [Coronavirus](https://open.spotify.com/album/6j9TEwizaJtlEp8ggMp0zb) | 3:58 | 2024-03-25 |  |
 | [Coronavirus \- Raw Mix](https://open.spotify.com/track/39uAS2VIUkSUqRzR13nSRJ) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc), [Mighty Sharp](https://open.spotify.com/artist/0cXYj85k096b6dNf89oVll) | [Coronavirus](https://open.spotify.com/album/6j9TEwizaJtlEp8ggMp0zb) | 3:32 | 2024-03-25 |  |
+| [COSITAS DEL AMOR](https://open.spotify.com/track/3jwQS1JO2GPK2xprvzAM9M) | [Jarquez](https://open.spotify.com/artist/68ydVVkXfgE3YuGuVRn3Nj), [TMK](https://open.spotify.com/artist/2kItgWIX7FzOnr6FjBgrPI) | [COSITAS DEL AMOR](https://open.spotify.com/album/4PzZ70I18h1rZbS6QQdck1) | 2:40 | 2026-02-11 |  |
 | [Country Christmas Line Dance \(Jingle Bells\)](https://open.spotify.com/track/3dLbmwtsvZWabodAty7T6F) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:49 | 2025-12-01 |  |
 | [Courage in Hand](https://open.spotify.com/track/4qOcEHxv7OVTysivvgXMNo) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 5:53 | 2024-09-25 |  |
 | [Crap Apple](https://open.spotify.com/track/4YOhKKf8uV00LY7pvRqxQd) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 5:10 | 2025-06-21 |  |
@@ -419,6 +420,7 @@
 | [Drilling 4 Black Gold](https://open.spotify.com/track/16lq7Qholf7soy69oXCnb3) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Drilling 4 Black Gold](https://open.spotify.com/album/4Kdmee7t25mzd2Q5Hqvj9W) | 2:20 | 2026-02-05 |  |
 | [DRIPPIN PIMPIN](https://open.spotify.com/track/2AeBrHrV1qn4ZlYY2NuGkF) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:14 | 2025-09-08 |  |
 | [Droga Dura](https://open.spotify.com/track/3XDwalTiYckfpWShJZJHAd) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Droga Dura](https://open.spotify.com/album/4weXx6BxafREowHuA35xQR) | 3:25 | 2026-01-17 |  |
+| [Drops of Rain](https://open.spotify.com/track/5HA0YBgTwf0FXyvD4QHLNW) | [aNGie](https://open.spotify.com/artist/71bUhvjdkzJAmqs4S1Z3kF) | [Beautiful Ways to Disappear](https://open.spotify.com/album/0eakmFRFZ4Qeo6HiMgRBDG) | 3:22 | 2026-02-12 |  |
 | [Drug Addict](https://open.spotify.com/track/00XB6iV4vugA4ZZgpZyAQ6) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Drug Addict](https://open.spotify.com/album/4NRsBPa8n5fKZesdlYpWmc) | 1:23 | 2025-10-21 |  |
 | [Dub 2](https://open.spotify.com/track/54ABjkyW5NcIALh05LyqD5) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [I Give Thanks](https://open.spotify.com/album/6Fz1zFeaay1VNyiq2hy4P8) | 3:17 | 2024-03-10 |  |
 | [Dub Along the Watchtower](https://open.spotify.com/track/3jI12nlSFhuhOsOClil1Ci) | [Menilek](https://open.spotify.com/artist/61KYnn1IwsxUzHIStwSabV) | [Son of Solomon](https://open.spotify.com/album/1rC5MlLVYNCEYTtHB2IzFL) | 4:30 | 2024-05-01 |  |
@@ -860,6 +862,7 @@
 | [Just the Thing](https://open.spotify.com/track/0TnbWHg68Z0fLDl4HYV31r) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 2:43 | 2025-05-02 |  |
 | [Just the Way You Are](https://open.spotify.com/track/4OFDrbVd4DghiROQDaUOEo) | [Shaunie Littlehawk](https://open.spotify.com/artist/57gkrsc5LCKSx5HhayMdRS) | [Just the Way You Are](https://open.spotify.com/album/5R6L1PsDpq7aQyjCjSIiDl) | 3:36 | 2025-08-27 |  |
 | [Já Passou](https://open.spotify.com/track/7fvHdcahzAowY87qxH0DAr) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF) | [Já Passou](https://open.spotify.com/album/1PkxmiYvELPJlzd0FGYQvx) | 3:12 | 2026-01-04 |  |
+| [JÚRAME](https://open.spotify.com/track/3k84ODqVFmZJ0tkxMnUXRQ) | [Jarquez](https://open.spotify.com/artist/68ydVVkXfgE3YuGuVRn3Nj) | [JÚRAME](https://open.spotify.com/album/0GXNP93mlH7LF68LELP0l9) | 3:13 | 2026-02-11 |  |
 | [Kann es sein](https://open.spotify.com/track/2qalkc1bt00V1tJQEqPIqr) | [Sophie Elora](https://open.spotify.com/artist/0Usozu4rpNTwvf5hmNZjEH) | [Kann es sein](https://open.spotify.com/album/2Z7cggJZERFnOp1h9alMH3) | 4:37 | 2025-06-11 |  |
 | [Karawatha Dub](https://open.spotify.com/track/7q5l5XCAltmsaUjlayCJ8f) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu) | [Torpedo](https://open.spotify.com/album/3qW3VjphzhcaneRDKY97tp) | 3:12 | 2024-03-23 |  |
 | [Kartikeya](https://open.spotify.com/track/5YYW72AsAgFwpdxBEIUQdC) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 3:49 | 2024-03-25 |  |

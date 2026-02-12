@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Grupo Aktitud en portada.",
-  "num_followers": 526422,
+  "num_followers": 526493,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
+        "name": "Supercargada",
+        "url": "https://open.spotify.com/album/2MhwcUwJ8ovTDXcON7Upz1"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 175616,
+      "name": "Supercargada",
+      "url": "https://open.spotify.com/track/6SiAlj1pGTYSnXuKlLCcZd"
+    },
+    {
+      "added_at": "2026-02-06 05:12:57",
+      "album": {
         "name": "Sin Foto de Perfil",
         "url": "https://open.spotify.com/album/6IX29RWNUKozUlnnMZMgUF"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 177376,
       "name": "Y SI TE VAS",
       "url": "https://open.spotify.com/track/20L8fUsTo0eK1cdzTyH7v9"
-    },
-    {
-      "added_at": "2026-02-06 05:12:57",
-      "album": {
-        "name": "Supercargada",
-        "url": "https://open.spotify.com/album/2MhwcUwJ8ovTDXcON7Upz1"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 175616,
-      "name": "Supercargada",
-      "url": "https://open.spotify.com/track/6SiAlj1pGTYSnXuKlLCcZd"
     },
     {
       "added_at": "2026-02-06 05:12:57",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
-        "name": "Vicio y Soledad",
-        "url": "https://open.spotify.com/album/0TWW8RqtpVhujd4fx6DdvB"
-      },
-      "artists": [
-        {
-          "name": "Elias Medina",
-          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
-        }
-      ],
-      "duration_ms": 215792,
-      "name": "Vicio y Soledad",
-      "url": "https://open.spotify.com/track/4NOkqBkyb9ZdBBEaCbOGmj"
-    },
-    {
-      "added_at": "2026-02-06 05:12:57",
-      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/7okUbJoivGrlyb1O3A6Uvu"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 156576,
       "name": "11:11",
       "url": "https://open.spotify.com/track/6e5WBzZg1XaknW01nrRd5J"
+    },
+    {
+      "added_at": "2026-02-06 05:12:57",
+      "album": {
+        "name": "Vicio y Soledad",
+        "url": "https://open.spotify.com/album/0TWW8RqtpVhujd4fx6DdvB"
+      },
+      "artists": [
+        {
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+        }
+      ],
+      "duration_ms": 215792,
+      "name": "Vicio y Soledad",
+      "url": "https://open.spotify.com/track/4NOkqBkyb9ZdBBEaCbOGmj"
     },
     {
       "added_at": "2026-02-06 05:12:57",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
-        "name": "PASAJES",
-        "url": "https://open.spotify.com/album/0C3Z053f7M8rXDTvP4VHiE"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 175503,
-      "name": "No Te Entra El Hacha",
-      "url": "https://open.spotify.com/track/72TAzFA9XMbpEuzynFbyMt"
-    },
-    {
-      "added_at": "2026-02-06 05:12:57",
-      "album": {
         "name": "Una Explicaci\u00f3n",
         "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 215933,
       "name": "Derecho De Antig\u00fcedad",
       "url": "https://open.spotify.com/track/2udeOpUteFLPbLqLSR2gZh"
+    },
+    {
+      "added_at": "2026-02-06 05:12:57",
+      "album": {
+        "name": "PASAJES",
+        "url": "https://open.spotify.com/album/0C3Z053f7M8rXDTvP4VHiE"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 175503,
+      "name": "No Te Entra El Hacha",
+      "url": "https://open.spotify.com/track/72TAzFA9XMbpEuzynFbyMt"
     },
     {
       "added_at": "2026-02-06 05:12:57",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
-        "name": "Canelovers",
-        "url": "https://open.spotify.com/album/7DzsM0NbPCCgR9k4PSj0oi"
-      },
-      "artists": [
-        {
-          "name": "Canelos Jrs",
-          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
-        }
-      ],
-      "duration_ms": 215117,
-      "name": "Siempre Ibas A Estar",
-      "url": "https://open.spotify.com/track/5lcaUxGoGJm4yNW3RAN0M6"
-    },
-    {
-      "added_at": "2026-02-06 05:12:57",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/2xinWstoJ8afZc5WUlL0sz"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
-        "name": "Mi Familia Y Mis Hijos",
-        "url": "https://open.spotify.com/album/7EKYTl7S3S0pk9VkqftvIB"
+        "name": "Canelovers",
+        "url": "https://open.spotify.com/album/7DzsM0NbPCCgR9k4PSj0oi"
       },
       "artists": [
         {
-          "name": "Victor Eme",
-          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
+          "name": "Canelos Jrs",
+          "url": "https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF"
         }
       ],
-      "duration_ms": 144637,
-      "name": "Mi Familia Y Mis Hijos",
-      "url": "https://open.spotify.com/track/4FJEUVbRU0LWOCYlpkx0Zq"
+      "duration_ms": 215117,
+      "name": "Siempre Ibas A Estar",
+      "url": "https://open.spotify.com/track/5lcaUxGoGJm4yNW3RAN0M6"
     },
     {
       "added_at": "2026-02-06 05:12:57",
@@ -1035,6 +1019,22 @@
       "duration_ms": 186133,
       "name": "Las Calles Enlodadas (En Vivo)",
       "url": "https://open.spotify.com/track/6isXA21iRtiZ2aIRAJXAdj"
+    },
+    {
+      "added_at": "2026-02-06 05:12:57",
+      "album": {
+        "name": "Mi Familia Y Mis Hijos",
+        "url": "https://open.spotify.com/album/7EKYTl7S3S0pk9VkqftvIB"
+      },
+      "artists": [
+        {
+          "name": "Victor Eme",
+          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
+        }
+      ],
+      "duration_ms": 144637,
+      "name": "Mi Familia Y Mis Hijos",
+      "url": "https://open.spotify.com/track/4FJEUVbRU0LWOCYlpkx0Zq"
     },
     {
       "added_at": "2026-02-06 05:12:57",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
-        "name": "Tan Il\u00f3gico",
-        "url": "https://open.spotify.com/album/4bCIsqj4PNtpvWNSSHRRvb"
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/548tU1ysBV2DfOr5upovQv"
       },
       "artists": [
         {
-          "name": "Izaak G",
-          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
+          "name": "Tony Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja"
         }
       ],
-      "duration_ms": 184223,
-      "name": "Tan Il\u00f3gico",
-      "url": "https://open.spotify.com/track/5bhLbPkQbypM6gXMBit71a"
+      "duration_ms": 193142,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/6S6CZfhAy7T36SppunzYI8"
     },
     {
       "added_at": "2026-02-06 05:12:57",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-02-06 05:12:57",
       "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/548tU1ysBV2DfOr5upovQv"
+        "name": "Tan Il\u00f3gico",
+        "url": "https://open.spotify.com/album/4bCIsqj4PNtpvWNSSHRRvb"
       },
       "artists": [
         {
-          "name": "Tony Garc\u00eda",
-          "url": "https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja"
+          "name": "Izaak G",
+          "url": "https://open.spotify.com/artist/34bxjoSYslVQ2qQvgd1ibJ"
         }
       ],
-      "duration_ms": 193142,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/6S6CZfhAy7T36SppunzYI8"
+      "duration_ms": 184223,
+      "name": "Tan Il\u00f3gico",
+      "url": "https://open.spotify.com/track/5bhLbPkQbypM6gXMBit71a"
     },
     {
       "added_at": "2026-02-06 05:12:57",

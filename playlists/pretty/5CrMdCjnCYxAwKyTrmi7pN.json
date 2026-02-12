@@ -1,33 +1,13 @@
 {
   "description": "Get cozy met deze playlist vol wintervibes! Met muziek van Olivia Dean, Sienna Spiro, Sam Fender en meer...",
-  "num_followers": 128826,
+  "num_followers": 128805,
   "original_name": "Winter Vibes 2026",
   "owner": {
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAA7YnidP3Vl8KF3NMhz6cpzbXtsGRpa",
+  "snapshot_id": "AAA7Y1R7+i5dk94xtrAIX6EvwE7KuEsx",
   "tracks": [
-    {
-      "added_at": "2026-02-06 14:13:38",
-      "album": {
-        "name": "Zoo (From \"Zootropolis 2\")",
-        "url": "https://open.spotify.com/album/34EJWqwMzUmse8388uSpgr"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 190822,
-      "name": "Zoo - From \"Zootropolis 2\"",
-      "url": "https://open.spotify.com/track/6aoJh8zwnee5dwdAo9L85D"
-    },
     {
       "added_at": "2026-02-06 14:13:38",
       "album": {
@@ -195,6 +175,26 @@
       "duration_ms": 179666,
       "name": "I\u2019m Good - From The Movie \u201cGOAT\u201d",
       "url": "https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28"
+    },
+    {
+      "added_at": "2026-02-06 14:13:38",
+      "album": {
+        "name": "Zoo (From \"Zootropolis 2\")",
+        "url": "https://open.spotify.com/album/34EJWqwMzUmse8388uSpgr"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Zoo - From \"Zootropolis 2\"",
+      "url": "https://open.spotify.com/track/6aoJh8zwnee5dwdAo9L85D"
     },
     {
       "added_at": "2026-02-06 14:13:38",

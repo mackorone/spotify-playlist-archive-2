@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 
 > From the roads to the globe, UK Rap is life\. The hottest new UK rap, hip\-hop, grime, &amp; drill in 2025\. Cover: Nemzzz
 
-[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 71,479 likes - 107 songs - 5 hr 1 min
+[Topsify UK](https://open.spotify.com/user/playlistmeukfeatured) - 71,473 likes - 107 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/6nuo9FYCAGV0WalhCluicG.md) - [plain]
 | 58 | [Remontada \(feat\. Blanco\)](https://open.spotify.com/track/362tD7hUEZ06izuWdVlRnP) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Remontada \(feat\. Blanco\)](https://open.spotify.com/album/1OTdy9AJVXEerYPUTDCmRd) | 2:41 |
 | 59 | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2) | 3:23 |
 | 60 | [Studio Fit Riddim](https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Studio Fit Riddim](https://open.spotify.com/album/0uxSyHjE8eS5ng2poPpgEv) | 1:42 |
-| 61 | [CWT \(feat\. BNXN\)](https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Are You Listening?](https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh) | 2:38 |
+| 61 | [CWT \(feat\. BNXN\)](https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb) | [Taves](https://open.spotify.com/artist/1oixR4UOmiql5wGohvF4i7), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Are You Listening?](https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh) | 2:38 |
 | 62 | [Old Friends](https://open.spotify.com/track/2kbqOmYJ0iQyNl8kLjdckG) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Old Friends](https://open.spotify.com/album/70sYEqEvDZTnmPx5seHsbg) | 4:34 |
 | 63 | [LEANIN](https://open.spotify.com/track/7rhkyaxaAheX4usxCAECcw) | [A2ANTI](https://open.spotify.com/artist/3TTq94wgOIj0skk2wT8bnb) | [LEANIN](https://open.spotify.com/album/6aTQ0cxnn2r1OucuHHLbtB) | 2:34 |
 | 64 | [WOW](https://open.spotify.com/track/7ezqWiO4OTxHg5EJmdFnWm) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [WOW](https://open.spotify.com/album/2rfzTU6eD889ohkn7XEtXv) | 2:32 |

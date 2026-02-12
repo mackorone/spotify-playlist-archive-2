@@ -1,13 +1,29 @@
 {
   "description": "It's pop punk, it's the best. From classic hits to new discoveries, featuring Sweet Pill, Neck Deep, Paramore, and way more!",
-  "num_followers": 42880,
+  "num_followers": 42876,
   "original_name": "Best Of Pop Punk ",
   "owner": {
     "name": "Hopeless Records",
     "url": "https://open.spotify.com/user/hopelessrecords"
   },
-  "snapshot_id": "AAAdT90RE6TLBXGmVcNBPLq+bKqArOKJ",
+  "snapshot_id": "AAAdUQiq4Ee0mtBTGDWpylT7rn9FoNtX",
   "tracks": [
+    {
+      "added_at": "2026-02-11 21:55:56",
+      "album": {
+        "name": "Minnesota Nazis",
+        "url": "https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 219616,
+      "name": "Minnesota Nazis",
+      "url": "https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X"
+    },
     {
       "added_at": "2026-01-14 23:46:02",
       "album": {

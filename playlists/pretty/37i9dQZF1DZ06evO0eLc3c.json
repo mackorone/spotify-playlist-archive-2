@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 53694,
+  "num_followers": 53705,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAACyTm6qdxg0tZnq2KIuOy02",
+  "snapshot_id": "aYp1AAAAAABk8LRuF90omnBngFegqC3h",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+        "name": "Radio Ethiopia",
+        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 327026,
-      "name": "The Jackson Song",
-      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
+      "duration_ms": 189733,
+      "name": "Ask the Angels",
+      "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Ethiopia",
-        "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 189733,
-      "name": "Ask the Angels",
-      "url": "https://open.spotify.com/track/6BmAr1i0Jnk8ztzRVQHyEi"
+      "duration_ms": 327026,
+      "name": "The Jackson Song",
+      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 235810,
+      "name": "Farewell Reel",
+      "url": "https://open.spotify.com/track/7AkwMCk98VbcsYqy9EzlG6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 72226,
       "name": "Hymn",
       "url": "https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trampin'",
-        "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 309493,
-      "name": "Peaceable Kingdom",
-      "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+        "name": "Trampin'",
+        "url": "https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 235810,
-      "name": "Farewell Reel",
-      "url": "https://open.spotify.com/track/7AkwMCk98VbcsYqy9EzlG6"
+      "duration_ms": 309493,
+      "name": "Peaceable Kingdom",
+      "url": "https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+        "name": "Gung Ho",
+        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 196346,
-      "name": "Gone Again",
-      "url": "https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei"
+      "duration_ms": 183289,
+      "name": "Glitter In Their Eyes",
+      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gung Ho",
-        "url": "https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE"
+        "name": "Gone Again",
+        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 183289,
-      "name": "Glitter In Their Eyes",
-      "url": "https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv"
+      "duration_ms": 196346,
+      "name": "Gone Again",
+      "url": "https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei"
     },
     {
       "added_at": null,

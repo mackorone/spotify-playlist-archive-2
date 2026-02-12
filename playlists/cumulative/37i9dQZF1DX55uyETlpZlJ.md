@@ -2,9 +2,9 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sumedh K
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All Ok
 
-622 songs - 1 day 11 hr 26 min
+623 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [JAI SIYA RAM \- The Eternal Kavach](https://open.spotify.com/track/56QKgoZ21vL6pJV3C5kNHk) | [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD) | [JAI SIYA RAM \- The Eternal Kavach](https://open.spotify.com/album/2H0XClqtKuiaDAtEoeWKVo) | 2:40 | 2025-08-07 | 2026-01-22 |
 | [Janani](https://open.spotify.com/track/43HXpdT5E0z4erGPkQYxuV) | [Ashwin Mandoth](https://open.spotify.com/artist/5SVLRs2bcPJCzjU3r6Vl1w), [Vignesh Shankar](https://open.spotify.com/artist/3L8oIMXUCC47w7tvXHezdP), [Sunidhi Ganesh](https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K), [Rajath Hegde](https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu) | [Janani](https://open.spotify.com/album/53a5pHNdp4p0FvCJvLjGgh) | 3:40 | 2023-10-06 | 2024-02-17 |
 | [Javaari Hudga](https://open.spotify.com/track/1hoRIB6bh6UzcQ1an5opq9) | [Bheemasen Hebbalatti](https://open.spotify.com/artist/3yrbPUb6eTRpM6e48HtP37), [Sachin Dodamani](https://open.spotify.com/artist/1PF4AwIKT9LBpxL7DY7tN2), [Trupti NK](https://open.spotify.com/artist/5bNXTmycprKmNZP9vdOWBb) | [Javaari Hudga](https://open.spotify.com/album/4Kt7gZ6jpRtVyTm8hD5kgM) | 3:08 | 2024-06-03 | 2024-10-19 |
-| [Jeevada Gelathiye \(Love Anthem\) \(From "Timepass"\)](https://open.spotify.com/track/5AT4QCATMnz2lNkbEbDQqB) | [DK](https://open.spotify.com/artist/0A80SzfrEzNZrCQRNUM14W), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Vaishnavi Sathyanarayan](https://open.spotify.com/artist/1BB4p3IK2PMgMTC95g6SId) | [Jeevada Gelathiye \(Love Anthem\) \(From "Timepass"\)](https://open.spotify.com/album/1ddwmXrfkveclkz7H0BrgH) | 3:11 | 2025-09-15 |  |
+| [Jeevada Gelathiye \(Love Anthem\) \(From "Timepass"\)](https://open.spotify.com/track/5AT4QCATMnz2lNkbEbDQqB) | [DK](https://open.spotify.com/artist/0A80SzfrEzNZrCQRNUM14W), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Vaishnavi Sathyanarayan](https://open.spotify.com/artist/1BB4p3IK2PMgMTC95g6SId) | [Jeevada Gelathiye \(Love Anthem\) \(From "Timepass"\)](https://open.spotify.com/album/1ddwmXrfkveclkz7H0BrgH) | 3:11 | 2025-09-15 | 2026-02-12 |
 | [Jolly Jolly](https://open.spotify.com/track/6lr8AKxmDniETfPEhezrSY) | [Viraj](https://open.spotify.com/artist/50pXnrPQzX4pF1QiKXvnIK) | [Jolly Jolly](https://open.spotify.com/album/7BvprRs0Qjum74sY0QQGMH) | 3:43 | 2025-01-13 | 2025-03-20 |
 | [Jothe](https://open.spotify.com/track/0wkMvuNAN2WevvPQ6sSTCq) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj) | [Jothe](https://open.spotify.com/album/1Z52UPtNyAaqR1RYdCNsYa) | 4:46 | 2025-11-04 |  |
 | [JUST MUSIC](https://open.spotify.com/track/6rP745yCeuwMJdd4uJAG2h) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [JUST MUSIC](https://open.spotify.com/album/2Sa4QsIx74xhupxw7Ej5Tq) | 2:05 | 2024-05-13 | 2024-11-13 |
@@ -454,6 +454,7 @@
 | [Ninna Mai Chataka Preetsilla](https://open.spotify.com/track/2nu10EEqoqRdEA9MTtNv04) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Ninna Mai Chataka Preetsilla](https://open.spotify.com/album/2NIdPr9XEAJ6IJJ5jcTq4T) | 7:35 | 2025-12-18 |  |
 | [Ninna Nodade](https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Asher Mendonca](https://open.spotify.com/artist/7vT1RnB74vnPFxhjnPC4Rr) | [Ninna Nodade](https://open.spotify.com/album/3SBnWJqW6Uao7ANAFeBCDa) | 3:41 | 2023-05-09 | 2024-01-09 |
 | [Ninna Noduta](https://open.spotify.com/track/5baFUoZRasKY4kY9mfvBXj) | [Vishwas V Mathad](https://open.spotify.com/artist/7baUdCAhXJrptpQORiFozW), [Meghana Pramod](https://open.spotify.com/artist/7q8wxbNtA07ytbGBH6KGnF), [Chetan Argungi](https://open.spotify.com/artist/7aLguQeD2WV6jUH3wNoMwY) | [Ninna Noduta](https://open.spotify.com/album/2IaJzPfIu3AOdG3A31UQ9Y) | 3:20 | 2024-06-17 | 2024-12-10 |
+| [Ninna Notavu](https://open.spotify.com/track/33W4mZI2Kd4sye4K65Pf0r) | [Tanmay Gururaj](https://open.spotify.com/artist/2vEgbajKankISg2uwrw8w5) | [Ninna Notavu](https://open.spotify.com/album/4hOEeRjxdJ64VK5W0KwKCk) | 2:43 | 2026-02-11 |  |
 | [Ninna Preethi](https://open.spotify.com/track/23SkLenhmQOqaMm1jkFIo3) | [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Ninna Preethi](https://open.spotify.com/album/0V48aBzTDzvRy2WuEcPhll) | 3:58 | 2023-11-06 | 2024-02-17 |
 | [Ninnale Kaledodenaa](https://open.spotify.com/track/76qkjYTaUP0Y2OmzKmAT1h) | [Kalyan Manjunath](https://open.spotify.com/artist/35Wzhm2uv7DeqM1xRQwcU6), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Bharat Jain](https://open.spotify.com/artist/2Axgtr4RXPBmnJW3vd6l0d) | [Ninnale Kaledodenaa](https://open.spotify.com/album/5yWTnUa6Ilvj3H6Xmq8BJJ) | 2:34 | 2025-11-06 |  |
 | [Ninnallu](https://open.spotify.com/track/3Zx9hISruAC8bvHdeRP2Pw) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP) | [Ninnallu](https://open.spotify.com/album/5vk1jTeYLm1G8gg4W3LU1c) | 2:58 | 2025-05-30 | 2025-11-20 |

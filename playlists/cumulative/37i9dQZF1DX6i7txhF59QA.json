@@ -9408,7 +9408,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 209573,
       "name": "Love triangle",
       "url": "https://open.spotify.com/track/6TCi71b83kWWLeOlnMKapM"
@@ -10468,7 +10468,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 180467,
       "name": "My destiny",
       "url": "https://open.spotify.com/track/0ci6T7twNoDBeORJ73Ijpg"
@@ -14488,7 +14488,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 281251,
       "name": "Thanks my life",
       "url": "https://open.spotify.com/track/0mroqQ0Mh4ZhRpu0NrByoa"
@@ -15154,6 +15154,24 @@
       "duration_ms": 182146,
       "name": "The way to round and round",
       "url": "https://open.spotify.com/track/7wkri8eLCAIUnHbcTMfLWg"
+    },
+    {
+      "album": {
+        "name": "the woman who only loves me",
+        "url": "https://open.spotify.com/album/4UqnnBtQVAG5f9yozG3uC4"
+      },
+      "artists": [
+        {
+          "name": "\uc9c4\uad11",
+          "url": "https://open.spotify.com/artist/5PuLbPs8U59ue0BNwLEMNL"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206301,
+      "name": "the woman who only loves me",
+      "url": "https://open.spotify.com/track/35og4BkV5Ptp5KqFRLD3Or"
     },
     {
       "album": {

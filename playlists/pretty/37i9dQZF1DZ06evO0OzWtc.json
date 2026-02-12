@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAAsvBp681CYSxGk/lhuoFGF",
+  "snapshot_id": "aYp1AAAAAAD0tOKtdAQw0G3yWklE6gAF",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "B\u00e9lico y Cholo",
+        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "B\u00e9lico y Cholo",
+      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/31rzW2cjlkcOlzg17R44At"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 146779,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/7HvWi85alJcNb2z3PFyVjl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B\u00e9lico y Cholo",
-        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "B\u00e9lico y Cholo",
-      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
       "added_at": null,
@@ -235,62 +235,6 @@
       "duration_ms": 147401,
       "name": "6AM",
       "url": "https://open.spotify.com/track/584QtvdD4qgocm4RMZGaXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Inter\u00e9s Se Destap\u00f3",
-        "url": "https://open.spotify.com/album/25jWazZXlVqCPIYdPDAMfc"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 150740,
-      "name": "El Inter\u00e9s Se Destap\u00f3",
-      "url": "https://open.spotify.com/track/4eyp2tuPsQsUru7oywxAAL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Gusta Mi Vida 2.0",
-        "url": "https://open.spotify.com/album/6Eqku4M86uTXBNQN7SUPeh"
-      },
-      "artists": [
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Me Gusta Mi Vida 2.0",
-      "url": "https://open.spotify.com/track/16JufC0T9PMEdfZUJajoyK"
     },
     {
       "added_at": null,
@@ -355,30 +299,58 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mafioso Americano",
-        "url": "https://open.spotify.com/album/2pxl6UJE5CseR9RAY9iBZ8"
+        "name": "Me Gusta Mi Vida 2.0",
+        "url": "https://open.spotify.com/album/6Eqku4M86uTXBNQN7SUPeh"
       },
       "artists": [
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        },
         {
           "name": "Sebastian Esquivel",
           "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         },
         {
-          "name": "Tian Glez",
-          "url": "https://open.spotify.com/artist/1D8DPSHgRcnzzHyNFoplMS"
-        },
-        {
           "name": "Los Esquivel",
           "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Me Gusta Mi Vida 2.0",
+      "url": "https://open.spotify.com/track/16JufC0T9PMEdfZUJajoyK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Inter\u00e9s Se Destap\u00f3",
+        "url": "https://open.spotify.com/album/25jWazZXlVqCPIYdPDAMfc"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
         },
         {
           "name": "Eugenio Esquivel",
           "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
         }
       ],
-      "duration_ms": 142501,
-      "name": "Mafioso Americano",
-      "url": "https://open.spotify.com/track/26cw8A1zGvdQbmrrIZDWa8"
+      "duration_ms": 150740,
+      "name": "El Inter\u00e9s Se Destap\u00f3",
+      "url": "https://open.spotify.com/track/4eyp2tuPsQsUru7oywxAAL"
     },
     {
       "added_at": null,
@@ -407,6 +379,34 @@
       "duration_ms": 162480,
       "name": "Hasta El QLO",
       "url": "https://open.spotify.com/track/4lTlUpfOSZphX37uotVwx6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mafioso Americano",
+        "url": "https://open.spotify.com/album/2pxl6UJE5CseR9RAY9iBZ8"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Tian Glez",
+          "url": "https://open.spotify.com/artist/1D8DPSHgRcnzzHyNFoplMS"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 142501,
+      "name": "Mafioso Americano",
+      "url": "https://open.spotify.com/track/26cw8A1zGvdQbmrrIZDWa8"
     },
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "RZR Rojo",
+        "url": "https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 112981,
+      "name": "RZR Rojo",
+      "url": "https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kindersiza",
         "url": "https://open.spotify.com/album/7o29FGbEditAKnp7mZgJxB"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 153239,
       "name": "Kindersiza",
       "url": "https://open.spotify.com/track/3XjL23bwxQPkyD0SkjSnVP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RZR Rojo",
-        "url": "https://open.spotify.com/album/3ooQzMHUnEgvmhcdwQlr6I"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 112981,
-      "name": "RZR Rojo",
-      "url": "https://open.spotify.com/track/4O5wR64RB2ZjyekGRalbMj"
     },
     {
       "added_at": null,
@@ -635,6 +635,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Est\u00e1 Funcionando",
+        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 161332,
+      "name": "No Est\u00e1 Funcionando",
+      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pari Pari",
         "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
       },
@@ -659,30 +683,6 @@
       "duration_ms": 153984,
       "name": "Pari Pari",
       "url": "https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Est\u00e1 Funcionando",
-        "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 161332,
-      "name": "No Est\u00e1 Funcionando",
-      "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
     },
     {
       "added_at": null,

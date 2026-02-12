@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Lorenzo Salvetti
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,738 likes - 96 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,721 likes - 96 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > La mejor compañía mientras llueve.
 
-168 songs - 10 hr 32 min
+169 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Fuga](https://open.spotify.com/track/7dzNHNlZpGCWmpubnUkNGj) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Fuga](https://open.spotify.com/album/2WdOxEknOxc3eKdybYjznt) | 3:01 | 2024-09-05 | 2024-09-13 |
 | [Gracias X Eso](https://open.spotify.com/track/6Ci1wGxRN37dI35dQ4QHlS) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [Gracias X Eso](https://open.spotify.com/album/37WgKdj9c7fLrTqsD55jok) | 4:12 | 2024-10-24 | 2024-11-16 |
 | [Grande Amore](https://open.spotify.com/track/0ajLxVGDrivAsmnUcNGKGA) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Grande Amore](https://open.spotify.com/album/3uisoWygLYZsnXrPDasPVY) | 4:43 | 2024-10-24 | 2024-11-16 |
-| [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-02-07 |  |
+| [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-02-07 | 2026-02-12 |
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-27 | 2024-12-16 |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2021-11-12 |  |
 | [Huele A Tristeza](https://open.spotify.com/track/5L7YRcA4wQjkKbn6isIl1c) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [The Studio Albums 1990\-2011](https://open.spotify.com/album/5SAhhnpMwvz8epkSaPj3CN) | 4:46 | 2021-11-12 | 2022-05-16 |
@@ -142,6 +142,7 @@
 | [Roma](https://open.spotify.com/track/53v5pE5KzISAyExlB5qSl3) | [Giuliano](https://open.spotify.com/artist/5rkEooSMyUevvKQJnINTQ4) | [ROMA](https://open.spotify.com/album/7bM3TQV91JgWlz9MAycYLT) | 3:36 | 2025-04-25 | 2025-07-18 |
 | [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 | 2021-11-12 |  |
 | [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 | 2021-11-12 |  |
+| [Sauvignon Blanc](https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:42 | 2026-02-11 |  |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 | 2022-07-06 | 2026-02-11 |
 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 | 2021-11-12 | 2024-04-20 |
 | [Si tú no vuelves](https://open.spotify.com/track/7Cz6YbX8X6WNZNn2en1pUk) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Lo Mejor De Bosé](https://open.spotify.com/album/22bqL24CaHAULpscOV3Dup) | 4:38 | 2021-11-12 | 2022-07-29 |

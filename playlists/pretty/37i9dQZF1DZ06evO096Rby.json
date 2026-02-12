@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 53297,
+  "num_followers": 53315,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAABUpo28LzTvmofhJlOb+RPa",
+  "snapshot_id": "aYp1AAAAAABk8r/ENO1HlYWT4lS2gURl",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Banderas",
-        "url": "https://open.spotify.com/album/5S1KTpUqsbol9Jv4BWh1dF"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 158405,
-      "name": "Dos Banderas",
-      "url": "https://open.spotify.com/track/7rQsXHsDTqqHtXS8qj8AQd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello Kitty",
         "url": "https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dos Banderas",
+        "url": "https://open.spotify.com/album/5S1KTpUqsbol9Jv4BWh1dF"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 158405,
+      "name": "Dos Banderas",
+      "url": "https://open.spotify.com/track/7rQsXHsDTqqHtXS8qj8AQd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Con Banda y Norte\u00f1o",
         "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
       },
@@ -563,6 +563,26 @@
       "duration_ms": 254973,
       "name": "Aliados del tiempo - En Vivo",
       "url": "https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 183311,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
     },
     {
       "added_at": null,
@@ -655,42 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 183311,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "El Piyi",
-      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dicen y Dicen",
         "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 173135,
       "name": "Dicen y Dicen",
       "url": "https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "El Piyi",
+      "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191477,
-      "name": "El De La 31",
-      "url": "https://open.spotify.com/track/3MsSrOoeomjGybissXBe9G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor x Dosis",
         "url": "https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 198598,
       "name": "A Dios Le Ped\u00eda",
       "url": "https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191477,
+      "name": "El De La 31",
+      "url": "https://open.spotify.com/track/3MsSrOoeomjGybissXBe9G"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Con Banda y Norte\u00f1o",
+        "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 180229,
+      "name": "El Don Nadie - En Vivo",
+      "url": "https://open.spotify.com/track/3AxzKzoESCwJcwFFpXlQNE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 158391,
       "name": "Puro Pa\u2019 Delante",
       "url": "https://open.spotify.com/track/7LB36Pf828QzWhZ4F33wXK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Con Banda y Norte\u00f1o",
-        "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 180229,
-      "name": "El Don Nadie - En Vivo",
-      "url": "https://open.spotify.com/track/3AxzKzoESCwJcwFFpXlQNE"
     },
     {
       "added_at": null,

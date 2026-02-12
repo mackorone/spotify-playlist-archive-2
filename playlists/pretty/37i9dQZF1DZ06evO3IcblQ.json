@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 35837,
+  "num_followers": 35845,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAABDiRBEZhMyCjqmFV7QDgYY",
+  "snapshot_id": "aYp1AAAAAACxN2JQrFq5eoO/shnRhp13",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Ashes",
-        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 161573,
-      "name": "Something to Change",
-      "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Or Nothing (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 190653,
       "name": "Stand Strong",
       "url": "https://open.spotify.com/track/5VpXIDoc5QomGO3ezmS0wB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Ashes",
+        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 161573,
+      "name": "Something to Change",
+      "url": "https://open.spotify.com/track/4570R2Jthx2P93Y1nIYA6w"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Ashes",
-        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 179626,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/1UVLt0qDBrP2wqE1P8YOEK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Or Nothing (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 179293,
       "name": "We Have It All",
       "url": "https://open.spotify.com/track/7KLoR0gUpBO0UFespQwXh7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Ashes",
+        "url": "https://open.spotify.com/album/5jChldYJR4f1K3gkSd9Isg"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 179626,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1UVLt0qDBrP2wqE1P8YOEK"
     },
     {
       "added_at": null,

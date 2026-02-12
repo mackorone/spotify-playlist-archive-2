@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: HYPNOSIS THERAPHY)",
+  "description": "New & best K-Electronic music is here. (Cover: Coco K)",
   "name": "Electronii[K]",
   "tracks": [
     {
@@ -504,7 +504,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Armageddon (2Spade Remix)",
       "url": "https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 201454,
       "name": "Dirty Work - RayRay Remix",
       "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 134769,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 215190,
       "name": "Gravity - Garage Remix",
       "url": "https://open.spotify.com/track/6xuTvKxGKjvjrhbFjPvNcf"
@@ -2612,6 +2612,24 @@
       "duration_ms": 340660,
       "name": "I DON'T CARE",
       "url": "https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r"
+    },
+    {
+      "album": {
+        "name": "I/o",
+        "url": "https://open.spotify.com/album/4chKaVPGVHpUTQnhEOTw9y"
+      },
+      "artists": [
+        {
+          "name": "Neidi",
+          "url": "https://open.spotify.com/artist/2fZsYdm8ebfWm2KefdSjAc"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "I/o",
+      "url": "https://open.spotify.com/track/2yfQCLqpdxVlVjCuLlF0f9"
     },
     {
       "album": {
@@ -2846,6 +2864,28 @@
       "duration_ms": 64389,
       "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
       "url": "https://open.spotify.com/track/05w1GGQQl1NEw0hEznuANx"
+    },
+    {
+      "album": {
+        "name": "KETCHUP (with DAUL)",
+        "url": "https://open.spotify.com/album/3eB1Tdfgc4NTy5biUJXHRT"
+      },
+      "artists": [
+        {
+          "name": "Coco K",
+          "url": "https://open.spotify.com/artist/1WFVD9B1qvU1UPYcTSahqs"
+        },
+        {
+          "name": "DAUL",
+          "url": "https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "KETCHUP (with DAUL)",
+      "url": "https://open.spotify.com/track/7vRbgGeSOrVw4BLHJWsiuH"
     },
     {
       "album": {
@@ -4248,7 +4288,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 201931,
       "name": "Power - R3HAB Remix",
       "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
@@ -5426,6 +5466,24 @@
       "duration_ms": 152000,
       "name": "UnderControl (ft. moon)",
       "url": "https://open.spotify.com/track/6Fj9tZO1nO5vnZ7sJNMKc6"
+    },
+    {
+      "album": {
+        "name": "Unstable",
+        "url": "https://open.spotify.com/album/2lp0ashMLchbxZpnu4pDkI"
+      },
+      "artists": [
+        {
+          "name": "Itzel",
+          "url": "https://open.spotify.com/artist/2st3D0ujBWZdRUKJf5jE3O"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Unstable",
+      "url": "https://open.spotify.com/track/3r9wYjqmVN43nsJ52DSEpp"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 ### [Về Quê](https://open.spotify.com/playlist/37i9dQZF1DX1kCQJbQlZlA)
 
-> Về quê ăn Tết mọi người ơi, Mer said
+> Về quê ăn Tết mọi người ơi, Bùi Công Nam said
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,445 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,473 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Hương Tình Bến Tre](https://open.spotify.com/track/6UN7JNZ1d9ITE2Y9qF0J0a) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Hương Tình Bến Tre](https://open.spotify.com/album/42jLgyRJ3ULOERjCDSpAwo) | 5:28 |
 | 75 | [Bài Ngợi Ca Quê Hương](https://open.spotify.com/track/7JR6CUPNRIYh686NZ2dTP5) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM), [Sơn Ca](https://open.spotify.com/artist/4GAXVGD4GV2fX8xVnSHgea) | [Nỗi Buồn Hoa Phượng \- Tình Khúc Thanh Sơn](https://open.spotify.com/album/6o13lLHOOyBCGRlNQbHXHb) | 3:45 |
 
-Snapshot ID: `AAAAAB4uHf7d6svBnj6wVmHyxtudrKnf`
+Snapshot ID: `AAAAAP4Xu+diHcmo2lDbrfsMnVhCq+ug`

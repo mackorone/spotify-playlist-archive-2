@@ -4,7 +4,7 @@
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-372 songs - 18 hr 36 min
+374 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Alpha \(L\-78.3Hz R\-86.5Hz\)](https://open.spotify.com/track/4EHcpkor6cmqOWZEWdrgsj) | [NREM](https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm) | [Binaural Relief](https://open.spotify.com/album/6rVi7kAYDY3yOBm5l0rYva) | 3:41 | 2021-06-04 | 2025-02-11 |
 | [Alpha 6HZ](https://open.spotify.com/track/0D32zKm96iknCXO4fZDZKe) | [Amulett](https://open.spotify.com/artist/5jEi7bFTyCKl7NUgVtO90x) | [Binaural Movement](https://open.spotify.com/album/1hfV1O1wccF6G0IpR1Xnix) | 2:31 | 2021-04-22 | 2023-04-07 |
 | [Alpha 8HZ](https://open.spotify.com/track/2b73pXF92rsFndS7FxeQ68) | [Schamanen](https://open.spotify.com/artist/6o3pIin2DmrRp7z2HMbIcT) | [Synchronized Beta](https://open.spotify.com/album/23X2NUStO3afzaR3uS6QU8) | 3:24 | 2021-03-10 | 2022-03-19 |
+| [Alpha Alvor 150 Hz \- 158 Hz](https://open.spotify.com/track/3gO1wPG4apjxrsrWB3Kh9E) | [Lapalillo](https://open.spotify.com/artist/7dGXUhMvIkqUlPIIN04FuV) | [Alpha Alvor 150 Hz \- 158 Hz](https://open.spotify.com/album/2AnUzEDGS9X7PK8FgikKKv) | 2:58 | 2026-02-11 |  |
 | [Alpha Binaural Focus 107Hz \- 115Hz](https://open.spotify.com/track/4v9Iq4LANThJsxnMNukzOf) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Alpha Target](https://open.spotify.com/album/0SBxmKIqyb7rS7a5UVVgqK) | 3:32 | 2023-06-02 |  |
 | [Alpha Binaural Focus 115Hz \- 123Hz](https://open.spotify.com/track/5TR5odtJghbnXb9bQv6ubl) | [Infinite Field](https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2) | [Alpha Core](https://open.spotify.com/album/2WPi04z9oNIU0Ewu1siuYL) | 3:35 | 2023-04-07 | 2024-08-31 |
 | [Alpha Binaural Focus 127Hz \- 135Hz](https://open.spotify.com/track/7piZpvHTTRRnCuksODmtiY) | [New Lab](https://open.spotify.com/artist/2JERrrG5RDWd8oVOhpPl2F) | [Alpha Target](https://open.spotify.com/album/0SBxmKIqyb7rS7a5UVVgqK) | 3:26 | 2023-06-02 |  |
@@ -43,7 +44,7 @@
 | [Alpha Equinox 11 Hz](https://open.spotify.com/track/1F76NetapFNFzsU3628zh3) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Equinox](https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o) | 2:55 | 2022-12-09 | 2024-12-19 |
 | [Alpha Flow State 131Hz \- 143Hz](https://open.spotify.com/track/2gmVwgaGyRtXdyRZIWBVuO) | [Zeta Loxi](https://open.spotify.com/artist/7BvP1SJxIHUPDY2b35JgPL) | [Binaural Dimensions](https://open.spotify.com/album/2bfCUkCpDoC8TducDnE0vM) | 2:53 | 2021-02-24 | 2025-02-11 |
 | [Alpha Flow State 150Hz \- 157Hz](https://open.spotify.com/track/2mUxbRuJlnNCBmX9vbIcYM) | [Luna Waterfall](https://open.spotify.com/artist/4egqkDMoLIKSjt8gspCvyU) | [Flow State](https://open.spotify.com/album/1zPCdcZNYXqmltzGzRpkVU) | 3:29 | 2021-02-24 | 2025-02-11 |
-| [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 | 2021-04-10 |  |
+| [Alpha Focus 97Hz \- 104Hz](https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo) | [Universal Frequency](https://open.spotify.com/artist/0pIcKP7M8X29OqdKClIIJH) | [Alpha Focus](https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp) | 3:51 | 2021-04-10 | 2026-02-12 |
 | [Alpha Focus Drone](https://open.spotify.com/track/5dg5PNv5LXNPJoWTfOPQZn) | [Therapeutic Reality](https://open.spotify.com/artist/0cikLffzif45mLdhObDe0V) | [Brainwave State Alpha](https://open.spotify.com/album/2mlB96cTpOna6IQOoyY07x) | 3:27 | 2019-05-26\* | 2021-04-10 |
 | [Alpha Focus Waves 128Hz \- 136Hz](https://open.spotify.com/track/1CoW9K4Sabt7H8bspY6dI1) | [Triangular Prism III](https://open.spotify.com/artist/0SxMFbx9jy8q9pGSJoopmf) | [Alpha Focus](https://open.spotify.com/album/0Kv4W0JNSSXCLe2RAPDVcp) | 3:13 | 2023-03-10 | 2024-08-31 |
 | [Alpha Harmony \(105Hz \- 115Hz\)](https://open.spotify.com/track/3l3JdIcEn1lZ6mwnZSO2BV) | [Binaural Explorer](https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z) | [Harmonic Balance](https://open.spotify.com/album/5EIABDLRDHWgwcIRxcadfc) | 3:45 | 2023-10-13 | 2025-02-11 |
@@ -54,7 +55,8 @@
 | [Alpha Ocean 92\-100 Hz](https://open.spotify.com/track/4Qesv6EX1xmJnlmtDQ3LmC) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [Alpha Ocean 92\-100 Hz](https://open.spotify.com/album/3ePEytDLrENwiSX6R85bbg) | 2:38 | 2024-06-11 | 2025-02-11 |
 | [Alpha Overload \(1.4hz\)](https://open.spotify.com/track/6LXE8SCIlLewp3w8ayJI7P) | [Binaural Bob](https://open.spotify.com/artist/3b0jFoS97suhPO3v12iIw5) | [sinewave party](https://open.spotify.com/album/2VQWSbMOQizkg9RtacXTd3) | 2:24 | 2022-05-05 | 2025-05-17 |
 | [Alpha Path 96 Hz \- 105 Hz](https://open.spotify.com/track/0hhwkEtSNDdJWmWEWt2Jne) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Alpha Path 96 Hz \- 105 Hz](https://open.spotify.com/album/6gzlaAeZEJR1L7rbno4ZGS) | 2:55 | 2025-05-16 |  |
-| [Alpha Prosperity 127 Hz \- 135 Hz](https://open.spotify.com/track/0Qwn9VwFUlhrhsNGBNtIjB) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Binaural Bliss](https://open.spotify.com/album/1Vdw99FLXQSRFbg9tYLxFH) | 2:42 | 2023-05-26 |  |
+| [Alpha Peace Within 103 Hz \- 112 Hz](https://open.spotify.com/track/77BnBbqrol0vtiJxBamvfp) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Alpha Peace Within 103 Hz \- 112 Hz](https://open.spotify.com/album/6J1Wo4dDPftQ54vco0naqp) | 2:35 | 2026-02-11 |  |
+| [Alpha Prosperity 127 Hz \- 135 Hz](https://open.spotify.com/track/0Qwn9VwFUlhrhsNGBNtIjB) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Binaural Bliss](https://open.spotify.com/album/1Vdw99FLXQSRFbg9tYLxFH) | 2:42 | 2023-05-26 | 2026-02-12 |
 | [Alpha Pulse \- 92Hz \- 100Hz](https://open.spotify.com/track/6Bdz9KhB5T0yIM8ix7TYjR) | [Calming Beats](https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L) | [Binaural Concentration](https://open.spotify.com/album/0SC46nDHuX7dsxufZ3UV5l) | 2:36 | 2021-09-02 | 2023-10-13 |
 | [Alpha Pure Focus 96 Hz \- 104 Hz](https://open.spotify.com/track/5nOEci7Elw7ybRmf1v4qfZ) | [Unconscious Mind](https://open.spotify.com/artist/4z2YcYMIwrt57Yr2REOia0) | [Alpha Pure Focus 96 Hz \- 104 Hz](https://open.spotify.com/album/2XgnLzzkKZynfzJFJzjw2d) | 2:55 | 2023-06-02 |  |
 | [Alpha Rain 90\-99 Hz](https://open.spotify.com/track/4f8sots2fOhtoTs033cPVU) | [Rio Delacruz](https://open.spotify.com/artist/2gATxJ6ZQe6AS97hivkZ52) | [Alpha Rain 90\-99 Hz](https://open.spotify.com/album/0RR7xkSORDYmUhtHoAqPV7) | 2:33 | 2024-08-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 90240,
+  "num_followers": 90251,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL2+yMR0c3QiY4ttgEJEOuhIkvbI",
+  "snapshot_id": "AAAAAIJxBHmufj0JgtMr6qGyLiLGkEdp",
   "tracks": [
     {
       "added_at": "2026-02-02 22:17:06",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-02-02 22:17:06",
       "album": {
+        "name": "c\u00f3mo t va?",
+        "url": "https://open.spotify.com/album/3GdlieFk7Zy21yxHI5qdgd"
+      },
+      "artists": [
+        {
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "c\u00f3mo t va?",
+      "url": "https://open.spotify.com/track/0wNfrrgnzjFLbFeGKPBax5"
+    },
+    {
+      "added_at": "2026-02-02 22:17:06",
+      "album": {
         "name": "Hood Mona Lisa",
         "url": "https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar"
       },
@@ -1395,26 +1411,6 @@
       "duration_ms": 108530,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/0ny7hXvXLyabtm0lnG26tI"
-    },
-    {
-      "added_at": "2026-02-02 22:17:06",
-      "album": {
-        "name": "Ayo Smallz",
-        "url": "https://open.spotify.com/album/7s6M62riQwHDzomBaeYp3E"
-      },
-      "artists": [
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 85786,
-      "name": "Weak (Bend Over)",
-      "url": "https://open.spotify.com/track/16PG9ykp0W7xXJoQNQkHa2"
     }
   ],
   "unique_name": "Jersey Club Heat",

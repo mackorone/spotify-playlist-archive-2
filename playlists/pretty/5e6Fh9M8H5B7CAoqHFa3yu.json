@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 258,
+  "num_followers": 260,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIFKkliJrtj1aCoToUgzXHTzsQo30g",
+  "snapshot_id": "AAAIF/g6JPmXQtrkEJAU+rsMQon0FG55",
   "tracks": [
     {
       "added_at": "2026-01-21 01:10:56",
@@ -32963,6 +32963,58 @@
       "duration_ms": 238356,
       "name": "Astral",
       "url": "https://open.spotify.com/track/2zid4cfWtpcooEjSADhN2z"
+    },
+    {
+      "added_at": "2026-02-11 14:20:12",
+      "album": {
+        "name": "J\u00daRAME",
+        "url": "https://open.spotify.com/album/0GXNP93mlH7LF68LELP0l9"
+      },
+      "artists": [
+        {
+          "name": "Jarquez",
+          "url": "https://open.spotify.com/artist/68ydVVkXfgE3YuGuVRn3Nj"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "J\u00daRAME",
+      "url": "https://open.spotify.com/track/3k84ODqVFmZJ0tkxMnUXRQ"
+    },
+    {
+      "added_at": "2026-02-11 14:24:06",
+      "album": {
+        "name": "COSITAS DEL AMOR",
+        "url": "https://open.spotify.com/album/4PzZ70I18h1rZbS6QQdck1"
+      },
+      "artists": [
+        {
+          "name": "Jarquez",
+          "url": "https://open.spotify.com/artist/68ydVVkXfgE3YuGuVRn3Nj"
+        },
+        {
+          "name": "TMK",
+          "url": "https://open.spotify.com/artist/2kItgWIX7FzOnr6FjBgrPI"
+        }
+      ],
+      "duration_ms": 160615,
+      "name": "COSITAS DEL AMOR",
+      "url": "https://open.spotify.com/track/3jwQS1JO2GPK2xprvzAM9M"
+    },
+    {
+      "added_at": "2026-02-12 00:35:20",
+      "album": {
+        "name": "Beautiful Ways to Disappear",
+        "url": "https://open.spotify.com/album/0eakmFRFZ4Qeo6HiMgRBDG"
+      },
+      "artists": [
+        {
+          "name": "aNGie",
+          "url": "https://open.spotify.com/artist/71bUhvjdkzJAmqs4S1Z3kF"
+        }
+      ],
+      "duration_ms": 202559,
+      "name": "Drops of Rain",
+      "url": "https://open.spotify.com/track/5HA0YBgTwf0FXyvD4QHLNW"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

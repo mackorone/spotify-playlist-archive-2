@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,006 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,014 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 36 | [Le Parapluie](https://open.spotify.com/track/08KYx5dQxdD33irLEt8WQH) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Le Parapluie](https://open.spotify.com/album/65DVyR9E39jseLEfXe1gaR) | 4:07 |
 | 37 | [Just My Type](https://open.spotify.com/track/28206pMbYfHwCAFqi5XUf7) | [Swoodeasu](https://open.spotify.com/artist/187GxxpJNas11L79Z6SAvD), [TSUYO](https://open.spotify.com/artist/5AVe36Y90V3yjqeKtBvMCW) | [Just My Type](https://open.spotify.com/album/6c6w8VVedHHCiARs8hHV3W) | 3:20 |
 | 38 | [I Want You Back](https://open.spotify.com/track/4niMjTTcDJFOKxOzn9INQy) | [Bradley McCaw](https://open.spotify.com/artist/6WBjKhWSZmfAdHoeUIzaVR), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Louie Shelton](https://open.spotify.com/artist/2vJfIJtB4PLlIHICVf4V0N) | [I Want You Back](https://open.spotify.com/album/0CIe4u7zQdSYlZJjdRuf1q) | 4:03 |
-| 39 | [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 |
+| 39 | [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/6c2Bdq5NrPAn1KoRCehalM) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 |
 | 40 | [Somebody's Watching You](https://open.spotify.com/track/2zPxnWGwRGGwsvG1OSqCqF) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 3:35 |
 | 41 | [Out of My Life](https://open.spotify.com/track/3BCkdDIFlp7g8ZlvHVJv5p) | [Maya Killtron](https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2) | [Persimmon](https://open.spotify.com/album/00EK1rMkjf99RTeXyzuCdN) | 4:00 |
 | 42 | [Hottie & the Yachty](https://open.spotify.com/track/1RXRgsZKh7arq9vB7Dt1Es) | [superGOODthings](https://open.spotify.com/artist/7twKK7krUtniPlYv9i92vp) | [Yachty Rock Feelings, Vol\. 2](https://open.spotify.com/album/1TKNnr6wdF5OVEnVMAlDwf) | 3:18 |

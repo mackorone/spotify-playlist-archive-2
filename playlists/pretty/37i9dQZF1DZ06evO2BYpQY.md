@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,589 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,588 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 11 | [Troy](https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 6:31 |
 | 12 | [What Your Soul Sings](https://open.spotify.com/track/6EuGf9ZfK9CcSoq2M0SYto) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [100th Window](https://open.spotify.com/album/60szvcndZTCqG9E7GSAplB) | 6:38 |
 | 13 | [Black Boys on Mopeds](https://open.spotify.com/track/58H2Z73c7k2UoTMAR739Az) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 3:52 |
-| 14 | [Don't Cry for Me Argentina](https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 5:34 |
+| 14 | [Mother \- Live In Berlin](https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Wall \- Live In Berlin](https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR) | 6:37 |
 | 15 | [Just Like U Said It Would B](https://open.spotify.com/track/3SJZbGDZG20DPXmg3jKYj9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 4:31 |
-| 16 | [Mother \- Live In Berlin](https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Wall \- Live In Berlin](https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR) | 6:37 |
+| 16 | [Don't Cry for Me Argentina](https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 5:34 |
 | 17 | [Tears From The Moon](https://open.spotify.com/track/4nBzwUdPBNuKiFfLTeG2sV) | [Conjure One](https://open.spotify.com/artist/5fqgm8SaAvnQYoXnIf4RqU), [Rhys Fulber](https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Conjure One](https://open.spotify.com/album/0oUVb36vRs7xH3M6Gu2OUB) | 4:17 |
 | 18 | [Jealous](https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 4:15 |
 | 19 | [Jackie](https://open.spotify.com/track/0dQBgFWsfpZabdgAYIwNsO) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 49 | [Illegal Attacks](https://open.spotify.com/track/7nehRqXhqvo94ET8H4Gt3j) | [Ian Brown](https://open.spotify.com/artist/3s398TKZNahAURRacx7oIT), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The World Is Yours](https://open.spotify.com/album/5hKHVNvry7wVB6TfmbS0d7) | 5:25 |
 | 50 | [How About I Be Me](https://open.spotify.com/track/4UinhVSySHqF1Noln1Srs0) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I'm Not Bossy, I'm the Boss \(Deluxe Version\)](https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek) | 3:25 |
 
-Snapshot ID: `aYkjgAAAAADGuODjVmLEmdE7TkbzCp3z`
+Snapshot ID: `aYp1AAAAAAB32bjOcZ9msJ53rRMyecyK`

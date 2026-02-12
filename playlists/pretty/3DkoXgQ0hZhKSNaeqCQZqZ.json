@@ -1,13 +1,141 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 976,
+  "num_followers": 979,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAE2IvhwX17y6CXps1Pw6esoQ8XE1LK",
+  "snapshot_id": "AAAE30cQAIRYwgTXJiyH322nfP0CuRkV",
   "tracks": [
+    {
+      "added_at": "2026-02-11 18:25:55",
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk"
+      },
+      "artists": [
+        {
+          "name": "Reivan",
+          "url": "https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0"
+        }
+      ],
+      "duration_ms": 224062,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0UYdjTBvZQMkw3vV6p5GD4"
+    },
+    {
+      "added_at": "2026-02-11 18:25:55",
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk"
+      },
+      "artists": [
+        {
+          "name": "Reivan",
+          "url": "https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0"
+        }
+      ],
+      "duration_ms": 274090,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/0W3iReljfaduuFx1PbmS9o"
+    },
+    {
+      "added_at": "2026-02-11 18:25:55",
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk"
+      },
+      "artists": [
+        {
+          "name": "Reivan",
+          "url": "https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0"
+        }
+      ],
+      "duration_ms": 213262,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/4wgv8Zz3mTTEIQ6m027HL8"
+    },
+    {
+      "added_at": "2026-02-11 18:25:55",
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk"
+      },
+      "artists": [
+        {
+          "name": "Reivan",
+          "url": "https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "It Should Be Enough",
+      "url": "https://open.spotify.com/track/29zqa4XsteeaYfJRjrQE78"
+    },
+    {
+      "added_at": "2026-02-11 18:25:55",
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk"
+      },
+      "artists": [
+        {
+          "name": "Reivan",
+          "url": "https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/4AC7UmfLQSDdGleBbRpCLp"
+    },
+    {
+      "added_at": "2026-02-11 18:27:17",
+      "album": {
+        "name": "My Dreams Are Real",
+        "url": "https://open.spotify.com/album/6soBQtjobykfuHBvghbfcm"
+      },
+      "artists": [
+        {
+          "name": "Ian Martyn",
+          "url": "https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB"
+        }
+      ],
+      "duration_ms": 203714,
+      "name": "Eighteen Mile Hike",
+      "url": "https://open.spotify.com/track/7z812HS2zeD5Rn9mmNQmdQ"
+    },
+    {
+      "added_at": "2026-02-11 18:26:56",
+      "album": {
+        "name": "Ride That Boom",
+        "url": "https://open.spotify.com/album/5Ajlr10C8tMkSddprHgVts"
+      },
+      "artists": [
+        {
+          "name": "cUTEbRUTE",
+          "url": "https://open.spotify.com/artist/2b1PYwp2VH3xJJurNGIbVX"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "Ride That Boom",
+      "url": "https://open.spotify.com/track/1W5wgL5GqSE65vdCF5hb2b"
+    },
+    {
+      "added_at": "2026-02-11 18:44:30",
+      "album": {
+        "name": "My Dreams Are Real",
+        "url": "https://open.spotify.com/album/6soBQtjobykfuHBvghbfcm"
+      },
+      "artists": [
+        {
+          "name": "Ian Martyn",
+          "url": "https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB"
+        }
+      ],
+      "duration_ms": 291789,
+      "name": "We Built Pillow Forts",
+      "url": "https://open.spotify.com/track/7gCEHgBxNJQElU2AInPSHM"
+    },
     {
       "added_at": "2026-02-06 22:46:19",
       "album": {

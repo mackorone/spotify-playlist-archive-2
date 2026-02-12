@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 203142,
       "name": "A LO GANTER",
       "url": "https://open.spotify.com/track/2z4OpdR7GVZ41fvS2xOafx"
@@ -10132,7 +10132,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 178173,
       "name": "BOTA",
       "url": "https://open.spotify.com/track/1mRqeViSSY5ir944Xp9p2j"
@@ -30066,6 +30066,24 @@
     {
       "album": {
         "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/0wAf1LaMkHoLN7QL3Dv5fh"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/5IXk34xSm6rxNgXkCveC3r"
+    },
+    {
+      "album": {
+        "name": "Away From The Sun",
         "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
       },
       "artists": [
@@ -30076,7 +30094,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 238733,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
@@ -35264,6 +35282,24 @@
       "duration_ms": 343353,
       "name": "La Noche Mas Linda",
       "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
+    },
+    {
+      "album": {
+        "name": "La Noche Se Quedo Contigo",
+        "url": "https://open.spotify.com/album/7mXA9jlG6ZY2G0onfzoxXk"
+      },
+      "artists": [
+        {
+          "name": "Misael Soul",
+          "url": "https://open.spotify.com/artist/3q4nKdXpY7ggvpOtri0qzB"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "La Noche Se Quedo Contigo",
+      "url": "https://open.spotify.com/track/7e1iVnbLBbQJekNKdErzfG"
     },
     {
       "album": {
@@ -75188,7 +75224,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19309,
+  "num_followers": 19308,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -759,38 +759,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "XX",
-        "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Kercelak",
-      "url": "https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "REM",
-        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
-      },
-      "artists": [
-        {
-          "name": "Natalia Szroeder",
-          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
-        }
-      ],
-      "duration_ms": 197942,
-      "name": "P\u00f3\u0142noc",
-      "url": "https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "DOMINIKA DANIELA",
         "url": "https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 149508,
       "name": "PRZYJED\u0179",
       "url": "https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "REM",
+        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
+      },
+      "artists": [
+        {
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+        }
+      ],
+      "duration_ms": 197942,
+      "name": "P\u00f3\u0142noc",
+      "url": "https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Kercelak",
+      "url": "https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Vanishing",
+        "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
+      },
+      "artists": [
+        {
+          "name": "Blindead 23",
+          "url": "https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J"
+        }
+      ],
+      "duration_ms": 510066,
+      "name": "Haunting",
+      "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "Wsp\u00f3\u0142g\u0142osy",
         "url": "https://open.spotify.com/album/4SaFER9pNaleX46ZukkmgA"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 91803,
       "name": "Gospel Song",
       "url": "https://open.spotify.com/track/5qUpX6it0ihllRAKuRV5CD"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Vanishing",
-        "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
-      },
-      "artists": [
-        {
-          "name": "Blindead 23",
-          "url": "https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J"
-        }
-      ],
-      "duration_ms": 510066,
-      "name": "Haunting",
-      "url": "https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
-      },
-      "artists": [
-        {
-          "name": "Tomasz D\u0105browski",
-          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
-        },
-        {
-          "name": "The Individual Beings",
-          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
-        }
-      ],
-      "duration_ms": 361016,
-      "name": "F Jak Samolot",
-      "url": "https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "W\u0119druj\u0105cy Ptak",
         "url": "https://open.spotify.com/album/6rIbLAAY1oh8fniB0cStlA"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 157780,
       "name": "Letila zozula czerez moju chatu",
       "url": "https://open.spotify.com/track/5kVJA3uPz9HJn2ZaQBosoT"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
+      },
+      "artists": [
+        {
+          "name": "Tomasz D\u0105browski",
+          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
+        },
+        {
+          "name": "The Individual Beings",
+          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
+        }
+      ],
+      "duration_ms": 361016,
+      "name": "F Jak Samolot",
+      "url": "https://open.spotify.com/track/3Nd5ppPsA2Tl1fMNG1jy7q"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
-      },
-      "artists": [
-        {
-          "name": "Tomasz D\u0105browski",
-          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
-        },
-        {
-          "name": "The Individual Beings",
-          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
-        }
-      ],
-      "duration_ms": 338031,
-      "name": "Bonzer",
-      "url": "https://open.spotify.com/track/1914NxEjaK9z3xQgw228Rc"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "#INDAWOODS",
         "url": "https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 157331,
       "name": "Lusterka",
       "url": "https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/37WwjUUkxJBDrXovXBvmao"
+      },
+      "artists": [
+        {
+          "name": "Tomasz D\u0105browski",
+          "url": "https://open.spotify.com/artist/4cMrE5WUrsp0aWwGk7s2RC"
+        },
+        {
+          "name": "The Individual Beings",
+          "url": "https://open.spotify.com/artist/7KrJJz5yz5HoJlK7j7M6Gz"
+        }
+      ],
+      "duration_ms": 338031,
+      "name": "Bonzer",
+      "url": "https://open.spotify.com/track/1914NxEjaK9z3xQgw228Rc"
     },
     {
       "added_at": "2025-04-06 08:27:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Heijan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,354 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,291 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 12 | [Bana Sor](https://open.spotify.com/track/6Xfr7jIuH9ITBlfCEBCLYp) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti) | [Bana Sor](https://open.spotify.com/album/6JIR1x7plodkrgW87LZPzJ) | 3:12 |
 | 13 | [SINKIDX](https://open.spotify.com/track/38UJvDFfS4b3kCkSY4WF1x) | [13 Killoki](https://open.spotify.com/artist/2ivdJjs8c34cBxVmNI6zSK) | [SINKIDX](https://open.spotify.com/album/1ph6SV2JLUkSJpwVlzr18l) | 1:46 |
 | 14 | [SUSMAM LAZIM](https://open.spotify.com/track/2FyFDzqlViMWKTQpx6K3K7) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [SUSMAM LAZIM](https://open.spotify.com/album/42pq8zREM78D9Ugl6iRLOW) | 2:15 |
-| 15 | [Gayret](https://open.spotify.com/track/59Y69dLddpC5aQopngqbYe) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5), [Rapnos](https://open.spotify.com/artist/2XghPkdWh5kN7QmIjDbUwM) | [Gayret](https://open.spotify.com/album/6YEWutWfabSwCZmD0oq5ws) | 2:54 |
+| 15 | [Gayret](https://open.spotify.com/track/59Y69dLddpC5aQopngqbYe) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5), [Rapnos](https://open.spotify.com/artist/23MDCLi4njwWyiuw3FgDkt) | [Gayret](https://open.spotify.com/album/6YEWutWfabSwCZmD0oq5ws) | 2:54 |
 | 16 | [Peki Madem](https://open.spotify.com/track/0TOmxgOgevb6S44qHhTjHC) | [Ramiz](https://open.spotify.com/artist/4CnBqHEyoxCZKYx6iSJmNn), [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Peki Madem](https://open.spotify.com/album/6OA1WieiwqVjU1feh6VKIC) | 3:15 |
 | 17 | [İşte Böyle Yanıldım](https://open.spotify.com/track/7bSmKoyRN6n9J2itOyO8Zq) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [İşte Böyle Yanıldım](https://open.spotify.com/album/5kNRyI4hrLNOhtxqAfQaDf) | 3:21 |
 | 18 | [Trap House](https://open.spotify.com/track/24jJv0eMKXT4MvGKRP70QS) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 3:06 |

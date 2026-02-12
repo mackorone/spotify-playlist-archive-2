@@ -4170,7 +4170,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 267561,
       "name": "Azul",
       "url": "https://open.spotify.com/track/5T3hqSyt5rQbMUih0kKcpV"
@@ -9779,6 +9779,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Take It",
+        "url": "https://open.spotify.com/album/4jTPnIWT3aECDKSz4J0pcE"
+      },
+      "artists": [
+        {
+          "name": "Fonz",
+          "url": "https://open.spotify.com/artist/47CaqIJXmQWmsH6AC5YyHg"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218536,
+      "name": "Can\u2019t Take It",
+      "url": "https://open.spotify.com/track/55cT6CQVoS4vsBo7sUcInf"
+    },
+    {
+      "album": {
         "name": "CARBONE",
         "url": "https://open.spotify.com/album/6masld7IbVDO1ZQvIZiM0k"
       },
@@ -10514,7 +10532,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 199600,
       "name": "CHECK THE GROOVE",
       "url": "https://open.spotify.com/track/4OtKS4PY2FZzDAu3LQTVPS"
@@ -19401,6 +19419,24 @@
     },
     {
       "album": {
+        "name": "feel better",
+        "url": "https://open.spotify.com/album/1FnoWPchv5eoz5fTlhhR2A"
+      },
+      "artists": [
+        {
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190222,
+      "name": "feel better",
+      "url": "https://open.spotify.com/track/4tMdePOkrariLOyFXe1KnD"
+    },
+    {
+      "album": {
         "name": "Feel Free",
         "url": "https://open.spotify.com/album/69M7vsJEP13XMGPEHauGhW"
       },
@@ -28188,7 +28224,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 255105,
       "name": "I Know",
       "url": "https://open.spotify.com/track/5Yr2dQUCMLTHp9murXnHwu"
@@ -28656,6 +28692,24 @@
       "duration_ms": 178285,
       "name": "i want ur love",
       "url": "https://open.spotify.com/track/6Lt5gqL9Ke8XksHkJBJKQV"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/75EypBsyG1RP34r7LwMnXY"
+      },
+      "artists": [
+        {
+          "name": "Bryson Hill",
+          "url": "https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164296,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4HOns4faEjBFkyJXEuhaiZ"
     },
     {
       "album": {
@@ -30264,7 +30318,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 189500,
       "name": "It Really Don't Matter",
       "url": "https://open.spotify.com/track/1PNFgIfMKc6f5OtgfHt4f9"
@@ -35829,6 +35883,24 @@
     },
     {
       "album": {
+        "name": "Maneater",
+        "url": "https://open.spotify.com/album/2Wj8EGLR2CE5YO5hJU8u9J"
+      },
+      "artists": [
+        {
+          "name": "Vanny Granata",
+          "url": "https://open.spotify.com/artist/7sMVXhUHC2WPL5n05yspP5"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297346,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/53uxeteSi9xQBJV89BfVER"
+    },
+    {
+      "album": {
         "name": "Cool Down Cowboy",
         "url": "https://open.spotify.com/album/46tVUkJXJkgQsgPXGQSsUF"
       },
@@ -38458,7 +38530,7 @@
       },
       "artists": [
         {
-          "name": "AJK (US)",
+          "name": "AJK",
           "url": "https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm"
         }
       ],

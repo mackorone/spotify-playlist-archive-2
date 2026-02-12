@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "ana",
+        "url": "https://open.spotify.com/album/3hiBB2EWJhnawrKJqe431c"
+      },
+      "artists": [
+        {
+          "name": "Suzanna Son",
+          "url": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "ana",
+      "url": "https://open.spotify.com/track/784vnuhAjKQcuUIKU1H0Oi"
+    },
+    {
+      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -558,6 +576,24 @@
       "duration_ms": 188281,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL"
+    },
+    {
+      "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181893,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/4zXZ5Mq2L6jnsOsTssgRh8"
     },
     {
       "album": {
@@ -1374,6 +1410,36 @@
       "duration_ms": 200600,
       "name": "Swamp",
       "url": "https://open.spotify.com/track/1BXA1pNfvmLsV4M8DKbLy4"
+    },
+    {
+      "album": {
+        "name": "Choral Concert: Tapiola Choir - Pacius, F. / Kuusisto, T. / Kilpinen, Y. / Sibelius, J. / Merikanto, O. / Hannikainen, P. / Ennola, J. / Klemetti, H.",
+        "url": "https://open.spotify.com/album/0xUij1D2fqouFhpfojuB78"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Tapiola Choir",
+          "url": "https://open.spotify.com/artist/2Ok3xCNSCDvqOQJ6RaQlOH"
+        },
+        {
+          "name": "Tapiola Sinfonietta",
+          "url": "https://open.spotify.com/artist/1aCLiYz6Kl83key0zcgCxc"
+        },
+        {
+          "name": "Jorma Panula",
+          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131093,
+      "name": "Taivas on sininen ja valkoinen (the Sky Is Blue) [arr. J. Panula]",
+      "url": "https://open.spotify.com/track/49p19jGQkgEbjVpdzYQSRs"
     },
     {
       "album": {

@@ -1451,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Baile",
+        "url": "https://open.spotify.com/album/6WE8kAPjgXoou8BzO6Xsf2"
+      },
+      "artists": [
+        {
+          "name": "holand\u00eas",
+          "url": "https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234857,
+      "name": "Baile",
+      "url": "https://open.spotify.com/track/1VatCDYWPLIdY3oky11AIw"
+    },
+    {
+      "album": {
         "name": "Bailey / Insurrection",
         "url": "https://open.spotify.com/album/4zGE3CLAACCy4AoPnkpVrh"
       },
@@ -4104,7 +4122,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 248391,
       "name": "Dappa Dan",
       "url": "https://open.spotify.com/track/6atT69esWSadQ7Ujx27Z3l"

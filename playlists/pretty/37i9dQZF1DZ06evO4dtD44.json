@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 62634,
+  "num_followers": 62649,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAB5xCgGpOPiN/18jFUKqdxS",
+  "snapshot_id": "aYp1AAAAAADOxgycAE3cgqIQLpC6zRZ3",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "H\u00f4-B\u00e1-L\u00e1-L\u00e1",
-        "url": "https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 124682,
-      "name": "Rosa Morena",
-      "url": "https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chega de saudade de Jo\u00e3o Gilberto",
         "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 118120,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/4nzYyJpRLCDY1m7kV5eHQE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "H\u00f4-B\u00e1-L\u00e1-L\u00e1",
+        "url": "https://open.spotify.com/album/2yHz1xJFHbJzhBitif1HJp"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 124682,
+      "name": "Rosa Morena",
+      "url": "https://open.spotify.com/track/2a9RgLSgbfIQwEiwCltTSK"
     },
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coisa Mais Linda",
+        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 149882,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/4zbKBVEs2nE80kDoGTx079"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Tokyo",
         "url": "https://open.spotify.com/album/3h9Gwb6SajuppTujI3Rxlf"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 308166,
       "name": "\u00c9 preciso Perdoar",
       "url": "https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0yErqUwr8yOFNHxVnwsG6K"
     }
   ],
   "unique_name": "This Is Jo\u00e3o Gilberto",

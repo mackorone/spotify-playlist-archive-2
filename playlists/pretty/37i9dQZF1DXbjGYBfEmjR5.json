@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 360017,
+  "num_followers": 360053,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Talk Of The Dancefloor",
-        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Station",
-          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
-        }
-      ],
-      "duration_ms": 196997,
-      "name": "Anita",
-      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "I Chose Wrong",
         "url": "https://open.spotify.com/album/2OvhrwlcSZ8xGT0jsB0ikE"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 172000,
       "name": "I Chose Wrong",
       "url": "https://open.spotify.com/track/6lSrgTxyF9XgyLuNByH7Vm"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Talk Of The Dancefloor",
+        "url": "https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Station",
+          "url": "https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB"
+        }
+      ],
+      "duration_ms": 196997,
+      "name": "Anita",
+      "url": "https://open.spotify.com/track/69Edc5kIBmt4qiMQuVjPpI"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Welcome To The Alley",
-        "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
-      },
-      "artists": [
-        {
-          "name": "Tsundere Alley",
-          "url": "https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe"
-        }
-      ],
-      "duration_ms": 161959,
-      "name": "Like My Love",
-      "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "The Sweetest Dream",
         "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+        "name": "Welcome To The Alley",
+        "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
       },
       "artists": [
         {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+          "name": "Tsundere Alley",
+          "url": "https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe"
         }
       ],
-      "duration_ms": 103059,
-      "name": "Lovely Road",
-      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
+      "duration_ms": 161959,
+      "name": "Like My Love",
+      "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -859,6 +843,22 @@
       "duration_ms": 269752,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 103059,
+      "name": "Lovely Road",
+      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Shine On",
-        "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 173374,
-      "name": "Why Future Funk ROCKED in '17",
-      "url": "https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "PopSlinger (Original Videogame Soundtrack)",
         "url": "https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr"
       },
@@ -943,6 +927,38 @@
       "duration_ms": 208000,
       "name": "Static Startup",
       "url": "https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Shine On",
+        "url": "https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 173374,
+      "name": "Why Future Funk ROCKED in '17",
+      "url": "https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
+      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -967,22 +983,6 @@
       "duration_ms": 240004,
       "name": "Neon Light\u306e\u591c feat. \u4e00\u5341\u4e09\u5341\u4e00",
       "url": "https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-        "url": "https://open.spotify.com/album/6N495ky1d6PEtdQPZVWld3"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DAILY ILLEGAL ANIME CONSUMPTION PT.1",
-      "url": "https://open.spotify.com/track/7brqAAi0dbWWTI91HkurKK"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Sidechain My Heart",
+        "url": "https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Love & Affection",
+      "url": "https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Stellae",
         "url": "https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 230163,
       "name": "Stellae",
       "url": "https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Sidechain My Heart",
-        "url": "https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Love & Affection",
-      "url": "https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 173421,
+      "name": "Palm Road",
+      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Dance Tonite",
         "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+        "name": "Goodbye Future Funk",
+        "url": "https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj"
       },
       "artists": [
         {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
         }
       ],
-      "duration_ms": 173421,
-      "name": "Palm Road",
-      "url": "https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0"
+      "duration_ms": 216774,
+      "name": "Le Knight Club Is Playing at My House",
+      "url": "https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1171,22 +1187,6 @@
       "duration_ms": 251151,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Goodbye Future Funk",
-        "url": "https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Le Knight Club Is Playing at My House",
-      "url": "https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Virtual Girls Band a.k.a. Sparkle",
+        "url": "https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 186664,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Slowed Midnight",
         "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 171000,
       "name": "Querelle",
       "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Notilde Tapes, Vol. 1",
-        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
-      },
-      "artists": [
-        {
-          "name": "Pop Up!",
-          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
-        }
-      ],
-      "duration_ms": 230655,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Virtual Girls Band a.k.a. Sparkle",
-        "url": "https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf"
+        "name": "Notilde Tapes, Vol. 1",
+        "url": "https://open.spotify.com/album/2zEi1dqComKYcret0KkXWg"
       },
       "artists": [
         {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+          "name": "Pop Up!",
+          "url": "https://open.spotify.com/artist/4AuPwqXG4t4Ic5PQGmtjHi"
         }
       ],
-      "duration_ms": 186664,
-      "name": "Break Your Heart",
-      "url": "https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG"
+      "duration_ms": 230655,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Pink Dance EP",
-        "url": "https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV"
-      },
-      "artists": [
-        {
-          "name": "Future Girlfriend Music",
-          "url": "https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Crazy Nights",
-      "url": "https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 142612,
       "name": "Sua Noite",
       "url": "https://open.spotify.com/track/1F2LUInQ9RwsTShO88HFYH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Pink Dance EP",
+        "url": "https://open.spotify.com/album/3XyrBbErwMwkZRoznQUnxV"
+      },
+      "artists": [
+        {
+          "name": "Future Girlfriend Music",
+          "url": "https://open.spotify.com/artist/6yWRHWCfKgDfuVktb28gZB"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Crazy Nights",
+      "url": "https://open.spotify.com/track/5TAePjvWgL1aHvtBfFem5N"
     }
   ],
   "unique_name": "Future Funk",

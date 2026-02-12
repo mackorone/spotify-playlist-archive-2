@@ -813,6 +813,28 @@
     },
     {
       "album": {
+        "name": "Echoes of a Romantic Soul",
+        "url": "https://open.spotify.com/album/5VZrn1egaRKKSAbCScL9bj"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Klemens Klein",
+          "url": "https://open.spotify.com/artist/2NmcHggEqapmrZwB4VrRm6"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393462,
+      "name": "Piano Trio in G Minor, Op. 17: III. Andante",
+      "url": "https://open.spotify.com/track/7jM8fEZOUvvWRWunRddlcH"
+    },
+    {
+      "album": {
         "name": "Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet",
         "url": "https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I"
       },

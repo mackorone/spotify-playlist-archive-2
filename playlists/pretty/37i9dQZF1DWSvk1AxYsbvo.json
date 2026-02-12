@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 25828,
+  "num_followers": 25827,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-02-09 05:31:42",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH"
-      },
-      "artists": [
-        {
-          "name": "Krr",
-          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
-    },
-    {
-      "added_at": "2026-02-09 05:31:42",
-      "album": {
         "name": "When I stop thinking",
         "url": "https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 196093,
       "name": "When I stop thinking",
       "url": "https://open.spotify.com/track/2lC9w6JGMzBkiQrx8Wy6uM"
+    },
+    {
+      "added_at": "2026-02-09 05:31:42",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
     },
     {
       "added_at": "2026-02-09 05:31:42",
@@ -327,22 +327,18 @@
     {
       "added_at": "2026-02-09 05:31:42",
       "album": {
-        "name": "NOI MAS",
-        "url": "https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm"
+        "name": "Love, Take Two, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4ZBsA5UZmPkhsKVr6kBnm4"
       },
       "artists": [
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "CHOI JUNG EUN",
+          "url": "https://open.spotify.com/artist/57vWEo5CS7wC4oJjuCcgAr"
         }
       ],
-      "duration_ms": 216601,
-      "name": "Never Leave Me (Feat. pH-1)",
-      "url": "https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI"
+      "duration_ms": 196000,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1x8y9zhORcFz1jOscolY9S"
     },
     {
       "added_at": "2026-02-09 05:31:42",
@@ -363,22 +359,6 @@
     {
       "added_at": "2026-02-09 05:31:42",
       "album": {
-        "name": "Love, Take Two, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4ZBsA5UZmPkhsKVr6kBnm4"
-      },
-      "artists": [
-        {
-          "name": "CHOI JUNG EUN",
-          "url": "https://open.spotify.com/artist/57vWEo5CS7wC4oJjuCcgAr"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1x8y9zhORcFz1jOscolY9S"
-    },
-    {
-      "added_at": "2026-02-09 05:31:42",
-      "album": {
         "name": "sleepless nights (My Sweden Laundry #1)",
         "url": "https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 220413,
       "name": "sleepless nights (My Sweden Laundry #1)",
       "url": "https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC"
+    },
+    {
+      "added_at": "2026-02-09 05:31:42",
+      "album": {
+        "name": "NOI MAS",
+        "url": "https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm"
+      },
+      "artists": [
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 216601,
+      "name": "Never Leave Me (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI"
     },
     {
       "added_at": "2026-02-09 05:31:42",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-02-09 05:31:42",
       "album": {
-        "name": "The Reason - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1"
-      },
-      "artists": [
-        {
-          "name": "Yim Siwan",
-          "url": "https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Dear My Love",
-      "url": "https://open.spotify.com/track/0qyAGE9nrTR7GGaDDoSX6L"
-    },
-    {
-      "added_at": "2026-02-09 05:31:42",
-      "album": {
         "name": "To the other side of greed",
         "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 227560,
       "name": "To the other side of greed",
       "url": "https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz"
+    },
+    {
+      "added_at": "2026-02-09 05:31:42",
+      "album": {
+        "name": "The Reason - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1"
+      },
+      "artists": [
+        {
+          "name": "Yim Siwan",
+          "url": "https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Dear My Love",
+      "url": "https://open.spotify.com/track/0qyAGE9nrTR7GGaDDoSX6L"
     },
     {
       "added_at": "2026-02-09 05:31:42",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-09 05:31:42",
       "album": {
-        "name": "Night, Snow",
-        "url": "https://open.spotify.com/album/6HcMo1yhe6YNFN1GVWG9Hk"
-      },
-      "artists": [
-        {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
-        }
-      ],
-      "duration_ms": 229625,
-      "name": "Night, Snow",
-      "url": "https://open.spotify.com/track/0eFZnopeoBIj4WhZzAEtki"
-    },
-    {
-      "added_at": "2026-02-09 05:31:42",
-      "album": {
         "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 190520,
       "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
       "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
+    },
+    {
+      "added_at": "2026-02-09 05:31:42",
+      "album": {
+        "name": "Night, Snow",
+        "url": "https://open.spotify.com/album/6HcMo1yhe6YNFN1GVWG9Hk"
+      },
+      "artists": [
+        {
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+        }
+      ],
+      "duration_ms": 229625,
+      "name": "Night, Snow",
+      "url": "https://open.spotify.com/track/0eFZnopeoBIj4WhZzAEtki"
     },
     {
       "added_at": "2026-02-09 05:31:42",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-02-09 05:31:42",
       "album": {
-        "name": "Sweet Lullaby",
-        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Sweet Lullaby",
-      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
-    },
-    {
-      "added_at": "2026-02-09 05:31:42",
-      "album": {
         "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
         "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 225080,
       "name": "Just You",
       "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
+    },
+    {
+      "added_at": "2026-02-09 05:31:42",
+      "album": {
+        "name": "Sweet Lullaby",
+        "url": "https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Sweet Lullaby",
+      "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"
     },
     {
       "added_at": "2026-02-09 05:31:42",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-09 05:31:42",
       "album": {
-        "name": "Jellyfish",
-        "url": "https://open.spotify.com/album/7lApor8Z92h8yzTE5SgvLu"
-      },
-      "artists": [
-        {
-          "name": "Son Hyeeun",
-          "url": "https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Jellyfish",
-      "url": "https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9"
-    },
-    {
-      "added_at": "2026-02-09 05:31:42",
-      "album": {
         "name": "Lean On Me (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 192586,
       "name": "Echo (feat. JUKJAE)",
       "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
+    },
+    {
+      "added_at": "2026-02-09 05:31:42",
+      "album": {
+        "name": "Jellyfish",
+        "url": "https://open.spotify.com/album/7lApor8Z92h8yzTE5SgvLu"
+      },
+      "artists": [
+        {
+          "name": "Son Hyeeun",
+          "url": "https://open.spotify.com/artist/1ymkZBkFqc6sOP2d84mWAJ"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Jellyfish",
+      "url": "https://open.spotify.com/track/4Jp9U1LmOOAFMDbHp0Yjj9"
     },
     {
       "added_at": "2026-02-09 05:31:42",
@@ -807,18 +807,18 @@
     {
       "added_at": "2026-02-09 05:31:42",
       "album": {
-        "name": "A story that will turn into a poem",
-        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
+        "name": "summer youth",
+        "url": "https://open.spotify.com/album/59cIkqrNBXirVmxoH4u5iB"
       },
       "artists": [
         {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
         }
       ],
-      "duration_ms": 193667,
-      "name": "moon river (2021)",
-      "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
+      "duration_ms": 217026,
+      "name": "summer youth",
+      "url": "https://open.spotify.com/track/3weLeZpoo5XQnoxkc3wbSa"
     },
     {
       "added_at": "2026-02-09 05:31:42",

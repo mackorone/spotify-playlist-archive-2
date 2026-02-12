@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-650 songs - 1 day 15 hr 24 min
+651 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 | 2025-09-05 | 2026-01-30 |
 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-10-20 | 2022-12-07 |
 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 | 2025-02-28 |  |
+| [Blush](https://open.spotify.com/track/75ZSTrLVy8w4pZ2AJczLvx) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [Blush](https://open.spotify.com/album/2DC22KxWVf8Veu5ddwBOSW) | 2:44 | 2026-01-29 |  |
 | [Boat](https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Boat](https://open.spotify.com/album/0MC4ylr8NtdNRRhPUyjvdS) | 3:05 | 2023-04-20 | 2023-08-04 |
 | [Boat](https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:05 | 2023-08-03 | 2024-03-01 |
 | [Boku Wa Chotto](https://open.spotify.com/track/1RMnWyL9KlDgmAhirqNxin) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Boku Wa Chotto](https://open.spotify.com/album/6GAmwk5VqC7XgArdzwPicy) | 2:51 | 2024-02-20 | 2024-06-03 |
@@ -332,7 +333,7 @@
 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 | 2023-05-18 | 2023-09-02 |
 | [Midsummer Mansion](https://open.spotify.com/track/5eknQ3ZQFqg7C45BitzhV4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [the gates](https://open.spotify.com/album/0XKZyisZfoJOCy5hK72Pnu) | 4:22 | 2026-01-29 |  |
 | [Million Billion Trillion](https://open.spotify.com/track/5Mj2za2W4PZ3NDN3d1NYdR) | [Mariae Cassandra](https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ) | [Million Billion Trillion](https://open.spotify.com/album/4KLGFwlKcIoBiJDGNxPwh1) | 2:35 | 2024-07-12 | 2025-07-31 |
-| [Missunderstood](https://open.spotify.com/track/4JRe8URCoTHeNvMp8Q7zC7) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Missunderstood](https://open.spotify.com/album/0sqrGimhgyF2EVuku7WbZ0) | 3:23 | 2026-01-29 |  |
+| [Missunderstood](https://open.spotify.com/track/4JRe8URCoTHeNvMp8Q7zC7) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Missunderstood](https://open.spotify.com/album/0sqrGimhgyF2EVuku7WbZ0) | 3:23 | 2026-01-29 | 2026-02-12 |
 | [Mistakes](https://open.spotify.com/track/0UojKdaPtcnw7DDh9R33tX) | [Celeina Ann](https://open.spotify.com/artist/0Yy0IaO0CcLMBy7ZRaJkmw), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [Mistakes](https://open.spotify.com/album/4hdRFduT29SvN8VGPhEzBM) | 3:01 | 2023-03-16 | 2023-04-21 |
 | [money body](https://open.spotify.com/track/5IU0tq0QipMw6lUrQlRQtV) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [money body](https://open.spotify.com/album/3LtPIBWo8MYD5jqJIClfe8) | 3:22 | 2023-10-05 | 2023-11-22 |
 | [money body](https://open.spotify.com/track/7bGez9GvqOQa1DGzylJSAE) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [money body](https://open.spotify.com/album/7dEyLHxFvzCOIax3k4IYU9) | 3:22 | 2023-09-12 | 2023-10-06 |

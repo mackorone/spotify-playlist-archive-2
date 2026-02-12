@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,217 likes - 41 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,208 likes - 41 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 40 | [Lorelei](https://open.spotify.com/track/4OqCBYBpBHkndBO2EeCvOb) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Lorelei](https://open.spotify.com/album/2Gil8XJgdgPnjBth5miQ0C) | 2:35 |
 | 41 | [Body Is On Fire](https://open.spotify.com/track/5dG34aa2xQK9WBbd2U8MAS) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Body Is On Fire](https://open.spotify.com/album/5EzCcZlpoHWp4X3IJDRq7b) | 2:22 |
 
-Snapshot ID: `AAAAAJNryo2S6XUJWTwjBMOZU7p9hNbZ`
+Snapshot ID: `AAAAAJM+c/xVlUT/LY5AhLScTaom+gsY`

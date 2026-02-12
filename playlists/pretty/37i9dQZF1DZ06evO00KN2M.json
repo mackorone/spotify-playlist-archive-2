@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1149415,
+  "num_followers": 1149555,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAC8MahImQItE0pdj0+Gzwvm",
+  "snapshot_id": "aYp1AAAAAADz4N9v7eGlm3A0ibYa4gQJ",
   "tracks": [
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Dance",
-        "url": "https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ"
+        "name": "Bare Trees",
+        "url": "https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 268200,
-      "name": "Landslide - Live at Warner Brothers Studios in Burbank, CA 5/23/97",
-      "url": "https://open.spotify.com/track/06h9kk12VjJ2bqcBc6IScR"
+      "duration_ms": 190666,
+      "name": "Sunny Side of Heaven",
+      "url": "https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bare Trees",
-        "url": "https://open.spotify.com/album/4yjFzAgg5VcidLwoZiQmbi"
+        "name": "The Dance",
+        "url": "https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 190666,
-      "name": "Sunny Side of Heaven",
-      "url": "https://open.spotify.com/track/3kpH1izy0QrjIDBFbz83YD"
+      "duration_ms": 268200,
+      "name": "Landslide - Live at Warner Brothers Studios in Burbank, CA 5/23/97",
+      "url": "https://open.spotify.com/track/06h9kk12VjJ2bqcBc6IScR"
     },
     {
       "added_at": null,

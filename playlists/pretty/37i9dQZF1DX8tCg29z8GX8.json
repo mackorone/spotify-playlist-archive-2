@@ -1,12 +1,12 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 19378,
+  "num_followers": 19393,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMsipjBcWvEyWccNGuJp+QGZQ57m",
+  "snapshot_id": "AAAAAPARAhXmlwH/faT/1v2cFweLDjnK",
   "tracks": [
     {
       "added_at": "2026-02-06 00:01:21",
@@ -53,7 +53,7 @@
       "artists": [
         {
           "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "url": "https://open.spotify.com/artist/7z2IXfZ1431JlqkQNFg85l"
         }
       ],
       "duration_ms": 150000,
@@ -327,18 +327,22 @@
     {
       "added_at": "2026-02-06 00:01:21",
       "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
       },
       "artists": [
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
     },
     {
       "added_at": "2026-02-06 00:01:21",
@@ -411,6 +415,22 @@
     {
       "added_at": "2026-02-06 00:01:21",
       "album": {
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
+    },
+    {
+      "added_at": "2026-02-06 00:01:21",
+      "album": {
         "name": "WALK WITH ME",
         "url": "https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl"
       },
@@ -459,26 +479,6 @@
     {
       "added_at": "2026-02-06 00:01:21",
       "album": {
-        "name": "That Way",
-        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "That Way",
-      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
-    },
-    {
-      "added_at": "2026-02-06 00:01:21",
-      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -495,6 +495,26 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+    },
+    {
+      "added_at": "2026-02-06 00:01:21",
+      "album": {
+        "name": "See What We've Done",
+        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 185719,
+      "name": "See What We've Done",
+      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
     },
     {
       "added_at": "2026-02-06 00:01:21",
@@ -551,26 +571,6 @@
       "duration_ms": 223585,
       "name": "So it Goes",
       "url": "https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq"
-    },
-    {
-      "added_at": "2026-02-06 00:01:21",
-      "album": {
-        "name": "See What We've Done",
-        "url": "https://open.spotify.com/album/5joD3BWyBtdMgOWX0HfT42"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 185719,
-      "name": "See What We've Done",
-      "url": "https://open.spotify.com/track/3lwmzgzAU2IS0GLPGNdZ4b"
     },
     {
       "added_at": "2026-02-06 00:01:21",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-02-06 00:01:21",
       "album": {
-        "name": "Alhaji Popping",
-        "url": "https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ"
-      },
-      "artists": [
-        {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 156233,
-      "name": "Alhaji Popping",
-      "url": "https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7"
-    },
-    {
-      "added_at": "2026-02-06 00:01:21",
-      "album": {
         "name": "Enter",
         "url": "https://open.spotify.com/album/4Rnp9YkM10Y7Pxk6YOSt4M"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 197522,
       "name": "Enter",
       "url": "https://open.spotify.com/track/1NwssiNfFaYnuCf8qFizTW"
+    },
+    {
+      "added_at": "2026-02-06 00:01:21",
+      "album": {
+        "name": "Alhaji Popping",
+        "url": "https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "duration_ms": 156233,
+      "name": "Alhaji Popping",
+      "url": "https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7"
     },
     {
       "added_at": "2026-02-06 00:01:21",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-02-06 00:01:21",
       "album": {
+        "name": "Fire Go",
+        "url": "https://open.spotify.com/album/0khtpC9XGPRe9CFLQjPVWI"
+      },
+      "artists": [
+        {
+          "name": "Blacq \u00c9nergy",
+          "url": "https://open.spotify.com/artist/73PqrrbJs3V4BgYvKXzMm8"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Fire Go",
+      "url": "https://open.spotify.com/track/5nvokuidjeeZ0EvK6IB3Nm"
+    },
+    {
+      "added_at": "2026-02-06 00:01:21",
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/4rgXOI6re7kir0vZKx0ZRL"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 141176,
       "name": "SAME TIMBS",
       "url": "https://open.spotify.com/track/6kSFCS2GbbctaZ4KbWTqrA"
-    },
-    {
-      "added_at": "2026-02-06 00:01:21",
-      "album": {
-        "name": "Fire Go",
-        "url": "https://open.spotify.com/album/0khtpC9XGPRe9CFLQjPVWI"
-      },
-      "artists": [
-        {
-          "name": "Blacq \u00c9nergy",
-          "url": "https://open.spotify.com/artist/73PqrrbJs3V4BgYvKXzMm8"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Fire Go",
-      "url": "https://open.spotify.com/track/5nvokuidjeeZ0EvK6IB3Nm"
     },
     {
       "added_at": "2026-02-06 00:01:21",

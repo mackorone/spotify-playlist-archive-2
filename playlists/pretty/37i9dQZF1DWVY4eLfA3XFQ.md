@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > 50% techno, 50% house 🥁 Tech house operators, featuring Jackie Hollander
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,960 likes - 125 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,736 likes - 125 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 72 | [System Error](https://open.spotify.com/track/2RKGqUw14sYGxChBCymGa7) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [System Error](https://open.spotify.com/album/0OiTED4JIxWHqwsK8ViPDA) | 2:10 |
 | 73 | [Push the Tempo](https://open.spotify.com/track/2zPeSu6oGJb1zBQON9VWxu) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Push the Tempo](https://open.spotify.com/album/1Aavg2DMSIlLovA3bYlQX2) | 3:12 |
 | 74 | [All I Think About](https://open.spotify.com/track/0p1QmCiKpZ5Dc3exFTUXUT) | [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j) | [All I Think About](https://open.spotify.com/album/53ytnFVFgHVmb2ZUvT7AGW) | 2:41 |
-| 75 | [Low Low](https://open.spotify.com/track/1FbcvMS4swPMr6bBHB66Xx) | [Méssous](https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA), [AJK \(US\)](https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm) | [The Factory VA Vol\. 2](https://open.spotify.com/album/3GhXB8ugQvxF3NNrf47XnO) | 3:09 |
+| 75 | [Low Low](https://open.spotify.com/track/1FbcvMS4swPMr6bBHB66Xx) | [Méssous](https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA), [AJK](https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm) | [The Factory VA Vol\. 2](https://open.spotify.com/album/3GhXB8ugQvxF3NNrf47XnO) | 3:09 |
 | 76 | [Opera Phantom](https://open.spotify.com/track/6xzkWS5a7Letn8AHkz4ee4) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [BUJA \(BR\)](https://open.spotify.com/artist/41aEekLErfG405Fo1e4hqU) | [Opera Phantom](https://open.spotify.com/album/0WxfGVGJFEzDWnPEmAQCHT) | 2:55 |
 | 77 | [Tension](https://open.spotify.com/track/4gKXDKK8dqwOVkmpXxK8Ql) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5), [Modern Lover](https://open.spotify.com/artist/04mRnX3dfLtv3ZT9kPay35) | [Tension](https://open.spotify.com/album/6VfMfYObM7LdE8tNSneHbY) | 2:49 |
 | 78 | [Take Your Places](https://open.spotify.com/track/2adebVLvCyhgIM4eGNfS6n) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Take Your Places](https://open.spotify.com/album/4xRNv1atMIvOZL7dGGwBVk) | 3:57 |

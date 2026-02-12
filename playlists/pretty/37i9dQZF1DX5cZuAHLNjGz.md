@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Cheema Y
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,430,555 likes - 101 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,430,669 likes - 101 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 25 | [That Girl](https://open.spotify.com/track/1SV8Z3emrbM9FPb0fo2muW) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [That Girl](https://open.spotify.com/album/5vfl5JaulQrP3hn3dUWCd3) | 2:37 |
 | 26 | [AZUL](https://open.spotify.com/track/1XwOA83wulFYtimOir6MUL) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [AZUL](https://open.spotify.com/album/3NGgHtZBotxHUiKBUuwn39) | 2:18 |
 | 27 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
-| 28 | [Piche Tere](https://open.spotify.com/track/4ZWoJ4tRi74mHHnItB3k9h) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Piche Tere](https://open.spotify.com/album/2eWZ4GdGxtyWqyWOpNuhpb) | 2:00 |
+| 28 | [Piche Tere](https://open.spotify.com/track/4ZWoJ4tRi74mHHnItB3k9h) | [Kunwarr](https://open.spotify.com/artist/6AnFaupnhQD1Ps8DX7Z7mV), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Piche Tere](https://open.spotify.com/album/2eWZ4GdGxtyWqyWOpNuhpb) | 1:59 |
 | 29 | [Big Things](https://open.spotify.com/track/2aCK04kzCID5znbfYOaH9n) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [FYI \(For Your Information\)](https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf) | 2:18 |
 | 30 | [Desi Hood](https://open.spotify.com/track/501r9pxOB0z1ksbhC4hNxs) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Walk in Victory](https://open.spotify.com/album/0v9SQICVKLVgLkAS6n6yDS) | 2:26 |
 | 31 | [What We Do](https://open.spotify.com/track/10Pjg6e1n3KdNfRryu5j8F) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:36 |

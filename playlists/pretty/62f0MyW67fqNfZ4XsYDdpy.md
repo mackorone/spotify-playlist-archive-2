@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62f0MyW67fqNfZ4XsYDdpy.md) - [plain]
 
 > 
 
-[Zarema](https://open.spotify.com/user/59qc4cb98ruu3vma3xrexkkku) - 3 likes - 142 songs - 10 hr 26 min
+[Zarema](https://open.spotify.com/user/59qc4cb98ruu3vma3xrexkkku) - 3 likes - 143 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,5 +150,6 @@ pretty - [cumulative](/playlists/cumulative/62f0MyW67fqNfZ4XsYDdpy.md) - [plain]
 | 140 | [Candle \(Album Version\)](https://open.spotify.com/track/3hJ6LgENznTFIbGeBDWTE0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Daydream Nation \(Deluxe Edition\)](https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI) | 4:58 |
 | 141 | [Karen Revisited](https://open.spotify.com/track/3kwjH05jySwErBmMTENMx5) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Murray St.](https://open.spotify.com/album/3jYv3H9FDiWyl8K0PMcsyp) | 11:10 |
 | 142 | [Incinerate](https://open.spotify.com/track/6bGnkppjxJJY4HeOQ5dheD) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Rather Ripped](https://open.spotify.com/album/57V5TA5DLxNvwPCPyXW1tB) | 4:55 |
+| 143 | [Saucer\-Like](https://open.spotify.com/track/1nio0EPd1Oq80XwyKyin2c) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Washing Machine](https://open.spotify.com/album/0VskfMaczM0MNAlqqvokTC) | 4:25 |
 
-Snapshot ID: `AAAAltruxu9AkYZimpLaNSVWnttnOxiH`
+Snapshot ID: `AAAAl5izssHen6JRdApUA/1zivs+Ktia`

@@ -4,7 +4,7 @@
 
 > 
 
-2,852 songs - 6 day 3 hr 48 min
+2,853 songs - 6 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1931,6 +1931,7 @@
 | [PEDAL TO THE METAL \(Official Gearbox Hot Pursuit 2024 Anthem\)](https://open.spotify.com/track/6cHHUb5vK1mVNNG9yMPHOf) | [So Juice](https://open.spotify.com/artist/7MBMIGBbRcIAn4zZPOMNKR), [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L), [Iris Goes](https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2), [Cybergore](https://open.spotify.com/artist/4plyOOJ44aVJOrpo8358j6) | [PEDAL TO THE METAL \(Official Gearbox Hot Pursuit 2024 Anthem\)](https://open.spotify.com/album/3ho3NKpW7uGuwj59DFMef6) | 4:00 | 2024-12-06 |  |
 | [PENETRATION](https://open.spotify.com/track/7DRwBMm32LKGrA5MuVD2EO) | [Why Not](https://open.spotify.com/artist/4Ti7b6b9nriLYsrxsLzmCK), [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [PENETRATION](https://open.spotify.com/album/5yK8gopvG1e6Nlov8jr3Ap) | 3:00 | 2023-03-31 |  |
 | [People Pleaser \- Extended Mix](https://open.spotify.com/track/46hHichvLy5GgYrci0gmW7) | [Diakronik](https://open.spotify.com/artist/3HiIiHKwTUUUDlrRJH302H), [Alaguan](https://open.spotify.com/artist/7g5ui8tZDjX3z3H5YmHwcH) | [Happy Kronikles EP](https://open.spotify.com/album/2yhNP1ogDnbYQFfnDoiRPr) | 4:32 | 2022-09-02 |  |
+| [People Stomping](https://open.spotify.com/track/3o6DqahWxz11eSDFw7qExX) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI) | [People Stomping](https://open.spotify.com/album/3EfstHkKuzbsaBdP2pH6Vy) | 3:20 | 2026-02-11 |  |
 | [Perfect](https://open.spotify.com/track/2dyeWlhqtGsDW7VpUroZwo) | [Capoxxo](https://open.spotify.com/artist/4lDzMjsz7xLw4CFmfWJmWJ), [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [dreamcache](https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN) | [Perfect](https://open.spotify.com/album/2jMsEsVMkf7LaUiQD7KR90) | 2:17 | 2023-02-11 |  |
 | [Perfect Army](https://open.spotify.com/track/78BL5KwzTJj8rBAMZTYA5O) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [BREAK OUT \-The Final\-](https://open.spotify.com/album/2WWZWSdE7qgWd3i13eg9sS) | 3:34 | 2023-05-01 |  |
 | [Perpetrators](https://open.spotify.com/track/3Eiez73DyWCKCbhr73i9Gb) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [TOO FAST](https://open.spotify.com/album/4AnDQnvSjUu2KFJ6M3egdF) | 2:31 | 2023-06-30 |  |

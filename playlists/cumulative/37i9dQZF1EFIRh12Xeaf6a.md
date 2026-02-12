@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-360 songs - 18 hr 17 min
+362 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,8 @@
 | [Morning Sun \- Mono](https://open.spotify.com/track/6bJ9jvOZJjMhy7Gv3MyKbN) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Come And Stay With Me: The UK 45s 1964\-1969](https://open.spotify.com/album/3poqeypm6c69muWwccyoz8) | 3:06 | 2025-07-25 |  |
 | [Move Lightly](https://open.spotify.com/track/28i8a4TY5EQbUWb8BwuR2a) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:57 | 2023-12-30 |  |
 | [Music](https://open.spotify.com/track/63dTQ8K3mJKJWUZi5sMNRV) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:49 | 2023-12-30 |  |
-| [My Blue Angel](https://open.spotify.com/track/7IaFyzPiM5uFavBxeOSNPo) | [Ray Peterson](https://open.spotify.com/artist/7BDI9Iqt24gl4RGdS6hWs9) | [Corrina, Corrina....It's Ray Peterson!](https://open.spotify.com/album/09KPR0Dh49C0a6MjYJYf8h) | 2:54 | 2023-12-30 |  |
+| [My Blue Angel](https://open.spotify.com/track/7IaFyzPiM5uFavBxeOSNPo) | [Ray Peterson](https://open.spotify.com/artist/7BDI9Iqt24gl4RGdS6hWs9) | [Corrina, Corrina....It's Ray Peterson!](https://open.spotify.com/album/09KPR0Dh49C0a6MjYJYf8h) | 2:54 | 2023-12-30 | 2026-02-12 |
+| [My Blue Angel](https://open.spotify.com/track/0Z2tzoKSVUKO6U0a0bIyWT) | [Ray Peterson](https://open.spotify.com/artist/7BDI9Iqt24gl4RGdS6hWs9) | [Promises](https://open.spotify.com/album/2f70c1KMEzQVzfw3H80Joy) | 2:55 | 2026-02-11 |  |
 | [My Golden Chance](https://open.spotify.com/track/57rmNbG3bPXZJzUZwPks2Z) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 1:51 | 2023-12-30 |  |
 | [My Lovin' Eyes \- Re\-Recorded Version](https://open.spotify.com/track/0YBaCpel1nmXxUHU9BjjIq) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [100 Minutes With Carole King](https://open.spotify.com/album/5ga2nqmQ62J9PaDQhXQ0f2) | 3:01 | 2023-12-30 |  |
 | [My My She Cries](https://open.spotify.com/track/5JYRYD8ya0yaE4p6oqjXH1) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Rhymes & Reasons](https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv) | 2:19 | 2023-12-30 |  |
@@ -215,7 +216,8 @@
 | [On This Side Of Goodbye \- Single Version](https://open.spotify.com/track/1tx5zJ6WPOhsrtqCF36CY5) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [All Time Greats](https://open.spotify.com/album/24CbH0PK4BnVUWP59klvom) | 3:04 | 2023-12-30 |  |
 | [One \(2018\)](https://open.spotify.com/track/2sHGdyw2CbhTdRfcw9vz2I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [One \(2018\)](https://open.spotify.com/album/1Ofd1TE3WvCUZ3BOG4M3aw) | 2:43 | 2023-12-30 |  |
 | [One fine day](https://open.spotify.com/track/0zrUKGvar2pKgeKr0uCjR4) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [One Fine Day](https://open.spotify.com/album/5ZuaOmG9FuJb2bhXndLTEx) | 2:07 | 2025-12-24 | 2025-12-26 |
-| [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 | 2023-12-30 |  |
+| [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 | 2023-12-30 | 2026-02-12 |
+| [ONE FINE DAY](https://open.spotify.com/track/0YWmlIOaHQoN1fgqTmZsam) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [シフォンズ、ヒーズ・ソー・ファイン](https://open.spotify.com/album/7z2LWp3hyqjSNoHAoz8FXi) | 2:12 | 2026-02-11 |  |
 | [One Was Johnny](https://open.spotify.com/track/1O7KO0zxO7WuLRfeQtGpQV) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 2:08 | 2023-12-30 | 2025-06-01 |
 | [One Was Johnny](https://open.spotify.com/track/0c8SIKptqeB9qNC4g9c0jj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 2:08 | 2025-05-31 |  |
 | [One Wonderful Night](https://open.spotify.com/track/1FZjBGVuG9lE71ai4HzCyw) | [Dum Doobie Doobie Band](https://open.spotify.com/artist/4DDNzHva9SgZpOvol4ka09) | [One Wonderful Night](https://open.spotify.com/album/4uIhihVXEUEUdSIddTPN1C) | 2:31 | 2025-09-10 |  |

@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the best Korean vocalists who will melt your eardrums! \(Cover:정은지 \(JEONG EUN JI\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
+> Meet the best Korean vocalists who will melt your eardrums! \(Cover: Tei \(테이\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-636 songs - 1 day 17 hr 36 min
+637 songs - 1 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [I Will Shine On You](https://open.spotify.com/track/4VnZhQatrHFXySz467yURC) | [Odett](https://open.spotify.com/artist/1jYtDU2z8vLKUWGKe9UhHu) | [May I Help You? \(Original Television Soundtrack\) Part.5](https://open.spotify.com/album/1vOYGpf02GZzCfPyZVvWPf) | 3:57 | 2023-01-10 | 2023-01-25 |
 | [I wish you'd listened \(feat\. Lee Ru DA\)](https://open.spotify.com/track/3RL5PDEDxBxIGG9AKOc9Jy) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [E\-RUDA](https://open.spotify.com/artist/7FkKA3VUA7OwgZFMF4G8Cz) | [I wish you'd listened](https://open.spotify.com/album/5ndgTVQxyMTz1P1uFmBsP2) | 3:27 | 2022-08-18 | 2022-10-08 |
 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 | 2023-10-29 |  |
-| [I'll Remember](https://open.spotify.com/track/7oArq8xkRKeRDOnOv45PmS) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [I'll Remember \(Positively Yours X Onestar\) \[Original Soundtrack\]](https://open.spotify.com/album/1gqguyrI9YN91IIGknC38q) | 3:48 | 2026-01-27 |  |
+| [I'll Remember](https://open.spotify.com/track/7oArq8xkRKeRDOnOv45PmS) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [I'll Remember \(Positively Yours X Onestar\) \[Original Soundtrack\]](https://open.spotify.com/album/1gqguyrI9YN91IIGknC38q) | 3:48 | 2026-01-27 | 2026-02-12 |
 | [I'm glad I waited](https://open.spotify.com/track/3pBE270KLKUjGo5aVF1ecd) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [I'm glad I waited](https://open.spotify.com/album/51DBWkJfpGcqLC5CxvYCKZ) | 3:55 | 2023-07-17 | 2023-08-11 |
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2024-02-20 | 2024-04-24 |
 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 | 2021-12-20 |  |
@@ -285,6 +285,7 @@
 | [La Vie Rosée](https://open.spotify.com/track/77EJqUi8w6kstvE53TFxnw) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Tales of Sensuality](https://open.spotify.com/album/59wYUBRXUJBC5NxFXqFYLh) | 5:14 | 2024-04-25 | 2024-05-19 |
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-04-01 | 2022-05-17 |
 | [Last Light](https://open.spotify.com/track/6dtWY9dcVWpNXNOkFtIrQI) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Last Light](https://open.spotify.com/album/4gEqGE3PT2Ae7ciTJH8YSn) | 4:04 | 2025-11-04 | 2026-02-05 |
+| [Last Love](https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [Last Love](https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6) | 4:15 | 2026-02-11 |  |
 | [Last Page \(prod\. by yoonsang\)](https://open.spotify.com/track/1aS1LxAKRyWCu5wPPfCQt3) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [Last Page \(prod\. by yoonsang\)](https://open.spotify.com/album/02r7KPdGKIirL2sAUOH2KQ) | 4:12 | 2022-03-24 | 2022-04-16 |
 | [Lazenca, Save Us \(우리 동네 음악대장\) \(Bonus Track\)](https://open.spotify.com/track/0tokbEw27FxVHubsv8ZYN4) | [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [Mask Singer 62th \(Live Version\)](https://open.spotify.com/album/4xd4Px5dMB7EljQFSMpgKJ) | 3:27 | 2024-05-29 | 2024-06-06 |
 | [Lean on You \(Monthly Project 2018 September Yoon Jong Shin\)](https://open.spotify.com/track/7Hjed63TETowppuKap2RIe) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Lean on You \(Monthly Project 2018 September Yoon Jong Shin\)](https://open.spotify.com/album/5HvxoqEQOm4t3K50HTzb1k) | 4:49 | 2022-03-24 | 2022-03-28 |
@@ -354,7 +355,7 @@
 | [Monologue \(Acoustic Version\)](https://open.spotify.com/track/7pTxVFyoJq4jv2kCdxhj68) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [CLICHÉ](https://open.spotify.com/album/7piEh9immnLWa85U4uh5Gz) | 4:15 | 2024-10-30 | 2024-12-02 |
 | [MOON](https://open.spotify.com/track/0OTJ61b0NbEyjgbNdIB0E8) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [MOON \(Original Soundtrack from Even if This Love Disappears Tonight\)](https://open.spotify.com/album/4Eo2nHZXlq7SKnemJU81ul) | 3:36 | 2026-01-29 |  |
 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 | 2022-03-29 | 2022-07-25 |
-| [Mother Nature \(H₂O\)](https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Mother Nature \(H₂O\)](https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw) | 3:52 | 2022-01-27 | 2026-02-11 |
+| [Mother Nature \(H₂O\)](https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Mother Nature \(H₂O\)](https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw) | 3:52 | 2022-01-27 |  |
 | [Moving Away](https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3) | [\#Annyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Moving Away](https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS) | 4:24 | 2022-01-14 |  |
 | [My Blooming Heart](https://open.spotify.com/track/0idORy7zZ4pKim6wzJTndW) | [JEONG HYO BEAN](https://open.spotify.com/artist/39mNLQ2I1Al3Ewrr9tTxhB) | [My Blooming Heart](https://open.spotify.com/album/3zUxwx9UMZ0F0VJ0pwZ4f3) | 3:54 | 2024-09-13 | 2024-11-29 |
 | [My Dream](https://open.spotify.com/track/5XKo813PRaLwH1yHWP674c) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung 신입사관 구해령 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3IIHBgXFIt3yvPYDqsl8qp) | 3:54 | 2022-04-01 | 2022-04-19 |
@@ -561,7 +562,7 @@
 | [When I look at you](https://open.spotify.com/track/5jQbDUv1BDClbgVaAW8T1U) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [When I look at you](https://open.spotify.com/album/1Lewh4YU2QMpV9dKtlnIys) | 3:09 | 2022-08-18 | 2022-10-20 |
 | [When I was Into You](https://open.spotify.com/track/4hLFSM2k7gX7pBZuIM3CHW) | [ZISU](https://open.spotify.com/artist/3zNBTnNYtztKwdB5uYApom) | [When I was Into You](https://open.spotify.com/album/0AdlXPc0vo43GEMz9i4QIE) | 2:59 | 2022-07-04 | 2022-07-14 |
 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 | 2021-12-20 |  |
-| [When the First Snow Falls](https://open.spotify.com/track/74e4D8f76A1nTPkWceb1Pj) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [When the First Snow Falls](https://open.spotify.com/album/0eYhEXajnaZa28Fn6TlkcF) | 3:42 | 2026-01-27 |  |
+| [When the First Snow Falls](https://open.spotify.com/track/74e4D8f76A1nTPkWceb1Pj) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [When the First Snow Falls](https://open.spotify.com/album/0eYhEXajnaZa28Fn6TlkcF) | 3:42 | 2026-01-27 | 2026-02-12 |
 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 | 2021-12-20 |  |
 | [When You Believe](https://open.spotify.com/track/6NXwnqGG6wAE7UP73AAor4) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [When You Believe](https://open.spotify.com/album/6blijuFXCgZ8hPlcyim9JW) | 3:43 | 2022-11-11 | 2023-02-15 |
 | [Whenever, Wherever](https://open.spotify.com/track/68lCkasCqmEhKCPHvYPNei) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Saimdang, Memoir of Colors OST Part.4](https://open.spotify.com/album/1lzIhggC6QNI37k0lkwHQI) | 4:29 | 2022-03-31 | 2022-04-16 |

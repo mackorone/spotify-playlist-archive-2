@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > Miloolaathetlukken genomineerd voor Edison Pop 2026: Nieuwkomer\. HDP 🔥🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,471 likes - 76 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,478 likes - 76 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

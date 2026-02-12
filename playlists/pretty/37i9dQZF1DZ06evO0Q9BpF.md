@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,100 likes - 49 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,104 likes - 49 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 16 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8) | 10:12 |
 | 17 | [Salmo 34](https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan y Sofi](https://open.spotify.com/artist/4QPzngDflVr8Qq8vRgL4qT) | [Salmo 34](https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS) | 4:12 |
 | 18 | [No Hay Nada Imposible \- En Vivo](https://open.spotify.com/track/6HKkJwCwn8dgjp7uLyMaPU) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edgar Aguilar](https://open.spotify.com/artist/7Mn27Z2iSFFaF4UP8UjqOG), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p) | 9:48 |
-| 19 | [Con Brazos Abiertos \- En Vivo](https://open.spotify.com/track/3Og3dkJvDjAUlwihT6rTPD) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Reino Está Aquí \(En Vivo\)](https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk) | 7:26 |
-| 20 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/6MDqbFekDpUxzRgBOoOYwo) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Esto Es Un Avivamiento](https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL) | 4:16 |
+| 19 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/6MDqbFekDpUxzRgBOoOYwo) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Esto Es Un Avivamiento](https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL) | 4:16 |
+| 20 | [Con Brazos Abiertos \- En Vivo](https://open.spotify.com/track/3Og3dkJvDjAUlwihT6rTPD) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Reino Está Aquí \(En Vivo\)](https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk) | 7:26 |
 | 21 | [Eres Todo Para Mi](https://open.spotify.com/track/6aezJWkgWXc8KlVM5dBsf5) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE) | 4:40 |
 | 22 | [Sana Nuestra Nación \- En Vivo](https://open.spotify.com/track/54JLF5PHpMTt0TmbjhNmEW) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/21FcQ9b3whbOUi5m7opU4p) | 12:29 |
 | 23 | [Ahí Estás Tú](https://open.spotify.com/track/5BcAuMkQLkmh1V4NWtJA7q) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ) | [Ahí Estás Tú](https://open.spotify.com/album/2K5rtCHSjK6ndYbdkN49oU) | 5:56 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 48 | [Permaneceré En Tí](https://open.spotify.com/track/3iQlUC6yKzocYAvFNtKTI9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Seamos Luz](https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z) | 4:18 |
 | 49 | [Luz del Mundo](https://open.spotify.com/track/4N10bpkWzctkXPdTrTfe5H) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ) | [Luz del Mundo](https://open.spotify.com/album/0FKlwPwfguK6k4zMFcBSDz) | 4:45 |
 
-Snapshot ID: `aYkjgAAAAAAkO/839IuZk6Q/HN1+ORI0`
+Snapshot ID: `aYp1AAAAAACd4v5yihh8oEujxF49C4h7`

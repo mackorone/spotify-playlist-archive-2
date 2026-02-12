@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Colton Bowlin, Artwork: Fan\u00e9lie Muselier\n",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Kenny Whitmire, Artwork: Fan\u00e9lie Muselier\n",
   "name": "Fresh Finds Country",
   "tracks": [
     {
@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 249962,
       "name": "American Sky",
       "url": "https://open.spotify.com/track/3A9VpWhdrmwqFGwQrwGpxY"
@@ -4058,6 +4058,24 @@
       "duration_ms": 199459,
       "name": "Bad 4 U",
       "url": "https://open.spotify.com/track/3eaOKuYlALMi3AlNOkhmum"
+    },
+    {
+      "album": {
+        "name": "Bad Barstool",
+        "url": "https://open.spotify.com/album/1m86UIvx19mVRhX5etS8q3"
+      },
+      "artists": [
+        {
+          "name": "Brooks Hoffman",
+          "url": "https://open.spotify.com/artist/211ei7mBKVPTmpm023Em6Q"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162774,
+      "name": "Bad Barstool",
+      "url": "https://open.spotify.com/track/5Pw9smYfMC6WcnbDFQZM2f"
     },
     {
       "album": {
@@ -11221,6 +11239,24 @@
     },
     {
       "album": {
+        "name": "Consolation Prize",
+        "url": "https://open.spotify.com/album/5wFeYXb5WKNTlcjucdI801"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jane Lewis",
+          "url": "https://open.spotify.com/artist/62ih54WQXcbwFrvhffPxcq"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182986,
+      "name": "Consolation Prize",
+      "url": "https://open.spotify.com/track/3idEZB1V4CjwVC06NdKVAN"
+    },
+    {
+      "album": {
         "name": "couch surfing",
         "url": "https://open.spotify.com/album/1slTTZSYZLotmG0mcgEILr"
       },
@@ -17556,7 +17592,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 196133,
       "name": "Fake",
       "url": "https://open.spotify.com/track/6NszwbxqG6h6nQ5EBxalOh"
@@ -18170,6 +18206,24 @@
       "duration_ms": 204646,
       "name": "Feels Like Yesterday",
       "url": "https://open.spotify.com/track/5UuB60KGx4tLzpBnWn9TWr"
+    },
+    {
+      "album": {
+        "name": "Felicity (Demo)",
+        "url": "https://open.spotify.com/album/5RXrBaZ9PbAeSVSF9NQ846"
+      },
+      "artists": [
+        {
+          "name": "Lewis Love",
+          "url": "https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180961,
+      "name": "Felicity - Demo",
+      "url": "https://open.spotify.com/track/7oe7qqbXpFbwPcmDtiRGBF"
     },
     {
       "album": {
@@ -19576,6 +19630,24 @@
       "duration_ms": 171326,
       "name": "Georgia Heat",
       "url": "https://open.spotify.com/track/5J4zQyVUCmspvu2fFirczw"
+    },
+    {
+      "album": {
+        "name": "Get Around Boy",
+        "url": "https://open.spotify.com/album/6zw0r6yiuHjdfE7sjpJ9W6"
+      },
+      "artists": [
+        {
+          "name": "Lakelin Lemmings",
+          "url": "https://open.spotify.com/artist/6rD2PsyfQ3F86DbVnjVSn2"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Get Around Boy",
+      "url": "https://open.spotify.com/track/2b81IgbUNdvxjBCgf9xhAX"
     },
     {
       "album": {
@@ -27411,6 +27483,24 @@
     },
     {
       "album": {
+        "name": "I Gave Her The Moon",
+        "url": "https://open.spotify.com/album/3dGz8ccNwe3IY8sl9KEOTK"
+      },
+      "artists": [
+        {
+          "name": "Kenny Whitmire",
+          "url": "https://open.spotify.com/artist/2LCnNZoA4EmYW1RgZS6R1N"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195833,
+      "name": "I Gave Her The Moon",
+      "url": "https://open.spotify.com/track/3ttHktvevSDgm1PjBTJMGl"
+    },
+    {
+      "album": {
         "name": "I Get That With You",
         "url": "https://open.spotify.com/album/5GclVHfgWVglhbVOom2TIx"
       },
@@ -35048,7 +35138,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 201392,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/3Zt5W0zMNim50PWLfdQOey"
@@ -37106,7 +37196,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 228918,
       "name": "Me Being Me",
       "url": "https://open.spotify.com/track/7kgol9YvFQLDG4etlyLPvw"
@@ -37812,6 +37902,24 @@
       "duration_ms": 175769,
       "name": "Missing Out on Missing You",
       "url": "https://open.spotify.com/track/3BbtG5tgsbqIjbXy3iZ7X4"
+    },
+    {
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/1C8u1rMfwvyI0hbICI3ozM"
+      },
+      "artists": [
+        {
+          "name": "Jordana Bryant",
+          "url": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217710,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/27jFU3NqTGO9FTJ2dOABIF"
     },
     {
       "album": {
@@ -39022,7 +39130,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 203160,
       "name": "Navy Blue",
       "url": "https://open.spotify.com/track/55ZoPovmdbFz9PX0PdbkSJ"
@@ -39906,6 +40014,24 @@
       "duration_ms": 183652,
       "name": "No Rest",
       "url": "https://open.spotify.com/track/1SEgyRNnDjKiHEjvdOcUCc"
+    },
+    {
+      "album": {
+        "name": "No Telling Now",
+        "url": "https://open.spotify.com/album/4sFFPoRWHAkOVOK8u9ED9X"
+      },
+      "artists": [
+        {
+          "name": "Dawson Anderson",
+          "url": "https://open.spotify.com/artist/6z1wQeRT32RJucR7LoCNVW"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146119,
+      "name": "No Telling Now",
+      "url": "https://open.spotify.com/track/6lvOEHrb0I52MAkU3FOvMY"
     },
     {
       "album": {
@@ -56245,6 +56371,24 @@
     },
     {
       "album": {
+        "name": "Think of You When",
+        "url": "https://open.spotify.com/album/4sHA64JDvNEtoe3kZU09JY"
+      },
+      "artists": [
+        {
+          "name": "Antwane Tyler",
+          "url": "https://open.spotify.com/artist/2JRMpGMeW97V78uzcbF2Sx"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205300,
+      "name": "Think of You When",
+      "url": "https://open.spotify.com/track/1KiydsYdsb5Tp0EgX8miLg"
+    },
+    {
+      "album": {
         "name": "Think You're Jolene",
         "url": "https://open.spotify.com/album/4b7HOWM1HSRRTrHUqbCMMX"
       },
@@ -59330,7 +59474,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 216849,
       "name": "Warning You Whiskey",
       "url": "https://open.spotify.com/track/57likbyVKhNSD2JvE4PxGT"
@@ -59982,7 +60126,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 181373,
       "name": "What Are We Doing",
       "url": "https://open.spotify.com/track/1IQLjcESqY7vexDFVtFPwB"

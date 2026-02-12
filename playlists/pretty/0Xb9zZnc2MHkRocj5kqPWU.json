@@ -1,12 +1,12 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 59590,
+  "num_followers": 59582,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAIZVTxdXuU0t9YkeuRpptwWjnHcrkT",
+  "snapshot_id": "AAAIadr8I9/RErcytpYR1YYMY71qe2pJ",
   "tracks": [
     {
       "added_at": "2026-02-09 18:05:10",
@@ -79,6 +79,66 @@
       "duration_ms": 214293,
       "name": "In Paradisum",
       "url": "https://open.spotify.com/track/4eKmsF29beK8ZTTCE2sAzh"
+    },
+    {
+      "added_at": "2026-02-11 17:51:22",
+      "album": {
+        "name": "Rain (Orchestral Version)",
+        "url": "https://open.spotify.com/album/3ORNRByTywC0IjUN1tuLpZ"
+      },
+      "artists": [
+        {
+          "name": "Martynas",
+          "url": "https://open.spotify.com/artist/24xgek07kTzaZ4SrocQHTs"
+        },
+        {
+          "name": "Vienna Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2nJZffRcm3WDa74FSkYYOb"
+        }
+      ],
+      "duration_ms": 203770,
+      "name": "Rain - Orchestral Version",
+      "url": "https://open.spotify.com/track/0FAmaU8aBhYcNlffiGEWph"
+    },
+    {
+      "added_at": "2026-02-11 17:49:36",
+      "album": {
+        "name": "Adoro Te Devote & Miserere",
+        "url": "https://open.spotify.com/album/5AjJgYLntKbgdEQEvw77sc"
+      },
+      "artists": [
+        {
+          "name": "Gregorio Allegri",
+          "url": "https://open.spotify.com/artist/4I47QTluHCo2t2Gj6V7AIG"
+        },
+        {
+          "name": "Anna Lapwood",
+          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
+        },
+        {
+          "name": "The Chapel Choir of Pembroke College, Cambridge",
+          "url": "https://open.spotify.com/artist/6DPxkITuYSrDAPdhISWO35"
+        }
+      ],
+      "duration_ms": 466000,
+      "name": "Miserere",
+      "url": "https://open.spotify.com/track/5Jeudy73ekARd4jYGeoZxV"
+    },
+    {
+      "added_at": "2026-02-11 17:45:26",
+      "album": {
+        "name": "Nuits",
+        "url": "https://open.spotify.com/album/22XJ15idbENSqeJ8gRhEBT"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "duration_ms": 198522,
+      "name": "Nuits",
+      "url": "https://open.spotify.com/track/3vj9Erwp1R9hptlf04DXsW"
     },
     {
       "added_at": "2026-02-09 18:07:39",
@@ -295,6 +355,26 @@
       "duration_ms": 284920,
       "name": "Larghetto",
       "url": "https://open.spotify.com/track/0PpNKBpXAwt2YUVxrbeAjP"
+    },
+    {
+      "added_at": "2026-02-11 17:45:57",
+      "album": {
+        "name": "Ithaca Suite/VI. Laertes",
+        "url": "https://open.spotify.com/album/4Pd1yN2Zk9wnjLMmv0ONmS"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "Ithaca Suite: VI. Laertes",
+      "url": "https://open.spotify.com/track/7H5EfOnTGNwAJD1ToH98n2"
     },
     {
       "added_at": "2025-09-17 12:58:50",

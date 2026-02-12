@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2025. See you on the dancefloor.",
-  "num_followers": 841811,
+  "num_followers": 842019,
   "original_name": "Ibiza 2025",
   "owner": {
     "name": "Spotify",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
+        "name": "Gotta Move",
+        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
+      },
+      "artists": [
+        {
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+        }
+      ],
+      "duration_ms": 179125,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
+    },
+    {
+      "added_at": "2025-09-18 23:00:15",
+      "album": {
         "name": "Ready To Go (My Addiction)",
         "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 144390,
       "name": "Ready To Go (My Addiction)",
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
-    },
-    {
-      "added_at": "2025-09-18 23:00:15",
-      "album": {
-        "name": "Gotta Move",
-        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
-      },
-      "artists": [
-        {
-          "name": "Bless You",
-          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
-        }
-      ],
-      "duration_ms": 179125,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
     },
     {
       "added_at": "2025-09-18 23:00:15",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/09slJUG8d40lineidFdYCN"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 113385,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/5LArDMKyQwZ52SMlQcH3f3"
-    },
-    {
-      "added_at": "2025-09-18 23:00:15",
-      "album": {
         "name": "La Musa (with Miluhska)",
         "url": "https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt"
       },
@@ -1667,22 +1651,18 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/09slJUG8d40lineidFdYCN"
       },
       "artists": [
         {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
         }
       ],
-      "duration_ms": 202648,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
+      "duration_ms": 113385,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5LArDMKyQwZ52SMlQcH3f3"
     },
     {
       "added_at": "2025-09-18 23:00:15",
@@ -1703,6 +1683,26 @@
       "duration_ms": 195795,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/2J9jWkE2NUeULlJ7OSIZ3G"
+    },
+    {
+      "added_at": "2025-09-18 23:00:15",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 202648,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am"
     },
     {
       "added_at": "2025-09-18 23:00:15",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
-        "name": "She\u2019s Gone, Dance On (Carlita Remix)",
-        "url": "https://open.spotify.com/album/3SrOkzgu1SmZ8CiChMbKSt"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 214435,
-      "name": "She\u2019s Gone, Dance On (Carlita Remix)",
-      "url": "https://open.spotify.com/track/5GFXl6uAUANwLkTeZmyr2R"
-    },
-    {
-      "added_at": "2025-09-18 23:00:15",
-      "album": {
         "name": "TAKE YOU HOME",
         "url": "https://open.spotify.com/album/4AhV8Gy8ltM8UBO7nFJCmQ"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 246455,
       "name": "TAKE YOU HOME",
       "url": "https://open.spotify.com/track/5OgVrx9nCaokXlgyHPIyIl"
+    },
+    {
+      "added_at": "2025-09-18 23:00:15",
+      "album": {
+        "name": "She\u2019s Gone, Dance On (Carlita Remix)",
+        "url": "https://open.spotify.com/album/3SrOkzgu1SmZ8CiChMbKSt"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 214435,
+      "name": "She\u2019s Gone, Dance On (Carlita Remix)",
+      "url": "https://open.spotify.com/track/5GFXl6uAUANwLkTeZmyr2R"
     },
     {
       "added_at": "2025-09-18 23:00:15",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
-        "name": "Bitch, Don't Kill My Vibe",
-        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
-      },
-      "artists": [
-        {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        },
-        {
-          "name": "Liquid Rose",
-          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
-        }
-      ],
-      "duration_ms": 157558,
-      "name": "Bitch, Don't Kill My Vibe",
-      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
-    },
-    {
-      "added_at": "2025-09-18 23:00:15",
-      "album": {
         "name": "Hotter",
         "url": "https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ"
       },
@@ -1999,6 +1979,26 @@
       "duration_ms": 190866,
       "name": "Hotter",
       "url": "https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg"
+    },
+    {
+      "added_at": "2025-09-18 23:00:15",
+      "album": {
+        "name": "Bitch, Don't Kill My Vibe",
+        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        },
+        {
+          "name": "Liquid Rose",
+          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+        }
+      ],
+      "duration_ms": 157558,
+      "name": "Bitch, Don't Kill My Vibe",
+      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
     },
     {
       "added_at": "2025-09-18 23:00:15",

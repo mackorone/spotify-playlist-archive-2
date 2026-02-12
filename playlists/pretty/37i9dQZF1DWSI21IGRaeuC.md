@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Cam Stockman
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,650 likes - 115 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,701 likes - 115 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 14 | [On My Mind](https://open.spotify.com/track/0nZaTW2iHqCZmuwoSErJUp) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH) | [On My Mind](https://open.spotify.com/album/2GtPLkcNYfYvwHoyN03qtW) | 3:12 |
 | 15 | [Be Back](https://open.spotify.com/track/0MlssTGVIJzcZ67R2yEc3B) | [Di Chiara Brothers](https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H) | [ENDZ062](https://open.spotify.com/album/4HlNIzzVqMG0OF1FWy2kHI) | 3:41 |
 | 16 | [That Phunkey Tune](https://open.spotify.com/track/6XOuAcGRJ6beiioNCMaeAt) | [Louden](https://open.spotify.com/artist/0dh6ekhgvAz7Kr8ayRuYlr) | [LOUDY'S TOOLZ](https://open.spotify.com/album/7yVfcFQwplfxLVPB2vFaMH) | 3:01 |
-| 17 | [My Body](https://open.spotify.com/track/6C1JvC3YXcTWTLVoDWzN73) | [AJK \(US\)](https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm) | [My Body](https://open.spotify.com/album/1JAB2DpqBvLApi30q3pBiL) | 3:12 |
+| 17 | [My Body](https://open.spotify.com/track/6C1JvC3YXcTWTLVoDWzN73) | [AJK](https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm) | [My Body](https://open.spotify.com/album/1JAB2DpqBvLApi30q3pBiL) | 3:12 |
 | 18 | [Frequency](https://open.spotify.com/track/65xDnHGrbUPYDcVZxr8swb) | [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS) | [Frequency](https://open.spotify.com/album/6yDLLrovlQGJzie4ZPpzsc) | 2:32 |
 | 19 | [XTC](https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [XTC](https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV) | 3:02 |
 | 20 | [Pass The Aux](https://open.spotify.com/track/6AZ4zP4srPZ0wh4uF2z7D3) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Pass The Aux](https://open.spotify.com/album/2kE2d1Ue6Xm8LAWRAnR02K) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Kohjiya \*毎週更新
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,318 likes - 88 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,326 likes - 88 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 18 | [HIROYUKI](https://open.spotify.com/track/1fcaGbxLLS9Dq6EXTMQ69V) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [HIROYUKI](https://open.spotify.com/album/1V87HPCwWmX8NPtZDDMH9y) | 2:26 |
 | 19 | [Kabukimono](https://open.spotify.com/track/4EkfUCeJdOuwh45nm6ZQsh) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Wataru](https://open.spotify.com/album/6gfdpeoCwQlU5zrGaJ9mMx) | 2:45 |
 | 20 | [Sesse \(feat\. eyden\)](https://open.spotify.com/track/77qwOhmQxLD04QAVV1LKAr) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [Sesse \(feat\. eyden\)](https://open.spotify.com/album/7raBZr7XuFHYsgW0CZ5jTk) | 3:31 |
-| 21 | [DAMEDAME \(feat\. Chinza Dopeness\)](https://open.spotify.com/track/2FDOCxgbKTEDifaYsQHq0c) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [](https://open.spotify.com/album/null) | 3:15 |
+| 21 | [DAMEDAME \(feat\. Chinza Dopeness\)](https://open.spotify.com/track/2FDOCxgbKTEDifaYsQHq0c) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [Gear](https://open.spotify.com/album/0hOYXzeHQLUoahinoPKokm) | 3:15 |
 | 22 | [シュビドゥバ](https://open.spotify.com/track/5xYLxhxS7wlB4fuAyDJStS) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4) | [シュビドゥバ](https://open.spotify.com/album/6jYzKCnOp0Jy8mHfvJ26cX) | 3:01 |
 | 23 | [卒業](https://open.spotify.com/track/2pLT0xP4diWY3aaA6rUQpQ) | [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh), [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j) | [卒業](https://open.spotify.com/album/0t2RCRX7kvR3XOFwwqEyvc) | 2:54 |
 | 24 | [Late Night step \(feat\. BIM\)](https://open.spotify.com/track/2yabxW9OpHSgXmgo434gpU) | [JuggrixhSentana](https://open.spotify.com/artist/3ijoOXa68U7MRSFIw3JnVP), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Late Night step \(feat\. BIM\)](https://open.spotify.com/album/2ZlNUEojjt77OwZhpos3HE) | 2:44 |

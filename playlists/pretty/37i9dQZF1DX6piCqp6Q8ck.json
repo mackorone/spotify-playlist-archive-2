@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 204273,
+  "num_followers": 204251,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
+        "name": "Christmas Wish",
+        "url": "https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 201885,
+      "name": "Christmas Waltz",
+      "url": "https://open.spotify.com/track/3fHIRYjmv46IC9ZBZIdw1W"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
         "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
         "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 185030,
       "name": "Diddly Squat",
       "url": "https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
-        "name": "Christmas Wish",
-        "url": "https://open.spotify.com/album/41CTZeexSebAHGNeLiEdon"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 201885,
-      "name": "Christmas Waltz",
-      "url": "https://open.spotify.com/track/3fHIRYjmv46IC9ZBZIdw1W"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
-        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
-        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 205320,
-      "name": "Christmas Is Coming",
-      "url": "https://open.spotify.com/track/4YSSB7ZtqVnbsxybS5NHJC"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
         "name": "O Tannenbaum",
         "url": "https://open.spotify.com/album/5gvEyLq9MnZJBsWLDly7TG"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 196800,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/2mvo1rm7jcZdcKRWEGD917"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Christmas Is Coming",
+      "url": "https://open.spotify.com/track/4YSSB7ZtqVnbsxybS5NHJC"
     },
     {
       "added_at": "2025-12-19 14:06:32",

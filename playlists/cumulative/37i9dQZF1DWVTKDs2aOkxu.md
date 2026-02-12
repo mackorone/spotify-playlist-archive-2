@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Noah Kahan
 
-820 songs - 2 day 0 hr 45 min
+821 songs - 2 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [Next To Die](https://open.spotify.com/track/3k6iUhaXZKHQnnLqcGsNps) | [Ugly \(UK\)](https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf) | [Next To Die](https://open.spotify.com/album/0r52QUb7MBNVYBV8bn2B5P) | 4:08 | 2025-04-27 | 2025-06-27 |
 | [Nights in Armor](https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Nights in Armor](https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ) | 3:09 | 2025-09-01 | 2025-11-28 |
 | [Nights In Armor \(FKA Love Song\)](https://open.spotify.com/track/60ghrjJevnOt9WihSGmZ1B) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [It's Beautiful](https://open.spotify.com/album/3Apif0SlvxbSJhE98Oj8Qf) | 2:10 | 2025-12-19 |  |
+| [No Cameras](https://open.spotify.com/track/3gIXEyoSDbkMxI5bnltLjq) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It](https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu) | 2:47 | 2026-02-11 |  |
 | [No Direction](https://open.spotify.com/track/1T3OWAvkegEBLn9YnzXGQq) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [No Direction](https://open.spotify.com/album/6cMk1iYh9lL6ISxOTKNHis) | 3:11 | 2024-07-18 | 2024-10-18 |
 | [No Front Teeth](https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [No Front Teeth](https://open.spotify.com/album/4faIj68HrgoUfU3YHdZ4PI) | 4:46 | 2025-02-21 | 2025-03-28 |
 | [No Love](https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Get Sunk](https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz) | 3:55 | 2025-05-29 | 2025-07-25 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 588077,
+  "num_followers": 588092,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAADUNtq0DQL7iDu6kNnKHAch",
+  "snapshot_id": "aYp1AAAAAAD8cooC7EWtDHSgvHuyT9Iu",
   "tracks": [
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 203259,
-      "name": "Tonight I'll Be Staying Here with You",
-      "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
+      "duration_ms": 110335,
+      "name": "Oxford Town",
+      "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 110335,
-      "name": "Oxford Town",
-      "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
+      "duration_ms": 203259,
+      "name": "Tonight I'll Be Staying Here with You",
+      "url": "https://open.spotify.com/track/3uHpPWsNDTpbbqedCRoaQU"
     },
     {
       "added_at": null,

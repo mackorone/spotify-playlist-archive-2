@@ -3559,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "Alta y serena",
+        "url": "https://open.spotify.com/album/3rvf5QWbk7sVYj0hgJJf3W"
+      },
+      "artists": [
+        {
+          "name": "OneTapes1950s",
+          "url": "https://open.spotify.com/artist/0FTPrYYQzYcNlx9GnKvFqB"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Alta y serena",
+      "url": "https://open.spotify.com/track/0KZwSfQBCb4NonnJtJy1Zg"
+    },
+    {
+      "album": {
         "name": "Alter Ego (with JT)",
         "url": "https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd"
       },
@@ -13984,7 +14002,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 167664,
       "name": "Confiesaselo (feat. Kbp)",
       "url": "https://open.spotify.com/track/3qJwuExs27hIYLkwUX1BF9"
@@ -15478,6 +15496,24 @@
       "duration_ms": 154805,
       "name": "Cuerno Asulao",
       "url": "https://open.spotify.com/track/4KjtNOBTdwOVeQ6OczDj2M"
+    },
+    {
+      "album": {
+        "name": "Cuerno Azulado",
+        "url": "https://open.spotify.com/album/0irASG61pMi4eYeH3HCcAm"
+      },
+      "artists": [
+        {
+          "name": "7EVEN STARS",
+          "url": "https://open.spotify.com/artist/3ajnDvWXLGNVmRy3I7M6m7"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152416,
+      "name": "Cuerno Azulado",
+      "url": "https://open.spotify.com/track/4wOHvjzXto0aN5CMaJFsbq"
     },
     {
       "album": {
@@ -24584,7 +24620,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 201600,
       "name": "Flor De Lirio",
       "url": "https://open.spotify.com/track/3Ae0GU2O4uG2GmygW54imr"
@@ -28354,6 +28390,24 @@
     {
       "album": {
         "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/0wAf1LaMkHoLN7QL3Dv5fh"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/5IXk34xSm6rxNgXkCveC3r"
+    },
+    {
+      "album": {
+        "name": "Away From The Sun",
         "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
       },
       "artists": [
@@ -28364,7 +28418,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 238733,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
@@ -32980,7 +33034,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 135306,
       "name": "La Bichi",
       "url": "https://open.spotify.com/track/0bRwrjQhiJow5ICOO9PYfW"
@@ -37993,6 +38047,28 @@
     },
     {
       "album": {
+        "name": "Machista",
+        "url": "https://open.spotify.com/album/01QGN3BF5vsCzi7NgRDZrJ"
+      },
+      "artists": [
+        {
+          "name": "M3LOON",
+          "url": "https://open.spotify.com/artist/0a9Hj8nVifQaVUwkwT41rB"
+        },
+        {
+          "name": "ElGranAlexis",
+          "url": "https://open.spotify.com/artist/77dBqhGBLZodn35OJzEvGS"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150812,
+      "name": "Machista",
+      "url": "https://open.spotify.com/track/7MBzFtzoTxGVfbqR6aSQsq"
+    },
+    {
+      "album": {
         "name": "Macta Llega",
         "url": "https://open.spotify.com/album/4c4e7m9LlflXbDmz68ikS3"
       },
@@ -38748,7 +38824,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -39710,7 +39786,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 223656,
       "name": "Me Fui Sin Hacer Ruido",
       "url": "https://open.spotify.com/track/6aSS81SQxUjJjuPkP3EAZO"
@@ -60808,7 +60884,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -64416,7 +64492,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 307199,
       "name": "Te quiero en secreto",
       "url": "https://open.spotify.com/track/3sWwlCVpPjL6OTGLDRfVgH"
@@ -64452,7 +64528,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 288360,
       "name": "Te quiero tanto",
       "url": "https://open.spotify.com/track/3kgS8XT7nXfObvqUfx2m4i"
@@ -72502,7 +72578,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

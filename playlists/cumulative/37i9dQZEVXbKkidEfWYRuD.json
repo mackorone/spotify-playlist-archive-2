@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 243880,
       "name": "(When You Gonna) Give It Up to Me - Radio Version",
       "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
@@ -7398,7 +7398,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 191921,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/1IqRoFm0NHj23m8L1CMqw2"
@@ -14644,7 +14644,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 107933,
       "name": "NO BATID\u00c3O - Slowed",
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
@@ -17290,7 +17290,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 178824,
       "name": "Ridnym",
       "url": "https://open.spotify.com/track/52IlNxHUoQ3ZZyw9atSGVN"
@@ -29494,7 +29494,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 77037,
       "name": "\u041a\u0430\u0442\u044e\u0445\u0430",
       "url": "https://open.spotify.com/track/3Fdo0fNzj2QnPU1SgsNHcV"
@@ -29852,7 +29852,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 204756,
       "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
       "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
@@ -34462,7 +34462,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 164921,
       "name": "\u041f\u041e\u0414\u0420\u0423\u0413\u0410 \u041f\u041e\u0414\u0420\u0423\u0413",
       "url": "https://open.spotify.com/track/6rZ17m2X1UIjsVn1zw4Ctm"
@@ -35294,7 +35294,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 121558,
       "name": "\u0420\u0430\u043d\u0430",
       "url": "https://open.spotify.com/track/4GNVBarJ82ABAYZyPYwinT"
@@ -38207,6 +38207,28 @@
     },
     {
       "album": {
+        "name": "sexyswag",
+        "url": "https://open.spotify.com/album/69qoCQuGe0971BC1MlMHG6"
+      },
+      "artists": [
+        {
+          "name": "madk1d",
+          "url": "https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt"
+        },
+        {
+          "name": "\u0442\u0451\u043c\u043d\u044b\u0439 \u043f\u0440\u0438\u043d\u0446",
+          "url": "https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90044,
+      "name": "\u0442\u044b \u0447\u0435 \u043e\u0431\u0438\u0434\u0435\u043b\u0430\u0441\u044c",
+      "url": "https://open.spotify.com/track/0fXr6jak9GITvjI3tUqme0"
+    },
+    {
+      "album": {
         "name": "Viva la vida",
         "url": "https://open.spotify.com/album/4xu3a1LuYV0r3uCgiiuPNy"
       },
@@ -40434,7 +40456,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 128764,
       "name": "\u042e\u0440\u0430, \u042e\u0440\u0430",
       "url": "https://open.spotify.com/track/60rhfD30Cpfj4SY5A7ft4Z"

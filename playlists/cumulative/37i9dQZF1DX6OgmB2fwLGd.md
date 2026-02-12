@@ -4,7 +4,7 @@
 
 > born on the internet\. ft\. fakemink
 
-1,195 songs - 2 day 0 hr 26 min
+1,197 songs - 2 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Boppin](https://open.spotify.com/track/1ZDP9FNfY3we4AzOxMj3vZ) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Kato On The Track](https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB) | [Abhi Vs Kato](https://open.spotify.com/album/7x2mennGJ74CsnR6YMyZqy) | 2:40 | 2022-07-15 | 2022-07-23 |
 | [Bored](https://open.spotify.com/track/0fw83rSEAVNp8jQRH2bfAE) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Bored](https://open.spotify.com/album/6eWlitVfgq4RsD8ZhzSGmb) | 1:55 | 2024-12-06 | 2026-02-08 |
 | [Bounce Out](https://open.spotify.com/track/3NtvdMnZZOZsdgWsR81ego) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [Bounce Out](https://open.spotify.com/album/50FdMs0QhRdxS97qD9wOCA) | 2:34 | 2022-01-28 | 2022-02-19 |
+| [box](https://open.spotify.com/track/6QZ73W7Uy3kPtCvt25kG4E) | [Zaram](https://open.spotify.com/artist/4PpjSdoBcpPXn59h9exd0b), [Lil O](https://open.spotify.com/artist/5hv30sKujjm0PyqD2j4v9n), [Bandzz4God](https://open.spotify.com/artist/5r0E4GGWH4NTkBmITApIHm) | [box](https://open.spotify.com/album/4fE2tEA3Ie5jEPyZV9PFDy) | 1:54 | 2026-02-11 |  |
 | [Boy Oh Boy](https://open.spotify.com/track/4hOBpBqVXqk1lkwKCM5QGF) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [Boy Oh Boy](https://open.spotify.com/album/3AKtlxNCe8MHDRKvlJF6M1) | 1:57 | 2023-08-18 | 2023-09-30 |
 | [Boy's a Liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-09 | 2023-08-12 |
 | [boys don't cry](https://open.spotify.com/track/2nOCXHxoN6hRqQbt6TDnnP) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [boys don’t cry](https://open.spotify.com/album/0vfdaU8XkSjixvd5RcTWm7) | 2:32 | 2022-09-30 | 2022-12-03 |
@@ -474,6 +475,7 @@
 | [HeLiCoPtEr sWaG Pt4.Mp3](https://open.spotify.com/track/1w9aOfHbcSbqEnxv6P3rVb) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Let Me Update My Status](https://open.spotify.com/album/1yQ3aFEBqlKuqjTTaxQ0mk) | 1:42 | 2023-03-24 | 2023-06-03 |
 | [Hell Yeah](https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Hell Yeah](https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow) | 2:48 | 2022-10-21 | 2023-04-13 |
 | [hell yeah](https://open.spotify.com/track/7GGE6Ye9dzjx1ANzDDqVNM) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [hell yeah](https://open.spotify.com/album/6NPKOCB3H4TGR6EfUcCxB6) | 1:58 | 2022-08-19 | 2023-02-16 |
+| [her friends](https://open.spotify.com/track/5t6aol8L1zmOwEnf2HN430) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [gone too soon](https://open.spotify.com/album/6Yk3cd3sShQh79Rfug8OQ4) | 1:41 | 2026-02-11 |  |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-02-03 | 2023-04-15 |
 | [High Heels \(feat\. Rico Nasty\)](https://open.spotify.com/track/7ntiy5NmcY0qppCXh7rX0S) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [High Heels \(feat\. Rico Nasty\)](https://open.spotify.com/album/1dRQfSx4YiKrtBUo99NIzQ) | 2:34 | 2021-09-27 | 2022-04-03 |
 | [High Roller](https://open.spotify.com/track/7otRblg0DIDAen7ZrIwI8R) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [High Roller](https://open.spotify.com/album/1dGuB993wK9W2YBiRDfGnh) | 2:23 | 2023-09-08 | 2023-11-04 |

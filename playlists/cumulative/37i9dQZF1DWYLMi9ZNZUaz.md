@@ -2,7 +2,7 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
 326 songs - 19 hr 7 min
 
@@ -57,7 +57,7 @@
 | [Calm Down](https://open.spotify.com/track/3UCDIDbwlglyzkWtIxVJ0Z) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [421](https://open.spotify.com/album/0i3IirLVHTlg7JqMvv45tE) | 3:18 | 2024-07-11 | 2024-07-17 |
 | [CATCH ME IF YOU CAN \(feat\. Quang Hùng MasterD, Negav, Công Dương & Nicky\)](https://open.spotify.com/track/193luTcDfusSUv3yqs1gGj) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [Quang Hùng MasterD](https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v), [Công Dương](https://open.spotify.com/artist/7rpD9lGecstoaVj2vGXUex), [NICKY](https://open.spotify.com/artist/006RBJU7ScwRg9eouP4kJw) | [ANH TRAI "SAY HI", Tập 4](https://open.spotify.com/album/58EKJDBEuoQjjTXxVAjhwk) | 4:16 | 2024-08-16 | 2025-01-02 |
 | [Chim Sẻ & Dâu Tây \- Stage Version](https://open.spotify.com/track/6WACMD2SUMiLK5dHRXlm2s) | [Dế Choắt \(DC\)](https://open.spotify.com/artist/1KLRO4UHKmiwS0grGzFdgT) | [1St.](https://open.spotify.com/album/5xQZPhFLzj9o3iplCfMMH7) | 2:05 | 2024-01-23 | 2024-02-03 |
-| [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 | 2024-06-12 |  |
+| [Cho Mình Em](https://open.spotify.com/track/51bYFYWODfYOZU0rwvjiCc) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Đen](https://open.spotify.com/artist/1HMF5R4KSzEMxB54ihlOdj) | [Cho Mình Em](https://open.spotify.com/album/5oOVxWfhlsD4cYzUh1VBCr) | 3:26 | 2024-06-12 |  |
 | [Cho Tôi Lang Thang](https://open.spotify.com/track/2zRzmGerfTxc2epZHgaTdh) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI), [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi) | [Cho Tôi Lang Thang](https://open.spotify.com/album/4CpoMF5isZ7CFM6o3iyb3V) | 4:18 | 2023-10-19 | 2024-04-19 |
 | [Chìm Sâu](https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Chìm Sâu](https://open.spotify.com/album/2AZXUAGWs90yNEUC4biubs) | 2:36 | 2023-10-19 | 2025-05-14 |
 | [Chơi Như Tụi Mỹ](https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Chơi Như Tụi Mỹ](https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A) | 2:40 | 2023-10-19 |  |

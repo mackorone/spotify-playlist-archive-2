@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAACSXOO05G8V90uAv5ywORW7",
+  "snapshot_id": "aYp1AAAAAAAdYQAJXWZGwhYeQA7ZZq/W",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "REHMA",
-          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "trilogy remixes",
         "url": "https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 202666,
       "name": "blue - Jai Wolf Remix",
       "url": "https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0FzK089OhhE9ClJLa6t7zI"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "REHMA",
+          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/31xap7wcReOw50PxpEdh4C"
     },
     {
       "added_at": null,

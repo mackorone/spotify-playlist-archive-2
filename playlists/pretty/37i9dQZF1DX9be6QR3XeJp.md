@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Maddie Ashman
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,539 likes - 266 songs - 14 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,534 likes - 266 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! February ambassador: <a href="spotify:artist:3E3Bhr9cOUCWhjJhNZeTAX">mermaidonmars</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,940 likes - 71 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,944 likes - 71 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

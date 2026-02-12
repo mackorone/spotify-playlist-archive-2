@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 639457,
+  "num_followers": 639405,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 288120,
-      "name": "Wildflowers & Wine",
-      "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "A Deeper Understanding",
         "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 330760,
       "name": "Pain",
       "url": "https://open.spotify.com/track/59P1nrdEImkAKa1nyW9X2e"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 288120,
+      "name": "Wildflowers & Wine",
+      "url": "https://open.spotify.com/track/1l8TpQdbsiQvMB9SuPsaiv"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Trick To Happy",
-      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Lukas Nelson & Promise Of The Real",
         "url": "https://open.spotify.com/album/7FRf2pzChLAhYLWL55hmlH"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 376333,
       "name": "Find Yourself",
       "url": "https://open.spotify.com/track/058T5UiAWu70uTAYDN67kY"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Trick To Happy",
+      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Virginia (Wind In The Night)",
-        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Virginia (Wind In The Night)",
-      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Lemon Tree",
         "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Virginia (Wind In The Night)",
+        "url": "https://open.spotify.com/album/0NgrmQ40zdQLLqZF09wiIx"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 205293,
+      "name": "Virginia (Wind In The Night)",
+      "url": "https://open.spotify.com/track/03gx5xXMcfEK7ZnOHsjvJL"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Foxwarren",
-        "url": "https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp"
-      },
-      "artists": [
-        {
-          "name": "Foxwarren",
-          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
-        }
-      ],
-      "duration_ms": 260093,
-      "name": "Sunset Canyon",
-      "url": "https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "Old Time Feeling",
         "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 176600,
       "name": "Supertramp",
       "url": "https://open.spotify.com/track/0XUC0NWE9vAakeCgvaekVs"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Foxwarren",
+        "url": "https://open.spotify.com/album/7AQ1f6J9I55bW2qYPJbWgp"
+      },
+      "artists": [
+        {
+          "name": "Foxwarren",
+          "url": "https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV"
+        }
+      ],
+      "duration_ms": 260093,
+      "name": "Sunset Canyon",
+      "url": "https://open.spotify.com/track/3kXrgO7Sl0jgURAv7boX5q"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Heigh Ho",
-        "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
-      },
-      "artists": [
-        {
-          "name": "Blake Mills",
-          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
-        }
-      ],
-      "duration_ms": 319706,
-      "name": "Don't Tell Our Friends About Me",
-      "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "The Unseen In Between",
         "url": "https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 310360,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0ZWliPPI1OGqhcDSBJUHim"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Heigh Ho",
+        "url": "https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6"
+      },
+      "artists": [
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "duration_ms": 319706,
+      "name": "Don't Tell Our Friends About Me",
+      "url": "https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1383,18 +1383,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+        "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
+        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
       },
       "artists": [
         {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 200480,
-      "name": "Coming to Get You Nowhere",
-      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+      "duration_ms": 197474,
+      "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
+      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1415,22 +1419,18 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
-        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
       "artists": [
         {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
         }
       ],
-      "duration_ms": 197474,
-      "name": "It\u2019s a good day (to fight the system) - feat. Joy Oladokun",
-      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
+      "duration_ms": 200480,
+      "name": "Coming to Get You Nowhere",
+      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
     },
     {
       "added_at": "2024-07-05 20:58:56",

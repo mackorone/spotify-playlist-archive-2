@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31775,
+  "num_followers": 31778,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAA7TC0upLo6mm/hLzZOzCwW",
+  "snapshot_id": "aYp1AAAAAACxjFYsXDzz4D1CPffq3y7v",
   "tracks": [
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/69RB9Dn2ljGX8u92XV4Dap"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/2MX8KwSwCNyJtVTVYfSFNX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MALOS Y BUENOS RECUERDOS",
         "url": "https://open.spotify.com/album/6u0PTQ94r3btRrTLnz37BI"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 215872,
       "name": "la vida viene y va",
       "url": "https://open.spotify.com/track/2NQde8Dr68p6wly3BoambL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiero",
-        "url": "https://open.spotify.com/album/69RB9Dn2ljGX8u92XV4Dap"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/2MX8KwSwCNyJtVTVYfSFNX"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Un Pedacito de Ti",
-      "url": "https://open.spotify.com/track/65rNTveNX91Df29bbplB09"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Leyenda",
         "url": "https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 252285,
       "name": "Leyenda",
       "url": "https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/7frxjxl8GN1rE0g7gLJZfQ"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Un Pedacito de Ti",
+      "url": "https://open.spotify.com/track/65rNTveNX91Df29bbplB09"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B\u00f3rrame",
         "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 173226,
       "name": "B\u00f3rrame",
       "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NQSTA",
-        "url": "https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0"
+        "name": "Jodido Sin Ti",
+        "url": "https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 184840,
-      "name": "NQSTA",
-      "url": "https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu"
+      "duration_ms": 165106,
+      "name": "Jodido Sin Ti",
+      "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
     },
     {
       "added_at": null,
@@ -843,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jodido Sin Ti",
-        "url": "https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U"
+        "name": "NQSTA",
+        "url": "https://open.spotify.com/album/2vX2gLMycyORhu96EEWqi0"
       },
       "artists": [
         {
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 165106,
-      "name": "Jodido Sin Ti",
-      "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
+      "duration_ms": 184840,
+      "name": "NQSTA",
+      "url": "https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu"
     },
     {
       "added_at": null,

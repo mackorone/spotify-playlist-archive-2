@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Gini, Lucky Ali, Shreya Jain and other exciting artists.
 
-1,342 songs - 3 day 1 hr 24 min
+1,343 songs - 3 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@
 | [Faasle](https://open.spotify.com/track/2sUCQRozz4pBXmjhbFLzCj) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Sid Paul](https://open.spotify.com/artist/0hA5srbpLWMvzdVbz4APZF), [Rishi Pathak](https://open.spotify.com/artist/70ay8w6FiSddbDt3g8yFxM) | [Faasle](https://open.spotify.com/album/4ewFSPW3fnWlkkdLqTskXZ) | 3:32 | 2025-04-18 | 2025-05-09 |
 | [FALLING](https://open.spotify.com/track/6z2DPeu7G889dDIEFn3YUf) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Between Flowers](https://open.spotify.com/album/6aZXy2FvufTTarx9K45hmB) | 3:06 | 2025-02-07 | 2025-02-22 |
 | [Falling Again](https://open.spotify.com/track/1y03W4HsIWvZlXY7IBXIyk) | [Raman](https://open.spotify.com/artist/60Pg5sPykBui7UZsqaoHu8) | [Falling Again](https://open.spotify.com/album/7gXy5Nm7ZRKLzAdFgD2sCi) | 3:48 | 2023-12-01 | 2023-12-09 |
-| [Falls](https://open.spotify.com/track/5zBY3ZhXtYRmTNfBLKcceY) | [Jersxy](https://open.spotify.com/artist/3JYOe2ZSMOaC5bzXG79ay3) | [Falls](https://open.spotify.com/album/752iLROWi2UOC5IKovt76c) | 2:21 | 2026-02-06 |  |
+| [Falls](https://open.spotify.com/track/5zBY3ZhXtYRmTNfBLKcceY) | [Jersxy](https://open.spotify.com/artist/3JYOe2ZSMOaC5bzXG79ay3) | [Falls](https://open.spotify.com/album/752iLROWi2UOC5IKovt76c) | 2:21 | 2026-02-06 | 2026-02-12 |
 | [FALSAFA](https://open.spotify.com/track/50T9qpE9RfbzxqzU3MO2iQ) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [FALSAFA](https://open.spotify.com/album/7AjLWYXadu0ev1RhKANZ8z) | 3:04 | 2024-12-20 | 2025-03-10 |
 | [Fanaa](https://open.spotify.com/track/47OAd1FD5sbqn1QVUPRBzb) | [Harmaan Nazim](https://open.spotify.com/artist/2houjCeBb27grJMrMv1swc), [Sarbarish Majumder](https://open.spotify.com/artist/0vPFuipZOpQ4bdAVqR0bs5) | [Fanaa](https://open.spotify.com/album/200SvOTUZmQiqNy3sJBLAP) | 4:46 | 2024-12-06 | 2025-01-11 |
 | [Farak Nahi Padta](https://open.spotify.com/track/1J9c9T2OJr84swGCXu1TEH) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Farak Nahi Padta](https://open.spotify.com/album/2SsLNVEZfLuZz0ZgC3EtrZ) | 2:19 | 2025-12-12 |  |
@@ -1203,6 +1203,7 @@
 | [Theher Ja](https://open.spotify.com/track/6H930PNDIToBpzUkDTndHP) | [Manikk](https://open.spotify.com/artist/0I0sDSeLG7sgnVnvAmS2uR) | [Theher Ja](https://open.spotify.com/album/1UqQQrbEaC1B1iZ7ZfOLsD) | 3:01 | 2026-01-09 |  |
 | [Thikana](https://open.spotify.com/track/7tGwilnEe5wNfQ097nTWOC) | [Jivitesh Kharbanda](https://open.spotify.com/artist/6xRm13Ry0rDXAZyspU8Rue), [Mohan Kannan](https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem), [Gautam Aditya](https://open.spotify.com/artist/1RYvJWl1FrAPcH8Rg5xOV3) | [Thikana](https://open.spotify.com/album/6NlJIRAUjQoJCaSRbz2viR) | 4:54 | 2024-02-09 | 2024-03-09 |
 | [Thokro Ke Dhabe](https://open.spotify.com/track/5NDD08apREZEiLlT3xKQEa) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Thokro Ke Dhabe](https://open.spotify.com/album/29cJqwLp5LR97kCAtIjoNb) | 3:30 | 2025-08-01 | 2025-11-14 |
+| [Thugwa](https://open.spotify.com/track/3gK6nVI5aKpRoturF1lBwO) | [Prabhanjan](https://open.spotify.com/artist/1G5ur1G4EQjPC5tP6sLYmY), [Buki](https://open.spotify.com/artist/1WFa8dyG7RIkgcrH82xZMA), [Riya Goley](https://open.spotify.com/artist/4ySpRlOBEyFbpSla57Tm9B) | [Thugwa](https://open.spotify.com/album/7Bc3u4W0gacEQHH62B3Hl9) | 3:37 | 2026-02-06 |  |
 | [Time Is Money](https://open.spotify.com/track/6Q8JbAUkZZP0sLhlXkNLhu) | [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl) | [Time Is Money](https://open.spotify.com/album/0h894TP5cKaz0Lc5tERtvf) | 3:04 | 2024-03-01 | 2024-03-16 |
 | [Tinke Ka Sahara](https://open.spotify.com/track/5BYTgO5v9eSV9T6oY8jSck) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Tinke Ka Sahara](https://open.spotify.com/album/60lgMNVsqFGRFsxaIgWyY4) | 2:09 | 2025-03-14 | 2025-03-22 |
 | [Titli](https://open.spotify.com/track/7hIo0oSJq396AsNH0r1zCv) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Titli](https://open.spotify.com/album/2kmK65y29xEQc9N6ZaYDOO) | 3:02 | 2025-06-20 | 2025-09-26 |

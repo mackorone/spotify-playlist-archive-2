@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 220662,
+  "num_followers": 220766,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Ren\u00e9",
+        "url": "https://open.spotify.com/album/0RYd37TdvWxCBo9u5BNgJ3"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "duration_ms": 457591,
+      "name": "Ren\u00e9",
+      "url": "https://open.spotify.com/track/6gm12xlADJwiBbHIKBXzGW"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 218250,
       "name": "Por Mi M\u00e9xico",
       "url": "https://open.spotify.com/track/2sUknbm8xdLQgH7wb8xcTX"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Ren\u00e9",
-        "url": "https://open.spotify.com/album/0RYd37TdvWxCBo9u5BNgJ3"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        }
-      ],
-      "duration_ms": 457591,
-      "name": "Ren\u00e9",
-      "url": "https://open.spotify.com/track/6gm12xlADJwiBbHIKBXzGW"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "CARAVANA",
-        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 196745,
-      "name": "CANGURO",
-      "url": "https://open.spotify.com/track/2UAWYufVaO3EnUUNzl0ppO"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Sincopa",
         "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 242680,
       "name": "Con el Coco Rapado",
       "url": "https://open.spotify.com/track/3dvbimQJp4NyG6X6WBnW5X"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "CARAVANA",
+        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 196745,
+      "name": "CANGURO",
+      "url": "https://open.spotify.com/track/2UAWYufVaO3EnUUNzl0ppO"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -707,26 +707,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Techymuv",
-        "url": "https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe"
+        "name": "No Copio",
+        "url": "https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT"
       },
       "artists": [
         {
-          "name": "Chystemc",
-          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
-        },
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        },
-        {
-          "name": "Adosene",
-          "url": "https://open.spotify.com/artist/3UHXKNtEt4Tvu4EDYNt4mk"
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
         }
       ],
-      "duration_ms": 311500,
-      "name": "I Love You a Lo V\u00edo",
-      "url": "https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3"
+      "duration_ms": 205255,
+      "name": "No Copio",
+      "url": "https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -747,18 +739,26 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "No Copio",
-        "url": "https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT"
+        "name": "Techymuv",
+        "url": "https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe"
       },
       "artists": [
         {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+          "name": "Chystemc",
+          "url": "https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        },
+        {
+          "name": "Adosene",
+          "url": "https://open.spotify.com/artist/3UHXKNtEt4Tvu4EDYNt4mk"
         }
       ],
-      "duration_ms": 205255,
-      "name": "No Copio",
-      "url": "https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf"
+      "duration_ms": 311500,
+      "name": "I Love You a Lo V\u00edo",
+      "url": "https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3"
     },
     {
       "added_at": "2024-07-12 18:46:41",

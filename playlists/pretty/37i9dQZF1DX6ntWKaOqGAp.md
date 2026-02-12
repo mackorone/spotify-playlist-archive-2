@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: SUPER BEAVER
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,587 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,614 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [燦然 \- Sanzen](https://open.spotify.com/track/1yn3Io5ULS4jLPSNvgZTpH) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [燦然 / 生きがい](https://open.spotify.com/album/5PTVBumincWhvUzUJiTwRY) | 5:07 |
 | 2 | [IRANAI](https://open.spotify.com/track/4b4rwXmVgXV8AnVZRJPt32) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [IRANAI](https://open.spotify.com/album/4otCkdwgMXSfM77HEoHTpU) | 3:46 |
-| 3 | [stay with me](https://open.spotify.com/track/1smgzMnfgCPrp1UagrgOjO) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [](https://open.spotify.com/album/null) | 3:39 |
+| 3 | [stay with me](https://open.spotify.com/track/1smgzMnfgCPrp1UagrgOjO) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Rikutsudehanasukimito, Kanjoronnoboku](https://open.spotify.com/album/79a0hGkH01ihpKnnZdAZmu) | 3:39 |
 | 4 | [茜](https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [茜](https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL) | 3:45 |
 | 5 | [ふわ輪](https://open.spotify.com/track/2NArNH7uxom58eWbhEAQXi) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [ふわ輪](https://open.spotify.com/album/1G56jyuclDbeCd5ufEcELY) | 3:30 |
 | 6 | [シンギュラリティ](https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [シンギュラリティ](https://open.spotify.com/album/43LrARnpinuGWHiRvEwAxZ) | 4:08 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 79 | [のびしろ](https://open.spotify.com/track/3K3DKM9L29UkITFBW3AdrJ) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [のびしろ](https://open.spotify.com/album/48AtXqpHhoWVCOBm70H98C) | 4:03 |
 | 80 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 |
 | 81 | [Wonderland](https://open.spotify.com/track/0ST6uGIS1Bm2x5eb0yNsRt) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [Wonderland](https://open.spotify.com/album/6IXl2T3RNuvZgmsR6ns9ZI) | 3:04 |
-| 82 | [Venus](https://open.spotify.com/track/3KYcUhGvlF0t0Zyj3qAHCV) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [](https://open.spotify.com/album/null) | 3:29 |
-| 83 | [Abyss Red](https://open.spotify.com/track/7erRRfRZDmlxVkkuvgZgvI) | [TenTwenty](https://open.spotify.com/artist/3RNu8rbQ2lnxmJb1SkkTS5) | [](https://open.spotify.com/album/null) | 3:05 |
+| 82 | [Venus](https://open.spotify.com/track/3KYcUhGvlF0t0Zyj3qAHCV) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Twelve Ephemeral Variations](https://open.spotify.com/album/72ad0TuV1VkJ8kQcIUoes1) | 3:29 |
+| 83 | [Abyss Red](https://open.spotify.com/track/7erRRfRZDmlxVkkuvgZgvI) | [TenTwenty](https://open.spotify.com/artist/3RNu8rbQ2lnxmJb1SkkTS5) | [Abyss Red](https://open.spotify.com/album/4VCuMk3jGJLdndQLuNY4lB) | 3:05 |
 | 84 | [TORYANSE](https://open.spotify.com/track/6j8wkhXAvbdfiVGglqHMQQ) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1), [須藤寿](https://open.spotify.com/artist/4yLohhRvV9WAxPAuIafhyx) | [TORYANSE](https://open.spotify.com/album/4by9Ztn9u4W3PjjIFUfwNQ) | 3:56 |
 | 85 | [トンツカタンタン](https://open.spotify.com/track/2bonDeesq7NsHnfeMNDhZv) | [クレイジーウォウウォ！！](https://open.spotify.com/artist/7GSqiihDPb6AjoK8lh40fh) | [トンツカタンタン](https://open.spotify.com/album/6OPk5SaDBxwv0KOku8sZNC) | 3:50 |
 | 86 | [あむりた](https://open.spotify.com/track/1A1kuWhja283UavUrcwc4l) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [あむりた](https://open.spotify.com/album/2qaI39PDmsIbE4p62Tl3eC) | 4:00 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 88 | [dedede](https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [dedede](https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI) | 2:55 |
 | 89 | [ピッチカート](https://open.spotify.com/track/2BSAbSn3vBUMsg8rt2VzMO) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [ピッチカート](https://open.spotify.com/album/4L4pygC0FbdmilbrSOLJr3) | 4:34 |
 | 90 | [5TELLA](https://open.spotify.com/track/0KLSg04eAUWCctfHWQD3wL) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [5TELLA](https://open.spotify.com/album/3R3qeemjRskWgzl96Q7rvE) | 3:55 |
-| 91 | [土竜](https://open.spotify.com/track/7EryCiOpd7ZBw9HjO0hU1I) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [](https://open.spotify.com/album/null) | 3:21 |
+| 91 | [土竜](https://open.spotify.com/track/7EryCiOpd7ZBw9HjO0hU1I) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [種](https://open.spotify.com/album/6btmxzSSk9bjN1YeELn0Qq) | 3:21 |
 | 92 | [Echoes](https://open.spotify.com/track/6xyWCaq48IYDVgCkfHJkBr) | [Senya Chamaru](https://open.spotify.com/artist/1c5DUlkmJ7XvYcYg17b3zS) | [Echoes](https://open.spotify.com/album/6sOBRVe3PxDdjMFuWlcOxi) | 4:08 |
 | 93 | [361°](https://open.spotify.com/track/6vxcJC28DFe1xjUctsh4P4) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [361°](https://open.spotify.com/album/2sO5ugmEmBCwcy811ukzfd) | 5:31 |
 | 94 | [star flower](https://open.spotify.com/track/6GeWnXoGMZsCOsCSq6bdJs) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [star flower](https://open.spotify.com/album/4aM9vov58lJbJQRYwKDtAc) | 3:05 |
 | 95 | [ユナイト](https://open.spotify.com/track/3VTmv71EuPw4b2ES0PPfFH) | [yubiori](https://open.spotify.com/artist/5oZhNJP1zUPqUW6RLwneNo) | [ユナイト](https://open.spotify.com/album/2ON8Gtt7RORaGgMBgHIEPA) | 5:52 |
 | 96 | [サイレン](https://open.spotify.com/track/6DYebc1Ii95osJRX1P0Ke8) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J) | [NARCISM](https://open.spotify.com/album/0yjBA2zw38OSZOv9a8sVCR) | 3:05 |
 | 97 | [Road to the future](https://open.spotify.com/track/2UtxS2QNxkW0kGnqvyZfkX) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [Road to the future](https://open.spotify.com/album/4g9wkbquO5cb4XRmNlwxBC) | 4:12 |
-| 98 | [BEST DAY EVER \(feat\. Ichiko Aoba\)](https://open.spotify.com/track/1g6sCxBMFDch6N3gsDqUNu) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [](https://open.spotify.com/album/null) | 6:35 |
-| 99 | [Spread love](https://open.spotify.com/track/57zLlNTYAWm38N7qYeGppM) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [](https://open.spotify.com/album/null) | 2:48 |
+| 98 | [BEST DAY EVER \(feat\. Ichiko Aoba\)](https://open.spotify.com/track/1g6sCxBMFDch6N3gsDqUNu) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [I KNOW HOW NOW](https://open.spotify.com/album/1ctc0FliO2frMuLGdUQWmF) | 6:35 |
+| 99 | [Spread love](https://open.spotify.com/track/57zLlNTYAWm38N7qYeGppM) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [Gateballers](https://open.spotify.com/album/57ZqgUS1RuJnkYAz1BEo6H) | 2:48 |
 | 100 | [魚～ホットドッグ～](https://open.spotify.com/track/5bcEZmuU3Gnk1a2ZADn8vw) | [色々な十字架](https://open.spotify.com/artist/2gWCmHa50Meizr9Mo2sgZ0) | [魚～ホットドッグ～](https://open.spotify.com/album/2C7eqKjVjLRh6RYVSEbS67) | 4:24 |
 
 Snapshot ID: `AAAAAPgGnR6o2Q3ENrtezp7iwg6Zja7w`

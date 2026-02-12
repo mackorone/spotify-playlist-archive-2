@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-3,237 songs - 6 day 18 hr 54 min
+3,239 songs - 6 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Adore You](https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:27 | 2023-07-09 | 2023-07-12 |
 | [Adrenalina](https://open.spotify.com/track/5dj7Il9BkdU1gMfIveNrVH) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Adrenalina](https://open.spotify.com/album/67bLwGrXGnZrC1YUdsLzle) | 2:57 | 2022-07-23 | 2022-08-11 |
 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 | 2024-08-22 | 2024-08-28 |
-| [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2025-12-28 |  |
+| [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2025-12-28 | 2026-02-12 |
 | [Afro Trap Pt\. 3 \(Champions League\)](https://open.spotify.com/track/0D0np8Odu1PNamKfajA6AX) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [MHD](https://open.spotify.com/album/7qPBQAVq0CscTtNmCTIzYE) | 2:17 | 2025-06-04 | 2025-06-13 |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2021-03-27\* | 2021-05-16 |
 | [Airberlin](https://open.spotify.com/track/5422qkk67RSNZizub4XkDX) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Tage vor 2000](https://open.spotify.com/album/2sc27jZbMMb8XdwKiZj9Jk) | 2:45 | 2023-12-23 | 2024-01-02 |
@@ -696,7 +696,7 @@
 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 | 2025-01-01 | 2025-01-03 |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2022-07-29 | 2026-01-04 |
 | [Daniel Lee](https://open.spotify.com/track/11NL4WkilMYNvu1iQrzCLL) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [Daniel Lee](https://open.spotify.com/album/0xB1sVECcvXklEI4RK5Kz4) | 2:47 | 2021-07-04 | 2021-07-12 |
-| [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2023-05-01 |  |
+| [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2023-05-01 | 2026-02-12 |
 | [Danza Kuduro](https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO) | 3:18 | 2024-08-16 | 2026-01-27 |
 | [Dark Knight](https://open.spotify.com/track/0hbq80nqwppsKczeDYlo64) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [Dark Knight](https://open.spotify.com/album/3AenEbUKk1M1NbrwS8W0bo) | 4:35 | 2023-09-02 | 2023-09-10 |
 | [Dark Side](https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS) | 2:57 | 2021-05-25 | 2021-05-28 |
@@ -1550,6 +1550,7 @@
 | [Kopfschuss](https://open.spotify.com/track/09ifz0K1CRZzCkdalwFxwL) | [187 Strassenbande](https://open.spotify.com/artist/2j2rh3oQh4QEUnNTDKYSJD), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [LX](https://open.spotify.com/artist/10XY9PZCJKzUFzZOdtlQLU), [Sa4](https://open.spotify.com/artist/5qZLYtTL3ldN6Uw7OXHESR) | [Sampler 5](https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG) | 2:52 | 2021-05-16 | 2021-05-17 |
 | [KREDIBIL](https://open.spotify.com/track/20w2HAW8cARSu5n0Dpjhf2) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [KREDIBIL](https://open.spotify.com/album/6uF8J7YPWubNzbjrPNwHl9) | 2:49 | 2022-08-27 | 2022-08-29 |
 | [Kreidebleich](https://open.spotify.com/track/096hSRX6pHenZislIOv3Sw) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Kreidebleich](https://open.spotify.com/album/1cUhMTJPQUygoGA1NcrPp8) | 2:46 | 2025-03-08 | 2025-03-10 |
+| [Kryptonite](https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life](https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6) | 3:53 | 2026-02-11 |  |
 | [KUCK KUCK](https://open.spotify.com/track/4Eona1ug5YMm4EIWkMQvMQ) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1) | [KUCK KUCK](https://open.spotify.com/album/3TCvmvesPomEBPhbM1elcM) | 2:53 | 2021-03-27 | 2021-04-02 |
 | [Kuku](https://open.spotify.com/track/7rHuaTEGYh4WnRZWlR88JQ) | [Butrint Imeri](https://open.spotify.com/artist/3oo88ul6DPnYZwZG4CZBTY) | [Kuku](https://open.spotify.com/album/66wYaMe7yjoq4ohty44h7T) | 2:28 | 2021-10-05 | 2021-10-17 |
 | [KUSURA BAKMA](https://open.spotify.com/track/1mgoLJV5W6JSWanT5bgf3o) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KUSURA BAKMA](https://open.spotify.com/album/06jvhVjkzizEpZQ3goLOmf) | 2:37 | 2025-11-29 | 2026-01-01 |
@@ -1560,6 +1561,7 @@
 | [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2024-12-28 | 2025-02-18 |
 | [La La La](https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 3:42 | 2024-12-27 | 2025-02-20 |
 | [La La La](https://open.spotify.com/track/0VqzNpw7km3IPqq3O21VXj) | [Voyage](https://open.spotify.com/artist/7aASXckUdNXJ5X338n8C1D) | [La La La](https://open.spotify.com/album/59esDClcEVgHPG1Ih2qC1O) | 2:06 | 2022-12-29 | 2023-01-24 |
+| [LA MuDANZA](https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:33 | 2026-02-11 |  |
 | [la noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [la noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 | 2024-05-13 | 2024-05-17 |
 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2025-11-08 | 2025-11-14 |
 | [La poupée monte le son](https://open.spotify.com/track/6IabIimt88FcZu80dunXWA) | [Laura Thorn](https://open.spotify.com/artist/7mj5xXWTY7waS2qPkjnWpx) | [La poupée monte le son](https://open.spotify.com/album/6k0rdf9p1YRh57I9HsK97l) | 2:58 | 2025-05-19 | 2025-05-21 |

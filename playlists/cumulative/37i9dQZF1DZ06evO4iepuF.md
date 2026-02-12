@@ -4,7 +4,7 @@
 
 > This is Kittydog\. The essential tracks, all in one playlist.
 
-115 songs - 3 hr 49 min
+116 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,12 +32,12 @@
 | [celebrity](https://open.spotify.com/track/55PRekiHsbKlOZjtbJ3dek) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [celebrity](https://open.spotify.com/album/0MlRjWZIFdeWRTFoGkMWjU) | 1:20 | 2025-04-16 | 2025-05-07 |
 | [chasing the stars, living the dream](https://open.spotify.com/track/0iOCZvQTXz2riKgUfDjUw8) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:39 | 2025-02-02 |  |
 | [COPE](https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [COPE](https://open.spotify.com/album/4LXcS5EqD83HVx62DUDiSY) | 1:49 | 2024-12-14 |  |
-| [crying in the club](https://open.spotify.com/track/2Pgjsp9gZpxUnE9FuENVjg) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [crying in the club](https://open.spotify.com/album/7HnucOoLxbhgFNyDfmjDDS) | 2:03 | 2024-12-14 | 2026-01-31 |
+| [crying in the club](https://open.spotify.com/track/2Pgjsp9gZpxUnE9FuENVjg) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [crying in the club](https://open.spotify.com/album/7HnucOoLxbhgFNyDfmjDDS) | 2:03 | 2024-12-14 |  |
 | [crystal spray \- Remastered](https://open.spotify.com/track/5e31ls6AAuRNkcEGmSGcMX) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [crystal spray \(Remastered\)](https://open.spotify.com/album/5d5yLJ4vUxUG74VRYnae95) | 1:57 | 2024-12-16 | 2025-05-29 |
 | [cursed2all4s](https://open.spotify.com/track/268Q8ZqFfUo3tGThTeEnbL) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 2:39 | 2025-07-11 |  |
 | [damn beautiful](https://open.spotify.com/track/2eRjZFtoYEiVFf4IPUD8n0) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:14 | 2025-05-15 | 2025-05-19 |
 | [Death At Your Expense](https://open.spotify.com/track/6ukpi5r6LknK5r7Eftq83b) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 2:23 | 2024-12-14 | 2026-02-04 |
-| [deteriorating \- Remastered](https://open.spotify.com/track/4oMrqoMHYjZeWEpar8hREN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [deteriorating \(Remastered\)](https://open.spotify.com/album/6dzPxokLm3XkvcsWQMQrU5) | 1:45 | 2024-12-14 |  |
+| [deteriorating \- Remastered](https://open.spotify.com/track/4oMrqoMHYjZeWEpar8hREN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [deteriorating \(Remastered\)](https://open.spotify.com/album/6dzPxokLm3XkvcsWQMQrU5) | 1:45 | 2024-12-14 | 2026-02-12 |
 | [Directions](https://open.spotify.com/track/1O0bYizbSQ8u7JOwvLFU3P) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 3:01 | 2025-07-11 |  |
 | [dissociated fantasy](https://open.spotify.com/track/3kUnMYg05ughCG68fgMDH1) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [dissociated fantasy](https://open.spotify.com/album/5C8AIOpAhAloLoxBfB0w2Y) | 1:52 | 2024-12-14 | 2025-12-10 |
 | [double hue](https://open.spotify.com/track/2NwZEiDaTW90Eh4mlsUvPR) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 1:23 | 2025-01-31 | 2025-03-26 |
@@ -50,6 +50,7 @@
 | [for you](https://open.spotify.com/track/48gn8xtsCaYQjBnHmVMvSN) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [for you](https://open.spotify.com/album/3cB8j0mIGPbXfpsqHF9QgW) | 1:09 | 2025-05-11 | 2025-05-25 |
 | [free falling](https://open.spotify.com/track/6P0fdIOhMJdrkzaqrCgMpE) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [free falling](https://open.spotify.com/album/2466ogzhqDOXmr0T4J3l7g) | 1:31 | 2025-09-12 | 2025-09-19 |
 | [freeze up](https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [freeze up](https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN) | 1:57 | 2024-12-14 |  |
+| [fucko boingo](https://open.spotify.com/track/3SXWgSkpJvfS6C32DZhthF) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2016\-18 sc songs \(compilation\)](https://open.spotify.com/album/1OgQ6zQhHTQzvuzrtzxyoH) | 1:03 | 2026-02-12 |  |
 | [gamer](https://open.spotify.com/track/6YKBe2rIEOruhhQyMz3gZH) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [gamer](https://open.spotify.com/album/0jiXdQvAuGADyf3eszdcOd) | 1:11 | 2025-07-20 | 2025-09-16 |
 | [heartbreaker feelings](https://open.spotify.com/track/5UDJZgIyoF6vvAbWeXsd0c) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:32 | 2024-12-15 | 2026-02-04 |
 | [hello sunshine](https://open.spotify.com/track/4oCMMohIA7ytsyo3zoAMwu) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [hello sunshine](https://open.spotify.com/album/4ZXZ7Uc5qTQD8HWSRWcm44) | 1:39 | 2024-12-14 | 2025-11-11 |
@@ -91,7 +92,7 @@
 | [only wonders now.](https://open.spotify.com/track/0VF21cnRMtUFtSie7P8xNh) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 0:56 | 2025-01-24 | 2026-02-11 |
 | [outcast](https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [outcast \(they all hate me\)](https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62) | 3:02 | 2024-12-14 |  |
 | [past present future](https://open.spotify.com/track/2rtde4rfw3x5zYGzVC3dJp) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 3:29 | 2025-03-03 | 2026-02-11 |
-| [perfect to me](https://open.spotify.com/track/776WFFOiyQLwxFMwK9qmK9) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2016\-18 sc songs \(compilation\)](https://open.spotify.com/album/1OgQ6zQhHTQzvuzrtzxyoH) | 1:13 | 2026-02-11 |  |
+| [perfect to me](https://open.spotify.com/track/776WFFOiyQLwxFMwK9qmK9) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2016\-18 sc songs \(compilation\)](https://open.spotify.com/album/1OgQ6zQhHTQzvuzrtzxyoH) | 1:13 | 2026-02-11 | 2026-02-12 |
 | [perfection DOESNT EXIST!!!!!!!!!!!!!!!!](https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [perfection DOESNT EXIST!!!!!!!!!!!!!!!!](https://open.spotify.com/album/6wXmfsjzYp8tpmoIZr4WjJ) | 1:41 | 2024-12-14 |  |
 | [phoinky](https://open.spotify.com/track/6Bn7TTEgMp6ZjnFXHgUqXr) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [phoinky new beginning](https://open.spotify.com/album/1GwIoG4mDd0pCCg8ptEmiz) | 0:47 | 2024-12-14 |  |
 | [Pity Party](https://open.spotify.com/track/1kcm01NZrEejx3PTaE7A0t) | [Belak](https://open.spotify.com/artist/2y83yKCgoia21m1ot4WxPL), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [It's Been Fun](https://open.spotify.com/album/54xxREc9c1mjBqaOBlvf89) | 2:53 | 2025-03-06 | 2025-08-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Th\u1ebf h\u1ec7 ngh\u1ec7 s\u0129 m\u1edbi. \u1ea2nh b\u00eca: GUrbane",
-  "num_followers": 3170,
+  "num_followers": 3171,
   "original_name": "RADAR Vietnam",
   "owner": {
     "name": "Spotify",
@@ -51,26 +51,6 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "Sau C\u01a1n M\u01b0a",
-        "url": "https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2"
-      },
-      "artists": [
-        {
-          "name": "CoolKid",
-          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
-        },
-        {
-          "name": "RHYDER",
-          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
-        }
-      ],
-      "duration_ms": 154756,
-      "name": "Sau C\u01a1n M\u01b0a",
-      "url": "https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
         "name": "t\u00e2m tr\u00ed lang thang",
         "url": "https://open.spotify.com/album/46Lf1gPNwYWk9eLS0vtzrc"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 237931,
       "name": "t\u00e2m tr\u00ed lang thang",
       "url": "https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "Sau C\u01a1n M\u01b0a",
+        "url": "https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2"
+      },
+      "artists": [
+        {
+          "name": "CoolKid",
+          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
+        },
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "duration_ms": 154756,
+      "name": "Sau C\u01a1n M\u01b0a",
+      "url": "https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "\u1ea2o Gi\u00e1c",
-        "url": "https://open.spotify.com/album/1S3i3m9hH5ilHb2RP2XWwp"
-      },
-      "artists": [
-        {
-          "name": "CoolKid",
-          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
-        }
-      ],
-      "duration_ms": 161599,
-      "name": "\u1ea2o Gi\u00e1c",
-      "url": "https://open.spotify.com/track/4IkYjqZKEaSpS88OoI2BVM"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
         "name": "AZA",
         "url": "https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 209523,
       "name": "USO",
       "url": "https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
+        "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
+      },
+      "artists": [
+        {
+          "name": "Vy Vy",
+          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
+        }
+      ],
+      "duration_ms": 218507,
+      "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
+      "url": "https://open.spotify.com/track/43CnREMxKnUeLJiUpgoKRF"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -207,18 +207,18 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
-        "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
+        "name": "\u1ea2o Gi\u00e1c",
+        "url": "https://open.spotify.com/album/1S3i3m9hH5ilHb2RP2XWwp"
       },
       "artists": [
         {
-          "name": "Vy Vy",
-          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
+          "name": "CoolKid",
+          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
         }
       ],
-      "duration_ms": 218507,
-      "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
-      "url": "https://open.spotify.com/track/43CnREMxKnUeLJiUpgoKRF"
+      "duration_ms": 161599,
+      "name": "\u1ea2o Gi\u00e1c",
+      "url": "https://open.spotify.com/track/4IkYjqZKEaSpS88OoI2BVM"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -239,6 +239,54 @@
       "duration_ms": 210731,
       "name": "U Can Call Me (feat. TINLE)",
       "url": "https://open.spotify.com/track/1ZxpSNbBpfk8q3CHtwXx3U"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "AZA",
+        "url": "https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22"
+      },
+      "artists": [
+        {
+          "name": "\u00c1nh S\u00e1ng AZA",
+          "url": "https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc"
+        }
+      ],
+      "duration_ms": 186067,
+      "name": "Ch\u1edd Chia Tay",
+      "url": "https://open.spotify.com/track/6zL9Nsn2C1I8uawBaJbDvV"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
+        "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
+      },
+      "artists": [
+        {
+          "name": "Vy Vy",
+          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
+        }
+      ],
+      "duration_ms": 253235,
+      "name": "C\u00fac Ho\u1ea1 Mi",
+      "url": "https://open.spotify.com/track/2cW6URQzknrDr7bzJKTuAR"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "ANH B\u1edc VAI",
+        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
+      },
+      "artists": [
+        {
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        }
+      ],
+      "duration_ms": 219963,
+      "name": "Anh B\u1edd Vai",
+      "url": "https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -275,54 +323,6 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "AZA",
-        "url": "https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22"
-      },
-      "artists": [
-        {
-          "name": "\u00c1nh S\u00e1ng AZA",
-          "url": "https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc"
-        }
-      ],
-      "duration_ms": 186067,
-      "name": "Ch\u1edd Chia Tay",
-      "url": "https://open.spotify.com/track/6zL9Nsn2C1I8uawBaJbDvV"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "ANH B\u1edc VAI",
-        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
-      },
-      "artists": [
-        {
-          "name": "V\u01af\u01a0NG B\u00ccNH",
-          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
-        }
-      ],
-      "duration_ms": 219963,
-      "name": "Anh B\u1edd Vai",
-      "url": "https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
-        "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
-      },
-      "artists": [
-        {
-          "name": "Vy Vy",
-          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
-        }
-      ],
-      "duration_ms": 253235,
-      "name": "C\u00fac Ho\u1ea1 Mi",
-      "url": "https://open.spotify.com/track/2cW6URQzknrDr7bzJKTuAR"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
         "name": "anh ch\u01b0a qu\u00ean \u0111\u01b0\u1ee3c em (2AM Freestyle)",
         "url": "https://open.spotify.com/album/6IotTHyZ9lQvylBqTEvhFY"
       },
@@ -343,26 +343,6 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "Sau C\u01a1n M\u01b0a (Live at ZLAB)",
-        "url": "https://open.spotify.com/album/77der7U4IMvTHglBYJfrXQ"
-      },
-      "artists": [
-        {
-          "name": "CoolKid",
-          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
-        },
-        {
-          "name": "ZLAB",
-          "url": "https://open.spotify.com/artist/5YtxFNj1nNvPhd9SMsn684"
-        }
-      ],
-      "duration_ms": 154784,
-      "name": "Sau C\u01a1n M\u01b0a (Live at ZLAB)",
-      "url": "https://open.spotify.com/track/34haywJFfkSihAmCo67j01"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
         "name": "AZA",
         "url": "https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22"
       },
@@ -375,22 +355,6 @@
       "duration_ms": 160733,
       "name": "Do Em",
       "url": "https://open.spotify.com/track/2HB9qkxBo8wzvAjpLDT2u9"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "ANH B\u1edc VAI",
-        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
-      },
-      "artists": [
-        {
-          "name": "V\u01af\u01a0NG B\u00ccNH",
-          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
-        }
-      ],
-      "duration_ms": 250748,
-      "name": "N\u1eafng hoa ni\u00ean",
-      "url": "https://open.spotify.com/track/2HjASGS12d5cZwiLQ5KQ8G"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -411,6 +375,42 @@
       "duration_ms": 214000,
       "name": "D\u1ea1o B\u01b0\u1edbc D\u01b0\u1edbi M\u00f9a H\u00e8",
       "url": "https://open.spotify.com/track/4nDM3iXzRzh3GkfXzC2zrX"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "ANH B\u1edc VAI",
+        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
+      },
+      "artists": [
+        {
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        }
+      ],
+      "duration_ms": 250748,
+      "name": "N\u1eafng hoa ni\u00ean",
+      "url": "https://open.spotify.com/track/2HjASGS12d5cZwiLQ5KQ8G"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "Sau C\u01a1n M\u01b0a (Live at ZLAB)",
+        "url": "https://open.spotify.com/album/77der7U4IMvTHglBYJfrXQ"
+      },
+      "artists": [
+        {
+          "name": "CoolKid",
+          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
+        },
+        {
+          "name": "ZLAB",
+          "url": "https://open.spotify.com/artist/5YtxFNj1nNvPhd9SMsn684"
+        }
+      ],
+      "duration_ms": 154784,
+      "name": "Sau C\u01a1n M\u01b0a (Live at ZLAB)",
+      "url": "https://open.spotify.com/track/34haywJFfkSihAmCo67j01"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -451,26 +451,18 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "Si\u00eau Tr\u1ed9m Kid - The EP",
-        "url": "https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v"
+        "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
+        "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
       },
       "artists": [
         {
-          "name": "SIXTYUPTOWN",
-          "url": "https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay"
-        },
-        {
-          "name": "V#",
-          "url": "https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om"
-        },
-        {
-          "name": "Larria.",
-          "url": "https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V"
+          "name": "Vy Vy",
+          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
         }
       ],
-      "duration_ms": 197283,
-      "name": "Benz ft. V# (prod. Larria.)",
-      "url": "https://open.spotify.com/track/1uVpjVKIJrNtN71I5IkwmO"
+      "duration_ms": 258750,
+      "name": "B\u1ed3ng B\u1ec1nh B\u1ed3ng B\u1ec1nh",
+      "url": "https://open.spotify.com/track/6RwBMr8gI1vvJLcAzzsMEc"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -491,18 +483,26 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
-        "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
+        "name": "Si\u00eau Tr\u1ed9m Kid - The EP",
+        "url": "https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v"
       },
       "artists": [
         {
-          "name": "Vy Vy",
-          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
+          "name": "SIXTYUPTOWN",
+          "url": "https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay"
+        },
+        {
+          "name": "V#",
+          "url": "https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om"
+        },
+        {
+          "name": "Larria.",
+          "url": "https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V"
         }
       ],
-      "duration_ms": 258750,
-      "name": "B\u1ed3ng B\u1ec1nh B\u1ed3ng B\u1ec1nh",
-      "url": "https://open.spotify.com/track/6RwBMr8gI1vvJLcAzzsMEc"
+      "duration_ms": 197283,
+      "name": "Benz ft. V# (prod. Larria.)",
+      "url": "https://open.spotify.com/track/1uVpjVKIJrNtN71I5IkwmO"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
+        "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
+        "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
+      },
+      "artists": [
+        {
+          "name": "Vy Vy",
+          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
+        }
+      ],
+      "duration_ms": 248076,
+      "name": "Tan Ca",
+      "url": "https://open.spotify.com/track/6wiZj290wIL3afV18Q0Yet"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
         "name": "Anh N\u00f3i Hay Em N\u00f3i (TCO Remake)",
         "url": "https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 183850,
       "name": "Ho\u00e0ng Ku",
       "url": "https://open.spotify.com/track/2sCggTNr9EqiP7W97tnAIa"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
-        "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
-        "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
-      },
-      "artists": [
-        {
-          "name": "Vy Vy",
-          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
-        }
-      ],
-      "duration_ms": 248076,
-      "name": "Tan Ca",
-      "url": "https://open.spotify.com/track/6wiZj290wIL3afV18Q0Yet"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "chanh tuy\u1ebft",
-        "url": "https://open.spotify.com/album/0pJIWUfipTVXuJ4ivTe8xy"
-      },
-      "artists": [
-        {
-          "name": "SIXTYUPTOWN",
-          "url": "https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "chanh tuy\u1ebft",
-      "url": "https://open.spotify.com/track/0i3kkjdLLumFcDIPwIY8b4"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
         "name": "FASHION RAPPER",
         "url": "https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 205656,
       "name": "FASHION RAPPER",
       "url": "https://open.spotify.com/track/29FDEPPwf4LjoW8TYSm5FO"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "chanh tuy\u1ebft",
+        "url": "https://open.spotify.com/album/0pJIWUfipTVXuJ4ivTe8xy"
+      },
+      "artists": [
+        {
+          "name": "SIXTYUPTOWN",
+          "url": "https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "chanh tuy\u1ebft",
+      "url": "https://open.spotify.com/track/0i3kkjdLLumFcDIPwIY8b4"
     },
     {
       "added_at": "2025-10-09 12:00:33",

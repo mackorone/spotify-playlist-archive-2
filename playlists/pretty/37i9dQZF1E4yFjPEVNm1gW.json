@@ -151,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Winners Circle",
+        "url": "https://open.spotify.com/album/0yxlQ39ZbUAqRpjGSC6BJL"
+      },
+      "artists": [
+        {
+          "name": "rexv2",
+          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
+        }
+      ],
+      "duration_ms": 123211,
+      "name": "YOUTUBE",
+      "url": "https://open.spotify.com/track/4AvbJFkxpj5x1ua2FeIS7l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "yit.mp3",
         "url": "https://open.spotify.com/album/0GQgKhXbtJ3jJ8DnwfxKXj"
       },
@@ -171,26 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slimebeezy 3",
-        "url": "https://open.spotify.com/album/0g8gja4ZdfXMVK2fWSCbWc"
-      },
-      "artists": [
-        {
-          "name": "Slimesito",
-          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
-        },
-        {
-          "name": "BeezyB",
-          "url": "https://open.spotify.com/artist/0beKhPdlNQhonFGiOOJHqi"
-        }
-      ],
-      "duration_ms": 140225,
-      "name": "RIP Goonew",
-      "url": "https://open.spotify.com/track/3ZnvoxSBGWYFGvjaSDRdPq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloody Bruddas",
         "url": "https://open.spotify.com/album/5rFMgfUL0AqhSPjI0MFT0i"
       },
@@ -207,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Winners Circle",
-        "url": "https://open.spotify.com/album/0yxlQ39ZbUAqRpjGSC6BJL"
-      },
-      "artists": [
-        {
-          "name": "rexv2",
-          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
-        }
-      ],
-      "duration_ms": 123211,
-      "name": "YOUTUBE",
-      "url": "https://open.spotify.com/track/4AvbJFkxpj5x1ua2FeIS7l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XTC",
         "url": "https://open.spotify.com/album/5sdEGZfppT2PxH9tSyRYEY"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 127346,
       "name": "XTC",
       "url": "https://open.spotify.com/track/7HVYOhVD0wOlA09qoKFxSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slimebeezy 3",
+        "url": "https://open.spotify.com/album/0g8gja4ZdfXMVK2fWSCbWc"
+      },
+      "artists": [
+        {
+          "name": "Slimesito",
+          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
+        },
+        {
+          "name": "BeezyB",
+          "url": "https://open.spotify.com/artist/0beKhPdlNQhonFGiOOJHqi"
+        }
+      ],
+      "duration_ms": 140225,
+      "name": "RIP Goonew",
+      "url": "https://open.spotify.com/track/3ZnvoxSBGWYFGvjaSDRdPq"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 182791,
-      "name": "Nightcore 2",
-      "url": "https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "splat!",
         "url": "https://open.spotify.com/album/019f1d3BhBSAqWmzbU29xk"
       },
@@ -351,50 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
       "artists": [
         {
-          "name": "Cl4pers",
-          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 163062,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Winners Circle",
-        "url": "https://open.spotify.com/album/0yxlQ39ZbUAqRpjGSC6BJL"
-      },
-      "artists": [
-        {
-          "name": "rexv2",
-          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
-        }
-      ],
-      "duration_ms": 128026,
-      "name": "CURRY SLIDE",
-      "url": "https://open.spotify.com/track/1SnlLIIiqtnP6o9hEQ8jqE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LO NE LY",
-        "url": "https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS"
-      },
-      "artists": [
-        {
-          "name": "Khalil?",
-          "url": "https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz"
-        }
-      ],
-      "duration_ms": 143520,
-      "name": "LO NE LY",
-      "url": "https://open.spotify.com/track/4WLxfQq7p0iyvaoOQLTYyO"
+      "duration_ms": 182791,
+      "name": "Nightcore 2",
+      "url": "https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10"
     },
     {
       "added_at": null,
@@ -419,6 +371,54 @@
       "duration_ms": 222876,
       "name": "Spanglish",
       "url": "https://open.spotify.com/track/5uTlnTxi8kQv6EuMvR725n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winners Circle",
+        "url": "https://open.spotify.com/album/0yxlQ39ZbUAqRpjGSC6BJL"
+      },
+      "artists": [
+        {
+          "name": "rexv2",
+          "url": "https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC"
+        }
+      ],
+      "duration_ms": 128026,
+      "name": "CURRY SLIDE",
+      "url": "https://open.spotify.com/track/1SnlLIIiqtnP6o9hEQ8jqE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH"
+      },
+      "artists": [
+        {
+          "name": "Cl4pers",
+          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+        }
+      ],
+      "duration_ms": 163062,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LO NE LY",
+        "url": "https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS"
+      },
+      "artists": [
+        {
+          "name": "Khalil?",
+          "url": "https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz"
+        }
+      ],
+      "duration_ms": 143520,
+      "name": "LO NE LY",
+      "url": "https://open.spotify.com/track/4WLxfQq7p0iyvaoOQLTYyO"
     },
     {
       "added_at": null,
@@ -451,86 +451,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slimebeezy 3",
-        "url": "https://open.spotify.com/album/0g8gja4ZdfXMVK2fWSCbWc"
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
       },
       "artists": [
         {
-          "name": "Slimesito",
-          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
-        },
-        {
-          "name": "BeezyB",
-          "url": "https://open.spotify.com/artist/0beKhPdlNQhonFGiOOJHqi"
+          "name": "Rayy Dubb",
+          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
         }
       ],
-      "duration_ms": 107493,
-      "name": "Hollows Threw His Jacket",
-      "url": "https://open.spotify.com/track/6LhuZdisWyTcMm4ZtLlaB5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LYFE !N GREEN",
-        "url": "https://open.spotify.com/album/2N31HRXVry26aE5r1T5ECq"
-      },
-      "artists": [
-        {
-          "name": "JimiSAG",
-          "url": "https://open.spotify.com/artist/7wE6uom6u4lFCqkvZgBVV9"
-        }
-      ],
-      "duration_ms": 116494,
-      "name": "BUTTERCUP",
-      "url": "https://open.spotify.com/track/5CZnd1cnvccvT0dJVsqdF0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz"
-      },
-      "artists": [
-        {
-          "name": "Desire",
-          "url": "https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3"
-        }
-      ],
-      "duration_ms": 122298,
-      "name": "Outta Time",
-      "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Intervals",
-        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
-      },
-      "artists": [
-        {
-          "name": "\u0141ee",
-          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
-        }
-      ],
-      "duration_ms": 143775,
-      "name": "Intervals",
-      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COPACETIC",
-        "url": "https://open.spotify.com/album/6rqoKKlLhomSjkEXL1NGhD"
-      },
-      "artists": [
-        {
-          "name": "Laylo!!",
-          "url": "https://open.spotify.com/artist/0YBxMclvsTziVtgFLvyQMc"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "BLEACHERS",
-      "url": "https://open.spotify.com/track/3rInIavPYEfe9ljP732aFk"
+      "duration_ms": 165575,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
     },
     {
       "added_at": null,
@@ -551,18 +483,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voices In My Head",
-        "url": "https://open.spotify.com/album/7qGgYsuOOTVWPJgaDebx74"
+        "name": "Intervals",
+        "url": "https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN"
       },
       "artists": [
         {
-          "name": "Rayy Dubb",
-          "url": "https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h"
+          "name": "\u0141ee",
+          "url": "https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz"
         }
       ],
-      "duration_ms": 165575,
-      "name": "Voices In My Head",
-      "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"
+      "duration_ms": 143775,
+      "name": "Intervals",
+      "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slimebeezy 3",
+        "url": "https://open.spotify.com/album/0g8gja4ZdfXMVK2fWSCbWc"
+      },
+      "artists": [
+        {
+          "name": "Slimesito",
+          "url": "https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs"
+        },
+        {
+          "name": "BeezyB",
+          "url": "https://open.spotify.com/artist/0beKhPdlNQhonFGiOOJHqi"
+        }
+      ],
+      "duration_ms": 107493,
+      "name": "Hollows Threw His Jacket",
+      "url": "https://open.spotify.com/track/6LhuZdisWyTcMm4ZtLlaB5"
     },
     {
       "added_at": null,
@@ -583,18 +535,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trifling",
-        "url": "https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e"
+        "name": "LYFE !N GREEN",
+        "url": "https://open.spotify.com/album/2N31HRXVry26aE5r1T5ECq"
       },
       "artists": [
         {
-          "name": "acleast",
-          "url": "https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn"
+          "name": "JimiSAG",
+          "url": "https://open.spotify.com/artist/7wE6uom6u4lFCqkvZgBVV9"
         }
       ],
-      "duration_ms": 211931,
-      "name": "Trifling",
-      "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"
+      "duration_ms": 116494,
+      "name": "BUTTERCUP",
+      "url": "https://open.spotify.com/track/5CZnd1cnvccvT0dJVsqdF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "thinking of you, wherever you are",
+        "url": "https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB"
+      },
+      "artists": [
+        {
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
+        },
+        {
+          "name": "Lil Shadow",
+          "url": "https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf"
+        }
+      ],
+      "duration_ms": 189231,
+      "name": "king of the pumpkin patch",
+      "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
     },
     {
       "added_at": null,
@@ -639,18 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "imposter",
-        "url": "https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m"
+        "name": "Trifling",
+        "url": "https://open.spotify.com/album/1KZ5KtTHYd1qiZjkV9OY4e"
       },
       "artists": [
         {
-          "name": "boolymon",
-          "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
+          "name": "acleast",
+          "url": "https://open.spotify.com/artist/6atHYdLBnY3Lj1DcG6VGFn"
         }
       ],
-      "duration_ms": 108437,
-      "name": "imposter",
-      "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
+      "duration_ms": 211931,
+      "name": "Trifling",
+      "url": "https://open.spotify.com/track/3wMUXSD6foKvnl9asEbEA4"
     },
     {
       "added_at": null,
@@ -667,22 +639,6 @@
       "duration_ms": 141379,
       "name": "Rubbin Of The Pain x New Flesh",
       "url": "https://open.spotify.com/track/6SgxATkTjN7WVowticHoB5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bank Is Open",
-        "url": "https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim"
-      },
-      "artists": [
-        {
-          "name": "Nb Bankz",
-          "url": "https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb"
-        }
-      ],
-      "duration_ms": 138017,
-      "name": "P!NK GUN",
-      "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
     },
     {
       "added_at": null,
@@ -711,6 +667,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bank Is Open",
+        "url": "https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim"
+      },
+      "artists": [
+        {
+          "name": "Nb Bankz",
+          "url": "https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb"
+        }
+      ],
+      "duration_ms": 138017,
+      "name": "P!NK GUN",
+      "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BALL HOGGIN",
+        "url": "https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN"
+      },
+      "artists": [
+        {
+          "name": "Shadstackzz",
+          "url": "https://open.spotify.com/artist/4Iiocuqzvz9MHDLHcQw2Iu"
+        }
+      ],
+      "duration_ms": 108946,
+      "name": "Leave the state",
+      "url": "https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "blood",
         "url": "https://open.spotify.com/album/405osWHgLWlqSiOz7XL0cM"
       },
@@ -723,6 +711,150 @@
       "duration_ms": 138208,
       "name": "blood",
       "url": "https://open.spotify.com/track/373tYv4yykESwVkPjDkuzf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COPACETIC",
+        "url": "https://open.spotify.com/album/6rqoKKlLhomSjkEXL1NGhD"
+      },
+      "artists": [
+        {
+          "name": "Laylo!!",
+          "url": "https://open.spotify.com/artist/0YBxMclvsTziVtgFLvyQMc"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "BLEACHERS",
+      "url": "https://open.spotify.com/track/3rInIavPYEfe9ljP732aFk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Starts Here 2",
+        "url": "https://open.spotify.com/album/4Ld1UydP1EfVCuETjJR824"
+      },
+      "artists": [
+        {
+          "name": "1mirs",
+          "url": "https://open.spotify.com/artist/1jQfAstIhnIaUoEMYaxHSq"
+        },
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        },
+        {
+          "name": "Ybcdul",
+          "url": "https://open.spotify.com/artist/5gMYyYkabVhQUt6FuaUJbC"
+        },
+        {
+          "name": "YoungBagChasers",
+          "url": "https://open.spotify.com/artist/2GzyKAB2qWkYXeuk0RtYYw"
+        }
+      ],
+      "duration_ms": 133815,
+      "name": "Bowls In The Underworld",
+      "url": "https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Matte Black",
+        "url": "https://open.spotify.com/album/0gtnUtIlnfGwtB6kKVKXfv"
+      },
+      "artists": [
+        {
+          "name": "Wastedworld",
+          "url": "https://open.spotify.com/artist/0Lzvwg4vc70l78rbr7gtIr"
+        }
+      ],
+      "duration_ms": 156727,
+      "name": "Matte Black",
+      "url": "https://open.spotify.com/track/4OwEcqvSCRtqR3Hjm51DfP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Off tha Lot (Remix)",
+        "url": "https://open.spotify.com/album/0WaUSZ42kCZAKKwwkRwKtc"
+      },
+      "artists": [
+        {
+          "name": "tr3nt!",
+          "url": "https://open.spotify.com/artist/3HSZDx6CVJuM0FvRqA2RZV"
+        }
+      ],
+      "duration_ms": 114549,
+      "name": "Off tha Lot - Remix",
+      "url": "https://open.spotify.com/track/0YD65NZU1x10Qjzz9JW1PV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "imposter",
+        "url": "https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m"
+      },
+      "artists": [
+        {
+          "name": "boolymon",
+          "url": "https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd"
+        }
+      ],
+      "duration_ms": 108437,
+      "name": "imposter",
+      "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuck Good Business (Remix)",
+        "url": "https://open.spotify.com/album/4mOtiqM6oNfuCQh3vjsVhP"
+      },
+      "artists": [
+        {
+          "name": "jamesstfu",
+          "url": "https://open.spotify.com/artist/0059K1YKhjK2bwNDjvJwEU"
+        },
+        {
+          "name": "Glokk40Spazz",
+          "url": "https://open.spotify.com/artist/5huQelNCoOS0IkUdYUDmgH"
+        }
+      ],
+      "duration_ms": 195433,
+      "name": "Fuck Good Business - Remix",
+      "url": "https://open.spotify.com/track/43McxIOhxbphUzPBUFS2Mk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz"
+      },
+      "artists": [
+        {
+          "name": "Desire",
+          "url": "https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3"
+        }
+      ],
+      "duration_ms": 122298,
+      "name": "Outta Time",
+      "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LORD",
+        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 143112,
+      "name": "Which 1 / Klueless",
+      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
     },
     {
       "added_at": null,
@@ -763,86 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BALL HOGGIN",
-        "url": "https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN"
-      },
-      "artists": [
-        {
-          "name": "Shadstackzz",
-          "url": "https://open.spotify.com/artist/4Iiocuqzvz9MHDLHcQw2Iu"
-        }
-      ],
-      "duration_ms": 108946,
-      "name": "Leave the state",
-      "url": "https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Starts Here 2",
-        "url": "https://open.spotify.com/album/4Ld1UydP1EfVCuETjJR824"
-      },
-      "artists": [
-        {
-          "name": "1mirs",
-          "url": "https://open.spotify.com/artist/1jQfAstIhnIaUoEMYaxHSq"
-        },
-        {
-          "name": "Skrilla",
-          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
-        },
-        {
-          "name": "Ybcdul",
-          "url": "https://open.spotify.com/artist/5gMYyYkabVhQUt6FuaUJbC"
-        },
-        {
-          "name": "YoungBagChasers",
-          "url": "https://open.spotify.com/artist/2GzyKAB2qWkYXeuk0RtYYw"
-        }
-      ],
-      "duration_ms": 133815,
-      "name": "Bowls In The Underworld",
-      "url": "https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuck Good Business (Remix)",
-        "url": "https://open.spotify.com/album/4mOtiqM6oNfuCQh3vjsVhP"
-      },
-      "artists": [
-        {
-          "name": "jamesstfu",
-          "url": "https://open.spotify.com/artist/0059K1YKhjK2bwNDjvJwEU"
-        },
-        {
-          "name": "Glokk40Spazz",
-          "url": "https://open.spotify.com/artist/5huQelNCoOS0IkUdYUDmgH"
-        }
-      ],
-      "duration_ms": 195433,
-      "name": "Fuck Good Business - Remix",
-      "url": "https://open.spotify.com/track/43McxIOhxbphUzPBUFS2Mk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Matte Black",
-        "url": "https://open.spotify.com/album/0gtnUtIlnfGwtB6kKVKXfv"
-      },
-      "artists": [
-        {
-          "name": "Wastedworld",
-          "url": "https://open.spotify.com/artist/0Lzvwg4vc70l78rbr7gtIr"
-        }
-      ],
-      "duration_ms": 156727,
-      "name": "Matte Black",
-      "url": "https://open.spotify.com/track/4OwEcqvSCRtqR3Hjm51DfP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POETRY",
         "url": "https://open.spotify.com/album/15vdbHHoAC9ouX5LzCr5Tz"
       },
@@ -855,62 +907,6 @@
       "duration_ms": 132293,
       "name": "POETRY",
       "url": "https://open.spotify.com/track/7ynWM21CmrgpzyllPO4Rw3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LORD",
-        "url": "https://open.spotify.com/album/6djk4PgDnK96ckGP4ezYBn"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 143112,
-      "name": "Which 1 / Klueless",
-      "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un Verano En Nueva York",
-        "url": "https://open.spotify.com/album/7iUE0seUdcsU6o1XJZXPf6"
-      },
-      "artists": [
-        {
-          "name": "BashfortheWorld",
-          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
-        }
-      ],
-      "duration_ms": 136062,
-      "name": "Moe Texas",
-      "url": "https://open.spotify.com/track/4Q2ZgILbVW5bViFhaRwmnT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIG 3",
-        "url": "https://open.spotify.com/album/0S2GlUSMCxWNpfQ61bAaTu"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Lil Jeff",
-          "url": "https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ"
-        },
-        {
-          "name": "BloodHound Q50",
-          "url": "https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx"
-        },
-        {
-          "name": "Slimeto",
-          "url": "https://open.spotify.com/artist/4y7NSEDlLUWhRxbyr2huV4"
-        }
-      ],
-      "duration_ms": 122483,
-      "name": "BIG 3",
-      "url": "https://open.spotify.com/track/62ymTJhwmpXPb2joOs1grs"
     }
   ],
   "unique_name": "Taewitdak Radio",

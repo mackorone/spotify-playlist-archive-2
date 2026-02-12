@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 337560,
       "name": "Bintang",
       "url": "https://open.spotify.com/track/6Oeukysi7qGU8sVYv6daur"
@@ -6650,7 +6650,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 201653,
       "name": "Eenie Meenie",
       "url": "https://open.spotify.com/track/45O0tUN9Bh6LH4eNxQ07AT"
@@ -9132,6 +9132,24 @@
       "duration_ms": 220630,
       "name": "Happy\u9f99\u9f99Way",
       "url": "https://open.spotify.com/track/6rfNmC2NYj8TKZ8TZyGmtS"
+    },
+    {
+      "album": {
+        "name": "Impian",
+        "url": "https://open.spotify.com/album/1rGFUVZxs41YwTvWv0q0Xt"
+      },
+      "artists": [
+        {
+          "name": "Hyper Act",
+          "url": "https://open.spotify.com/artist/0zo8fkOQyrawuBfIhy99jb"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235563,
+      "name": "Harapan",
+      "url": "https://open.spotify.com/track/6NexU0n0t8nlczyeoAfIwA"
     },
     {
       "album": {
@@ -14544,7 +14562,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 272972,
       "name": "Menjaga Jodoh Orang Lain",
       "url": "https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV"
@@ -15762,7 +15780,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -19632,7 +19650,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 251714,
       "name": "Sempurna",
       "url": "https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,278 likes - 225 songs - 14 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,279 likes - 225 songs - 14 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 18 | [Dexamphetamine](https://open.spotify.com/track/2zhOlkYly1bX1qZmfHoMHl) | [BAYANG \(tha Bushranger\)](https://open.spotify.com/artist/6cAeWipy7tqdKa5mIPHMIY), [Nerdie](https://open.spotify.com/artist/3CMEqt3aTZozLZQHEF56V7) | [Dexamphetamine/Ghola](https://open.spotify.com/album/1pq6xDIqQhoMuFz5KKqIjm) | 2:12 |
 | 19 | [Bizarre Love Triangle](https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 4:23 |
 | 20 | [I Admit My Faults](https://open.spotify.com/track/3DSIcf656zapaB8AwwwfAD) | [Eddy Current Suppression Ring](https://open.spotify.com/artist/6EBtwTGHBGlCKqIvjUwLkW) | [Primary Colours](https://open.spotify.com/album/43zv4ndvCiStc6H0I7hBhB) | 5:25 |
-| 21 | [Red Flags](https://open.spotify.com/track/30SeStbN8prR0nVaI3gY9C) | [Mwayz](https://open.spotify.com/artist/2EYr0y2iynxHcbb6fQ4Emg) | [Red Flags](https://open.spotify.com/album/4mZl5HnuvcEaPiA7mTqzLZ) | 2:46 |
+| 21 | [Red Flags](https://open.spotify.com/track/30SeStbN8prR0nVaI3gY9C) | [Mwayz](https://open.spotify.com/artist/71NWSo3h39h7ymjpUoV6QU) | [Red Flags](https://open.spotify.com/album/4mZl5HnuvcEaPiA7mTqzLZ) | 2:46 |
 | 22 | [Hiwave](https://open.spotify.com/track/4oCtErd8crCg1NX1krGmOe) | [Cy Gorman](https://open.spotify.com/artist/77tdaniijHzDbAtA6xugGu) | [Hiwave](https://open.spotify.com/album/2l6pmxXakAkd92R8dT2v85) | 4:26 |
 | 23 | [Just What You Feelin](https://open.spotify.com/track/7BD1WhQcNiuMHgCVoaSSXp) | [Kemo The Blaxican](https://open.spotify.com/artist/3ARkK5SVTmR3IxAb7pBEyf), [Sen Dog](https://open.spotify.com/artist/5CjSfZN385ZURm90nUeGsN), [tetsuya nakamura](https://open.spotify.com/artist/1EKE99dwDsZ7U2bdEj27Ew) | [Upside of Struggle](https://open.spotify.com/album/3JMvZankZEyNMbGNMADXDf) | 3:50 |
 | 24 | [House Of Jealous Lovers](https://open.spotify.com/track/1bKffBd9glU944RMrWjjky) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/55TVi7WoeMxBOjqEGufOaf) | 5:04 |

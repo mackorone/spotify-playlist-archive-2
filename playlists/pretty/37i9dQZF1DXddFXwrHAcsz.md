@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 80's! Cover: André Hazes
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,476 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,506 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddFXwrHAcsz.md) - [plain]
 | 24 | [Je Veux De L'Amour \- 1990 Remastered Version](https://open.spotify.com/track/1jRIZvUWAojRlMVyxo57VW) | [Raymond Van Het Groenewoud](https://open.spotify.com/artist/535vUcywQfuPaygBIDziaY) | [Meisjes](https://open.spotify.com/album/2G5ENoqQU9fn3IHmOLo05e) | 4:35 |
 | 25 | [Mag Het Licht Uit](https://open.spotify.com/track/7KTLDWQXfA1DBPE98c9JDj) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [100 x De Dijk](https://open.spotify.com/album/4gmTornHQCspqj9RKqKgBL) | 4:19 |
 | 26 | [Winter in Hamburg](https://open.spotify.com/track/3WTD1NqmlaxaI00K2Q1B0Z) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Welkom In Utopia](https://open.spotify.com/album/5OeSXqF6Cp7qr7exlCiiAi) | 5:18 |
-| 27 | [Kleine Jodeljongen](https://open.spotify.com/track/4aR8eGB5hisGkaK4kxGjvK) | [Manke Nelis](https://open.spotify.com/artist/7jGonUtfSFZgtQ6hKbqyBr) | [Hollands Glorie](https://open.spotify.com/album/7fLZFuAvpvpuuOfvDrdwY2) | 2:54 |
-| 28 | [Visite](https://open.spotify.com/track/6NJ6k5hUKG6WHHyaqtUHm1) | [Lenny Kuhr](https://open.spotify.com/artist/42SCqZAVnFo3ocAyO0tDTj), [Les Poppys](https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC) | [Dromentrein](https://open.spotify.com/album/16WwtrQLrcb7NpnPZvfAgD) | 3:18 |
+| 27 | [Visite](https://open.spotify.com/track/6NJ6k5hUKG6WHHyaqtUHm1) | [Lenny Kuhr](https://open.spotify.com/artist/42SCqZAVnFo3ocAyO0tDTj), [Les Poppys](https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC) | [Dromentrein](https://open.spotify.com/album/16WwtrQLrcb7NpnPZvfAgD) | 3:18 |
+| 28 | [Kleine Jodeljongen](https://open.spotify.com/track/4aR8eGB5hisGkaK4kxGjvK) | [Manke Nelis](https://open.spotify.com/artist/7jGonUtfSFZgtQ6hKbqyBr) | [Hollands Glorie](https://open.spotify.com/album/7fLZFuAvpvpuuOfvDrdwY2) | 2:54 |
 | 29 | [Adios Amor](https://open.spotify.com/track/3jhG03tiVOuWS65z5yppK9) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [25 Jaar Mooi Was Die Tijd](https://open.spotify.com/album/1AcHJHnJ0qEDN4D0Ww9Vw8) | 3:28 |
 | 30 | [Ik Kan Het Niet Alleen](https://open.spotify.com/track/6ZdbwRhaM8H1PfyoyxVMNy) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [100 x De Dijk](https://open.spotify.com/album/4gmTornHQCspqj9RKqKgBL) | 3:59 |
 | 31 | [Linda](https://open.spotify.com/track/37sOxkeHNES53xCk6mAK8h) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Onderweg](https://open.spotify.com/album/6BXuGfr12xjWvfQoCnW2ej) | 3:36 |

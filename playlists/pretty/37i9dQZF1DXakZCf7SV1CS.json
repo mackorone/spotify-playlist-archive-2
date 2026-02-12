@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 92398,
+  "num_followers": 92409,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "fuck this town",
-        "url": "https://open.spotify.com/album/33ES0yrXxXqfnmYkPjBx26"
+        "name": "cypress grove",
+        "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
       },
       "artists": [
         {
           "name": "glaive",
           "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        },
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 115875,
-      "name": "fuck this town",
-      "url": "https://open.spotify.com/track/1kADZJDyRUbmlLxYiqi077"
+      "duration_ms": 101938,
+      "name": "astrid",
+      "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -291,18 +287,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "cypress grove",
-        "url": "https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9"
+        "name": "fuck this town",
+        "url": "https://open.spotify.com/album/33ES0yrXxXqfnmYkPjBx26"
       },
       "artists": [
         {
           "name": "glaive",
           "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        },
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
         }
       ],
-      "duration_ms": 101938,
-      "name": "astrid",
-      "url": "https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn"
+      "duration_ms": 115875,
+      "name": "fuck this town",
+      "url": "https://open.spotify.com/track/1kADZJDyRUbmlLxYiqi077"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "bleh",
-        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
-      },
-      "artists": [
-        {
-          "name": "osquinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 167235,
-      "name": "ok im cool",
-      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "punk2",
         "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 222493,
       "name": "rosier/punk2",
       "url": "https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "bleh",
+        "url": "https://open.spotify.com/album/0TadkQAZl1xvNIiguJ9nDi"
+      },
+      "artists": [
+        {
+          "name": "osquinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 167235,
+      "name": "ok im cool",
+      "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "punk2",
+        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 137751,
+      "name": "fwb",
+      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "cloak n dagger",
         "url": "https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 129000,
       "name": "cloak n dagger",
       "url": "https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "punk2",
-        "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 137751,
-      "name": "fwb",
-      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "prism",
-        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
-      },
-      "artists": [
-        {
-          "name": "monty.pk",
-          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
-        }
-      ],
-      "duration_ms": 152967,
-      "name": "prism",
-      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "punk2",
         "url": "https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 157903,
       "name": "fuckboy",
       "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "prism",
+        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
+      },
+      "artists": [
+        {
+          "name": "monty.pk",
+          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
+        }
+      ],
+      "duration_ms": 152967,
+      "name": "prism",
+      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "HIGHSCHOOLUNDEAD",
-        "url": "https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc"
-      },
-      "artists": [
-        {
-          "name": "Kid Trash",
-          "url": "https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "MY WORLD",
-      "url": "https://open.spotify.com/track/1yCD7yJFRBy7EIAd5N9xha"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Drop FM",
         "url": "https://open.spotify.com/album/3At8XHXUbY0BFdl1WJuteP"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 170933,
       "name": "Drop FM",
       "url": "https://open.spotify.com/track/1HRvDMrEj64C6yoJeoH7uu"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "HIGHSCHOOLUNDEAD",
+        "url": "https://open.spotify.com/album/1PfcUcqehTpxk8EplvJQMc"
+      },
+      "artists": [
+        {
+          "name": "Kid Trash",
+          "url": "https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "MY WORLD",
+      "url": "https://open.spotify.com/track/1yCD7yJFRBy7EIAd5N9xha"
     },
     {
       "added_at": "2024-10-09 21:55:22",

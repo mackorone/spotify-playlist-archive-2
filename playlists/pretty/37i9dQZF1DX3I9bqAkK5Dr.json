@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Jagdish Chintala",
-  "num_followers": 43239,
+  "num_followers": 43241,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB/+LIrJb+WyXUF+txVxq9RffYlU",
+  "snapshot_id": "AAAAAEfgdD8oDmwAyOa60r93Tn5wa4aS",
   "tracks": [
     {
       "added_at": "2026-02-06 13:18:20",
@@ -91,6 +91,50 @@
       "duration_ms": 236160,
       "name": "Pagale Jaabili",
       "url": "https://open.spotify.com/track/476UKv6WOa3LCIZ05FhgmN"
+    },
+    {
+      "added_at": "2026-02-11 07:48:58",
+      "album": {
+        "name": "Parvatisha Shivayya (Telugu)",
+        "url": "https://open.spotify.com/album/0PtOU06IPVhm4GxXVsfGfr"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "RG Sarathee",
+          "url": "https://open.spotify.com/artist/6gDxmSG5MI9uerekgteCxO"
+        },
+        {
+          "name": "Dr. Radhagopee",
+          "url": "https://open.spotify.com/artist/3530IXr3qu2H4PqjlQkHRI"
+        }
+      ],
+      "duration_ms": 286363,
+      "name": "Parvatisha Shivayya (Telugu)",
+      "url": "https://open.spotify.com/track/2ETXcSk5S5X9fidFk45imc"
+    },
+    {
+      "added_at": "2025-11-20 07:17:33",
+      "album": {
+        "name": "Shiva Tatvam - The Essence of Shiva",
+        "url": "https://open.spotify.com/album/24pAZUXMHmM3C1Z8h0RzZT"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Usha Prasanna",
+          "url": "https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS"
+        }
+      ],
+      "duration_ms": 148941,
+      "name": "Shiva Tatvam - The Essence of Shiva",
+      "url": "https://open.spotify.com/track/66qGo3BOnP7OjhIKkOHBmr"
     },
     {
       "added_at": "2026-02-06 13:18:20",
@@ -841,26 +885,6 @@
       "url": "https://open.spotify.com/track/5Kt4Ynpxw1dYXjyhxRlcna"
     },
     {
-      "added_at": "2025-05-09 13:40:00",
-      "album": {
-        "name": "Manasu",
-        "url": "https://open.spotify.com/album/7kCsUSSQNGDr0ArNHD8uHy"
-      },
-      "artists": [
-        {
-          "name": "Keethan",
-          "url": "https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ"
-        },
-        {
-          "name": "Pavitra Krishnan",
-          "url": "https://open.spotify.com/artist/6MweA91gS8GfzoAOF7fjCA"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "Manasu",
-      "url": "https://open.spotify.com/track/3Akm212i2lCzxfFnX7Bioe"
-    },
-    {
       "added_at": "2025-10-03 07:11:39",
       "album": {
         "name": "Ganga Pula Bathukamma",
@@ -1311,26 +1335,6 @@
       "duration_ms": 229111,
       "name": "Merise Merupa",
       "url": "https://open.spotify.com/track/1QGpnQE7C3Wt3SYiVY8obx"
-    },
-    {
-      "added_at": "2025-11-20 07:17:33",
-      "album": {
-        "name": "Shiva Tatvam - The Essence of Shiva",
-        "url": "https://open.spotify.com/album/24pAZUXMHmM3C1Z8h0RzZT"
-      },
-      "artists": [
-        {
-          "name": "Krishna Tejasvi",
-          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
-        },
-        {
-          "name": "Usha Prasanna",
-          "url": "https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS"
-        }
-      ],
-      "duration_ms": 148941,
-      "name": "Shiva Tatvam - The Essence of Shiva",
-      "url": "https://open.spotify.com/track/66qGo3BOnP7OjhIKkOHBmr"
     },
     {
       "added_at": "2025-11-18 07:41:24",

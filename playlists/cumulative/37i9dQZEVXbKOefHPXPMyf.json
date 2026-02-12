@@ -10811,6 +10811,24 @@
     },
     {
       "album": {
+        "name": "Zher_1k",
+        "url": "https://open.spotify.com/album/5lKAqaERMxniVvTQvQcoEP"
+      },
+      "artists": [
+        {
+          "name": "Umbreum",
+          "url": "https://open.spotify.com/artist/3eemAvSNPhSLrSXFVEReCg"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253480,
+      "name": "Brillas muy bonito",
+      "url": "https://open.spotify.com/track/0dznVyYhGhitZFRAJIZw5P"
+    },
+    {
+      "album": {
         "name": "Nena Trampa (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM"
       },
@@ -19718,7 +19736,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 162000,
       "name": "Desde Chepe City",
       "url": "https://open.spotify.com/track/50qRaPgOTpgzHfA0ibA79w"
@@ -22020,7 +22038,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -22758,7 +22776,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 259679,
       "name": "El amor no pide",
       "url": "https://open.spotify.com/track/1DljKU05j5sCTYhZXv9skI"
@@ -27181,6 +27199,28 @@
     },
     {
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199415,
+      "name": "Far Away (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/14qNHvX8h6HoynFuV0RxWS"
+    },
+    {
+      "album": {
         "name": "FARDOS",
         "url": "https://open.spotify.com/album/060l6oOdSXc1SUJnQDDpI1"
       },
@@ -29034,6 +29074,24 @@
       "duration_ms": 132294,
       "name": "Fruto",
       "url": "https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45"
+    },
+    {
+      "album": {
+        "name": "FRUTOS VERDADEROS",
+        "url": "https://open.spotify.com/album/2dEDBcIl9kCoY3Fz8ngY1M"
+      },
+      "artists": [
+        {
+          "name": "Cossio",
+          "url": "https://open.spotify.com/artist/0WPWsIPiiFX36FbnTaxpaJ"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143850,
+      "name": "FRUTOS VERDADEROS",
+      "url": "https://open.spotify.com/track/17ru6UkYGvamsH1hnnbFGL"
     },
     {
       "album": {
@@ -32678,6 +32736,24 @@
     {
       "album": {
         "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/0wAf1LaMkHoLN7QL3Dv5fh"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/5IXk34xSm6rxNgXkCveC3r"
+    },
+    {
+      "album": {
+        "name": "Away From The Sun",
         "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
       },
       "artists": [
@@ -32688,7 +32764,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 238733,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
@@ -36582,7 +36658,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
@@ -40189,6 +40265,24 @@
     },
     {
       "album": {
+        "name": "Piss In The Wind",
+        "url": "https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Last of a Dying Breed",
+      "url": "https://open.spotify.com/track/7b9FXvaDafdfqKuoq9ai5Q"
+    },
+    {
+      "album": {
         "name": "Late Mi Nombre En Tu Piel",
         "url": "https://open.spotify.com/album/1o4apB2S367xOmUYzpESKr"
       },
@@ -43446,6 +43540,24 @@
       "duration_ms": 271888,
       "name": "Lukeando - Remix",
       "url": "https://open.spotify.com/track/3WCqhz3sOiO73D28wBFdDt"
+    },
+    {
+      "album": {
+        "name": "Luku",
+        "url": "https://open.spotify.com/album/0A821QnYfkgwMtNrZoWW9D"
+      },
+      "artists": [
+        {
+          "name": "EBOLA MKUU",
+          "url": "https://open.spotify.com/artist/456a89kpBTxyb5UIlbQDcZ"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169696,
+      "name": "Luku",
+      "url": "https://open.spotify.com/track/36zVrc3QTlrDB3QIYowh8F"
     },
     {
       "album": {
@@ -68736,7 +68848,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -73202,7 +73314,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 307199,
       "name": "Te quiero en secreto",
       "url": "https://open.spotify.com/track/3sWwlCVpPjL6OTGLDRfVgH"
@@ -73220,7 +73332,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 288360,
       "name": "Te quiero tanto",
       "url": "https://open.spotify.com/track/3kgS8XT7nXfObvqUfx2m4i"
@@ -82332,7 +82444,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
@@ -83360,7 +83472,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 137195,
       "name": "WYFL",
       "url": "https://open.spotify.com/track/3euDkolyqirQM6DK9HBO8C"

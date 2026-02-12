@@ -1,12 +1,12 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 59901,
+  "num_followers": 59896,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA+ubkdoFKbyyTr6tS7mCmz9vaXC",
+  "snapshot_id": "AAAAAKsn4HcsamHbEVskWPHuCC15PH+3",
   "tracks": [
     {
       "added_at": "2026-02-03 23:00:20",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
-        "name": "Zomernacht In Griekenland",
-        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
-      },
-      "artists": [
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
-        }
-      ],
-      "duration_ms": 167002,
-      "name": "Zomernacht In Griekenland",
-      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
         "name": "Jij en Ik",
         "url": "https://open.spotify.com/album/2fZn6VOg5V3AuudSaM2cfp"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 189739,
       "name": "Jij en Ik",
       "url": "https://open.spotify.com/track/2m1ToXJCTuy72tjWshhiv7"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
+        "name": "Zomernacht In Griekenland",
+        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 167002,
+      "name": "Zomernacht In Griekenland",
+      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
     },
     {
       "added_at": "2026-02-03 23:00:20",

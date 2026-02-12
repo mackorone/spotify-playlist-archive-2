@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Kushagra & Tanishka Bahl
 
-335 songs - 18 hr 26 min
+336 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Aaja](https://open.spotify.com/track/6fauGspZOfBb5REA6GBsLZ) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Aaja](https://open.spotify.com/album/15oUhgmxpbbIVt3M2t3tAP) | 4:13 | 2023-06-26 | 2023-07-01 |
 | [Aakhri Baat](https://open.spotify.com/track/7l2jbJumAMjztS7wHav0Je) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/2VOk3cv9fdpDwzpvi4StBu) | 3:42 | 2025-11-14 |  |
 | [Aao Bhula Dein](https://open.spotify.com/track/67nXL9Yf3zCLt8kmyI5vz2) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Aao Bhula Dein](https://open.spotify.com/album/3d7Oe8nu0J8yNt77PJir7w) | 3:37 | 2024-11-20 | 2025-02-11 |
+| [Aarzu](https://open.spotify.com/track/0wHYuCTWPntEgWiUVED4wB) | [Noor](https://open.spotify.com/artist/7F5LO6TFFBGkRhsQdCcLVm), [Khan](https://open.spotify.com/artist/6Pw5uJLhqmspnTuHchPnmS), [Madhurxo](https://open.spotify.com/artist/0o5KaItv2mU6ACmRP19Qc2) | [Aarzu](https://open.spotify.com/album/0TU6nutUkqYYUqZHeB0JHs) | 3:07 | 2026-02-11 |  |
 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 | 2025-03-13 |  |
 | [Aasmaan Jaley](https://open.spotify.com/track/2dEvh4AAZvD8qwq0VGTAe6) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Aasmaan Jaley](https://open.spotify.com/album/5XydWzMA9SpDyHVi7Z2H6u) | 2:46 | 2023-12-15 | 2026-01-15 |
 | [Aaye Re](https://open.spotify.com/track/7hEJ4dnjlebJZVxWsfZH7n) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Aaye Re](https://open.spotify.com/album/4Qm6trjMbavUh99TWCdHAp) | 4:00 | 2025-11-21 |  |
@@ -308,7 +309,7 @@
 | [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 | 2023-05-02 | 2025-07-26 |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-11-15 | 2024-01-25 |
 | [Tu hai kahan \(feat\. ZAYN\)](https://open.spotify.com/track/7K6RLbkpqZI4OaoSnLcBiU) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Tu hai kahan \(feat\. ZAYN\)](https://open.spotify.com/album/64TpPq3QgOQUaX3GSNMEYt) | 4:29 | 2024-01-19 | 2025-06-26 |
-| [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 | 2025-01-20 |  |
+| [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 | 2025-01-20 | 2026-02-12 |
 | [Tu Hi Hoon](https://open.spotify.com/track/5jXJkm6vmIbtAvHD5QIsa4) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Tu Hi Hoon](https://open.spotify.com/album/6kw8NgTpRYKkyCBe1vma1n) | 3:41 | 2026-02-06 |  |
 | [Tujhi Mein](https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt) | [Saahel](https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r) | [Tujhi Mein](https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag) | 3:05 | 2025-12-19 |  |
 | [Tujhsa Koi](https://open.spotify.com/track/6jaqvNjr73noLIQ9kh29uc) | [Tanzeel Khan](https://open.spotify.com/artist/64Bnlany1OG6esdJyOxyey) | [Tujhsa Koi](https://open.spotify.com/album/6lwcv8iowg548rs9MH0v2p) | 2:51 | 2023-09-21 | 2024-01-06 |

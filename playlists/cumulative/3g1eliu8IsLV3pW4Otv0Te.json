@@ -4981,6 +4981,24 @@
     },
     {
       "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/3Qgjc4vf6ydo0bIs5sixRu"
+      },
+      "artists": [
+        {
+          "name": "JTB x Benji",
+          "url": "https://open.spotify.com/artist/7gHUbwdsaGsnGagVLkBnYp"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152975,
+      "name": "XSCAPE",
+      "url": "https://open.spotify.com/track/7AJmefQDEJ3EorX03iLYN2"
+    },
+    {
+      "album": {
         "name": "Tramp",
         "url": "https://open.spotify.com/album/3QnuwZWMTCeucZI63jcvdN"
       },

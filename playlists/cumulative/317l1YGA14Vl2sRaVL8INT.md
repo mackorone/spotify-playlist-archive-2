@@ -4,7 +4,7 @@
 
 > It's pop punk, it's the best\. From classic hits to new discoveries, featuring Sweet Pill, Neck Deep, Paramore, and way more!
 
-540 songs - 1 day 5 hr 17 min
+541 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:19 | 2023-12-01 | 2024-01-10 |
 | [MIA](https://open.spotify.com/track/0Sr4w53ygTi74PisaRP8HO) | [Anarbor](https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21) | [MIA](https://open.spotify.com/album/7IN1iuvDZf3eL0gKReUP5L) | 3:20 | 2025-04-02 | 2025-06-02 |
 | [Mid\-Life Crisis](https://open.spotify.com/track/4mIPAGHYChqXjnE3iHYisL) | [House Parties](https://open.spotify.com/artist/7KZlkjHhyW3VkxrOVFwGYe) | [Mid\-Life Crisis](https://open.spotify.com/album/2D44ATAYOdYBkz326n0xBR) | 2:56 | 2023-11-14 | 2023-12-02 |
+| [Minnesota Nazis](https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Minnesota Nazis](https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy) | 3:39 | 2026-02-11 |  |
 | [Miracle](https://open.spotify.com/track/1Z8qAOGxSeYXkQ38ZYfiu4) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Miracle](https://open.spotify.com/album/3rkCzlgKkOcWfv0Ya02mGt) | 3:52 | 2024-03-22 | 2025-06-02 |
 | [Miracle](https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Miracle](https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK) | 2:59 | 2023-10-16 | 2023-12-02 |
 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 | 2024-01-09 | 2026-01-15 |

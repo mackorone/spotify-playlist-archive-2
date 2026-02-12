@@ -1,6 +1,6 @@
 {
   "description": "easy breezy music \u2600\ufe0f\u263a\ufe0f",
-  "num_followers": 168506,
+  "num_followers": 168496,
   "original_name": "Chill Dance",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,26 @@
     {
       "added_at": "2026-02-05 23:00:14",
       "album": {
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
+      },
+      "artists": [
+        {
+          "name": "Dela Utca",
+          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
+        },
+        {
+          "name": "SEM",
+          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
+    },
+    {
+      "added_at": "2026-02-05 23:00:14",
+      "album": {
         "name": "Back On Ibiza",
         "url": "https://open.spotify.com/album/3ExNuYLS0KtuM1OJdXQwEj"
       },
@@ -311,22 +331,18 @@
     {
       "added_at": "2026-02-05 23:00:14",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq"
+        "name": "Willing To Lose",
+        "url": "https://open.spotify.com/album/4uPzhveNpN5GMe1j2o7iLr"
       },
       "artists": [
         {
-          "name": "Dela Utca",
-          "url": "https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X"
-        },
-        {
-          "name": "SEM",
-          "url": "https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD"
+          "name": "Alon",
+          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
         }
       ],
-      "duration_ms": 154500,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK"
+      "duration_ms": 140000,
+      "name": "Willing To Lose",
+      "url": "https://open.spotify.com/track/35SzKreqd9kzvbnUFRM0tf"
     },
     {
       "added_at": "2026-02-05 23:00:14",
@@ -351,22 +367,6 @@
     {
       "added_at": "2026-02-05 23:00:14",
       "album": {
-        "name": "Million Dollar Smile",
-        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
-      },
-      "artists": [
-        {
-          "name": "Jorden Dux",
-          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
-        }
-      ],
-      "duration_ms": 148095,
-      "name": "Million Dollar Smile",
-      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
-    },
-    {
-      "added_at": "2026-02-05 23:00:14",
-      "album": {
         "name": "Wait No More",
         "url": "https://open.spotify.com/album/2pN0NBFLGJdHGKcRl2ccTg"
       },
@@ -387,18 +387,18 @@
     {
       "added_at": "2026-02-05 23:00:14",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2tIl7vsgtOgdrGoN9jemW6"
+        "name": "Million Dollar Smile",
+        "url": "https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl"
       },
       "artists": [
         {
-          "name": "REWIND BE KIND",
-          "url": "https://open.spotify.com/artist/3nwbc6lmUsJP2TfaCcMuZo"
+          "name": "Jorden Dux",
+          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
         }
       ],
-      "duration_ms": 262874,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/5bxTXHVddTlCcvPy1YdlNM"
+      "duration_ms": 148095,
+      "name": "Million Dollar Smile",
+      "url": "https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd"
     },
     {
       "added_at": "2026-02-05 23:00:14",
@@ -423,18 +423,18 @@
     {
       "added_at": "2026-02-05 23:00:14",
       "album": {
-        "name": "Willing To Lose",
-        "url": "https://open.spotify.com/album/4uPzhveNpN5GMe1j2o7iLr"
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2tIl7vsgtOgdrGoN9jemW6"
       },
       "artists": [
         {
-          "name": "Alon",
-          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
+          "name": "REWIND BE KIND",
+          "url": "https://open.spotify.com/artist/3nwbc6lmUsJP2TfaCcMuZo"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Willing To Lose",
-      "url": "https://open.spotify.com/track/35SzKreqd9kzvbnUFRM0tf"
+      "duration_ms": 262874,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/5bxTXHVddTlCcvPy1YdlNM"
     },
     {
       "added_at": "2026-02-05 23:00:14",
@@ -583,6 +583,26 @@
     {
       "added_at": "2026-02-05 23:00:14",
       "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
+      },
+      "artists": [
+        {
+          "name": "july",
+          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
+        },
+        {
+          "name": "Chilled Virus",
+          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
+    },
+    {
+      "added_at": "2026-02-05 23:00:14",
+      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/21ptT4ISYfDiAXfRmBtp9w"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 143161,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/400oVcUSO7uYqGSj8KjN8g"
-    },
-    {
-      "added_at": "2026-02-05 23:00:14",
-      "album": {
-        "name": "Lately",
-        "url": "https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY"
-      },
-      "artists": [
-        {
-          "name": "july",
-          "url": "https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77"
-        },
-        {
-          "name": "Chilled Virus",
-          "url": "https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM"
-        }
-      ],
-      "duration_ms": 145573,
-      "name": "Lately",
-      "url": "https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY"
     },
     {
       "added_at": "2026-02-05 23:00:14",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-02-05 23:00:14",
       "album": {
-        "name": "Slowmotion",
-        "url": "https://open.spotify.com/album/6AJGsWEyP8tnC4ZB6jSr9K"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
-        },
-        {
-          "name": "WLZN",
-          "url": "https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Slowmotion",
-      "url": "https://open.spotify.com/track/11v4G7wg4Kql7CgKwpqfe0"
-    },
-    {
-      "added_at": "2026-02-05 23:00:14",
-      "album": {
         "name": "Hold Me Tight",
         "url": "https://open.spotify.com/album/40k7bDPnaMfxP2FLqrd039"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 138516,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/1BS6xdfTHuD0rsbarByQRF"
+    },
+    {
+      "added_at": "2026-02-05 23:00:14",
+      "album": {
+        "name": "Slowmotion",
+        "url": "https://open.spotify.com/album/6AJGsWEyP8tnC4ZB6jSr9K"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        },
+        {
+          "name": "WLZN",
+          "url": "https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Slowmotion",
+      "url": "https://open.spotify.com/track/11v4G7wg4Kql7CgKwpqfe0"
     },
     {
       "added_at": "2026-02-05 23:00:14",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-02-05 23:00:14",
       "album": {
-        "name": "Locked In Paradise",
-        "url": "https://open.spotify.com/album/3ruNkQX7OX7lXxhkiFiGzd"
-      },
-      "artists": [
-        {
-          "name": "KNJA",
-          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Locked In Paradise",
-      "url": "https://open.spotify.com/track/6z6Wyf1By6TZEXs5aBiU9U"
-    },
-    {
-      "added_at": "2026-02-05 23:00:14",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/0jdfbyi8o26wYeT5ZMHN0X"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 137566,
       "name": "Echo",
       "url": "https://open.spotify.com/track/5AjkecsmTEd5H8vvLFgz7F"
+    },
+    {
+      "added_at": "2026-02-05 23:00:14",
+      "album": {
+        "name": "Locked In Paradise",
+        "url": "https://open.spotify.com/album/3ruNkQX7OX7lXxhkiFiGzd"
+      },
+      "artists": [
+        {
+          "name": "KNJA",
+          "url": "https://open.spotify.com/artist/74hLdAwpDYOY02e9vw71f6"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Locked In Paradise",
+      "url": "https://open.spotify.com/track/6z6Wyf1By6TZEXs5aBiU9U"
     },
     {
       "added_at": "2026-02-05 23:00:14",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2026-02-05 23:00:14",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4N5E0IH90NAZbxKVc1n5Sb"
+        "name": "Radiant EP",
+        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
       },
       "artists": [
         {
-          "name": "Jochem Hamerling",
-          "url": "https://open.spotify.com/artist/0NmoVS5ceviB7ewXjElO2p"
+          "name": "Marc Brauner",
+          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
         }
       ],
-      "duration_ms": 148064,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/1E1ZsFKUzgfOfGsIpkbpSo"
+      "duration_ms": 289000,
+      "name": "It's Alright - Original Mix",
+      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
     },
     {
       "added_at": "2026-02-05 23:00:14",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-02-05 23:00:14",
       "album": {
-        "name": "Radiant EP",
-        "url": "https://open.spotify.com/album/43ZuCqtg7zu8dhpvZTJVf2"
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4N5E0IH90NAZbxKVc1n5Sb"
       },
       "artists": [
         {
-          "name": "Marc Brauner",
-          "url": "https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf"
+          "name": "Jochem Hamerling",
+          "url": "https://open.spotify.com/artist/0NmoVS5ceviB7ewXjElO2p"
         }
       ],
-      "duration_ms": 289000,
-      "name": "It's Alright - Original Mix",
-      "url": "https://open.spotify.com/track/3ABPEz0ASeocrzXOHZix5D"
+      "duration_ms": 148064,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/1E1ZsFKUzgfOfGsIpkbpSo"
     },
     {
       "added_at": "2026-02-05 23:00:14",

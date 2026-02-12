@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: maïa
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,907 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,905 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 25 | [stadt der geister](https://open.spotify.com/track/1j0yRrOMlhONZM0QE724uu) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [ich hoff du brichst mir das herz](https://open.spotify.com/album/3ivlFjL0X3qZOdOyRuYtb3) | 2:53 |
 | 26 | [wenn du tanzen willst](https://open.spotify.com/track/6d2WAB7X1v2C1vH4T4OMyw) | [LOTTE](https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3) | [wenn du tanzen willst](https://open.spotify.com/album/7nbCWcBAhSUezN0FUsizng) | 2:54 |
 | 27 | [PINOCCHIO](https://open.spotify.com/track/18tyqyDTt7UqTaVSKc18Bn) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [PINOCCHIO](https://open.spotify.com/album/200tPb3IQw1l3sqqRi4jBk) | 2:42 |
-| 28 | [DER KOPIERER](https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DER KOPIERER](https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I) | 2:59 |
-| 29 | [LIEBE ODER PFLICHT](https://open.spotify.com/track/065HHeAU5OjYWfODBnmWrI) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [LIEBE ODER PFLICHT](https://open.spotify.com/album/60c7iOpvcauQMzC93KHxvp) | 2:19 |
-| 30 | [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 |
-| 31 | [The Currency Is Trust](https://open.spotify.com/track/5CaBvNxQknk4UPZutTvN3G) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [The Currency Is Trust](https://open.spotify.com/album/2xMA3Lghpf7SNAXBmwMMc5) | 2:52 |
+| 28 | [LIEBE ODER PFLICHT](https://open.spotify.com/track/065HHeAU5OjYWfODBnmWrI) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [LIEBE ODER PFLICHT](https://open.spotify.com/album/60c7iOpvcauQMzC93KHxvp) | 2:19 |
+| 29 | [DER KOPIERER](https://open.spotify.com/track/1b2euiTa0jRMG9gpS5rb31) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [DER KOPIERER](https://open.spotify.com/album/12x2TLLtli4npRpONR4G8I) | 2:59 |
+| 30 | [The Currency Is Trust](https://open.spotify.com/track/5CaBvNxQknk4UPZutTvN3G) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [The Currency Is Trust](https://open.spotify.com/album/2xMA3Lghpf7SNAXBmwMMc5) | 2:52 |
+| 31 | [amelie](https://open.spotify.com/track/3eaUEWWH8gSpFp8D1R0Mub) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [amelie](https://open.spotify.com/album/3ThxdYiGV7JEn3ZQFAOvLE) | 2:38 |
 | 32 | [Keiner Weiß](https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [Keiner Weiß](https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk) | 2:48 |
 | 33 | [Disco](https://open.spotify.com/track/1FRIBgDhH2EbRTgRapjkvr) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Disco](https://open.spotify.com/album/39pjEvqZWLa9JtSTvS1b5L) | 3:10 |
 | 34 | [2 wochen](https://open.spotify.com/track/1gR5R1CNB2xG0Bx29NWHS6) | [MELLER](https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9) | [2 wochen](https://open.spotify.com/album/68zcM6bt6lF1S5Ruyk63Xz) | 2:27 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [Nie gleich](https://open.spotify.com/track/2L4a3LqX1r5PPAVvHREKBR) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Nie gleich](https://open.spotify.com/album/5vNAPI9zz7ezRiW0fHirIk) | 3:01 |
 | 41 | [Hair on Coffee](https://open.spotify.com/track/5hKBkozQZ6EykWJawhK5N0) | [Cousines like Shit](https://open.spotify.com/artist/31m36kfWrLAbE0uLkMFBLX), [Farce](https://open.spotify.com/artist/1IOefq76hrfQI27fVDDq7y) | [Hair on Coffee](https://open.spotify.com/album/0cPJmtKNsqpmh6ko412adM) | 3:21 |
 | 42 | [wie ich dich seh](https://open.spotify.com/track/62frCZLAewgAgA7TnKCWPp) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [wie ich dich seh](https://open.spotify.com/album/5hPNFDOgqC7i7qTJIxhMkJ) | 2:43 |
-| 43 | [Falling](https://open.spotify.com/track/6QrY3u0SfUBFWIkjIna4pj) | [Mathilde Nordberg](https://open.spotify.com/artist/2xgNUcY5i1gnyeJX0t8Nc0) | [Falling](https://open.spotify.com/album/6Wzlkgr2yMgMIpLwQitt5V) | 5:27 |
-| 44 | [Willows](https://open.spotify.com/track/14VGSBWTcb72wROtbsKgwT) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Willows](https://open.spotify.com/album/38gK8DUmqBx3NHM5262bWM) | 3:37 |
+| 43 | [Willows](https://open.spotify.com/track/14VGSBWTcb72wROtbsKgwT) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Willows](https://open.spotify.com/album/38gK8DUmqBx3NHM5262bWM) | 3:37 |
+| 44 | [Falling](https://open.spotify.com/track/6QrY3u0SfUBFWIkjIna4pj) | [Mathilde Nordberg](https://open.spotify.com/artist/2xgNUcY5i1gnyeJX0t8Nc0) | [Falling](https://open.spotify.com/album/6Wzlkgr2yMgMIpLwQitt5V) | 5:27 |
 | 45 | [I Like You](https://open.spotify.com/track/3LyfEGL92ao68raLt00NcA) | [Nalan](https://open.spotify.com/artist/7igRCM0XNmC538zmo2tpQR) | [I Like You](https://open.spotify.com/album/2UkI58tJtQUAMmwQgWSw7d) | 1:59 |
 | 46 | [Mad Machine 2.0](https://open.spotify.com/track/677JPKYrexdocBiyVe8yjU) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [Mad Machine 2.0](https://open.spotify.com/album/5rQ6vM1VK9xBVSR6iMpJMc) | 2:41 |
 | 47 | [Bittersweet](https://open.spotify.com/track/2mZ8H8DgGcLHLRTEzP3138) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Bittersweet](https://open.spotify.com/album/3CaXGFfNIM4XgzaD43Wupk) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [180](https://open.spotify.com/track/2RjH4Cwz8bGiYhZ4zu3Fa9) | [Fanny](https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm) | [180](https://open.spotify.com/album/7u0rAQQ0OdLe6I3ySeBflV) | 1:58 |
 | 50 | [du und ich](https://open.spotify.com/track/7smsI2SHOCBlRpIjgsrlch) | [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd) | [Kätzchen & Kettensägen](https://open.spotify.com/album/4UD5zXjtOQnT9ouFy59GFT) | 2:23 |
 
-Snapshot ID: `AAAAAC/X2a2jK/QIFgl70Ki2rPzIUGsV`
+Snapshot ID: `AAAAALgnPE1SUmmkdTD2vHR3MWzpmokr`

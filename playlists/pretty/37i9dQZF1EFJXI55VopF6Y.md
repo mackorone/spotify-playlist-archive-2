@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 16 | [Downtown](https://open.spotify.com/track/7HC2wmjJiRWTafCVJ51fzF) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Downtown](https://open.spotify.com/album/79lxZaUXKearOjAgMsW295) | 2:11 |
 | 17 | [Broken Healing](https://open.spotify.com/track/2Ro5XPGnWXQz2MdL0ZRthK) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Broken Healing](https://open.spotify.com/album/7v4EOQybwO4NYQCWNzVoyD) | 2:58 |
 | 18 | [Your Move](https://open.spotify.com/track/3Rmp4xkxopfS9X86UbaZan) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Your Move](https://open.spotify.com/album/1AQLlITkv6bazdrKg2uyME) | 3:07 |
-| 19 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
-| 20 | [Bredvid dig](https://open.spotify.com/track/0MmxbZFkElphjb7UZT8lAj) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 3:02 |
+| 19 | [Bredvid dig](https://open.spotify.com/track/0MmxbZFkElphjb7UZT8lAj) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 3:02 |
+| 20 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
 | 21 | [Flicker](https://open.spotify.com/track/1zl0VGUES7bvE9mha2L2K2) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Revel](https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ) | 3:17 |
 | 22 | [Snälla berätta för mig](https://open.spotify.com/track/10P8TvdoE4tARfz4JNSm51) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 2:23 |
-| 23 | [Dance All Night](https://open.spotify.com/track/7Krdp9RzlsUtsRxs7Y5wQP) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:55 |
-| 24 | [Blame Game](https://open.spotify.com/track/4qd83UB48FdKq1jcozeLXI) | [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2) | [Blame Game](https://open.spotify.com/album/3n7Vjwe7Jm5PiEdYYpgrih) | 3:32 |
+| 23 | [Blame Game](https://open.spotify.com/track/4qd83UB48FdKq1jcozeLXI) | [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2) | [Blame Game](https://open.spotify.com/album/3n7Vjwe7Jm5PiEdYYpgrih) | 3:32 |
+| 24 | [Dance All Night](https://open.spotify.com/track/7Krdp9RzlsUtsRxs7Y5wQP) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:55 |
 | 25 | [Tack vare dig](https://open.spotify.com/track/2EiimE1BrzD7MWqjrFBSvD) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 2:47 |
 | 26 | [ZÉRO PAR MOIS](https://open.spotify.com/track/2vD8xEcrat0PirO5gAN5kZ) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [POUR DE VRAI](https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5) | 2:21 |
 | 27 | [Dive](https://open.spotify.com/track/6QziVTOnpWNHVpgCOPsABH) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:41 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 50 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 51 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `AcJVFAAAAAAxiLyHSlzKvZ9AWobzjWx7`
+Snapshot ID: `AcJaoAAAAADgdebzaXabrDZCdfbL36rg`

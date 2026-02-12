@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: TWS\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-821 songs - 1 day 20 hr 35 min
+822 songs - 1 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Again](https://open.spotify.com/track/3obitKwgSPRoPGqmWcHD13) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Best Album ‘Needle & Bubble’](https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu) | 3:26 | 2022-03-15 | 2022-04-11 |
 | [AH YEAH](https://open.spotify.com/track/2WDhYlm5gBepkMZHBk0LN7) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [WE](https://open.spotify.com/album/52epM8aF5xCLAtDwbGPeP2) | 2:56 | 2022-01-03 | 2022-04-09 |
 | [ALL FOR YOU](https://open.spotify.com/track/5nHD2GbiDHXc7PF0i3p64I) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [ALL FOR YOU](https://open.spotify.com/album/093T3GW8oztPbgt0y3WYLx) | 4:02 | 2022-03-30 | 2022-04-10 |
+| [All I Need](https://open.spotify.com/track/1L0pXWUh7MmjJ9sEtvbH9W) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<All I Need>](https://open.spotify.com/album/2bGsKrRWnJmhnCdF8gc3uN) | 2:31 | 2026-02-12 |  |
 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 | 2025-04-03 | 2025-05-29 |
 | [Alligator](https://open.spotify.com/track/2pmbxzWBNM6j5p9CQH32f1) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Take.2 We Are Here.](https://open.spotify.com/album/2zLSiu6FFxav0kHP2mUUzM) | 3:12 | 2022-04-04 | 2022-04-21 |
 | [Alone](https://open.spotify.com/track/7qrpkyFfaglH9BfYbppZPH) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [AFTER SUNSET](https://open.spotify.com/album/2aK1LDHsWJUECfRFCgHdyM) | 3:03 | 2022-11-07 | 2022-12-22 |
@@ -607,7 +608,7 @@
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-08 |  |
 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 | 2023-04-30 | 2023-05-10 |
 | [ROSES](https://open.spotify.com/track/6u0b2IZ23RxH18ZsvGRbme) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ROSES](https://open.spotify.com/album/3bIZ5FREocfX2tLIUnnOdr) | 2:21 | 2026-01-23 | 2026-02-05 |
-| [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-03-15 |  |
+| [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-03-15 | 2026-02-12 |
 | [RPM](https://open.spotify.com/track/7b8ZfUQRsc5ebULhUgCyck) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [RPM](https://open.spotify.com/album/3QljHmM1wr3KJ4fLEWFOHx) | 3:21 | 2022-03-22 | 2022-04-08 |
 | [Run Away](https://open.spotify.com/track/4ex5C1JRiY8mVyXCr4ei5T) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [DEAR\. N9NE](https://open.spotify.com/album/3mCKknvSxoGVEv3cE4iqwy) | 3:08 | 2022-03-30 | 2022-04-17 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,103 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,081 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,22 +61,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 51 | [Wolę Cię kochać, niż mieć](https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe) | [Marta Bijan](https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt) | [Wolę Cię kochać, niż mieć](https://open.spotify.com/album/751UQhysLprUGTXrhTrHvP) | 2:57 |
 | 52 | [List z wielkiego miasta](https://open.spotify.com/track/5vAcemWiqZ9V8KXYSfn4WM) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [List z wielkiego miasta](https://open.spotify.com/album/1MUgXGUpJMziJxVAWGTl2i) | 3:57 |
 | 53 | [płuca](https://open.spotify.com/track/2TxsC8ggcshcT7ldo9Oj0f) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [płuca](https://open.spotify.com/album/2nleTUCQmlHT1NFDgCL8LN) | 4:00 |
-| 54 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 |
-| 55 | [Beznamiętnie](https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Beznamiętnie](https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l) | 2:44 |
+| 54 | [Beznamiętnie](https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Beznamiętnie](https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l) | 2:44 |
+| 55 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 |
 | 56 | [Pyszny](https://open.spotify.com/track/62HzWhYc6gFKFxw65riAvt) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [SAFE](https://open.spotify.com/album/0QwkQLmsLskXfYDtLO7H9Z) | 4:20 |
 | 57 | [warszawska fantazja](https://open.spotify.com/track/3kmiK0nFMkIRBpU9tQdd32) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [warszawska fantazja](https://open.spotify.com/album/638cXSDmgC9JSmxev4heIT) | 3:23 |
-| 58 | [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 |
+| 58 | [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 |
 | 59 | [teeth](https://open.spotify.com/track/7sPPN3NNDLhQY1Eu6Ot0Da) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [\(my world is an\) oyster](https://open.spotify.com/album/5KmSOOkB1iNgd3ZBhMgmB2) | 2:58 |
-| 60 | [Odpłyń](https://open.spotify.com/track/74rztz1PxcP0GWS6HjV4ep) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Nie chcę być tu sama](https://open.spotify.com/album/62iR9FAdWP5sG9LWO7AiMn) | 4:09 |
+| 60 | [Die On This Hill](https://open.spotify.com/track/0l72HGRQkAR0imHxvpLi8a) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/5pIGU5FZ74YPdUrBdk9lcC) | 3:37 |
 | 61 | [Soft Spot](https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Soft Spot](https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3) | 4:02 |
 | 62 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
 | 63 | [Będę twoją Sylvią Plath](https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Będę twoją Sylvią Plath](https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y) | 3:10 |
 | 64 | [Jeśli ma się skończyć świat](https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Jeśli ma się skończyć świat](https://open.spotify.com/album/7KJsWMtM5jpPulsi70oFCj) | 3:16 |
-| 65 | [PRZEPRASZAM](https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [PRZEPRASZAM](https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj) | 2:37 |
-| 66 | [Plastelina](https://open.spotify.com/track/4RBBY31Wiola233RK0hnDu) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Plastelina](https://open.spotify.com/album/0c0Oqs1JYnqh55cyHnmv24) | 5:11 |
-| 67 | [Może wolniej](https://open.spotify.com/track/6PM2WnI82OpoQAN3eWqTMi) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Może wolniej](https://open.spotify.com/album/51gwYmWzH81RaKsDL5KXfa) | 2:25 |
-| 68 | [GODSPEED](https://open.spotify.com/track/4cYDTIDr19K7eHfVD9zMJA) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [GODSPEED](https://open.spotify.com/album/4V8nHlud02hz69Cqwoah2q) | 3:13 |
+| 65 | [Może wolniej](https://open.spotify.com/track/6PM2WnI82OpoQAN3eWqTMi) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Może wolniej](https://open.spotify.com/album/51gwYmWzH81RaKsDL5KXfa) | 2:25 |
+| 66 | [PRZEPRASZAM](https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [PRZEPRASZAM](https://open.spotify.com/album/2tWlDdSh6N81GJxhJVPPVj) | 2:37 |
+| 67 | [GODSPEED](https://open.spotify.com/track/4cYDTIDr19K7eHfVD9zMJA) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [GODSPEED](https://open.spotify.com/album/4V8nHlud02hz69Cqwoah2q) | 3:13 |
+| 68 | [Plastelina](https://open.spotify.com/track/4RBBY31Wiola233RK0hnDu) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Plastelina](https://open.spotify.com/album/0c0Oqs1JYnqh55cyHnmv24) | 5:11 |
 | 69 | [Miasto](https://open.spotify.com/track/2knk9eGNdMPy4kgJC3olvv) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Miasto](https://open.spotify.com/album/6MD6VMlJ1Rd70BdCkbHr5m) | 2:36 |
-| 70 | [Landline](https://open.spotify.com/track/6ZYd325kD9ACM0gUyZnbvL) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Landline](https://open.spotify.com/album/1aQLV1BGKv2ON3PhvKNnCR) | 3:04 |
+| 70 | [Ostatni dzień lata](https://open.spotify.com/track/4WF2CXSyL1vgcNohuSC9XT) | [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [Ostatni dzień lata](https://open.spotify.com/album/0YcboQK6yPH31Qj3dOtKS6) | 3:19 |
 
 Snapshot ID: `AAAAAC27bWKt039NWIOeMAlTGUuh2PVU`

@@ -1,6 +1,6 @@
 {
   "description": "Sleep is the best Medicine",
-  "num_followers": 54860,
+  "num_followers": 54870,
   "original_name": "Nidra",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAGEJzoj1rNFc2jbDYmEtpgdyzQ4n",
   "tracks": [
-    {
-      "added_at": "2025-10-08 09:42:22",
-      "album": {
-        "name": "Soft Promise",
-        "url": "https://open.spotify.com/album/3a5Ikq3DOewurQMg8cEkUT"
-      },
-      "artists": [
-        {
-          "name": "Somniare",
-          "url": "https://open.spotify.com/artist/2upTpHOyJdpbwlQABrjhQn"
-        }
-      ],
-      "duration_ms": 143773,
-      "name": "Soft Promise",
-      "url": "https://open.spotify.com/track/1TADU6caSDbS08PrFcAoZD"
-    },
     {
       "added_at": "2025-10-08 09:42:22",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 130005,
       "name": "Wandering Mind",
       "url": "https://open.spotify.com/track/151OFRtXoCNmcfpuAU6OGV"
+    },
+    {
+      "added_at": "2025-10-08 09:42:22",
+      "album": {
+        "name": "Soft Promise",
+        "url": "https://open.spotify.com/album/3a5Ikq3DOewurQMg8cEkUT"
+      },
+      "artists": [
+        {
+          "name": "Somniare",
+          "url": "https://open.spotify.com/artist/2upTpHOyJdpbwlQABrjhQn"
+        }
+      ],
+      "duration_ms": 143773,
+      "name": "Soft Promise",
+      "url": "https://open.spotify.com/track/1TADU6caSDbS08PrFcAoZD"
     },
     {
       "added_at": "2025-10-08 09:42:22",
@@ -91,22 +91,6 @@
     {
       "added_at": "2025-10-08 09:42:22",
       "album": {
-        "name": "Gently Sleeping",
-        "url": "https://open.spotify.com/album/2zQYrecTWlgvKKoN29hp9M"
-      },
-      "artists": [
-        {
-          "name": "Soothing Oasis",
-          "url": "https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr"
-        }
-      ],
-      "duration_ms": 131259,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/1TRFkS5ljjNjqI9Lu66Bxg"
-    },
-    {
-      "added_at": "2025-10-08 09:42:22",
-      "album": {
         "name": "Cosmic Sleep",
         "url": "https://open.spotify.com/album/4aRxxUQgRZU2QeKugdIION"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 134005,
       "name": "Cosmic Sleep",
       "url": "https://open.spotify.com/track/2SoGbdgUCZbHQb8VQ2DKGD"
+    },
+    {
+      "added_at": "2025-10-08 09:42:22",
+      "album": {
+        "name": "Gently Sleeping",
+        "url": "https://open.spotify.com/album/2zQYrecTWlgvKKoN29hp9M"
+      },
+      "artists": [
+        {
+          "name": "Soothing Oasis",
+          "url": "https://open.spotify.com/artist/1HON4xJAWJNuUpb6G64bNr"
+        }
+      ],
+      "duration_ms": 131259,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/1TRFkS5ljjNjqI9Lu66Bxg"
     },
     {
       "added_at": "2025-10-08 09:42:22",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Newborn Soul",
-        "url": "https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR"
-      },
-      "artists": [
-        {
-          "name": "Tejal Yann",
-          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
-        }
-      ],
-      "duration_ms": 247257,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "In the Far Away Distance",
         "url": "https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 176878,
       "name": "In the Far Away Distance",
       "url": "https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Newborn Soul",
+        "url": "https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR"
+      },
+      "artists": [
+        {
+          "name": "Tejal Yann",
+          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
+        }
+      ],
+      "duration_ms": 247257,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -579,22 +579,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Night Walk",
-        "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
-      },
-      "artists": [
-        {
-          "name": "Gavin Luke",
-          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
-        }
-      ],
-      "duration_ms": 140585,
-      "name": "Night Walk",
-      "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Envision",
         "url": "https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 143000,
       "name": "Vague",
       "url": "https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Night Walk",
+        "url": "https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "duration_ms": 140585,
+      "name": "Night Walk",
+      "url": "https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -707,6 +707,22 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5"
+      },
+      "artists": [
+        {
+          "name": "Novo Talos",
+          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
+        }
+      ],
+      "duration_ms": 127892,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
         "name": "More than Close",
         "url": "https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq"
       },
@@ -739,22 +755,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5"
-      },
-      "artists": [
-        {
-          "name": "Novo Talos",
-          "url": "https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea"
-        }
-      ],
-      "duration_ms": 127892,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Anjali",
         "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 325400,
       "name": "The Breath Inside the Breath",
       "url": "https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
-        "name": "Lovely Thunder",
-        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "Olancha Farewell",
-      "url": "https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -815,6 +799,22 @@
       "duration_ms": 278797,
       "name": "Buenas Noches",
       "url": "https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Lovely Thunder",
+        "url": "https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "Olancha Farewell",
+      "url": "https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -875,22 +875,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Floating, Always",
-        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
-      },
-      "artists": [
-        {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
-        }
-      ],
-      "duration_ms": 137172,
-      "name": "Astral Therapy",
-      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Dulces Sue\u00f1os",
         "url": "https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 245514,
       "name": "Dulces Sue\u00f1os",
       "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Floating, Always",
+        "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
+      },
+      "artists": [
+        {
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+        }
+      ],
+      "duration_ms": 137172,
+      "name": "Astral Therapy",
+      "url": "https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -923,22 +923,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
-      },
-      "artists": [
-        {
-          "name": "Sufi Ellman",
-          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
-        }
-      ],
-      "duration_ms": 135903,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "After The Silence",
         "url": "https://open.spotify.com/album/1zlRkcTT8C6Jaaq9sfYS1o"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP"
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2"
       },
       "artists": [
         {
-          "name": "The Tides",
-          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
+          "name": "Sufi Ellman",
+          "url": "https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Your Peace",
-      "url": "https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv"
+      "duration_ms": 135903,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -983,6 +967,22 @@
       "duration_ms": 146624,
       "name": "Violin Lullaby",
       "url": "https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/6V5ozm35KOvFwt8bSX79MP"
+      },
+      "artists": [
+        {
+          "name": "The Tides",
+          "url": "https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Your Peace",
+      "url": "https://open.spotify.com/track/65AHFH7pRxxMrFDsFVH5Hv"
     },
     {
       "added_at": "2021-06-24 10:58:44",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-06-24 10:58:44",
       "album": {
-        "name": "Seasons Changing",
-        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 119080,
-      "name": "The Great Plains Hymn",
-      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
-    },
-    {
-      "added_at": "2021-06-24 10:58:44",
-      "album": {
         "name": "Anjali",
         "url": "https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 258973,
       "name": "Priya (Beloved)",
       "url": "https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7"
+    },
+    {
+      "added_at": "2021-06-24 10:58:44",
+      "album": {
+        "name": "Seasons Changing",
+        "url": "https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu"
+      },
+      "artists": [
+        {
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
+        }
+      ],
+      "duration_ms": 119080,
+      "name": "The Great Plains Hymn",
+      "url": "https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1"
     },
     {
       "added_at": "2021-06-24 10:58:44",

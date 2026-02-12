@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104831,
+  "num_followers": 104823,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-02-05 22:00:28",
       "album": {
+        "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
+        "url": "https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega"
+      },
+      "artists": [
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "duration_ms": 156214,
+      "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
+      "url": "https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8"
+    },
+    {
+      "added_at": "2026-02-05 22:00:28",
+      "album": {
         "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
         "url": "https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 144705,
       "name": "Yksin t\u00e4\u00e4l (feat. Lauri Haav)",
       "url": "https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS"
-    },
-    {
-      "added_at": "2026-02-05 22:00:28",
-      "album": {
-        "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
-        "url": "https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega"
-      },
-      "artists": [
-        {
-          "name": "Bizi",
-          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
-        }
-      ],
-      "duration_ms": 156214,
-      "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
-      "url": "https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8"
     },
     {
       "added_at": "2026-02-05 22:00:28",
@@ -407,6 +407,30 @@
     {
       "added_at": "2026-02-05 22:00:28",
       "album": {
+        "name": "PETSHOP",
+        "url": "https://open.spotify.com/album/57iAh3QvNudObASmZccMzD"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        },
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        },
+        {
+          "name": "Senya",
+          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "PETSHOP",
+      "url": "https://open.spotify.com/track/1pEhxch5kmJr2RbMKoNguI"
+    },
+    {
+      "added_at": "2026-02-05 22:00:28",
+      "album": {
         "name": "Solmui",
         "url": "https://open.spotify.com/album/6E9L8ggYR2mZfSUEcdehNO"
       },
@@ -419,6 +443,26 @@
       "duration_ms": 198409,
       "name": "Solmui",
       "url": "https://open.spotify.com/track/3mJi3jC4UzeFKU3SOyNqna"
+    },
+    {
+      "added_at": "2026-02-05 22:00:28",
+      "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+        }
+      ],
+      "duration_ms": 233984,
+      "name": "Veitsi",
+      "url": "https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH"
     },
     {
       "added_at": "2026-02-05 22:00:28",
@@ -451,50 +495,6 @@
       "duration_ms": 201037,
       "name": "MEININKI",
       "url": "https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7"
-    },
-    {
-      "added_at": "2026-02-05 22:00:28",
-      "album": {
-        "name": "Aris",
-        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "MELO",
-          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
-        }
-      ],
-      "duration_ms": 233984,
-      "name": "Veitsi",
-      "url": "https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH"
-    },
-    {
-      "added_at": "2026-02-05 22:00:28",
-      "album": {
-        "name": "PETSHOP",
-        "url": "https://open.spotify.com/album/57iAh3QvNudObASmZccMzD"
-      },
-      "artists": [
-        {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
-        },
-        {
-          "name": "OLGA",
-          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
-        },
-        {
-          "name": "Senya",
-          "url": "https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "PETSHOP",
-      "url": "https://open.spotify.com/track/1pEhxch5kmJr2RbMKoNguI"
     },
     {
       "added_at": "2026-02-05 22:00:28",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-02-05 22:00:28",
       "album": {
-        "name": "Unitas Sigma",
-        "url": "https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt"
-      },
-      "artists": [
-        {
-          "name": "Etta",
-          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
-        },
-        {
-          "name": "Cheek",
-          "url": "https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO"
-        }
-      ],
-      "duration_ms": 172949,
-      "name": "Syyp\u00e4\u00e4 sun hymyyn - Unitas Sigma",
-      "url": "https://open.spotify.com/track/2Qav0ElkVHapWOP3fRKcYX"
-    },
-    {
-      "added_at": "2026-02-05 22:00:28",
-      "album": {
         "name": "OMG (feat. Evelina)",
         "url": "https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d"
       },
@@ -831,6 +811,26 @@
     {
       "added_at": "2026-02-05 22:00:28",
       "album": {
+        "name": "Unitas Sigma",
+        "url": "https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        },
+        {
+          "name": "Cheek",
+          "url": "https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO"
+        }
+      ],
+      "duration_ms": 172949,
+      "name": "Syyp\u00e4\u00e4 sun hymyyn - Unitas Sigma",
+      "url": "https://open.spotify.com/track/2Qav0ElkVHapWOP3fRKcYX"
+    },
+    {
+      "added_at": "2026-02-05 22:00:28",
+      "album": {
         "name": "Poikii on",
         "url": "https://open.spotify.com/album/6TVWI8u2gbQnl5jXBtOb56"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-02-05 22:00:28",
       "album": {
-        "name": "L\u00e4\u00e4ke (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
-        "url": "https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        }
-      ],
-      "duration_ms": 167838,
-      "name": "L\u00e4\u00e4ke (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
-      "url": "https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm"
-    },
-    {
-      "added_at": "2026-02-05 22:00:28",
-      "album": {
         "name": "K\u00e4vin t\u00e4\u00e4l",
         "url": "https://open.spotify.com/album/0PQumKfngEJqgMgCDV9BWC"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 140296,
       "name": "K\u00e4vin t\u00e4\u00e4l",
       "url": "https://open.spotify.com/track/4SMRzU9943uromfmKU7jim"
+    },
+    {
+      "added_at": "2026-02-05 22:00:28",
+      "album": {
+        "name": "L\u00e4\u00e4ke (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/6q7AseIG8cZx1N9RqlY9tL"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "duration_ms": 167838,
+      "name": "L\u00e4\u00e4ke (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/1ieDBPzqG7gjiTMacM9ftm"
     },
     {
       "added_at": "2026-02-05 22:00:28",

@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 11884,
+  "num_followers": 11888,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-02-10 05:29:01",
       "album": {
+        "name": "A-TEEN Part. 2",
+        "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
+      },
+      "artists": [
+        {
+          "name": "So Soo Bin",
+          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
+        }
+      ],
+      "duration_ms": 204942,
+      "name": "I'II be your star",
+      "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
+    },
+    {
+      "added_at": "2026-02-10 05:29:01",
+      "album": {
         "name": "Episode 25",
         "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 170000,
       "name": "Message (with Gist)",
       "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
-    },
-    {
-      "added_at": "2026-02-10 05:29:01",
-      "album": {
-        "name": "A-TEEN Part. 2",
-        "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
-      },
-      "artists": [
-        {
-          "name": "So Soo Bin",
-          "url": "https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic"
-        }
-      ],
-      "duration_ms": 204942,
-      "name": "I'II be your star",
-      "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
     },
     {
       "added_at": "2026-02-10 05:29:01",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-02-10 05:29:01",
       "album": {
-        "name": "Before the Petals Fall",
-        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Before the Petals Fall",
-      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
-    },
-    {
-      "added_at": "2026-02-10 05:29:01",
-      "album": {
         "name": "[ MAL ]",
         "url": "https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 147903,
       "name": "9 to 2",
       "url": "https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS"
+    },
+    {
+      "added_at": "2026-02-10 05:29:01",
+      "album": {
+        "name": "Before the Petals Fall",
+        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Before the Petals Fall",
+      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
     },
     {
       "added_at": "2026-02-10 05:29:01",
@@ -783,18 +783,18 @@
     {
       "added_at": "2026-02-10 05:29:01",
       "album": {
-        "name": "Introverted Us X Rothy (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3YpsY8C48pbYTplvZgddkw"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0CWiteWy2CGtpJTsHqmhms"
       },
       "artists": [
         {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Innocent.exe",
-      "url": "https://open.spotify.com/track/159WRqvjKuDcItE2g0pWQp"
+      "duration_ms": 173106,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3r8ySXFh7glcKFij6LUzCz"
     },
     {
       "added_at": "2026-02-10 05:29:01",
@@ -819,18 +819,18 @@
     {
       "added_at": "2026-02-10 05:29:01",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/0CWiteWy2CGtpJTsHqmhms"
+        "name": "Introverted Us X Rothy (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3YpsY8C48pbYTplvZgddkw"
       },
       "artists": [
         {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
         }
       ],
-      "duration_ms": 173106,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/3r8ySXFh7glcKFij6LUzCz"
+      "duration_ms": 196000,
+      "name": "Innocent.exe",
+      "url": "https://open.spotify.com/track/159WRqvjKuDcItE2g0pWQp"
     },
     {
       "added_at": "2026-02-10 05:29:01",

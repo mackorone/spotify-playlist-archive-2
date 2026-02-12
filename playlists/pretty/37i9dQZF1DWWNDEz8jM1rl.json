@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 153790,
+  "num_followers": 153822,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 254135,
-      "name": "Antes Que Salga El Sol",
-      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Gozo Yo Quer\u00eda",
         "url": "https://open.spotify.com/album/4lwDrOcwReevw8i5y0rhL7"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 195760,
       "name": "Gozo Yo Quer\u00eda",
       "url": "https://open.spotify.com/track/6WBzmHtKqAcv295zwIWwa6"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 254135,
+      "name": "Antes Que Salga El Sol",
+      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Para Mi Familia",
-        "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
       },
       "artists": [
         {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
         }
       ],
-      "duration_ms": 235132,
-      "name": "Para Mi Familia",
-      "url": "https://open.spotify.com/track/1qNE7QsxoOwLHKGfHYb8NG"
+      "duration_ms": 142306,
+      "name": "Gracia Divina",
+      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -871,34 +871,18 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
+        "name": "Para Mi Familia",
+        "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
       },
       "artists": [
         {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
         }
       ],
-      "duration_ms": 142306,
-      "name": "Gracia Divina",
-      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Un Gran Dia",
-        "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
-      },
-      "artists": [
-        {
-          "name": "Dani Senay",
-          "url": "https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "Un Gran Dia",
-      "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
+      "duration_ms": 235132,
+      "name": "Para Mi Familia",
+      "url": "https://open.spotify.com/track/1qNE7QsxoOwLHKGfHYb8NG"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -915,6 +899,22 @@
       "duration_ms": 291112,
       "name": "Veo Tu Gloria",
       "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Un Gran Dia",
+        "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
+      },
+      "artists": [
+        {
+          "name": "Dani Senay",
+          "url": "https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "Un Gran Dia",
+      "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "BUENO",
-        "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
-      },
-      "artists": [
-        {
-          "name": "Nate Diaz",
-          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
-        },
-        {
-          "name": "Isaani Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk"
-        }
-      ],
-      "duration_ms": 168214,
-      "name": "BUENO",
-      "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "SMC",
         "url": "https://open.spotify.com/album/64cOmXs4LduN3vgXiUnNrn"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 163200,
       "name": "SMC",
       "url": "https://open.spotify.com/track/53Rb7O0Khyu3n0yx9kgHpk"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "BUENO",
+        "url": "https://open.spotify.com/album/3KkIKPzguKWwH8a8Cn9QqG"
+      },
+      "artists": [
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        },
+        {
+          "name": "Isaani Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/4x8OSQZsomr7H00K1sBCbk"
+        }
+      ],
+      "duration_ms": 168214,
+      "name": "BUENO",
+      "url": "https://open.spotify.com/track/4FJK8XrXrHLSbO25WLduz8"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Bueno",
-        "url": "https://open.spotify.com/album/7mX06PtvfDeBhuORXU96z3"
-      },
-      "artists": [
-        {
-          "name": "Omar Salas",
-          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
-        }
-      ],
-      "duration_ms": 175636,
-      "name": "Bueno",
-      "url": "https://open.spotify.com/track/52vDuygHaa5PnaW0as9jzy"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Llegaron Los Cristianos",
         "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 160169,
       "name": "Cristo Cambia",
       "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Bueno",
+        "url": "https://open.spotify.com/album/7mX06PtvfDeBhuORXU96z3"
+      },
+      "artists": [
+        {
+          "name": "Omar Salas",
+          "url": "https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd"
+        }
+      ],
+      "duration_ms": 175636,
+      "name": "Bueno",
+      "url": "https://open.spotify.com/track/52vDuygHaa5PnaW0as9jzy"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Mes\u00edas",
+        "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
+      },
+      "artists": [
+        {
+          "name": "Dexter Music",
+          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
+        }
+      ],
+      "duration_ms": 324017,
+      "name": "Mes\u00edas",
+      "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Momentos felices",
         "url": "https://open.spotify.com/album/06ZU19SJRWpFPv3PBJW4Dc"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 166285,
       "name": "Momentos felices",
       "url": "https://open.spotify.com/track/6ZxXGMEsOgsGgZENDviYJA"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Mes\u00edas",
-        "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
-      },
-      "artists": [
-        {
-          "name": "Dexter Music",
-          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
-        }
-      ],
-      "duration_ms": 324017,
-      "name": "Mes\u00edas",
-      "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Siempre y Nunca",
-        "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
-      },
-      "artists": [
-        {
-          "name": "MR. Yeison",
-          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
-        },
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "Siempre y Nunca",
-      "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Mmm",
         "url": "https://open.spotify.com/album/0OljsmkqrW9jqaRD6ZF6dW"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 142758,
       "name": "Mmm",
       "url": "https://open.spotify.com/track/1p5lFrpK7PzRe7WbY2Fx9K"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Siempre y Nunca",
+        "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
+      },
+      "artists": [
+        {
+          "name": "MR. Yeison",
+          "url": "https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "Siempre y Nunca",
+      "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "SE\u00d1ALES",
+        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
+      },
+      "artists": [
+        {
+          "name": "Lilo Music",
+          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+        }
+      ],
+      "duration_ms": 135737,
+      "name": "TE ENCONTRE",
+      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Mi Mirada",
         "url": "https://open.spotify.com/album/41nYMA0ykfkD7j3khXmZLd"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 156923,
       "name": "Mi Mirada",
       "url": "https://open.spotify.com/track/2KojT5AmnP2svXb54UMuHZ"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "SE\u00d1ALES",
-        "url": "https://open.spotify.com/album/32vBL6gW4fNNAlLRvVXTdC"
-      },
-      "artists": [
-        {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
-        }
-      ],
-      "duration_ms": 135737,
-      "name": "TE ENCONTRE",
-      "url": "https://open.spotify.com/track/3f6EjbsN0NBnGXDpwXbW1w"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1607,22 +1607,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Alegr\u00eda y Gozo 2020",
-        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
+        "name": "Jesucristo Me Toco (En Vivo)",
+        "url": "https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX"
       },
       "artists": [
         {
-          "name": "Banda Alternativa",
-          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
+          "name": "Os Almirantes",
+          "url": "https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL"
         },
         {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
         }
       ],
-      "duration_ms": 229272,
-      "name": "Una Se\u00f1al - En Vivo",
-      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
+      "duration_ms": 219559,
+      "name": "Jesucristo Me Toco - En Vivo",
+      "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1647,22 +1647,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Jesucristo Me Toco (En Vivo)",
-        "url": "https://open.spotify.com/album/2NP0fYbcms52HQgQlticFX"
+        "name": "Alegr\u00eda y Gozo 2020",
+        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
       },
       "artists": [
         {
-          "name": "Os Almirantes",
-          "url": "https://open.spotify.com/artist/74ReARocd6ltxnTFfPaEGL"
+          "name": "Banda Alternativa",
+          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
         },
         {
-          "name": "Los Rabanes",
-          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
         }
       ],
-      "duration_ms": 219559,
-      "name": "Jesucristo Me Toco - En Vivo",
-      "url": "https://open.spotify.com/track/3ykdbXSC9DYF3CXqlvCs3J"
+      "duration_ms": 229272,
+      "name": "Una Se\u00f1al - En Vivo",
+      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
+      },
+      "artists": [
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Todito",
         "url": "https://open.spotify.com/album/6PxTla2EDT4ShO1hH3YJtn"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 163839,
       "name": "Todito",
       "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
-      },
-      "artists": [
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1803,6 +1803,26 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Estar\u00e9",
+        "url": "https://open.spotify.com/album/0kiw6GLteyZ6UG6Xfv7z6A"
+      },
+      "artists": [
+        {
+          "name": "Brional in Time",
+          "url": "https://open.spotify.com/artist/2xIZwSIAi04h7whdRabtTb"
+        },
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Estar\u00e9",
+      "url": "https://open.spotify.com/track/6kW2XC8ScmC9FRdtfXyEZb"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Volver\u00e1",
         "url": "https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7"
       },
@@ -1827,26 +1847,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Estar\u00e9",
-        "url": "https://open.spotify.com/album/0kiw6GLteyZ6UG6Xfv7z6A"
-      },
-      "artists": [
-        {
-          "name": "Brional in Time",
-          "url": "https://open.spotify.com/artist/2xIZwSIAi04h7whdRabtTb"
-        },
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Estar\u00e9",
-      "url": "https://open.spotify.com/track/6kW2XC8ScmC9FRdtfXyEZb"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Todo Te Lo Debo a T\u00ed",
         "url": "https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6"
       },
@@ -1863,22 +1863,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "SE\u00d1ALES (REMIX)",
-        "url": "https://open.spotify.com/album/73AtKrcy1EeMGnXMX0v1bM"
+        "name": "Cristiano y ya",
+        "url": "https://open.spotify.com/album/17sOuy0hdlM5NJvp1PoMCb"
       },
       "artists": [
         {
-          "name": "Lilo Music",
-          "url": "https://open.spotify.com/artist/5Ohvie2JLowLLNB7SdTvEd"
+          "name": "Lexico Ht",
+          "url": "https://open.spotify.com/artist/43gcza4NZTYkpI5IVt2T9m"
         },
         {
-          "name": "BOUE",
-          "url": "https://open.spotify.com/artist/3FluCCMmkHvMQMCI4KwMAH"
+          "name": "Recio DC",
+          "url": "https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd"
         }
       ],
-      "duration_ms": 133846,
-      "name": "SE\u00d1ALES - REMIX",
-      "url": "https://open.spotify.com/track/5eCA0Ler7a6U4cAbSXJzCK"
+      "duration_ms": 141057,
+      "name": "Cristiano y ya",
+      "url": "https://open.spotify.com/track/37drRx6h3HkucekEbC9GVX"
     }
   ],
   "unique_name": "Fiesta Cristiana",

@@ -592,7 +592,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 277894,
       "name": "Careful Mind (Delta 83 Hz - 84 Hz)",
       "url": "https://open.spotify.com/track/37QKoaOOqKqS7khtF4KNRT"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 184000,
       "name": "Delta Pattern 101.0 Hz - 103.0 Hz",
       "url": "https://open.spotify.com/track/6ZG23W2shJNTChsot9DZlc"
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 124087,
       "name": "Delta Sinus Noise Pad",
       "url": "https://open.spotify.com/track/7sKPbqAPAP4llKXGEXqCaH"
@@ -2145,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "Desolate Land Delta 92.2-93.7",
+        "url": "https://open.spotify.com/album/2c5BGGnGQmrEkDXymouBcO"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Embrace",
+          "url": "https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181153,
+      "name": "Desolate Land Delta 92.2-93.7",
+      "url": "https://open.spotify.com/track/0x1XHy9Jlv5GJhJQ2aIk5f"
+    },
+    {
+      "album": {
         "name": "Destined (3.12 Hz Delta Binaural Beat)",
         "url": "https://open.spotify.com/album/4aLVCtplh8I9bEOmfk3A0K"
       },
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 178874,
       "name": "Dormire Delta Sinus 67Hz - 71Hz",
       "url": "https://open.spotify.com/track/3O0MpL9WEpAOnZjB9Fg6v7"
@@ -2523,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Galactica 59,3-64,9",
+        "url": "https://open.spotify.com/album/7AF5QQ5u8XKpBJkBokFdDQ"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Embrace",
+          "url": "https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152775,
+      "name": "Galactica 59,3-64,9",
+      "url": "https://open.spotify.com/track/1VCzfvONWETBZZzMPLnS9H"
+    },
+    {
+      "album": {
         "name": "Theta Aum",
         "url": "https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit"
       },
@@ -2556,6 +2592,24 @@
       "duration_ms": 158709,
       "name": "Gates Of Heaven Delta (63-67hz)",
       "url": "https://open.spotify.com/track/3A8dBDkD5y9nZ1eVMieoNX"
+    },
+    {
+      "album": {
+        "name": "Halo Fields & Circular Shapes",
+        "url": "https://open.spotify.com/album/2NdYvKyNObPoKLe2WbuIvD"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Halo Fields (Delta 124 Hz - 126 Hz)",
+      "url": "https://open.spotify.com/track/7scfCH5kUeU0Sph5NnsMXe"
     },
     {
       "album": {
@@ -3405,6 +3459,24 @@
     },
     {
       "album": {
+        "name": "Spectrum Delta 65-68 Hz",
+        "url": "https://open.spotify.com/album/39knd4P5VZoPncdWQIEQRb"
+      },
+      "artists": [
+        {
+          "name": "Bonum Somno",
+          "url": "https://open.spotify.com/artist/0kERbf96dBhKRnHrbQi9Vt"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Spectrum Delta 65-68 Hz",
+      "url": "https://open.spotify.com/track/0cYKh4oniPzNA7xEutIfsa"
+    },
+    {
+      "album": {
         "name": "Spirals Delta 61.64 Hz - 61.84 Hz",
         "url": "https://open.spotify.com/album/6kV0kVTzuWxfenPXl1AGm5"
       },
@@ -3564,6 +3636,24 @@
       "duration_ms": 217333,
       "name": "Surrounded Passage (Delta Binaural)",
       "url": "https://open.spotify.com/track/0gffACkxI5ABiI7Ak9Gb4R"
+    },
+    {
+      "album": {
+        "name": "Tarn (Delta 76.6-77.2)",
+        "url": "https://open.spotify.com/album/6jkTotUKHUGt68vYA0RQ54"
+      },
+      "artists": [
+        {
+          "name": "Alien Academy",
+          "url": "https://open.spotify.com/artist/37MJLRFMewr3LFXff6skVk"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160344,
+      "name": "Tarn (Delta 76.6-77.2)",
+      "url": "https://open.spotify.com/track/27UvUXBw4TGPisj9ZnW3zV"
     },
     {
       "album": {
@@ -3762,6 +3852,24 @@
       "duration_ms": 196000,
       "name": "Warm Delta 58-61 Hz",
       "url": "https://open.spotify.com/track/4P6Ww6a8eerhN3yD0nPgG3"
+    },
+    {
+      "album": {
+        "name": "Waves (Delta 73.2-76.1 Hz)",
+        "url": "https://open.spotify.com/album/1Pbu9m6wEEwP17HWCSmi6K"
+      },
+      "artists": [
+        {
+          "name": "Lux Alba",
+          "url": "https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147300,
+      "name": "Waves (Delta 73.2-76.1 Hz)",
+      "url": "https://open.spotify.com/track/0vm4FJSItNDbtNJrA4OsF7"
     },
     {
       "album": {

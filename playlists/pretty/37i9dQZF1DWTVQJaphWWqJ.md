@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 
 > Sólo clásicos tropicales.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,972 likes - 60 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,976 likes - 60 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 | 35 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1r2EerxDMVQbXxqsqnjUhy) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia](https://open.spotify.com/album/5wfnIPd0TYl6ZKNPhvaYwW) | 5:05 |
 | 36 | [Abusadora](https://open.spotify.com/track/1uhiqrpEiYnWddrLgTAhZd) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:40 |
 | 37 | [Anhelo](https://open.spotify.com/track/4HIeIbJeQMUurTM57KVQU7) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/2qGqJrcsR1oXU5vPQbCCU8) | 4:05 |
-| 38 | [La Quiero a Morir/Si Algún Día la Ves](https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v) | 6:33 |
-| 39 | [A Dormir Juntitos \- Liz featuring Eddy Herrera](https://open.spotify.com/track/3mra5ShNolELD0KNrMQo9D) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Paso Firme](https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP) | 4:42 |
+| 38 | [A Dormir Juntitos \- Liz featuring Eddy Herrera](https://open.spotify.com/track/3mra5ShNolELD0KNrMQo9D) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Paso Firme](https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP) | 4:42 |
+| 39 | [La Quiero a Morir/Si Algún Día la Ves](https://open.spotify.com/track/3oRdr7zLqqHd98Hh2DA0TS) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v) | 6:33 |
 | 40 | [Si Volveras a Mí](https://open.spotify.com/track/1PSD7RIsoOGQPgzmV7B2f6) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:50 |
 | 41 | [La Tanga](https://open.spotify.com/track/3LaiCiYtMqNvspJ6kXyfSa) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs) | 4:26 |
 | 42 | [Volver](https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:52 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVQJaphWWqJ.md) - [plain]
 | 53 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/0kboeujB0vMltPld2uhRPR) | [Erick Escobar Nayo Quintero Y La Decision Vallenata](https://open.spotify.com/artist/1fWDfU0nNn9izFAjKDaMWO) | [Vallenatos Bonitos Bonitos](https://open.spotify.com/album/3zwrFhwgWu2efe7YcS68zn) | 3:55 |
 | 54 | [Pa Que No Me Anden Contando](https://open.spotify.com/track/5EYgWasC1IhuAiiAi5T3mK) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Pa Que No Me Anden Contando](https://open.spotify.com/album/7yecZ34RSzocHqSVflyT2u) | 2:09 |
 | 55 | [El Santo Cachón](https://open.spotify.com/track/0ccHYF0xpaJe0fymGmr7ri) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Éxitos \- Los Embajadores Vallenatos](https://open.spotify.com/album/2vttfGimI3QtJ8wlScNwTM) | 4:26 |
-| 56 | [Sombra Perdida](https://open.spotify.com/track/53lr8moEbdEMtcrw5ostBy) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 4:24 |
-| 57 | [Amaneci Contigo](https://open.spotify.com/track/6sjGn6jDmt8v1zTi7Naqrs) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Exitos Romaticos De Salsa](https://open.spotify.com/album/5fdL0838EsULjyNWfG9goE) | 4:11 |
+| 56 | [Amaneci Contigo](https://open.spotify.com/track/6sjGn6jDmt8v1zTi7Naqrs) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Exitos Romaticos De Salsa](https://open.spotify.com/album/5fdL0838EsULjyNWfG9goE) | 4:11 |
+| 57 | [Sombra Perdida](https://open.spotify.com/track/53lr8moEbdEMtcrw5ostBy) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 4:24 |
 | 58 | [Me Tocó Perderte](https://open.spotify.com/track/6nmqpo8xhxYF6ILwsWIbaV) | [Osmar Pérez](https://open.spotify.com/artist/1UJF2zIrXPQIdoc7169icD), [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Una Leyenda \- Los Chiches Vallenatos](https://open.spotify.com/album/03XL7CFgk3mkfzwvJm6Wlw) | 4:19 |
 | 59 | [Tatuaje en el Alma](https://open.spotify.com/track/59PFv3Kawc9pZ04X2f7WEJ) | [Romualdo Brito](https://open.spotify.com/artist/1nVWUKrhf81C1A3Od2Eg1l) | [Colección Oro del Vallenato, Vol\. 10](https://open.spotify.com/album/5FVL5uT1OY0aIWo0d1Y7Fk) | 5:00 |
 | 60 | [Ceniza Fría](https://open.spotify.com/track/6gRKQI8kLeEUkoj70kVBzp) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Historia del Vallenato en el Siglo XX, Vol\. 3](https://open.spotify.com/album/2Dmt9hXCXvVyisvgHdj1PB) | 4:01 |

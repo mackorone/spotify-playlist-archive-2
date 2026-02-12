@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 56468,
+  "num_followers": 56480,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAADJpm1jmB34mN8vyuod+5dI",
+  "snapshot_id": "aYp1AAAAAACoR6ml3MotAEXFP2BPfEf6",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 253478,
-      "name": "Como Te Olvido",
-      "url": "https://open.spotify.com/track/2gmX1m68Py0uWJdWDNlHnC"
+      "duration_ms": 183857,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/50jTcQY6sWdDyMWwg62d0z"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 183857,
-      "name": "Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/50jTcQY6sWdDyMWwg62d0z"
+      "duration_ms": 253478,
+      "name": "Como Te Olvido",
+      "url": "https://open.spotify.com/track/2gmX1m68Py0uWJdWDNlHnC"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Juro Por Dios - En Vivo",
-      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estas Perdida",
         "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 197007,
       "name": "Nuestro Adios",
       "url": "https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Juro Por Dios - En Vivo",
+      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Explicaci\u00f3n",
-        "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 144791,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/075Kk3R3nrz7cqs07MQsQU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Bruta (En Vivo)",
         "url": "https://open.spotify.com/album/1NQCMMZnRZkqTMX0QpLTvn"
       },
@@ -575,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Los Mochis",
-        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 303297,
-      "name": "Popurri Cumbias - En Vivo",
-      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Medias Negras",
         "url": "https://open.spotify.com/album/47un1dVrmVaaNT1PGvEU2d"
       },
@@ -607,6 +575,38 @@
       "duration_ms": 187324,
       "name": "Medias Negras",
       "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Los Mochis",
+        "url": "https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 303297,
+      "name": "Popurri Cumbias - En Vivo",
+      "url": "https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Explicaci\u00f3n",
+        "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 144791,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/075Kk3R3nrz7cqs07MQsQU"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Mi Sueno Seria",
-      "url": "https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Ranchito",
         "url": "https://open.spotify.com/album/5nQkFKC4AuQrK5yzIE338z"
       },
@@ -887,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Explicaci\u00f3n",
-        "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
       },
       "artists": [
         {
@@ -896,9 +880,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 161779,
-      "name": "Estabas Advertida",
-      "url": "https://open.spotify.com/track/13xgj7dEsIaA1IwUN8Sp7B"
+      "duration_ms": 210520,
+      "name": "Mi Sueno Seria",
+      "url": "https://open.spotify.com/track/06CyL1dXG8jKcha5ZiJh4D"
     },
     {
       "added_at": null,
@@ -915,6 +899,22 @@
       "duration_ms": 131285,
       "name": "Siempre Trabajando",
       "url": "https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Explicaci\u00f3n",
+        "url": "https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 161779,
+      "name": "Estabas Advertida",
+      "url": "https://open.spotify.com/track/13xgj7dEsIaA1IwUN8Sp7B"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

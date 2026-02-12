@@ -1,6 +1,6 @@
 {
   "description": "Plug your brain into a modular synthesizer analog loop.",
-  "num_followers": 124787,
+  "num_followers": 124820,
   "original_name": "MoogTube",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The In Sound From Way Out",
-        "url": "https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK"
-      },
-      "artists": [
-        {
-          "name": "Perrey and Kingsley",
-          "url": "https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Baroque Hoedown",
-      "url": "https://open.spotify.com/track/44pXIgdwWjrTRUW2oN4u5I"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Country Moog / Nashville Gold",
         "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 171546,
       "name": "Wichita Lineman",
       "url": "https://open.spotify.com/track/3YO2qFdxBctCfkzb5dkqCH"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "The In Sound From Way Out",
+        "url": "https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK"
+      },
+      "artists": [
+        {
+          "name": "Perrey and Kingsley",
+          "url": "https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Baroque Hoedown",
+      "url": "https://open.spotify.com/track/44pXIgdwWjrTRUW2oN4u5I"
     },
     {
       "added_at": "2024-08-02 17:01:54",
@@ -519,6 +519,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Ye Olde Space Bande Plays The Classic Rock Hits",
+        "url": "https://open.spotify.com/album/6W2UlntAS3IpIZmDH0qFWk"
+      },
+      "artists": [
+        {
+          "name": "The Moog Cookbook",
+          "url": "https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG"
+        }
+      ],
+      "duration_ms": 394373,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/6keOvpOxtugHSLokIznZk8"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "The In Sound From Way Out",
         "url": "https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Ye Olde Space Bande Plays The Classic Rock Hits",
-        "url": "https://open.spotify.com/album/6W2UlntAS3IpIZmDH0qFWk"
+        "name": "Moog Indigo",
+        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
       },
       "artists": [
         {
-          "name": "The Moog Cookbook",
-          "url": "https://open.spotify.com/artist/6gSjljVm0yuKul0N4fgBbG"
+          "name": "Jean-Jacques Perrey",
+          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
         }
       ],
-      "duration_ms": 394373,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/6keOvpOxtugHSLokIznZk8"
+      "duration_ms": 214000,
+      "name": "Cat In The Night",
+      "url": "https://open.spotify.com/track/6fOSsfrKQDwVC0ONVTnCeR"
     },
     {
       "added_at": "2023-12-20 05:07:47",
@@ -563,22 +579,6 @@
       "duration_ms": 234000,
       "name": "Disco Moog",
       "url": "https://open.spotify.com/track/1yu3Ju4HbS4yvZMvR5WchU"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Moog Indigo",
-        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Perrey",
-          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Cat In The Night",
-      "url": "https://open.spotify.com/track/6fOSsfrKQDwVC0ONVTnCeR"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The In Sound From Way Out",
-        "url": "https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK"
-      },
-      "artists": [
-        {
-          "name": "Perrey and Kingsley",
-          "url": "https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "The Little Man From Mars",
-      "url": "https://open.spotify.com/track/3Y4lx1dpUJ11jHOBKfnK8q"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Country Moog / Nashville Gold",
         "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 195533,
       "name": "Folsom Prison Blues",
       "url": "https://open.spotify.com/track/4Lr58MKv45cz3du2fcN8jA"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "The In Sound From Way Out",
+        "url": "https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK"
+      },
+      "artists": [
+        {
+          "name": "Perrey and Kingsley",
+          "url": "https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "The Little Man From Mars",
+      "url": "https://open.spotify.com/track/3Y4lx1dpUJ11jHOBKfnK8q"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -667,6 +667,26 @@
       "duration_ms": 199426,
       "name": "Suite bergamasque: No. 4: Passepied",
       "url": "https://open.spotify.com/track/6V7sNMVFArM2DLteFLiPPg"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog Acid",
+        "url": "https://open.spotify.com/album/3C5nuwx0aR44qaFov9SW7G"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Perrey",
+          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
+        },
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "You Moog Me",
+      "url": "https://open.spotify.com/track/6l3iWMWq52eEa6sxdzSsAw"
     },
     {
       "added_at": "2022-02-25 02:39:31",
@@ -703,26 +723,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog Acid",
-        "url": "https://open.spotify.com/album/3C5nuwx0aR44qaFov9SW7G"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Perrey",
-          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
-        },
-        {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "You Moog Me",
-      "url": "https://open.spotify.com/track/6l3iWMWq52eEa6sxdzSsAw"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "The Happy Electropop Music Machine",
         "url": "https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 104026,
       "name": "The Typewriter",
       "url": "https://open.spotify.com/track/2W7PFU8zXwwEF60G9Yv2Yd"
+    },
+    {
+      "added_at": "2023-12-20 05:07:47",
+      "album": {
+        "name": "Available Forms",
+        "url": "https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko"
+      },
+      "artists": [
+        {
+          "name": "Tobor Experiment",
+          "url": "https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd"
+        }
+      ],
+      "duration_ms": 329870,
+      "name": "Lowpass Risotto",
+      "url": "https://open.spotify.com/track/3YA3uJEowHQbyrMzam91jJ"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -771,22 +787,6 @@
       "duration_ms": 144625,
       "name": "Pencerenin Perdesini",
       "url": "https://open.spotify.com/track/614QR7JNfM0DxmHqxsufK4"
-    },
-    {
-      "added_at": "2023-12-20 05:07:47",
-      "album": {
-        "name": "Available Forms",
-        "url": "https://open.spotify.com/album/1fMxLNSyjYwtgag0SsZcko"
-      },
-      "artists": [
-        {
-          "name": "Tobor Experiment",
-          "url": "https://open.spotify.com/artist/3G2oefzwUWgfeSMCIJ0TZd"
-        }
-      ],
-      "duration_ms": 329870,
-      "name": "Lowpass Risotto",
-      "url": "https://open.spotify.com/track/3YA3uJEowHQbyrMzam91jJ"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Country Moog / Nashville Gold",
-        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
-      },
-      "artists": [
-        {
-          "name": "Gil Trythall",
-          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "Yakety Moog",
-      "url": "https://open.spotify.com/track/0EYe4qWRTMB0m1ybGMHz2x"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "The Happy Moog",
         "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 124494,
       "name": "Saturn Ski Jump",
       "url": "https://open.spotify.com/track/4Arau0rDs3eVb8hwAhWliz"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Country Moog / Nashville Gold",
+        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
+      },
+      "artists": [
+        {
+          "name": "Gil Trythall",
+          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "Yakety Moog",
+      "url": "https://open.spotify.com/track/0EYe4qWRTMB0m1ybGMHz2x"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Surroundings",
-        "url": "https://open.spotify.com/album/3RSldV7Zhw95KwPPvfPk8X"
-      },
-      "artists": [
-        {
-          "name": "Claude Larson",
-          "url": "https://open.spotify.com/artist/2edEbdAUDYB8FxbTxnmQR7"
-        }
-      ],
-      "duration_ms": 225977,
-      "name": "Highway E 1",
-      "url": "https://open.spotify.com/track/0ZvJ3UJA1eD0S9OBZaqnem"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "The Happy Moog",
         "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 124197,
       "name": "March Of The Martians",
       "url": "https://open.spotify.com/track/4rF8nv1j7zum3p0R5ExkkT"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Surroundings",
+        "url": "https://open.spotify.com/album/3RSldV7Zhw95KwPPvfPk8X"
+      },
+      "artists": [
+        {
+          "name": "Claude Larson",
+          "url": "https://open.spotify.com/artist/2edEbdAUDYB8FxbTxnmQR7"
+        }
+      ],
+      "duration_ms": 225977,
+      "name": "Highway E 1",
+      "url": "https://open.spotify.com/track/0ZvJ3UJA1eD0S9OBZaqnem"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Elemente",
-        "url": "https://open.spotify.com/album/0Q6XVeGOkHpEiMIwWsecVc"
-      },
-      "artists": [
-        {
-          "name": "CV Vision",
-          "url": "https://open.spotify.com/artist/2RG7G2dyZMJ0iFOFlU6Dkk"
-        }
-      ],
-      "duration_ms": 892148,
-      "name": "Treiben",
-      "url": "https://open.spotify.com/track/33zNcoFyeYniyckztTa5xT"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "The Happy Moog",
         "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
       },
@@ -1187,22 +1171,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
+        "name": "Elemente",
+        "url": "https://open.spotify.com/album/0Q6XVeGOkHpEiMIwWsecVc"
       },
       "artists": [
         {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        },
-        {
-          "name": "Bernie Worrell",
-          "url": "https://open.spotify.com/artist/3vB7T6czx1Jh89YEnzM0UF"
+          "name": "CV Vision",
+          "url": "https://open.spotify.com/artist/2RG7G2dyZMJ0iFOFlU6Dkk"
         }
       ],
-      "duration_ms": 408360,
-      "name": "When Bernie Speaks",
-      "url": "https://open.spotify.com/track/4SgfZLGOzrfYVdJeUngOsm"
+      "duration_ms": 892148,
+      "name": "Treiben",
+      "url": "https://open.spotify.com/track/33zNcoFyeYniyckztTa5xT"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1223,18 +1203,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The Weinberg Method of Nonsynthetic Electronic Rock",
-        "url": "https://open.spotify.com/album/1hQGY2ktzYCU4aK66nrj8Y"
+        "name": "Moog (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
       },
       "artists": [
         {
-          "name": "Fred Weinberg",
-          "url": "https://open.spotify.com/artist/4Z47dBr1kJfehebcuhmnZZ"
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Bernie Worrell",
+          "url": "https://open.spotify.com/artist/3vB7T6czx1Jh89YEnzM0UF"
         }
       ],
-      "duration_ms": 128941,
-      "name": "1958 Revisited",
-      "url": "https://open.spotify.com/track/3o7FnCvqTVmw5FUKMalYIa"
+      "duration_ms": 408360,
+      "name": "When Bernie Speaks",
+      "url": "https://open.spotify.com/track/4SgfZLGOzrfYVdJeUngOsm"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1267,6 +1251,22 @@
       "duration_ms": 133535,
       "name": "Short Circuit",
       "url": "https://open.spotify.com/track/1unfiTb6jOGxHBuiiWsMuD"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "The Weinberg Method of Nonsynthetic Electronic Rock",
+        "url": "https://open.spotify.com/album/1hQGY2ktzYCU4aK66nrj8Y"
+      },
+      "artists": [
+        {
+          "name": "Fred Weinberg",
+          "url": "https://open.spotify.com/artist/4Z47dBr1kJfehebcuhmnZZ"
+        }
+      ],
+      "duration_ms": 128941,
+      "name": "1958 Revisited",
+      "url": "https://open.spotify.com/track/3o7FnCvqTVmw5FUKMalYIa"
     },
     {
       "added_at": "2023-12-20 05:07:47",
@@ -1307,18 +1307,34 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Mind Games",
-        "url": "https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD"
+        "name": "Kpm 1000 Series: Out of the Dark",
+        "url": "https://open.spotify.com/album/4JQLnqdzkgSkhEIpphMVtI"
       },
       "artists": [
         {
-          "name": "David Vorhaus",
-          "url": "https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae"
+          "name": "Dave Vorhaus",
+          "url": "https://open.spotify.com/artist/3XTB6cGYrQ1ebr4HO7UvAQ"
         }
       ],
-      "duration_ms": 171266,
-      "name": "Mainframe Blues",
-      "url": "https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup"
+      "duration_ms": 62114,
+      "name": "The DIY Machine (A)",
+      "url": "https://open.spotify.com/track/4Zb3DvXQSEm9IxPMiuGWwH"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "The Happy Moog",
+        "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
+      },
+      "artists": [
+        {
+          "name": "The Happy Moog",
+          "url": "https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87"
+        }
+      ],
+      "duration_ms": 139520,
+      "name": "Space Express",
+      "url": "https://open.spotify.com/track/70RM1aHm0RlhsloKf8vbmn"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1343,34 +1359,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The Happy Moog",
-        "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
+        "name": "Mind Games",
+        "url": "https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD"
       },
       "artists": [
         {
-          "name": "The Happy Moog",
-          "url": "https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87"
+          "name": "David Vorhaus",
+          "url": "https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae"
         }
       ],
-      "duration_ms": 139520,
-      "name": "Space Express",
-      "url": "https://open.spotify.com/track/70RM1aHm0RlhsloKf8vbmn"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Kpm 1000 Series: Out of the Dark",
-        "url": "https://open.spotify.com/album/4JQLnqdzkgSkhEIpphMVtI"
-      },
-      "artists": [
-        {
-          "name": "Dave Vorhaus",
-          "url": "https://open.spotify.com/artist/3XTB6cGYrQ1ebr4HO7UvAQ"
-        }
-      ],
-      "duration_ms": 62114,
-      "name": "The DIY Machine (A)",
-      "url": "https://open.spotify.com/track/4Zb3DvXQSEm9IxPMiuGWwH"
+      "duration_ms": 171266,
+      "name": "Mainframe Blues",
+      "url": "https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Variation One",
-      "url": "https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Country Moog / Nashville Gold",
         "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
       },
@@ -1460,6 +1444,22 @@
       },
       "artists": [
         {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Variation One",
+      "url": "https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
+      },
+      "artists": [
+        {
           "name": "33",
           "url": "https://open.spotify.com/artist/31wSPoOA8XFN34WWaRTann"
         }
@@ -1467,22 +1467,6 @@
       "duration_ms": 173280,
       "name": "Abominatron",
       "url": "https://open.spotify.com/track/22iSVlOmXxj6AIxGh8JnyO"
-    },
-    {
-      "added_at": "2022-04-28 22:15:39",
-      "album": {
-        "name": "Pencerenin Perdesini / Beyo\u011flu'nda Gezersin",
-        "url": "https://open.spotify.com/album/6SZorR9VZfzMR103ylcHHU"
-      },
-      "artists": [
-        {
-          "name": "G\u00f6k\u00e7en Kaynatan",
-          "url": "https://open.spotify.com/artist/3nnodwbgLf8YyqSk7bgkgF"
-        }
-      ],
-      "duration_ms": 227096,
-      "name": "Beyo\u011flu'nda Gezersin",
-      "url": "https://open.spotify.com/track/0qJ9xwR2Qak7kc07ovYQM8"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1503,6 +1487,22 @@
       "duration_ms": 153600,
       "name": "Sonik Re-Entry",
       "url": "https://open.spotify.com/track/2ozohxykp23xAoXBTs1IV7"
+    },
+    {
+      "added_at": "2022-04-28 22:15:39",
+      "album": {
+        "name": "Pencerenin Perdesini / Beyo\u011flu'nda Gezersin",
+        "url": "https://open.spotify.com/album/6SZorR9VZfzMR103ylcHHU"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6k\u00e7en Kaynatan",
+          "url": "https://open.spotify.com/artist/3nnodwbgLf8YyqSk7bgkgF"
+        }
+      ],
+      "duration_ms": 227096,
+      "name": "Beyo\u011flu'nda Gezersin",
+      "url": "https://open.spotify.com/track/0qJ9xwR2Qak7kc07ovYQM8"
     },
     {
       "added_at": "2024-08-21 02:31:59",

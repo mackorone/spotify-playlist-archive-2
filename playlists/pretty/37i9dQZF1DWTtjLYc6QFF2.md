@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена спільно з Христиною Соловій.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,432 likes - 45 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,433 likes - 45 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 44 | [Villain](https://open.spotify.com/track/0gyiEmhON5LZ7JWBDxaBOk) | [PRIANA](https://open.spotify.com/artist/2xGAERGRgL4jTLW7nVH1Ct) | [Villain](https://open.spotify.com/album/3wzZ5unxC7Qd2oCNpZhkRh) | 2:38 |
 | 45 | [Тут](https://open.spotify.com/track/3ulNcgkl7jbqLdcsiX7OMD) | [Kate Soul](https://open.spotify.com/artist/5JJIJ5ruatWLkSFCpWJME0) | [Тут](https://open.spotify.com/album/2ticHzYHQ7PklqXdHuOYyD) | 1:48 |
 
-Snapshot ID: `AAAAAFNahg3iEfneZyrkR3KqnivN3jOj`
+Snapshot ID: `AAAAADNsB7+G3jiEdte4dwC/2dzxwEpR`

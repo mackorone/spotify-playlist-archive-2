@@ -4,7 +4,7 @@
 
 > the best in hardcore\. open the pit w/ SPEED
 
-404 songs - 16 hr 32 min
+405 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2023-02-24 | 2023-06-27 |
 | [Good Riddance](https://open.spotify.com/track/0kNPO6bdi3vMlVPhXTQA2T) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Moment Of Violence](https://open.spotify.com/album/50f1iQiiAIznNY2lttY2lT) | 2:15 | 2023-08-11 | 2024-02-21 |
 | [Grass Snakes \(feat\. Lou Koller\)](https://open.spotify.com/track/6yM5Fz1ZVp2tTQRu4nJun1) | [Stinky](https://open.spotify.com/artist/1k3zNkpgeygyoc27mNoAsp), [Lou Koller](https://open.spotify.com/artist/00oVA7aWQ4Sd1ZT3W6UpHU) | [Solace](https://open.spotify.com/album/3eXtkqcMsFdcKe8KwbU7ya) | 3:04 | 2025-03-07 | 2026-01-25 |
-| [Grave Dive](https://open.spotify.com/track/0NAF4ywlrLdqUZMJRT23od) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Electrified Brain](https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS) | 2:31 | 2023-02-24 |  |
+| [Grave Dive](https://open.spotify.com/track/0NAF4ywlrLdqUZMJRT23od) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [Electrified Brain](https://open.spotify.com/album/5oiOILICZyEvy5WJdkVUjS) | 2:31 | 2023-02-24 | 2026-02-12 |
 | [Green Lights](https://open.spotify.com/track/3zViD1hgl87WDaY70Gf3Iv) | [FUET!](https://open.spotify.com/artist/7aTaQAh9d7z98h0CMrx1s6) | [Green Lights](https://open.spotify.com/album/2mODDvV0uJ4vVHYRSiP6zb) | 2:24 | 2024-06-21 | 2025-01-18 |
 | [Halfway](https://open.spotify.com/track/2iQ8BNDGU06JXqVYhOaKY5) | [Bent Blue](https://open.spotify.com/artist/1haOs9zOxraUzXYPEOs125) | [Where Do Ripples Go?](https://open.spotify.com/album/3QrvdDcBeldWqVJ09ADQrS) | 2:49 | 2023-02-24 | 2024-03-02 |
 | [Hate Me](https://open.spotify.com/track/2Q7UuiaUcZPIa3WpRTh8nv) | [Teeth](https://open.spotify.com/artist/7yNndyXadKRvmkmK1reF3F) | [Hate Me](https://open.spotify.com/album/4bfZJObSINfpyuED5Apz3M) | 2:11 | 2023-04-07 | 2024-10-12 |
@@ -355,6 +355,7 @@
 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 | 2024-06-21 | 2024-10-12 |
 | [THE FIRST TEST](https://open.spotify.com/track/3TI58Mbxj0oRj9kFQFEAYR) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ONLY ONE MODE](https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9) | 2:14 | 2024-10-11 | 2026-01-25 |
 | [The Fruit From Poison Trees](https://open.spotify.com/track/5jRsNpQ6hAw2zrxOSURtqG) | [Hour of Reprisal](https://open.spotify.com/artist/5cSkzPdS3qaFgejiduxQMF) | [Endless War, Endless Peace](https://open.spotify.com/album/1y3D5pcZZDLHUONK5EujjM) | 4:00 | 2025-03-07 |  |
+| [The Hurt Continues](https://open.spotify.com/track/51sb7CUU1tSAw1iWe3tQwn) | [Blood & Tears](https://open.spotify.com/artist/2TtDxxQQEqbb6gy5o7cOnW) | [Brotherhood Demo](https://open.spotify.com/album/0vL9ARWBlnjyrJ5rag2EVS) | 2:29 | 2026-02-11 |  |
 | [The Killing Womb](https://open.spotify.com/track/7m33lSfrWtRfQDG6QmKP0L) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 2:32 | 2023-02-24 | 2023-07-18 |
 | [The Outlaw](https://open.spotify.com/track/3AE0tfQGWJJZLQ2T8vCgcw) | [Doomsday](https://open.spotify.com/artist/6mHdvtPmloBOmaLRo5dyJY) | [Never Known Peace](https://open.spotify.com/album/7o09laRAatmSqCAqXRfFcR) | 2:57 | 2025-04-04 | 2025-07-19 |
 | [The Pain of Being Awake](https://open.spotify.com/track/2PA108Ghj4ihRUzeYFbAuE) | [Gillian Carter](https://open.spotify.com/artist/4Nq1P1SOkKWDqlx2TJkUdv) | [Salvation Through Misery](https://open.spotify.com/album/3ML1vXlzmlCqEd4ZoGtYCG) | 2:22 | 2023-02-24 | 2023-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: LINARES
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,478 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,497 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 83 | [Aqui Estou \(Aquí Estoy\)](https://open.spotify.com/track/3OPMJTRN6qBBummILu82fW) | [Celines](https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl), [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [Aqui Estou \(Aquí Estoy\)](https://open.spotify.com/album/48E40PEfGKWSY6ISeKYrxO) | 4:20 |
 | 84 | [Mi Guardián](https://open.spotify.com/track/4SsH7TPxUt4GFsjhuj98Yq) | [MARA](https://open.spotify.com/artist/6307XBA1jRaFXENDAWsMKP), [Jonatan Narváez](https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY) | [Mi Guardián](https://open.spotify.com/album/0m6Ct1r5yGrr4Bw8E34I3U) | 3:02 |
 | 85 | [Marta](https://open.spotify.com/track/75OFJwQq8f7KvIICQKsoST) | [Servus Mariae](https://open.spotify.com/artist/6thKC60LXlVflqw2MZeyKN) | [Marta](https://open.spotify.com/album/3lSb9lHbiEHtXKbkfSpwAS) | 3:25 |
-| 86 | [Eres Mi Todo](https://open.spotify.com/track/0kBeJIprClcdrqN5eiblSD) | [Regina Reznick](https://open.spotify.com/artist/39zYId0ufQkBZyqT9OMauP), [Suri Cruz](https://open.spotify.com/artist/4GZsftEmJC20QJPJ3FGR3H) | [Eres Mi Todo](https://open.spotify.com/album/6gZTfapck4RxRXspIaqbXf) | 2:31 |
+| 86 | [ERES MI TODO](https://open.spotify.com/track/0kBeJIprClcdrqN5eiblSD) | [Regina Reznick](https://open.spotify.com/artist/39zYId0ufQkBZyqT9OMauP), [Suri Cruz](https://open.spotify.com/artist/4GZsftEmJC20QJPJ3FGR3H) | [ERES MI TODO](https://open.spotify.com/album/6gZTfapck4RxRXspIaqbXf) | 2:31 |
 | 87 | [Hay Fuego](https://open.spotify.com/track/0pjz3zCKiojC5NcumOtzJt) | [Milton Valle](https://open.spotify.com/artist/3yvt5r21iRpWEJzVUFldm4), [Álvaro López](https://open.spotify.com/artist/7wCAUps4y2gT9jK3zF1EyL) | [Hay Fuego](https://open.spotify.com/album/0TBO9O1uF40l9idG1LwZMN) | 6:28 |
 | 88 | [Mi Oración](https://open.spotify.com/track/2bfGm684lCNoJm3vSYIGdF) | [Rito Rivera](https://open.spotify.com/artist/7hGJ7vewbsI9unzLD523Fv) | [Mi Oración](https://open.spotify.com/album/4VUQTI0UxFb5hbw0Je7jII) | 2:13 |
 | 89 | [Otra Vez](https://open.spotify.com/track/3YHpydS1WKh2qsmKKPeRE1) | [Pepe Lopez Band](https://open.spotify.com/artist/26jcTakzCqPX0KGJth8aiz) | [Otra Vez](https://open.spotify.com/album/0f5blMxAxpKDsPCNHww9da) | 3:20 |

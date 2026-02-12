@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 92166,
+  "num_followers": 92227,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,26 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
+        "name": "RECKLESS",
+        "url": "https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE"
+      },
+      "artists": [
+        {
+          "name": "TOZA",
+          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
+        },
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        }
+      ],
+      "duration_ms": 160457,
+      "name": "RECKLESS",
+      "url": "https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
         "name": "FA TI CO",
         "url": "https://open.spotify.com/album/1iEjMRxdKdHXA5Xw1svSO9"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 216705,
       "name": "Dark Smile",
       "url": "https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "RECKLESS",
-        "url": "https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE"
-      },
-      "artists": [
-        {
-          "name": "TOZA",
-          "url": "https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L"
-        },
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 160457,
-      "name": "RECKLESS",
-      "url": "https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -239,8 +239,8 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "Burn Out",
-        "url": "https://open.spotify.com/album/0qTZSwiA8pCbsKxbWOSE7w"
+        "name": "Bass Go Boom",
+        "url": "https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk"
       },
       "artists": [
         {
@@ -248,17 +248,13 @@
           "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
         },
         {
-          "name": "Lekkerfaces",
-          "url": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349"
-        },
-        {
-          "name": "BOMBSQUAD",
-          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
+          "name": "Dither",
+          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
         }
       ],
-      "duration_ms": 161684,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/1nN8uMR9h1pk6wvXYuLG5R"
+      "duration_ms": 160000,
+      "name": "Bass Go Boom",
+      "url": "https://open.spotify.com/track/7Iy0uVPtplh8WsntcIXP0J"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -435,8 +431,8 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "Bass Go Boom",
-        "url": "https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk"
+        "name": "Burn Out",
+        "url": "https://open.spotify.com/album/0qTZSwiA8pCbsKxbWOSE7w"
       },
       "artists": [
         {
@@ -444,13 +440,17 @@
           "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
         },
         {
-          "name": "Dither",
-          "url": "https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7"
+          "name": "Lekkerfaces",
+          "url": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349"
+        },
+        {
+          "name": "BOMBSQUAD",
+          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Bass Go Boom",
-      "url": "https://open.spotify.com/track/7Iy0uVPtplh8WsntcIXP0J"
+      "duration_ms": 161684,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/1nN8uMR9h1pk6wvXYuLG5R"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "The Nightmare Man",
-        "url": "https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "The Nightmare Man",
-      "url": "https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
         "name": "Hate Destroyer",
         "url": "https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 175000,
       "name": "Hate Destroyer",
       "url": "https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
+        "name": "The Nightmare Man",
+        "url": "https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "The Nightmare Man",
+      "url": "https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -619,30 +619,6 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
-        "url": "https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
-        },
-        {
-          "name": "Tha Watcher",
-          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
-      "url": "https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
         "name": "CHUCKY",
         "url": "https://open.spotify.com/album/1anIjBMlI6h1uSvTj2tiGO"
       },
@@ -663,6 +639,26 @@
       "duration_ms": 125647,
       "name": "CHUCKY",
       "url": "https://open.spotify.com/track/22kteI2xVP12pKh6djmqHP"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
+        "name": "WE DONT PLAY",
+        "url": "https://open.spotify.com/album/47g3muCTnVTUgBtaE3uxau"
+      },
+      "artists": [
+        {
+          "name": "Levenkhan",
+          "url": "https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd"
+        },
+        {
+          "name": "Dr Donk",
+          "url": "https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu"
+        }
+      ],
+      "duration_ms": 141346,
+      "name": "WE DONT PLAY",
+      "url": "https://open.spotify.com/track/3hzb7yFb33bHzEXn3Cc8wm"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -691,22 +687,26 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "WE DONT PLAY",
-        "url": "https://open.spotify.com/album/47g3muCTnVTUgBtaE3uxau"
+        "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
+        "url": "https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG"
       },
       "artists": [
         {
-          "name": "Levenkhan",
-          "url": "https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd"
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         },
         {
-          "name": "Dr Donk",
-          "url": "https://open.spotify.com/artist/0NirwTOv2qvuXsNNZkDPNu"
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        },
+        {
+          "name": "Tha Watcher",
+          "url": "https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD"
         }
       ],
-      "duration_ms": 141346,
-      "name": "WE DONT PLAY",
-      "url": "https://open.spotify.com/track/3hzb7yFb33bHzEXn3Cc8wm"
+      "duration_ms": 273333,
+      "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
+      "url": "https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -795,30 +795,6 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "BASS CANNON",
-        "url": "https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD"
-      },
-      "artists": [
-        {
-          "name": "Slaughterhouse",
-          "url": "https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9"
-        },
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 129970,
-      "name": "BASS CANNON",
-      "url": "https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
         "name": "Lead By Example (Official Dominator 2025 Anthem)",
         "url": "https://open.spotify.com/album/3UE8VxwYfYVFuGTKZRJkX0"
       },
@@ -851,6 +827,22 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
+        "name": "Let Them Eat Steel",
+        "url": "https://open.spotify.com/album/1iMpepHfigGIoDVdf8H5El"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 135139,
+      "name": "Let Them Eat Steel",
+      "url": "https://open.spotify.com/track/0wjpdQ3zbmjAEkyGHm0d3I"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
         "name": "Voice Of The Underground",
         "url": "https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2"
       },
@@ -867,18 +859,26 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "Let Them Eat Steel",
-        "url": "https://open.spotify.com/album/1iMpepHfigGIoDVdf8H5El"
+        "name": "BASS CANNON",
+        "url": "https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD"
       },
       "artists": [
         {
+          "name": "Slaughterhouse",
+          "url": "https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9"
+        },
+        {
           "name": "N-Vitral",
           "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         }
       ],
-      "duration_ms": 135139,
-      "name": "Let Them Eat Steel",
-      "url": "https://open.spotify.com/track/0wjpdQ3zbmjAEkyGHm0d3I"
+      "duration_ms": 129970,
+      "name": "BASS CANNON",
+      "url": "https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp"
     },
     {
       "added_at": "2026-01-30 12:07:15",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-01-30 12:07:15",
       "album": {
-        "name": "Locked & Loaded EP",
-        "url": "https://open.spotify.com/album/6Ze9U69rsUgglX584FE2uY"
-      },
-      "artists": [
-        {
-          "name": "Kili",
-          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
-        }
-      ],
-      "duration_ms": 101000,
-      "name": "9MM",
-      "url": "https://open.spotify.com/track/50cNmlFtLyt0exTnajYFsR"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
         "name": "Lose My Mind",
         "url": "https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 194742,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto"
+    },
+    {
+      "added_at": "2026-01-30 12:07:15",
+      "album": {
+        "name": "Locked & Loaded EP",
+        "url": "https://open.spotify.com/album/6Ze9U69rsUgglX584FE2uY"
+      },
+      "artists": [
+        {
+          "name": "Kili",
+          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
+        }
+      ],
+      "duration_ms": 101000,
+      "name": "9MM",
+      "url": "https://open.spotify.com/track/50cNmlFtLyt0exTnajYFsR"
     }
   ],
   "unique_name": "Hardcore Rage 2026",

@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f with John Summit",
-  "num_followers": 467175,
+  "num_followers": 467664,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1267,6 +1267,30 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
+        "name": "He's A Pirate (Save Me)",
+        "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "duration_ms": 153125,
+      "name": "He's A Pirate (Save Me)",
+      "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -1295,30 +1319,6 @@
       "duration_ms": 161250,
       "name": "Fight Machine (feat. NAIIM)",
       "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "He's A Pirate (Save Me)",
-        "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "KEL",
-          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
-        }
-      ],
-      "duration_ms": 153125,
-      "name": "He's A Pirate (Save Me)",
-      "url": "https://open.spotify.com/track/1Vj7ZZgVpNIKqkC2bA9mpx"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Tokyo Drift",
-        "url": "https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Vion Konger",
-          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
-        }
-      ],
-      "duration_ms": 146433,
-      "name": "Tokyo Drift",
-      "url": "https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
         "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
         "url": "https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
+        "name": "Tokyo Drift",
+        "url": "https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+        }
+      ],
+      "duration_ms": 146433,
+      "name": "Tokyo Drift",
+      "url": "https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -2103,6 +2103,26 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
+        "name": "Empty Skies",
+        "url": "https://open.spotify.com/album/1A8ijkzRwAmJuzLN6IVWxs"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        },
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        }
+      ],
+      "duration_ms": 214687,
+      "name": "Empty Skies",
+      "url": "https://open.spotify.com/track/1JFWNrBSaz1HdWUPPILJ3V"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
         "name": "Crush Me Down (You Spin Me Around)",
         "url": "https://open.spotify.com/album/6qypYS9alhKACA6XzPDDwB"
       },
@@ -2143,30 +2163,6 @@
       "duration_ms": 169778,
       "name": "Move A Little Closer",
       "url": "https://open.spotify.com/track/0gf1KoU5UhhxoEodDF29Rm"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/7k18E2rVMfzex1XQ6TTVzG"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0iO8YEbZyUozUvgtgAhPqT"
     }
   ],
   "unique_name": "EDM 2026",

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 156002,
+  "num_followers": 156004,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAALA/31Ao/HWcZZfZo0SCqw",
+  "snapshot_id": "aYp1AAAAAADBFLZqyzOH0F5Mk1ah1u+Z",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nova Moda",
+        "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Dinheiro e Putaria",
+      "url": "https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -527,30 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nova Moda",
-        "url": "https://open.spotify.com/album/3Ne8Jl7YiQmCM4S4FdBBhN"
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
       "artists": [
         {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
           "name": "Dallass",
           "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Dinheiro e Putaria",
-      "url": "https://open.spotify.com/track/3MGYvpoNOH3Tv5DywjJ0wA"
+      "duration_ms": 170000,
+      "name": "GOTHAM",
+      "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
     },
     {
       "added_at": null,
@@ -575,26 +595,6 @@
       "duration_ms": 190000,
       "name": "7 Meiota",
       "url": "https://open.spotify.com/track/3jrxlhAtoxi83qc76NT9EG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "GOTHAM",
-      "url": "https://open.spotify.com/track/415dld79DDW9drRA3luAqf"
     },
     {
       "added_at": null,
@@ -771,34 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "MODE$TIA",
-          "url": "https://open.spotify.com/artist/5VDo7VvWUs9J8N3VEoFpRR"
-        },
-        {
-          "name": "Yoka",
-          "url": "https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC"
-        }
-      ],
-      "duration_ms": 247701,
-      "name": "Sem convite (feat. MOD\u00c9$TIA, MC Cabelinho e Yoka)",
-      "url": "https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica 15",
         "url": "https://open.spotify.com/album/1FRHQdfzxbxAKjfh1jVLaK"
       },
@@ -855,6 +827,82 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/2wQCMH9zQ2KYDjhUmgIS4s"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "MODE$TIA",
+          "url": "https://open.spotify.com/artist/5VDo7VvWUs9J8N3VEoFpRR"
+        },
+        {
+          "name": "Yoka",
+          "url": "https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC"
+        }
+      ],
+      "duration_ms": 247701,
+      "name": "Sem convite (feat. MOD\u00c9$TIA, MC Cabelinho e Yoka)",
+      "url": "https://open.spotify.com/track/7fxrvStpH0qyh6iHXoSZ31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/2lmzrJYfk5WQSQ4JawLrsb"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 216435,
+      "name": "N\u00e3o Mente pra Mentiroso",
+      "url": "https://open.spotify.com/track/3XVfs9a49njIFPnzjeK6Wq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE LOVE",
+        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 154694,
+      "name": "MINHA CURA",
+      "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "442",
         "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
       },
@@ -887,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE",
-        "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
+        "name": "Ainda",
+        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
       },
       "artists": [
         {
@@ -896,41 +944,13 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+          "name": "Djay W",
+          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
         }
       ],
-      "duration_ms": 154694,
-      "name": "MINHA CURA",
-      "url": "https://open.spotify.com/track/3YQvZNmRc2y1hgdvustkce"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/2lmzrJYfk5WQSQ4JawLrsb"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 216435,
-      "name": "N\u00e3o Mente pra Mentiroso",
-      "url": "https://open.spotify.com/track/3XVfs9a49njIFPnzjeK6Wq"
+      "duration_ms": 207104,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb"
     },
     {
       "added_at": null,
@@ -959,26 +979,6 @@
       "duration_ms": 150508,
       "name": "NA ONDA",
       "url": "https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ainda",
-        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Djay W",
-          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
-        }
-      ],
-      "duration_ms": 207104,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb"
     },
     {
       "added_at": null,
@@ -1075,6 +1075,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AC\u00daSTICO DO LITTLE - PT. 1",
+        "url": "https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 153343,
+      "name": "Ac\u00fastico_UmErro",
+      "url": "https://open.spotify.com/track/5mx7BXr13Q8kwoW81yqZn6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00caXTASE",
         "url": "https://open.spotify.com/album/0bWyQxzGtZ4QV3H6GF8xhF"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 172666,
       "name": "SOZINHO",
       "url": "https://open.spotify.com/track/4GvumINo7IcrKMPM7KIYZY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AC\u00daSTICO DO LITTLE - PT. 1",
-        "url": "https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 153343,
-      "name": "Ac\u00fastico_UmErro",
-      "url": "https://open.spotify.com/track/5mx7BXr13Q8kwoW81yqZn6"
     },
     {
       "added_at": null,
@@ -1276,29 +1276,9 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 181158,
-      "name": "Ac\u00fastico_Sexy",
-      "url": "https://open.spotify.com/track/1eSUzfuzG3xeriVFIwo3tU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Mc Safira",
-          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
-        }
-      ],
-      "duration_ms": 211544,
-      "name": "ngm \u00e9 perfeito",
-      "url": "https://open.spotify.com/track/48s5RykIHKyvbE04ejMxH1"
+      "duration_ms": 153293,
+      "name": "Ac\u00fastico_NaTuaMente",
+      "url": "https://open.spotify.com/track/2WR5c5Zi1AexRLCzRCs6z1"
     },
     {
       "added_at": null,
@@ -1343,6 +1323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mc Safira",
+          "url": "https://open.spotify.com/artist/3sypukBvk2y3ozQW63b3HO"
+        }
+      ],
+      "duration_ms": 211544,
+      "name": "ngm \u00e9 perfeito",
+      "url": "https://open.spotify.com/track/48s5RykIHKyvbE04ejMxH1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AC\u00daSTICO DO LITTLE - PT. 1",
         "url": "https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L"
       },
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         }
       ],
-      "duration_ms": 153293,
-      "name": "Ac\u00fastico_NaTuaMente",
-      "url": "https://open.spotify.com/track/2WR5c5Zi1AexRLCzRCs6z1"
+      "duration_ms": 181158,
+      "name": "Ac\u00fastico_Sexy",
+      "url": "https://open.spotify.com/track/1eSUzfuzG3xeriVFIwo3tU"
     }
   ],
   "unique_name": "This Is MC Cabelinho",

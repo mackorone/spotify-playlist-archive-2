@@ -3012,7 +3012,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 209480,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/6Srj2NoAIGgBFORh6r5Whs"
@@ -3974,7 +3974,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 252162,
       "name": "Dalangin",
       "url": "https://open.spotify.com/track/5dO666voi2S72ZupppSOi4"
@@ -10402,7 +10402,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-15",
+      "date_removed": null,
       "duration_ms": 234052,
       "name": "Leonora",
       "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
@@ -12450,7 +12450,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 246000,
       "name": "Multo (Stripped Down)",
       "url": "https://open.spotify.com/track/1GSv3y0eL50grXOaro8BTn"
@@ -14024,6 +14024,28 @@
       "duration_ms": 241237,
       "name": "Palaisipan",
       "url": "https://open.spotify.com/track/5Qsa2a1GStao34PdmEJUN2"
+    },
+    {
+      "album": {
+        "name": "Palayo Sa Mundo",
+        "url": "https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj"
+      },
+      "artists": [
+        {
+          "name": "Jolianne",
+          "url": "https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je"
+        },
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268571,
+      "name": "Palayo Sa Mundo",
+      "url": "https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda"
     },
     {
       "album": {
@@ -20124,7 +20146,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 337580,
       "name": "Waltz of Four Left Feet",
       "url": "https://open.spotify.com/track/29eiVZ3R6iJcXB01dOAl6H"

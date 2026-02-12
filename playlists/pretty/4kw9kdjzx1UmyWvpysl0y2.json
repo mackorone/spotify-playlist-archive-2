@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124343,
+  "num_followers": 124338,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVGxIctxTJKgQ78hRjcddKt14tdtsE",
+  "snapshot_id": "AAAVHcXuecpqzHTji17DadzF8gKgy8G3",
   "tracks": [
+    {
+      "added_at": "2026-02-11 17:54:38",
+      "album": {
+        "name": "Purge",
+        "url": "https://open.spotify.com/album/2zmBObW2J1UZanorzYUTLj"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Purge",
+      "url": "https://open.spotify.com/track/2Pvoo7IQP53PwrG24DZNFE"
+    },
     {
       "added_at": "2026-02-09 15:41:00",
       "album": {
@@ -1095,58 +1111,6 @@
       "duration_ms": 170000,
       "name": "Snowglobe",
       "url": "https://open.spotify.com/track/6UJJQojiWeKnlKJqvMZVPr"
-    },
-    {
-      "added_at": "2025-11-10 16:43:26",
-      "album": {
-        "name": "Hybrid / Future",
-        "url": "https://open.spotify.com/album/3LakW6mS1r4E2eoIsY39AW"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        }
-      ],
-      "duration_ms": 213257,
-      "name": "Hybrid",
-      "url": "https://open.spotify.com/track/7wEyBeHHjMIxrhTEnNDcsR"
-    },
-    {
-      "added_at": "2025-11-07 15:17:06",
-      "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/3Cga9WAUJXnBEpwvwSm364"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 135724,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
-    },
-    {
-      "added_at": "2025-11-06 15:25:35",
-      "album": {
-        "name": "life",
-        "url": "https://open.spotify.com/album/3jXwsjv5HQE8LEp8hQLwun"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 156279,
-      "name": "life",
-      "url": "https://open.spotify.com/track/7FTkU2chrZIt2gfJefgaVY"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

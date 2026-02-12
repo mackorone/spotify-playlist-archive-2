@@ -10078,7 +10078,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 213257,
       "name": "Hybrid",
       "url": "https://open.spotify.com/track/7wEyBeHHjMIxrhTEnNDcsR"
@@ -11882,7 +11882,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 156279,
       "name": "life",
       "url": "https://open.spotify.com/track/7FTkU2chrZIt2gfJefgaVY"
@@ -12618,7 +12618,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 135724,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
@@ -16492,6 +16492,24 @@
       "duration_ms": 264827,
       "name": "Pump",
       "url": "https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n"
+    },
+    {
+      "album": {
+        "name": "Purge",
+        "url": "https://open.spotify.com/album/2zmBObW2J1UZanorzYUTLj"
+      },
+      "artists": [
+        {
+          "name": "Bossfight",
+          "url": "https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Purge",
+      "url": "https://open.spotify.com/track/2Pvoo7IQP53PwrG24DZNFE"
     },
     {
       "album": {

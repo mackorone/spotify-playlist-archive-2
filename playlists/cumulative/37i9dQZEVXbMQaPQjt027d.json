@@ -4128,7 +4128,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 152380,
       "name": "Drankorgel",
       "url": "https://open.spotify.com/track/3IGaFZt7Ctu3d7QMkyhS5z"
@@ -4430,7 +4430,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 184150,
       "name": "Euhj!",
       "url": "https://open.spotify.com/track/2Og1hNc7k1ta1vUu1vnwEc"
@@ -5244,7 +5244,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 219404,
       "name": "Gans D'r Aaf",
       "url": "https://open.spotify.com/track/6WwzYBxXAgBHF44tmZxPRk"
@@ -7816,7 +7816,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 181581,
       "name": "Kakalika",
       "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
@@ -11118,7 +11118,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
@@ -13970,7 +13970,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 190117,
       "name": "This Is All I'll Be",
       "url": "https://open.spotify.com/track/0szz1ZU7v1NkYfMDQX7HeF"
@@ -15040,7 +15040,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 146484,
       "name": "Verkeerde Gat",
       "url": "https://open.spotify.com/track/3CupXzjBMhy9vXtH6WgJHb"
@@ -16662,6 +16662,24 @@
       "duration_ms": 157948,
       "name": "YAPAR MISIN?",
       "url": "https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8"
+    },
+    {
+      "album": {
+        "name": "Yeralt\u0131",
+        "url": "https://open.spotify.com/album/7enP6Rz2LzW9et03U8W1aD"
+      },
+      "artists": [
+        {
+          "name": "Eypio",
+          "url": "https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "Yeralt\u0131",
+      "url": "https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22807,
+  "num_followers": 22809,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -1243,8 +1243,8 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Guetto Wave\u2019s",
-        "url": "https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
       },
       "artists": [
         {
@@ -1254,15 +1254,11 @@
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        },
-        {
-          "name": "LilBoy Bruce",
-          "url": "https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn"
         }
       ],
-      "duration_ms": 193661,
-      "name": "Soul da Noite.",
-      "url": "https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ"
+      "duration_ms": 164000,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
     },
     {
       "added_at": "2026-01-30 16:49:09",
@@ -1355,8 +1351,8 @@
     {
       "added_at": "2026-01-30 16:49:09",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
+        "name": "Guetto Wave\u2019s",
+        "url": "https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C"
       },
       "artists": [
         {
@@ -1366,11 +1362,15 @@
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "LilBoy Bruce",
+          "url": "https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
+      "duration_ms": 193661,
+      "name": "Soul da Noite.",
+      "url": "https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ"
     },
     {
       "added_at": "2026-01-30 16:49:09",

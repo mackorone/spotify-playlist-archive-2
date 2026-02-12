@@ -1,13 +1,93 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Cherry Bomb. Artwork by Paola Saliby",
-  "num_followers": 236832,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Chloe Saavedra. Artwork by Paola Saliby",
+  "num_followers": 236868,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGLMaFN+6DkYRpj8e5cwZvDI4s/G",
+  "snapshot_id": "AAAAAM7RM5raLXK6DRAMvb60huieBS21",
   "tracks": [
+    {
+      "added_at": "2026-02-11 13:40:41",
+      "album": {
+        "name": "Physics",
+        "url": "https://open.spotify.com/album/1paB1UR0VVbbG0uU8DgsNp"
+      },
+      "artists": [
+        {
+          "name": "Chloe Saavedra",
+          "url": "https://open.spotify.com/artist/2xUdw3i7hhy8Twz2vDwV2Y"
+        }
+      ],
+      "duration_ms": 261442,
+      "name": "Physics",
+      "url": "https://open.spotify.com/track/3ioLj3bm5B1N84ESeg31Q1"
+    },
+    {
+      "added_at": "2026-02-11 13:40:41",
+      "album": {
+        "name": "Face Like Yours",
+        "url": "https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 158980,
+      "name": "Face Like Yours",
+      "url": "https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM"
+    },
+    {
+      "added_at": "2026-02-11 13:40:41",
+      "album": {
+        "name": "break your own heart",
+        "url": "https://open.spotify.com/album/2lWESgqq7i1Xll8nDCOQED"
+      },
+      "artists": [
+        {
+          "name": "Harvey Brittain",
+          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
+        }
+      ],
+      "duration_ms": 194583,
+      "name": "break your own heart",
+      "url": "https://open.spotify.com/track/03w3rXukAjqDavSVdJPlNB"
+    },
+    {
+      "added_at": "2026-02-11 13:40:41",
+      "album": {
+        "name": "DANGERUSH",
+        "url": "https://open.spotify.com/album/4cYtuwrNSzsYe0QnD6Bqnz"
+      },
+      "artists": [
+        {
+          "name": "Jourdin Pauline",
+          "url": "https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk"
+        }
+      ],
+      "duration_ms": 167628,
+      "name": "DANGERUSH",
+      "url": "https://open.spotify.com/track/5WfjsBrLERzoPafwsxOOhE"
+    },
+    {
+      "added_at": "2026-02-11 13:40:41",
+      "album": {
+        "name": "DJesus",
+        "url": "https://open.spotify.com/album/0PkfgoOTi7L3nwJxMoWJOq"
+      },
+      "artists": [
+        {
+          "name": "Magdalene",
+          "url": "https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c"
+        }
+      ],
+      "duration_ms": 174655,
+      "name": "DJesus",
+      "url": "https://open.spotify.com/track/6PWoqFfl4HwgsScx99CyF2"
+    },
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
@@ -819,22 +899,6 @@
     {
       "added_at": "2026-01-14 05:00:01",
       "album": {
-        "name": "can't say no",
-        "url": "https://open.spotify.com/album/0re5i2MdwgcdlrUf0mhPRH"
-      },
-      "artists": [
-        {
-          "name": "Harvey Brittain",
-          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
-        }
-      ],
-      "duration_ms": 171147,
-      "name": "can't say no",
-      "url": "https://open.spotify.com/track/5aahxne9UEjbACb9zViMRI"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
         "name": "Navel",
         "url": "https://open.spotify.com/album/721hRxKYhqJnIT4iBzdJox"
       },
@@ -911,22 +975,6 @@
       "duration_ms": 128169,
       "name": "Honest",
       "url": "https://open.spotify.com/track/1q5OrJbTzVmgp7ii4c0x9I"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "All of a sudden we move",
-        "url": "https://open.spotify.com/album/0m7frKvrGaPlJK4tG1zNGj"
-      },
-      "artists": [
-        {
-          "name": "LonelyTwin",
-          "url": "https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM"
-        }
-      ],
-      "duration_ms": 241432,
-      "name": "all of a sudden we move",
-      "url": "https://open.spotify.com/track/1is4WyPrdz56pAcm4BQYsT"
     },
     {
       "added_at": "2026-01-14 05:00:01",

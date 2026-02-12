@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,792 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,783 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 17 | [Snow Fall](https://open.spotify.com/track/2QScw1XZ9UMw0HmmlyExBQ) | [Lyonti](https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ) | [Snow Fall](https://open.spotify.com/album/4BC8r8YSZfEw77vzyjQbwz) | 2:05 |
 | 18 | [Angels From the Realms of Glory](https://open.spotify.com/track/4mzy2PQeLfXanVsrnvjBoC) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Angels From the Realms of Glory](https://open.spotify.com/album/1fPgTkdFB9Hx3KlO6YcgXu) | 2:13 |
 | 19 | [Beats & Baubles](https://open.spotify.com/track/1nJiaOfFOxhM2zPupNQaoh) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [Beats & Baubles](https://open.spotify.com/album/32Jogj0yxkutOXSmLnOuJ1) | 1:48 |
-| 20 | [Holly Jolly Wishes](https://open.spotify.com/track/6Ph4oxrtrV2am5Y9N88pmF) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Holly Jolly Wishes](https://open.spotify.com/album/0sbsywGCJmZsgCeVkjxEq7) | 1:55 |
-| 21 | [Peaceful Memory](https://open.spotify.com/track/2WaMdKmR4qcjGlhxmtChGo) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [Peaceful Memory](https://open.spotify.com/album/6JBwVgqGvEzfxVCaTicBZi) | 2:15 |
+| 20 | [Peaceful Memory](https://open.spotify.com/track/2WaMdKmR4qcjGlhxmtChGo) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [Peaceful Memory](https://open.spotify.com/album/6JBwVgqGvEzfxVCaTicBZi) | 2:15 |
+| 21 | [Holly Jolly Wishes](https://open.spotify.com/track/6Ph4oxrtrV2am5Y9N88pmF) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Holly Jolly Wishes](https://open.spotify.com/album/0sbsywGCJmZsgCeVkjxEq7) | 1:55 |
 | 22 | [Last Christmas Lo\-Fi](https://open.spotify.com/track/0T11SuRD1LbPDj0QJZrSjE) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Last Christmas Lo\-Fi](https://open.spotify.com/album/1CoBx7PxXi70TtCustoOcq) | 2:08 |
 | 23 | [Hey Hey Santa](https://open.spotify.com/track/7a9vbwIxNkzrPHakG64ubo) | [Sakura](https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV) | [Hey Hey Santa](https://open.spotify.com/album/7rQ7n3vwoWF0KUZvKtVeJq) | 2:30 |
 | 24 | [I'll Be Home For Christmas](https://open.spotify.com/track/4hqviDebP0XpwxYVEz60mo) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [I'll Be Home For Christmas](https://open.spotify.com/album/03lrkjhqiwLRfAYVolwAKJ) | 1:27 |

@@ -30034,7 +30034,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 188631,
       "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
       "url": "https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc"
@@ -41558,7 +41558,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 158571,
       "name": "Rakastumisen oireet",
       "url": "https://open.spotify.com/track/7t0l5dhhyXHdSscnNTwPuR"
@@ -49114,7 +49114,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 172949,
       "name": "Syyp\u00e4\u00e4 sun hymyyn (Unitas Sigma)",
       "url": "https://open.spotify.com/track/1r0XbA4tHueOfnW3SnoLHu"
@@ -51558,6 +51558,24 @@
       "duration_ms": 199168,
       "name": "Titans (feat. Sia & Labrinth)",
       "url": "https://open.spotify.com/track/2nYPVp7BJuoaJ4rQmg5FM5"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "album": {

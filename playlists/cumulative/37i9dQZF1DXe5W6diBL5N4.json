@@ -5025,6 +5025,24 @@
     },
     {
       "album": {
+        "name": "The Legacy 23",
+        "url": "https://open.spotify.com/album/36rOFYKUtGz3fDQlqsv94l"
+      },
+      "artists": [
+        {
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233266,
+      "name": "A Chair for Her",
+      "url": "https://open.spotify.com/track/4Wg2QPBswygVDthVHuXymz"
+    },
+    {
+      "album": {
         "name": "A Chance Encounter",
         "url": "https://open.spotify.com/album/2fccNWzL5jDwu4dfbqRROs"
       },
@@ -9218,7 +9236,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 205000,
       "name": "After A Long Time",
       "url": "https://open.spotify.com/track/6x2iQYiypmUoAyapbeyVWt"
@@ -11700,6 +11718,24 @@
       "duration_ms": 269747,
       "name": "All I have left is separation",
       "url": "https://open.spotify.com/track/0E7W0Vxym2L4FiXRlsBmym"
+    },
+    {
+      "album": {
+        "name": "<All I Need>",
+        "url": "https://open.spotify.com/album/2bGsKrRWnJmhnCdF8gc3uN"
+      },
+      "artists": [
+        {
+          "name": "idntt",
+          "url": "https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/1L0pXWUh7MmjJ9sEtvbH9W"
     },
     {
       "album": {
@@ -21290,7 +21326,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
@@ -28506,7 +28542,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 209000,
       "name": "BLESSIN",
       "url": "https://open.spotify.com/track/0EYceSBCU4W21KSNy6w4op"
@@ -46092,7 +46128,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 178000,
       "name": "Come True (feat. Shin Onyu of Shin In Ryu)",
       "url": "https://open.spotify.com/track/0qtrYviuHe78ta3I6Y9xwN"
@@ -47834,7 +47870,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 348000,
       "name": "Countdown to Three like a Habit",
       "url": "https://open.spotify.com/track/6EbVa7DkMT0Uy7zs3Hj9lQ"
@@ -67850,6 +67886,24 @@
       "duration_ms": 181333,
       "name": "Eternal Fire",
       "url": "https://open.spotify.com/track/0bNZ5ZtV3xpKsCkBwLIL5W"
+    },
+    {
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/6SW4JPjumGrjRlVdOUPR67"
+      },
+      "artists": [
+        {
+          "name": "JINSOL",
+          "url": "https://open.spotify.com/artist/3g0GCvyJM0GmjBlLV8NIAV"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167857,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/15HIANlZ9d8ciyf2z0i1YC"
     },
     {
       "album": {
@@ -99593,6 +99647,24 @@
     },
     {
       "album": {
+        "name": "JIWOO 1st EP '(EX)IST'",
+        "url": "https://open.spotify.com/album/1BtEjWVuWfNpzBJIC4PoAm"
+      },
+      "artists": [
+        {
+          "name": "JEON JIWOO",
+          "url": "https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194682,
+      "name": "Home Sweet Home (Inst.)",
+      "url": "https://open.spotify.com/track/5aHgIg1oOEWujOoWBB1EaI"
+    },
+    {
+      "album": {
         "name": "with Evan Rhodes",
         "url": "https://open.spotify.com/album/5QJ4Z6Ap2fDI4ORBFOdNve"
       },
@@ -109436,6 +109508,24 @@
       "duration_ms": 178240,
       "name": "I Revive",
       "url": "https://open.spotify.com/track/7p0ioxh3zkPuvpnVdqVJ2K"
+    },
+    {
+      "album": {
+        "name": "Webtoon \u2018The Remarried Empress\u2019 Part. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2cuObUnEFIJR8pEWrKDEux"
+      },
+      "artists": [
+        {
+          "name": "BELLE",
+          "url": "https://open.spotify.com/artist/6NsHyr1CcyPSYAiWmW1A1U"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "I Rise (Webtoon \u2018The Remarried Empress\u2019)",
+      "url": "https://open.spotify.com/track/1zDVQYhoxBKlXkpUntu0Cr"
     },
     {
       "album": {
@@ -126321,6 +126411,28 @@
     },
     {
       "album": {
+        "name": "KETCHUP (with DAUL)",
+        "url": "https://open.spotify.com/album/3eB1Tdfgc4NTy5biUJXHRT"
+      },
+      "artists": [
+        {
+          "name": "Coco K",
+          "url": "https://open.spotify.com/artist/1WFVD9B1qvU1UPYcTSahqs"
+        },
+        {
+          "name": "DAUL",
+          "url": "https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "KETCHUP (with DAUL)",
+      "url": "https://open.spotify.com/track/7vRbgGeSOrVw4BLHJWsiuH"
+    },
+    {
+      "album": {
         "name": "No Problem!",
         "url": "https://open.spotify.com/album/4YgiAuGgTtCQmKqeqd0pyt"
       },
@@ -129442,6 +129554,24 @@
     {
       "album": {
         "name": "Last Love",
+        "url": "https://open.spotify.com/album/4jMqo0Fsa1nGt0yq5S2pk6"
+      },
+      "artists": [
+        {
+          "name": "Tei",
+          "url": "https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/5wOCYMy0SP58fPiXOc4p3s"
+    },
+    {
+      "album": {
+        "name": "Last Love",
         "url": "https://open.spotify.com/album/7gIqAdB4iJkUC9dTb3kaVP"
       },
       "artists": [
@@ -130838,6 +130968,24 @@
       "duration_ms": 196813,
       "name": "Leave the memory",
       "url": "https://open.spotify.com/track/61gw229GwW4UwDP03jV8mF"
+    },
+    {
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/4WYPunihadZ0y8IRY96HZh"
+      },
+      "artists": [
+        {
+          "name": "OWALLOIL",
+          "url": "https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228340,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/3k0RmMUC0DzqKIeVF8Tpwt"
     },
     {
       "album": {
@@ -135916,7 +136064,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 196200,
       "name": "lilac",
       "url": "https://open.spotify.com/track/4zB4KkdJTY3YhlC2CtODcs"
@@ -152908,7 +153056,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 193000,
       "name": "Midnight Glow (No tail to tell : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/2tJPh00tLndW3i8VTYXRMx"
@@ -155688,7 +155836,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 170653,
       "name": "Mono (Feat. skaiwater)",
       "url": "https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g"
@@ -246041,6 +246189,24 @@
     },
     {
       "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/6eT4LKo7jWInz7LDS2Jky3"
+      },
+      "artists": [
+        {
+          "name": "HWANG MIN HYUN",
+          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0a4O30qpS18xaHGS5l1ZCT"
+    },
+    {
+      "album": {
         "name": "The Voice",
         "url": "https://open.spotify.com/album/2hRXn9IPc6ZdTRck0ODI0N"
       },
@@ -258680,7 +258846,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 184000,
       "name": "What Love Is",
       "url": "https://open.spotify.com/track/18iOwgbRDm7FX3BIyOmfZE"
@@ -274703,6 +274869,24 @@
     },
     {
       "album": {
+        "name": "Normal Life",
+        "url": "https://open.spotify.com/album/7j83wp8UM4bW5BwBLbVhOF"
+      },
+      "artists": [
+        {
+          "name": "blah",
+          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188932,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/1OF94wxgNL6Gvbswew0tL0"
+    },
+    {
+      "album": {
         "name": "Begins youth (Original Xclusive Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/7EWOjdfobSe2DvcEm34VZz"
       },
@@ -281772,7 +281956,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 220916,
       "name": "\ubd88\uc528",
       "url": "https://open.spotify.com/track/2Q7YLi0wCdpSkVozV0fJmJ"
@@ -285096,7 +285280,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 203000,
       "name": "\uc624\ub298 \ubc24\uc740 \ucde8\ud574 \ubcfc\uac8c\uc694",
       "url": "https://open.spotify.com/track/2QfBVi4AgoRP1Hk0rn7A3J"

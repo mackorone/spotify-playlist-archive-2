@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 30264,
+  "num_followers": 30275,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "MOVE - The 2nd Album",
-        "url": "https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 211949,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Girl's Day Love Second Album",
         "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 200705,
       "name": "Something",
       "url": "https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "MOVE - The 2nd Album",
+        "url": "https://open.spotify.com/album/2Ka8QpE2XUUjL4vOQihkJH"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 211949,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/1cgBWgoL6520lR2QZDzdGN"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Only One - The 7th Album",
-        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 217085,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "HER",
         "url": "https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 179053,
       "name": "HER",
       "url": "https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Only One - The 7th Album",
+        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "duration_ms": 217085,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "KARA 3rd Album STEP",
-        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
+        "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
       },
       "artists": [
         {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
         }
       ],
-      "duration_ms": 203586,
-      "name": "STEP",
-      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
+      "duration_ms": 282806,
+      "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
+      "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "\uad11\ud654\ubb38\uc5d0\uc11c At Gwanghwamun - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv"
+        "name": "KARA 3rd Album STEP",
+        "url": "https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9"
       },
       "artists": [
         {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
         }
       ],
-      "duration_ms": 282806,
-      "name": "\uad11\ud654\ubb38\uc5d0\uc11c (At Gwanghwamun)",
-      "url": "https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR"
+      "duration_ms": 203586,
+      "name": "STEP",
+      "url": "https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Nitpicking",
-        "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 213577,
-      "name": "Nitpicking",
-      "url": "https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Lupin",
         "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 192440,
       "name": "Lupin",
       "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Nitpicking",
+        "url": "https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 213577,
+      "name": "Nitpicking",
+      "url": "https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Mama - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
-      },
-      "artists": [
-        {
-          "name": "EXO-K",
-          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
-        }
-      ],
-      "duration_ms": 204181,
-      "name": "Machine",
-      "url": "https://open.spotify.com/track/4w65wiJvFz8ea3bbeFl7kI"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "KARA 4th Album [Full Bloom] (4)",
         "url": "https://open.spotify.com/album/0W2QlrSKNnvpXZl3LgFNhv"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 186044,
       "name": "Damaged Lady",
       "url": "https://open.spotify.com/track/1X1Z8YnSOYkgzWBEYGoF2M"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "duration_ms": 204181,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/4w65wiJvFz8ea3bbeFl7kI"
     },
     {
       "added_at": "2024-08-05 16:58:20",

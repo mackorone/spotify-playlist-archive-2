@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1561510,
+  "num_followers": 1561968,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADyaguaKdUZXiEmI9nwZPqngakP1",
+  "snapshot_id": "AAAAABi2guEXPnyOm1KQ4nX//a3gZDfE",
   "tracks": [
     {
       "added_at": "2026-02-10 17:17:47",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "ELSEWHERE",
-        "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 209215,
-      "name": "Apatia",
-      "url": "https://open.spotify.com/track/5FKMhyyrQT3gbDh9KcjFIF"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "Clin D'oeil",
         "url": "https://open.spotify.com/album/3LGqUhFfPQ26PLU4Ok6ZpU"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 328573,
       "name": "Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni",
       "url": "https://open.spotify.com/track/0FMMLKHb74VB0H5u2fP6xo"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "ELSEWHERE",
+        "url": "https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 209215,
+      "name": "Apatia",
+      "url": "https://open.spotify.com/track/5FKMhyyrQT3gbDh9KcjFIF"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -731,6 +731,30 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
+        "name": "The Actual Proof",
+        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        },
+        {
+          "name": "Tiff the Gift",
+          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -759,30 +783,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "The Actual Proof",
-        "url": "https://open.spotify.com/album/2wXkMcPSKQz0NagH6RpAwe"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        },
-        {
-          "name": "Tiff the Gift",
-          "url": "https://open.spotify.com/artist/6gsl4EK4nr9nzkSd17vIeO"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "Resurrection",
         "url": "https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 227826,
       "name": "Resurrection",
       "url": "https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
-        "name": "Quiet Miles",
-        "url": "https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "Blueberry",
-      "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -831,6 +815,22 @@
       "duration_ms": 289426,
       "name": "1995",
       "url": "https://open.spotify.com/track/0Qopdd7xJyhNd3tcvZEAgG"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "Quiet Miles",
+        "url": "https://open.spotify.com/album/0I2NptQ0tO8IWotNVN8qOQ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "Blueberry",
+      "url": "https://open.spotify.com/track/7GMLETHBUF8ZndeSvi99Uc"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -863,6 +863,30 @@
       "duration_ms": 194786,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "Sleep Is the Cousin of Death",
+        "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
+      },
+      "artists": [
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        },
+        {
+          "name": "Dephlow",
+          "url": "https://open.spotify.com/artist/1nCUYuFML9tgcrVZ605wXB"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 154837,
+      "name": "Street Jazz",
+      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -939,30 +963,6 @@
       "duration_ms": 223772,
       "name": "Got Me Thinkin' (feat. Sparkz)",
       "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
-        "name": "Sleep Is the Cousin of Death",
-        "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
-      },
-      "artists": [
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
-        },
-        {
-          "name": "Dephlow",
-          "url": "https://open.spotify.com/artist/1nCUYuFML9tgcrVZ605wXB"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 154837,
-      "name": "Street Jazz",
-      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1047,62 +1047,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "Seraphim for Sale",
-        "url": "https://open.spotify.com/album/6a2MqDYQR9GEBenv2wKoDF"
-      },
-      "artists": [
-        {
-          "name": "Quantacious",
-          "url": "https://open.spotify.com/artist/6wkeHn7TQuwK1xABTOi939"
-        }
-      ],
-      "duration_ms": 106896,
-      "name": "Seraphim for Sale",
-      "url": "https://open.spotify.com/track/5Ni2AkQOKfGocZBCmef4Qe"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
-        "name": "Jagged Tooth Crook",
-        "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
-      },
-      "artists": [
-        {
-          "name": "The Mouse Outfit",
-          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
-        },
-        {
-          "name": "IAMDDB",
-          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
-        },
-        {
-          "name": "KinKai",
-          "url": "https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj"
-        }
-      ],
-      "duration_ms": 224374,
-      "name": "Feeling High",
-      "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
       },
@@ -1143,6 +1087,46 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "Jagged Tooth Crook",
+        "url": "https://open.spotify.com/album/192hNpxnuWIEaWZiIJmkNV"
+      },
+      "artists": [
+        {
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+        },
+        {
+          "name": "IAMDDB",
+          "url": "https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI"
+        },
+        {
+          "name": "KinKai",
+          "url": "https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj"
+        }
+      ],
+      "duration_ms": 224374,
+      "name": "Feeling High",
+      "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
         "name": "3:AM (feat. Erykah Badu)",
         "url": "https://open.spotify.com/album/4pTWXfffnCr06nRRkJyXFq"
       },
@@ -1159,26 +1143,6 @@
       "duration_ms": 213566,
       "name": "3:AM (feat. Erykah Badu)",
       "url": "https://open.spotify.com/track/5rnAG9S1dqU79m7HqTw688"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
-        "name": "Ultimate Dump Gawd 2",
-        "url": "https://open.spotify.com/album/4BK1I0k2gg8PmhBPMiV1ac"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 142222,
-      "name": "Blk Luster S",
-      "url": "https://open.spotify.com/track/5mtYUulyfrFWugzqHLe8mw"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1215,6 +1179,26 @@
       "duration_ms": 238573,
       "name": "Memories Live",
       "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "Ultimate Dump Gawd 2",
+        "url": "https://open.spotify.com/album/4BK1I0k2gg8PmhBPMiV1ac"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 142222,
+      "name": "Blk Luster S",
+      "url": "https://open.spotify.com/track/5mtYUulyfrFWugzqHLe8mw"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1311,6 +1295,26 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
         "name": "BLAH",
         "url": "https://open.spotify.com/album/7mQxz688kGblo1TPYp40VM"
       },
@@ -1331,26 +1335,6 @@
       "duration_ms": 147906,
       "name": "BLAH",
       "url": "https://open.spotify.com/track/7zsSnv9ff1GMvf0LxXHpnP"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1415,6 +1399,26 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
         "name": "One of Those Feelings",
         "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
       },
@@ -1435,22 +1439,18 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0OfR0ZKIbir2qUEYBDHtAw"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
         }
       ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+      "duration_ms": 131506,
+      "name": "ICON",
+      "url": "https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1513,7 +1513,7 @@
         },
         {
           "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/5kwsNJFbDmWUpst7JVmEei"
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
           "name": "Young Chris",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-02-10 17:17:47",
       "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0OfR0ZKIbir2qUEYBDHtAw"
-      },
-      "artists": [
-        {
-          "name": "Mike Shabb",
-          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
-        }
-      ],
-      "duration_ms": 131506,
-      "name": "ICON",
-      "url": "https://open.spotify.com/track/1QLg7U58jTBcF5MN2iz7KY"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
         "name": "Stories From The Brass Section",
         "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
       },
@@ -1579,6 +1563,26 @@
       "duration_ms": 200829,
       "name": "Blue In Green",
       "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "GREEN LIGHT",
+        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "GREEN LIGHT",
+      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -1603,26 +1607,6 @@
       "duration_ms": 202270,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl"
-    },
-    {
-      "added_at": "2026-02-10 17:17:47",
-      "album": {
-        "name": "GREEN LIGHT",
-        "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
-      },
-      "artists": [
-        {
-          "name": "Moses Yoofee Trio",
-          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "GREEN LIGHT",
-      "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
     },
     {
       "added_at": "2026-02-10 17:17:47",
@@ -2015,6 +1999,22 @@
       "duration_ms": 127594,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW"
+    },
+    {
+      "added_at": "2026-02-10 17:17:47",
+      "album": {
+        "name": "THE FIFTH",
+        "url": "https://open.spotify.com/album/7w60iPNhta9fiKiQ61mulV"
+      },
+      "artists": [
+        {
+          "name": "Coast Contra",
+          "url": "https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ"
+        }
+      ],
+      "duration_ms": 200612,
+      "name": "RULAZ",
+      "url": "https://open.spotify.com/track/6MXbOpXo165jln2ukWqG9n"
     }
   ],
   "unique_name": "Jazz Rap",

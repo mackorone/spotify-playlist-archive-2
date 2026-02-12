@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: L\u00e9a Mendon\u00e7a",
-  "num_followers": 361790,
+  "num_followers": 361840,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-02-06 16:08:30",
       "album": {
+        "name": "Se Eles Soubessem",
+        "url": "https://open.spotify.com/album/3NX9Po3tletMqx81eH2eSb"
+      },
+      "artists": [
+        {
+          "name": "Laura Souguellis",
+          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
+        }
+      ],
+      "duration_ms": 540820,
+      "name": "Se Eles Soubessem",
+      "url": "https://open.spotify.com/track/2pBJnwywVY93Sxswu2Llrz"
+    },
+    {
+      "added_at": "2026-02-06 16:08:30",
+      "album": {
         "name": "Fidelidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 330921,
       "name": "Fidelidade (Ao Vivo)",
       "url": "https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq"
-    },
-    {
-      "added_at": "2026-02-06 16:08:30",
-      "album": {
-        "name": "Se Eles Soubessem",
-        "url": "https://open.spotify.com/album/3NX9Po3tletMqx81eH2eSb"
-      },
-      "artists": [
-        {
-          "name": "Laura Souguellis",
-          "url": "https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2"
-        }
-      ],
-      "duration_ms": 540820,
-      "name": "Se Eles Soubessem",
-      "url": "https://open.spotify.com/track/2pBJnwywVY93Sxswu2Llrz"
     },
     {
       "added_at": "2026-02-06 16:08:30",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-02-06 16:08:30",
       "album": {
-        "name": "Deus Preparou Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn"
-      },
-      "artists": [
-        {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 280160,
-      "name": "Deus Preparou Tudo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt"
-    },
-    {
-      "added_at": "2026-02-06 16:08:30",
-      "album": {
         "name": "Chegou Um Tempo Novo",
         "url": "https://open.spotify.com/album/1pJOzwn6LVrNtB5BvDQBYf"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 286293,
       "name": "Chegou Um Tempo Novo",
       "url": "https://open.spotify.com/track/2fwtvB5PDJ88Cnm3BuabjF"
+    },
+    {
+      "added_at": "2026-02-06 16:08:30",
+      "album": {
+        "name": "Deus Preparou Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn"
+      },
+      "artists": [
+        {
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 280160,
+      "name": "Deus Preparou Tudo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt"
     },
     {
       "added_at": "2026-02-06 16:08:30",

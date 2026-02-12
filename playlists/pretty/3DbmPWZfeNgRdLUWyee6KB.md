@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,244 likes - 156 songs - 8 hr 48 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,249 likes - 164 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,5 +164,13 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 154 | [Joyful Days](https://open.spotify.com/track/2ejqRknRaC6zC1WQLuUcTb) | [Mustafa Erhan](https://open.spotify.com/artist/7mve4x9DCP237Y8I1UC4TK) | [All in One](https://open.spotify.com/album/4tAYZAjdvpsskwRxDT3bXn) | 3:04 |
 | 155 | [A quoi bon](https://open.spotify.com/track/3BOJLuvEAvFB7oLmuFMahx) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [A quoi bon](https://open.spotify.com/album/3keMZ2GXAofv25DynqnSBU) | 3:46 |
 | 156 | [Roma](https://open.spotify.com/track/5UFMhB0iMZ9IRZnXVtE9uJ) | [Pedro Santos Oliveira](https://open.spotify.com/artist/6ipu3U0iZEkAiULeIr8JCQ) | [Roma](https://open.spotify.com/album/28GEpbSVfkg6AripcKvexZ) | 2:47 |
+| 157 | [24](https://open.spotify.com/track/0auAhRNjTNd5rzOEnpLFqX) | [Sush 28](https://open.spotify.com/artist/2VSNYqXIGA7Sr8XyIDMczK) | [24](https://open.spotify.com/album/3sVAjWg3oST76Lb1xxgQhv) | 2:12 |
+| 158 | [Post Office Queen](https://open.spotify.com/track/3RW4WJT9bXPp7dJ8Xrldlu) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Post Office Queen](https://open.spotify.com/album/6DOEhu00M4lATr06LZAswN) | 3:11 |
+| 159 | [ON GOD](https://open.spotify.com/track/5xyGLGhyPb09LTE5v8Ggwc) | [KPND](https://open.spotify.com/artist/00Lcjy0q0KyumzQZeSNxxI) | [ACTIVE BRO 2 \(DELUXE\)](https://open.spotify.com/album/5Ud8Ktev0D1GnkKnSI0uHS) | 2:32 |
+| 160 | [Un'altra lacrima](https://open.spotify.com/track/7Dhz8HBG6kELvHBxrvrIvB) | [Aranini](https://open.spotify.com/artist/6Kj7garqqGAHTTJ1hPiKid), [Bruggio](https://open.spotify.com/artist/07I8xA92ygY3jQMthS2hcu) | [Un'altra lacrima](https://open.spotify.com/album/6QOZ48cHPFvruAI8kvyu1m) | 3:03 |
+| 161 | [Thief In The Night](https://open.spotify.com/track/2KobDZhPckNUn2ee5mK1MV) | [Krio](https://open.spotify.com/artist/6fP0UUQ2SsI2xvbqGhXDbN) | [Thief In The Night](https://open.spotify.com/album/58noKn3XFuK5RfYYG3XWTJ) | 2:37 |
+| 162 | [Everything](https://open.spotify.com/track/1oL4pFLc2E8b9CKsZApmSm) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [Love & Heartbreak, Vol\. 3](https://open.spotify.com/album/3b2UKbjlhHnEJHr3LjpRmi) | 4:28 |
+| 163 | [Man Of My Word](https://open.spotify.com/track/1UsIwCa8th9i8oJz7GipbL) | [Cas Du Pree](https://open.spotify.com/artist/4zm8klNA7kodCThJ02HJsL) | [Man Of My Word](https://open.spotify.com/album/2cwMvSLeiEmoywmNcZQf7u) | 3:55 |
+| 164 | [Tu último trofeo](https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [Tu último trofeo](https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt) | 3:06 |
 
-Snapshot ID: `AAAQUG+FIlHGKeFaUDWdWLmBSovkXw0K`
+Snapshot ID: `AAAQWNLbZaUL18lmR2droNRGA1gDmZst`

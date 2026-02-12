@@ -75,6 +75,28 @@
     },
     {
       "album": {
+        "name": "12 Romances, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)",
+        "url": "https://open.spotify.com/album/7iS9aKarntg9ayUf1QANzG"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Alexander Malofeev",
+          "url": "https://open.spotify.com/artist/02QMwZF7kLqDVGDTZ5GoSw"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170040,
+      "name": "12 Romances, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano)",
+      "url": "https://open.spotify.com/track/50X1nyQm1C8wZyqtCr3WKy"
+    },
+    {
+      "album": {
         "name": "Rachmaninoff: Pr\u00e9ludes; \u00c9tudes-Tableaux; Moments musicaux",
         "url": "https://open.spotify.com/album/5952RUol8Nl7Ihk1zcaUb4"
       },
@@ -5450,7 +5472,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 77160,
       "name": "Pr\u00e9lude, M. 65",
       "url": "https://open.spotify.com/track/0ryPaNXmcXz5NrTBRhlEKY"

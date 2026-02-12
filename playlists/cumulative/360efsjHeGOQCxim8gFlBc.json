@@ -1743,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "Breath Of The Tide",
+        "url": "https://open.spotify.com/album/4TokKwLVDrWsltdJBE26hf"
+      },
+      "artists": [
+        {
+          "name": "Sonoe",
+          "url": "https://open.spotify.com/artist/48VgDgh7JSNHr1lRFLjXiq"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101259,
+      "name": "Breath Of The Tide",
+      "url": "https://open.spotify.com/track/26k1LWFSFf1x3kVX144yEm"
+    },
+    {
+      "album": {
         "name": "Broken Waltz",
         "url": "https://open.spotify.com/album/3ie4veJvgpbsyMhUyh5DUu"
       },
@@ -6185,6 +6203,24 @@
     },
     {
       "album": {
+        "name": "Hiver (5:14)",
+        "url": "https://open.spotify.com/album/2IoX0QExzSZG9C68LcuOat"
+      },
+      "artists": [
+        {
+          "name": "Oscar Kowalski",
+          "url": "https://open.spotify.com/artist/7Gnfc999GpLqlXO2t3je04"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Hiver (5:14)",
+      "url": "https://open.spotify.com/track/56VnAXOYj5OLUZyjJFoOqI"
+    },
+    {
+      "album": {
         "name": "Hiver (7:11)",
         "url": "https://open.spotify.com/album/28zPXylnqx9stnNEvdVJ5z"
       },
@@ -7373,6 +7409,24 @@
     },
     {
       "album": {
+        "name": "Just for You",
+        "url": "https://open.spotify.com/album/1rFL9xImt7jDF4FUhGqst0"
+      },
+      "artists": [
+        {
+          "name": "astral.atmos",
+          "url": "https://open.spotify.com/artist/2thf6HRyll029GBqn9Crko"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113588,
+      "name": "Just for You",
+      "url": "https://open.spotify.com/track/7q1WWTZqsY2oKzCromnVVD"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/1E8matkBwd6sxIPSdVV8Mh"
       },
@@ -8202,10 +8256,28 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 240000,
       "name": "lost in thought",
       "url": "https://open.spotify.com/track/2i98t1liW7ImQ0YNlQi2Pj"
+    },
+    {
+      "album": {
+        "name": "Lost in thought",
+        "url": "https://open.spotify.com/album/0luNhXqxWPWPUssG97ypux"
+      },
+      "artists": [
+        {
+          "name": "Str\u00e6pa",
+          "url": "https://open.spotify.com/artist/5C2NT5QL8JLj2VjiPIyhFW"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141774,
+      "name": "Lost in thought",
+      "url": "https://open.spotify.com/track/48gmrmDGunS2zX0tnNNvEM"
     },
     {
       "album": {
@@ -8864,6 +8936,24 @@
       "duration_ms": 131586,
       "name": "Midnight Whisper",
       "url": "https://open.spotify.com/track/0je3yqAP0JLrzUpIalRwxG"
+    },
+    {
+      "album": {
+        "name": "mind of a genius",
+        "url": "https://open.spotify.com/album/0GlIAcrFzePLUpyFHaMEvl"
+      },
+      "artists": [
+        {
+          "name": "onlyzach",
+          "url": "https://open.spotify.com/artist/0UlTasbC3GTcNI00B34mNA"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118375,
+      "name": "mind of a genius",
+      "url": "https://open.spotify.com/track/0wi7G4ouSUYYNyrDoMsY7A"
     },
     {
       "album": {
@@ -10973,6 +11063,24 @@
     },
     {
       "album": {
+        "name": "pure attention",
+        "url": "https://open.spotify.com/album/7sm3b9IUIJZlPqAoHdX4qi"
+      },
+      "artists": [
+        {
+          "name": "onlyzach",
+          "url": "https://open.spotify.com/artist/0UlTasbC3GTcNI00B34mNA"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100625,
+      "name": "pure attention",
+      "url": "https://open.spotify.com/track/6Qy9dHeYMTr2QfWO9QWI1H"
+    },
+    {
+      "album": {
         "name": "Genshin Impact Relaxing Beside Bed Collection",
         "url": "https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3"
       },
@@ -12399,6 +12507,24 @@
     },
     {
       "album": {
+        "name": "Sliver",
+        "url": "https://open.spotify.com/album/7zemnSpuc1lN57ce7iKD94"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Sliver (Piano Version)",
+      "url": "https://open.spotify.com/track/1ciWfZMhjjbujMZLt66oUs"
+    },
+    {
+      "album": {
         "name": "slow motion",
         "url": "https://open.spotify.com/album/33w6jI4FQLI4lMPcrccUd8"
       },
@@ -12799,6 +12925,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Safe",
+        "url": "https://open.spotify.com/album/3CHR1wYJmEKwEX8ptrpn0Z"
+      },
+      "artists": [
+        {
+          "name": "Emil S\u00f8r",
+          "url": "https://open.spotify.com/artist/4rdp6nTZQpNfCz0ncF0W4X"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106782,
+      "name": "Somewhere Safe",
+      "url": "https://open.spotify.com/track/6wnarSCF1buINvIUGw3Pc1"
+    },
+    {
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/5pxoxaMsN5ceSQvMpXDrVq"
       },
@@ -13148,6 +13292,24 @@
       "duration_ms": 165375,
       "name": "Starlit",
       "url": "https://open.spotify.com/track/5H8ZSo9IKN6gNdc6PnFYGJ"
+    },
+    {
+      "album": {
+        "name": "start of a new year",
+        "url": "https://open.spotify.com/album/1suZzxKXXf3Ce7xJA74Ksw"
+      },
+      "artists": [
+        {
+          "name": "onlyzach",
+          "url": "https://open.spotify.com/artist/0UlTasbC3GTcNI00B34mNA"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66125,
+      "name": "start of a new year",
+      "url": "https://open.spotify.com/track/0pb6LvFb1suugj2mPf6IDl"
     },
     {
       "album": {
@@ -13612,6 +13774,24 @@
       "duration_ms": 90750,
       "name": "tales of hope",
       "url": "https://open.spotify.com/track/2cSY1J8gukDf1gsKlk3nqc"
+    },
+    {
+      "album": {
+        "name": "tears at night",
+        "url": "https://open.spotify.com/album/5kdiz73YU5b91D5Q12BuAp"
+      },
+      "artists": [
+        {
+          "name": "onlyzach",
+          "url": "https://open.spotify.com/artist/0UlTasbC3GTcNI00B34mNA"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84937,
+      "name": "tears at night",
+      "url": "https://open.spotify.com/track/65qFmzOczP5l2B6YbIYCXR"
     },
     {
       "album": {

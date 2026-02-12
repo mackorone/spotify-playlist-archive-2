@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166061,
+  "num_followers": 166064,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/6PZW1d2kBgZGgoisBL9pcu"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        }
+      ],
+      "duration_ms": 182069,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/06eJJV9q1HieNW8dm9htJt"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Ring Doorbell",
         "url": "https://open.spotify.com/album/0FRunFsZtqZ4TPely2oAWI"
       },
@@ -715,22 +731,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Flow",
-        "url": "https://open.spotify.com/album/6PZW1d2kBgZGgoisBL9pcu"
-      },
-      "artists": [
-        {
-          "name": "[IVY]",
-          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
-        }
-      ],
-      "duration_ms": 182069,
-      "name": "Flow",
-      "url": "https://open.spotify.com/track/06eJJV9q1HieNW8dm9htJt"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Disguise",
         "url": "https://open.spotify.com/album/3NQAohLVL3a4QG3Gp01tVc"
       },
@@ -747,22 +747,6 @@
       "duration_ms": 193273,
       "name": "Disguise",
       "url": "https://open.spotify.com/track/5ZWJAsrrjXUBPv3tYxaHEN"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Close My Eyes",
-        "url": "https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "Close My Eyes",
-      "url": "https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -787,6 +771,22 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Skanka",
         "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 190689,
       "name": "Skanka",
       "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Machine Learning",
+        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "Techno",
+      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -827,18 +843,18 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Machine Learning",
-        "url": "https://open.spotify.com/album/0vzOqWspRmC3J9ofLmvVh1"
+        "name": "Anti/Thesis: Vol. 2",
+        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
       },
       "artists": [
         {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
         }
       ],
-      "duration_ms": 275862,
-      "name": "Techno",
-      "url": "https://open.spotify.com/track/1hqcJqPsCqWFxYmwTS6ldS"
+      "duration_ms": 233083,
+      "name": "Grindhouse",
+      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -859,22 +875,6 @@
       "duration_ms": 182500,
       "name": "247",
       "url": "https://open.spotify.com/track/5TbilnxKohBOt8yfwv02Qf"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Anti/Thesis: Vol. 2",
-        "url": "https://open.spotify.com/album/0iKWqO5peRjlQJestaZ6pH"
-      },
-      "artists": [
-        {
-          "name": "High Contrast",
-          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
-        }
-      ],
-      "duration_ms": 233083,
-      "name": "Grindhouse",
-      "url": "https://open.spotify.com/track/0iFqHuKiFoQAD6IpQGcXaG"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Back 2 Back",
-        "url": "https://open.spotify.com/album/1qifRrKiai9KblVPvEx3gR"
-      },
-      "artists": [
-        {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
-        },
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Back 2 Back",
-      "url": "https://open.spotify.com/track/3ogoZDptV0na4dDSztv8OD"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Mariana",
         "url": "https://open.spotify.com/album/6xpvo4YTTH53G0UQ2NDein"
       },
@@ -1095,22 +1075,22 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Disappear",
-        "url": "https://open.spotify.com/album/6Z6E12BZGBn1BYyF2PvT9E"
+        "name": "Back 2 Back",
+        "url": "https://open.spotify.com/album/1qifRrKiai9KblVPvEx3gR"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
         },
         {
-          "name": "WHAT EVA",
-          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
         }
       ],
-      "duration_ms": 193542,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/7m4kAkVUzGxvYJwRlxDZPI"
+      "duration_ms": 226285,
+      "name": "Back 2 Back",
+      "url": "https://open.spotify.com/track/3ogoZDptV0na4dDSztv8OD"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1131,6 +1111,26 @@
       "duration_ms": 171034,
       "name": "Shrine",
       "url": "https://open.spotify.com/track/4KrJzVt3twq5VFkMFhEr0e"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Disappear",
+        "url": "https://open.spotify.com/album/6Z6E12BZGBn1BYyF2PvT9E"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        }
+      ],
+      "duration_ms": 193542,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7m4kAkVUzGxvYJwRlxDZPI"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1311,6 +1311,26 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "On Your Feet",
+        "url": "https://open.spotify.com/album/1934Phan5spsO5879iwokO"
+      },
+      "artists": [
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        },
+        {
+          "name": "Dogger",
+          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
+        }
+      ],
+      "duration_ms": 279069,
+      "name": "On Your Feet",
+      "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Bear Trap",
         "url": "https://open.spotify.com/album/3KT9XMUbKyJGOWkndLK6wI"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 202000,
       "name": "Simulation",
       "url": "https://open.spotify.com/track/6xnBre4gfp3CiOazJ44IMy"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "On Your Feet",
-        "url": "https://open.spotify.com/album/1934Phan5spsO5879iwokO"
-      },
-      "artists": [
-        {
-          "name": "DRS",
-          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
-        },
-        {
-          "name": "Dogger",
-          "url": "https://open.spotify.com/artist/79gz89B3EUt31SNQVQW1tU"
-        }
-      ],
-      "duration_ms": 279069,
-      "name": "On Your Feet",
-      "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Bad Like We",
+        "url": "https://open.spotify.com/album/5C0XFFqgELRXBmEZoPMJge"
+      },
+      "artists": [
+        {
+          "name": "Virus Syndicate",
+          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
+        },
+        {
+          "name": "Killa Benz",
+          "url": "https://open.spotify.com/artist/4Ddv3wbXyjkQRuflGXy7xM"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Bad Like We",
+      "url": "https://open.spotify.com/track/6ssBXWgW8GaUfDfOzne2tS"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "TEK",
         "url": "https://open.spotify.com/album/474HNg0vy4i1r6ZRTkyaIo"
       },
@@ -1443,26 +1463,6 @@
       "duration_ms": 182068,
       "name": "TEK (feat.Killa P)",
       "url": "https://open.spotify.com/track/3erxcHJ61TSb6eewzR1pAU"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Bad Like We",
-        "url": "https://open.spotify.com/album/5C0XFFqgELRXBmEZoPMJge"
-      },
-      "artists": [
-        {
-          "name": "Virus Syndicate",
-          "url": "https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n"
-        },
-        {
-          "name": "Killa Benz",
-          "url": "https://open.spotify.com/artist/4Ddv3wbXyjkQRuflGXy7xM"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Bad Like We",
-      "url": "https://open.spotify.com/track/6ssBXWgW8GaUfDfOzne2tS"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
+        "name": "Come With It",
+        "url": "https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy"
+      },
+      "artists": [
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+        }
+      ],
+      "duration_ms": 200228,
+      "name": "Come With It",
+      "url": "https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
         "name": "Charlie Says",
         "url": "https://open.spotify.com/album/5p3MyOKbzIy7djL8XzxKvt"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 232835,
       "name": "Charlie Says",
       "url": "https://open.spotify.com/track/1YqNj0rVwjyj7rq6PhTCKA"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
-        "name": "Come With It",
-        "url": "https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy"
-      },
-      "artists": [
-        {
-          "name": "Selecta J-Man",
-          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
-        }
-      ],
-      "duration_ms": 200228,
-      "name": "Come With It",
-      "url": "https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N"
-      },
-      "artists": [
-        {
-          "name": "S.P.Y",
-          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Empire",
         "url": "https://open.spotify.com/album/4sfEJd0kHLYe0x7qTrnugx"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 231586,
       "name": "The Samurai",
       "url": "https://open.spotify.com/track/1CfQ6NhnjR4JO9wnHKzleb"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q"
     },
     {
       "added_at": "2026-02-06 00:00:07",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2026-02-06 00:00:07",
       "album": {
-        "name": "Bringing the pain",
-        "url": "https://open.spotify.com/album/1IIhfLfwtp1OQFYKfQLMZS"
-      },
-      "artists": [
-        {
-          "name": "Alonestar",
-          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 201299,
-      "name": "Bringing the pain",
-      "url": "https://open.spotify.com/track/5ptEed5dl6MPK5TbA8zvV5"
-    },
-    {
-      "added_at": "2026-02-06 00:00:07",
-      "album": {
         "name": "Baby Daddy",
         "url": "https://open.spotify.com/album/6Nuc91gIYUyty9zuVTpNp8"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 242758,
       "name": "Gangsta Boppage",
       "url": "https://open.spotify.com/track/4RHzRYAD4s9kZcGukQWIJ7"
+    },
+    {
+      "added_at": "2026-02-06 00:00:07",
+      "album": {
+        "name": "Bringing the pain",
+        "url": "https://open.spotify.com/album/1IIhfLfwtp1OQFYKfQLMZS"
+      },
+      "artists": [
+        {
+          "name": "Alonestar",
+          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 201299,
+      "name": "Bringing the pain",
+      "url": "https://open.spotify.com/track/5ptEed5dl6MPK5TbA8zvV5"
     },
     {
       "added_at": "2026-02-06 00:00:07",

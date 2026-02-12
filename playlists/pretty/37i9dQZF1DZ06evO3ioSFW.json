@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 516998,
+  "num_followers": 517052,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAACJ/Vp5MmCiIhtHqKZhVuDo",
+  "snapshot_id": "aYp1AAAAAADa41qIuBz5SFv3MxeORXLa",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
-        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
+        "name": "Habla el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 180096,
-      "name": "Para Que Seas Feliz - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/1sQ9566ugBDsUmwyYTvZxN"
+      "duration_ms": 262333,
+      "name": "Como Yo Nadie Te Ha Amado (This Ain't a Love Song)",
+      "url": "https://open.spotify.com/track/3Fv1f20Go5eQ39mOkt2qM1"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habla el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy"
+        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 262333,
-      "name": "Como Yo Nadie Te Ha Amado (This Ain't a Love Song)",
-      "url": "https://open.spotify.com/track/3Fv1f20Go5eQ39mOkt2qM1"
+      "duration_ms": 180096,
+      "name": "Para Que Seas Feliz - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/1sQ9566ugBDsUmwyYTvZxN"
     },
     {
       "added_at": null,

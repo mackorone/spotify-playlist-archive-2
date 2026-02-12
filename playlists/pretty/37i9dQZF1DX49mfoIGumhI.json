@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.",
-  "num_followers": 267835,
+  "num_followers": 267912,
   "original_name": "Salsa: Los '80",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 281186,
+      "name": "Dese\u00e1ndote",
+      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "De Verdad",
         "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
@@ -267,8 +283,8 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
       },
       "artists": [
         {
@@ -276,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 281186,
-      "name": "Dese\u00e1ndote",
-      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
+      "duration_ms": 303306,
+      "name": "Tu Con El",
+      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -347,18 +363,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
+        "name": "Salsa Exitos",
+        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Pedro Conga",
+          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
         }
       ],
-      "duration_ms": 303306,
-      "name": "Tu Con El",
-      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
+      "duration_ms": 311800,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -375,22 +391,6 @@
       "duration_ms": 299960,
       "name": "Tu Me Quemas",
       "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Salsa Exitos",
-        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
-      },
-      "artists": [
-        {
-          "name": "Pedro Conga",
-          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
-        }
-      ],
-      "duration_ms": 311800,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Serie Platino: Eddie Santiago",
-        "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Me Fallaste",
-      "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 389560,
       "name": "Quiero Saber",
       "url": "https://open.spotify.com/track/4NSE3aImn1LeqIMpNEKwVL"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Serie Platino: Eddie Santiago",
+        "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Me Fallaste",
+      "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/1wqORnosBdEaJRYvtheYk5"
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 301960,
-      "name": "Yo Me Quedo",
-      "url": "https://open.spotify.com/track/6MWTAYls9b7YJm5wEkFgoS"
+      "duration_ms": 266013,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/1wqORnosBdEaJRYvtheYk5"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 266013,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
+      "duration_ms": 301960,
+      "name": "Yo Me Quedo",
+      "url": "https://open.spotify.com/track/6MWTAYls9b7YJm5wEkFgoS"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -847,22 +847,18 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Sobredosis de Amor y Salsa",
-        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
       },
       "artists": [
         {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        },
-        {
-          "name": "\u00d3scar Quesada",
-          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 249878,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
+      "duration_ms": 261880,
+      "name": "Amantes De Otro Tiempo",
+      "url": "https://open.spotify.com/track/2NQsj4HzvWYw5VbDJRrlJY"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -883,18 +879,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+        "name": "Sobredosis de Amor y Salsa",
+        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        },
+        {
+          "name": "\u00d3scar Quesada",
+          "url": "https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9"
         }
       ],
-      "duration_ms": 261880,
-      "name": "Amantes De Otro Tiempo",
-      "url": "https://open.spotify.com/track/2NQsj4HzvWYw5VbDJRrlJY"
+      "duration_ms": 249878,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/0viAbizcy2QtBHd5ubN1G7"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 273066,
+      "name": "Cantante de Cartel",
+      "url": "https://open.spotify.com/track/0RBwK6GDmq2CACUzlsBw7B"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 287459,
       "name": "Por Retenerte",
       "url": "https://open.spotify.com/track/6ADkHioGKvBpqDkXVhMZKr"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/0viAbizcy2QtBHd5ubN1G7"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 273066,
-      "name": "Cantante de Cartel",
-      "url": "https://open.spotify.com/track/0RBwK6GDmq2CACUzlsBw7B"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1031,6 +1031,22 @@
       "duration_ms": 321706,
       "name": "Caricias Prohibidas",
       "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "SALSEANDO CON... UNO",
+        "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
+      },
+      "artists": [
+        {
+          "name": "Salseando",
+          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
+        }
+      ],
+      "duration_ms": 309386,
+      "name": "Fantasia Herida",
+      "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1099,38 +1115,6 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
-        "name": "SALSEANDO CON... UNO",
-        "url": "https://open.spotify.com/album/3bPX120qXpWjTiBhLE5VP6"
-      },
-      "artists": [
-        {
-          "name": "Salseando",
-          "url": "https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0"
-        }
-      ],
-      "duration_ms": 309386,
-      "name": "Fantasia Herida",
-      "url": "https://open.spotify.com/track/64IXm03vNARlDsFdT1H6R2"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Sobredosis de Amor y Salsa",
-        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
-      },
-      "artists": [
-        {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Comp\u00e1rame",
-      "url": "https://open.spotify.com/track/3cteDTwtx8kkuyK7w4PKV4"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
         "name": "Sexy Salsa",
         "url": "https://open.spotify.com/album/5ggthPsE5zY3Jtv0ti5rdv"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2024-07-11 00:51:42",
       "album": {
+        "name": "Sobredosis de Amor y Salsa",
+        "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 263400,
+      "name": "Comp\u00e1rame",
+      "url": "https://open.spotify.com/track/3cteDTwtx8kkuyK7w4PKV4"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
         "name": "De Amor y Salsa",
         "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 213170,
       "name": "Enamorado \u00bfY Qu\u00e9?",
       "url": "https://open.spotify.com/track/3SHxpoqH97ODVLsWdmtnQe"
+    },
+    {
+      "added_at": "2024-07-11 00:51:42",
+      "album": {
+        "name": "Viva Rosario!",
+        "url": "https://open.spotify.com/album/2mQQtrwymV5FWe4J3krkds"
+      },
+      "artists": [
+        {
+          "name": "Willie Rosario",
+          "url": "https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J"
+        }
+      ],
+      "duration_ms": 300016,
+      "name": "Anuncio Clasificado D\u00e1melo",
+      "url": "https://open.spotify.com/track/0l8cFIENiNtgPThxSdyMiP"
     },
     {
       "added_at": "2024-07-11 00:51:42",
@@ -1231,22 +1247,6 @@
       "duration_ms": 262613,
       "name": "Mi Amante Ni\u00f1a, Mi Compa\u00f1era",
       "url": "https://open.spotify.com/track/1N3ONvkxXejayq8djiahWd"
-    },
-    {
-      "added_at": "2024-07-11 00:51:42",
-      "album": {
-        "name": "Exitos de Alex Leon",
-        "url": "https://open.spotify.com/album/7cKeslZWAgVWOsHAXpGhfs"
-      },
-      "artists": [
-        {
-          "name": "Alex Leon",
-          "url": "https://open.spotify.com/artist/5psRZB6rHWyHpsIiJUUX7r"
-        }
-      ],
-      "duration_ms": 285600,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/6Hy15JctLui5HYK03s5oT6"
     },
     {
       "added_at": "2024-07-11 00:51:42",

@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Joyce Manor
 
-602 songs - 1 day 6 hr 12 min
+603 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [New Paint](https://open.spotify.com/track/5Ex8Ze050rnPRmYhjEMZQT) | [Rarity](https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg) | [Lower Feeling](https://open.spotify.com/album/35QyWZYT93Nh3JXUjLXaF3) | 3:12 | 2024-06-14 | 2024-07-13 |
 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 | 2023-06-20 | 2024-06-01 |
 | [NEW YOU ANTHEM](https://open.spotify.com/track/04wK7a5tJvp4z9uhahGoz7) | [Held.](https://open.spotify.com/artist/3ZOzZEPo5kM5QZlfdF6vgm), [Frank Iero](https://open.spotify.com/artist/75CziSb5bEWIj1m8TdMwYy) | [NEW YOU ANTHEM](https://open.spotify.com/album/7aw10f3LtTKdUeKOriYXi1) | 3:32 | 2026-02-06 |  |
-| [Nice to Know Ya](https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Nice to Know Ya](https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p) | 2:59 | 2025-02-07 |  |
+| [Nice to Know Ya](https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Nice to Know Ya](https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p) | 2:59 | 2025-02-07 | 2026-02-12 |
 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 | 2022-12-02 | 2023-01-19 |
 | [No Backbone](https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [No Backbone](https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL) | 2:17 | 2024-05-31 | 2025-02-08 |
 | [No Guilt](https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS) | [PROJECTOR](https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9) | [No Guilt](https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9) | 2:04 | 2023-11-13 | 2024-03-03 |
@@ -540,6 +540,7 @@
 | [The Good Life](https://open.spotify.com/track/5hWYAmFdxJzSEBqgYfCaVx) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh), [Gwendoline Christie](https://open.spotify.com/artist/5IVTpZihpMnl50YeAvZ9RS), [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [The Demise Of Planet X](https://open.spotify.com/album/4SWvydRBO91rnCEYHsvcK9) | 3:00 | 2026-02-06 |  |
 | [The Heart](https://open.spotify.com/track/6lP16B6cMgkRmqXDzZNh0N) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [The Heart](https://open.spotify.com/album/3tEiKAfyGmPod4qyZc9IDi) | 2:35 | 2024-02-16 | 2024-04-26 |
 | [The Hogg](https://open.spotify.com/track/0EafyqIHJGK9WuTX5KaqZ7) | [CIVIC](https://open.spotify.com/artist/7ATw5ZiG6dfYFUUVpCsyFe) | [The Hogg](https://open.spotify.com/album/4ONoMe87kCX6GV7gAs6DdA) | 3:20 | 2025-05-08 | 2025-09-05 |
+| [The Hurt Continues](https://open.spotify.com/track/51sb7CUU1tSAw1iWe3tQwn) | [Blood & Tears](https://open.spotify.com/artist/2TtDxxQQEqbb6gy5o7cOnW) | [Brotherhood Demo](https://open.spotify.com/album/0vL9ARWBlnjyrJ5rag2EVS) | 2:29 | 2026-02-11 |  |
 | [The Last Drag](https://open.spotify.com/track/6YgLfZRRyZ22lYuEMg5rC7) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Half Album](https://open.spotify.com/album/6TabKLBAyynahNuuxaKGOD) | 6:10 | 2024-05-31 | 2024-10-11 |
 | [The Recipe](https://open.spotify.com/track/3NASP9IkcrulrSZl8otyFd) | [Death By Unga Bunga](https://open.spotify.com/artist/3GbYOxp3xc7O9lpuJQRi9K) | [The Recipe](https://open.spotify.com/album/1CbdsILSyFJWcCBGFKlcM7) | 2:44 | 2025-02-07 | 2025-02-14 |
 | [The Sacrifice](https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [The Sacrifice / At Sickness](https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL) | 3:28 | 2024-10-10 | 2025-02-08 |

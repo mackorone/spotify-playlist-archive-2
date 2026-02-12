@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,048 likes - 208 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,988 likes - 208 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 207 | [Through All the Layers](https://open.spotify.com/track/6Jw7fuuDwXhktC0uWumjEI) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Through All the Layers](https://open.spotify.com/album/23UiTNEALmjHGIxPc0OtBM) | 3:06 |
 | 208 | [Angelic Planet](https://open.spotify.com/track/3PQkT6k7wYVrpCdfw1nUHC) | [Angelic Planet](https://open.spotify.com/artist/1Dl9lNBXtDneUcugFZPq3H) | [Galactic](https://open.spotify.com/album/5auZsjKYVdL2d7aSHgXMWV) | 2:47 |
 
-Snapshot ID: `AAAAAONiK3347qhc52FqG9SOIRnYtS+V`
+Snapshot ID: `AAAAAFduBrI8zm6CjeOxj/Ld7P5+E1CT`

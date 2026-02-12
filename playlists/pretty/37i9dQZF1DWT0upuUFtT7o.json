@@ -1,13 +1,93 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: Mackeeper\n",
-  "num_followers": 254460,
+  "description": "The best new indie tracks from independent artists & labels. Cover: Victoryland\n",
+  "num_followers": 254472,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE2vHe//EKf4r9FwjaPy4aHnMvG+",
+  "snapshot_id": "AAAAAJ7oiKE4P4R25gyqI4SdLJU95hcJ",
   "tracks": [
+    {
+      "added_at": "2026-02-11 17:00:28",
+      "album": {
+        "name": "My Heart Is A Room With No Cameras In It",
+        "url": "https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu"
+      },
+      "artists": [
+        {
+          "name": "Victoryland",
+          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
+        }
+      ],
+      "duration_ms": 235429,
+      "name": "I got god",
+      "url": "https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I"
+    },
+    {
+      "added_at": "2026-02-11 17:00:28",
+      "album": {
+        "name": "Move On With The Year",
+        "url": "https://open.spotify.com/album/5JMt8gvc13TSA5YCm9Hwe3"
+      },
+      "artists": [
+        {
+          "name": "Alice Costelloe",
+          "url": "https://open.spotify.com/artist/1xbZZl0gYutFPyiUAXuJLy"
+        }
+      ],
+      "duration_ms": 357902,
+      "name": "Feet On The Sand",
+      "url": "https://open.spotify.com/track/7BekKBRhD7H6rLgzZ0szIJ"
+    },
+    {
+      "added_at": "2026-02-11 17:00:28",
+      "album": {
+        "name": "1 plus 1",
+        "url": "https://open.spotify.com/album/1LysZgJlcQxPkF3VcRCs80"
+      },
+      "artists": [
+        {
+          "name": "Eilish Constance",
+          "url": "https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj"
+        }
+      ],
+      "duration_ms": 181566,
+      "name": "1 plus 1",
+      "url": "https://open.spotify.com/track/10Vy8sTZEt4gAYs3DTKKon"
+    },
+    {
+      "added_at": "2026-02-11 17:00:28",
+      "album": {
+        "name": "substack girl",
+        "url": "https://open.spotify.com/album/21DkCT5JXgHgaVWPoaDGTl"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "substack girl",
+      "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "Impaler",
+        "url": "https://open.spotify.com/album/0C5OtavRdxSTs0eReaFzgW"
+      },
+      "artists": [
+        {
+          "name": "Rosacea boy",
+          "url": "https://open.spotify.com/artist/61YfdcpPNccLF3vgbHKKj1"
+        }
+      ],
+      "duration_ms": 205766,
+      "name": "Impaler",
+      "url": "https://open.spotify.com/track/12FjzonRpdzyEKV4r2ZZOO"
+    },
     {
       "added_at": "2026-02-04 17:00:09",
       "album": {
@@ -25,6 +105,54 @@
       "url": "https://open.spotify.com/track/0bppglsr8SfwaYt1FI4L4v"
     },
     {
+      "added_at": "2026-02-11 17:00:28",
+      "album": {
+        "name": "CAT AND DOG",
+        "url": "https://open.spotify.com/album/7zMKsX7lR9zFaZrvsPa6l4"
+      },
+      "artists": [
+        {
+          "name": "almost a.m.",
+          "url": "https://open.spotify.com/artist/4Z2wzyq0l5fihW1OrsGtMt"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "CAT AND DOG",
+      "url": "https://open.spotify.com/track/5vegfruiWmIAsrnaMcwDQe"
+    },
+    {
+      "added_at": "2026-02-11 17:04:11",
+      "album": {
+        "name": "Sleep Paralysis",
+        "url": "https://open.spotify.com/album/3pArOOBacOmVaJEATRcJYQ"
+      },
+      "artists": [
+        {
+          "name": "Ken Park",
+          "url": "https://open.spotify.com/artist/7AyoL7nBpOxuFWu706TN1J"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "Sleep Paralysis",
+      "url": "https://open.spotify.com/track/6txiEQkCxZQjyzCPRhXqUM"
+    },
+    {
+      "added_at": "2026-02-11 17:00:28",
+      "album": {
+        "name": "City Girl",
+        "url": "https://open.spotify.com/album/1lMlLc62JZoeEeJVAb5zVH"
+      },
+      "artists": [
+        {
+          "name": "naarjesse",
+          "url": "https://open.spotify.com/artist/0Yeft76DHqpV2MWMfeOQRT"
+        }
+      ],
+      "duration_ms": 180599,
+      "name": "City Girl",
+      "url": "https://open.spotify.com/track/1RwhNNeWrMIMrSvwEMLNIG"
+    },
+    {
       "added_at": "2026-01-28 17:00:07",
       "album": {
         "name": "Kiss&Tell",
@@ -39,6 +167,38 @@
       "duration_ms": 225477,
       "name": "Kiss&Tell",
       "url": "https://open.spotify.com/track/0yXTpkFo1pZbyC5kavCgq9"
+    },
+    {
+      "added_at": "2026-02-11 17:00:28",
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/69MKyZkRZIYsAu0kACZfkc"
+      },
+      "artists": [
+        {
+          "name": "White Fence",
+          "url": "https://open.spotify.com/artist/5gH9MJvoI7pN9bohESzYaA"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/5wJBsjJ1vy7MdNEdBIxhYO"
+    },
+    {
+      "added_at": "2026-02-04 17:00:09",
+      "album": {
+        "name": "What Do They See",
+        "url": "https://open.spotify.com/album/1zOVu4GpQZdDwEPrfoapgW"
+      },
+      "artists": [
+        {
+          "name": "Yes Ma'am",
+          "url": "https://open.spotify.com/artist/5mVfHZc8vQGl1r5p2QDNuD"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Watching",
+      "url": "https://open.spotify.com/track/35NqFBeUgIcB651JQ22PYU"
     },
     {
       "added_at": "2026-02-04 17:00:09",
@@ -71,38 +231,6 @@
       "duration_ms": 130243,
       "name": "IDIED",
       "url": "https://open.spotify.com/track/27EndTXJMq8cxMbqAGtCuR"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "What Do They See",
-        "url": "https://open.spotify.com/album/1zOVu4GpQZdDwEPrfoapgW"
-      },
-      "artists": [
-        {
-          "name": "Yes Ma'am",
-          "url": "https://open.spotify.com/artist/5mVfHZc8vQGl1r5p2QDNuD"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Watching",
-      "url": "https://open.spotify.com/track/35NqFBeUgIcB651JQ22PYU"
-    },
-    {
-      "added_at": "2026-02-04 17:00:09",
-      "album": {
-        "name": "Impaler",
-        "url": "https://open.spotify.com/album/0C5OtavRdxSTs0eReaFzgW"
-      },
-      "artists": [
-        {
-          "name": "Rosacea boy",
-          "url": "https://open.spotify.com/artist/61YfdcpPNccLF3vgbHKKj1"
-        }
-      ],
-      "duration_ms": 205766,
-      "name": "Impaler",
-      "url": "https://open.spotify.com/track/12FjzonRpdzyEKV4r2ZZOO"
     },
     {
       "added_at": "2026-02-04 17:00:09",
@@ -731,22 +859,6 @@
     {
       "added_at": "2026-01-14 17:37:13",
       "album": {
-        "name": "How Can I",
-        "url": "https://open.spotify.com/album/5o3KRvLvjigNPS95hd3EMN"
-      },
-      "artists": [
-        {
-          "name": "Alice Costelloe",
-          "url": "https://open.spotify.com/artist/1xbZZl0gYutFPyiUAXuJLy"
-        }
-      ],
-      "duration_ms": 238096,
-      "name": "How Can I",
-      "url": "https://open.spotify.com/track/6ev5ii9Zpk67XEhdNTtY5z"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
         "name": "Unapologetic",
         "url": "https://open.spotify.com/album/78S2n9guKgQloVRTFgUdRR"
       },
@@ -1123,22 +1235,6 @@
       "duration_ms": 152592,
       "name": "Token",
       "url": "https://open.spotify.com/track/32UB2su8kJ6vr73LJeUwjo"
-    },
-    {
-      "added_at": "2026-01-14 17:37:13",
-      "album": {
-        "name": "I\u2019ll Show You Mine",
-        "url": "https://open.spotify.com/album/5gvsbPxh7yC0vKmyJAWxSg"
-      },
-      "artists": [
-        {
-          "name": "Victoryland",
-          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
-        }
-      ],
-      "duration_ms": 181115,
-      "name": "I\u2019ll Show You Mine",
-      "url": "https://open.spotify.com/track/7yMTODMV7mhCo7SfB3jTEw"
     },
     {
       "added_at": "2026-01-14 17:37:13",

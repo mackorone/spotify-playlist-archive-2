@@ -4,7 +4,7 @@
 
 > 
 
-142 songs - 10 hr 26 min
+143 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Reena](https://open.spotify.com/track/5Hfo4j3E3jYSSFDIjvZDwB) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Rather Ripped](https://open.spotify.com/album/57V5TA5DLxNvwPCPyXW1tB) | 3:47 | 2024-05-10 |  |
 | [Renegade Princess](https://open.spotify.com/track/5Szz7dKBtibipmr9pyB8ia) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [NYC Ghosts & Flowers](https://open.spotify.com/album/0RJpSjJjeFWvLSL6O3BgxK) | 5:48 | 2024-06-01 |  |
 | [Sacred Trickster](https://open.spotify.com/track/508r0vYhNEbxQSXN8FGH4s) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [The Eternal](https://open.spotify.com/album/65BVBy0AK3F7eQj1XShfh1) | 2:11 | 2024-05-26 |  |
+| [Saucer\-Like](https://open.spotify.com/track/1nio0EPd1Oq80XwyKyin2c) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Washing Machine](https://open.spotify.com/album/0VskfMaczM0MNAlqqvokTC) | 4:25 | 2026-02-11 |  |
 | [Schizophrenia](https://open.spotify.com/track/22t3vCXfjQhIiXzGVSZNOz) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sister](https://open.spotify.com/album/4gPkBsMmufyOMCJbXUUme8) | 4:38 | 2024-05-10 |  |
 | [Scooter And Jinx](https://open.spotify.com/track/2MYS0JEbatuHwzR8FvmzyT) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Goo](https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr) | 1:04 | 2024-05-11 |  |
 | [Screaming Skull](https://open.spotify.com/track/3cPO4Da9eXwW1at7j1Mtjy) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Experimental Jet Set, Trash And No Star](https://open.spotify.com/album/3O8NuSnjHy8wiBqbG6N4yO) | 2:38 | 2024-05-10 |  |

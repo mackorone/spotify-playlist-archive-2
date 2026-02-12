@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Von Quar
 
-386 songs - 19 hr 41 min
+387 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [New hair, New me](https://open.spotify.com/track/0jlIGGHaXmdagLgGNsYQRk) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [New hair, New me](https://open.spotify.com/album/0dMh0YdW5h2e0uGLFxLAEs) | 2:32 | 2025-09-11 | 2025-09-19 |
 | [No One Else](https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [No One Else](https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi) | 3:51 | 2024-09-05 | 2024-10-17 |
 | [Noget For Nogen](https://open.spotify.com/track/6nzQ4R4i3g70M0ZKo8qaiT) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Noget For Nogen](https://open.spotify.com/album/4cTBw8cEyxgshlZz5SO447) | 3:24 | 2024-06-27 | 2024-08-14 |
+| [North](https://open.spotify.com/track/1NGusiS2w1O7tmJPgBfDTi) | [sweepy](https://open.spotify.com/artist/4lHXCZWKKjkCN5IOO6Hl3P) | [shortcuts](https://open.spotify.com/album/2lP7f5wXJy2g3zWiI1U371) | 2:52 | 2026-02-05 |  |
 | [nothing at all](https://open.spotify.com/track/4R8nC9Xq3alkz4piaQd34S) | [Elliot](https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd), [Reveal Party](https://open.spotify.com/artist/665kf4qpOB0x1GE1TfFhAT) | [nothing at all](https://open.spotify.com/album/5qCrlkXncgAS7h7f5VsOGa) | 3:28 | 2025-10-09 | 2026-01-28 |
 | [Ny Og Næ](https://open.spotify.com/track/3Qrb34pY41bEv1UaFy9li9) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Ny Og Næ](https://open.spotify.com/album/10LVG1XLuoTivi3WYvPqkD) | 3:11 | 2024-06-27 | 2024-09-24 |
 | [Når Du Rører Ved Mig](https://open.spotify.com/track/1KaWWvD6AcG3Hyyr9jyLhf) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Når Du Rører Ved Mig](https://open.spotify.com/album/4QF32PL3bB5cAzY6RFzeLg) | 3:37 | 2024-06-27 | 2024-11-20 |
@@ -386,7 +387,7 @@
 | [within](https://open.spotify.com/track/3ASDReYuOvbp6wUf9wV2yg) | [joshua.](https://open.spotify.com/artist/6YyTzqDH4pzFhkmIDs8Edw) | [within](https://open.spotify.com/album/3KCV6PkHJIOguwyNtqQgin) | 3:11 | 2025-08-07 | 2025-08-15 |
 | [Without You \(feat\. eee gee\)](https://open.spotify.com/track/0QhufSlyQVv6o9X4erX7WS) | [Selma Judith](https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc), [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Half truths from a broken heart](https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz) | 4:12 | 2024-09-12 | 2024-09-26 |
 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 | 2025-04-17 | 2025-07-11 |
-| [Won't Be Me](https://open.spotify.com/track/0rBiDLWMhp6pNZBBIvbbyF) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Won't Be Me](https://open.spotify.com/album/0jGSAnDG6ZMOJoODpsYucS) | 2:47 | 2026-01-01 |  |
+| [Won't Be Me](https://open.spotify.com/track/0rBiDLWMhp6pNZBBIvbbyF) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Won't Be Me](https://open.spotify.com/album/0jGSAnDG6ZMOJoODpsYucS) | 2:47 | 2026-01-01 | 2026-02-12 |
 | [Words for Myself](https://open.spotify.com/track/0n0iTPcp4RMXnVN6ZdEEGe) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Words for Myself](https://open.spotify.com/album/4YDcP1HZt5vETOWs765m3Z) | 2:10 | 2025-06-19 | 2025-10-17 |
 | [You Don't Wanna Be Mine](https://open.spotify.com/track/46zvZV1EiD2Qch4qELYLno) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [You Don't Wanna Be Mine](https://open.spotify.com/album/7e9JMqzTga2FTNHZFmG1NP) | 2:39 | 2025-09-11 | 2025-10-31 |
 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 | 2025-03-27 | 2025-07-11 |

@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,710 songs - 13 day 7 hr 9 min
+5,713 songs - 13 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,6 +768,7 @@
 | [Call Me](https://open.spotify.com/track/7nQhFbKfO3hxfAw15uA034) | [Sôra](https://open.spotify.com/artist/0Bx4jpot6hc7oUbu2SbtJ1) | [Call Me](https://open.spotify.com/album/03dKZ8RvGoLxOz6H3UhWIc) | 2:52 | 2024-03-22 | 2024-04-01 |
 | [Call Me](https://open.spotify.com/track/03bm2Pb3iYhmvcFqSzYlOF) | [Victoria Sorensen](https://open.spotify.com/artist/1ezhiaH3xp6eMO7L7HO4bh) | [Young Buds, Old Roses](https://open.spotify.com/album/4p1NsTHXmc8yg3LX7kv92a) | 3:04 | 2025-02-24 | 2025-03-08 |
 | [Call Me \(Jam Version\)](https://open.spotify.com/track/1YShEig3ZEQHsuO472JvVL) | [Musicismost](https://open.spotify.com/artist/1e9D47jZbnrgXSD9HlJSPK) | [Call Me \(Jam Version\)](https://open.spotify.com/album/7aCO5xglVMZUwTjRMRaypk) | 4:01 | 2023-01-13 | 2023-02-04 |
+| [Call My Soul Back](https://open.spotify.com/track/3BzFgSujgr9sQv0nz2agEd) | [Catdraggon](https://open.spotify.com/artist/3KAFSyOCx8EGhQj8ExHeCv) | [Call My Soul Back](https://open.spotify.com/album/6tqf6l6sQt3pZ5jyLatgnX) | 4:37 | 2026-02-11 |  |
 | [calle ikigai](https://open.spotify.com/track/4uVRZiCd7JrfDHSAX9x8yP) | [Alejandra](https://open.spotify.com/artist/0jeeWPL8mhvqfYE69AZKqG), [El Colmillo](https://open.spotify.com/artist/1MZLKz8UHfmF3kZ6HuNcs2) | [calle ikigai](https://open.spotify.com/album/4TQK3UDim7dJcoSo67jWaR) | 3:48 | 2023-07-19 | 2023-08-04 |
 | [Calling Back](https://open.spotify.com/track/0E1tLCLmyK5pmNewAqHBvb) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Calling Back](https://open.spotify.com/album/2xuD8TvbHrWLVm7imgFajY) | 3:06 | 2022-05-06 | 2022-05-30 |
 | [Calling Me Back \- Coeus Remix](https://open.spotify.com/track/0iEClQxJw6VHyXrSyifNJ1) | [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Coeus](https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya) | [Vangelis Dreams EP \- Reimagined](https://open.spotify.com/album/0CFe0tqHQKry2xVk0KiV9E) | 7:46 | 2021-05-21 | 2021-06-06 |
@@ -4339,6 +4340,7 @@
 | [Shut Up! \- Remix](https://open.spotify.com/track/2qgRIUlMjPPs7ubALkAyJu) | [Arianna Tsar](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [Shut Up! \(Remix\)](https://open.spotify.com/album/0VumUQYv6xhVFomRhUFIyu) | 2:52 | 2025-05-14 | 2025-05-26 |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-07-01 | 2025-02-09 |
 | [Si Estás Tú](https://open.spotify.com/track/73boys8t6EZpAaTkqe7eUb) | [Mercee](https://open.spotify.com/artist/43XYW7dEnlB8qXeQafi9zm) | [Si Estás Tú](https://open.spotify.com/album/2Fjqvwu2gOdhyy5euBlukf) | 2:26 | 2025-07-26 | 2025-08-16 |
+| [Si fuimos algo](https://open.spotify.com/track/4BT50O2HFYORi2aNDjSe3N) | [MANENA](https://open.spotify.com/artist/0iqltBGuFMhKSGJoObggvs) | [Parsimoniosa](https://open.spotify.com/album/6QdStxptw0ctxYiDVpX1Xy) | 3:16 | 2026-02-11 |  |
 | [Si Mami Supiera](https://open.spotify.com/track/5NjPjjIMcZpTq9pAzAhYYc) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Si Mami Supiera](https://open.spotify.com/album/5VpzCs2WdWVYWltfREOM9V) | 2:40 | 2024-09-11 | 2024-09-24 |
 | [Si Me Das Tu Vida](https://open.spotify.com/track/0bcy1ViuqTZzUODRz4f0hI) | [Carlo Meucci](https://open.spotify.com/artist/2m4YO3P3mXSrX52wPoH2xa) | [Si Me Das Tu Vida](https://open.spotify.com/album/2SF29zcTKB84GrSVAdQKGl) | 3:19 | 2023-07-28 | 2023-08-20 |
 | [Si tu Vois Ma Mère](https://open.spotify.com/track/0ZzPwtN1UdX7sARH05TMH2) | [Sacha Boutros](https://open.spotify.com/artist/1PuKXBmVnyDWJEjXIsOY3y), [Hugo Lippi](https://open.spotify.com/artist/6RFPSpBwx4xVZohB4qcXy7), [Stéphane Belmondo](https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ), [Thomas Bramerie](https://open.spotify.com/artist/0wDzOYze3ix7yh8brXMZBq), [Franck Amsallem](https://open.spotify.com/artist/06jhaOqZJv7tx8WFZMfhcc) | [Sacha: Paris After Dark](https://open.spotify.com/album/6czbcWoFuwAeAQWdGtyoQW) | 4:21 | 2026-01-10 | 2026-01-22 |
@@ -4521,6 +4523,7 @@
 | [Speeding Lanes](https://open.spotify.com/track/5y5Mx8Z7OV4QPZoZFTw5bn) | [LTB](https://open.spotify.com/artist/0T5S2f6DGFpJAGavX5TSLh) | [Speeding Lanes](https://open.spotify.com/album/4WUo9SgwB1TTTDSbRDBEeR) | 3:12 | 2024-09-28 | 2024-10-10 |
 | [Spells Me Under](https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Spells Me Under](https://open.spotify.com/album/5MBthw34DHiOyOloVIZksC) | 4:46 | 2024-08-02 |  |
 | [Spinning Around \- Radio Edit](https://open.spotify.com/track/4hADtejU4tDI2BIeTPXFU8) | [Kristo](https://open.spotify.com/artist/1RrVpgU9PiDBWMySEXUTgN) | [Spinning Around](https://open.spotify.com/album/5kx8G3VBLbGvQqTR49ZGGl) | 3:09 | 2025-12-09 | 2026-01-17 |
+| [Spinning On A Spire](https://open.spotify.com/track/5UbBse5sRanejFjYxPlSUB) | [Dominic Lavoie](https://open.spotify.com/artist/6IbM5ng5cjZuZoCSjEO6LR) | [Spinning On A Spire](https://open.spotify.com/album/1hTFzhm0SJjefZO5snnPlp) | 3:29 | 2026-02-12 |  |
 | [Spiral](https://open.spotify.com/track/1WVKamUNm7hBCFrbXMyPWY) | [Luna Jones](https://open.spotify.com/artist/6ZAC4z2jh5hlryaE1pv0pN) | [Spiral](https://open.spotify.com/album/7qcRGXRDEsNa4A8NnbZKDs) | 3:40 | 2025-05-30 | 2025-06-14 |
 | [Spiraling](https://open.spotify.com/track/0zBnBtzSrxjRs5oYOJj3Ta) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Funky Bohemia](https://open.spotify.com/album/7pXuu4jDWDScC6s8DOu0aK) | 3:35 | 2020-05-26 | 2020-06-10 |
 | [Split](https://open.spotify.com/track/2zZZkPENB1UpWvAyS36nNi) | [Nematode](https://open.spotify.com/artist/6OTtPIzDOFUAO1CnTK84da) | [Split](https://open.spotify.com/album/6fEcf3BRaZziOnBjc3L7CQ) | 1:56 | 2024-08-23 | 2024-09-18 |

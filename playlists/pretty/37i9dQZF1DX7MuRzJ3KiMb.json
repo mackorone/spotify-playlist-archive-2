@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed est\u00e1n las joyas escondidas del 2025, elegidas por tus editores \ud83d\ude42\u200d\u2195\ufe0f",
-  "num_followers": 104965,
+  "num_followers": 104969,
   "original_name": "Las favoritas de tus editores 2025",
   "owner": {
     "name": "Spotify",
@@ -691,26 +691,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "R\u00d8Z \u2013 Spotify Sessions",
-        "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8Z",
-          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
-        },
-        {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
-        }
-      ],
-      "duration_ms": 293166,
-      "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
-      "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "4LIFE",
         "url": "https://open.spotify.com/album/08m1n2W8oZA3DUIyZoGfHf"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 212091,
       "name": "4LIFE",
       "url": "https://open.spotify.com/track/23Nnf4FeFWz4nbEaHG4z9D"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "R\u00d8Z \u2013 Spotify Sessions",
+        "url": "https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Natt Calma",
+          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+        }
+      ],
+      "duration_ms": 293166,
+      "name": "CORA DE HIELO (feat. Natt Calma) \u2013 Spotify Sessions",
+      "url": "https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Au",
-        "url": "https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 158812,
-      "name": "pijama.",
-      "url": "https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "Dices",
         "url": "https://open.spotify.com/album/2C49ZwhEMeCkYJxiVsx12I"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 168260,
       "name": "Dices",
       "url": "https://open.spotify.com/track/6sBivkZNkKaGVdtklSIvEV"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Au",
+        "url": "https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 158812,
+      "name": "pijama.",
+      "url": "https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "amarillo",
-        "url": "https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 210769,
-      "name": "amarillo",
-      "url": "https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "ROKALETA!",
         "url": "https://open.spotify.com/album/0lvjK0WwoO0eKXScQaPQlI"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 168058,
       "name": "ROKALETA!",
       "url": "https://open.spotify.com/track/0lt39TTaP09rUJspqQxvQa"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "amarillo",
+        "url": "https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 210769,
+      "name": "amarillo",
+      "url": "https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "Auroras Boreales",
+        "url": "https://open.spotify.com/album/2E054dVVF6vuoNYjmtBj4E"
+      },
+      "artists": [
+        {
+          "name": "EESCA",
+          "url": "https://open.spotify.com/artist/1z2zbEA6J6c8DDtf4eK5wu"
+        }
+      ],
+      "duration_ms": 278792,
+      "name": "Auroras Boreales",
+      "url": "https://open.spotify.com/track/0eOLIMZOZw0DjgZKwttmlg"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "Filantrop\u00eda",
         "url": "https://open.spotify.com/album/16SCjPR5vzDWzCHwe6CiYp"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 126383,
       "name": "Un Pelito y un Tamal",
       "url": "https://open.spotify.com/track/6ogaSIMjINZK3D97pBv3Xo"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "Auroras Boreales",
-        "url": "https://open.spotify.com/album/2E054dVVF6vuoNYjmtBj4E"
-      },
-      "artists": [
-        {
-          "name": "EESCA",
-          "url": "https://open.spotify.com/artist/1z2zbEA6J6c8DDtf4eK5wu"
-        }
-      ],
-      "duration_ms": 278792,
-      "name": "Auroras Boreales",
-      "url": "https://open.spotify.com/track/0eOLIMZOZw0DjgZKwttmlg"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Boleros Psicod\u00e9licos II",
-        "url": "https://open.spotify.com/album/12gMpdC16uCaCJk3qdrtkW"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Ojos Secos (with Cuco)",
-      "url": "https://open.spotify.com/track/1s271I2cbxYZDrLy3xOFrE"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "nomeolvides",
         "url": "https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT"
       },
@@ -1559,22 +1539,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "OKUPAS",
-        "url": "https://open.spotify.com/album/1tQ0olB3rAM8es83lc55i7"
+        "name": "Boleros Psicod\u00e9licos II",
+        "url": "https://open.spotify.com/album/12gMpdC16uCaCJk3qdrtkW"
       },
       "artists": [
         {
-          "name": "Little Boogie",
-          "url": "https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0"
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
         },
         {
-          "name": "STEREO",
-          "url": "https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj"
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 164705,
-      "name": "OKUPAS",
-      "url": "https://open.spotify.com/track/580QOzbFWDJKi6LtNpt7PT"
+      "duration_ms": 232120,
+      "name": "Ojos Secos (with Cuco)",
+      "url": "https://open.spotify.com/track/1s271I2cbxYZDrLy3xOFrE"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1595,6 +1575,26 @@
       "duration_ms": 192572,
       "name": "D E G E N E R E",
       "url": "https://open.spotify.com/track/2kExxNj5EBo8HUww2l72xo"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "OKUPAS",
+        "url": "https://open.spotify.com/album/1tQ0olB3rAM8es83lc55i7"
+      },
+      "artists": [
+        {
+          "name": "Little Boogie",
+          "url": "https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0"
+        },
+        {
+          "name": "STEREO",
+          "url": "https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "OKUPAS",
+      "url": "https://open.spotify.com/track/580QOzbFWDJKi6LtNpt7PT"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "GUSTAR Y OFENDER",
-        "url": "https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd"
-      },
-      "artists": [
-        {
-          "name": "reybruja",
-          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
-        }
-      ],
-      "duration_ms": 141762,
-      "name": "piso 20",
-      "url": "https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "LOVE BUSINESS",
         "url": "https://open.spotify.com/album/3jO5lAAkeEWUzPF9TWyUeM"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 207801,
       "name": "PERTENECER",
       "url": "https://open.spotify.com/track/3ahgcq09Cc7CXwDkYQxOfq"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "GUSTAR Y OFENDER",
+        "url": "https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd"
+      },
+      "artists": [
+        {
+          "name": "reybruja",
+          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
+        }
+      ],
+      "duration_ms": 141762,
+      "name": "piso 20",
+      "url": "https://open.spotify.com/track/3Km8AtaJxGsCiT6u8Uhz1m"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
-        "name": "Invierno en la playa",
-        "url": "https://open.spotify.com/album/2MVDwWtKOqZlrXnS5d5liU"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 277026,
-      "name": "Visita guiada",
-      "url": "https://open.spotify.com/track/6GclajlxxpiIXjVEnHTbLx"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
         "name": "NI\u00d1O BUENO",
         "url": "https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 191375,
       "name": "contraste",
       "url": "https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
+        "name": "Invierno en la playa",
+        "url": "https://open.spotify.com/album/2MVDwWtKOqZlrXnS5d5liU"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 277026,
+      "name": "Visita guiada",
+      "url": "https://open.spotify.com/track/6GclajlxxpiIXjVEnHTbLx"
     },
     {
       "added_at": "2025-12-03 13:16:51",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2025-12-03 13:16:51",
       "album": {
+        "name": "POST POP",
+        "url": "https://open.spotify.com/album/70IzpQpAhKr7QaGEPA1Fvp"
+      },
+      "artists": [
+        {
+          "name": "Homog\u00e9nica",
+          "url": "https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt"
+        }
+      ],
+      "duration_ms": 240535,
+      "name": "Fan",
+      "url": "https://open.spotify.com/track/2GnlfajRt88U69nyS2WMVN"
+    },
+    {
+      "added_at": "2025-12-03 13:16:51",
+      "album": {
         "name": "Vete",
         "url": "https://open.spotify.com/album/3M1TsyFrU1PKx11gbcm2A3"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 195274,
       "name": "Vete",
       "url": "https://open.spotify.com/track/09rODGakFXXVuPz6VnlHJR"
-    },
-    {
-      "added_at": "2025-12-03 13:16:51",
-      "album": {
-        "name": "POST POP",
-        "url": "https://open.spotify.com/album/70IzpQpAhKr7QaGEPA1Fvp"
-      },
-      "artists": [
-        {
-          "name": "Homog\u00e9nica",
-          "url": "https://open.spotify.com/artist/4In5xWRYAXf9qCXKmYQ8Tt"
-        }
-      ],
-      "duration_ms": 240535,
-      "name": "Fan",
-      "url": "https://open.spotify.com/track/2GnlfajRt88U69nyS2WMVN"
     },
     {
       "added_at": "2025-12-03 13:16:51",

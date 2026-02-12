@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > W Sound x Myke Towers x Ovy On The Drums, Eladio Carrion, Clavin Harris, sombr y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,213 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,210 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

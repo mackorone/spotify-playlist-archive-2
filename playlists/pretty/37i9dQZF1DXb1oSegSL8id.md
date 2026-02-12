@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,509 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,511 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,10 +79,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 69 | [Carreira Solo \- Ao Vivo](https://open.spotify.com/track/1MmS7UIy3J1BTxfGCRvVqN) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:35 |
 | 70 | [Só de Sacanagem \- Ao Vivo](https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Matheuzinho](https://open.spotify.com/artist/1JQLCxphQYlnbokiEvfB8o) | [Aqui e Agora, Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf) | 3:03 |
 | 71 | [Ousadia & Alegria \- Ao Vivo](https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Neymar](https://open.spotify.com/artist/2SnSnBn2zvkXGNqifnj5i2) | [Ousadia & Alegria \(Ao Vivo\)](https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV) | 2:28 |
-| 72 | [Deixa A Vida Me Levar](https://open.spotify.com/track/0lozAj904nKA5sb3C6aAPu) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho Naturalmente](https://open.spotify.com/album/4cuDnqSKvOov32t49dDSVv) | 4:35 |
-| 73 | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3) | 3:43 |
+| 72 | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3) | 3:43 |
+| 73 | [Posto 24h \(feat\. Wesley Safadão\) \- Ao Vivo](https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [A Origem \(Ao Vivo\)](https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn) | 2:33 |
 | 74 | [Quebrando Protocolo \- Ao Vivo](https://open.spotify.com/track/4OjLi2Ji9UhVsHjqzRGCsM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Dendelzinho](https://open.spotify.com/artist/297NNYE3ZnNvyNxHYV1KmN) | [Buteco in Boston \(Ao Vivo\)](https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo) | 2:55 |
-| 75 | [Posto 24h \(feat\. Wesley Safadão\) \- Ao Vivo](https://open.spotify.com/track/3mNmUjoDHYDYj08IaRPtg0) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [A Origem \(Ao Vivo\)](https://open.spotify.com/album/3Epj5Yu1oKT74AocfDrAOn) | 2:33 |
+| 75 | [Deixa A Vida Me Levar](https://open.spotify.com/track/0lozAj904nKA5sb3C6aAPu) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho Naturalmente](https://open.spotify.com/album/4cuDnqSKvOov32t49dDSVv) | 4:35 |
 | 76 | [Bebi Minha Bicicleta \(Coração Falido\) \- Ao Vivo](https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Bebi Minha Bicicleta \(Coração Falido\) \(ao Vivo\)](https://open.spotify.com/album/5Qn8laDtOhTweODnPud3KP) | 2:59 |
 | 77 | [Gaiola \- Ao Vivo](https://open.spotify.com/track/7qQPvdV9ussEfEZ6nfhbqr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 3:15 |
 | 78 | [Assim Você Mata o Papai \- Ao Vivo](https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [De Volta Pro Amanhã, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E) | 1:59 |

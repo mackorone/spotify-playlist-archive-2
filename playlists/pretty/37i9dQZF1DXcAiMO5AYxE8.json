@@ -1,6 +1,6 @@
 {
   "description": "All the best soul disco sounds for getting down.",
-  "num_followers": 544954,
+  "num_followers": 544976,
   "original_name": "Soulful Disco",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/31eNtoMOM0eUpPwJKtAxTL"
-      },
-      "artists": [
-        {
-          "name": "The Weather Girls",
-          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
-        }
-      ],
-      "duration_ms": 326333,
-      "name": "It's Raining Men",
-      "url": "https://open.spotify.com/track/7iFwfXNYy0goAL54aupC7Q"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Altogether",
         "url": "https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 198600,
       "name": "I'm in the Mood for Dancing",
       "url": "https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/31eNtoMOM0eUpPwJKtAxTL"
+      },
+      "artists": [
+        {
+          "name": "The Weather Girls",
+          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
+        }
+      ],
+      "duration_ms": 326333,
+      "name": "It's Raining Men",
+      "url": "https://open.spotify.com/track/7iFwfXNYy0goAL54aupC7Q"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -871,22 +871,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "A Simple Game",
-        "url": "https://open.spotify.com/album/0teJDgHyJ9lbThnbX7oTHz"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 303400,
-      "name": "A Simple Game",
-      "url": "https://open.spotify.com/track/1UXYaXFyEogAXs4ddBnpZg"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Collections",
         "url": "https://open.spotify.com/album/4Rk1aQOMmwSqGl6fqMhCiz"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 231293,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/72FyfakDR6pi2vZv5JVYn4"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "A Simple Game",
+        "url": "https://open.spotify.com/album/0teJDgHyJ9lbThnbX7oTHz"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 303400,
+      "name": "A Simple Game",
+      "url": "https://open.spotify.com/track/1UXYaXFyEogAXs4ddBnpZg"
     },
     {
       "added_at": "2020-04-14 18:41:41",

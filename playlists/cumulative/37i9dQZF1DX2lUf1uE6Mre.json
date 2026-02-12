@@ -960,7 +960,7 @@
       },
       "artists": [
         {
-          "name": "Avie",
+          "name": "AVIE",
           "url": "https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i"
         },
         {
@@ -5844,7 +5844,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 206053,
       "name": "NuR Du :/",
       "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
@@ -6916,6 +6916,24 @@
       "duration_ms": 188307,
       "name": "Scusa",
       "url": "https://open.spotify.com/track/1fcHxYGjq7l6C8ugKHgJa8"
+    },
+    {
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/0noQsWzkwjjsrIhGu9kUWP"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb"
+        }
+      ],
+      "date_added": "2026-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151986,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/1eFsgzBlLNKrOcJfnNbDLp"
     },
     {
       "album": {

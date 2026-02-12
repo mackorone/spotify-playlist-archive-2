@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 広瀬香美 ■小沢健二の「LIFE」がヒット ■「すったもんだがありました」（宮沢りえ）、「イチロー \(効果\)」、「同情するならカネをくれ」（安達祐実）が新語・流行語大賞の年間大賞 ■ ジュリアナ東京閉店。 ■「プレイステーション」発売。■ 映画「ショーシャンクの空に」が世界的ヒット
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,605 likes - 101 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,608 likes - 101 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqzMfjFlbFJ.md) - [plain]
 | 24 | [月](https://open.spotify.com/track/5sSrowk68vJ1mV7CpUmFtJ) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [月](https://open.spotify.com/album/5GxXCMhBG1zCuBWhBFjISR) | 4:46 |
 | 25 | [マリア](https://open.spotify.com/track/1W2zqB3QsTQDtKwUUdS80P) | [T\-BOLAN](https://open.spotify.com/artist/3etntM5D8zqhYOTJHFhMXb) | [マリア](https://open.spotify.com/album/7MnGmYivs1nxYAIe4v6f7F) | 5:01 |
 | 26 | [Hero](https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 4:17 |
-| 27 | [Stay \(I Missed You\)](https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Stay \(I Missed You\)](https://open.spotify.com/album/0candONErDvN9wWFhOWXrS) | 3:04 |
+| 27 | [Stay \(I Missed You\)](https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE) | [Lisa Loeb & Nine Stories](https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg) | [Stay \(I Missed You\)](https://open.spotify.com/album/0candONErDvN9wWFhOWXrS) | 3:04 |
 | 28 | [Breathe Again](https://open.spotify.com/track/68ZD7M5tOBBM0N5XWRECoD) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/68UvxaKwEF3GBuKjZ5OfEP) | 4:29 |
 | 29 | [Circle of Life](https://open.spotify.com/track/5vKkaZHPzuqQheytfKuXzp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 4:51 |
 | 30 | [Love Is All Around \- From "Four Weddings And A Funeral"](https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [Picture This \(20th Anniversary Edition\)](https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY) | 4:06 |

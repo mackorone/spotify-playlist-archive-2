@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Cherry Bomb\. Artwork by Paola Saliby
+> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Chloe Saavedra\. Artwork by Paola Saliby
 
-4,390 songs - 9 day 7 hr 40 min
+4,395 songs - 9 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [All My Friends Are Stoned](https://open.spotify.com/track/11h0mPshswWfgEnQpsCceY) | [Boski](https://open.spotify.com/artist/59cyz7Zo2B3ISbNUVnSIYp) | [All My Friends Are Stoned](https://open.spotify.com/album/1ksT70kOiQL6gKnlwk4HCa) | 2:14 | 2021-09-30 | 2021-10-28 |
 | [All My Friends Keep Dying From Drugs](https://open.spotify.com/track/35S0SX2nBy1YgcBx0OQHnB) | [Cami Petyn](https://open.spotify.com/artist/6JqGJJoqtihzki7F0bbc39) | [All My Friends Keep Dying From Drugs](https://open.spotify.com/album/3YxgCq3HsdRDmttj80wf4I) | 2:56 | 2022-02-16 | 2022-03-10 |
 | [All My Friends Need Therapy](https://open.spotify.com/track/0y4FryoxIz5dvJhnaFqn7A) | [Georgia Meek](https://open.spotify.com/artist/2SdZ3VbhjVRXo11kPxVCTS) | [All My Friends Need Therapy](https://open.spotify.com/album/1WeZ3MDqFCer9Q8qaCvtr7) | 2:25 | 2023-06-21 | 2023-08-31 |
-| [all of a sudden we move](https://open.spotify.com/track/1is4WyPrdz56pAcm4BQYsT) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [All of a sudden we move](https://open.spotify.com/album/0m7frKvrGaPlJK4tG1zNGj) | 4:01 | 2026-01-14 |  |
+| [all of a sudden we move](https://open.spotify.com/track/1is4WyPrdz56pAcm4BQYsT) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [All of a sudden we move](https://open.spotify.com/album/0m7frKvrGaPlJK4tG1zNGj) | 4:01 | 2026-01-14 | 2026-02-12 |
 | [All of My Love](https://open.spotify.com/track/53T6YWwF70F9wFhl1Dtx5k) | [Pipa](https://open.spotify.com/artist/03zNTLE7XHchSSzU4gOYDN) | [All of My Love](https://open.spotify.com/album/7ArUihJqprl61dTwPPkVw4) | 2:55 | 2025-08-13 | 2025-09-25 |
 | [All of the Time](https://open.spotify.com/track/4abd4BEjKqfII0IpP3xDuG) | [Buttercats](https://open.spotify.com/artist/5uIXMYal5c0Yv0sG9DeK2Z) | [All of the Time](https://open.spotify.com/album/75tZiNswnFZBdeaSmwJQjy) | 3:45 | 2021-05-06 | 2021-05-27 |
 | [All or Nothin](https://open.spotify.com/track/7LjHfW0OCBjYx01XkDA8QR) | [Chuck Sutton](https://open.spotify.com/artist/472LbYT0htG8bFXNXpEgRN) | [All or Nothin](https://open.spotify.com/album/4kxGHduVK7ms4hls6JvtYR) | 3:09 | 2021-11-19 | 2021-12-01 |
@@ -547,6 +547,7 @@
 | [Break](https://open.spotify.com/track/2NFGjo5Sxu0ClhTmbiILGN) | [Popcoin](https://open.spotify.com/artist/1319K2vYzvVgXjWmVr9alQ) | [Break](https://open.spotify.com/album/7jnce1CHNVDJm9t6nH8FQK) | 3:04 | 2021-06-03 | 2021-07-22 |
 | [break](https://open.spotify.com/track/6tj8WTgMqfVEzJsDS8xddF) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [break](https://open.spotify.com/album/2iGUZi5NTf44pDqQmS3GhL) | 2:52 | 2021-07-02 | 2021-07-29 |
 | [Break Up To Make Up](https://open.spotify.com/track/2cC0ZaEhSebdLxfFXWqPfk) | [BANA](https://open.spotify.com/artist/7crRAiivSKMEm86Y4ip99L) | [Piece Of Me](https://open.spotify.com/album/4gwUE5gGHt5MZOQb8LwO8y) | 2:58 | 2025-01-08 | 2025-02-20 |
+| [break your own heart](https://open.spotify.com/track/03w3rXukAjqDavSVdJPlNB) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [break your own heart](https://open.spotify.com/album/2lWESgqq7i1Xll8nDCOQED) | 3:14 | 2026-02-11 |  |
 | [Break Your Own Heart](https://open.spotify.com/track/0y9jEDR8DyD54Wec3rny8N) | [Olivia King](https://open.spotify.com/artist/1ueZy4kOgGzs9qRwTziSoL) | [Break Your Own Heart](https://open.spotify.com/album/2E3Lne9KEafet2TWtmjsNg) | 2:37 | 2021-11-19 | 2021-12-01 |
 | [Breakdown Breakthrough](https://open.spotify.com/track/5bZvRooFCPjkuygB7awuCu) | [Blake](https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa) | [Breakdown Breakthrough](https://open.spotify.com/album/45ytmR1suFzm5YAB0a2v38) | 2:40 | 2023-08-02 | 2023-09-07 |
 | [breakfast song](https://open.spotify.com/track/4orOG7nuE9FPc6soZpi6Xb) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [breakfast song](https://open.spotify.com/album/1KWPixwURcbky8FuJKkFnF) | 2:14 | 2023-03-08 | 2023-04-06 |
@@ -654,7 +655,7 @@
 | [can't help it](https://open.spotify.com/track/4CSKtctHibghLY4ySVHGGZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [can't help it](https://open.spotify.com/album/7sVOlEvHj9C55MZroqWjkD) | 2:50 | 2021-03-18 | 2021-04-29 |
 | [Can't Love You the Way I Hate You](https://open.spotify.com/track/779nBBs3RLn0ybtlbxLMa0) | [Abel.](https://open.spotify.com/artist/1peEt1JFZGu6bhFY4xHq7B) | [Can't Love You the Way I Hate You](https://open.spotify.com/album/7Gp8zbyNj6r9lm4Bco7CgK) | 3:18 | 2021-07-02 | 2021-09-16 |
 | [Can't Say No](https://open.spotify.com/track/4YxdmoG8suCN1stsW3fSsN) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [Can't Say No](https://open.spotify.com/album/1bElzkWFtQxJtu7djGRjz1) | 2:58 | 2021-10-21 | 2021-11-11 |
-| [can't say no](https://open.spotify.com/track/5aahxne9UEjbACb9zViMRI) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [can't say no](https://open.spotify.com/album/0re5i2MdwgcdlrUf0mhPRH) | 2:51 | 2026-01-14 |  |
+| [can't say no](https://open.spotify.com/track/5aahxne9UEjbACb9zViMRI) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [can't say no](https://open.spotify.com/album/0re5i2MdwgcdlrUf0mhPRH) | 2:51 | 2026-01-14 | 2026-02-12 |
 | [can't think straight](https://open.spotify.com/track/2ShPJKWLjZ5kYgIS9BpQ5l) | [Eva Grace](https://open.spotify.com/artist/67sX3xnatlElE31KHjSWVr) | [can't think straight](https://open.spotify.com/album/4gth6e3MaS6rrn2W2XvjAw) | 2:21 | 2023-09-20 | 2023-11-30 |
 | [CAN'T WITHOUT YOU](https://open.spotify.com/track/3EHLJgAkSUcSShkdZFO6Qw) | [WEIRDO](https://open.spotify.com/artist/0VeRok751Y15whOXtsUpQf) | [CAN'T WITHOUT YOU](https://open.spotify.com/album/6X1NOdbwJzOkc20m14Ubgn) | 3:27 | 2021-06-24 | 2021-08-12 |
 | [Cancelled](https://open.spotify.com/track/5AUexXigfACjxvZi2TiY2p) | [Candace in Wonderland](https://open.spotify.com/artist/0K008gb8mGuYDIpIL5sCLP), [Small Words](https://open.spotify.com/artist/3cInLtW6TLgbiAHphuc2og) | [Cancelled](https://open.spotify.com/album/4mLRYnuAwGaYpAn4ez4fI7) | 3:12 | 2021-05-27 | 2021-06-18 |
@@ -916,6 +917,7 @@
 | [Dangerous](https://open.spotify.com/track/3GvbNdrhPriMoouVkjKG5l) | [DAY\_S](https://open.spotify.com/artist/1JvxXVFAnvaTUBDgX82vHS) | [Dangerous](https://open.spotify.com/album/76kHS9J1KYg3rxY9cNKeHp) | 2:37 | 2021-04-22 | 2021-05-27 |
 | [Dangerous](https://open.spotify.com/track/7moZuS84OI5AWGc81GVujX) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Dangerous](https://open.spotify.com/album/0Meg1sIEOUL5bkjuWhHjva) | 2:34 | 2024-10-23 | 2024-12-05 |
 | [Dangerous](https://open.spotify.com/track/5sVGUMG3JxHXC70IGTjmK1) | [Rubina](https://open.spotify.com/artist/0LiwgXVesl4813KSchUH1M) | [Dangerous](https://open.spotify.com/album/1DzbWIh7tTnbyLV0NzWmJO) | 2:45 | 2024-05-29 | 2024-09-05 |
+| [DANGERUSH](https://open.spotify.com/track/5WfjsBrLERzoPafwsxOOhE) | [Jourdin Pauline](https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk) | [DANGERUSH](https://open.spotify.com/album/4cYtuwrNSzsYe0QnD6Bqnz) | 2:47 | 2026-02-11 |  |
 | [Dark Side](https://open.spotify.com/track/2vvMmPGdcZPOXZycjGEqja) | [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [Dark Side](https://open.spotify.com/album/1QJaDupeRe0iuHCijci8f6) | 2:51 | 2022-01-12 | 2022-02-24 |
 | [Dark Thoughts About A Pretty Flower](https://open.spotify.com/track/3Xeu9u21qYeI0vlqzdHLSV) | [The Lovelines](https://open.spotify.com/artist/37CfY5gz2Mk6U8jWK4RYM2) | [Dark Thoughts About A Pretty Flower](https://open.spotify.com/album/6g0IHMPMy2e0VENropaA4b) | 3:07 | 2022-03-23 | 2022-04-14 |
 | [Date Myself](https://open.spotify.com/track/1FDOcBhoW0kubBBGZKWPax) | [Kayla DiVenere](https://open.spotify.com/artist/6LmymAfsFtt2CaJSj9hdCn) | [Date Myself](https://open.spotify.com/album/58LyoyGx3D24wX5wKUvtDh) | 2:37 | 2023-10-18 | 2023-11-30 |
@@ -1000,6 +1002,7 @@
 | [divine see code](https://open.spotify.com/track/7LvHWS0vB89GVaqxwmP8mI) | [Me & U2](https://open.spotify.com/artist/6STZZ03iC8zFadtLfEcmUa), [CLAIRE^2](https://open.spotify.com/artist/3bjwpCXPYDmtjeSvZ402IC), [ptrl](https://open.spotify.com/artist/7sc6zG6ZIjVfwxOvt9XhKo) | [divine see code](https://open.spotify.com/album/0riZqxiavaKyE4691UZrqw) | 2:37 | 2021-04-15 | 2021-05-13 |
 | [DIZZY](https://open.spotify.com/track/3HviicyMF3vkmC3xOO0ehT) | [BADASSMUTHA](https://open.spotify.com/artist/4sIOO1xmOIT9hqn0Jhw9bo) | [DIZZY](https://open.spotify.com/album/7K0sAfpDXYz24D9iG9w1ao) | 2:48 | 2025-03-19 | 2025-05-08 |
 | [Dizzy](https://open.spotify.com/track/7Lfs6kd0Jbefn9FWHYNd5m) | [Renon](https://open.spotify.com/artist/66puVL22TUX3DM6r0uZyyY) | [Dizzy](https://open.spotify.com/album/4LabtYkpsQ8rxBUBn3Wyeu) | 4:18 | 2024-08-28 | 2024-11-14 |
+| [DJesus](https://open.spotify.com/track/6PWoqFfl4HwgsScx99CyF2) | [Magdalene](https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c) | [DJesus](https://open.spotify.com/album/0PkfgoOTi7L3nwJxMoWJOq) | 2:54 | 2026-02-11 |  |
 | [Do Better](https://open.spotify.com/track/5hyp1QBnppuCIn7A3vyrZ4) | [Dear Sara](https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S) | [Do Better](https://open.spotify.com/album/55l3DhhnLOO6uKJM8uvM36) | 2:26 | 2021-04-01 | 2021-05-13 |
 | [Do Better](https://open.spotify.com/track/0exKvNvCeofzXEVlPIebaN) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Do Better](https://open.spotify.com/album/05FP2EnloDbiVO8nQBrf90) | 2:42 | 2022-02-16 | 2022-03-31 |
 | [Do Better](https://open.spotify.com/track/4ZxhhIU4Y9Nr0KqQFCDCzD) | [papichuloteej](https://open.spotify.com/artist/1a9GLZX6UUiS0togwq1Viq) | [Homecoming](https://open.spotify.com/album/0h8qI7aoo0eVzZvMl279jR) | 2:40 | 2020-10-13\* | 2020-12-08 |
@@ -1219,6 +1222,7 @@
 | [Fabricated](https://open.spotify.com/track/0Zq7eJrwaAZyyBf1yOyFop) | [Katy for Kings](https://open.spotify.com/artist/2AofFktDEQuzk1LKKEQ9Ox) | [Fabricated](https://open.spotify.com/album/2wDZQ2KZF8k6tPM2Ai6Pw0) | 2:49 | 2022-04-06 | 2022-04-28 |
 | [Face](https://open.spotify.com/track/4adUFO0GaeoZfdhdtj9RNZ) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [Face](https://open.spotify.com/album/3zzOvx0cCLS6z2M2iKj57F) | 3:22 | 2022-01-12 | 2022-02-24 |
 | [Face Card](https://open.spotify.com/track/61GVPKAnqFecUWee4ulZuS) | [Emerson Azarian](https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j) | [Face Card](https://open.spotify.com/album/2DDzCw6ZK7qos7nueMfrJE) | 2:47 | 2024-02-21 | 2024-03-14 |
+| [Face Like Yours](https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Face Like Yours](https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3) | 2:38 | 2026-02-11 |  |
 | [FACELIFT](https://open.spotify.com/track/6S1x62OWwLIj2mLmNxU4FA) | [Noah Jack](https://open.spotify.com/artist/3dfG1KEC8SC5i9bG7sGtbD) | [FACELIFT](https://open.spotify.com/album/5VeBHOEa61TPEUBwiJCzCT) | 2:14 | 2021-03-06 | 2021-04-01 |
 | [faces](https://open.spotify.com/track/16leSPondRHX4uzo9EM9LA) | [Astrale](https://open.spotify.com/artist/0xDPU57wNLiQuJJ6h0FedI) | [faces](https://open.spotify.com/album/0BQdlT2o8zerLkYrm9bMLu) | 3:39 | 2023-02-01 | 2023-03-09 |
 | [Facetime](https://open.spotify.com/track/3yXe8o61TRW5iSkq2BloyN) | [Broderick Jones](https://open.spotify.com/artist/6qotp0EA1aHJPk6YnbVtGK) | [Facetime](https://open.spotify.com/album/2UTVRpVGSJUwqIQenvmDV7) | 3:21 | 2020-10-13\* | 2021-01-15 |
@@ -2967,6 +2971,7 @@
 | [phantom limb](https://open.spotify.com/track/3xnDsP1pTBKDJyxSfc2Wxj) | [frogi](https://open.spotify.com/artist/0frlcBV9pFq0Ip624rdUen) | [phantom limb](https://open.spotify.com/album/3ENN05TM1su4v6gfnyniwW) | 3:37 | 2021-06-03 | 2021-06-18 |
 | [Pharos](https://open.spotify.com/track/4lsvUf69pGZneOeSXyd9hi) | [MOLLY SUE](https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA) | [Pharos](https://open.spotify.com/album/3INHHoVztUGjeijZ63Np4M) | 2:16 | 2025-04-09 | 2025-05-29 |
 | [Photograph](https://open.spotify.com/track/6L9DuJTLsQHEYe08nkFhw2) | [Aux Sauce](https://open.spotify.com/artist/4C4j8wgNPriNq0kh1sMYax), [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib) | [Photograph](https://open.spotify.com/album/7EF7xB4lyzSqRWksdrJxg1) | 2:21 | 2025-06-04 | 2025-07-24 |
+| [Physics](https://open.spotify.com/track/3ioLj3bm5B1N84ESeg31Q1) | [Chloe Saavedra](https://open.spotify.com/artist/2xUdw3i7hhy8Twz2vDwV2Y) | [Physics](https://open.spotify.com/album/1paB1UR0VVbbG0uU8DgsNp) | 4:21 | 2026-02-11 |  |
 | [Pick at my Wounds](https://open.spotify.com/track/6wmUTdD8wvdhZ6wTTHp078) | [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [Pick at my Wounds](https://open.spotify.com/album/251jzaQbnHu62ROms2x9HP) | 2:28 | 2021-06-03 | 2021-06-18 |
 | [Pick Me Up](https://open.spotify.com/track/77d7t7SYR0YAXgXePYo8t5) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [Pick Me Up](https://open.spotify.com/album/5V5x9zEi6XCVnn15qjpDRP) | 2:44 | 2020-11-18 | 2020-12-08 |
 | [Pick up](https://open.spotify.com/track/2twgq4n0x2rxkosP5NgOME) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Pick up](https://open.spotify.com/album/4wfgzG3ScHhKvZIJLKPPDr) | 2:03 | 2023-07-26 | 2023-09-21 |

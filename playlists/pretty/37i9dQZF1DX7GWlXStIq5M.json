@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Giana Mello",
-  "num_followers": 364342,
+  "num_followers": 364306,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -59,26 +59,22 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
-        "name": "pensando direito",
-        "url": "https://open.spotify.com/album/3p4jz81rcmq55rPjyWf2NC"
+        "name": "O Que Sobrou Do Amor?",
+        "url": "https://open.spotify.com/album/2QJYzWWasjxoyCNhD4zw84"
       },
       "artists": [
         {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
         },
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
         }
       ],
-      "duration_ms": 235753,
-      "name": "pensando direito",
-      "url": "https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ"
+      "duration_ms": 146666,
+      "name": "O Que Sobrou Do Amor?",
+      "url": "https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -99,22 +95,26 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
-        "name": "O Que Sobrou Do Amor?",
-        "url": "https://open.spotify.com/album/2QJYzWWasjxoyCNhD4zw84"
+        "name": "pensando direito",
+        "url": "https://open.spotify.com/album/3p4jz81rcmq55rPjyWf2NC"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
         },
         {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
         }
       ],
-      "duration_ms": 146666,
-      "name": "O Que Sobrou Do Amor?",
-      "url": "https://open.spotify.com/track/1yp6gTre5ZgNcU7jhoM7uS"
+      "duration_ms": 235753,
+      "name": "pensando direito",
+      "url": "https://open.spotify.com/track/57FSQIGpI6WZm4ko6mGOVJ"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
-        "name": "TANTO",
-        "url": "https://open.spotify.com/album/57GTYq4tdrM0gofJMAGF4S"
-      },
-      "artists": [
-        {
-          "name": "Diego Martins",
-          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
-        }
-      ],
-      "duration_ms": 150070,
-      "name": "Teu Namorado, Meu Amor",
-      "url": "https://open.spotify.com/track/36Gbx4NYqj8aVY5VAWF0Qw"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
         "name": "Dilema",
         "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 186461,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
+        "name": "TANTO",
+        "url": "https://open.spotify.com/album/57GTYq4tdrM0gofJMAGF4S"
+      },
+      "artists": [
+        {
+          "name": "Diego Martins",
+          "url": "https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP"
+        }
+      ],
+      "duration_ms": 150070,
+      "name": "Teu Namorado, Meu Amor",
+      "url": "https://open.spotify.com/track/36Gbx4NYqj8aVY5VAWF0Qw"
     },
     {
       "added_at": "2026-02-06 03:00:06",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-02-06 03:00:06",
       "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
+    },
+    {
+      "added_at": "2026-02-06 03:00:06",
+      "album": {
         "name": "BASEADO EM FATOS REAIS (menos as partes que eu inventei)",
         "url": "https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 183337,
       "name": "sera que esse \u00e9 mesmo o nosso fim?",
       "url": "https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF"
-    },
-    {
-      "added_at": "2026-02-06 03:00:06",
-      "album": {
-        "name": "GPS",
-        "url": "https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
     },
     {
       "added_at": "2026-02-06 03:00:06",

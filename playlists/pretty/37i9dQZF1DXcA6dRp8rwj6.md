@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: EsDeeKid\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,380 likes - 97 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,397 likes - 97 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

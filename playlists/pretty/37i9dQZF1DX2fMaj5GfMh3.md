@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: sombr
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,796 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,804 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 56 | [Confidence \(Ding Ding\)](https://open.spotify.com/track/48yfKHPRP91tjEnk7HwTaS) | [Yaro Mila](https://open.spotify.com/artist/2DF11cL7GWpEiklH9I52SX) | [Confidence \(Ding Ding\)](https://open.spotify.com/album/43HXTbEA9tk4MHtO8cQUIc) | 2:28 |
 | 57 | [COMPASS](https://open.spotify.com/track/6PtvYwIwjxzdiGp75CpSEq) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [COMPASS](https://open.spotify.com/album/1lJt7C7eHagAriSFVvZMGH) | 2:46 |
 | 58 | [SORRY](https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 3:11 |
-| 59 | [What a Woman \(Acoustic Version\)](https://open.spotify.com/track/34DH6j39UnueBeh9rzg0H0) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [What a Woman \(Acoustic Version\)](https://open.spotify.com/album/0dNwxR0qZa3N02e74L6U35) | 3:35 |
+| 59 | [What a Woman \- Acoustic Version](https://open.spotify.com/track/34DH6j39UnueBeh9rzg0H0) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [What a Woman \(Acoustic Version\)](https://open.spotify.com/album/0dNwxR0qZa3N02e74L6U35) | 3:35 |
 | 60 | [Church](https://open.spotify.com/track/3Cz46bYvuuvDsUXDwrNFxn) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/4MR10rSYnclQoPXq6O9sw0) | 3:40 |
 | 61 | [Bitter](https://open.spotify.com/track/0RB3mdQjeSOS8KRWuriqSj) | [Oliver Aron](https://open.spotify.com/artist/5HatOJzhgoVHpXTGBeCJlI) | [Bitter](https://open.spotify.com/album/6AXcr1oekfiQcxFmADFKFo) | 3:00 |
 | 62 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |

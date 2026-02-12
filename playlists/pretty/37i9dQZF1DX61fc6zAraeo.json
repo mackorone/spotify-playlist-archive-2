@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 106792,
+  "num_followers": 106802,
   "original_name": "Dance Workout",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Desire to Stay",
-        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
-      },
-      "artists": [
-        {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Desire to Stay",
-      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Feel The Passion",
         "url": "https://open.spotify.com/album/01J5Pl4PZKt3wfwOGM4ffA"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 180018,
       "name": "Feel The Passion",
       "url": "https://open.spotify.com/track/1FsIirLTiqFlbgEPnmdNzT"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Desire to Stay",
+        "url": "https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL"
+      },
+      "artists": [
+        {
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Desire to Stay",
+      "url": "https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Conquest Of Paradise",
+        "url": "https://open.spotify.com/album/3cy8W1Kniru3DpXkutsGlN"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 136551,
+      "name": "Conquest Of Paradise",
+      "url": "https://open.spotify.com/track/758KOSCLXKIf6BqMXe12pN"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Endless Dreamers",
         "url": "https://open.spotify.com/album/1jJ9742FM6O9TpWZqr4GIU"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 236718,
       "name": "Endless Dreamers",
       "url": "https://open.spotify.com/track/3uIKJc5B8D0iil6i1Dl2pM"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Conquest Of Paradise",
-        "url": "https://open.spotify.com/album/3cy8W1Kniru3DpXkutsGlN"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 136551,
-      "name": "Conquest Of Paradise",
-      "url": "https://open.spotify.com/track/758KOSCLXKIf6BqMXe12pN"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Dominos",
+        "url": "https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 150691,
+      "name": "Dominos",
+      "url": "https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Next To Me",
         "url": "https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 185196,
       "name": "Next To Me",
       "url": "https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Dominos",
-        "url": "https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 150691,
-      "name": "Dominos",
-      "url": "https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
+        "name": "Waste Your Love",
+        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 167582,
+      "name": "Waste Your Love",
+      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
         "name": "Flashlight",
         "url": "https://open.spotify.com/album/2k5PQdkNT1HHTuHsPwWwug"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 174720,
       "name": "Dance Alone",
       "url": "https://open.spotify.com/track/5G8pdZq3HL2sEVi5yGsq0Z"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
-        "name": "Waste Your Love",
-        "url": "https://open.spotify.com/album/0xlcbSK3E65O1h493KM0Dd"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 167582,
-      "name": "Waste Your Love",
-      "url": "https://open.spotify.com/track/6pPQ2P4RzhlmApRxDeaK6g"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1536,7 +1536,7 @@
           "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
         }
       ],
-      "duration_ms": 140625,
+      "duration_ms": 140624,
       "name": "World Gone Wild (feat. Sam Martin) - Matt Sassari Remix",
       "url": "https://open.spotify.com/track/1E3bD3DEr4wtSk7C9EqsFp"
     },
@@ -1659,26 +1659,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/6xlkTPHi1ANWAlKBsFXxaa"
-      },
-      "artists": [
-        {
-          "name": "Alex Mills",
-          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
-        },
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        }
-      ],
-      "duration_ms": 151904,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/56Boy642GbI4FKJYmkCqVZ"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Don't Fall For Me",
         "url": "https://open.spotify.com/album/0rOOc8U67BGLXCBxiBKpoJ"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 174888,
       "name": "Don't Fall For Me",
       "url": "https://open.spotify.com/track/0MYnMotI9017FjYVszNswj"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/6xlkTPHi1ANWAlKBsFXxaa"
+      },
+      "artists": [
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        }
+      ],
+      "duration_ms": 151904,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/56Boy642GbI4FKJYmkCqVZ"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "PEGASUS",
-        "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 180462,
-      "name": "Pegasus",
-      "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "California (feat. CLOVES)",
         "url": "https://open.spotify.com/album/0UiYSVlJTFDNQUXljpEuhw"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 198620,
       "name": "California (feat. CLOVES)",
       "url": "https://open.spotify.com/track/7rEcQbBkgpeipMDvi9xd1z"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "PEGASUS",
+        "url": "https://open.spotify.com/album/0mA286b0mXmbRDSxy2W7P1"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 180462,
+      "name": "Pegasus",
+      "url": "https://open.spotify.com/track/3m32ApgNXyT8qmON7oSK9U"
     },
     {
       "added_at": "2025-10-30 23:00:21",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-10-30 23:00:21",
       "album": {
-        "name": "Beat Of The Drum",
-        "url": "https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Beat Of The Drum",
-      "url": "https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T"
-    },
-    {
-      "added_at": "2025-10-30 23:00:21",
-      "album": {
         "name": "Redemption",
         "url": "https://open.spotify.com/album/0DC1qER7OczaSRCZ75bULZ"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 135000,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/24qGzpKagxg9t1zkzzg03Z"
+    },
+    {
+      "added_at": "2025-10-30 23:00:21",
+      "album": {
+        "name": "Beat Of The Drum",
+        "url": "https://open.spotify.com/album/4HFWXFBNtVdC4JuRJRI7LC"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Beat Of The Drum",
+      "url": "https://open.spotify.com/track/5maUP6kkmNTMtoKNxstN7T"
     }
   ],
   "unique_name": "Dance Workout",

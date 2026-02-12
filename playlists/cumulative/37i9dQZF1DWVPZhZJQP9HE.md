@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Rakhooo
 
-750 songs - 1 day 19 hr 57 min
+751 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Lyca Kovai Kings Anthem](https://open.spotify.com/track/2pXdzH8V45MMVx44SULGbE) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Lyca Kovai Kings Anthem](https://open.spotify.com/album/4fST1elFH54IFmpl0xD6kw) | 1:45 | 2022-06-28 | 2022-07-16 |
 | [Maagamaaga Nee](https://open.spotify.com/track/1vUCR2FQtjamDlMBWJoega) | [Sikkil Gurucharan](https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Maagamaaga Nee](https://open.spotify.com/album/4Cmg3GLikIhVfX84rzKD4g) | 4:25 | 2023-10-10 | 2024-04-30 |
 | [Maagamaaga Nee](https://open.spotify.com/track/31RulhRU3qYzKdYUja9JHj) | [Sikkil Gurucharan](https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Maagamaaga Nee](https://open.spotify.com/album/1fVDFKq7iKsghZKx9tK6CT) | 4:25 | 2023-10-10 | 2024-04-19 |
+| [Maalai Pozhudhil](https://open.spotify.com/track/4EQsSuqZF3gXEEo5w9j8Md) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Maalai Pozhudhil](https://open.spotify.com/album/56IrDU91NE8AQVPqtHR1NB) | 4:10 | 2026-02-11 |  |
 | [Maara Makka \- From "Think Indie"](https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG) | [rudh](https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t) | [Maara Makka \(From "Think Indie"\)](https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B) | 2:43 | 2025-11-18 |  |
 | [Maaran Ambu](https://open.spotify.com/track/2A5JPLInzNA6jr8ITGzWlN) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Sindhuja Ganapathy](https://open.spotify.com/artist/05bCSt2cfm7afEvkoWKqdM), [Yanchan](https://open.spotify.com/artist/2oCMtxRHVtTsqHbnnRWRWQ) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 2:54 | 2022-05-06 | 2022-08-12 |
 | [Maaratha](https://open.spotify.com/track/4P925v6rzm2z44dvO3PfFA) | [Joseph Selvam Jabin](https://open.spotify.com/artist/6py2Rlpssqme51MNtCe0LY) | [Maaratha](https://open.spotify.com/album/5k9uhn6PZjW02bnYfUZhrb) | 3:47 | 2022-08-23 | 2022-11-17 |
@@ -625,7 +626,7 @@
 | [Tea Vibes](https://open.spotify.com/track/1iJV3JB2IjuVYE3dSdY9oA) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104), [Vaibhav Murugesan](https://open.spotify.com/artist/269tIKxn6flLnFkjQrGiny) | [Tea Vibes \- Single](https://open.spotify.com/album/3FDsCWMMNczB3gUKe7Wokj) | 3:31 | 2022-07-11 | 2022-10-07 |
 | [Tea Vibes](https://open.spotify.com/track/5RjmGdKkv1jm1eZay74ViD) | [Pranav Giridharan](https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104), [Vaibhav Murugesan](https://open.spotify.com/artist/269tIKxn6flLnFkjQrGiny) | [Tea Vibes](https://open.spotify.com/album/4UQWiTOg75IvIlw4W8YI4H) | 3:31 | 2022-07-11 | 2022-07-29 |
 | [Thaali Thevaiyilla](https://open.spotify.com/track/7sGbiYX2gBJZKVv5MEu86W) | [Sahi Siva](https://open.spotify.com/artist/4DRRQdgaGKQGQMLjYj00C3), [Magisha](https://open.spotify.com/artist/6x9x7olMHIDgJyq80uhuFM) | [Thaali Thevaiyilla](https://open.spotify.com/album/5aLR6tWLPiM31mQvKvVMwn) | 4:12 | 2024-06-19 | 2025-01-31 |
-| [Thagartha Thillale \- Mannar Inna Mannar Song](https://open.spotify.com/track/0UQJlvo03cOeIE32DqaSI1) | [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx), [Mannar Muthu](https://open.spotify.com/artist/3v5XuFvAzKBUE1d1DML1qY) | [Thagartha Thillale \- Mannar Inna Mannar Song](https://open.spotify.com/album/4ynCjIUcJl16hcH2GNC9Pb) | 2:02 | 2025-12-02 |  |
+| [Thagartha Thillale \- Mannar Inna Mannar Song](https://open.spotify.com/track/0UQJlvo03cOeIE32DqaSI1) | [Gana Muthu](https://open.spotify.com/artist/2oyLpdrvnRrkgwc48UZFSx), [Mannar Muthu](https://open.spotify.com/artist/3v5XuFvAzKBUE1d1DML1qY) | [Thagartha Thillale \- Mannar Inna Mannar Song](https://open.spotify.com/album/4ynCjIUcJl16hcH2GNC9Pb) | 2:02 | 2025-12-02 | 2026-02-12 |
 | [Thaimai](https://open.spotify.com/track/08VXFcciBdessz9jOYXiPh) | [C\. Sathya](https://open.spotify.com/artist/0poY7P0383HcWLOKv5EHed), [Akash Premkumar](https://open.spotify.com/artist/03L3fnjptwgc4m7Jt3bFSD) | [Thaimai](https://open.spotify.com/album/6Ig6IiYyMKDfBjRPgZDX41) | 3:00 | 2024-07-12 | 2024-07-27 |
 | [Thalakeezhai](https://open.spotify.com/track/349EqVyKRJaTmhSENFxu4v) | [Jerard Felix](https://open.spotify.com/artist/6BXVtOUVrRZfRJqHhlaL4I), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ) | [Thalakeezhai](https://open.spotify.com/album/2U2ZVcOxcgwF6hDzcxFQwG) | 2:40 | 2024-07-04 | 2024-08-13 |
 | [Thalapathi](https://open.spotify.com/track/1IbDIb1GrZW20gQXlRupZX) | [bebhumika](https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl), [pixlpxl®](https://open.spotify.com/artist/1EGgZfRoAg2Z5kAbF5XaH1), [Flameboi](https://open.spotify.com/artist/7gDVeDg6db32fZhZKIeL3n) | [Thalapathi](https://open.spotify.com/album/6Ogqh0N4DVyNhJqGEEQdJY) | 3:05 | 2025-03-07 | 2025-04-12 |

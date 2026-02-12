@@ -8803,6 +8803,24 @@
     },
     {
       "album": {
+        "name": "ego",
+        "url": "https://open.spotify.com/album/5NsQMntHonlG4cw7wN68uB"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220710,
+      "name": "ego",
+      "url": "https://open.spotify.com/track/4Mv3pU235ug7FvhReT1n1L"
+    },
+    {
+      "album": {
         "name": "Ego Death (feat. Steve Vai)",
         "url": "https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv"
       },

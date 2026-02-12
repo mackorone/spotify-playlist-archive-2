@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Phantastic Ferniture",
-  "num_followers": 114249,
+  "num_followers": 114238,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Dancing Shoes",
-        "url": "https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 224287,
-      "name": "Kneel",
-      "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 237586,
       "name": "Burn",
       "url": "https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Dancing Shoes",
+        "url": "https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 224287,
+      "name": "Kneel",
+      "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Billy (Yeah Yeah Yeah)",
-        "url": "https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q"
-      },
-      "artists": [
-        {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
-        }
-      ],
-      "duration_ms": 245251,
-      "name": "Billy (Yeah Yeah Yeah)",
-      "url": "https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Poetry",
         "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 189418,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Billy (Yeah Yeah Yeah)",
+        "url": "https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 245251,
+      "name": "Billy (Yeah Yeah Yeah)",
+      "url": "https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "A Cowboy Song",
-        "url": "https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1"
+        "name": "Through My Teeth",
+        "url": "https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ"
       },
       "artists": [
         {
-          "name": "Kean Kavanagh",
-          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
         }
       ],
-      "duration_ms": 214008,
-      "name": "A Cowboy Song",
-      "url": "https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk"
+      "duration_ms": 205373,
+      "name": "Through My Teeth",
+      "url": "https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Through My Teeth",
-        "url": "https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ"
+        "name": "A Cowboy Song",
+        "url": "https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1"
       },
       "artists": [
         {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+          "name": "Kean Kavanagh",
+          "url": "https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Through My Teeth",
-      "url": "https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx"
+      "duration_ms": 214008,
+      "name": "A Cowboy Song",
+      "url": "https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 221412,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Girls Are God\u2019s Machines",
         "url": "https://open.spotify.com/album/4O4KojyFZOemy3xyW1ACB5"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 165073,
       "name": "Girls Are God\u2019s Machines",
       "url": "https://open.spotify.com/track/3qq1DyClNrvBdaMK4QOXrw"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 221412,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
     },
     {
       "added_at": "2025-09-01 14:27:56",

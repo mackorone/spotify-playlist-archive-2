@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3049188,
+  "num_followers": 3049864,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAD2iL9XztYFz/XjFOPLo3ZL",
+  "snapshot_id": "aYp1AAAAAAC++i2EDYc160wVM+dvzJp/",
   "tracks": [
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Michael",
-        "url": "https://open.spotify.com/album/3dZ91ooVpNEdukDWuNzbpZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 255493,
-      "name": "One Day In Your Life",
-      "url": "https://open.spotify.com/track/77fMGCDb1e3KEd060YEpyS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 296560,
       "name": "Whatever Happens",
       "url": "https://open.spotify.com/track/4fK6bgzyKt4EIv3R1wrUtl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 253826,
+      "name": "Blue Gangsta",
+      "url": "https://open.spotify.com/track/36lVpg8hgy37iZEazTOJBb"
     }
   ],
   "unique_name": "This Is Michael Jackson",

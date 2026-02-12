@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,022 songs - 8 day 21 hr 35 min
+4,024 songs - 8 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1600,6 +1600,7 @@
 | [Hellbound](https://open.spotify.com/track/2GWalOSix9H9UgsDJRiQNS) | [Couching Distance](https://open.spotify.com/artist/6jGzXAWsNR1ylxmLK2z4G1) | [Hellbound](https://open.spotify.com/album/1Ff628nCaqhnmWgsfyAQzA) | 2:51 | 2025-05-23 |  |
 | [Hello My Past](https://open.spotify.com/track/1BBuJShNH2aIaZr8b2Y1wy) | [A.G.S](https://open.spotify.com/artist/0ugmYHUqz52xFstzJELWOu) | [Hello My Past](https://open.spotify.com/album/0OsQCln9enQM9DlWGFGbfV) | 3:49 | 2025-01-28 |  |
 | [Help Me](https://open.spotify.com/track/08w0tzlysH3JZuzA46SLMe) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Help Me](https://open.spotify.com/album/79lQhXbWbjmao6F1MnCZ5X) | 4:02 | 2025-12-12 |  |
+| [Henuza](https://open.spotify.com/track/2NzCwz5yoAwnU7s5W3qH3m) | [Romiche](https://open.spotify.com/artist/0xEnsODJYTD6y7fq7396k6) | [Broken Syntax Tapes](https://open.spotify.com/album/1xJ6RDh4GTPYct7EqDIsmO) | 4:06 | 2026-02-12 |  |
 | [Here Comes a Regular \- 2008 Remaster](https://open.spotify.com/track/5Yc1rQKy4uv4QJFJTPHEiu) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Tim \(Expanded\)](https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve) | 4:48 | 2025-11-05 |  |
 | [Here We Go Again](https://open.spotify.com/track/5r2dkJRYfNL5J44hStrMMo) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Here We Go Again](https://open.spotify.com/album/35dcJeV99v2EVji43iuVD4) | 3:25 | 2025-10-15 |  |
 | [Hereabout](https://open.spotify.com/track/2kwYwmYdgfwPzF9VSkUQCY) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Hereabout](https://open.spotify.com/album/6nPmGhuPFmTDMLWwHpJVng) | 3:44 | 2024-09-24 |  |
@@ -3742,6 +3743,7 @@
 | [Vicios](https://open.spotify.com/track/5aIsFPmNUDxWhkIdG4u9oY) | [Furgas](https://open.spotify.com/artist/2Z9qZOW7lMlsOqDe7BmugC) | [Vicios](https://open.spotify.com/album/41gky5C7FWZinOe4jQoY2Y) | 5:03 | 2025-12-14 |  |
 | [Victoria: Dawn of the Cosmos](https://open.spotify.com/track/0DtTwIsKBBkMQRFTa2YBat) | [ALCON](https://open.spotify.com/artist/7ngtgFbMpJPid3SAzCNkQX) | [Victoria: Dawn of the Cosmos](https://open.spotify.com/album/1CmRduKoi7XQ1tmhPFdTcp) | 2:43 | 2025-06-05 |  |
 | [Viernes Impar](https://open.spotify.com/track/6nIzS0eniRxxQBw3QynDlm) | [Verbikí](https://open.spotify.com/artist/68SurnefW0jhCfLwU4IwP6) | [Viernes Impar](https://open.spotify.com/album/699r6pdOMtHEwYJPcOuQLN) | 3:24 | 2025-10-08 |  |
+| [Vigilia](https://open.spotify.com/track/1yDtMXTP3T5RQFxRS2Ez6O) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Soulslike](https://open.spotify.com/album/1hU2zINgJZfvnSTo65Yb9T) | 4:52 | 2026-02-12 |  |
 | [Vino El Amor](https://open.spotify.com/track/5FywKArASsEyrCGNtvQpIc) | [Evan Rodz](https://open.spotify.com/artist/11b5iup6dk8QDzFH2sQ0bw) | [Vino El Amor](https://open.spotify.com/album/5z8uzZz2T9FM1uPDUWBocD) | 3:43 | 2025-12-02 |  |
 | [Vintage on Repeat](https://open.spotify.com/track/6D3WJjp2ZtLgWCCLg36Evp) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape Music](https://open.spotify.com/album/2X1ZnNcAoPKI9wGc2Mtt9V) | 3:03 | 2025-09-20 |  |
 | [Virago \- Remastered Version](https://open.spotify.com/track/36AeehZX25Cg82s1cM2fQN) | [Eufrocina Manigos and Eyvind Bilstad](https://open.spotify.com/artist/31q4JP429LpIl1OEibwldo) | [Virago \(Remastered Version\)](https://open.spotify.com/album/2ETaMu5kSsy7N3nAfwm0Si) | 2:32 | 2025-04-27 |  |

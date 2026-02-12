@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal\. Photo: Fleur de Peau
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,744 likes - 69 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,999 likes - 69 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

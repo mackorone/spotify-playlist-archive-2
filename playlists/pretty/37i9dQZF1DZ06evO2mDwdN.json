@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 13994,
+  "num_followers": 13995,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAAAw8fzf19xmlHEvxlb9J+X",
+  "snapshot_id": "aYp1AAAAAACoPmlIO8a24grzIVQ1AzDS",
   "tracks": [
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Let It Be You (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/1H90T1SzYHLRqNZZ0y7dhC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 191320,
       "name": "Concentrate On Me (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/2lu7G8oIwTUSVQHqV2TqKh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Let It Be You (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/1H90T1SzYHLRqNZZ0y7dhC"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
       "duration_ms": 481640,
       "name": "When Will I See You Again / Love Train - Live Medley",
       "url": "https://open.spotify.com/track/6s59Mq2boCny0IIFPinPxT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 266106,
-      "name": "Reaching For The World",
-      "url": "https://open.spotify.com/track/5ydD69Y6DBBu6VFJmsu4BB"
     },
     {
       "added_at": null,
@@ -631,6 +615,22 @@
       "duration_ms": 374106,
       "name": "I'm Comin' Home Tomorrow (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/4QaqcfGIFyDMhWR2bk9qwC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 266106,
+      "name": "Reaching For The World",
+      "url": "https://open.spotify.com/track/5ydD69Y6DBBu6VFJmsu4BB"
     },
     {
       "added_at": null,
@@ -807,46 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
-        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        },
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 302642,
-      "name": "Love Train - Live",
-      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 604160,
-      "name": "Hope We Can Be Together Soon / All Night Long - Live Medley",
-      "url": "https://open.spotify.com/track/4iF9cKkfXWgRiCkqC2eVyK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -871,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retro Swag: Soulful Sounds and Funky Favorites",
-        "url": "https://open.spotify.com/album/3GFvHWFNoj2xEjYw8SxVfA"
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
       "artists": [
         {
@@ -880,9 +840,33 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 212551,
-      "name": "For the Love of Money",
-      "url": "https://open.spotify.com/track/6fEyeDyZC9QE2aO7HcGuZN"
+      "duration_ms": 604160,
+      "name": "Hope We Can Be Together Soon / All Night Long - Live Medley",
+      "url": "https://open.spotify.com/track/4iF9cKkfXWgRiCkqC2eVyK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 302642,
+      "name": "Love Train - Live",
+      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
     },
     {
       "added_at": null,
@@ -903,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "80's Love Songs",
-        "url": "https://open.spotify.com/album/6B1HPZ1E0Cc9fLUUaDeuFA"
+        "name": "Retro Swag: Soulful Sounds and Funky Favorites",
+        "url": "https://open.spotify.com/album/3GFvHWFNoj2xEjYw8SxVfA"
       },
       "artists": [
         {
@@ -912,9 +896,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 263360,
-      "name": "This Is The Love",
-      "url": "https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk"
+      "duration_ms": 212551,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/6fEyeDyZC9QE2aO7HcGuZN"
     },
     {
       "added_at": null,
@@ -955,6 +939,22 @@
       "duration_ms": 127360,
       "name": "Wagon Wheels",
       "url": "https://open.spotify.com/track/72KmrZAwfWaonHxdj3lu4M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "80's Love Songs",
+        "url": "https://open.spotify.com/album/6B1HPZ1E0Cc9fLUUaDeuFA"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 263360,
+      "name": "This Is The Love",
+      "url": "https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk"
     }
   ],
   "unique_name": "This Is Harold Melvin & The Blue Notes",

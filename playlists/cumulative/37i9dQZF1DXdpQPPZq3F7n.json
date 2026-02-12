@@ -1911,6 +1911,32 @@
     },
     {
       "album": {
+        "name": "Hum To Tere Hi Liye The (From \"O' Romeo\")",
+        "url": "https://open.spotify.com/album/7p8l83GzCSkQic9yxPJmGR"
+      },
+      "artists": [
+        {
+          "name": "Vishal Bhardwaj",
+          "url": "https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304134,
+      "name": "Hum To Tere Hi Liye The (From \"O' Romeo\")",
+      "url": "https://open.spotify.com/track/5Kmpdwhvv2mk9rlW0Km6TJ"
+    },
+    {
+      "album": {
         "name": "Ek Villain",
         "url": "https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF"
       },
@@ -4062,7 +4088,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 285163,
       "name": "Mere Yaaraa (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/0tpwqQhdfJXRcUDSNRjb9O"
@@ -4804,7 +4830,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 266075,
       "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
       "url": "https://open.spotify.com/track/5QW9K4A1gMnIi94YUxtsfM"
@@ -4990,6 +5016,32 @@
       "duration_ms": 215075,
       "name": "Qayde Se (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/1iiVX4OJ6vo3a4sT3Fe7Ix"
+    },
+    {
+      "album": {
+        "name": "Qubool (From \"Haq\")",
+        "url": "https://open.spotify.com/album/25ghc9zBuwvQi1df8BGIrK"
+      },
+      "artists": [
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Kaushal Kishore",
+          "url": "https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284857,
+      "name": "Qubool (From \"Haq\")",
+      "url": "https://open.spotify.com/track/2SWCNQhb4xwETMbIxgdQUC"
     },
     {
       "album": {

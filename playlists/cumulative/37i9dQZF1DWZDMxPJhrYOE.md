@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-937 songs - 2 day 0 hr 44 min
+938 songs - 2 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,7 +539,7 @@
 | [Lufthavn \(feat\. Marcus.wav\)](https://open.spotify.com/track/025bOa1Ebil8W8NmqWVHgT) | [OKAYNICO](https://open.spotify.com/artist/0moGh7WEOH25xy8gZvpY3a), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lufthavn \(feat\. Marcus.wav\)](https://open.spotify.com/album/324wDlxoAQzh07mctH708A) | 2:53 | 2025-11-13 | 2025-11-28 |
 | [Luk Mig Ind](https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Luk Mig Ind](https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA) | 3:17 | 2024-11-28 | 2025-03-23 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-07-01 | 2024-09-13 |
-| [Lyse Nætter](https://open.spotify.com/track/14iDVL9nkEM9ViJ26IvM0I) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Sigvardt](https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI) | [Lyse Nætter](https://open.spotify.com/album/5eTKYD1eF9BpmqbizWcfV4) | 2:56 | 2026-01-15 |  |
+| [Lyse Nætter](https://open.spotify.com/track/14iDVL9nkEM9ViJ26IvM0I) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c), [Sigvardt](https://open.spotify.com/artist/01SHHLZ1xZbAhpoirvXjiI) | [Lyse Nætter](https://open.spotify.com/album/5eTKYD1eF9BpmqbizWcfV4) | 2:56 | 2026-01-15 | 2026-02-12 |
 | [lyver for min dagbog](https://open.spotify.com/track/5j9fLgiRVpcgXPUv3Sgn6p) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [lyver for min dagbog](https://open.spotify.com/album/2niCiyzXmAO7V4zfugaist) | 2:45 | 2024-07-31 | 2024-08-04 |
 | [m3aya v1 \(sammen\)](https://open.spotify.com/track/2k3uSOCHsTXy4f1WSB0fjt) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [m3aya v1 \(sammen\)](https://open.spotify.com/album/1WI8oxJKbQFDBNfpJPPCG8) | 2:50 | 2025-07-31 | 2025-08-29 |
 | [Made It Awkward](https://open.spotify.com/track/5sxkUsaMJt4uixloBnMTSM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Made It Awkward](https://open.spotify.com/album/7LHaPrkGIBH8oo6u0b6O0J) | 3:04 | 2025-01-24 | 2025-01-26 |
@@ -562,7 +562,8 @@
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-07-01 | 2024-08-17 |
 | [Min Bror](https://open.spotify.com/track/50XScTYQGylJMD55jXpjgJ) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Min Bror](https://open.spotify.com/album/4SwKgXPEaCTUF1eHHDF91h) | 2:54 | 2024-10-10 | 2025-01-25 |
 | [Min Ven](https://open.spotify.com/track/0xsFwrEpSw4D6NzSCP0D6U) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Min Ven](https://open.spotify.com/album/5qX1iW4bIxYjb9bwhcv3xe) | 3:15 | 2024-08-22 | 2024-11-08 |
-| [Misbehave](https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Misbehave](https://open.spotify.com/album/59dxeR3y0o3WhJwQA1oNKm) | 3:43 | 2026-02-06 | 2026-02-08 |
+| [Minder Hos Andre Freestyle](https://open.spotify.com/track/0TdCKUANcKOlMhHIaiE4ur) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [Minder Hos Andre Freestyle](https://open.spotify.com/album/1JSplYlnpcLBuZBFs8plGm) | 2:01 | 2026-02-06 |  |
+| [Misbehave](https://open.spotify.com/track/1FRWjWnOf6NRePXN38tkQS) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Misbehave](https://open.spotify.com/album/59dxeR3y0o3WhJwQA1oNKm) | 3:43 | 2026-02-06 |  |
 | [Missing You](https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Missing You](https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW) | 2:44 | 2024-09-26 | 2024-10-11 |
 | [Mit Ord](https://open.spotify.com/track/2MTuvBUexLhmsiRpIozOL5) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Mit Ord](https://open.spotify.com/album/2n1YkH9GplOZunXhT8ucqL) | 2:30 | 2025-01-24 | 2025-02-28 |
 | [Moment](https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Moment](https://open.spotify.com/album/74tiJMeAD7XYcQFDjqXp2k) | 2:14 | 2025-11-20 | 2025-12-12 |
@@ -613,7 +614,7 @@
 | [nothing on u](https://open.spotify.com/track/1LluuPK8V8UaJ4Q3TQVfzQ) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [nothing on u](https://open.spotify.com/album/1wFBpYVbwHqhSOUuym7kTf) | 2:01 | 2025-12-11 |  |
 | [nova](https://open.spotify.com/track/2Vp7BoWzgNSaR8v9q5wmsQ) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [JUNE](https://open.spotify.com/album/3XETiy4ury4IU6JB9p8jc2) | 3:53 | 2025-11-27 | 2025-12-05 |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-11-21 | 2025-02-25 |
-| [Nyhavn \(feat\. Ella Augusta\)](https://open.spotify.com/track/1IcCUdRb9sHuJUd7jsC8Vd) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Nyhavn \(feat\. Ella Augusta\)](https://open.spotify.com/album/1XQzJCS5yuvSJ2ByPqnv2F) | 2:54 | 2026-01-15 |  |
+| [Nyhavn \(feat\. Ella Augusta\)](https://open.spotify.com/track/1IcCUdRb9sHuJUd7jsC8Vd) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Nyhavn \(feat\. Ella Augusta\)](https://open.spotify.com/album/1XQzJCS5yuvSJ2ByPqnv2F) | 2:54 | 2026-01-15 | 2026-02-12 |
 | [Når Jeg Vågner II](https://open.spotify.com/track/3DWixpLy6fxCf79Lxcp76q) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen) | [Når Jeg Vågner II](https://open.spotify.com/album/4UG8Uf9sK2m94ymQ0yBMLw) | 2:58 | 2024-09-19 | 2024-09-27 |
 | [når verden vælter](https://open.spotify.com/track/366GW0RsHtjyGeJSg0u9Ux) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [når verden vælter](https://open.spotify.com/album/2NCT7btnTDBpeu6tl1MdYR) | 2:59 | 2025-02-20 | 2025-04-22 |
 | [Nøgen](https://open.spotify.com/track/5gK8xceSADPn3qbdrYGlIM) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [Nøgen](https://open.spotify.com/album/0GQD2M2mXTXSE5YSEnKOOA) | 2:57 | 2025-01-24 | 2025-01-26 |

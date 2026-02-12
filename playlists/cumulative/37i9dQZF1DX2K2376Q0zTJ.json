@@ -8537,6 +8537,24 @@
     },
     {
       "album": {
+        "name": "KATTARINA",
+        "url": "https://open.spotify.com/album/69AQNqE98bHro9A4dgYZON"
+      },
+      "artists": [
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164090,
+      "name": "KATTARINA",
+      "url": "https://open.spotify.com/track/5Hv1K6UO163b76PTnPDJ0X"
+    },
+    {
+      "album": {
         "name": "EASY MODE",
         "url": "https://open.spotify.com/album/7xO7vcPs8Uau9BQcwJN0QZ"
       },
@@ -15863,6 +15881,24 @@
     },
     {
       "album": {
+        "name": "Stack",
+        "url": "https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG"
+    },
+    {
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/0fk8yp59UfhdKnRp9o7cvC"
       },
@@ -16228,7 +16264,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 230769,
       "name": "Stronger - feat. Awich",
       "url": "https://open.spotify.com/track/1UieZYWnDPxQTzbZAPVNaI"
@@ -26770,7 +26806,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 195550,
       "name": "\u82b1\u30fb\u9b41 - feat. Medusa, E.V.P & IFE",
       "url": "https://open.spotify.com/track/1w14iqJWOh74Bx7LldAfig"

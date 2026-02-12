@@ -4,7 +4,7 @@
 
 > Nieuw: Brasco & NAVI, Sam J’taime, TYCH & IJSLAND \(Abel & Sef\) en meer...
 
-397 songs - 17 hr 7 min
+398 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [Yusu](https://open.spotify.com/track/13LmE9mWU4T3GDUaQnhafs) | [Tamika Naomi](https://open.spotify.com/artist/2n1mMxsGOKnQ19vNJmoBW1) | [Yusu](https://open.spotify.com/album/2iCp4w7ubcdI3OyfdlODbr) | 2:45 | 2025-07-17 | 2025-08-15 |
 | [Zelf Gedaan](https://open.spotify.com/track/62OtIqaoDd3oaDfFWSo9V3) | [Mies](https://open.spotify.com/artist/2UtiF4krqQ3xlkXVC9tgbW), [Mailly](https://open.spotify.com/artist/6xw89j5IGC5DWGYCAaGbCH) | [Zelf Gedaan](https://open.spotify.com/album/5OfLTyJcoHZm8WLdHMtx1R) | 3:33 | 2025-10-09 | 2025-11-21 |
 | [ZIM ZIMMA](https://open.spotify.com/track/3sQPWZIuNEQjzescvtwVTw) | [Dv](https://open.spotify.com/artist/4MgUht9kRLFmS5uNiycgeC) | [ZIM ZIMMA](https://open.spotify.com/album/6aS5DnKda44IcW3GkH4Sd4) | 2:18 | 2025-12-18 | 2026-01-30 |
+| [Zo Jong](https://open.spotify.com/track/4ZoZALmGXlkDbfYnghv8es) | [Bailey KBC](https://open.spotify.com/artist/3Cf9anMB3CrNzdcOgeLVC4), [MeoKidd](https://open.spotify.com/artist/4ZZaPbicmQeuSRcPlbv4o6), [Omachh](https://open.spotify.com/artist/3aOOX1imR5rxI4Gx7BiPbK) | [Zo Jong](https://open.spotify.com/album/32PZMjiUvupSVlYUHtT4d2) | 3:27 | 2026-02-11 |  |
 | [Zonder Bedoeling](https://open.spotify.com/track/1TLmpC3FLXAxgP73mfUdJG) | [Nathan](https://open.spotify.com/artist/4BOkPqfWOHtk5TLVyILCg3) | [Zonder Bedoeling](https://open.spotify.com/album/0ZZp5SO2RUwSxNismoKVIl) | 2:12 | 2025-08-28 | 2025-10-03 |
 | [Zoveel gegeven](https://open.spotify.com/track/2GweTDbz78W7ZaX73O5ae6) | [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [Zoveel gegeven](https://open.spotify.com/album/5XlzvxKkSxThyVZQBK2Uqp) | 2:20 | 2025-09-04 | 2025-09-12 |
 | [Zuidas](https://open.spotify.com/track/5BI3C47nhlC9POwIYdoJtb) | [Stanga](https://open.spotify.com/artist/6cnlzMlMZJtZMKROe8wNwZ), [JP](https://open.spotify.com/artist/11TOhzdSJgaGjhf92hBGpG) | [Zuidas](https://open.spotify.com/album/7dKFIqEAkn1ZCrziPnsdcU) | 3:08 | 2025-09-04 | 2025-10-17 |

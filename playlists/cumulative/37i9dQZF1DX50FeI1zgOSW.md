@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : 808Krshna
 
-709 songs - 1 day 16 hr 21 min
+710 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -534,7 +534,7 @@
 | [Santhosham](https://open.spotify.com/track/7gocHLwMiHYistuL6IRvPC) | [Sasi The Don](https://open.spotify.com/artist/6APAnfUdrwL4p3SKl733Q8) | [Santhosham](https://open.spotify.com/album/79tK2NhrdB5Q2g1hFA906K) | 3:17 | 2025-01-17 | 2025-04-02 |
 | [Scene Podaathadi](https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Ruthra Kabi](https://open.spotify.com/artist/4vsRVAC4QikMjYBxYjj3KV) | [Scene Podaathadi](https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE) | 3:54 | 2023-03-21 | 2023-07-28 |
 | [Sernthom Pirinthom](https://open.spotify.com/track/15ZUtomY7AmhvWrrSxzwOS) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Sernthom Pirinthom](https://open.spotify.com/album/1EzqQmsgWsqYkyAyWN4RMu) | 3:43 | 2023-07-10 | 2024-02-16 |
-| [Shinin](https://open.spotify.com/track/2n7mpOcCEaiDqrO2oI37iY) | [Kshia](https://open.spotify.com/artist/2sJDE8wstTiLCnffel2NOU) | [Shinin](https://open.spotify.com/album/52Ia4eVMgfWbwPjEmzL7sC) | 2:51 | 2025-11-03 |  |
+| [Shinin](https://open.spotify.com/track/2n7mpOcCEaiDqrO2oI37iY) | [Kshia](https://open.spotify.com/artist/2sJDE8wstTiLCnffel2NOU) | [Shinin](https://open.spotify.com/album/52Ia4eVMgfWbwPjEmzL7sC) | 2:51 | 2025-11-03 | 2026-02-12 |
 | [Shiva Thandavam](https://open.spotify.com/track/2nwc64nkdBuT655QCKopWY) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3) | [Shiva Thandavam](https://open.spotify.com/album/2vvjTqC3sGfNBacT2tBTkE) | 3:48 | 2023-11-16 | 2024-04-16 |
 | [Shoe Theriyudha](https://open.spotify.com/track/7FG1BPAP93BBgtofxyZLEm) | [Sumesh Kumar](https://open.spotify.com/artist/7d2JB1nMqIEwLdpw0oJVWr) | [Shoe Theriyudha](https://open.spotify.com/album/4FEwyWz8W3PA8CLyzaXEHk) | 3:34 | 2023-10-06 | 2024-04-24 |
 | [Show Time](https://open.spotify.com/track/3gLDF0FVNVcFQojbLdyFJs) | [Mrs Go](https://open.spotify.com/artist/1RRxqiZw0jqxLjQSUx4lZT), [Debbie Pari](https://open.spotify.com/artist/5EaGIUUHZvkivRGvlWkfpr), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Show Time](https://open.spotify.com/album/0AjLHcwTPKpJRTChf9uazw) | 4:16 | 2024-02-09 | 2024-05-21 |
@@ -651,6 +651,7 @@
 | [Vaanaai Naam](https://open.spotify.com/track/7bnvjefUzxgtIqGxyQcqsR) | [Nishad G](https://open.spotify.com/artist/4TFk73Ah5yIrc6fSamHkF6), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anjana Rajagopalan](https://open.spotify.com/artist/108rmJvAaYolTjeqDao0x4), [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Life Until 23](https://open.spotify.com/album/5zjjOgr3KgPlfREtqWtMu1) | 4:40 | 2025-04-24 | 2025-07-15 |
 | [Vaanam Ellaye](https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vaanam Ellaye](https://open.spotify.com/album/6ehc5mD4YXCrWpJYNpnXFy) | 3:30 | 2023-04-03 | 2023-06-24 |
 | [Vaanavil Niraikava](https://open.spotify.com/track/25ubcWEzWuOm4nb2IFQVrs) | [Surya Srini](https://open.spotify.com/artist/4tFeh0q2MQjHjcZZZBkzTZ), [Swathi Ramachandran](https://open.spotify.com/artist/1CMNk9Dj9LnPTskACXf6p8) | [Vaanavil Niraikava](https://open.spotify.com/album/1aPEw9PFTwaabMyK9ruHaI) | 4:00 | 2024-07-30 | 2024-09-14 |
+| [Vaanengum Megam](https://open.spotify.com/track/7FIZNReipsi7iVmq7gOSWT) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM) | [Vaanengum Megam](https://open.spotify.com/album/5kdQFJn3UbQA0HP4YSKcUO) | 3:35 | 2026-02-11 |  |
 | [Vaanjai](https://open.spotify.com/track/4WpCKdwnolpO1xMWaQNPm4) | [Ungal Nachi](https://open.spotify.com/artist/2Ca532Xvfu93Sldy0CvzsB) | [Vaanjai](https://open.spotify.com/album/40GCGd3W4oLHKJo8jDWuA2) | 3:20 | 2025-06-05 | 2025-10-24 |
 | [Vaasam Pesum](https://open.spotify.com/track/3oBLxR0GR0tCuhEvjamXM4) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Vaasam Pesum](https://open.spotify.com/album/65uesvauWksGXmaSS78K1L) | 3:50 | 2023-09-22 | 2024-03-29 |
 | [Vaasam Pesum](https://open.spotify.com/track/41jUGjPRgG4ORDXOej6wJQ) | [Ainthinai](https://open.spotify.com/artist/7enNExUFBZIE9pRCnD5snJ) | [Vaasam Pesum](https://open.spotify.com/album/0qYC2EYGjddC8VabjWNBAz) | 3:55 | 2024-07-23 | 2024-12-06 |

@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 37016,
+  "num_followers": 37076,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -703,18 +703,18 @@
     {
       "added_at": "2026-02-10 11:56:40",
       "album": {
-        "name": "Big Boss Of Sufi Nusrat Fateh Ali Khan",
-        "url": "https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN"
+        "name": "Punjabi Mehfil, Vol. 5",
+        "url": "https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa"
       },
       "artists": [
         {
-          "name": "Nusrat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+          "name": "Fida Hussain",
+          "url": "https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ"
         }
       ],
-      "duration_ms": 919654,
-      "name": "Nit Khair Manga Sohneya",
-      "url": "https://open.spotify.com/track/3VQlzO0MEsIhO4XiDGPpbu"
+      "duration_ms": 919273,
+      "name": "Terian Mithian Gallan Da",
+      "url": "https://open.spotify.com/track/5Nckv5qoGtvamODagm81P8"
     },
     {
       "added_at": "2026-02-10 11:56:40",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-02-10 11:56:40",
       "album": {
-        "name": "Punjabi Mehfil",
-        "url": "https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu"
+        "name": "Big Boss Of Sufi Nusrat Fateh Ali Khan",
+        "url": "https://open.spotify.com/album/3cYWUr0ckFlYZVLPnWkVoN"
       },
       "artists": [
         {
-          "name": "Fida Hussain",
-          "url": "https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ"
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
         }
       ],
-      "duration_ms": 395589,
-      "name": "Merian Gallan Yaad Karengee",
-      "url": "https://open.spotify.com/track/3cc8pkYg6JbEgngka0Z8NJ"
+      "duration_ms": 919654,
+      "name": "Nit Khair Manga Sohneya",
+      "url": "https://open.spotify.com/track/3VQlzO0MEsIhO4XiDGPpbu"
     },
     {
       "added_at": "2026-02-10 11:56:40",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-02-10 11:56:40",
       "album": {
+        "name": "Punjabi Mehfil",
+        "url": "https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu"
+      },
+      "artists": [
+        {
+          "name": "Fida Hussain",
+          "url": "https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ"
+        }
+      ],
+      "duration_ms": 395589,
+      "name": "Merian Gallan Yaad Karengee",
+      "url": "https://open.spotify.com/track/3cc8pkYg6JbEgngka0Z8NJ"
+    },
+    {
+      "added_at": "2026-02-10 11:56:40",
+      "album": {
         "name": "Punjabi Mehfil, Vol. 3",
         "url": "https://open.spotify.com/album/6Qyt1ZwPegk8Qx3UfvT64a"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 365992,
       "name": "Imtehan (From \"Shayar\")",
       "url": "https://open.spotify.com/track/3yAGKvxeSklXAkfvm9ArdJ"
-    },
-    {
-      "added_at": "2026-02-10 11:56:40",
-      "album": {
-        "name": "Punjabi Mehfil, Vol. 5",
-        "url": "https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa"
-      },
-      "artists": [
-        {
-          "name": "Fida Hussain",
-          "url": "https://open.spotify.com/artist/7rAuJH9mqckJmKkqXcWAwZ"
-        }
-      ],
-      "duration_ms": 919273,
-      "name": "Terian Mithian Gallan Da",
-      "url": "https://open.spotify.com/track/5Nckv5qoGtvamODagm81P8"
     },
     {
       "added_at": "2026-02-10 11:56:40",
@@ -883,18 +883,22 @@
     {
       "added_at": "2026-02-10 11:56:40",
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/1ISsucOxZU3HPncDNOd4rz"
+        "name": "Chhadd Balle Balle Nu (From \"Hoshiar Singh\")",
+        "url": "https://open.spotify.com/album/5m9hCPOrY8zgLUOFlbGKza"
       },
       "artists": [
         {
           "name": "Satinder Sartaaj",
           "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Beat Minister",
+          "url": "https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH"
         }
       ],
-      "duration_ms": 222631,
-      "name": "19 ton 21",
-      "url": "https://open.spotify.com/track/4ehvrW0P9iy8CmdB1AsT9W"
+      "duration_ms": 188595,
+      "name": "Chhadd Balle Balle Nu (From \"Hoshiar Singh\")",
+      "url": "https://open.spotify.com/track/4kxI1XJtu7ftTRsvM4kmEj"
     }
   ],
   "unique_name": "Punjabi Ghazals & Qawwalis",

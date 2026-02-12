@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Meels
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,266 likes - 101 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,278 likes - 101 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

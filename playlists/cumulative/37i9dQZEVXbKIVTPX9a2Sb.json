@@ -3277,6 +3277,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "album": {
         "name": "Front 2 Back",
         "url": "https://open.spotify.com/album/2SX1AOTHm5DjK9CQPdbA4C"
       },
@@ -4276,7 +4294,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 173917,
       "name": "Bbejbb",
       "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
@@ -12368,7 +12386,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 123946,
       "name": "D\u017eanes",
       "url": "https://open.spotify.com/track/5agUzhiIJPAuj76t38TMy4"
@@ -14510,6 +14528,28 @@
       "duration_ms": 204373,
       "name": "FREE KARLO",
       "url": "https://open.spotify.com/track/2fsxqsypWqwKLwMEG5NFo0"
+    },
+    {
+      "album": {
+        "name": "Young Italo",
+        "url": "https://open.spotify.com/album/1wXbUptebMFKvhHvGY6uQD"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        },
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142571,
+      "name": "Free Love",
+      "url": "https://open.spotify.com/track/2a0qU1SG7TqwIJw4ncxvAw"
     },
     {
       "album": {
@@ -21536,7 +21576,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -30138,7 +30178,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 221202,
       "name": "Nem\u00e1me",
       "url": "https://open.spotify.com/track/7k7FJqta8D0oq9vmMytl3p"
@@ -30204,7 +30244,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 169811,
       "name": "NENI STRE$S",
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
@@ -42706,7 +42746,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 205048,
       "name": "Strach",
       "url": "https://open.spotify.com/track/5JShUXhGOwqhqwJVGjqVWk"

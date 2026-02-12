@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4992,
+  "num_followers": 4993,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAADflSUTG2Z7km2gALlauK4",
+  "snapshot_id": "aYp1AAAAAABOMecPZv4HT7XmKyFk3367",
   "tracks": [
     {
       "added_at": null,
@@ -684,7 +684,7 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 144983,
+      "duration_ms": 144984,
       "name": "Nasty Bitch",
       "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
     },
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do A Bitch (Club Mix)",
-        "url": "https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 156096,
-      "name": "Do A Bitch - Club Mix",
-      "url": "https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Keep It Playa",
         "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 192592,
       "name": "ill nana (feat. Kali)",
       "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do A Bitch (Club Mix)",
+        "url": "https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 156096,
+      "name": "Do A Bitch - Club Mix",
+      "url": "https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5"
     },
     {
       "added_at": null,
@@ -975,22 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Chocolate",
-        "url": "https://open.spotify.com/album/0pMuKNqI4VOoLESF5wExWY"
+        "name": "Accountable Blues",
+        "url": "https://open.spotify.com/album/1drgTeQV0wkw0OFFhQe43b"
       },
       "artists": [
         {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+          "name": "Dono",
+          "url": "https://open.spotify.com/artist/5wyWKmk8XPhoJlD6rnw0eG"
         },
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 153847,
-      "name": "Chainzzz (feat. Muni Long)",
-      "url": "https://open.spotify.com/track/5SYwk9PsKrlhvKoQc63izx"
+      "duration_ms": 144000,
+      "name": "Good News (Remix)",
+      "url": "https://open.spotify.com/track/41gY64wTB0TJFl83GHrabM"
     }
   ],
   "unique_name": "This Is Kaliii",

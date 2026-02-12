@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,184 songs - 20 day 19 hr 32 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,191 songs - 20 day 19 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8192,5 +8192,12 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8182 | [NEO UNIVERSE \- Remastered 2022](https://open.spotify.com/track/3cFdPmh23RnHrpNOWNkSHH) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [REAL \(Remastered 2022\)](https://open.spotify.com/album/5w2N2CfwUcgczLNeZW5Q7K) | 4:08 |
 | 8183 | [Driver's High \- Remastered 2022](https://open.spotify.com/track/4eL14qmwVFFgXoOqy9fWOt) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [ark \(Remastered 2022\)](https://open.spotify.com/album/1yswv9nJISyhKOisp0buDe) | 4:10 |
 | 8184 | [flower](https://open.spotify.com/track/1BymrzeFs03QuOyC8nO3w7) | [L'Arc\-en\-Ciel](https://open.spotify.com/artist/6jTjjAjvYvMYfaqi837p5x) | [True](https://open.spotify.com/album/1GnrW9Luba7DskLyeEqhqS) | 4:58 |
+| 8185 | [タイニーリトル・アジアンタム](https://open.spotify.com/track/09UAi1gYdutGj4AbDApUki) | [ShibayanRecords](https://open.spotify.com/artist/0h8tSYXnFjmrLdUSGOKNSX) | [TOHO BOSSA NOVA 2](https://open.spotify.com/album/4qnKAC7UnpcwkcUltzcCXP) | 5:51 |
+| 8186 | [renai circulation pluggnb \(恋愛サーキュレーション\)](https://open.spotify.com/track/0SZenVPubqt5p0Q1z7rAr7) | [cadenkala](https://open.spotify.com/artist/2rzk5yjCatuGzQLDawKsXe) | [renai circulation pluggnb \(恋愛サーキュレーション\)](https://open.spotify.com/album/6J4DQPCbKfypIIGPT1PaYH) | 2:12 |
+| 8187 | [good day](https://open.spotify.com/track/1OZHGzij6IGFrOMWht7bt7) | [yawn.](https://open.spotify.com/artist/2TcUwhfNHff02WESoM1OI9) | [some chill tunes lol](https://open.spotify.com/album/2wNrzQp3bNejfjSQDRDXK4) | 2:04 |
+| 8188 | [a cat goes to work](https://open.spotify.com/track/5BGP2qZ2LwXNBTFnrA0lVF) | [sakuracloud](https://open.spotify.com/artist/4e29E9h4Vt0UHW9Fnd0AhO) | [a cat goes to work](https://open.spotify.com/album/5slMEODTAQVYkK2wiCuiT3) | 1:38 |
+| 8189 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 |
+| 8190 | [テイオーテイオーテイテイオー](https://open.spotify.com/track/0BFhu2pdmR4GGOt11RCnMK) | [トウカイテイオー \(CV\. Machico\)](https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O) | [『ウマ娘 プリティーダービー』WINNING LIVE 06](https://open.spotify.com/album/4yUrE4BXP4DE1Z4PxMXOPI) | 0:30 |
+| 8191 | [はちみーのうた](https://open.spotify.com/track/46eZEjr6MVjL8l87FkNZr4) | [トウカイテイオー \(CV\. Machico\)](https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O) | [TVアニメ『ウマ娘 プリティーダービー』ANIMATION DERBY Season 2 vol.3 Original Sound Track](https://open.spotify.com/album/5180jjuPAfurbc3HTGFP0n) | 0:30 |
 
-Snapshot ID: `AAAKj08/UquPusujSza60XZ0esQIpN7Q`
+Snapshot ID: `AAAKli9WUQahhbrZJlSxQme5Ww03fqUW`

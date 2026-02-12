@@ -11694,7 +11694,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 105271,
       "name": "FA9LA",
       "url": "https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7"
@@ -17362,6 +17362,24 @@
     {
       "album": {
         "name": "Simula At Wakas: Kickoff Concert Album",
+        "url": "https://open.spotify.com/album/64cyme7Sfp0qNdrRWJgcJi"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224651,
+      "name": "I WANT YOU (Simula at Wakas Tour Kickoff)",
+      "url": "https://open.spotify.com/track/3h40NRcwqd80NGzdvDfO3M"
+    },
+    {
+      "album": {
+        "name": "Simula At Wakas: Kickoff Concert Album",
         "url": "https://open.spotify.com/album/0P11edW3jdXglzOqtsShJI"
       },
       "artists": [
@@ -18320,7 +18338,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -18530,7 +18548,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 250860,
       "name": "Ishq Jalakar - Karvaan (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/0dkQAG6lAsZvRCeG8QwVwR"
@@ -22454,7 +22472,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -22498,7 +22516,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 253801,
       "name": "Lutt Le Gaya (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/6NAtrsDcRI5YkC6vGvPF6U"
@@ -25480,7 +25498,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 155142,
       "name": "Naal Nachna (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/0KHOIkAcSHTH9S0H0wZV7Q"
@@ -26292,7 +26310,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -28956,7 +28974,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -36196,6 +36214,24 @@
       "duration_ms": 306257,
       "name": "t h e . c l i m b . b a c k",
       "url": "https://open.spotify.com/track/5lLNBIyjp72btcnrjBG751"
+    },
+    {
+      "album": {
+        "name": "Tahanan",
+        "url": "https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5"
+      },
+      "artists": [
+        {
+          "name": "El Manu",
+          "url": "https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Tahanan",
+      "url": "https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A"
     },
     {
       "album": {

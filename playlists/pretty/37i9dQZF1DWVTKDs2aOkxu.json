@@ -1,12 +1,12 @@
 {
   "description": "The best indie music of the moment. Cover: Noah Kahan",
-  "num_followers": 1170874,
+  "num_followers": 1170778,
   "original_name": "The Indie List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO7LzL89f4Rb8UZUl+Ex8HvxKHP+",
+  "snapshot_id": "AAAAAEEiSABpBELmEjyMZX88KKXXMwl6",
   "tracks": [
     {
       "added_at": "2026-02-06 00:00:03",
@@ -79,6 +79,22 @@
       "duration_ms": 204246,
       "name": "Brush Me Like A Horse",
       "url": "https://open.spotify.com/track/1Qx7aZ34LHzx9Dl8IEqm6J"
+    },
+    {
+      "added_at": "2026-02-11 14:52:49",
+      "album": {
+        "name": "My Heart Is A Room With No Cameras In It",
+        "url": "https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu"
+      },
+      "artists": [
+        {
+          "name": "Victoryland",
+          "url": "https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp"
+        }
+      ],
+      "duration_ms": 167173,
+      "name": "No Cameras",
+      "url": "https://open.spotify.com/track/3gIXEyoSDbkMxI5bnltLjq"
     },
     {
       "added_at": "2026-02-06 00:00:03",
@@ -243,6 +259,22 @@
       "duration_ms": 249253,
       "name": "In Violet",
       "url": "https://open.spotify.com/track/1QGzywHvE2qoqqkFzANyYb"
+    },
+    {
+      "added_at": "2026-02-06 00:00:03",
+      "album": {
+        "name": "5words",
+        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "duration_ms": 317613,
+      "name": "5words",
+      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
     },
     {
       "added_at": "2026-02-06 00:00:03",
@@ -1255,22 +1287,6 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
-    },
-    {
-      "added_at": "2026-02-06 00:00:03",
-      "album": {
-        "name": "5words",
-        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
-      },
-      "artists": [
-        {
-          "name": "RIP Magic",
-          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
-        }
-      ],
-      "duration_ms": 317613,
-      "name": "5words",
-      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
     },
     {
       "added_at": "2026-02-06 00:00:03",

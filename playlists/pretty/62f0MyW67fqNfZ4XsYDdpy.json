@@ -6,7 +6,7 @@
     "name": "Zarema",
     "url": "https://open.spotify.com/user/59qc4cb98ruu3vma3xrexkkku"
   },
-  "snapshot_id": "AAAAltruxu9AkYZimpLaNSVWnttnOxiH",
+  "snapshot_id": "AAAAl5izssHen6JRdApUA/1zivs+Ktia",
   "tracks": [
     {
       "added_at": "2024-05-10 18:56:05",
@@ -2279,6 +2279,22 @@
       "duration_ms": 295813,
       "name": "Incinerate",
       "url": "https://open.spotify.com/track/6bGnkppjxJJY4HeOQ5dheD"
+    },
+    {
+      "added_at": "2026-02-11 21:32:36",
+      "album": {
+        "name": "Washing Machine",
+        "url": "https://open.spotify.com/album/0VskfMaczM0MNAlqqvokTC"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "duration_ms": 265480,
+      "name": "Saucer-Like",
+      "url": "https://open.spotify.com/track/1nio0EPd1Oq80XwyKyin2c"
     }
   ],
   "unique_name": "Sonic Youth Stuff",

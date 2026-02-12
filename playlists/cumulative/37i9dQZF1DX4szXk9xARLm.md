@@ -4,7 +4,7 @@
 
 > Your essential Ramadan Series songs! Cover: Elissa
 
-141 songs - 7 hr 36 min
+142 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/track/2oPXoV8VKvmVzo8llGvVwI) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Shoof El Donia \( Moslsl Ebn El Basha \)](https://open.spotify.com/album/7b8JBtKCcynWudQpFSVB1Y) | 3:27 | 2025-03-06 | 2026-02-11 |
 | [Taht Sabeh Ared](https://open.spotify.com/track/0gH9krYOtjKAox1RIzc8BP) | [AL SHAMI](https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k) | [Taht Sabeh Ared](https://open.spotify.com/album/4kWsTh3dTg3KykBmE8pmAp) | 3:14 | 2025-02-27 |  |
 | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/track/3ADHv3poD95cLwiQUbY2d7) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Tetr Mosalsal Layali AL Shemaisy](https://open.spotify.com/album/0xvlOd8fvLrWIp4hDM9PY1) | 3:58 | 2025-03-13 | 2026-02-11 |
-| [Titanic](https://open.spotify.com/track/4hmE5n6FXjXipmfTIIQP8c) | [Samad Officiel](https://open.spotify.com/artist/0PugkIpOnPjZTEEcrLO3PB) | [Titanic](https://open.spotify.com/album/62AOGBLuBhM3a47OFRQyRL) | 2:46 | 2025-03-06 |  |
+| [Titanic](https://open.spotify.com/track/4hmE5n6FXjXipmfTIIQP8c) | [Samad Officiel](https://open.spotify.com/artist/0PugkIpOnPjZTEEcrLO3PB) | [Titanic](https://open.spotify.com/album/62AOGBLuBhM3a47OFRQyRL) | 2:46 | 2025-03-06 | 2026-02-12 |
 | [Um 44](https://open.spotify.com/track/2MJtV0sadDfLHWHCrWbZGy) | [ابلة فاهيتا](https://open.spotify.com/artist/5m3Ulg93AiFnsEN6dGnp16) | [ام ٤٤](https://open.spotify.com/album/6Gd0TCMk22xKVrncE9mHVe) | 3:06 | 2025-03-03 | 2025-03-11 |
 | [wa7edo elwa7ed](https://open.spotify.com/track/3x0RpuXv5fOdKyPvoDoowe) | [Hamada Helal](https://open.spotify.com/artist/0ajxyFKgxh6n0Tui7kxY8Z) | [wa7edo elwa7ed](https://open.spotify.com/album/7LzA52HvdLTCum6HkGROyp) | 3:04 | 2025-03-06 | 2026-02-11 |
 | [We Lesa Ya Donya](https://open.spotify.com/track/3T3rQCq9rwox4gF1ATaJNz) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [We Lesa Ya Donya](https://open.spotify.com/album/5Cmt2DK38UfaUXSYnWYxdm) | 3:08 | 2024-03-10 | 2024-03-13 |
@@ -129,6 +129,7 @@
 | [ضاع القلب](https://open.spotify.com/track/3rr70YcGOv7PabTK6Qji2K) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [ضاع القلب](https://open.spotify.com/album/4L0ai6SrfVLXrSr4Y32dMT) | 3:40 | 2024-03-10 | 2025-03-04 |
 | [ضعف نظر](https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ضعف نظر](https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP) | 2:48 | 2024-03-10 | 2024-03-28 |
 | [عقبال عندكوا \- أغنية المسلسل](https://open.spotify.com/track/3nmtcMWkzlzpkDY60o39e0) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [عقبال عندكوا \(أغنية المسلسل\)](https://open.spotify.com/album/5OMfoYz6nnLrdxtji38nvW) | 2:56 | 2025-03-03 | 2025-03-11 |
+| [عوضي على الله](https://open.spotify.com/track/0efourIzovJKGWQ1XuTuTg) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [عوضي على الله](https://open.spotify.com/album/4ZKhuztTCbtjtr1E1qloIY) | 3:16 | 2026-02-10 |  |
 | [غول الاصول](https://open.spotify.com/track/1KnfSD0zHxBUICdcimR6JY) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [غول الاصول](https://open.spotify.com/album/0GnC7m8hmfuWDU8g0yHwBd) | 4:16 | 2025-02-27 |  |
 | [غيمة جنوبية](https://open.spotify.com/track/0u3OlqWffSlVYua3uk6CYp) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [غيمة جنوبية](https://open.spotify.com/album/4zpj8yX66T7NOOKaFp2gcM) | 2:22 | 2024-03-29 | 2025-03-04 |
 | [فهد البطل](https://open.spotify.com/track/5AOljykVD5PB5Ay9jM2SL2) | [Ordony](https://open.spotify.com/artist/7MDBPW2W5Bs3BfRIym4H37), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [فهد البطل](https://open.spotify.com/album/33J35aIJFmYsMjh5keRUkQ) | 3:05 | 2025-03-16 | 2025-04-16 |

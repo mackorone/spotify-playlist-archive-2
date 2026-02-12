@@ -110,7 +110,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 206944,
       "name": "Abfahrt",
       "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 178540,
       "name": "Ein bisschen Aroma - Stereoact Remix",
       "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 208071,
       "name": "Eine Nacht in Arenal",
       "url": "https://open.spotify.com/track/4bHvXW0RbZZJ09ckq5xGn6"
@@ -3858,6 +3858,28 @@
       "duration_ms": 201859,
       "name": "Wenn Du Bock hast (kannst Du Dir noch'n Korn abholen)",
       "url": "https://open.spotify.com/track/46D0UOocYv3GhGMemELnLD"
+    },
+    {
+      "album": {
+        "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
+        "url": "https://open.spotify.com/album/2ne4bOGkdiZKbc7vO3Upfa"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136551,
+      "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
+      "url": "https://open.spotify.com/track/7loscGnLhciYbQYJSuRyVW"
     },
     {
       "album": {

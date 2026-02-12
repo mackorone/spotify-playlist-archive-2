@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1244,
+  "num_followers": 1249,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAQUG+FIlHGKeFaUDWdWLmBSovkXw0K",
+  "snapshot_id": "AAAQWNLbZaUL18lmR2droNRGA1gDmZst",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -2607,6 +2607,138 @@
       "duration_ms": 167561,
       "name": "Roma",
       "url": "https://open.spotify.com/track/5UFMhB0iMZ9IRZnXVtE9uJ"
+    },
+    {
+      "added_at": "2026-02-11 09:19:55",
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/3sVAjWg3oST76Lb1xxgQhv"
+      },
+      "artists": [
+        {
+          "name": "Sush 28",
+          "url": "https://open.spotify.com/artist/2VSNYqXIGA7Sr8XyIDMczK"
+        }
+      ],
+      "duration_ms": 132154,
+      "name": "24",
+      "url": "https://open.spotify.com/track/0auAhRNjTNd5rzOEnpLFqX"
+    },
+    {
+      "added_at": "2026-02-11 09:20:11",
+      "album": {
+        "name": "Post Office Queen",
+        "url": "https://open.spotify.com/album/6DOEhu00M4lATr06LZAswN"
+      },
+      "artists": [
+        {
+          "name": "J. Lee Bone",
+          "url": "https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs"
+        }
+      ],
+      "duration_ms": 191399,
+      "name": "Post Office Queen",
+      "url": "https://open.spotify.com/track/3RW4WJT9bXPp7dJ8Xrldlu"
+    },
+    {
+      "added_at": "2026-02-11 09:20:26",
+      "album": {
+        "name": "ACTIVE BRO 2 (DELUXE)",
+        "url": "https://open.spotify.com/album/5Ud8Ktev0D1GnkKnSI0uHS"
+      },
+      "artists": [
+        {
+          "name": "KPND",
+          "url": "https://open.spotify.com/artist/00Lcjy0q0KyumzQZeSNxxI"
+        }
+      ],
+      "duration_ms": 152135,
+      "name": "ON GOD",
+      "url": "https://open.spotify.com/track/5xyGLGhyPb09LTE5v8Ggwc"
+    },
+    {
+      "added_at": "2026-02-11 09:21:32",
+      "album": {
+        "name": "Un'altra lacrima",
+        "url": "https://open.spotify.com/album/6QOZ48cHPFvruAI8kvyu1m"
+      },
+      "artists": [
+        {
+          "name": "Aranini",
+          "url": "https://open.spotify.com/artist/6Kj7garqqGAHTTJ1hPiKid"
+        },
+        {
+          "name": "Bruggio",
+          "url": "https://open.spotify.com/artist/07I8xA92ygY3jQMthS2hcu"
+        }
+      ],
+      "duration_ms": 183204,
+      "name": "Un'altra lacrima",
+      "url": "https://open.spotify.com/track/7Dhz8HBG6kELvHBxrvrIvB"
+    },
+    {
+      "added_at": "2026-02-11 09:21:50",
+      "album": {
+        "name": "Thief In The Night",
+        "url": "https://open.spotify.com/album/58noKn3XFuK5RfYYG3XWTJ"
+      },
+      "artists": [
+        {
+          "name": "Krio",
+          "url": "https://open.spotify.com/artist/6fP0UUQ2SsI2xvbqGhXDbN"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Thief In The Night",
+      "url": "https://open.spotify.com/track/2KobDZhPckNUn2ee5mK1MV"
+    },
+    {
+      "added_at": "2026-02-11 09:22:22",
+      "album": {
+        "name": "Love & Heartbreak, Vol. 3",
+        "url": "https://open.spotify.com/album/3b2UKbjlhHnEJHr3LjpRmi"
+      },
+      "artists": [
+        {
+          "name": "CTRL FREQS",
+          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
+        }
+      ],
+      "duration_ms": 268201,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/1oL4pFLc2E8b9CKsZApmSm"
+    },
+    {
+      "added_at": "2026-02-11 12:43:23",
+      "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/2cwMvSLeiEmoywmNcZQf7u"
+      },
+      "artists": [
+        {
+          "name": "Cas Du Pree",
+          "url": "https://open.spotify.com/artist/4zm8klNA7kodCThJ02HJsL"
+        }
+      ],
+      "duration_ms": 235193,
+      "name": "Man Of My Word",
+      "url": "https://open.spotify.com/track/1UsIwCa8th9i8oJz7GipbL"
+    },
+    {
+      "added_at": "2026-02-11 12:43:25",
+      "album": {
+        "name": "Tu \u00faltimo trofeo",
+        "url": "https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt"
+      },
+      "artists": [
+        {
+          "name": "Javi Cobo",
+          "url": "https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ"
+        }
+      ],
+      "duration_ms": 186708,
+      "name": "Tu \u00faltimo trofeo",
+      "url": "https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt"
     }
   ],
   "unique_name": "New Indie Music",

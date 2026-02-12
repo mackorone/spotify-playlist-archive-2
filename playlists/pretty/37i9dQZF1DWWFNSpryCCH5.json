@@ -1,6 +1,6 @@
 {
   "description": "puras canciones desenchufadas. Cover: Man\u00e1",
-  "num_followers": 1071092,
+  "num_followers": 1071039,
   "original_name": "Videos Unplugged",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-01-27 22:13:52",
       "album": {
+        "name": "Pearl Jam Twenty Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 339960,
+      "name": "Black - Kaufman Astoria Studios - MTV Unplugged - New York, NY 3/16/1992",
+      "url": "https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m"
+    },
+    {
+      "added_at": "2026-01-27 22:13:52",
+      "album": {
         "name": "MTV Unplugged: El Desconecte",
         "url": "https://open.spotify.com/album/5ceBnTwI1hUewZEwYnTc7z"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 313400,
       "name": "Hit Me - MTV Unplugged",
       "url": "https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX"
-    },
-    {
-      "added_at": "2026-01-27 22:13:52",
-      "album": {
-        "name": "Pearl Jam Twenty Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 339960,
-      "name": "Black - Kaufman Astoria Studios - MTV Unplugged - New York, NY 3/16/1992",
-      "url": "https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m"
     },
     {
       "added_at": "2026-01-27 22:13:52",

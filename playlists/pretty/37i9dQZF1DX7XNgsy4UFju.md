@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Broken Social Scene
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,241 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,240 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 32 | [Icarus](https://open.spotify.com/track/13fCn5T4Mk4FQiWP3sk9pq) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y), [Scandinavian Star](https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp), [JEURU](https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq), [3NDLESS](https://open.spotify.com/artist/75ElKTu3tktOalesDar99k) | [Icarus](https://open.spotify.com/album/4luHBca9SclaZdrRpPlAFw) | 4:16 |
 | 33 | [over thinking](https://open.spotify.com/track/452KpaaPeT5STiIdA1o4Xa) | [The Darcys](https://open.spotify.com/artist/1kmnMzV27S3bXALqYnoGwH) | [over thinking](https://open.spotify.com/album/19qSAg9kl2xSxzsjyZqULJ) | 3:56 |
 | 34 | [Washing Machine](https://open.spotify.com/track/0kOabZwPutJdHljJirchwP) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Washing Machine](https://open.spotify.com/album/1aXoAz7HuqXMixFvuRWlOE) | 2:58 |
-| 35 | [All My Friends Are Models \- ft\. Tommy Genesis](https://open.spotify.com/track/5DBXynSzS40498rbzcobsg) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [How to Win At Solitaire \(Deluxe Edition\)](https://open.spotify.com/album/3cBzeIC538EYUi5aLttTHA) | 4:36 |
+| 35 | [All My Friends Are Models \- ft\. Tommy Genesis](https://open.spotify.com/track/5DBXynSzS40498rbzcobsg) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [How to Win At Solitaire \(Deluxe Edition\)](https://open.spotify.com/album/3cBzeIC538EYUi5aLttTHA) | 4:37 |
 | 36 | [Hard](https://open.spotify.com/track/3yrvn1eU5y8Ki58ar0ZEWG) | [Local the Neighbour](https://open.spotify.com/artist/1sxWrNyQmTVxjoc7bohhu5) | [Hard](https://open.spotify.com/album/40vEPqnf31ecNy7uJL2zeR) | 2:50 |
 | 37 | [Lost Your Ghost](https://open.spotify.com/track/2mpXcmYxyKLZSg41JRmJFR) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Lost Your Ghost](https://open.spotify.com/album/6kg3t1sPWJx0WZdqULoVHB) | 3:58 |
 | 38 | [Buggy](https://open.spotify.com/track/6fGJvIVLdwNfhtYf18xjI6) | [Benja](https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid) | [Buggy](https://open.spotify.com/album/59P9DM3dQdcdNL8k6cg9JX) | 2:45 |

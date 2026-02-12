@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60647,
+  "num_followers": 60641,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 216259,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
         "name": "\u00c4ldsta Barnet (Deluxe)",
         "url": "https://open.spotify.com/album/67CKq9Y8yeFXZ0yWQGj7Ga"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 161147,
       "name": "Spelar ingen roll (feat. Simon Superti)",
       "url": "https://open.spotify.com/track/32NTHTbLx4HDwMHyixu8jd"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 216259,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
         "name": "Alla Ska D\u00f6",
         "url": "https://open.spotify.com/album/4FGa0t6nw3MaVpLGs0cIif"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 166234,
       "name": "Alla Ska D\u00f6",
       "url": "https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "F\u00f6rlora dig l\u00e5ngsamt",
-        "url": "https://open.spotify.com/album/13AYEJK45UlkahBUngfsvY"
-      },
-      "artists": [
-        {
-          "name": "KHARMA",
-          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
-        },
-        {
-          "name": "Theo",
-          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
-        }
-      ],
-      "duration_ms": 151093,
-      "name": "F\u00f6rlora dig l\u00e5ngsamt",
-      "url": "https://open.spotify.com/track/6WlJ1sVqmfeEvMRAKebp91"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
         "name": "Min",
         "url": "https://open.spotify.com/album/7BRLovL0UUeRCG5v3vrXSx"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 147969,
       "name": "Min",
       "url": "https://open.spotify.com/track/4hWN8ltynwP6Vt6GpuAa4d"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
+        "name": "F\u00f6rlora dig l\u00e5ngsamt",
+        "url": "https://open.spotify.com/album/13AYEJK45UlkahBUngfsvY"
+      },
+      "artists": [
+        {
+          "name": "KHARMA",
+          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
+        },
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "duration_ms": 151093,
+      "name": "F\u00f6rlora dig l\u00e5ngsamt",
+      "url": "https://open.spotify.com/track/6WlJ1sVqmfeEvMRAKebp91"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "Catch & Release",
-        "url": "https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg"
-      },
-      "artists": [
-        {
-          "name": "Rhys Frank",
-          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
-        }
-      ],
-      "duration_ms": 177421,
-      "name": "Catch & Release",
-      "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
         "name": "Andarna",
         "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 226124,
       "name": "Andarna",
       "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
+        "name": "Catch & Release",
+        "url": "https://open.spotify.com/album/05x5NLjET5auVPaXvvuQcg"
+      },
+      "artists": [
+        {
+          "name": "Rhys Frank",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        }
+      ],
+      "duration_ms": 177421,
+      "name": "Catch & Release",
+      "url": "https://open.spotify.com/track/0LgiKGRnK1IMk1bAOgrBcY"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z"
-      },
-      "artists": [
-        {
-          "name": "Dione",
-          "url": "https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK"
-        }
-      ],
-      "duration_ms": 202171,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
         "name": "500 kr",
         "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 225000,
       "name": "500 kr",
       "url": "https://open.spotify.com/track/5xySpkBChFvrOQow2yw5Aa"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z"
+      },
+      "artists": [
+        {
+          "name": "Dione",
+          "url": "https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK"
+        }
+      ],
+      "duration_ms": 202171,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "Tryna make it in LA",
-        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "En av alla andra",
-      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/6YSni14WiEq5mIihve4u3V"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 111971,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3AYNFdQ9itV8zWFVJqfLTd"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
+        "name": "Tryna make it in LA",
+        "url": "https://open.spotify.com/album/4fp8OAtfX796SBKkwfvQ9D"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "En av alla andra",
+      "url": "https://open.spotify.com/track/4Fy6KwY5ewtQcR6Z6u0gHn"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "Nostalgi",
-        "url": "https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5"
-      },
-      "artists": [
-        {
-          "name": "KHARMA",
-          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
-        }
-      ],
-      "duration_ms": 140597,
-      "name": "Nostalgi",
-      "url": "https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
         "name": "Hittat hem",
         "url": "https://open.spotify.com/album/3LRL5ylunpeHB352pVmmOE"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "Love is for Losers",
-        "url": "https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j"
+        "name": "Nostalgi",
+        "url": "https://open.spotify.com/album/3NFRYOP651HE9QwHNRXpu5"
       },
       "artists": [
         {
-          "name": "LOVIS",
-          "url": "https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy"
+          "name": "KHARMA",
+          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
         }
       ],
-      "duration_ms": 200666,
-      "name": "Love is for Losers",
-      "url": "https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V"
+      "duration_ms": 140597,
+      "name": "Nostalgi",
+      "url": "https://open.spotify.com/track/7exxRwkE4xTJBNmpEO8Igj"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -1091,6 +1075,22 @@
       "duration_ms": 195500,
       "name": "Jag m\u00e5ste v\u00e4lja",
       "url": "https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
+        "name": "Love is for Losers",
+        "url": "https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j"
+      },
+      "artists": [
+        {
+          "name": "LOVIS",
+          "url": "https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Love is for Losers",
+      "url": "https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
+        "name": "Sv\u00e5rt",
+        "url": "https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9"
+      },
+      "artists": [
+        {
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+        }
+      ],
+      "duration_ms": 179616,
+      "name": "Sv\u00e5rt",
+      "url": "https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
         "name": "Fartblind",
         "url": "https://open.spotify.com/album/6ravDmpsLVHTQS22Bfqhyc"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 155322,
       "name": "Faller s\u00e5 l\u00e4tt",
       "url": "https://open.spotify.com/track/7iw1mJzFwlWNfYQxILUNiY"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
-        "name": "Sv\u00e5rt",
-        "url": "https://open.spotify.com/album/1wmxJgIRdw1f25WCCf6Oj9"
-      },
-      "artists": [
-        {
-          "name": "Amani Smith",
-          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
-        }
-      ],
-      "duration_ms": 179616,
-      "name": "Sv\u00e5rt",
-      "url": "https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
+        "name": "Ikv\u00e4ll handlar det om oss (en drink)",
+        "url": "https://open.spotify.com/album/6twcBceHcvChiodG82Jryb"
+      },
+      "artists": [
+        {
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+        }
+      ],
+      "duration_ms": 113454,
+      "name": "Ikv\u00e4ll handlar det om oss (en drink)",
+      "url": "https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
         "name": "Is It Love?",
         "url": "https://open.spotify.com/album/70WeBMKxVg8C06c68o1661"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "Ikv\u00e4ll handlar det om oss (en drink)",
-        "url": "https://open.spotify.com/album/6twcBceHcvChiodG82Jryb"
+        "name": "Same Kids",
+        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
       },
       "artists": [
         {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
         }
       ],
-      "duration_ms": 113454,
-      "name": "Ikv\u00e4ll handlar det om oss (en drink)",
-      "url": "https://open.spotify.com/track/2y5nZ2b7hEopmgKuPOpdT5"
+      "duration_ms": 211360,
+      "name": "Same Kids",
+      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "sunday night",
-        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
-      },
-      "artists": [
-        {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
-        }
-      ],
-      "duration_ms": 167569,
-      "name": "sunday night",
-      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
         "name": "Stockholm City",
         "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
       },
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "Same Kids",
-        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
+        "name": "sunday night",
+        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
       },
       "artists": [
         {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
         }
       ],
-      "duration_ms": 211360,
-      "name": "Same Kids",
-      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
+      "duration_ms": 167569,
+      "name": "sunday night",
+      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
     },
     {
       "added_at": "2026-02-05 23:00:16",

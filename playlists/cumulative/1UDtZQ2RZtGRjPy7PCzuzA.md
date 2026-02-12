@@ -4,7 +4,7 @@
 
 > 
 
-1,248 songs - 2 day 22 hr 57 min
+1,250 songs - 2 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,6 +665,7 @@
 | [MASSA](https://open.spotify.com/track/3lqIHMPvL6ef6t2xKD8ZVH) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:43 | 2025-05-10 |  |
 | [Mastermind](https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:11 | 2023-07-08 |  |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2025-12-23 |  |
+| [MAYBE I'M WRONG](https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 3:22 | 2026-02-11 |  |
 | [Mayzie In Palm Beach \- Original Broadway Cast Recording](https://open.spotify.com/track/2i4p7tCQQK86mJJrtBpp7F) | [Michele Pawk](https://open.spotify.com/artist/0WgjLfIQjAD7vDRINvWHyY) | [Seussical](https://open.spotify.com/album/1O4Z2W8WXk6eoeAIQy67Ze) | 2:16 | 2025-11-05 |  |
 | [ME + YOU](https://open.spotify.com/track/3xq22TdSUfbvisMUKZrzRK) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 2:54 | 2026-01-12 |  |
 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 | 2023-07-10 |  |
@@ -1030,6 +1031,7 @@
 | [Tell Me What It Is](https://open.spotify.com/track/4UddKz4WBKn5b9tDB6tq2L) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:22 | 2025-07-23 |  |
 | [Tell Me Why](https://open.spotify.com/track/4x7Gxk2GfwZJcqpoVT1PbR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Platinum Edition\)](https://open.spotify.com/album/2gP2LMVcIFgVczSJqn340t) | 3:20 | 2025-05-31 |  |
 | [Ten Duel Commandments](https://open.spotify.com/track/3lXyAQ0kekAvY5LodpWmUs) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N), [Jon Rua](https://open.spotify.com/artist/69NsP4MC1JbfvKMwpx2oy8), [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Original Broadway Cast of Hamilton](https://open.spotify.com/artist/3UUJfRbrA2nTbcg4i0MOwu) | [Hamilton \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1kCHru7uhxBUdzkm4gzRQc) | 1:46 | 2024-07-13 |  |
+| [THANK GOD](https://open.spotify.com/track/2klHZg6eTLcImaGyzDQukM) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 3:38 | 2026-02-11 |  |
 | [Thank Goodness \- From "Wicked" Original Broadway Cast Recording/2003](https://open.spotify.com/track/0mpNY35D9VE4oa0NLm7Cjw) | [Stephen Schwartz](https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk), [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [Carole Shelley](https://open.spotify.com/artist/31qXl2kZWi81O4SU8Efvys), [Stephen Oremus](https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi) | [Wicked \(Original Broadway Cast Recording / Deluxe Edition\)](https://open.spotify.com/album/1woCvthHJakakroP6dXNxs) | 6:23 | 2025-07-04 |  |
 | [thanK you aIMee](https://open.spotify.com/track/7ogK4lJDVDMU6A6vYR5rvD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:23 | 2024-04-26 |  |
 | [Thank You For The Music \- From 'Mamma Mia!' Original Motion Picture Soundtrack](https://open.spotify.com/track/64yJ0tpcSveze3KJAdZGKe) | [Amanda Seyfried](https://open.spotify.com/artist/5RZjpmuD14JKXvB8Ry1G1u) | [Mamma Mia! The Movie Soundtrack](https://open.spotify.com/album/6QtnCAFmqOwR75jOOmU7k9) | 3:44 | 2025-04-06 |  |

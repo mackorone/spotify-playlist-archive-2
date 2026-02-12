@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberta Campos",
-  "num_followers": 355533,
+  "num_followers": 355541,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,6 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Bruna Marquezine",
-          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
-        }
-      ],
-      "duration_ms": 297233,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
         "name": "N\u00e3o Quero Te Querer",
         "url": "https://open.spotify.com/album/6ynXVWAUOFYjmaOHxxLg4W"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 181480,
       "name": "N\u00e3o Quero Te Querer",
       "url": "https://open.spotify.com/track/0ciIs0Cw2gV9E4W3xMQkDk"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/1xeubLQ2TWyEgZOMNNqkBN"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Bruna Marquezine",
+          "url": "https://open.spotify.com/artist/26Sw3Wjs0PtHIqHOtWm62W"
+        }
+      ],
+      "duration_ms": 297233,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/4m4wb65Mtpss0tzaLWvG99"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
         "name": "Que isso nunca acabe",
         "url": "https://open.spotify.com/album/4XZfBpwSg4HahwGZUbUKnb"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 161326,
       "name": "Que isso nunca acabe",
       "url": "https://open.spotify.com/track/40DZuYVEGulPfpKSVG9dl1"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
+        "name": "Mares E Desertos",
+        "url": "https://open.spotify.com/album/04QCA0sevXuUw7bxhRv9Dg"
+      },
+      "artists": [
+        {
+          "name": "Almir Sater",
+          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
+        }
+      ],
+      "duration_ms": 221483,
+      "name": "Mares E Desertos",
+      "url": "https://open.spotify.com/track/05Z0DbEJquaV7AJTkMIRA5"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
         "name": "Qualquer Canto",
         "url": "https://open.spotify.com/album/257ZClpDD4cyOplPlv2JVU"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 230718,
       "name": "Faltando Um Peda\u00e7o",
       "url": "https://open.spotify.com/track/5Yfrg3OFRagnGydac8xfqD"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
-        "name": "Mares E Desertos",
-        "url": "https://open.spotify.com/album/04QCA0sevXuUw7bxhRv9Dg"
-      },
-      "artists": [
-        {
-          "name": "Almir Sater",
-          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
-        }
-      ],
-      "duration_ms": 221483,
-      "name": "Mares E Desertos",
-      "url": "https://open.spotify.com/track/05Z0DbEJquaV7AJTkMIRA5"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "Fullg\u00e1s",
+      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
         "name": "FOI NO S\u00c3O JO\u00c3O",
         "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 189589,
       "name": "FOI NO S\u00c3O JO\u00c3O",
       "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Fullg\u00e1s",
-      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1131,18 +1131,22 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+        "name": "S\u00f3 Tenho Um",
+        "url": "https://open.spotify.com/album/2xbuoODikHZ0DU0rOKROwt"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/6arRXoJBfebp5a9VKlEATa"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
         }
       ],
-      "duration_ms": 437313,
-      "name": "VELUDO MARROM",
-      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
+      "duration_ms": 225890,
+      "name": "S\u00f3 Tenho Um",
+      "url": "https://open.spotify.com/track/5iNbCINGOch9j2lVKgPyPn"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
-        "name": "S\u00f3 Tenho Um",
-        "url": "https://open.spotify.com/album/2xbuoODikHZ0DU0rOKROwt"
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
       "artists": [
         {
-          "name": "Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/6arRXoJBfebp5a9VKlEATa"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 225890,
-      "name": "S\u00f3 Tenho Um",
-      "url": "https://open.spotify.com/track/5iNbCINGOch9j2lVKgPyPn"
+      "duration_ms": 437313,
+      "name": "VELUDO MARROM",
+      "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
-        "name": "Transbordante",
-        "url": "https://open.spotify.com/album/4cv6LPMnDwnq5UuJ5NTp92"
-      },
-      "artists": [
-        {
-          "name": "Cristina Petrolio",
-          "url": "https://open.spotify.com/artist/2aOK6qVA54VZBtqMUhjoTQ"
-        }
-      ],
-      "duration_ms": 238291,
-      "name": "Aventurar \u00c9 Preciso",
-      "url": "https://open.spotify.com/track/7jUiecRd08TE00CpDBfdZ1"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
         "name": "a natureza das coisas",
         "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 119702,
       "name": "a natureza das coisas",
       "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
+        "name": "Transbordante",
+        "url": "https://open.spotify.com/album/4cv6LPMnDwnq5UuJ5NTp92"
+      },
+      "artists": [
+        {
+          "name": "Cristina Petrolio",
+          "url": "https://open.spotify.com/artist/2aOK6qVA54VZBtqMUhjoTQ"
+        }
+      ],
+      "duration_ms": 238291,
+      "name": "Aventurar \u00c9 Preciso",
+      "url": "https://open.spotify.com/track/7jUiecRd08TE00CpDBfdZ1"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
+        "name": "Minha Casa",
+        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 200632,
+      "name": "Noite Severina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
         "name": "Um Trem para as Estrelas",
         "url": "https://open.spotify.com/album/4g5evSq0zyRmJlRpy8j7XP"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 216425,
       "name": "Um Trem Para as Estrelas",
       "url": "https://open.spotify.com/track/7yTVP7L2L6ACdt9n16tFW4"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
-        "name": "Minha Casa",
-        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 200632,
-      "name": "Noite Severina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
-        "name": "Te Vejo em Tudo",
-        "url": "https://open.spotify.com/album/1NeoXuny6sxG6zc4l3jmVA"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
-        }
-      ],
-      "duration_ms": 181845,
-      "name": "Te Vejo em Tudo",
-      "url": "https://open.spotify.com/track/5fiCjbjORjKuz0AB5KA9QB"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 311811,
       "name": "Abre Alas",
       "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
+        "name": "Te Vejo em Tudo",
+        "url": "https://open.spotify.com/album/1NeoXuny6sxG6zc4l3jmVA"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+        }
+      ],
+      "duration_ms": 181845,
+      "name": "Te Vejo em Tudo",
+      "url": "https://open.spotify.com/track/5fiCjbjORjKuz0AB5KA9QB"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
+        "name": "Ponteio",
+        "url": "https://open.spotify.com/album/1QikW9TjtBP3uRLbuoiK7V"
+      },
+      "artists": [
+        {
+          "name": "Chico Lobo",
+          "url": "https://open.spotify.com/artist/2nrIUZL2GjOW8IegzHSmOZ"
+        }
+      ],
+      "duration_ms": 222877,
+      "name": "Ponteio",
+      "url": "https://open.spotify.com/track/1Wd3Pm0uPJQjsAqAQP6fWy"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
         "name": "Depois da Tempestade",
         "url": "https://open.spotify.com/album/0BSEbQT1pUp7xV7OecMBK1"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 223038,
       "name": "Depois da Tempestade",
       "url": "https://open.spotify.com/track/7uPtro2FLw2P9AJJZqNLiX"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
-        "name": "Ponteio",
-        "url": "https://open.spotify.com/album/1QikW9TjtBP3uRLbuoiK7V"
-      },
-      "artists": [
-        {
-          "name": "Chico Lobo",
-          "url": "https://open.spotify.com/artist/2nrIUZL2GjOW8IegzHSmOZ"
-        }
-      ],
-      "duration_ms": 222877,
-      "name": "Ponteio",
-      "url": "https://open.spotify.com/track/1Wd3Pm0uPJQjsAqAQP6fWy"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
+        "name": "O Amor e o Tempo",
+        "url": "https://open.spotify.com/album/6UldHF44udMxpiq0HoJDTe"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Maranh\u00e3o",
+          "url": "https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH"
+        }
+      ],
+      "duration_ms": 305007,
+      "name": "O Amor e o Tempo",
+      "url": "https://open.spotify.com/track/2RR9ZHld40TTa053GtPASL"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
         "name": "PALCO",
         "url": "https://open.spotify.com/album/11D3RPdsEaovaCBPks0908"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 278736,
       "name": "PALCO",
       "url": "https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
-        "name": "O Amor e o Tempo",
-        "url": "https://open.spotify.com/album/6UldHF44udMxpiq0HoJDTe"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Maranh\u00e3o",
-          "url": "https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH"
-        }
-      ],
-      "duration_ms": 305007,
-      "name": "O Amor e o Tempo",
-      "url": "https://open.spotify.com/track/2RR9ZHld40TTa053GtPASL"
     },
     {
       "added_at": "2026-02-06 03:01:17",

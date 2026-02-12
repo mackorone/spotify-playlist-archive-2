@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 258 likes - 1,931 songs - 4 day 20 hr 1 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 260 likes - 1,934 songs - 4 day 20 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1939,5 +1939,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1929 | [Wasted Time](https://open.spotify.com/track/7oDD9dSHwFwOIUhQfvjGzT) | [STH](https://open.spotify.com/artist/6aEjseFZvUIvGHcd9bKV1K) | [Somewhere In Time](https://open.spotify.com/album/29bJwFNO13M6N0rdhV6qFm) | 4:11 |
 | 1930 | [The Man of Many Faces](https://open.spotify.com/track/6tgY6AA1lmQbIS4N0KYaB1) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [The Man of Many Faces](https://open.spotify.com/album/3sfrbRSz5BBuWSVY2c3oZ0) | 3:03 |
 | 1931 | [Astral](https://open.spotify.com/track/2zid4cfWtpcooEjSADhN2z) | [Clariá](https://open.spotify.com/artist/6Za8rqeiBcShSX1tzkUqkl) | [Astral](https://open.spotify.com/album/6rqF5Cx8HtkXzWtzcdeTQH) | 3:58 |
+| 1932 | [JÚRAME](https://open.spotify.com/track/3k84ODqVFmZJ0tkxMnUXRQ) | [Jarquez](https://open.spotify.com/artist/68ydVVkXfgE3YuGuVRn3Nj) | [JÚRAME](https://open.spotify.com/album/0GXNP93mlH7LF68LELP0l9) | 3:13 |
+| 1933 | [COSITAS DEL AMOR](https://open.spotify.com/track/3jwQS1JO2GPK2xprvzAM9M) | [Jarquez](https://open.spotify.com/artist/68ydVVkXfgE3YuGuVRn3Nj), [TMK](https://open.spotify.com/artist/2kItgWIX7FzOnr6FjBgrPI) | [COSITAS DEL AMOR](https://open.spotify.com/album/4PzZ70I18h1rZbS6QQdck1) | 2:40 |
+| 1934 | [Drops of Rain](https://open.spotify.com/track/5HA0YBgTwf0FXyvD4QHLNW) | [aNGie](https://open.spotify.com/artist/71bUhvjdkzJAmqs4S1Z3kF) | [Beautiful Ways to Disappear](https://open.spotify.com/album/0eakmFRFZ4Qeo6HiMgRBDG) | 3:22 |
 
-Snapshot ID: `AAAIFKkliJrtj1aCoToUgzXHTzsQo30g`
+Snapshot ID: `AAAIF/g6JPmXQtrkEJAU+rsMQon0FG55`

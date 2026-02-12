@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,783 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,788 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [theclubrock](https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3) | [Benny Bellson](https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6) | [theclubrock](https://open.spotify.com/album/5vkwMyUecMKS1qOSLt9pIc) | 2:02 |
 | 50 | [Lost Angeles](https://open.spotify.com/track/11gTRcdz4wK32fghA2vrX7) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 1:54 |
 
-Snapshot ID: `MR6YGAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MR/pmAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@
 
 > the best cuts from the underground 💎 featuring QRTR 💎
 
-914 songs - 2 day 16 hr 57 min
+915 songs - 2 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [BADBOI](https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX) | [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [BADBOI](https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN) | 3:16 | 2022-07-08 | 2024-07-13 |
 | [BADDDMANNN](https://open.spotify.com/track/6tvglFdRMna9COLn0Ujo5e) | [WOST](https://open.spotify.com/artist/3kdAt1M24OsazoncWOFlFf), [Pedro da Linha](https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh) | [BADDDMANNN](https://open.spotify.com/album/78pSXrs5ROU0WUctZkX73B) | 3:51 | 2024-08-30 | 2025-02-01 |
 | [BaDinga \- Reloaded](https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [TWRK](https://open.spotify.com/artist/2wo3eLY26t8AMyYuYi1pZQ) | [BaDinga \(Reloaded\)](https://open.spotify.com/album/2kziB5PhkfwYxyElFxJj7W) | 2:48 | 2021-12-10 | 2024-07-13 |
+| [Baile](https://open.spotify.com/track/1VatCDYWPLIdY3oky11AIw) | [holandês](https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL) | [Baile](https://open.spotify.com/album/6WE8kAPjgXoou8BzO6Xsf2) | 3:54 | 2026-02-11 |  |
 | [Bailey](https://open.spotify.com/track/2LeqNUBgJTMk6Ub9TIHocF) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Bailey / Insurrection](https://open.spotify.com/album/4zGE3CLAACCy4AoPnkpVrh) | 5:38 | 2026-01-23 |  |
 | [Balet](https://open.spotify.com/track/2xy3WkjpcWPoEkpanNnTD9) | [Matisa](https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9) | [DJ\-Kicks: DJ BORING](https://open.spotify.com/album/5S9zX1tXzvezEW6m1Mvcp1) | 5:40 | 2024-07-12 | 2024-10-02 |
 | [Balinha da Alegria](https://open.spotify.com/track/4zHsjExrJLvh0jYU0kAH0r) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Balinha da Alegria](https://open.spotify.com/album/0z0NBoZejHXlZKQFSP5YMJ) | 2:40 | 2022-11-18 | 2023-02-25 |
@@ -210,7 +211,7 @@
 | [Da Function](https://open.spotify.com/track/6r9QXipO2r5JbGQvFH0NU0) | [Byrell The Great](https://open.spotify.com/artist/2xNGjguhmBjjP3ViK07IJO), [Princess Precious](https://open.spotify.com/artist/4GwCanrqEtG8SVYYY21rH5), [Warren B](https://open.spotify.com/artist/5ueGiF7STUbSpatHOgv2Rq) | [Snack Time](https://open.spotify.com/album/3Z4pnbIrUyyOCDcQuHtzLG) | 3:12 | 2021-12-10 | 2024-07-13 |
 | [Damewadame](https://open.spotify.com/track/76D43nZZxmyMdwFxHMPbKK) | [Aili](https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R) | [Damewadame](https://open.spotify.com/album/1YzVHqx8bpJBqVT4LvjXg9) | 4:55 | 2025-05-09 | 2025-08-02 |
 | [Dance](https://open.spotify.com/track/3fgbDLcBPZlpvpuQh3RqCL) | [Petty Penguin](https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0), [DJ Beast Baltimore](https://open.spotify.com/artist/4IXgBHhKrwz40lIHFNSGzS) | [Dance](https://open.spotify.com/album/7umROuCtAPm20KzC8PW6m5) | 2:26 | 2021-12-10 | 2024-07-13 |
-| [Dappa Dan](https://open.spotify.com/track/6atT69esWSadQ7Ujx27Z3l) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Dappa Dan](https://open.spotify.com/album/5qRkINBz6wBrQxEAHe9DDC) | 4:08 | 2025-10-07 |  |
+| [Dappa Dan](https://open.spotify.com/track/6atT69esWSadQ7Ujx27Z3l) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [Dappa Dan](https://open.spotify.com/album/5qRkINBz6wBrQxEAHe9DDC) | 4:08 | 2025-10-07 | 2026-02-12 |
 | [Dark Cloud](https://open.spotify.com/track/3Yu7YWkRIx3DaZflhEsbwE) | [Daffy](https://open.spotify.com/artist/19lhg4NCjnOC2gVeHsTed6) | [Dark Cloud / Soda](https://open.spotify.com/album/0OLbqh6moltMFWAM1R1stb) | 3:54 | 2026-01-23 |  |
 | [Dat Boi](https://open.spotify.com/track/3ZdhzuJ1ar90QR5SUWXVAy) | [Polar Youth](https://open.spotify.com/artist/48EUMg2SS1VgOyLRzOhwjQ) | [Dat Boi](https://open.spotify.com/album/3dkPRY4x3yoMLhfdN1k8DR) | 3:28 | 2025-10-24 |  |
 | [Data](https://open.spotify.com/track/5TtOxOTmsUtGafHxOp4XbW) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [Data](https://open.spotify.com/album/7jgHglWvc82A94cnNULAjS) | 3:33 | 2025-01-18 | 2025-03-15 |

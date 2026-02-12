@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 365515,
+  "num_followers": 365546,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-02-02 15:59:59",
       "album": {
+        "name": "Fabulous",
+        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
+      },
+      "artists": [
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 153351,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
+    },
+    {
+      "added_at": "2026-02-02 15:59:59",
+      "album": {
         "name": "breaking news",
         "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 179757,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/5v66VjrhFwSlPqadCrubyb"
-    },
-    {
-      "added_at": "2026-02-02 15:59:59",
-      "album": {
-        "name": "Fabulous",
-        "url": "https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN"
-      },
-      "artists": [
-        {
-          "name": "MEEK",
-          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
-        }
-      ],
-      "duration_ms": 153351,
-      "name": "Fabulous",
-      "url": "https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu"
     },
     {
       "added_at": "2026-02-02 15:59:59",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-02-02 15:59:59",
       "album": {
-        "name": "One Foot In Front Of The Other",
-        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 152894,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
-    },
-    {
-      "added_at": "2026-02-02 15:59:59",
-      "album": {
         "name": "Safety Net",
         "url": "https://open.spotify.com/album/2pBq9bR5JzslASyvcQDRq8"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 203621,
       "name": "Safety Net",
       "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
+    },
+    {
+      "added_at": "2026-02-02 15:59:59",
+      "album": {
+        "name": "One Foot In Front Of The Other",
+        "url": "https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 152894,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc"
     },
     {
       "added_at": "2026-02-02 15:59:59",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-02-02 15:59:59",
       "album": {
-        "name": "Faded Love",
-        "url": "https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345"
-      },
-      "artists": [
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 148345,
-      "name": "Faded Love",
-      "url": "https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa"
-    },
-    {
-      "added_at": "2026-02-02 15:59:59",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 169949,
       "name": "Over",
       "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
+    },
+    {
+      "added_at": "2026-02-02 15:59:59",
+      "album": {
+        "name": "Faded Love",
+        "url": "https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 148345,
+      "name": "Faded Love",
+      "url": "https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa"
     },
     {
       "added_at": "2026-02-02 15:59:59",

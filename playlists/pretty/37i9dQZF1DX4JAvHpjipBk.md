@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from sombr, J\. Cole, Joji, Megan Moroney, Mitski, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,511,037 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,510,727 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 70 | [Sound of a Woman](https://open.spotify.com/track/2Izz6o1r3dwDGSJmr4kloY) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [Sound of a Woman](https://open.spotify.com/album/5HJgBJVeXY9iqVjCKXf10K) | 4:27 |
 | 71 | [Wake Up](https://open.spotify.com/track/49t87UaGyvXM2CJVXNwOsQ) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Wake Up](https://open.spotify.com/album/2WARgPafAX7Taehcpwmi0z) | 3:46 |
 | 72 | [Julia](https://open.spotify.com/track/6mJeeFiVrazHWZYeiDx0hv) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Julia](https://open.spotify.com/album/3F2aN1rTBdLu66J0BHKwI3) | 2:45 |
-| 73 | [OFFERINGS](https://open.spotify.com/track/19n32jI1QJiXMr3KXFRCfk) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/5kwsNJFbDmWUpst7JVmEei) | [OFFERINGS](https://open.spotify.com/album/2kgwGxKuLxEHBQjKXs9qo7) | 3:02 |
+| 73 | [OFFERINGS](https://open.spotify.com/track/19n32jI1QJiXMr3KXFRCfk) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [OFFERINGS](https://open.spotify.com/album/2kgwGxKuLxEHBQjKXs9qo7) | 3:02 |
 | 74 | [GUAPO](https://open.spotify.com/track/749Om40dkalc4mcUTmLZAK) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD), [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H), [thickney](https://open.spotify.com/artist/7cvYYJFBuw4169sVI1Krk5) | [GUAPO](https://open.spotify.com/album/6hnc9sPkRo0VvjFM7TNvoe) | 3:06 |
 | 75 | [Never Let You Go](https://open.spotify.com/track/1Jy0KzjB5zXPR0Mq50unST) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Illyus Barrientos ](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Never Let You Go](https://open.spotify.com/album/1nNkFigS1EwbPmPU94NM5g) | 3:01 |
 | 76 | [Victim Of Luck](https://open.spotify.com/track/5gH0Jr4nPOHPapmjfSYs4Y) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Victim Of Luck](https://open.spotify.com/album/4RcM2L1fg6E8uL3t1H355B) | 3:23 |

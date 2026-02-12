@@ -2131,6 +2131,24 @@
     },
     {
       "album": {
+        "name": "SHI \u5339 \u6b7b",
+        "url": "https://open.spotify.com/album/2BfUaQywfT64aabM2B7wTH"
+      },
+      "artists": [
+        {
+          "name": "AKU!",
+          "url": "https://open.spotify.com/artist/4YL5YNoHnTi00OL2cXpUQM"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296928,
+      "name": "Arrakis",
+      "url": "https://open.spotify.com/track/1Jy7Z4rnkbkzminfmHQYz1"
+    },
+    {
+      "album": {
         "name": "Liesu",
         "url": "https://open.spotify.com/album/69qer1Cm2ce3LVRLWPUgn7"
       },
@@ -4164,7 +4182,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 361317,
       "name": "BRIAN'S TEA",
       "url": "https://open.spotify.com/track/1GJjIk4bDXd4a0BwCpoYIR"
@@ -4398,7 +4416,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 319927,
       "name": "Brown Eyes",
       "url": "https://open.spotify.com/track/5pziINPfppwxfoBkCQ1uDJ"
@@ -18135,6 +18153,24 @@
     },
     {
       "album": {
+        "name": "Momentum Shift",
+        "url": "https://open.spotify.com/album/0SqdoP0jQb9ngG0FA1Sgju"
+      },
+      "artists": [
+        {
+          "name": "Ryosuke Kojima",
+          "url": "https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Momentum Shift",
+      "url": "https://open.spotify.com/track/07Q9pG7zFW4PLEXWzp6Jki"
+    },
+    {
+      "album": {
         "name": "Monday",
         "url": "https://open.spotify.com/album/5ZMOd2UcnZcDqVJE0XCYRd"
       },
@@ -19630,6 +19666,24 @@
       "duration_ms": 121374,
       "name": "Nothing's Changed",
       "url": "https://open.spotify.com/track/5G9qNacj2bYiJ1009iWyDW"
+    },
+    {
+      "album": {
+        "name": "SANG",
+        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
+      },
+      "artists": [
+        {
+          "name": "Dario Jacque",
+          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "notte brava",
+      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
     },
     {
       "album": {
@@ -23984,7 +24038,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 251436,
       "name": "Sanguine",
       "url": "https://open.spotify.com/track/47WiGSO1Vp6HaJGXH8CZwh"
@@ -33380,7 +33434,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 273000,
       "name": "Zigzag",
       "url": "https://open.spotify.com/track/7eaWK0bDHcaoVbi56QlLZL"
@@ -33594,6 +33648,24 @@
       "duration_ms": 300924,
       "name": "\u5177\u7e04",
       "url": "https://open.spotify.com/track/3FuM8gmydIY2D4Q4BYvMTP"
+    },
+    {
+      "album": {
+        "name": "\u5730\u4e0b\u6cb3 Undercurrent",
+        "url": "https://open.spotify.com/album/2hAY0aDIqKLp8Q3If35Zia"
+      },
+      "artists": [
+        {
+          "name": "Pu Poo Platter",
+          "url": "https://open.spotify.com/artist/68c9zoGQyutYWWRvNnSTnA"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393600,
+      "name": "\u5730\u4e0b\u6cb3 Undercurrent",
+      "url": "https://open.spotify.com/track/12x2GKuisLOFLZHUeaIo23"
     },
     {
       "album": {

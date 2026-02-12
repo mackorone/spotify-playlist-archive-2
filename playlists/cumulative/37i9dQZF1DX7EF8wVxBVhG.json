@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Alpha Alvor 150 Hz - 158 Hz",
+        "url": "https://open.spotify.com/album/2AnUzEDGS9X7PK8FgikKKv"
+      },
+      "artists": [
+        {
+          "name": "Lapalillo",
+          "url": "https://open.spotify.com/artist/7dGXUhMvIkqUlPIIN04FuV"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Alpha Alvor 150 Hz - 158 Hz",
+      "url": "https://open.spotify.com/track/3gO1wPG4apjxrsrWB3Kh9E"
+    },
+    {
+      "album": {
         "name": "Alpha Target",
         "url": "https://open.spotify.com/album/0SBxmKIqyb7rS7a5UVVgqK"
       },
@@ -650,7 +668,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 231068,
       "name": "Alpha Focus 97Hz - 104Hz",
       "url": "https://open.spotify.com/track/67VwwXXg1k6cEMFX1rpGoo"
@@ -837,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Alpha Peace Within 103 Hz - 112 Hz",
+        "url": "https://open.spotify.com/album/6J1Wo4dDPftQ54vco0naqp"
+      },
+      "artists": [
+        {
+          "name": "Dreamlike States",
+          "url": "https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155016,
+      "name": "Alpha Peace Within 103 Hz - 112 Hz",
+      "url": "https://open.spotify.com/track/77BnBbqrol0vtiJxBamvfp"
+    },
+    {
+      "album": {
         "name": "Binaural Bliss",
         "url": "https://open.spotify.com/album/1Vdw99FLXQSRFbg9tYLxFH"
       },
@@ -848,7 +884,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 162062,
       "name": "Alpha Prosperity 127 Hz - 135 Hz",
       "url": "https://open.spotify.com/track/0Qwn9VwFUlhrhsNGBNtIjB"

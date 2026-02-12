@@ -4,12 +4,13 @@
 
 > Death is just the beginning\. Listen to the music from School Spirits, new season now streaming on Paramount+.
 
-85 songs - 4 hr 50 min
+88 songs - 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Your Time](https://open.spotify.com/track/7GGT3YeGtWxPgcZSG9dqh7) | [Blue Peter](https://open.spotify.com/artist/5qN5HdqAKRaGibFpEmBRlh) | [Falling](https://open.spotify.com/album/1y4awtbaJDMbceQM2JlNr6) | 4:33 | 2025-02-20 |  |
 | [AM I DREAMING \(feat\. Miley Cyrus\)](https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:03 | 2025-01-30 |  |
+| [ana](https://open.spotify.com/track/784vnuhAjKQcuUIKU1H0Oi) | [Suzanna Son](https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A) | [ana](https://open.spotify.com/album/3hiBB2EWJhnawrKJqe431c) | 3:18 | 2026-02-11 |  |
 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 | 2025-01-30 |  |
 | [Baby, Oh Baby](https://open.spotify.com/track/6KWSXe6yZlNwiDoKMC3LX4) | [Fat City](https://open.spotify.com/artist/0jKx5W3UPvxkIallM7U0hm) | [Ain't No Time for Stoppin'](https://open.spotify.com/album/0ZRCsdFSnbKVSsUCkO5Yyq) | 3:13 | 2025-02-20 |  |
 | [BEAT UP CHANEL$](https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [BEAT UP CHANEL$](https://open.spotify.com/album/20LgrvecBXfayOLkjbrEIU) | 3:18 | 2026-01-28 |  |
@@ -38,6 +39,7 @@
 | [Heat of the Night](https://open.spotify.com/track/3bx8PIbzTVT9stFbbvAVD1) | [Simplistics](https://open.spotify.com/artist/591Yhaxfo5O2AQjCyltCHi) | [The Lost Masters](https://open.spotify.com/album/6pE7NoJgrgUm8nimxRtJv3) | 3:20 | 2025-02-20 |  |
 | [Hello Heartbreak](https://open.spotify.com/track/3AuOLgPgdwBzhc7ZMTtNqX) | [Al Hazan](https://open.spotify.com/artist/7qwaiCaE4p70SnI5XB9E8j), [Sylvia Terry](https://open.spotify.com/artist/2UKiR14OjC3o0aTOBcAQFC) | [Hello Heartbreak](https://open.spotify.com/album/0szuw7EGWTNXofx8VxshMV) | 2:30 | 2025-02-13 |  |
 | [House of the Rising Sun](https://open.spotify.com/track/3a8mo25v74BMUOJ1IDUEBL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [House of the Rising Sun](https://open.spotify.com/album/2JnelnjkFZKzZQUwZFkcD1) | 3:08 | 2026-02-04 |  |
+| [Hush](https://open.spotify.com/track/4zXZ5Mq2L6jnsOsTssgRh8) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:01 | 2026-02-11 |  |
 | [I Follow Rivers](https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Deaf Heat EP](https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC) | 2:46 | 2026-01-28 |  |
 | [I Know The End](https://open.spotify.com/track/0pJW1Xw3aY4Eh6k5iuBkfI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 5:44 | 2025-01-30 |  |
 | [I'm Not Ready To Go](https://open.spotify.com/track/5zOaXxYlOm67a6lMn1AE8I) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side B\)](https://open.spotify.com/album/2SRsyHHPOXRwwe56K8LCcZ) | 4:22 | 2025-02-06 |  |
@@ -82,6 +84,7 @@
 | [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 2:44 | 2025-02-06 |  |
 | [Superpowers](https://open.spotify.com/track/4EdmUhD7PYhqZZckBIpma0) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Superheroes](https://open.spotify.com/album/7c1kMF6MrUHzpP68EeJ98L) | 3:04 | 2026-01-28 |  |
 | [Swamp](https://open.spotify.com/track/1BXA1pNfvmLsV4M8DKbLy4) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Swamp](https://open.spotify.com/album/2GxiEFC1dAxDtsLQxCRuHV) | 3:20 | 2025-01-30 |  |
+| [Taivas on sininen ja valkoinen \(the Sky Is Blue\) \[arr\. J\. Panula\]](https://open.spotify.com/track/49p19jGQkgEbjVpdzYQSRs) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Tapiola Choir](https://open.spotify.com/artist/2Ok3xCNSCDvqOQJ6RaQlOH), [Tapiola Sinfonietta](https://open.spotify.com/artist/1aCLiYz6Kl83key0zcgCxc), [Jorma Panula](https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi) | [Choral Concert: Tapiola Choir \- Pacius, F\. / Kuusisto, T\. / Kilpinen, Y\. / Sibelius, J\. / Merikanto, O\. / Hannikainen, P\. / Ennola, J\. / Klemetti, H.](https://open.spotify.com/album/0xUij1D2fqouFhpfojuB78) | 2:11 | 2026-02-11 |  |
 | [Take Me for What I Am \- 1971](https://open.spotify.com/track/7G6s4FcnKJVh3jWKhZ2dra) | [Henrey Ford](https://open.spotify.com/artist/0LHGFXIhCA77iTibwHId04) | [Vintage Soul 1967 \- 1985](https://open.spotify.com/album/2pkqrkgcJCqDSa0fc6umiL) | 3:01 | 2025-02-20 |  |
 | [Talk About Him Girlie](https://open.spotify.com/track/3FS2GLlTXUfPqCu4P2P6U0) | [The Hearts](https://open.spotify.com/artist/7izVf2hlyBQizC8DufiTym) | [The Original Hearts \(From Harlem\)](https://open.spotify.com/album/0TlYLyq4OkutpGLYVtVBAn) | 2:08 | 2025-01-30 |  |
 | [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 | 2025-01-30 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: waterbaby",
-  "num_followers": 67049,
+  "num_followers": 67159,
   "original_name": "Editors' Picks: Best Songs of January",
   "owner": {
     "name": "Spotify",
@@ -163,26 +163,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Como Es Que Se Hace",
-        "url": "https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
-        }
-      ],
-      "duration_ms": 205320,
-      "name": "Como Es Que Se Hace",
-      "url": "https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "ALO",
         "url": "https://open.spotify.com/album/6g3RPqXdoZLzrE6ar4ZOfy"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 145882,
       "name": "ALO",
       "url": "https://open.spotify.com/track/2KpDYs0MexRXVAqNoHhJwk"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Como Es Que Se Hace",
+        "url": "https://open.spotify.com/album/0HvCpNq9SOzytIHAMIGgl8"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 205320,
+      "name": "Como Es Que Se Hace",
+      "url": "https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 246036,
-      "name": "Good Things Will Come After the Pressure",
-      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "tell me what you want",
         "url": "https://open.spotify.com/album/45dogBUITG47dD11ydydgz"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 236173,
       "name": "tell me what you want",
       "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 246036,
+      "name": "Good Things Will Come After the Pressure",
+      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Vacancy",
-        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 132931,
-      "name": "High Key",
-      "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "BACKWARD",
         "url": "https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 166687,
       "name": "THEMSELVES",
       "url": "https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 132931,
+      "name": "High Key",
+      "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Chronic",
-        "url": "https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 156172,
-      "name": "Chronic",
-      "url": "https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "cul-de-sac",
         "url": "https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 196700,
       "name": "cul-de-sac",
       "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Chronic",
+        "url": "https://open.spotify.com/album/0AXvyUq5ZDOWScCAEbr4hT"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 156172,
+      "name": "Chronic",
+      "url": "https://open.spotify.com/track/5c20yKxwM7vnSCG6LGyJPy"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "I Know Where Mark Chen Lives",
-        "url": "https://open.spotify.com/album/6J0USYx5H0mtsqxVwEREHN"
-      },
-      "artists": [
-        {
-          "name": "Joyce Manor",
-          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
-        }
-      ],
-      "duration_ms": 110101,
-      "name": "I Know Where Mark Chen Lives",
-      "url": "https://open.spotify.com/track/6ZzUmrPFLDuMM51uuVSb0h"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Ants In My Room",
         "url": "https://open.spotify.com/album/6I5iKc3l7io2v55H7Ho0NZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 168919,
       "name": "Ants In My Room",
       "url": "https://open.spotify.com/track/0FtczGAn1UOZsTCHJaqgYA"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "I Know Where Mark Chen Lives",
+        "url": "https://open.spotify.com/album/6J0USYx5H0mtsqxVwEREHN"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "duration_ms": 110101,
+      "name": "I Know Where Mark Chen Lives",
+      "url": "https://open.spotify.com/track/6ZzUmrPFLDuMM51uuVSb0h"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
+        "name": "Smoke Screen",
+        "url": "https://open.spotify.com/album/4xd4aT1oZmwvRcIMLHcYOE"
+      },
+      "artists": [
+        {
+          "name": "CQ Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 260978,
+      "name": "Smoke Screen",
+      "url": "https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
         "name": "Kiss&Tell",
         "url": "https://open.spotify.com/album/5CgOkBTj7cHrqC6r5O3SzR"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 169693,
       "name": "Drag",
       "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
-        "name": "Smoke Screen",
-        "url": "https://open.spotify.com/album/4xd4aT1oZmwvRcIMLHcYOE"
-      },
-      "artists": [
-        {
-          "name": "CQ Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 260978,
-      "name": "Smoke Screen",
-      "url": "https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej"
     },
     {
       "added_at": "2026-02-04 14:20:34",

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: GERD \ud83d\udc9a",
-  "num_followers": 1049636,
+  "num_followers": 1049503,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
-        "name": "I Need To Sleep",
-        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
-      },
-      "artists": [
-        {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
-        }
-      ],
-      "duration_ms": 179731,
-      "name": "I Need To Sleep",
-      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
         "name": "some days",
         "url": "https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 197528,
       "name": "some days",
       "url": "https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
+        "name": "I Need To Sleep",
+        "url": "https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL"
+      },
+      "artists": [
+        {
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+        }
+      ],
+      "duration_ms": 179731,
+      "name": "I Need To Sleep",
+      "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
-        "name": "soul.food \u9748\u98df",
-        "url": "https://open.spotify.com/album/3EE25mbsYL6PQ0wizjPmNz"
-      },
-      "artists": [
-        {
-          "name": "Miss Ko \u845b\u4ef2\u73ca",
-          "url": "https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg"
-        }
-      ],
-      "duration_ms": 216188,
-      "name": "got.to.believe",
-      "url": "https://open.spotify.com/track/5zvE5C2JislfFqefghan0H"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
         "name": "hi, it's nice to meet me",
         "url": "https://open.spotify.com/album/5bVSpRtlZwFwDAd6G7Siav"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 217066,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/0RXVnZkoEtvI5HcGUtncpY"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
+        "name": "soul.food \u9748\u98df",
+        "url": "https://open.spotify.com/album/3EE25mbsYL6PQ0wizjPmNz"
+      },
+      "artists": [
+        {
+          "name": "Miss Ko \u845b\u4ef2\u73ca",
+          "url": "https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg"
+        }
+      ],
+      "duration_ms": 216188,
+      "name": "got.to.believe",
+      "url": "https://open.spotify.com/track/5zvE5C2JislfFqefghan0H"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
-        "name": "Temberang",
-        "url": "https://open.spotify.com/album/0RXA0qCkmNVRq2C9stYjhf"
-      },
-      "artists": [
-        {
-          "name": "Mimifly",
-          "url": "https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw"
-        }
-      ],
-      "duration_ms": 127846,
-      "name": "Temberang",
-      "url": "https://open.spotify.com/track/7aN9KgFUrCl4qFU4pAQXI2"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
         "name": "She\u0e1b\u0e49\u0e30",
         "url": "https://open.spotify.com/album/2NdahWtun1Oj0wTAWrdYIX"
       },
@@ -987,6 +971,38 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
+        "name": "Temberang",
+        "url": "https://open.spotify.com/album/0RXA0qCkmNVRq2C9stYjhf"
+      },
+      "artists": [
+        {
+          "name": "Mimifly",
+          "url": "https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw"
+        }
+      ],
+      "duration_ms": 127846,
+      "name": "Temberang",
+      "url": "https://open.spotify.com/track/7aN9KgFUrCl4qFU4pAQXI2"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
+        "name": "Fluent",
+        "url": "https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM"
+      },
+      "artists": [
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "duration_ms": 128769,
+      "name": "Fluent",
+      "url": "https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
         "name": "V\u00e1le",
         "url": "https://open.spotify.com/album/3OhENMvAvnspxbWRPELIGE"
       },
@@ -999,26 +1015,6 @@
       "duration_ms": 180186,
       "name": "V\u00e1le",
       "url": "https://open.spotify.com/track/45q6QPBVT0J0MGTfd2BP8E"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
-        "name": "Mirza",
-        "url": "https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD"
-      },
-      "artists": [
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        },
-        {
-          "name": "Adarsh Rao",
-          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Mirza",
-      "url": "https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -1055,6 +1051,26 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
+        "name": "Mirza",
+        "url": "https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
         "name": "MARAVILHOSAMENTE BEM",
         "url": "https://open.spotify.com/album/4Od9vP3ffzaBu3nXezoPZi"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 226484,
       "name": "Maravilhosamente Bem",
       "url": "https://open.spotify.com/track/6A7Ck7Bgl3YIzbeUwm99Sm"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
-        "name": "Fluent",
-        "url": "https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM"
-      },
-      "artists": [
-        {
-          "name": "Sofiloud",
-          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
-        }
-      ],
-      "duration_ms": 128769,
-      "name": "Fluent",
-      "url": "https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI"
     },
     {
       "added_at": "2026-02-05 23:00:26",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-02-05 23:00:26",
       "album": {
-        "name": "Semnal \u00een Rai",
-        "url": "https://open.spotify.com/album/2gUCiwX9iA0HbyC4Y4diuS"
-      },
-      "artists": [
-        {
-          "name": "Olivia Addams",
-          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
-        }
-      ],
-      "duration_ms": 196058,
-      "name": "Semnal \u00een Rai",
-      "url": "https://open.spotify.com/track/5REiBosGGdmPNE7c9Gjd5z"
-    },
-    {
-      "added_at": "2026-02-05 23:00:26",
-      "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/0Xtj0v242nflooXf1FLutS"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 175082,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/2NB1gNSdFonXMllNMxiAmE"
+    },
+    {
+      "added_at": "2026-02-05 23:00:26",
+      "album": {
+        "name": "Semnal \u00een Rai",
+        "url": "https://open.spotify.com/album/2gUCiwX9iA0HbyC4Y4diuS"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "duration_ms": 196058,
+      "name": "Semnal \u00een Rai",
+      "url": "https://open.spotify.com/track/5REiBosGGdmPNE7c9Gjd5z"
     },
     {
       "added_at": "2026-02-05 23:00:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Sjava
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,326 likes - 95 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,441 likes - 95 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 3 | [Ngixolele Mtanami](https://open.spotify.com/track/1FUVQbcP23lIgLSTY2r8SV) | [Nkeshemba](https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU) | [Ngixolele Mtanami](https://open.spotify.com/album/0bwC0CgvUytpJqQfiaGnRw) | 4:24 |
 | 4 | [We\-Skhinkily](https://open.spotify.com/track/0MBvgnHXWHA9iusb7TZb9K) | [MENZI MUSIC](https://open.spotify.com/artist/5afMmKIQumBXjSdEpTzS0Q) | [Unamagqubu](https://open.spotify.com/album/1VLcOburufLSyk0HhztmnV) | 3:31 |
 | 5 | [Uyoncengwa Unyoko](https://open.spotify.com/track/3H2sEc2EOfjeptg8pPPTlx) | [Umafikizolo](https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K) | [Uyoncengwa Unyoko](https://open.spotify.com/album/1g27w7a8gIRlcmQLIcO4Dq) | 4:19 |
-| 6 | [Indoda Enjani](https://open.spotify.com/track/2tNbE1V4pf0rLMKNOZFLMA) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Zamoh](https://open.spotify.com/artist/7lt71LLkOIvqtshTx8tGIH), [Umafakhiza](https://open.spotify.com/artist/0MaODS7ni3aBRbLXE6mTcd), [Dogzin](https://open.spotify.com/artist/1YGfLMorlhBWm4L9xRJKIP) | [iNkanyezi NeZinkanyezi](https://open.spotify.com/album/3AbrYUidErtcqWHTLiXU00) | 4:58 |
+| 6 | [Indoda Enjani](https://open.spotify.com/track/2tNbE1V4pf0rLMKNOZFLMA) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Zamoh Zig](https://open.spotify.com/artist/4Z4SWDJfSiio8p38joi8r0), [Umafakhiza](https://open.spotify.com/artist/0MaODS7ni3aBRbLXE6mTcd), [Dogzin](https://open.spotify.com/artist/1YGfLMorlhBWm4L9xRJKIP) | [iNkanyezi NeZinkanyezi](https://open.spotify.com/album/3AbrYUidErtcqWHTLiXU00) | 4:58 |
 | 7 | [Cishe Ngafa](https://open.spotify.com/track/6UV9rc1Ww8lpWQs1sX8oBH) | [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr) | [Inganono](https://open.spotify.com/album/3oVTnz7380WdmEvsrUYHGp) | 4:17 |
 | 8 | [Incenge Kancane](https://open.spotify.com/track/3x9eb22Epgzw3GAR3gig5t) | [Feza](https://open.spotify.com/artist/1UwTwoC4T1i6vzwsQgIWB0) | [Inkanyezi](https://open.spotify.com/album/3nPujMA2fT8W8MKRi4rNzt) | 4:04 |
 | 9 | [Intaba Zokhahlamba](https://open.spotify.com/track/24lofBbzbHV2KzxAMROTSS) | [Mphathiwohlelo MC](https://open.spotify.com/artist/3D8SLrKlLVHWhsdUQi4VQ7), [SHENGE WASEHLALANKOSI](https://open.spotify.com/artist/2v1B7I9XcGoSQOASgMks5v), [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr) | [Intaba Zokhahlamba](https://open.spotify.com/album/5qQEPFxsRvxHTwtmaLSgPR) | 3:46 |

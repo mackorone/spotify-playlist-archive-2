@@ -6219,6 +6219,24 @@
     },
     {
       "album": {
+        "name": "IDENTITY",
+        "url": "https://open.spotify.com/album/2TMVjMDlrs8ZzmEhxRg4GR"
+      },
+      "artists": [
+        {
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267607,
+      "name": "IDENTITY",
+      "url": "https://open.spotify.com/track/0XAAeX8QO2Lo3oOpMNvU5u"
+    },
+    {
+      "album": {
         "name": "IDOLIC",
         "url": "https://open.spotify.com/album/4g5PqnMKgixcNPECzAG545"
       },
@@ -6652,7 +6670,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 189000,
       "name": "Just Go",
       "url": "https://open.spotify.com/track/06N5gDiLRqzyrshVYJtSOn"
@@ -13493,6 +13511,24 @@
     },
     {
       "album": {
+        "name": "UNISON",
+        "url": "https://open.spotify.com/album/6ITFDT8yNLqc7nBeF8dL2S"
+      },
+      "artists": [
+        {
+          "name": "Kis-My-Ft2",
+          "url": "https://open.spotify.com/artist/4kxoWjOpCVYKgPv9nea95k"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224493,
+      "name": "UNISON",
+      "url": "https://open.spotify.com/track/6NRbkFFCQ0SWOzB1tiYIG7"
+    },
+    {
+      "album": {
         "name": "D's WAVE",
         "url": "https://open.spotify.com/album/3HI2arleNFka7BTes75U83"
       },
@@ -14210,7 +14246,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 193633,
       "name": "Winter Glow",
       "url": "https://open.spotify.com/track/2eBzmT9iYwFKNQlXQvR7p3"
@@ -15872,7 +15908,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 212400,
       "name": "\u597d\u304d\u3059\u304e\u3066\u6ec5\uff01",
       "url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli"
@@ -16016,7 +16052,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 205773,
       "name": "\u611b\u57f7",
       "url": "https://open.spotify.com/track/6d9zFmuJoTW5RdsJJX1er1"
@@ -16182,6 +16218,24 @@
       "duration_ms": 233726,
       "name": "\u7121\u8cac\u4efb\u3067\u3048\u3048\u3058\u3083\u306a\u3044\u304bLOVE",
       "url": "https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR"
+    },
+    {
+      "album": {
+        "name": "\u7206\u88c2\u611b\u3057\u3066\u308b",
+        "url": "https://open.spotify.com/album/6w5De26ICkG8LOnpRe3xPA"
+      },
+      "artists": [
+        {
+          "name": "M!LK",
+          "url": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "\u7206\u88c2\u611b\u3057\u3066\u308b",
+      "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
     },
     {
       "album": {

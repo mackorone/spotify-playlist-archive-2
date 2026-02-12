@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-161 songs - 9 hr 57 min
+162 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2026-01-22 |  |
 | [Diane \- Demo Version](https://open.spotify.com/track/5xiZ1UJ3CFjvcXNJNO7plw) | [Ceramic Doves](https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2) | [Diane \(Demo Version\)](https://open.spotify.com/album/6DBiT8SsreCrtgUgTsMxCc) | 4:11 | 2025-10-17 |  |
 | [Don't Stop At The Top](https://open.spotify.com/track/5RqZlbMgesvJ9K3aTZjxBA) | [Freakstorm](https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j) | [Don't Stop At The Top](https://open.spotify.com/album/6ziIXzZ8WHJvm9NLQP15Ck) | 4:01 | 2026-01-16 |  |
+| [Down \- '25](https://open.spotify.com/track/3WSYTP3rtcJgktRQiYWljS) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 4:39 | 2026-02-11 |  |
 | [Dr\. Hammer](https://open.spotify.com/track/78cRNDeAkjxeTg7rHoU76r) | [Freakstorm](https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j) | [Dust Of Glory](https://open.spotify.com/album/5OBHybQPFVyfj5xK8LlHKV) | 3:48 | 2026-02-04 |  |
 | [El Arte de Perderse](https://open.spotify.com/track/1lQ1oIQJjfIRnT16EBx4yU) | [normandía](https://open.spotify.com/artist/0KSutzhXRytRGdfEsGWN1M) | [El Arte de Perderse](https://open.spotify.com/album/1feLfZkAWelzbUVsaoyux2) | 2:50 | 2025-12-20 | 2026-01-21 |
 | [El Camino](https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [El Camino](https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F) | 4:30 | 2025-11-16 | 2025-12-28 |

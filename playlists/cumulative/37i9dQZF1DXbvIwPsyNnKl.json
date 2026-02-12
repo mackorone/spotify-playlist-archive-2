@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 181395,
       "name": "Feelin' Me",
       "url": "https://open.spotify.com/track/0Z6qCvAEZk84wBuVfT3pg9"
@@ -6397,6 +6397,28 @@
     },
     {
       "album": {
+        "name": "Since Day One",
+        "url": "https://open.spotify.com/album/5mLe2QlFKmqeKJb6W4aJZI"
+      },
+      "artists": [
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191375,
+      "name": "Since Day One",
+      "url": "https://open.spotify.com/track/4yzDFThA5Xd1s9aZzwyxCk"
+    },
+    {
+      "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/0Yb4SCZrLJYzxS3muoDYUl"
       },
@@ -6932,7 +6954,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 194786,
       "name": "Take It To The Roof",
       "url": "https://open.spotify.com/track/0iP5DWmX7dbpxpKot3VzOR"
@@ -7582,6 +7604,28 @@
       "duration_ms": 179115,
       "name": "WELCOME2DTQ",
       "url": "https://open.spotify.com/track/3gRhGExNITCqVo0mCyqp3m"
+    },
+    {
+      "album": {
+        "name": "WENNA",
+        "url": "https://open.spotify.com/album/2D0ozhWJjzNJMduXT5Qydi"
+      },
+      "artists": [
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        },
+        {
+          "name": "Gaspari",
+          "url": "https://open.spotify.com/artist/32pwg5wo0jdAWgDIAiKKzi"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168041,
+      "name": "WENNA",
+      "url": "https://open.spotify.com/track/4inWT7wUgLQhWoIhE23WVE"
     },
     {
       "album": {

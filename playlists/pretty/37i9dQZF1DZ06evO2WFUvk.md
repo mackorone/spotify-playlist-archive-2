@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,064 likes - 29 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,065 likes - 28 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,6 +36,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 26 | [Learning to Climb](https://open.spotify.com/track/6Biqaf8r3N0NiRxXFp1Kga) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Learning to Climb](https://open.spotify.com/album/1wjrdSKG4wOqSqyXqrxF3A) | 3:04 |
 | 27 | [Плохие танцоры](https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr) | [Tarakany!](https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Лучшие из лучших](https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u) | 3:36 |
 | 28 | [Together in the End](https://open.spotify.com/track/0pKvCo1G8Ym4m4RIQpctlo) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Together in the End](https://open.spotify.com/album/6B0OmAkBSS3pl32vOoZNtW) | 4:07 |
-| 29 | [Euphoria Under the Stars](https://open.spotify.com/track/6jVadFriXE41vSRDfGqwAL) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Euphoria Under the Stars](https://open.spotify.com/album/2A6MjShDvMsZtRzFkD1p6x) | 2:08 |
 
-Snapshot ID: `aYkjgAAAAAAO0sAKT0BetrirfS445x2n`
+Snapshot ID: `aYp1AAAAAABGjIFNXPUUNe4JVM0oj7wK`

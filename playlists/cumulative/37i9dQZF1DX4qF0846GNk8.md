@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر\. الغلاف: كريم كرستيانو
+> أجمد المهرجانات في مصر\. الغلاف: عصام صاصا
 
-335 songs - 20 hr 53 min
+336 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [كل الحلوين ولا شغلوني](https://open.spotify.com/track/4ZVWHKVY1HgRkoLkQFdDbR) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [كل الحلوين ولا شغلوني](https://open.spotify.com/album/7eaXyyUI7I65rAKmi9dAEH) | 4:08 | 2025-05-07 |  |
 | [كل ليله دموع \( بتشاف ضعيف مانا حبيتك \)](https://open.spotify.com/track/2cwwNrIG3cSvsHjeMYK3ec) | [Kimo El Deep](https://open.spotify.com/artist/1W836Zmt4TaE29DVRF5zKF), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كل ليله دموع \( بتشاف ضعيف مانا حبيتك \)](https://open.spotify.com/album/3Fy4VeKs4RUzZ2cgmFZl5T) | 3:32 | 2024-03-08 | 2024-03-29 |
 | [كلك غرام](https://open.spotify.com/track/6CVM9gIrpVJyoYdwfMAE2G) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [كلك غرام](https://open.spotify.com/album/25YIcugrVu5yzMt8Tmfeq5) | 2:35 | 2023-01-06 | 2023-05-11 |
+| [كله اتساوس واتكالب \( انا عندي حاسه سابعه \)](https://open.spotify.com/track/538ZZliV033eFsUJHjXeQN) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كله اتساوس واتكالب \( انا عندي حاسه سابعه \)](https://open.spotify.com/album/5g1eBWcXeR6AtLpGBbRMEK) | 4:17 | 2026-02-11 |  |
 | [كله بألف وش](https://open.spotify.com/track/2xa1lKFfSDDEBeJURGDXf6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كله بألف وش](https://open.spotify.com/album/3LmFEyUvrTZcfGANGcEX2L) | 3:20 | 2023-08-08 | 2023-12-14 |
 | [كله طار فالمطار](https://open.spotify.com/track/4Ie7oOIUQkXvh1fHBsSlOg) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Mohamed Chahine](https://open.spotify.com/artist/4d9QeHQF7jBlI2ijrgjZux) | [كله طار فالمطار](https://open.spotify.com/album/6Fao9AJIiam6uKwM7YtEcJ) | 3:44 | 2021-12-16 | 2022-02-02 |
 | [كلها بقا ليها اخصام \- عليا الطلاق كله بيكدب](https://open.spotify.com/track/4vLMzTyW0qq87QEaX2enxW) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG) | [كلها بقا ليها اخصام \(عليا الطلاق كله بيكدب\)](https://open.spotify.com/album/76zWCg8Bm8Ifac89Vww2al) | 3:09 | 2023-08-17 | 2025-01-14 |
@@ -274,7 +275,7 @@
 | [مساء اللذاذه رافعلي ازازة](https://open.spotify.com/track/6iYt4DFRlCQX4qsjc4yNVp) | [مصطفي الجن و هادي الصغير \- تيم الابداع](https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc) | [مساء اللذاذه رافعلي ازازة](https://open.spotify.com/album/3a0Hv8DY64kbCxLXySBNYI) | 2:42 | 2025-04-22 | 2025-05-08 |
 | [مسجون حزين](https://open.spotify.com/track/0TxEBrs9Py9uOxwOSYBROV) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مسجون حزين](https://open.spotify.com/album/5bCHHycTY8di9iZoGO6hYI) | 4:24 | 2021-12-16 | 2022-10-25 |
 | [مسيلى على نفسك مسا](https://open.spotify.com/track/6CQNzeaZaiHNI6B8UTl5EE) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7), [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [مسيلى على نفسك مسا](https://open.spotify.com/album/0UoKkR5b9EwbwcfTZP2t4u) | 4:34 | 2024-03-08 |  |
-| [مش شايفك](https://open.spotify.com/track/348qlmHvImqrjdgqlwvPjr) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [مش شايفك](https://open.spotify.com/album/0C8L9omqkyv8af3yCXNg7L) | 2:21 | 2022-10-16 |  |
+| [مش شايفك](https://open.spotify.com/track/348qlmHvImqrjdgqlwvPjr) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [مش شايفك](https://open.spotify.com/album/0C8L9omqkyv8af3yCXNg7L) | 2:21 | 2022-10-16 | 2026-02-12 |
 | [مش قصدي اخون \(حاسس اني انا نصين\)](https://open.spotify.com/track/6XuYS6bTPYpD8IKOgwQROF) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [مش قصدي اخون \(حاسس اني انا نصين\)](https://open.spotify.com/album/6fIDk202Z8OdHtqBkwsjvX) | 3:20 | 2026-01-12 |  |
 | [مطروش معايا متجوش](https://open.spotify.com/track/7mTtBcAsOhcJs0BfWEFeYM) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [مطروش معايا متجوش](https://open.spotify.com/album/66sAt9c07XQxPqggpnYdRN) | 4:44 | 2024-01-31 | 2024-05-11 |
 | [مظبوط](https://open.spotify.com/track/7o0hlHMqHRDytYnYF7wYIa) | [3ab3az](https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [مظبوط](https://open.spotify.com/album/0DXCelQ2rGcnuZjWPAOil6) | 3:45 | 2022-06-02 | 2022-07-31 |

@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-202 songs - 11 hr 35 min
+203 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 | 2022-07-13 |  |
 | [FFVII REMAKE: 闘う者達 \-なんでも屋の仕事\- \(Let the Battles Begin! \- A Merc's Job\)](https://open.spotify.com/track/43SHYfEdVPCIag9L3xtUVm) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:53 | 2021-12-15 |  |
 | [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [TATRAN](https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 | 2023-04-28 |  |
+| [Final Conflict 2](https://open.spotify.com/track/2woGJCALsoizlpJY9HOXZH) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Warheart \(Lineage2M Original Soundtrack\)](https://open.spotify.com/album/3gmyQopFJOFppX4owfMnxt) | 3:32 | 2026-02-11 |  |
 | [Finding the Pattern \(From "Everybody's Gone to the Rapture" Soundtrack\)](https://open.spotify.com/track/4u2qyRFTBYm3Se02t0Ki7d) | [Jessica Curry](https://open.spotify.com/artist/7maqsg42XWKV2TOwesH5YF), [Metro Voices](https://open.spotify.com/artist/1xOu87MVQLtCUObGJCOaEG), [London Voices](https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK), [James Morgan](https://open.spotify.com/artist/7mC0zQ4J4cJPNGYFlmiQVC) | [Everybody's Gone to the Rapture \(Original Soundtrack\)](https://open.spotify.com/album/0gmge9DFfEc5VSi87yiXyM) | 4:00 | 2021-12-15 |  |
 | [First Steps](https://open.spotify.com/track/03EyMyy76ZYLUh3lvGrNgE) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z) | [Celeste \(Original Soundtrack\)](https://open.spotify.com/album/5OZHQ7KG8k04IOkF50fACO) | 3:38 | 2021-12-15 |  |
 | [First Steps](https://open.spotify.com/track/4MsC3bu5B8WQGHQjOoH2NG) | [Lena Raine](https://open.spotify.com/artist/3Ww8GMbCDMAGwJJ2hd7z7z) | [Celeste \(Original Soundtrack\)](https://open.spotify.com/album/1ZfETfec0U02KrKNI8w3Gf) | 3:38 | 2022-07-27 | 2024-04-19 |

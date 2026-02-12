@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Washing Machine",
+        "url": "https://open.spotify.com/album/0VskfMaczM0MNAlqqvokTC"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265480,
+      "name": "Saucer-Like",
+      "url": "https://open.spotify.com/track/1nio0EPd1Oq80XwyKyin2c"
+    },
+    {
+      "album": {
         "name": "Sister",
         "url": "https://open.spotify.com/album/4gPkBsMmufyOMCJbXUUme8"
       },

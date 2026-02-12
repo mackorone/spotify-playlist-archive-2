@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Herrison Pontes, Jessica Dias",
-  "num_followers": 370458,
+  "num_followers": 370519,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-02-06 16:08:55",
       "album": {
-        "name": "Romanos 12",
-        "url": "https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh"
-      },
-      "artists": [
-        {
-          "name": "Herrison Pontes",
-          "url": "https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M"
-        },
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        }
-      ],
-      "duration_ms": 288402,
-      "name": "Romanos 12",
-      "url": "https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x"
-    },
-    {
-      "added_at": "2026-02-06 16:08:55",
-      "album": {
         "name": "Caminho no Deserto",
         "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 405000,
       "name": "Caminho no Deserto",
       "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
+    },
+    {
+      "added_at": "2026-02-06 16:08:55",
+      "album": {
+        "name": "Romanos 12",
+        "url": "https://open.spotify.com/album/7Kop3QpCaiMgh963UNw8Yh"
+      },
+      "artists": [
+        {
+          "name": "Herrison Pontes",
+          "url": "https://open.spotify.com/artist/03OXiYJ3clKcB5HBC1KA2M"
+        },
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        }
+      ],
+      "duration_ms": 288402,
+      "name": "Romanos 12",
+      "url": "https://open.spotify.com/track/48FP1xEmGrZNKVoAjrvr2x"
     },
     {
       "added_at": "2026-02-06 16:08:55",

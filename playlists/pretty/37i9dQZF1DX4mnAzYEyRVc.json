@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Tokyo Ska Paradise Orchestra \n",
-  "num_followers": 68307,
+  "num_followers": 68345,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "It Means Everything",
-        "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
-      },
-      "artists": [
-        {
-          "name": "Save Ferris",
-          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
-        }
-      ],
-      "duration_ms": 249133,
-      "name": "Come on Eileen",
-      "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Frecuencia Rebelde",
         "url": "https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 196093,
       "name": "Total",
       "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "It Means Everything",
+        "url": "https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS"
+      },
+      "artists": [
+        {
+          "name": "Save Ferris",
+          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
+        }
+      ],
+      "duration_ms": 249133,
+      "name": "Come on Eileen",
+      "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1087,8 +1087,8 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Wir kommen in Frieden",
-        "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
+        "name": "Gr\u00fc\u00dfe ins Neandertal",
+        "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
       },
       "artists": [
         {
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
         }
       ],
-      "duration_ms": 234061,
-      "name": "Wir kommen in Frieden",
-      "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
+      "duration_ms": 106724,
+      "name": "Gr\u00fc\u00dfe ins Neandertal",
+      "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "The Sound Of Revolution",
-        "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
-      },
-      "artists": [
-        {
-          "name": "Los Fastidios",
-          "url": "https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9"
-        }
-      ],
-      "duration_ms": 205527,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Paz y Baile",
         "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 218750,
       "name": "Paz y Baile",
       "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "The Sound Of Revolution",
+        "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
+      },
+      "artists": [
+        {
+          "name": "Los Fastidios",
+          "url": "https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9"
+        }
+      ],
+      "duration_ms": 205527,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1227,8 +1227,8 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Gr\u00fc\u00dfe ins Neandertal",
-        "url": "https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup"
+        "name": "Wir kommen in Frieden",
+        "url": "https://open.spotify.com/album/0lzS8AmVEYtiQ2kQDjwVjq"
       },
       "artists": [
         {
@@ -1236,25 +1236,9 @@
           "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
         }
       ],
-      "duration_ms": 106724,
-      "name": "Gr\u00fc\u00dfe ins Neandertal",
-      "url": "https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Ruder Than Rude",
-        "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
-      },
-      "artists": [
-        {
-          "name": "The Busters",
-          "url": "https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB"
-        }
-      ],
-      "duration_ms": 177800,
-      "name": "Don't Worry, Be Happy",
-      "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
+      "duration_ms": 234061,
+      "name": "Wir kommen in Frieden",
+      "url": "https://open.spotify.com/track/0V17DNUknI1TDWwQ4W0UN6"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Weit, weit weg",
-        "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
+        "name": "Ruder Than Rude",
+        "url": "https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU"
       },
       "artists": [
         {
-          "name": "Sondaschule",
-          "url": "https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk"
+          "name": "The Busters",
+          "url": "https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB"
         }
       ],
-      "duration_ms": 157626,
-      "name": "Weit, weit weg",
-      "url": "https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc"
+      "duration_ms": 177800,
+      "name": "Don't Worry, Be Happy",
+      "url": "https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1307,6 +1291,22 @@
       "duration_ms": 213602,
       "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
       "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Weit, weit weg",
+        "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
+      },
+      "artists": [
+        {
+          "name": "Sondaschule",
+          "url": "https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Weit, weit weg",
+      "url": "https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Broken Words",
-        "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
-      },
-      "artists": [
-        {
-          "name": "Less Than Jake",
-          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
-        }
-      ],
-      "duration_ms": 172003,
-      "name": "Broken Words",
-      "url": "https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Desert Rose",
         "url": "https://open.spotify.com/album/4uAyfl6NyFaVteeadFLOA5"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 240000,
       "name": "Desert Rose",
       "url": "https://open.spotify.com/track/5linz6qsBH5UVIrfOWCVym"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Broken Words",
+        "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
+      },
+      "artists": [
+        {
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
+        }
+      ],
+      "duration_ms": 172003,
+      "name": "Broken Words",
+      "url": "https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB"
     },
     {
       "added_at": "2025-10-03 00:00:35",

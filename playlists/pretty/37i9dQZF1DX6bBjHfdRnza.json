@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring Sentimento.\n",
-  "num_followers": 210075,
+  "num_followers": 210091,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPC0pBGpxELQGH19KA6YCVJ6q2V6",
+  "snapshot_id": "AAAAALVOyCrWo114FnQmEr31rIpDOqqP",
   "tracks": [
     {
       "added_at": "2026-02-06 05:00:44",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/34negURT6NVTALh9x2J6ue"
     },
     {
+      "added_at": "2026-02-11 21:59:45",
+      "album": {
+        "name": "Can\u2019t Take It",
+        "url": "https://open.spotify.com/album/4jTPnIWT3aECDKSz4J0pcE"
+      },
+      "artists": [
+        {
+          "name": "Fonz",
+          "url": "https://open.spotify.com/artist/47CaqIJXmQWmsH6AC5YyHg"
+        }
+      ],
+      "duration_ms": 218536,
+      "name": "Can\u2019t Take It",
+      "url": "https://open.spotify.com/track/55cT6CQVoS4vsBo7sUcInf"
+    },
+    {
       "added_at": "2026-01-23 05:00:26",
       "album": {
         "name": "MOVE THAT BODY",
@@ -59,6 +75,54 @@
       "duration_ms": 255086,
       "name": "MOVE THAT BODY",
       "url": "https://open.spotify.com/track/6RHDOtXxAjEB39xz9A3nAw"
+    },
+    {
+      "added_at": "2026-02-11 21:59:45",
+      "album": {
+        "name": "feel better",
+        "url": "https://open.spotify.com/album/1FnoWPchv5eoz5fTlhhR2A"
+      },
+      "artists": [
+        {
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
+        }
+      ],
+      "duration_ms": 190222,
+      "name": "feel better",
+      "url": "https://open.spotify.com/track/4tMdePOkrariLOyFXe1KnD"
+    },
+    {
+      "added_at": "2026-02-11 21:59:45",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/75EypBsyG1RP34r7LwMnXY"
+      },
+      "artists": [
+        {
+          "name": "Bryson Hill",
+          "url": "https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA"
+        }
+      ],
+      "duration_ms": 164296,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4HOns4faEjBFkyJXEuhaiZ"
+    },
+    {
+      "added_at": "2026-01-15 15:31:15",
+      "album": {
+        "name": "Work To Tha Beat",
+        "url": "https://open.spotify.com/album/7FYCOuwYCFY49zF9luWYCk"
+      },
+      "artists": [
+        {
+          "name": "Secret Floor",
+          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "Work To Tha Beat",
+      "url": "https://open.spotify.com/track/2U1a9MYxmdZP1EHVx9CVyU"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -81,20 +145,20 @@
       "url": "https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf"
     },
     {
-      "added_at": "2026-01-15 15:31:15",
+      "added_at": "2026-02-11 21:59:45",
       "album": {
-        "name": "Work To Tha Beat",
-        "url": "https://open.spotify.com/album/7FYCOuwYCFY49zF9luWYCk"
+        "name": "Maneater",
+        "url": "https://open.spotify.com/album/2Wj8EGLR2CE5YO5hJU8u9J"
       },
       "artists": [
         {
-          "name": "Secret Floor",
-          "url": "https://open.spotify.com/artist/3mA8kikSvA1bdFS84nB2lm"
+          "name": "Vanny Granata",
+          "url": "https://open.spotify.com/artist/7sMVXhUHC2WPL5n05yspP5"
         }
       ],
-      "duration_ms": 123750,
-      "name": "Work To Tha Beat",
-      "url": "https://open.spotify.com/track/2U1a9MYxmdZP1EHVx9CVyU"
+      "duration_ms": 297346,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/53uxeteSi9xQBJV89BfVER"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -284,7 +348,7 @@
       },
       "artists": [
         {
-          "name": "AJK (US)",
+          "name": "AJK",
           "url": "https://open.spotify.com/artist/3DWDq9siRUkW6n9geTbtIm"
         }
       ],
@@ -479,22 +543,6 @@
       "duration_ms": 117559,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3jt7e2DWwoIoGuY2lvfQ8r"
-    },
-    {
-      "added_at": "2026-01-28 16:55:42",
-      "album": {
-        "name": "MOVE THAT BODY",
-        "url": "https://open.spotify.com/album/1GU3WNgi1R5nilwP6TyA6S"
-      },
-      "artists": [
-        {
-          "name": "KE-YEN",
-          "url": "https://open.spotify.com/artist/0GXVEDSyiFrdaTBX2EQGiE"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "CHECK THE GROOVE",
-      "url": "https://open.spotify.com/track/4OtKS4PY2FZzDAu3LQTVPS"
     },
     {
       "added_at": "2026-01-28 16:55:42",
@@ -1261,38 +1309,6 @@
       "url": "https://open.spotify.com/track/2EYGyf6ev8BHV4yjDwk6vI"
     },
     {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/29bHm6hC13cJZY1zLjoGOe"
-      },
-      "artists": [
-        {
-          "name": "Ocean",
-          "url": "https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg"
-        }
-      ],
-      "duration_ms": 255105,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/5Yr2dQUCMLTHp9murXnHwu"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Azul EP",
-        "url": "https://open.spotify.com/album/24vNIYAApsZdFX2yOlnKfN"
-      },
-      "artists": [
-        {
-          "name": "ReiRei",
-          "url": "https://open.spotify.com/artist/5kzMvGnNDZLNTaoblscITp"
-        }
-      ],
-      "duration_ms": 267561,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/5T3hqSyt5rQbMUih0kKcpV"
-    },
-    {
       "added_at": "2026-01-15 15:31:15",
       "album": {
         "name": "Hold On Tight",
@@ -1339,26 +1355,6 @@
       "duration_ms": 139345,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/12pK2W23mKJkT3FHnwGpIx"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "It Really Don't Matter",
-        "url": "https://open.spotify.com/album/4cHMmvuIZNodWbgSIeEfe1"
-      },
-      "artists": [
-        {
-          "name": "Ben Gold",
-          "url": "https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL"
-        },
-        {
-          "name": "CIS",
-          "url": "https://open.spotify.com/artist/1wQLvzp6520wqPtnXyic9P"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "It Really Don't Matter",
-      "url": "https://open.spotify.com/track/1PNFgIfMKc6f5OtgfHt4f9"
     },
     {
       "added_at": "2026-01-15 15:31:15",

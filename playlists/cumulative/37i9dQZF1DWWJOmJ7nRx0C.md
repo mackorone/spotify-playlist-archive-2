@@ -4,7 +4,7 @@
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: The Black Keys
 
-1,712 songs - 4 day 6 hr 28 min
+1,713 songs - 4 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Echo](https://open.spotify.com/track/5ghRFXY8wDBM3tht7Qvxp3) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/5pCBuV5mhXIUonyuWL5EZd) | 3:19 | 2022-07-22 | 2022-07-30 |
 | [Echoes](https://open.spotify.com/track/72mfxZKrn7uUGJ5VIHQctO) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Echoes](https://open.spotify.com/album/51cl9f9wHRoDA0foJmzkMd) | 2:49 | 2025-09-26 | 2025-12-20 |
 | [Echolocate Your Love](https://open.spotify.com/track/5P37xjNwr4ZgXG4JbsiXqT) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Echolocate Your Love](https://open.spotify.com/album/6mLQgWO8DFzqT9H8pYVIOu) | 3:24 | 2022-09-09 | 2022-11-05 |
+| [ego](https://open.spotify.com/track/4Mv3pU235ug7FvhReT1n1L) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [ego](https://open.spotify.com/album/5NsQMntHonlG4cw7wN68uB) | 3:40 | 2026-02-11 |  |
 | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/track/0Qj7PB41b6XgkApKPwDy1r) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Ego Death \(feat\. Steve Vai\)](https://open.spotify.com/album/6V7vpT9XvJccQgnkG6hRZv) | 5:50 | 2022-09-30 | 2023-02-04 |
 | [ELEVATE](https://open.spotify.com/track/2JFdwYlUkWYnZOer20BcHu) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [THE WAY \(Deluxe\)](https://open.spotify.com/album/6dvrpWZMYRBtFiYHMisNgD) | 4:09 | 2025-12-05 |  |
 | [Emergence](https://open.spotify.com/track/5NRpxJxtR6JkUhQS4F0um6) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Emergence](https://open.spotify.com/album/7y5CGrH0FgyOVKFtqhCzPH) | 6:26 | 2025-03-14 | 2025-05-24 |

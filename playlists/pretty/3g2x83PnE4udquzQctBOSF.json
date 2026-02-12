@@ -1,13 +1,45 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2684,
+  "num_followers": 2687,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARW1szNFL49lzI8LEHOXT1mkSXZSXO",
+  "snapshot_id": "AAARXYDBrjgsipj0HiT9k2jzCbG0rbPV",
   "tracks": [
+    {
+      "added_at": "2026-02-11 10:08:57",
+      "album": {
+        "name": "Tell me",
+        "url": "https://open.spotify.com/album/4UoVeSfhYZCAZayXsDq9Xb"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8R\u00ec",
+          "url": "https://open.spotify.com/artist/69EAI8AeVwU0HZ2FF4AFaL"
+        }
+      ],
+      "duration_ms": 251077,
+      "name": "Tell me",
+      "url": "https://open.spotify.com/track/4sA6avh0tLf4Ma2p78ghAG"
+    },
+    {
+      "added_at": "2026-02-11 09:52:56",
+      "album": {
+        "name": "Dawn of moonlight (Zen Version)",
+        "url": "https://open.spotify.com/album/3HwBSGnH7bUmRzCXDglJfW"
+      },
+      "artists": [
+        {
+          "name": "Corona Ilario",
+          "url": "https://open.spotify.com/artist/6GMuZDYRjI8G9HKr3j7mYU"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Dawn of moonlight - Radio Zen Version",
+      "url": "https://open.spotify.com/track/5bXvWTr7fhafN6dWGIZCGK"
+    },
     {
       "added_at": "2026-02-08 09:37:24",
       "album": {

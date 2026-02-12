@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 648678,
+  "num_followers": 648852,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
+        "name": "Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/4QYO62FxD9GxVqERjD1d1i"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 298005,
+      "name": "Teus Olhos Revelam",
+      "url": "https://open.spotify.com/track/5C4AEdDylSirPXyGJbBHYe"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
         "name": "Te Quero Mais do Que Tudo",
         "url": "https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Excel\u00eancia",
-        "url": "https://open.spotify.com/album/3dYx7HppPTwfAX5a24m3Po"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 333546,
-      "name": "Adorador por Excel\u00eancia",
-      "url": "https://open.spotify.com/track/4C3dlfa8iBGgb2MjWe2wOa"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
         "name": "Al\u00e9m do Imposs\u00edvel / Pedro (Ao Vivo)",
         "url": "https://open.spotify.com/album/5uTw6KtalyBvjtWpTmipc0"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
-        "name": "Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/4QYO62FxD9GxVqERjD1d1i"
+        "name": "Excel\u00eancia",
+        "url": "https://open.spotify.com/album/3dYx7HppPTwfAX5a24m3Po"
       },
       "artists": [
         {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 298005,
-      "name": "Teus Olhos Revelam",
-      "url": "https://open.spotify.com/track/5C4AEdDylSirPXyGJbBHYe"
+      "duration_ms": 333546,
+      "name": "Adorador por Excel\u00eancia",
+      "url": "https://open.spotify.com/track/4C3dlfa8iBGgb2MjWe2wOa"
     },
     {
       "added_at": "2025-10-17 18:07:08",

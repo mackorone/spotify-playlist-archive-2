@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 167383,
+  "num_followers": 167641,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAAtVI1Evsibu2QPrYOQZ3NR",
+  "snapshot_id": "aYp1AAAAAACyYCLmEkRA7VxKqW2aLWlk",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue Print \u2013 Us Vs. Them",
-        "url": "https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX"
-      },
-      "artists": [
-        {
-          "name": "D-Block Europe",
-          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 225905,
-      "name": "Ferrari Horses",
-      "url": "https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Love Somebody",
         "url": "https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 241574,
       "name": "Perfect Day - featuring RAYE",
       "url": "https://open.spotify.com/track/2c9sIf5jLjqItQovMOZxqe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue Print \u2013 Us Vs. Them",
+        "url": "https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 225905,
+      "name": "Ferrari Horses",
+      "url": "https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fly Me to the Moon",
+        "url": "https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "Fly Me to the Moon",
+      "url": "https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Don't Want You",
         "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
       },
@@ -783,26 +799,6 @@
       "duration_ms": 190240,
       "name": "I Don't Want You",
       "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golden Boy",
-        "url": "https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P"
-      },
-      "artists": [
-        {
-          "name": "Kojo Funds",
-          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Check (with RAYE)",
-      "url": "https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd"
     },
     {
       "added_at": null,
@@ -827,18 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fly Me to the Moon",
-        "url": "https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY"
+        "name": "Golden Boy",
+        "url": "https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P"
       },
       "artists": [
+        {
+          "name": "Kojo Funds",
+          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
+        },
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 191332,
-      "name": "Fly Me to the Moon",
-      "url": "https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet"
+      "duration_ms": 215573,
+      "name": "Check (with RAYE)",
+      "url": "https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd"
     },
     {
       "added_at": null,

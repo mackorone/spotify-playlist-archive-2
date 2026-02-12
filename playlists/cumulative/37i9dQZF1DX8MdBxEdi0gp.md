@@ -4,7 +4,7 @@
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-256 songs - 14 hr 20 min
+257 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Amigo](https://open.spotify.com/track/24Thqkee9KZgifP7G8c70N) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Línea Azul \- Vol IV \- Amigo](https://open.spotify.com/album/5rvgKyUOHvy6tTwv5hUTdJ) | 3:31 | 2022-05-10 |  |
 | [Amor de Estudiante](https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:10 | 2022-05-10 |  |
 | [Amor En El Aire](https://open.spotify.com/track/4SpymdQGOUzDEsOGSlwDR0) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Vida De Cine](https://open.spotify.com/album/6FkZm0HYNuPm4eEhLKVZ6r) | 2:15 | 2024-05-10 |  |
+| [Antes De Que Te Vayas](https://open.spotify.com/track/7DewwHhdPazof5cOYwrLQw) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Lo Basico](https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS) | 3:56 | 2024-07-11 |  |
 | [Besame Mucho](https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7) | [Consuelo Velázquez](https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU) | [Boleros para Enamorarse, Vol\. 2](https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ) | 3:01 | 2022-05-10 | 2022-07-29 |
 | [Bonita](https://open.spotify.com/track/6VGgE1rjM5KDqMSdSRaA17) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:24 | 2024-02-23 | 2025-07-23 |
 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 | 2022-05-10 | 2024-04-19 |
@@ -123,7 +124,7 @@
 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:26 | 2022-05-10 |  |
 | [Hipocresía](https://open.spotify.com/track/5Cf4aRX1Kr6Y0DMb18zaqi) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Éxitos Eternos](https://open.spotify.com/album/3P9Y7c860rgTpYjK8SBMon) | 4:19 | 2022-05-10 |  |
 | [Hipócrita](https://open.spotify.com/track/5YhyWVea591buoQxYS5Fwx) | [Fernando Fernandez](https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS) | [Hipócrita y Otros Éxitos de Fernando Fernández](https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX) | 2:49 | 2024-02-23 |  |
-| [Hoy Te Confieso](https://open.spotify.com/track/3JKIPPWFQALCZj7TOagabC) | [Los Terricolas](https://open.spotify.com/artist/0SOzpQB6mG60uZcc7BMAHf) | [La Más Completa Colección](https://open.spotify.com/album/67aE1BSpSmbkOsfyea2rMT) | 3:49 | 2024-07-11 |  |
+| [Hoy Te Confieso](https://open.spotify.com/track/3JKIPPWFQALCZj7TOagabC) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [La Más Completa Colección](https://open.spotify.com/album/67aE1BSpSmbkOsfyea2rMT) | 3:49 | 2024-07-11 |  |
 | [Juguete Caro \- Remastered](https://open.spotify.com/track/4ip5GH0VwU9TiBtJTxFAcT) | [Organización Genesis](https://open.spotify.com/artist/3ODA1BEMLHdea29BorDZ9H) | [Todo..\. Vol\. 1 \(Remastered\)](https://open.spotify.com/album/0DhSrqef804U8ZoAT7Hqiz) | 3:02 | 2024-05-10 |  |
 | [Juntos](https://open.spotify.com/track/7jK3BKP4SDY3MGHKgbGcp9) | [Paloma San Basilio](https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn) | [Ahora](https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe) | 4:21 | 2022-12-30 | 2024-02-24 |
 | [La Barca](https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:17 | 2022-05-10 |  |
@@ -252,7 +253,7 @@
 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 3:30 | 2022-05-10 |  |
 | [Volverás](https://open.spotify.com/track/5c84r0tNo2LVvgnqv9p2ay) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Sonora Santanera Y La Inspiración de Agustín Lara](https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8) | 2:26 | 2024-02-23 |  |
 | [Volveré](https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego En Los 70](https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb) | 4:02 | 2023-06-23 |  |
-| [Volveré](https://open.spotify.com/track/0AthnRlNudLf39MtPC4pW0) | [Sergio Fachelli](https://open.spotify.com/artist/01m1wCfDdju4f7neFjjmqk) | [Hay Amores..\. Y Amores](https://open.spotify.com/album/0wWLi7i2f8XuZYmOvKLvKc) | 3:31 | 2023-06-23 |  |
+| [Volveré](https://open.spotify.com/track/0AthnRlNudLf39MtPC4pW0) | [Sergio Fachelli](https://open.spotify.com/artist/01m1wCfDdju4f7neFjjmqk) | [Hay Amores..\. Y Amores](https://open.spotify.com/album/0wWLi7i2f8XuZYmOvKLvKc) | 3:31 | 2023-06-23 | 2026-02-12 |
 | [Y Nunca Comprendí](https://open.spotify.com/track/6rJdkqRFo2ZN4huP8AlwlX) | [Vicky](https://open.spotify.com/artist/4AWxy7zWARA6ir6hYdDmB5) | [Grandes Exitos de Vicky \- Baladas de los Años 60's](https://open.spotify.com/album/6cIjsTKwjj1QON60KSjNsj) | 3:45 | 2024-07-11 | 2024-12-24 |
 | [Y Volveré \- Remastered 1994](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 | 2022-05-10 |  |
 | [Yo Que No Vivo Sin Ti](https://open.spotify.com/track/6B7ohoEc96VRnmgzopDPG0) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [15 Éxitos](https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z) | 3:02 | 2023-06-23 |  |

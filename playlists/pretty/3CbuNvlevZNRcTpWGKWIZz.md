@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CbuNvlevZNRcTpWGKWIZz.md) - [plain]
 
 > A few of our recent favorites including the latest tracks from our label <a href="https://open.spotify.com/playlist/6wf7OjL38XBl60m7cLIe6Z">Foreign Family Collective</a>.
 
-[ODESZA](https://open.spotify.com/user/odesza) - 53,246 likes - 51 songs - 3 hr 18 min
+[ODESZA](https://open.spotify.com/user/odesza) - 53,247 likes - 51 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/3CbuNvlevZNRcTpWGKWIZz.md) - [plain]
 | 34 | [A Moment Apart \(Live\) \(ODESZA VIP Remix\)](https://open.spotify.com/track/6nwtUZBvCUzWp8HhhGrDu8) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye Tour Live](https://open.spotify.com/album/1Sr34Sc0yqB4SlxanOrit0) | 6:23 |
 | 35 | [hei](https://open.spotify.com/track/2T1H0vzQbasvpzU9SbpWw8) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [it’ll all be oki \(ii\)](https://open.spotify.com/album/7KCFKGdbk455atVzZxuRIB) | 4:00 |
 | 36 | [Butch](https://open.spotify.com/track/1BVv7EhtErHUBe50h6XW20) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 4:10 |
-| 37 | [Broken Heart \(feat\. Fanta Ballo\)](https://open.spotify.com/track/52u0M47F8CDn0n9GEVPl3B) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [Fanta Ballo](https://open.spotify.com/artist/0vBbILw90erFScUxxhD5Kg) | [Broken Heart \(feat\. Fanta Ballo\)](https://open.spotify.com/album/0dfkO0QoVupRF5SBZITbmk) | 3:27 |
+| 37 | [Broken Heart \(feat\. Fanta Ballo\)](https://open.spotify.com/track/52u0M47F8CDn0n9GEVPl3B) | [POOLCLVB](https://open.spotify.com/artist/0DUVlCXklIlSA1LIo2YBlN), [Fanta Ballo](https://open.spotify.com/artist/0vBbILw90erFScUxxhD5Kg) | [Broken Heart \(feat\. Fanta Ballo\)](https://open.spotify.com/album/0dfkO0QoVupRF5SBZITbmk) | 3:27 |
 | 38 | [It’s Only \- RÜFÜS DU SOL Remix](https://open.spotify.com/track/6bzsuik8LUdJISaURiJT8V) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Zyra](https://open.spotify.com/artist/0DGAOR3KtqWwWSwDzhzqOa), [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [In Return \(10 Year Anniversary Edition\)](https://open.spotify.com/album/5hky8BIrwn5ACkRPfXQqh0) | 6:02 |
 | 39 | [Atlantis](https://open.spotify.com/track/7cSWxKJOYcIj7orwt0pUsW) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [Atlantis / Drift](https://open.spotify.com/album/0PrL6tpjj9q7IcBveZjrCf) | 3:33 |
 | 40 | [let me go\*](https://open.spotify.com/track/6YuYrLiDFsUxyxZONZMVn0) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [let me go\*](https://open.spotify.com/album/1G2wWDw7j1NQHDScKlvkAK) | 2:19 |

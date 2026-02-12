@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 117615,
       "name": "<3",
       "url": "https://open.spotify.com/track/6SVahEK2VJWYskzIxVXKVo"
@@ -3044,6 +3044,24 @@
       "duration_ms": 186187,
       "name": "Aventura - En Vivo",
       "url": "https://open.spotify.com/track/3eaI7pm5Epr3Wurhe36sfG"
+    },
+    {
+      "album": {
+        "name": "Avi\u00f3n a Madrid",
+        "url": "https://open.spotify.com/album/27HCN7UHjsGX424Ev68llq"
+      },
+      "artists": [
+        {
+          "name": "Luz Gaggi",
+          "url": "https://open.spotify.com/artist/5wKQ8RnelEGULisF5rlbtm"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207757,
+      "name": "Avi\u00f3n a Madrid",
+      "url": "https://open.spotify.com/track/3i4fuDPACqqQJkzoymalcu"
     },
     {
       "album": {
@@ -7692,7 +7710,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 113038,
       "name": "Como Antes (Salas)",
       "url": "https://open.spotify.com/track/4xP6Foye8bEcdXNe89EtXb"
@@ -7930,7 +7948,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -13558,7 +13576,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 183237,
       "name": "Fame is a Gun",
       "url": "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk"
@@ -19264,6 +19282,24 @@
       "duration_ms": 219039,
       "name": "La Mam\u00e1 de Jimmy",
       "url": "https://open.spotify.com/track/01IQmxKdUJ7xaOVdMtWPPE"
+    },
+    {
+      "album": {
+        "name": "La Marea",
+        "url": "https://open.spotify.com/album/3AXa1t0dU1flzjZjonwUhu"
+      },
+      "artists": [
+        {
+          "name": "AfroBeello",
+          "url": "https://open.spotify.com/artist/0DXMsQ12toIDJu8IHLEX70"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189258,
+      "name": "La Marea",
+      "url": "https://open.spotify.com/track/6Rtx0Y8EaStZMx5RKnd0bn"
     },
     {
       "album": {
@@ -41634,6 +41670,10 @@
         {
           "name": "VUO",
           "url": "https://open.spotify.com/artist/0FEQJV8XCGFQCgdHDGYMjN"
+        },
+        {
+          "name": "Abichos",
+          "url": "https://open.spotify.com/artist/437FtSmpAruNj7ahaYJ3vu"
         }
       ],
       "date_added": "2026-02-10",

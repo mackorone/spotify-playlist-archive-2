@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: VV\-Ace
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,359 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,363 likes - 99 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 88 | [without me](https://open.spotify.com/track/6btVsuEP20QF9Kj7fuVWEA) | [GRXCE](https://open.spotify.com/artist/1g9G7BRh9Fz6AZ0PA8Y8pl) | [things i should probably keep to myself](https://open.spotify.com/album/5oP0i6oTSRLkz6puHDNBaH) | 3:00 |
 | 89 | [Promise of Everything](https://open.spotify.com/track/75tB9b8cVjKfuFaWAg5WrN) | [Grace Woodroofe](https://open.spotify.com/artist/6eMOqUqLUBE24yBrdb8XHd) | [Promise of Everything](https://open.spotify.com/album/5pLk0eBAleBsf3pGXPjvfh) | 3:35 |
 | 90 | [talk soon](https://open.spotify.com/track/2BDLAqF83gojhV8PXJoNoN) | [Nat Luna](https://open.spotify.com/artist/3T2tCEmOkdYPSlBUaXkK92) | [talk soon](https://open.spotify.com/album/35tFrzCla50bM2sNNVGB7n) | 2:43 |
-| 91 | [Keep Me Alive](https://open.spotify.com/track/7c0jiXS8GsVEONVTwvK8xI) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk), [Jaylin Rahjon](https://open.spotify.com/artist/7GZv334spln2zHFg0sJi5S) | [Keep Me Alive](https://open.spotify.com/album/3vNlMPoSWc3WepLh2zHiXo) | 2:25 |
-| 92 | [Deep \(love\)](https://open.spotify.com/track/511SfFqSwZu4EzASbYSk39) | [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [Deep \(love\)](https://open.spotify.com/album/1zsvcEQUBmTeb0xm6Jqbwx) | 3:10 |
-| 93 | [rosemary](https://open.spotify.com/track/4AmTtFkNqOcfjuV3PTUAkj) | [annie hamilton](https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH) | [rosemary](https://open.spotify.com/album/7hoTie5haMGFgvJ0MyNGh5) | 3:29 |
-| 94 | [Tongue Tied](https://open.spotify.com/track/08Oz4eXT69ppLrNJoKQl3t) | [Sun After Dusk](https://open.spotify.com/artist/2qeALh3PeLdiLwghKz5gjX) | [Tongue Tied](https://open.spotify.com/album/20wE5wd9rsJhhIbX1mh5Kb) | 4:42 |
-| 95 | [Black & Blue](https://open.spotify.com/track/69L556M1aoKnPLoI3LcmaD) | [The Lonesomes](https://open.spotify.com/artist/2WuHTgLaodw4synbCPjn3c) | [Black & Blue](https://open.spotify.com/album/5TFe3QVQa0BEaHBKK21Pa9) | 3:19 |
-| 96 | [Blindspot](https://open.spotify.com/track/504p1Am3djTJ0E0b4Sq2g0) | [Fletcher Kent](https://open.spotify.com/artist/296NGRpJWhJMiY68OVtZiR) | [Blindspot](https://open.spotify.com/album/7HV7tGge7oamhXP2tH1aVf) | 3:39 |
-| 97 | [Box of Pencils](https://open.spotify.com/track/0E8jUIz7B776IR78woA16W) | [My Chérie](https://open.spotify.com/artist/13kuX8DGF56Wy43D0Dj0ic) | [Life is short and life is long](https://open.spotify.com/album/7KyZ31hNrVV1novCbDaign) | 4:01 |
-| 98 | [Small Town Rockstar](https://open.spotify.com/track/3s9Lpdkd3LTWhJaOCSZuC4) | [Hannah Brewer](https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk) | [Small Town Rockstar](https://open.spotify.com/album/30P9jA994KCtu5iaWqq6dA) | 3:17 |
-| 99 | [Slipstream](https://open.spotify.com/track/59KE04cHTZOKJvfEa9KQWX) | [Chuck Sics](https://open.spotify.com/artist/4q4nkhzdH153MfVfA6Gjxl) | [Slipstream](https://open.spotify.com/album/6DbEyMRRcUIbvpKc5ueiFl) | 3:27 |
-| 100 | [Not right now](https://open.spotify.com/track/4o0gxuQakmqbTTCjRWtr3y) | [Lottie](https://open.spotify.com/artist/4E6BZQvE45nfy5h60pYFBn) | [Not right now](https://open.spotify.com/album/5pheyJwNdSzRGqIZh9R05W) | 2:48 |
+| 91 | [Deep \(love\)](https://open.spotify.com/track/511SfFqSwZu4EzASbYSk39) | [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [Deep \(love\)](https://open.spotify.com/album/1zsvcEQUBmTeb0xm6Jqbwx) | 3:10 |
+| 92 | [rosemary](https://open.spotify.com/track/4AmTtFkNqOcfjuV3PTUAkj) | [annie hamilton](https://open.spotify.com/artist/0S3cimlz80A0Q9CLz8TTxH) | [rosemary](https://open.spotify.com/album/7hoTie5haMGFgvJ0MyNGh5) | 3:29 |
+| 93 | [Tongue Tied](https://open.spotify.com/track/08Oz4eXT69ppLrNJoKQl3t) | [Sun After Dusk](https://open.spotify.com/artist/2qeALh3PeLdiLwghKz5gjX) | [Tongue Tied](https://open.spotify.com/album/20wE5wd9rsJhhIbX1mh5Kb) | 4:42 |
+| 94 | [Black & Blue](https://open.spotify.com/track/69L556M1aoKnPLoI3LcmaD) | [The Lonesomes](https://open.spotify.com/artist/2WuHTgLaodw4synbCPjn3c) | [Black & Blue](https://open.spotify.com/album/5TFe3QVQa0BEaHBKK21Pa9) | 3:19 |
+| 95 | [Blindspot](https://open.spotify.com/track/504p1Am3djTJ0E0b4Sq2g0) | [Fletcher Kent](https://open.spotify.com/artist/296NGRpJWhJMiY68OVtZiR) | [Blindspot](https://open.spotify.com/album/7HV7tGge7oamhXP2tH1aVf) | 3:39 |
+| 96 | [Box of Pencils](https://open.spotify.com/track/0E8jUIz7B776IR78woA16W) | [My Chérie](https://open.spotify.com/artist/13kuX8DGF56Wy43D0Dj0ic) | [Life is short and life is long](https://open.spotify.com/album/7KyZ31hNrVV1novCbDaign) | 4:01 |
+| 97 | [Small Town Rockstar](https://open.spotify.com/track/3s9Lpdkd3LTWhJaOCSZuC4) | [Hannah Brewer](https://open.spotify.com/artist/0MYPoaaBk0uz7ZrS2VHFWk) | [Small Town Rockstar](https://open.spotify.com/album/30P9jA994KCtu5iaWqq6dA) | 3:17 |
+| 98 | [Slipstream](https://open.spotify.com/track/59KE04cHTZOKJvfEa9KQWX) | [Chuck Sics](https://open.spotify.com/artist/4q4nkhzdH153MfVfA6Gjxl) | [Slipstream](https://open.spotify.com/album/6DbEyMRRcUIbvpKc5ueiFl) | 3:27 |
+| 99 | [Not right now](https://open.spotify.com/track/4o0gxuQakmqbTTCjRWtr3y) | [Lottie](https://open.spotify.com/artist/4E6BZQvE45nfy5h60pYFBn) | [Not right now](https://open.spotify.com/album/5pheyJwNdSzRGqIZh9R05W) | 2:48 |
 
-Snapshot ID: `AAAAAAN5dao9K2Z45xyqD6TyCS1yzD51`
+Snapshot ID: `AAAAAKq6GuFuMbhTuf1u5aH6p3stSHiv`

@@ -387,6 +387,28 @@
     },
     {
       "album": {
+        "name": "Oh Didn't He Ramble",
+        "url": "https://open.spotify.com/album/2i7PmkVH34oYZFLvQepQre"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Sy Oliver's Orchestra",
+          "url": "https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/1Vkab3Yn1NjKBMtXHgfimR"
+    },
+    {
+      "album": {
         "name": "What A Wonderful World",
         "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
       },
@@ -470,7 +492,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 133266,
       "name": "I Still Get Jealous",
       "url": "https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8"

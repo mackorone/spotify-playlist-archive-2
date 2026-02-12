@@ -6,7 +6,7 @@
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA341vFgoi4ouhWruifnW4c2y80YdEX",
+  "snapshot_id": "AAA36B1he788qVTekyEFHVNvM1Ehz6r7",
   "tracks": [
     {
       "added_at": "2025-12-18 22:42:53",
@@ -2571,6 +2571,54 @@
       "duration_ms": 427093,
       "name": "Love & Hate",
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
+    },
+    {
+      "added_at": "2026-02-12 00:16:04",
+      "album": {
+        "name": "Spinning On A Spire",
+        "url": "https://open.spotify.com/album/1hTFzhm0SJjefZO5snnPlp"
+      },
+      "artists": [
+        {
+          "name": "Dominic Lavoie",
+          "url": "https://open.spotify.com/artist/6IbM5ng5cjZuZoCSjEO6LR"
+        }
+      ],
+      "duration_ms": 209297,
+      "name": "Spinning On A Spire",
+      "url": "https://open.spotify.com/track/5UbBse5sRanejFjYxPlSUB"
+    },
+    {
+      "added_at": "2026-02-11 23:03:18",
+      "album": {
+        "name": "Parsimoniosa",
+        "url": "https://open.spotify.com/album/6QdStxptw0ctxYiDVpX1Xy"
+      },
+      "artists": [
+        {
+          "name": "MANENA",
+          "url": "https://open.spotify.com/artist/0iqltBGuFMhKSGJoObggvs"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Si fuimos algo",
+      "url": "https://open.spotify.com/track/4BT50O2HFYORi2aNDjSe3N"
+    },
+    {
+      "added_at": "2026-02-11 23:03:22",
+      "album": {
+        "name": "Call My Soul Back",
+        "url": "https://open.spotify.com/album/6tqf6l6sQt3pZ5jyLatgnX"
+      },
+      "artists": [
+        {
+          "name": "Catdraggon",
+          "url": "https://open.spotify.com/artist/3KAFSyOCx8EGhQj8ExHeCv"
+        }
+      ],
+      "duration_ms": 277096,
+      "name": "Call My Soul Back",
+      "url": "https://open.spotify.com/track/3BzFgSujgr9sQv0nz2agEd"
     },
     {
       "added_at": "2026-02-07 23:18:10",

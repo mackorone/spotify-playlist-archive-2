@@ -4,7 +4,7 @@
 
 > This is Clara Schumann\. The essential tracks, all in one playlist.
 
-74 songs - 5 hr 10 min
+75 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Piano Trio in G Minor, Op\. 17: II\. Scherzo\. Tempo di Menuetto](https://open.spotify.com/track/4dfPJ0m7vQCsZFbDREb6xQ) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Nash Ensemble](https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7) | [Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet](https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I) | 5:27 | 2025-08-12 |  |
 | [Piano Trio in G Minor, Op\. 17: III\. Andante](https://open.spotify.com/track/3lzMwnWaURun9rrPUMATGn) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Anne\-Sophie Mutter](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Lambert Orkis](https://open.spotify.com/artist/5240jtaiVokuoHcbh9Cfd3) | [Peaceful Orchestral Music \- Calming Classical Strings](https://open.spotify.com/album/2eU9aFe9p9MMXCbVxyNy2T) | 4:17 | 2025-08-12 |  |
 | [Piano Trio in G Minor, Op\. 17: III\. Andante](https://open.spotify.com/track/3dXYHdN07BPGkobxbffMst) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Dartington Piano Trio](https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS) | [Fanny Mendelssohn & Clara Schumann: Piano Trios](https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG) | 5:35 | 2025-08-12 |  |
+| [Piano Trio in G Minor, Op\. 17: III\. Andante](https://open.spotify.com/track/7jM8fEZOUvvWRWunRddlcH) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Klemens Klein](https://open.spotify.com/artist/2NmcHggEqapmrZwB4VrRm6) | [Echoes of a Romantic Soul](https://open.spotify.com/album/5VZrn1egaRKKSAbCScL9bj) | 6:33 | 2026-02-12 |  |
 | [Piano Trio in G Minor, Op\. 17: III\. Andante](https://open.spotify.com/track/1EpgYZP6ytXTxDupr0gfza) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Nash Ensemble](https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7) | [Clara Schumann & Fanny Mendelssohn: Piano Trios & String Quartet](https://open.spotify.com/album/5o01sGGWRABtuoKC6TS03I) | 5:05 | 2025-08-12 |  |
 | [Piano Trio in G Minor, Op\. 17: IV\. Allegretto](https://open.spotify.com/track/4oxdnghKVtmte3coMMeFzM) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Anne\-Sophie Mutter](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Lambert Orkis](https://open.spotify.com/artist/5240jtaiVokuoHcbh9Cfd3) | ["Wiegenlied" & Other Brahms Masterpieces](https://open.spotify.com/album/3WwxtFaLtEFDqv9vKI5DRL) | 7:03 | 2025-08-12 | 2025-12-15 |
 | [Piano Trio in G Minor, Op\. 17: IV\. Allegretto](https://open.spotify.com/track/2GlnVOUEUpSN4IxKRjy7py) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Dartington Piano Trio](https://open.spotify.com/artist/6sZvZztWZ4xY52U32C1SWS) | [Fanny Mendelssohn & Clara Schumann: Piano Trios](https://open.spotify.com/album/6vnnULC0AjbRNkoFXABdOG) | 7:45 | 2025-08-12 |  |

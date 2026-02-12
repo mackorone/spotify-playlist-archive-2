@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Roshelle in cover + tutto il meglio delle novità indie 🎀
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,541 likes - 115 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,544 likes - 115 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

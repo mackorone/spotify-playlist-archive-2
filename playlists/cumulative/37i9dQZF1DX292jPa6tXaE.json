@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Gur Aulakh",
+  "description": "Discover the future of Punjabi Pop! Cover: Kanwar Shinh",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 197683,
       "name": "Aaja Ve Sajna",
       "url": "https://open.spotify.com/track/1M9st9MlAoZh9BOgputFnq"
@@ -2351,6 +2351,32 @@
     },
     {
       "album": {
+        "name": "Dear Crush",
+        "url": "https://open.spotify.com/album/5e1V0lELBOCrIteg5phyNN"
+      },
+      "artists": [
+        {
+          "name": "Kala Grewal",
+          "url": "https://open.spotify.com/artist/0VYjnW7sWfRETIliOeqYQn"
+        },
+        {
+          "name": "Jashan Inder",
+          "url": "https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8"
+        },
+        {
+          "name": "Prabh Bains",
+          "url": "https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187171,
+      "name": "Dear Crush",
+      "url": "https://open.spotify.com/track/5mup1Yt6RT7AQlLU42566n"
+    },
+    {
+      "album": {
         "name": "DEATHROW",
         "url": "https://open.spotify.com/album/0CPDlE5xaAGliijhkZs9wC"
       },
@@ -2834,7 +2860,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 186228,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1XR3Ug77933aNUmR8IJVzV"
@@ -4608,7 +4634,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 158417,
       "name": "Ikk Kavita",
       "url": "https://open.spotify.com/track/6KGxNiABhbcFm3tg7PJyya"
@@ -7144,7 +7170,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 144000,
       "name": "Munda Ropar Ton",
       "url": "https://open.spotify.com/track/5QOJoa5x88OiuecgEXOuRd"
@@ -10511,6 +10537,32 @@
     },
     {
       "album": {
+        "name": "TOOFAN",
+        "url": "https://open.spotify.com/album/1KikZJLsUJmIkfm6LvwquJ"
+      },
+      "artists": [
+        {
+          "name": "Joban Randhawa PB17",
+          "url": "https://open.spotify.com/artist/4lzp6P0USGq35jdLYikBjT"
+        },
+        {
+          "name": "Preet Singh Philly",
+          "url": "https://open.spotify.com/artist/2lpHleKedRiZ2Aj6tb6I2P"
+        },
+        {
+          "name": "1EYE",
+          "url": "https://open.spotify.com/artist/2a4Rd6f40lapL7mKgbLsxP"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230103,
+      "name": "TOOFAN",
+      "url": "https://open.spotify.com/track/4h2phsTv6GDSpua9eTJz6q"
+    },
+    {
+      "album": {
         "name": "Town",
         "url": "https://open.spotify.com/album/6spYrcWcehDD6YBZESTaPW"
       },
@@ -10794,6 +10846,28 @@
       "duration_ms": 230400,
       "name": "Vajah (feat. Sandeep Aulakh)",
       "url": "https://open.spotify.com/track/6fCcsyrtvmHZykKYFETAMq"
+    },
+    {
+      "album": {
+        "name": "Valentine Vs Ballantine",
+        "url": "https://open.spotify.com/album/4o4lWQdCKkJIMkgOyOpeom"
+      },
+      "artists": [
+        {
+          "name": "Jonnna",
+          "url": "https://open.spotify.com/artist/5ZbQjV2yYIYlZTIV8eqkK5"
+        },
+        {
+          "name": "Dila",
+          "url": "https://open.spotify.com/artist/4Jgk3AO9XeBwIFuSXUV5F3"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148888,
+      "name": "Valentine Vs Ballantine",
+      "url": "https://open.spotify.com/track/5syaeUcYUJx19uLemeaFCt"
     },
     {
       "album": {
@@ -11174,6 +11248,24 @@
       "duration_ms": 147242,
       "name": "Winning Folk's",
       "url": "https://open.spotify.com/track/3iipYe0AbbjWYpa8Y05cO1"
+    },
+    {
+      "album": {
+        "name": "Lovenotes",
+        "url": "https://open.spotify.com/album/3z5skGe7syD8TYzPVCk4Z8"
+      },
+      "artists": [
+        {
+          "name": "Kanwar Shinh",
+          "url": "https://open.spotify.com/artist/0N9nGethZ9grQ6ejtwUXP1"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167368,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2dqcmL7IB1OiV6M7scfUuc"
     },
     {
       "album": {

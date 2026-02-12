@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 31448,
+  "num_followers": 31453,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAACj/QNzktU/dcTJT05eOvVO",
+  "snapshot_id": "aYp1AAAAAAANRpfk4ynTI1Nnu8V0688m",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 227918,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Presente y Futuro",
         "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 287533,
       "name": "Amor Herido",
       "url": "https://open.spotify.com/track/3djyVDrbRMrTJJnUUGXJwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 227918,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 301714,
-      "name": "Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/3oIs4KYGL1W8DpWUbRyk66"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 309426,
       "name": "Toma Tu Recuerdo",
       "url": "https://open.spotify.com/track/5dZUKXiKkDoVXGTmXajMQW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 301714,
+      "name": "Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/3oIs4KYGL1W8DpWUbRyk66"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 322560,
-      "name": "Tu Historieta",
-      "url": "https://open.spotify.com/track/39BcI6ZugEmBfN44khXiuc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/1xg7guYWSlsud8r0U6uMqU"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 306600,
       "name": "No Queda Nada",
       "url": "https://open.spotify.com/track/3Fi6LK7SNEZH1kLWJCWLLr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 322560,
+      "name": "Tu Historieta",
+      "url": "https://open.spotify.com/track/39BcI6ZugEmBfN44khXiuc"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Peces Raros",
+  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Ezequiel Arias",
   "name": "(AR)",
   "tracks": [
     {
@@ -1658,6 +1658,24 @@
       "duration_ms": 180413,
       "name": "Dejar todo",
       "url": "https://open.spotify.com/track/1AEIj3ICbYjS1vGSYz2tOm"
+    },
+    {
+      "album": {
+        "name": "Extended",
+        "url": "https://open.spotify.com/album/3OTvOgJZuv3PpmuqZtR4qi"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Arias",
+          "url": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389538,
+      "name": "Delirio - Extended Mix",
+      "url": "https://open.spotify.com/track/5NgHEzcXmGnvalSA9SYzz6"
     },
     {
       "album": {
@@ -3356,7 +3374,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 437419,
       "name": "KRAUT! - Folgar Remix",
       "url": "https://open.spotify.com/track/4NTyqjbaKwcpE7pLud1feu"
@@ -4456,7 +4474,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 303886,
       "name": "Nada para siempre - Spotify Sessions",
       "url": "https://open.spotify.com/track/3aFpghYTgEFXdPfCPwljPD"
@@ -5850,6 +5868,32 @@
       "duration_ms": 169534,
       "name": "Something Like This",
       "url": "https://open.spotify.com/track/1kNCtmGN7BKuWZZC3coMDV"
+    },
+    {
+      "album": {
+        "name": "Something Right (Ezequiel Arias Remix)",
+        "url": "https://open.spotify.com/album/7jIaFcVE1D6er8DA47vTZf"
+      },
+      "artists": [
+        {
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+        },
+        {
+          "name": "Ezequiel Arias",
+          "url": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243746,
+      "name": "Something Right - Ezequiel Arias Remix",
+      "url": "https://open.spotify.com/track/3mcm09CiO5HyGfv6lOEArW"
     },
     {
       "album": {

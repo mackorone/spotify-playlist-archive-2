@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-483 songs - 1 day 5 hr 6 min
+485 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Dance With The Groove](https://open.spotify.com/track/6gO3915DpPoGjdYAuNSSel) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Dance With The Groove](https://open.spotify.com/album/6j6xw4YIAvFAX9sn0oaso2) | 3:51 | 2023-04-09 | 2023-04-24 |
 | [Dancing At The Disco](https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Dancing At The Disco](https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt) | 3:14 | 2023-09-17 | 2023-12-14 |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-05-21 | 2023-06-12 |
+| [Dawn of moonlight \- Radio Zen Version](https://open.spotify.com/track/5bXvWTr7fhafN6dWGIZCGK) | [Corona Ilario](https://open.spotify.com/artist/6GMuZDYRjI8G9HKr3j7mYU) | [Dawn of moonlight \(Zen Version\)](https://open.spotify.com/album/3HwBSGnH7bUmRzCXDglJfW) | 3:20 | 2026-02-11 |  |
 | [Deep Down Low](https://open.spotify.com/track/3Ue9vGsg5XVnEo7P2EdLxX) | [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [Deep Down Low](https://open.spotify.com/album/4IwNXHXcjHJsLLEE3mwESP) | 4:55 | 2024-07-07 |  |
 | [Deeper](https://open.spotify.com/track/7D6SEmF2v2xlFUct2atTfe) | [OTK](https://open.spotify.com/artist/1RfUpnBiwRzA6LCl4qaJwG) | [Deeper](https://open.spotify.com/album/2HJ5dqnKM6w7yFhgWkrxyu) | 3:17 | 2025-11-28 | 2026-01-03 |
 | [Dentro a due vite](https://open.spotify.com/track/3yZHjRPsC7c8CT5ylbN07E) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Dentro a due vite](https://open.spotify.com/album/7KVJtGXPA1cEyZomd6bB83) | 3:08 | 2026-01-01 | 2026-01-03 |
@@ -424,6 +425,7 @@
 | [symphonia.](https://open.spotify.com/track/0FSdefPsdTZgxFM5Rvwqnu) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [winter '23](https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy) | 6:52 | 2023-03-12 | 2023-04-01 |
 | [Take A Flight](https://open.spotify.com/track/6OyNK8tVP9rDUFXmH6lCXI) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw), [Nadia](https://open.spotify.com/artist/2tRocnrINF0O5Glx1axBmr) | [Take A Flight](https://open.spotify.com/album/1uPTrWlFC0MpA01VwAjR37) | 3:50 | 2023-04-16 | 2023-05-01 |
 | [Take It Easy](https://open.spotify.com/track/1yFJGIc4AgYdFRkaLkBO3j) | [Mareels](https://open.spotify.com/artist/0H4mp1iARmdJ8BY4wiuWCd) | [Take It Easy](https://open.spotify.com/album/64q2E4RwaEu3PocVll20Z5) | 2:51 | 2023-02-12 | 2023-03-06 |
+| [Tell me](https://open.spotify.com/track/4sA6avh0tLf4Ma2p78ghAG) | [MøRì](https://open.spotify.com/artist/69EAI8AeVwU0HZ2FF4AFaL) | [Tell me](https://open.spotify.com/album/4UoVeSfhYZCAZayXsDq9Xb) | 4:11 | 2026-02-11 |  |
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-04-30 | 2023-05-23 |
 | [The Biznes](https://open.spotify.com/track/5DCSFGxrLMYYio1NKPNEO6) | [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [Rave Grave](https://open.spotify.com/album/5h4wJIZVn43IZVTJxMsete) | 3:27 | 2023-07-02 | 2023-07-31 |
 | [The Chant](https://open.spotify.com/track/5YgEBkuwbKpSU14XiVkG59) | [Danner \(US\)](https://open.spotify.com/artist/3AuIQd8biRyI5g4FiwO8AI) | [The Chant](https://open.spotify.com/album/5y0nLRNNz8vBAHueIu6gsx) | 2:51 | 2023-01-29 | 2023-02-20 |

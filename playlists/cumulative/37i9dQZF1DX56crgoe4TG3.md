@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-316 songs - 20 hr 34 min
+317 songs - 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Pinball Wizard](https://open.spotify.com/track/61PS7u4z4JCXfN6VdVbcjT) | [The HillBenders](https://open.spotify.com/artist/2Igp5ty1Smn5hqFrVQmmXE) | [Tommy: A Bluegrass Opry](https://open.spotify.com/album/5ALFsEy1iZE8Megoyj77IW) | 3:43 | 2022-05-27 | 2024-04-19 |
 | [Please Please Please](https://open.spotify.com/track/62rAUmM1YqjhtQj1vLL5j0) | [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R), [Sierra Carson](https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK), [Kylie Spence](https://open.spotify.com/artist/4lLrClIyojd3zSX4k1aA5a) | [Please Please Please](https://open.spotify.com/album/30ArfdJ5XKYeb2J9Kp0Qfc) | 3:07 | 2025-01-31 |  |
 | [Possum](https://open.spotify.com/track/1LiPnexHN9Su77zJ3Uz4gO) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Possum](https://open.spotify.com/album/5jwhyufmOOJwAkZaKDDxkd) | 5:33 | 2024-09-27 |  |
+| [Pretty Woman](https://open.spotify.com/track/3wITrtynoofk1CNLgy2XOh) | [Frank Solivan](https://open.spotify.com/artist/4G7z1AB9nKUdBBHxaHIfa9), [Del McCoury](https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv) | [Family, Friends & Heroes](https://open.spotify.com/album/4jEA27ToawCGCUH7GZUkH0) | 5:04 | 2026-02-04 |  |
 | [Pride \(In The Name Of Love\)](https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4), [Del McCoury](https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv) | [Up On The Ridge](https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ) | 4:09 | 2026-02-04 |  |
 | [Pursuit of Happiness](https://open.spotify.com/track/1geAoz2QzafYdcLYTTlCzB) | [Honeybucket](https://open.spotify.com/artist/1ZBAifL7sUBjEf6d2hzx0e) | [Stompin' Grounds](https://open.spotify.com/album/0PwVhOH4LzW48zVN6bisFz) | 3:33 | 2021-08-20 | 2024-01-20 |
 | [Pursuit of Happiness](https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW) | [Tray Wellington Band](https://open.spotify.com/artist/4cA3qHzBqSEeeiB9oYzLIp), [Tray Wellington](https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh) | [Pursuit of Happiness](https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq) | 5:33 | 2023-05-05 |  |
@@ -234,7 +235,7 @@
 | [She Thinks I Still Care](https://open.spotify.com/track/6dLMYvXk5oBhxACr0PNvB0) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [It's Just Me](https://open.spotify.com/album/2n3PcUTqeReZYL980QVYOF) | 2:35 | 2023-03-31 | 2024-06-14 |
 | [She's A Rainbow](https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:49 | 2021-08-20 |  |
 | [Simple Twist Of Fate](https://open.spotify.com/track/6Y5In9hWevpuyuGNqb6tXn) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz) | [Simple Twist Of Fate](https://open.spotify.com/album/7rQP96czGfr6EIzmkBomzm) | 4:58 | 2023-03-24 | 2025-02-01 |
-| [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/70OBOxYnVHt07Vgv1KgjKu) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [The Cleverlys](https://open.spotify.com/album/5XpJpEeeYJw0s8Q95T3Y6O) | 4:30 | 2021-08-20 |  |
+| [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/70OBOxYnVHt07Vgv1KgjKu) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [The Cleverlys](https://open.spotify.com/album/5XpJpEeeYJw0s8Q95T3Y6O) | 4:30 | 2021-08-20 | 2026-02-12 |
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/5YafubHfFZDXSZUtCLGRVX) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:15 | 2022-04-29 | 2024-05-11 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0) | [Mandowar](https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks) | [Fistful Of Bullets](https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk) | 4:31 | 2026-02-04 |  |
 | [Snowbird](https://open.spotify.com/track/7F1QwL7cYL8VrV2kW5iRI5) | [Special Consensus](https://open.spotify.com/artist/1cKp8EUuOryR1PEOAnGWNt), [Claire Lynch](https://open.spotify.com/artist/00eldNtAqcdLF9adKlyFZf) | [Snowbird](https://open.spotify.com/album/3T43QsJmuywzsRApuCVs2L) | 3:32 | 2023-04-28 | 2024-06-14 |

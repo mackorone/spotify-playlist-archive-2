@@ -218,7 +218,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 230040,
       "name": "Ale",
       "url": "https://open.spotify.com/track/2jWcAQf0CYiZCxGfTGx1hd"
@@ -814,7 +814,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 170738,
       "name": "Bounce that",
       "url": "https://open.spotify.com/track/6n96W9LX01FU9igJpSKX3O"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 237333,
       "name": "BWAN",
       "url": "https://open.spotify.com/track/1OfeNfIgZikKba6d9x9L6e"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 204000,
       "name": "COMEBACK (Pabalik sa'yo)",
       "url": "https://open.spotify.com/track/1FQ3irBgqkO1nq9pP08z2y"
@@ -1703,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Way to Your Heart",
+        "url": "https://open.spotify.com/album/5kIb1ZDkv9a1Bty1IyjGYy"
+      },
+      "artists": [
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249186,
+      "name": "Hanggang Ngayon",
+      "url": "https://open.spotify.com/track/1iOnvUO5VCeuxH7VwzclrQ"
+    },
+    {
+      "album": {
         "name": "Hanggang Sa Buwan",
         "url": "https://open.spotify.com/album/0PelgSujJt1F8xYwrOkY48"
       },
@@ -1934,7 +1952,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 292285,
       "name": "Hiraya Manawari",
       "url": "https://open.spotify.com/track/5Lvud3aK0AjltXJEW7sHGV"
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 233728,
       "name": "I Need You More Today",
       "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
@@ -3010,10 +3028,32 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 199903,
       "name": "Lalim",
       "url": "https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd"
+    },
+    {
+      "album": {
+        "name": "Lapit Kapit",
+        "url": "https://open.spotify.com/album/7saglGbQnqjQ5eytjWnqas"
+      },
+      "artists": [
+        {
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+        },
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177517,
+      "name": "Lapit Kapit",
+      "url": "https://open.spotify.com/track/1bHr7b32kUEQMwv159ZB4y"
     },
     {
       "album": {
@@ -3255,6 +3295,28 @@
     },
     {
       "album": {
+        "name": "Luv Somebody",
+        "url": "https://open.spotify.com/album/7s2PwBaGTKRpM1ynTLrsCm"
+      },
+      "artists": [
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        },
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Luv Somebody",
+      "url": "https://open.spotify.com/track/0O9kmQYaJNHowuIvUfIX88"
+    },
+    {
+      "album": {
         "name": "M.I.N.O.Y.",
         "url": "https://open.spotify.com/album/78F8Zvv1TZRSlugLNjlnMd"
       },
@@ -3342,7 +3404,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-04",
+      "date_removed": null,
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy"
@@ -3378,7 +3440,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 281325,
       "name": "Makapiling Ka",
       "url": "https://open.spotify.com/track/3u7UxgPU03AwifvvRSqU8o"
@@ -3537,6 +3599,24 @@
     },
     {
       "album": {
+        "name": "MATIK",
+        "url": "https://open.spotify.com/album/0WKn0lixjdw46WHmvdRqcA"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "MATIK",
+      "url": "https://open.spotify.com/track/6m8zHi1isEk6pSPN7j1ogR"
+    },
+    {
+      "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/00KkDGF5CMfQo6e86x58cu"
       },
@@ -3646,7 +3726,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 265677,
       "name": "Miss Miss",
       "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
@@ -3794,7 +3874,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 201375,
       "name": "muscle memory",
       "url": "https://open.spotify.com/track/33Otu6ABPu5qc0vApuX6wJ"
@@ -3812,7 +3892,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-03",
+      "date_removed": null,
       "duration_ms": 270400,
       "name": "Museo",
       "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
@@ -4046,7 +4126,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 210354,
       "name": "Nangangamba",
       "url": "https://open.spotify.com/track/1dcNEEtODRVZEevQ20Cgmy"
@@ -4584,7 +4664,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 197933,
       "name": "Pakundangan (feat. Hev Abi)",
       "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
@@ -4606,7 +4686,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 241000,
       "name": "Palagi - TJxKZ Version",
       "url": "https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG"
@@ -4920,7 +5000,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 262972,
       "name": "Para Sa Sarili",
       "url": "https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e"
@@ -5046,7 +5126,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 230300,
       "name": "Patlang",
       "url": "https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf"
@@ -5086,7 +5166,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 214940,
       "name": "pelikula",
       "url": "https://open.spotify.com/track/0oJfnh4VKNasIDgzn9dUU6"
@@ -5158,7 +5238,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 238526,
       "name": "Piyesa",
       "url": "https://open.spotify.com/track/4Dqxx2U0SSQvWnWcsQ3iop"
@@ -5230,7 +5310,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 298000,
       "name": "Pwede Ka Ba?",
       "url": "https://open.spotify.com/track/1RNCibCOmM49zenUyBXSLy"
@@ -5436,7 +5516,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 190124,
       "name": "Sa Akin",
       "url": "https://open.spotify.com/track/2v45munevlvd1txsa6cNRx"
@@ -5472,7 +5552,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 288189,
       "name": "Sa Susunod na Habang Buhay",
       "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
@@ -5862,7 +5942,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 207272,
       "name": "Sige Pa",
       "url": "https://open.spotify.com/track/7fvAr2qKRMrsyHszjMvHFN"
@@ -6046,7 +6126,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 236923,
       "name": "Star Song",
       "url": "https://open.spotify.com/track/5TGaPefQfu1Z2exPWU96Vf"
@@ -6350,7 +6430,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 256920,
       "name": "Tahan Na",
       "url": "https://open.spotify.com/track/4JFTGCfjfQsWDEXVt7M52F"
@@ -6574,7 +6654,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 258044,
       "name": "Tatanggapin",
       "url": "https://open.spotify.com/track/2FuGXGyDh6slMhEjNP7lXf"
@@ -6956,7 +7036,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 172000,
       "name": "WAG KA MUNANG UMUWI",
       "url": "https://open.spotify.com/track/6Ca0Ug48rEjQglEZ9SuBsx"
@@ -7162,7 +7242,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 192597,
       "name": "Where Dreams Fly",
       "url": "https://open.spotify.com/track/042SGkqIdbgPDsdIpYhn0b"

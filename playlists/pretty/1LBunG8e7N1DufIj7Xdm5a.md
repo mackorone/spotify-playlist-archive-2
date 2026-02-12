@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,078 songs - 9 day 0 hr 27 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,080 songs - 9 day 0 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4086,5 +4086,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4076 | [Witness of the Lie](https://open.spotify.com/track/3lsXyuXyBDQSgKVhEwem65) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:06 |
 | 4077 | [Come bambini](https://open.spotify.com/track/0jdgV6W0axQL8OcIZR6TEX) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [R.A.L.P.H.](https://open.spotify.com/album/4Uxxl0SI4UaaBCmSnofMrG) | 3:01 |
 | 4078 | [Kto pyta nie błądzi](https://open.spotify.com/track/0Y40l5gCn7dgKBhNgBrw2C) | [KRiSU Krzysztof Bańka](https://open.spotify.com/artist/73m6LntQaeyAemA4YFLwp4) | [Zatrzymane](https://open.spotify.com/album/7jb1dGdbuTdmiQpnzmOsEJ) | 2:27 |
+| 4079 | [Vigilia](https://open.spotify.com/track/1yDtMXTP3T5RQFxRS2Ez6O) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Soulslike](https://open.spotify.com/album/1hU2zINgJZfvnSTo65Yb9T) | 4:52 |
+| 4080 | [Henuza](https://open.spotify.com/track/2NzCwz5yoAwnU7s5W3qH3m) | [Romiche](https://open.spotify.com/artist/0xEnsODJYTD6y7fq7396k6) | [Broken Syntax Tapes](https://open.spotify.com/album/1xJ6RDh4GTPYct7EqDIsmO) | 4:06 |
 
-Snapshot ID: `AAAHd+V1VGDaUXvpl+FldN6ZIaSP2uQT`
+Snapshot ID: `AAAHeaZbofVzqkC3kywV1K67/cw/XvGK`

@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1608444,
+  "num_followers": 1608517,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/4eYA7Zv64Zf4TrE9js5VLo"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 120461,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 215930,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/4eYA7Zv64Zf4TrE9js5VLo"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 120461,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
+        "name": "Strange",
+        "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 224731,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
         "name": "Hey Boy Hey Girl (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 200458,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/65UJBXpyTmCV1DPVz5dfBY"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 224731,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/4b0mIhIQikJFdfl3dvvWD6"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1307,22 +1307,22 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "Before The Storm",
-        "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
+        "name": "Never Be The Same",
+        "url": "https://open.spotify.com/album/1kHn05ayh73VUcRhot9lGs"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
         },
         {
-          "name": "Rinzen",
-          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
+          "name": "RHODES",
+          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
         }
       ],
-      "duration_ms": 369798,
-      "name": "Before The Storm",
-      "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
+      "duration_ms": 218095,
+      "name": "Never Be The Same",
+      "url": "https://open.spotify.com/track/0IuHs8T0ZqUeJmhO04LLcl"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "Never Be The Same",
-        "url": "https://open.spotify.com/album/1kHn05ayh73VUcRhot9lGs"
+        "name": "Before The Storm",
+        "url": "https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS"
       },
       "artists": [
         {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         },
         {
-          "name": "RHODES",
-          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+          "name": "Rinzen",
+          "url": "https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI"
         }
       ],
-      "duration_ms": 218095,
-      "name": "Never Be The Same",
-      "url": "https://open.spotify.com/track/0IuHs8T0ZqUeJmhO04LLcl"
+      "duration_ms": 369798,
+      "name": "Before The Storm",
+      "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "London To Buenos Aires",
-        "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        }
-      ],
-      "duration_ms": 185943,
-      "name": "London To Buenos Aires",
-      "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
         "name": "Tears Don\u2019t Fall",
         "url": "https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 214323,
       "name": "Tears Don\u2019t Fall",
       "url": "https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
+        "name": "London To Buenos Aires",
+        "url": "https://open.spotify.com/album/23voORn42hd5caxnLbTJwy"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        }
+      ],
+      "duration_ms": 185943,
+      "name": "London To Buenos Aires",
+      "url": "https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "nocturnal",
-        "url": "https://open.spotify.com/album/6GNVg7nMm1kKw8kS2MNcOg"
-      },
-      "artists": [
-        {
-          "name": "Aaron Hibell",
-          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
-        }
-      ],
-      "duration_ms": 215734,
-      "name": "nocturnal",
-      "url": "https://open.spotify.com/track/0zpqJjeoccMVhzGuMqqz6G"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
         "name": "Seventeen",
         "url": "https://open.spotify.com/album/18n4STVyi9RQAlFSYINDf3"
       },
@@ -1619,22 +1603,18 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/6w6NUmlb68EbM1AyjEIoXS"
+        "name": "nocturnal",
+        "url": "https://open.spotify.com/album/6GNVg7nMm1kKw8kS2MNcOg"
       },
       "artists": [
         {
-          "name": "Gaullin",
-          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
-        },
-        {
-          "name": "TRFN",
-          "url": "https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp"
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
         }
       ],
-      "duration_ms": 135238,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/7koLP2DMvE3rmvFfjweYTb"
+      "duration_ms": 215734,
+      "name": "nocturnal",
+      "url": "https://open.spotify.com/track/0zpqJjeoccMVhzGuMqqz6G"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1655,6 +1635,26 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/6w6NUmlb68EbM1AyjEIoXS"
+      },
+      "artists": [
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "TRFN",
+          "url": "https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp"
+        }
+      ],
+      "duration_ms": 135238,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/7koLP2DMvE3rmvFfjweYTb"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
       },
@@ -1667,6 +1667,26 @@
       "duration_ms": 207638,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1691,26 +1711,6 @@
       "duration_ms": 174705,
       "name": "Heard It All Before",
       "url": "https://open.spotify.com/track/0myWiaL4haQPN2uPZvVwc2"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/4uR2mPMozlwPnL65llfXh9"
+      },
+      "artists": [
+        {
+          "name": "Mees Salom\u00e9",
+          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
+        },
+        {
+          "name": "Tyler Mann",
+          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Into The Light",
+      "url": "https://open.spotify.com/track/7pxBdeweQKCFLnXOIDLVz2"
+    },
+    {
+      "added_at": "2026-02-06 05:00:48",
+      "album": {
         "name": "Wherever You Go",
         "url": "https://open.spotify.com/album/4Ej2MKE2tZvLyFiD4XaUHT"
       },
@@ -1835,34 +1855,6 @@
       "duration_ms": 197272,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
-    },
-    {
-      "added_at": "2026-02-06 05:00:48",
-      "album": {
-        "name": "Getting Lost",
-        "url": "https://open.spotify.com/album/0qdinh0sxfnzRxRa9mzgeB"
-      },
-      "artists": [
-        {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        },
-        {
-          "name": "GRATIFY",
-          "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
-        },
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Getting Lost",
-      "url": "https://open.spotify.com/track/71IxdxUXlRpBrRASkihDZ4"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1903,22 +1895,30 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "Lost In Light",
-        "url": "https://open.spotify.com/album/7fIGGmEiq5Lr8ZTYSdvP4m"
+        "name": "Getting Lost",
+        "url": "https://open.spotify.com/album/0qdinh0sxfnzRxRa9mzgeB"
       },
       "artists": [
         {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
         },
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "GRATIFY",
+          "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
+        },
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
         }
       ],
-      "duration_ms": 192500,
-      "name": "Lost In Light",
-      "url": "https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv"
+      "duration_ms": 161200,
+      "name": "Getting Lost",
+      "url": "https://open.spotify.com/track/71IxdxUXlRpBrRASkihDZ4"
     },
     {
       "added_at": "2026-02-06 05:00:48",
@@ -1943,22 +1943,22 @@
     {
       "added_at": "2026-02-06 05:00:48",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/4uR2mPMozlwPnL65llfXh9"
+        "name": "Lost In Light",
+        "url": "https://open.spotify.com/album/7fIGGmEiq5Lr8ZTYSdvP4m"
       },
       "artists": [
         {
-          "name": "Mees Salom\u00e9",
-          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
         },
         {
-          "name": "Tyler Mann",
-          "url": "https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Into The Light",
-      "url": "https://open.spotify.com/track/7pxBdeweQKCFLnXOIDLVz2"
+      "duration_ms": 192500,
+      "name": "Lost In Light",
+      "url": "https://open.spotify.com/track/6OMjEqdLABiCa42LtYMSUv"
     },
     {
       "added_at": "2026-02-06 05:00:48",

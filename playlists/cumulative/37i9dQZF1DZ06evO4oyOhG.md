@@ -4,7 +4,7 @@
 
 > This is CHiCO with HoneyWorks\. The essential tracks, all in one playlist.
 
-136 songs - 8 hr 52 min
+138 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,9 @@
 | [ウルフ](https://open.spotify.com/track/6uqotCPKOdATeDLtprU30U) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 3:51 | 2023-11-10 | 2024-01-13 |
 | [ウルフ \-instrumental\-](https://open.spotify.com/track/0Nlj7jMEmqFdgPpf5t4FHz) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [カヌレとウルフ](https://open.spotify.com/album/2o1EjieggZ9VGamcRueZWT) | 3:49 | 2022-06-09 | 2022-10-13 |
 | [ウルフ \-instrumental\-](https://open.spotify.com/track/4FeujcOuckire7sQ5vgnvb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Canele & Wolf](https://open.spotify.com/album/4ww27FAZJciiuIBlTou7R2) | 3:49 | 2023-09-21 | 2024-01-13 |
-| [カヌレ](https://open.spotify.com/track/0xdYMLOVH0DPNNg1zPofzO) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるｉの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:07 | 2022-06-09 |  |
+| [カヌレ](https://open.spotify.com/track/0xdYMLOVH0DPNNg1zPofzO) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるｉの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:07 | 2022-06-09 | 2026-02-12 |
 | [カヌレ](https://open.spotify.com/track/595anRMEdepv0I3YG8FNVK) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [カヌレとウルフ](https://open.spotify.com/album/1MKifVPdcTTatXTfEiXlj9) | 4:09 | 2023-09-21 | 2024-01-13 |
+| [カヌレ](https://open.spotify.com/track/5umW5kLDsfpqiSkORbyVbA) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [カヌレとウルフ](https://open.spotify.com/album/2o1EjieggZ9VGamcRueZWT) | 4:09 | 2026-02-12 |  |
 | [カヌレ \-instrumental\-](https://open.spotify.com/track/3mGodRpESvLTpOMgnG6Pv7) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Canele & Wolf](https://open.spotify.com/album/4ww27FAZJciiuIBlTou7R2) | 4:09 | 2023-09-21 | 2024-01-13 |
 | [キララ](https://open.spotify.com/track/3KQX9qvO7tkQ0ItWj1BifL) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Watashiwo Someru Aino Uta](https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv) | 3:51 | 2023-09-21 | 2023-12-18 |
 | [ギミギミコール](https://open.spotify.com/track/02z7UCeHtpV17KwmgbytuE) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Skypeace](https://open.spotify.com/artist/67B3zxnhGAjiz0OVdPidXk) | [瞬く世界にｉを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 4:05 | 2023-09-21 | 2024-01-13 |
@@ -55,6 +56,7 @@
 | [スーパーアイドル\(笑\)](https://open.spotify.com/track/6pU09WpP6VxX8mPYd3hxo1) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [iは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 4:14 | 2022-11-05 | 2023-09-22 |
 | [ツインズ](https://open.spotify.com/track/03NKMpabqVFe6hy5UUcs5j) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:57 | 2022-06-11 | 2023-09-22 |
 | [ツインズ](https://open.spotify.com/track/6fYZ2UNLothZLHd8B1zfrS) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるiの歌](https://open.spotify.com/album/56h6iaj51zfHqPMF9tVmwg) | 3:57 | 2023-09-25 | 2023-11-11 |
+| [ツノルキモチ](https://open.spotify.com/track/6eWvBQmcStWDZhZWOho4Jz) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるｉの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 4:13 | 2026-02-12 |  |
 | [ノスタルジックレインフォール](https://open.spotify.com/track/5mwLIUyGIg6QioPbyHgt2s) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [私を染めるｉの歌](https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT) | 3:58 | 2022-06-09 |  |
 | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/track/53HiUwUvy5qmTFngDhCZre) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/album/5yBSeYrYn3NPpMebZ4GanO) | 1:30 | 2023-09-21 | 2024-01-13 |
 | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/track/5hlg8974tilNuXIrwWiVKH) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ノスタルジックレインフォール 【TVsize】](https://open.spotify.com/album/15DJ4J10gLGb4eELHikgB1) | 1:30 | 2022-06-09 |  |
@@ -75,7 +77,7 @@
 | [ヒロイン育成計画](https://open.spotify.com/track/4ull1xmD0JWXKdlgYSfpOj) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [瞬く世界にｉを揺らせ](https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9) | 3:40 | 2022-06-09 |  |
 | [ビビっとラブ](https://open.spotify.com/track/1PLYYZ310c6Tp2Yem4nlUA) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [ｉは自由で、縛れない。](https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms) | 3:55 | 2024-11-18 |  |
 | [ビビっとラブ](https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [ビビっとラブ](https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH) | 3:55 | 2022-06-09 | 2024-11-18 |
-| [ビビっとラブ \-CHiCO ぼっち ver.\-](https://open.spotify.com/track/2m81ZTXEOshoGwJakzaq4Y) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ビビっとラブ \(Special Edition\)](https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU) | 3:54 | 2022-06-09 |  |
+| [ビビっとラブ \-CHiCO ぼっち ver.\-](https://open.spotify.com/track/2m81ZTXEOshoGwJakzaq4Y) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [ビビっとラブ \(Special Edition\)](https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU) | 3:54 | 2022-06-09 | 2026-02-12 |
 | [プライド革命](https://open.spotify.com/track/7uD3cE6aiSFKdJO30k2vbZ) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [Sekai Ha i Ni Michiteiru](https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb) | 3:53 | 2023-09-21 | 2024-01-13 |
 | [プライド革命](https://open.spotify.com/track/02me5PrRaF8baUbyiJ0bv7) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ) | 3:55 | 2023-11-10 | 2024-01-03 |
 | [プライド革命](https://open.spotify.com/track/3CrLoLfSwNqZGbSDupVUdu) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はｉに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 3:55 | 2022-06-09 |  |

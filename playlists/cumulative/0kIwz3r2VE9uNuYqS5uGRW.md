@@ -4,7 +4,7 @@
 
 > 
 
-150 songs - 7 hr 48 min
+151 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [System Shock](https://open.spotify.com/track/30i9LhCnrEH1RUWs5b9exA) | [Complex C](https://open.spotify.com/artist/1kLsASVDGo2Qt8oQcQcQY8) | [System Shock](https://open.spotify.com/album/5fvf3AMyY6MLrNp3qq7hIM) | 2:54 | 2025-12-21 |  |
 | [That One Girl](https://open.spotify.com/track/77uc3YwRFqWcTJX9GquTMw) | [Pablo Santana](https://open.spotify.com/artist/40g1dctGAaTqem3oED2j8l) | [That One Girl](https://open.spotify.com/album/0p9Ckyg7TybvPbE5vgvAux) | 2:13 | 2025-03-12 |  |
 | [The Good, The Bad and The Electric](https://open.spotify.com/track/06lGeazjV3Il8dEtfRo7Jd) | [Chance the Closer](https://open.spotify.com/artist/2N8BKNbDpSuVVZNHKvQN40) | [The Good, The Bad and The Electric](https://open.spotify.com/album/7Mq3ksUhsVs1I48vh9kP9a) | 3:12 | 2025-12-21 |  |
+| [The Last Song Of The Moon](https://open.spotify.com/track/0GZBewpkqjQHewlpGod48N) | [Le Monk](https://open.spotify.com/artist/2BX1nNrrRMfJCYvs3RwDX3) | [The Last Song Of The Moon](https://open.spotify.com/album/4yGHbD5qjrg5jIw7UCeeEv) | 3:06 | 2026-02-11 |  |
 | [the mall closed down](https://open.spotify.com/track/1y6T0l16UIX6R4YmRNWziA) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [the mall closed down](https://open.spotify.com/album/4DoBmOddEZzeypxWIrUdAZ) | 5:37 | 2025-05-07 |  |
 | [The Vastness of Consciousness \- 432hz Version](https://open.spotify.com/track/5wt45JmYqJ3NdYhzj1Bf2A) | [Violare Fobia](https://open.spotify.com/artist/0oZKREVpE7cVrBeliDpnWN) | [The Vastness of Consciousness \(432hz Version\)](https://open.spotify.com/album/6sxLNMlL8Cf7ibdTfdFCK7) | 3:13 | 2025-12-23 |  |
 | [The Weekender](https://open.spotify.com/track/1OnHezJi7V03g7Kk1DuF3M) | [Neu Yuck](https://open.spotify.com/artist/6T1u8DVyqblZvGOSaF7gUd) | [The Weekender](https://open.spotify.com/album/75g24joK0xD27tcJCOMGFZ) | 2:28 | 2025-10-01 |  |

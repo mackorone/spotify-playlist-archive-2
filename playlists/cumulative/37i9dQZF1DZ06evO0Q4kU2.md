@@ -4,7 +4,7 @@
 
 > This is Gabríel Ólafs\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 7 min
+92 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Memory Of A World](https://open.spotify.com/track/6OEqFQ3ci72PicREg6m2my) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Daniela Mars](https://open.spotify.com/artist/71r1FG65OQEQiR6Tk5c1bJ) | [Polar: Abyss](https://open.spotify.com/album/2a4WPp12TfPTIhzqFcpRaa) | 4:12 | 2026-01-21 | 2026-01-28 |
 | [Monolith at Dusk](https://open.spotify.com/track/0gaNrjB76AVzLewpA0q7r5) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 2:00 | 2025-08-27 | 2026-01-30 |
 | [Mosi](https://open.spotify.com/track/4RBLDWbV6cDTJj3ToejEED) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/2L6ycFm7EmNupQkxgmdwEq) | 1:58 | 2025-03-04 |  |
+| [Nightfall](https://open.spotify.com/track/2Ko0USILw3ivKoPgUykx5P) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar \(Ultimate\)](https://open.spotify.com/album/4rjesFoArMdjqT21cE56qn) | 1:22 | 2026-02-12 |  |
 | [Nightfall](https://open.spotify.com/track/4BhKib1RVbzLCRmO5cq6KC) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 1:22 | 2025-08-31 | 2025-09-21 |
 | [Nightsong](https://open.spotify.com/track/6FqfoT3EBIhUDBBvwLtZyQ) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Lullabies for Piano and Cello \(Deluxe\)](https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3) | 3:13 | 2025-11-09 | 2025-11-26 |
 | [Nightsong](https://open.spotify.com/track/47KP0BnIB6RV5gh7LA1UNc) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Nightsong](https://open.spotify.com/album/1Nc97JE3Cxr7DDakDlTAtW) | 3:13 | 2025-03-04 | 2025-11-09 |
@@ -62,7 +63,7 @@
 | [Ocean Sonata For Harp](https://open.spotify.com/track/2BtNSFBVrY9QTSPwGCFJ7N) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Ocean Sonata For Harp](https://open.spotify.com/album/6fCXKF0TxDdjQJjPNvpbw0) | 1:59 | 2025-03-04 |  |
 | [Ocean Variation](https://open.spotify.com/track/3Qr0Ny1ZksAnCBiGOM5tBG) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Ocean Variation](https://open.spotify.com/album/5TfoPVjU9j0mlP5eqfgL5z) | 1:48 | 2025-06-22 |  |
 | [Ocean Variation](https://open.spotify.com/track/7ctmcDZTaWfbaWBQrE4L7G) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 1:48 | 2025-08-30 | 2025-10-11 |
-| [Ocean Variation II](https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 1:55 | 2025-09-02 |  |
+| [Ocean Variation II](https://open.spotify.com/track/1ql9vbXw8QSYvJfudDpmuj) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Polar: Dusk](https://open.spotify.com/album/1sGm9UPHtHbnoHhmyhY7td) | 1:55 | 2025-09-02 | 2026-02-12 |
 | [Ocean Variation II](https://open.spotify.com/track/6JVP9fK785jsoAfckPHd56) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Ocean Variation II](https://open.spotify.com/album/73mAxVVAg6kN8allcaHGaW) | 1:55 | 2025-07-13 | 2025-09-02 |
 | [Oríensa](https://open.spotify.com/track/467rzaIMT7UEmkMGlJM8ho) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Oríensa](https://open.spotify.com/album/2lFHLdQwLpGeDJZm0WHtRM) | 2:23 | 2025-03-04 | 2025-12-31 |
 | [Oríensa](https://open.spotify.com/track/3Jbzf2RqGzxmkKs1OVPIHS) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Lullabies for Piano and Cello \(Deluxe\)](https://open.spotify.com/album/0V9codAUbAzXJSD1c5jkk3) | 2:23 | 2025-12-31 |  |

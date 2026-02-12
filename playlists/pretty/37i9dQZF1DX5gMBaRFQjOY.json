@@ -1,67 +1,47 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 606948,
+  "num_followers": 607165,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJdu59OrO6//JvWTs2aaHEkozWlk",
+  "snapshot_id": "AAAAAG0w50uMSXk5b8oak6gmPZRZ2ioH",
   "tracks": [
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Always & Forever",
-        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 212640,
-      "name": "Forever and Ever, Amen",
-      "url": "https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx"
+      "duration_ms": 263760,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3kwl00I9hJSfwfWc4T3NAx"
+        "name": "Delta Dawn",
+        "url": "https://open.spotify.com/album/3iyNh3uhudXLW5tNLapDZS"
       },
       "artists": [
         {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        },
-        {
-          "name": "The Jordanaires",
-          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 162133,
-      "name": "Crazy - Single Version",
-      "url": "https://open.spotify.com/track/4DuBNU1r50XEv4dvsrQcpY"
+      "duration_ms": 178400,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/62qNdSlhFznQD0gHpCGrtw"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Strait From The Heart",
-        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Amarillo By Morning",
-      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
@@ -81,7 +61,23 @@
       "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
+        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
+      },
+      "artists": [
+        {
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
@@ -97,7 +93,23 @@
       "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Forever and Ever, Amen",
+      "url": "https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Gambler",
         "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
@@ -113,23 +125,7 @@
       "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Poems, Prayers and Promises",
-        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 193937,
-      "name": "Take Me Home, Country Roads - Original Version",
-      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "With His Hot and Blue Guitar",
         "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
@@ -149,23 +145,27 @@
       "url": "https://open.spotify.com/track/1Vw5YUBbtlUmkhEnee55Zo"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Gunfighter Ballads And Trail Songs",
-        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3kwl00I9hJSfwfWc4T3NAx"
       },
       "artists": [
         {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
         }
       ],
-      "duration_ms": 235733,
-      "name": "Big Iron",
-      "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
+      "duration_ms": 162133,
+      "name": "Crazy - Single Version",
+      "url": "https://open.spotify.com/track/4DuBNU1r50XEv4dvsrQcpY"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
@@ -181,7 +181,55 @@
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 193937,
+      "name": "Take Me Home, Country Roads - Original Version",
+      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Strait From The Heart",
+        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Amarillo By Morning",
+      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Big Iron",
+      "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Bellamy Brothers",
         "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
@@ -197,23 +245,7 @@
       "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "I'm Countryfied",
         "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
@@ -229,39 +261,7 @@
       "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
-      },
-      "artists": [
-        {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
-      },
-      "artists": [
-        {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
-        }
-      ],
-      "duration_ms": 285797,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Stand By Your Man",
         "url": "https://open.spotify.com/album/1m4lP2IzV8Z1oEUYMHMClr"
@@ -277,23 +277,23 @@
       "url": "https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Rhinestone Cowboy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
       },
       "artists": [
         {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 194453,
-      "name": "Rhinestone Cowboy",
-      "url": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0"
+      "duration_ms": 174640,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
@@ -309,23 +309,23 @@
       "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Diggin' Up Bones",
-      "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
+      "duration_ms": 285797,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2"
@@ -341,7 +341,39 @@
       "url": "https://open.spotify.com/track/6zQnzN80m28yNfz544YBI2"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Rhinestone Cowboy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "Rhinestone Cowboy",
+      "url": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Diggin' Up Bones",
+      "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Ol' Waylon",
         "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
@@ -361,7 +393,7 @@
       "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Expressions",
         "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
@@ -377,7 +409,7 @@
       "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Million Mile Reflections",
         "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
@@ -393,23 +425,7 @@
       "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "On the Other Hand",
-      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Back Home Again",
         "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
@@ -425,7 +441,23 @@
       "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 186346,
+      "name": "On the Other Hand",
+      "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Essential Johnny Cash",
         "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
@@ -441,7 +473,7 @@
       "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Wichita Lineman (Remastered)",
         "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
@@ -457,39 +489,7 @@
       "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Rose Garden",
-        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
-      },
-      "artists": [
-        {
-          "name": "Lynn Anderson",
-          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Rose Garden",
-      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "I Believe In You",
-        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
-      },
-      "artists": [
-        {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
@@ -505,7 +505,39 @@
       "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Rose Garden",
+        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
+      },
+      "artists": [
+        {
+          "name": "Lynn Anderson",
+          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Rose Garden",
+      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Rose Colored Glasses",
         "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
@@ -521,39 +553,7 @@
       "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "I Am What I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "He Stopped Loving Her Today",
-      "url": "https://open.spotify.com/track/1q0wCfrE9eGFMzS2g8aVnx"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Guitar Town",
-        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 155266,
-      "name": "Guitar Town",
-      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2Fk1fXwRNqdEdcfLuCrGxl"
@@ -569,7 +569,39 @@
       "url": "https://open.spotify.com/track/0BD9I8rnTQC43yNwEuaHSL"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "I Am What I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "He Stopped Loving Her Today",
+      "url": "https://open.spotify.com/track/1q0wCfrE9eGFMzS2g8aVnx"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Guitar Town",
+        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 155266,
+      "name": "Guitar Town",
+      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "We Must Believe In Magic",
         "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
@@ -585,7 +617,7 @@
       "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Mama Tried/ Pride In What I Am",
         "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "One Piece At A Time",
         "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
@@ -621,7 +653,7 @@
       "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Coat Of Many Colors",
         "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
@@ -637,7 +669,7 @@
       "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Louisiana Woman, Mississippi Man",
         "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
@@ -657,7 +689,7 @@
       "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Put Yourself In My Place",
         "url": "https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz"
@@ -673,7 +705,7 @@
       "url": "https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Oak Ridge Boys Have Arrived",
         "url": "https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC"
@@ -689,7 +721,7 @@
       "url": "https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "George Strait's Greatest Hits, Volume Two",
         "url": "https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad"
@@ -705,7 +737,7 @@
       "url": "https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Memorial Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Guitars, Cadillacs, Etc., Etc.",
         "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
@@ -737,23 +769,7 @@
       "url": "https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
-        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
-      },
-      "artists": [
-        {
-          "name": "Jeannie C. Riley",
-          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Harper Valley P.T.A.",
-      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "David Allan Coe - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Number One Hits",
         "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
@@ -785,23 +801,7 @@
       "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Moanin' The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "I'm So Lonesome I Could Cry",
-      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Best Of Jimmy Dean",
         "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Tammy's Greatest Hits",
         "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
@@ -833,7 +833,23 @@
       "url": "https://open.spotify.com/track/5f38UWziNmvOjdMHvwxsL9"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Moanin' The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "I'm So Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "I Will Stand By You - The Essential Collection",
         "url": "https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Conway Twitty Sings",
         "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
@@ -865,23 +881,7 @@
       "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Honky Tonkin (Expanded Undubbed Edition)",
-        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "Jambalaya (On The Bayou)",
-      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Down Every Road 1962-1994",
         "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
@@ -913,7 +913,23 @@
       "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Walking the Line",
         "url": "https://open.spotify.com/album/2BBkfCE5HqlPagBdLmBTDw"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/1A6P8IxzNyBRsQualaNXNY"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
@@ -949,7 +965,7 @@
       "url": "https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Charley Pride's 10th Album",
         "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
@@ -965,7 +981,7 @@
       "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
@@ -985,7 +1001,7 @@
       "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Dance Album",
         "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
@@ -1001,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Why Not Me",
         "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
@@ -1017,7 +1033,7 @@
       "url": "https://open.spotify.com/track/2cD3pqgT9Yn4GUcGflMYdk"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "This Way Is My Way",
         "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
@@ -1033,23 +1049,7 @@
       "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "The Essential Charley Pride",
-        "url": "https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 123133,
-      "name": "Kiss an Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
@@ -1069,7 +1069,23 @@
       "url": "https://open.spotify.com/track/6zFsz86nAj5gcvzyVqNL3k"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "The Essential Charley Pride",
+        "url": "https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 123133,
+      "name": "Kiss an Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Tribute To Tradition",
         "url": "https://open.spotify.com/album/4Mngcv6ExjREiOqSH8vG1D"
@@ -1133,23 +1149,7 @@
       "url": "https://open.spotify.com/track/5KMWwtJv3Ll2ROZfMerQs0"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Delta Dawn",
-        "url": "https://open.spotify.com/album/3iyNh3uhudXLW5tNLapDZS"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "Delta Dawn",
-      "url": "https://open.spotify.com/track/62qNdSlhFznQD0gHpCGrtw"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Essential Marty Robbins 1951-1982",
         "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
@@ -1169,7 +1169,23 @@
       "url": "https://open.spotify.com/track/3Iy8UTb7n8QpYcQK23ZjG9"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
+        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
+      },
+      "artists": [
+        {
+          "name": "Webb Pierce",
+          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "There Stands The Glass",
+      "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "With His Hot and Blue Guitar",
         "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
@@ -1189,23 +1205,7 @@
       "url": "https://open.spotify.com/track/6uya0AiJA1Avd4DY2XFlVm"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
-        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
-      },
-      "artists": [
-        {
-          "name": "Webb Pierce",
-          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "There Stands The Glass",
-      "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "When I Dream",
         "url": "https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah"
@@ -1221,7 +1221,7 @@
       "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Glen Campbell - The Capitol Years 1965 - 1977",
         "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
@@ -1237,7 +1237,7 @@
       "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
@@ -1257,7 +1257,7 @@
       "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Essential Willie Nelson",
         "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
@@ -1273,7 +1273,7 @@
       "url": "https://open.spotify.com/track/7ETtI1QTDcdI8yL55eXVOF"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "RCA Country Legends",
         "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
@@ -1289,7 +1289,7 @@
       "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Essential Johnny Duncan",
         "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
@@ -1309,7 +1309,7 @@
       "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
@@ -1325,7 +1325,7 @@
       "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
         "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
@@ -1341,7 +1341,7 @@
       "url": "https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Tanya Tucker / Super Hits",
         "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
@@ -1357,7 +1357,7 @@
       "url": "https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Best Of The Bellamy Brothers",
         "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
@@ -1373,7 +1373,7 @@
       "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Essential Marty Robbins 1951-1982",
         "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
@@ -1389,7 +1389,7 @@
       "url": "https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Essential Eddy Arnold",
         "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
@@ -1405,7 +1405,7 @@
       "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Songs Of The Brazos Valley",
         "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
@@ -1425,7 +1425,7 @@
       "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Tammy's Greatest Hits",
         "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
@@ -1441,7 +1441,7 @@
       "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Bobby Helms Sings To My Special Angel",
         "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
@@ -1457,7 +1457,7 @@
       "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "HAG: The Hits Volume 2",
         "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
@@ -1473,23 +1473,7 @@
       "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
-      "album": {
-        "name": "Almost Persuaded",
-        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
-      },
-      "artists": [
-        {
-          "name": "David Houston",
-          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
-        }
-      ],
-      "duration_ms": 179847,
-      "name": "Almost Persuaded",
-      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
-    },
-    {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2"
@@ -1505,7 +1489,23 @@
       "url": "https://open.spotify.com/track/41jCeKeeVTxxDli1XdCPnx"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
+      "album": {
+        "name": "Almost Persuaded",
+        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
+      },
+      "artists": [
+        {
+          "name": "David Houston",
+          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
+        }
+      ],
+      "duration_ms": 179847,
+      "name": "Almost Persuaded",
+      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
+    },
+    {
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Abilene",
         "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
@@ -1521,7 +1521,7 @@
       "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Ultimate Collection: Barbara Mandrell",
         "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
@@ -1537,7 +1537,7 @@
       "url": "https://open.spotify.com/track/2Ln5JJOBoVDIoA8MJ2vG0C"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Connie Smith",
         "url": "https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb"
@@ -1553,7 +1553,7 @@
       "url": "https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Tears Of Fire: The 25th Anniversary Collection",
         "url": "https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg"
@@ -1569,7 +1569,7 @@
       "url": "https://open.spotify.com/track/1Bqt4M53ylr5NXMvBg1FMf"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr"
@@ -1585,7 +1585,7 @@
       "url": "https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Very Best Of Rosanne Cash",
         "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
@@ -1601,7 +1601,7 @@
       "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Ultimate Collection: Barbara Mandrell",
         "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
@@ -1617,7 +1617,7 @@
       "url": "https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
@@ -1633,7 +1633,7 @@
       "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
@@ -1649,7 +1649,7 @@
       "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Best Of Jimmie Rodgers",
         "url": "https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH"
@@ -1665,7 +1665,7 @@
       "url": "https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "The Essential Tammy Wynette",
         "url": "https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7"
@@ -1681,7 +1681,7 @@
       "url": "https://open.spotify.com/track/0aJHZYjwbfTmeyUWF7zGxI"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
@@ -1697,7 +1697,7 @@
       "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
     },
     {
-      "added_at": "2025-11-03 22:16:59",
+      "added_at": "2026-02-11 22:45:47",
       "album": {
         "name": "Streets of Baltimore",
         "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Tulsi Kumar, Aparshakti Khuarana, A.R\. Ameen, Jasleen Royal and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,634 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,674 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 17 | [QURBAT](https://open.spotify.com/track/1ETXN1gCDZIRUi9lc4sC3U) | [Merza](https://open.spotify.com/artist/1pbDpKcGxY1oLZXhHGzk4U), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Vision](https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI) | [QURBAT](https://open.spotify.com/album/6EavDNIGJM6nb66ygkYiS2) | 3:06 |
 | 18 | [Tere Dil Mein](https://open.spotify.com/track/3o5SrziTUr1kEjXCet04nw) | [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Tere Dil Mein](https://open.spotify.com/album/7DvzoxmpCYkdP8NFjoTq8j) | 3:17 |
 | 19 | [Tevar](https://open.spotify.com/track/0nnykIyXZzwPJYhiJBw4hN) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [Tevar](https://open.spotify.com/album/5PYANEWGVKt3YwoPAryFyr) | 3:05 |
-| 20 | [Haldi Mehandi \- Haatho Me Mehandi](https://open.spotify.com/track/6CcJ2zLl8cILX7u9rsvUcJ) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY), [Branal Rajeev](https://open.spotify.com/artist/1hjVLuzFgVoz1NHB40kV5j), [R Maharaaj](https://open.spotify.com/artist/6gdhBz69A3MSuvx89d7jFS) | [Haldi Mehandi \- Haatho Me Mehandi](https://open.spotify.com/album/0Ejfg25pyq9cz7Hu0HDuF7) | 5:07 |
+| 20 | [Haldi Mehandi \- Haatho Me Mehandi](https://open.spotify.com/track/6CcJ2zLl8cILX7u9rsvUcJ) | [Mohammed Irfan](https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY), [Branal Rajeev](https://open.spotify.com/artist/1hjVLuzFgVoz1NHB40kV5j), [R Maharaaj](https://open.spotify.com/artist/6gdhBz69A3MSuvx89d7jFS) | [Haldi Mehandi \- Haatho Me Mehandi](https://open.spotify.com/album/0Ejfg25pyq9cz7Hu0HDuF7) | 5:04 |
 | 21 | [Haaniya](https://open.spotify.com/track/3gqcwatdbF2uDJVJ9Emfmb) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Haaniya](https://open.spotify.com/album/1zhthY2d0VVuvC8NjTkwzV) | 2:51 |
 | 22 | [Churayi](https://open.spotify.com/track/5zBQuGF5t1cd6hLQYkcOxc) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Churayi](https://open.spotify.com/album/2xYCiZlg6upRXYuLoMHcxu) | 3:51 |
 | 23 | [Hor Koi Na](https://open.spotify.com/track/23SktBfcrSzyEzGFFW8vow) | [zayl](https://open.spotify.com/artist/1PI7HPN94FTYkS7cpGl9Ck), [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR) | [Hor Koi Na](https://open.spotify.com/album/69T2CwKBqtKchlOqGdJ5X6) | 2:17 |

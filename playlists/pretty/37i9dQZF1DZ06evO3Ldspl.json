@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 10778,
+  "num_followers": 10779,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYkjgAAAAAAfOBRujEFEhKzyMHu7v2x2",
+  "snapshot_id": "aYp1AAAAAAC6Pa7h6V3//vIR5qVy+xf7",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Binomio De Oro 1986",
-        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "No Pasar\u00e1 Lo Mismo",
-      "url": "https://open.spotify.com/track/3uhP3dgMShzyoZadWtK2QZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Am\u00e9rica",
         "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
       },
@@ -355,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
+        "name": "Binomio De Oro 1986",
+        "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
       },
       "artists": [
         {
@@ -364,9 +348,25 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 278267,
-      "name": "Como Te Quiero",
-      "url": "https://open.spotify.com/track/1P5kF1wReUPrrtUYLKB4Nl"
+      "duration_ms": 244040,
+      "name": "No Pasar\u00e1 Lo Mismo",
+      "url": "https://open.spotify.com/track/3uhP3dgMShzyoZadWtK2QZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5 A\u00f1os de Oro",
+        "url": "https://open.spotify.com/album/33ra8x4umh40bQgZGQiu5d"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Te seguir\u00e9 queriendo",
+      "url": "https://open.spotify.com/track/2gKbEyLGCz7s5rTLEIE1UM"
     },
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "5 A\u00f1os de Oro",
-        "url": "https://open.spotify.com/album/33ra8x4umh40bQgZGQiu5d"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 300693,
-      "name": "Te seguir\u00e9 queriendo",
-      "url": "https://open.spotify.com/track/2gKbEyLGCz7s5rTLEIE1UM"
+      "duration_ms": 278267,
+      "name": "Como Te Quiero",
+      "url": "https://open.spotify.com/track/1P5kF1wReUPrrtUYLKB4Nl"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
+        "name": "Mucha Calidad",
+        "url": "https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 230520,
-      "name": "Decid\u00ed Cambiar",
-      "url": "https://open.spotify.com/track/0CbIG518lOhdBN79aOEGuP"
+      "duration_ms": 263493,
+      "name": "Por Eso Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/5bDbJzJvVPkDU0TWejXr58"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mucha Calidad",
-        "url": "https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 263493,
-      "name": "Por Eso Estoy Aqu\u00ed",
-      "url": "https://open.spotify.com/track/5bDbJzJvVPkDU0TWejXr58"
+      "duration_ms": 230520,
+      "name": "Decid\u00ed Cambiar",
+      "url": "https://open.spotify.com/track/0CbIG518lOhdBN79aOEGuP"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Concierto",
-        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
+        "name": "Somos El Vallenato",
+        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 277560,
-      "name": "Para Adorarte M\u00e1s",
-      "url": "https://open.spotify.com/track/6XRorzybNPsFdIpA16F4Zo"
+      "duration_ms": 267573,
+      "name": "Nuevo Juramento",
+      "url": "https://open.spotify.com/track/6ZYnRnLnTtScu5XQgRlBYp"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos El Vallenato",
-        "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 267573,
-      "name": "Nuevo Juramento",
-      "url": "https://open.spotify.com/track/6ZYnRnLnTtScu5XQgRlBYp"
+      "duration_ms": 277560,
+      "name": "Para Adorarte M\u00e1s",
+      "url": "https://open.spotify.com/track/6XRorzybNPsFdIpA16F4Zo"
     },
     {
       "added_at": null,
@@ -584,13 +584,13 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         },
         {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+          "name": "Ivan Villazon",
+          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
         }
       ],
-      "duration_ms": 259707,
-      "name": "Cien A\u00f1os De Ausencia",
-      "url": "https://open.spotify.com/track/7KYEei2wozzvHR80bpf63c"
+      "duration_ms": 291313,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/2QsMoDPNqfTz2kasOmBP1E"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tercer Concierto Vallenato",
-        "url": "https://open.spotify.com/album/12q2Qwfg2anbrlPafinMPv"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "Bonita, Bonita",
-      "url": "https://open.spotify.com/track/5N4jofByz3u9VsIHRNG1mR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Binomio De Oro 1986",
         "url": "https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tercer Concierto Vallenato",
+        "url": "https://open.spotify.com/album/12q2Qwfg2anbrlPafinMPv"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "Bonita, Bonita",
+      "url": "https://open.spotify.com/track/5N4jofByz3u9VsIHRNG1mR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Siempre Rafael Orozco Binomio De Oro",
         "url": "https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2"
       },
@@ -652,13 +652,13 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         },
         {
-          "name": "Ivan Villazon",
-          "url": "https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7"
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
         }
       ],
-      "duration_ms": 291313,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/2QsMoDPNqfTz2kasOmBP1E"
+      "duration_ms": 259707,
+      "name": "Cien A\u00f1os De Ausencia",
+      "url": "https://open.spotify.com/track/7KYEei2wozzvHR80bpf63c"
     },
     {
       "added_at": null,
@@ -827,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enamorado Como Siempre",
-        "url": "https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z"
+        "name": "Los Elegidos",
+        "url": "https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 234440,
-      "name": "Mi Mejor Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2i7SWI1bVRznjvyjlW53t6"
+      "duration_ms": 223293,
+      "name": "Campana",
+      "url": "https://open.spotify.com/track/1lgSdPP75qkN4CUZvbZILI"
     }
   ],
   "unique_name": "This Is Binomio de Oro",

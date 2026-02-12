@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ανακάλυψε κομμάτια Ελληνίδων ερμηνευτριών όπως τα επέλεξαν οι editors μας\. Εξώφυλλο: Ria Ellinidou
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,977 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,984 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Ithopoios](https://open.spotify.com/track/7reX1GQGNZbFBM9JzVWR8S) | [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [Ithopoios](https://open.spotify.com/album/6SvQa7qWMFLI4bl4iKVJwt) | 2:17 |
 | 50 | [Dikaiomata](https://open.spotify.com/track/2ybuuVYZbro6dClSG01FlO) | [Marianna Papamakariou](https://open.spotify.com/artist/4HPmfgWwU73EqMwKkfm28k) | [Dikaiomata](https://open.spotify.com/album/7JfJ9xchckBRS5fV2PSXtj) | 4:05 |
 
-Snapshot ID: `AAAAALEklMXr7YzqXyaEdwiwbOcu48qg`
+Snapshot ID: `AAAAAMGEiH8w950fAo0u5fGL43K9U0w4`

@@ -1540,7 +1540,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-12",
       "duration_ms": 160333,
       "name": "oh boi",
       "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
@@ -2050,6 +2050,24 @@
       "duration_ms": 244533,
       "name": "Strong Feelings",
       "url": "https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis"
+    },
+    {
+      "album": {
+        "name": "Mrs. Jones' Cookies",
+        "url": "https://open.spotify.com/album/24dI6lq3WUyZWLkf812CAm"
+      },
+      "artists": [
+        {
+          "name": "The Sandwitches",
+          "url": "https://open.spotify.com/artist/5wEILNDofg1v2FSoOsFMyC"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221900,
+      "name": "Summer of Love",
+      "url": "https://open.spotify.com/track/5CP2t8ob13BZXVXByFazt1"
     },
     {
       "album": {
