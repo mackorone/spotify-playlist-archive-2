@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-257 songs - 15 hr 3 min
+260 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Happy Now?](https://open.spotify.com/track/3DiQYCOd0yI7VMWoPyWX5d) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ), [88Birds](https://open.spotify.com/artist/20wsRh5iNQJ7dy3FBavRG1) | [Happy Now?](https://open.spotify.com/album/5VEcIumPwkF2oXhWaAn0jL) | 5:19 | 2025-10-10 |  |
 | [Hard Is Just An Illusion](https://open.spotify.com/track/0ltP9ih93WXNascFSOWYw1) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [Hoogeloon \(Part Two\)](https://open.spotify.com/album/4y1s5lLIq83ghaGAnKxMNe) | 3:31 | 2025-07-18 |  |
 | [Hold That Sucker Down \- Lifelike & Kris Menace Remix](https://open.spotify.com/track/6pEbsqPHhO0P6ylkR4geQG) | [OT Quartet](https://open.spotify.com/artist/6BspK9ToOVAlay9MMF5NQj), [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Kris Menace](https://open.spotify.com/artist/5P5i4EeZfrKrcRGHRTqJr0) | [Hold That Sucker Down \(The Remixes Part 2\)](https://open.spotify.com/album/7lUsQNlKqy00fBFgvaj5kA) | 3:13 | 2025-07-18 |  |
+| [Holding On To You](https://open.spotify.com/track/4rYYXwuZ66W9OOQbDcnF2M) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl) | [Holding On To You](https://open.spotify.com/album/75xK7M2G8ATDgkqBsj81ic) | 4:07 | 2026-02-13 |  |
 | [How To Listen To This Album](https://open.spotify.com/track/0Py4iHLT1CPUOB6UJCrKeq) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [Echoes](https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN) | 2:30 | 2025-07-18 |  |
 | [How Will I Know](https://open.spotify.com/track/6Zj0prCnGTWIHJzbkRkxdY) | [Teddy Beats](https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB), [Nicola Fasano](https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ), [Miami Rockets](https://open.spotify.com/artist/4byzj224X350YqoAqGSkd8), [Anni](https://open.spotify.com/artist/6RMCiCPbBhd7hYP4cWhjOE) | [How Will I Know](https://open.spotify.com/album/689NgodT15JChJA4f2TdSM) | 3:06 | 2025-06-19 |  |
 | [Hurt Again](https://open.spotify.com/track/1KYdFmr3dZ678rVMD58k78) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Hurt Again](https://open.spotify.com/album/6zm2DCjAiQVani25CubAZO) | 3:40 | 2025-08-22 |  |
@@ -203,6 +204,7 @@
 | [Sea Through Me](https://open.spotify.com/track/1lp1EP1VSG7CjVVF03DM9V) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Ocean Whisper](https://open.spotify.com/album/2TS8GzDdIIPfankjCGj4dT) | 3:09 | 2025-07-18 |  |
 | [Sequence](https://open.spotify.com/track/4DKHxgsIAYvnoQ4juGS4e9) | [Protoculture](https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96) | [Lost In Isolation](https://open.spotify.com/album/77JBBjPc68SlDmdyTM4xKh) | 3:53 | 2025-06-19 |  |
 | [Sera El Sol](https://open.spotify.com/track/2eHmJEhthZDhtbpSgnaqGB) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Chill Executive Officer \(CEO\), Vol\. 7 \[Selected by Maykel Piron\]](https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt) | 3:14 | 2025-07-18 |  |
+| [Seven Cities \- Solarstone's Ambient Dub Mix](https://open.spotify.com/track/7Lu5FRAB9A5bBBWa37uJyU) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Seven Cities \(Solarstone’s Ambient Dub Mix\)](https://open.spotify.com/album/1FHFNpPZc3LnPhNM4cWCvX) | 3:34 | 2026-02-13 |  |
 | [Seven Cities \- Solarstone's Ambient Dub Mix](https://open.spotify.com/track/5YRroobHVmTi3NuX5tI1lL) | [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Seven Cities](https://open.spotify.com/album/4GpHU6W6cPUa8tIk8EwBbY) | 7:50 | 2025-06-19 |  |
 | [Shatterproof](https://open.spotify.com/track/2K784MIWGTceQ44dDW4ZfL) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/4wttAKtcPFWY44msS6bU2T) | 2:29 | 2025-07-18 | 2025-09-05 |
 | [Shatterproof](https://open.spotify.com/track/7CUAJ97lsdWEXK73mt5XZ8) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/0WBw8GeKLwQiIPfdPaJHL6) | 2:21 | 2026-01-02 |  |
@@ -249,6 +251,7 @@
 | [Traveler \- Chill](https://open.spotify.com/track/6JQILrICLS9oejhKvM21Ri) | [Luca Aprile](https://open.spotify.com/artist/149gSkst4bm3PyT2CR7lht) | [Traveler](https://open.spotify.com/album/1Oz22ypicgv5Oz3cd7cnkb) | 2:56 | 2025-06-19 |  |
 | [Tulum](https://open.spotify.com/track/03uaAozd7xr0zlkFdGPnB2) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Ocean Whisper](https://open.spotify.com/album/2TS8GzDdIIPfankjCGj4dT) | 2:29 | 2025-06-19 |  |
 | [Underwater](https://open.spotify.com/track/6S29L2sL8ydQQ29zgHutj8) | [SAY SAY](https://open.spotify.com/artist/4KX7yEwPVJikSK6wLjgUJF), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Underwater](https://open.spotify.com/album/3wGgyJpx8UvANC9VPjDgXa) | 2:30 | 2025-06-19 |  |
+| [Ursa Minor](https://open.spotify.com/track/2tIJt8Z76CQtQl0LE3eocH) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT) | [Ursa Minor](https://open.spotify.com/album/18MIDMVfdNlDUpTJrKDyjA) | 3:14 | 2026-02-13 |  |
 | [Use Somebody](https://open.spotify.com/track/0oM5veahX4YpbWNM9Scm6i) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Redd](https://open.spotify.com/artist/79nzdBX4pCijlQDEcLH2D0) | [Armada Electronic Elements \- Essentials 2024](https://open.spotify.com/album/0wAAs3GYLNR21J1Ym4OxEG) | 3:19 | 2025-07-18 |  |
 | [Wait Wait Wait](https://open.spotify.com/track/75GOHExmj8ZxYjbYvG4Jh0) | [SOMMERS \(UK\)](https://open.spotify.com/artist/6cmL8CNoQQKRMGHpuSqXcv) | [Wait Wait Wait](https://open.spotify.com/album/1sAbNFaRqXH2Txcly65l2J) | 3:33 | 2026-01-23 |  |
 | [Wake Me Up](https://open.spotify.com/track/1Rd2m4Xv1RkGZnpsMizuCn) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Ocean Whisper](https://open.spotify.com/album/2TS8GzDdIIPfankjCGj4dT) | 2:45 | 2025-07-18 |  |

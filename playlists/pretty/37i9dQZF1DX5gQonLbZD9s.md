@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gQonLbZD9s.md) - [plain]
 
 > The best uptempo pop for the workout girlies
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,459,844 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459,861 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gQonLbZD9s.md) - [plain]
 | 18 | [Timber](https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:24 |
 | 19 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 |
 | 20 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 |
-| 21 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 |
-| 22 | [On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 4:44 |
+| 21 | [On The Floor](https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Love?](https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE) | 4:44 |
+| 22 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 |
 | 23 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 |
 | 24 | [Party In The U.S.A.](https://open.spotify.com/track/3E7dfMvvCLUddWissuqMwr) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives \(International Version\)](https://open.spotify.com/album/0IuHVgAvbNDJnJepuSZ8Oz) | 3:22 |
-| 25 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
-| 26 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
+| 25 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
+| 26 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
 | 27 | [The Middle](https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [The Middle](https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c) | 3:04 |
 | 28 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 29 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 |

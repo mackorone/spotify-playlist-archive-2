@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 
 > This is Kate Bush\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,328 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,355 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 | 49 | [Wild Man](https://open.spotify.com/track/0XCWo7RVAkJXMD9fiK0bFZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/0CnpU8D00V1mfJeOt7tsqB) | 7:16 |
 | 50 | [You Want Alchemy? \- Remastered 2025](https://open.spotify.com/track/7CaLGgsH90UmCaRxgPXPkc) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 3:57 |
 
-Snapshot ID: `aYp1AAAAAAB3gIJAZQ6pX2E130VG7EOi`
+Snapshot ID: `aYvGgAAAAABcIbBJZCO9+nvXnxKO/OF4`

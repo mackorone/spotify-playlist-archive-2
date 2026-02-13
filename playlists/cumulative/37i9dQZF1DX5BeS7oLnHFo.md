@@ -4,7 +4,7 @@
 
 > كافيار الراب المحلّي
 
-86 songs - 4 hr 8 min
+87 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Tsunami](https://open.spotify.com/track/4iZEVee6FqyJLey77O9IjE) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [Dr Slim](https://open.spotify.com/artist/3kElM4OngfmVhwYognqJij) | [Tsunami](https://open.spotify.com/album/5j4JPKExPkOcAGW441a2oK) | 2:57 | 2024-09-19 | 2025-10-03 |
 | [Wala Shai](https://open.spotify.com/track/4tGcsPIxrrwDm6DWZf0MCY) | [Telfaz11](https://open.spotify.com/artist/5PVYhzRlwWI7OWgPBDDQkh) | [Sattar](https://open.spotify.com/album/5zTkn4lFoPfW09RREtNxmr) | 2:50 | 2024-06-24 | 2025-12-19 |
 | [Ween Yabu](https://open.spotify.com/track/2JvrzoueEOcl6cYhnnI8XS) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [Ween Yabu](https://open.spotify.com/album/1Fa0JCaLqGpUctiOcABxY5) | 3:23 | 2024-06-24 |  |
+| [Y20](https://open.spotify.com/track/1UDiiOdFUs3MdV9uAo8cYe) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt), [YSN Lowkey](https://open.spotify.com/artist/2gaO2Gwf588OnnaDwArIAW) | [Y20](https://open.spotify.com/album/6KB2ail4OHmi7hLE9sO9x6) | 1:54 | 2026-02-12 |  |
 | [أهل العمار \(feat\. Ali Naseraldeen\)](https://open.spotify.com/track/1poqei4HbPw5lN3UL1rWKv) | [Esaam Satti](https://open.spotify.com/artist/4G0Y7SHFiexAC2U8UU5EVy), [Ali Naseraldeen](https://open.spotify.com/artist/7f57uC78jbchvWZjdQf96c) | [أهل العمار \(feat\. Ali Naseraldeen\)](https://open.spotify.com/album/2OUH1uzap9sVVbo9D5DBpS) | 3:47 | 2025-10-02 |  |
 | [الجلسة الاولى : فريستايل](https://open.spotify.com/track/4dvz8mbfDaERCEFa1gt9fV) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [الجلسة الاولى : فريستايل](https://open.spotify.com/album/0UA4g53jHzmPvYdQM0EKEe) | 2:16 | 2024-06-24 | 2025-10-03 |
 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 | 2025-10-02 |  |
@@ -84,7 +85,7 @@
 | [براند](https://open.spotify.com/track/0bMkuGfY0DFEfZ3Y5szHpx) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope), [MOHAMEDMEM](https://open.spotify.com/artist/4V2oeE3lVCRjk6GnL0fsBI) | [براند](https://open.spotify.com/album/02adwhzPLgQhBCiAHW3oZe) | 2:37 | 2024-06-24 | 2025-10-04 |
 | [بسيط ايفكتڤ](https://open.spotify.com/track/0AHVNC8und8XJU61876q0o) | [Dattune](https://open.spotify.com/artist/7KV81tK9fACDT7gCl4pFmj), [DZEEZ دزيز](https://open.spotify.com/artist/0NwIwzq4fV5i0LNEC7Vtwg) | [بسيط ايفكتڤ](https://open.spotify.com/album/4Gf35Uc9uEEi5M9qWKGA5c) | 1:35 | 2024-06-24 | 2024-09-20 |
 | [تصعيد](https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [تصعيد](https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi) | 2:04 | 2024-11-26 | 2025-10-03 |
-| [جولاتي](https://open.spotify.com/track/0M28xWD3YAydVlZU5K1OAG) | [Barry](https://open.spotify.com/artist/0BatFhnuo1dJ632u37igwo) | [جولاتي](https://open.spotify.com/album/5LFqbT78b7K4S8ARXlZZdh) | 2:38 | 2025-12-18 |  |
+| [جولاتي](https://open.spotify.com/track/0M28xWD3YAydVlZU5K1OAG) | [Barry](https://open.spotify.com/artist/0BatFhnuo1dJ632u37igwo) | [جولاتي](https://open.spotify.com/album/5LFqbT78b7K4S8ARXlZZdh) | 2:38 | 2025-12-18 | 2026-02-13 |
 | [ذا يوث](https://open.spotify.com/track/6oOmNuCn3DtEm6esZc42BQ) | [Khalz](https://open.spotify.com/artist/6Ypyp6sAbGndh7J0EMfope) | [ذا يوث](https://open.spotify.com/album/4JBr0ctu1dWtJvarwrwMdN) | 3:09 | 2024-06-24 | 2025-04-30 |
 | [شفت](https://open.spotify.com/track/6NAlHGjMcLv1JBfmJCabKs) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [شفت](https://open.spotify.com/album/6CnP4TxSVUVg13UrMTPRfX) | 2:03 | 2024-06-24 | 2025-10-03 |
 | [صح](https://open.spotify.com/track/7mHSueNmkXUzHCv4JPgNsc) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [صح](https://open.spotify.com/album/4eGrg3GVEalY2zyXtXV7e0) | 1:46 | 2025-02-26 | 2025-10-03 |

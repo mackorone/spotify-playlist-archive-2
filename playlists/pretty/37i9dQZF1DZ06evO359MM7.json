@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 444398,
+  "num_followers": 444410,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAC9K2K9zS7a6fi5Hn/0eVKk",
+  "snapshot_id": "aYvGgAAAAADilLVa6CjVkwe3aH9+tOfl",
   "tracks": [
     {
       "added_at": null,
@@ -363,26 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT HAPPENED TO THE STREETS?",
-        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 242195,
-      "name": "ATLANTA TEARS",
-      "url": "https://open.spotify.com/track/5DauVTU0QJ23hUPOzgnvAu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Turn (Deluxe)",
         "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
       },
@@ -419,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Turn",
-        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 197529,
-      "name": "Emotionally Scarred",
-      "url": "https://open.spotify.com/track/7ge7BHazYbVKi8qyZUX1Bm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -459,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Turn",
+        "url": "https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 197529,
+      "name": "Emotionally Scarred",
+      "url": "https://open.spotify.com/track/7ge7BHazYbVKi8qyZUX1Bm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RY RY WORLD",
         "url": "https://open.spotify.com/album/6i1OieEQCZaMlQZZ44VLON"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 197043,
       "name": "Always n Forever (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6dbENHQHHtWRai4snSvy2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT HAPPENED TO THE STREETS?",
+        "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 242195,
+      "name": "ATLANTA TEARS",
+      "url": "https://open.spotify.com/track/5DauVTU0QJ23hUPOzgnvAu"
     },
     {
       "added_at": null,

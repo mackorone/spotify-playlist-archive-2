@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,841,125 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,841,383 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 34 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
 | 35 | [Ramen & OJ](https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ramen & OJ](https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ) | 3:38 |
 | 36 | [Money On Money \(feat\. Future\)](https://open.spotify.com/track/5eW508Gq23QlXHowyzW39m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Money On Money \(feat\. Future\)](https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO) | 3:56 |
-| 37 | [LET HER COOK](https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:35 |
-| 38 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
+| 37 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
+| 38 | [LET HER COOK](https://open.spotify.com/track/1nF1SpkNfgPPozcXh2hvGU) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:35 |
 | 39 | [Hello](https://open.spotify.com/track/5MnPcgXz4RXqx09nIqvHKX) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:35 |
 | 40 | [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 |
 | 41 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 62283,
+  "num_followers": 62295,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADXQNzkuDPwGSzM4kXhRAFu",
+  "snapshot_id": "aYvGgAAAAACNiqqIkc4eTiJBFXKnd7QI",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 201813,
       "name": "Normal",
       "url": "https://open.spotify.com/track/2Dj24olIFAq8Z9MlWndo6U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
+        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 171560,
+      "name": "La T\u00edpica (2.018)",
+      "url": "https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM"
     },
     {
       "added_at": null,
@@ -115,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY"
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
       },
       "artists": [
         {
@@ -124,9 +140,9 @@
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 171560,
-      "name": "La T\u00edpica (2.018)",
-      "url": "https://open.spotify.com/track/2blFjWGr603ReBmTLFTsAM"
+      "duration_ms": 199213,
+      "name": "Tararea",
+      "url": "https://open.spotify.com/track/1S1HkSJ1ndy7Yvc4YPg0Bs"
     },
     {
       "added_at": null,
@@ -143,22 +159,6 @@
       "duration_ms": 185806,
       "name": "Suero Casero",
       "url": "https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 199213,
-      "name": "Tararea",
-      "url": "https://open.spotify.com/track/1S1HkSJ1ndy7Yvc4YPg0Bs"
     },
     {
       "added_at": null,
@@ -195,6 +195,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Polimnia",
+          "url": "https://open.spotify.com/artist/1KdN2WeS9Zx3L2eehtzUJP"
+        }
+      ],
+      "duration_ms": 226893,
+      "name": "El Malo de la Pel\u00edcula",
+      "url": "https://open.spotify.com/track/66maa6bpHoJjsmtozGChDf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 232000,
       "name": "Medellificaci\u00f3n",
       "url": "https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Polimnia",
-          "url": "https://open.spotify.com/artist/1KdN2WeS9Zx3L2eehtzUJP"
-        }
-      ],
-      "duration_ms": 226893,
-      "name": "El Malo de la Pel\u00edcula",
-      "url": "https://open.spotify.com/track/3egoacsGKBZhKp2ytmW4dO"
     },
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Bajo Tierra",
-          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "TNT",
-      "url": "https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Legendarios",
         "url": "https://open.spotify.com/album/3VZrEkrw9y9rGuPhRTmZTM"
       },
@@ -315,22 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "10",
-        "url": "https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq"
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
       },
       "artists": [
         {
-          "name": "La Etnnia",
-          "url": "https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H"
-        },
-        {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Bajo Tierra",
+          "url": "https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm"
         }
       ],
-      "duration_ms": 231505,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3idFvZM9VyiIkjSOjfuGkJ"
+      "duration_ms": 235000,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh"
     },
     {
       "added_at": null,
@@ -355,22 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
+        "name": "10",
+        "url": "https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq"
       },
       "artists": [
         {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+          "name": "La Etnnia",
+          "url": "https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H"
         },
         {
-          "name": "Tito Agudelo",
-          "url": "https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49"
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
         }
       ],
-      "duration_ms": 202771,
-      "name": "Misa de Sanazi\u00f3n",
-      "url": "https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ"
+      "duration_ms": 231505,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3idFvZM9VyiIkjSOjfuGkJ"
     },
     {
       "added_at": null,
@@ -391,6 +371,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Tito Agudelo",
+          "url": "https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49"
+        }
+      ],
+      "duration_ms": 202771,
+      "name": "Misa de Sanazi\u00f3n",
+      "url": "https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 365706,
       "name": "Otra Canci\u00f3n Larga",
       "url": "https://open.spotify.com/track/1nOm3ZP10ZrpgW2EAmtRIV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 240608,
+      "name": "No Est\u00e1 en Venta",
+      "url": "https://open.spotify.com/track/70kqnlIktu6mBuweHwUXGz"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aranjuez",
-        "url": "https://open.spotify.com/album/3VXuNp5vOx2aX2tfe6AaYm"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 240608,
-      "name": "No Est\u00e1 en Venta",
-      "url": "https://open.spotify.com/track/70kqnlIktu6mBuweHwUXGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viejas Recetas Remixes y Otras Rarezas",
         "url": "https://open.spotify.com/album/4BimoPAeNYP0dH8h34N1b6"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Chang\u00f3",
-      "url": "https://open.spotify.com/track/24r3DhkmDUKHpEtgMnjdiX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Horizonte",
         "url": "https://open.spotify.com/album/5JZJDct3WLX67mhEfJOJiZ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 316002,
       "name": "La Esquina del Mariachi",
       "url": "https://open.spotify.com/track/5Ulvsqb4ekKiSuiEWFAAro"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Chang\u00f3",
+      "url": "https://open.spotify.com/track/24r3DhkmDUKHpEtgMnjdiX"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Revancha de los Timidos",
+        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Comediantes de Velorio",
+      "url": "https://open.spotify.com/track/0AR1NNcJSbkzVsJQzW6xuy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Servicios Ambulatorioz",
         "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 231413,
       "name": "G\u00e9nero Rural",
       "url": "https://open.spotify.com/track/2GKZ6Uu259JpUUPIymkXll"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Revancha de los Timidos",
-        "url": "https://open.spotify.com/album/54WjSB2p8B0S8BlDjxYNF9"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Comediantes de Velorio",
-      "url": "https://open.spotify.com/track/0AR1NNcJSbkzVsJQzW6xuy"
     },
     {
       "added_at": null,

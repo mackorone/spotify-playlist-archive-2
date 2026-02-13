@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Afraid Of The Dark",
+        "url": "https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278416,
+      "name": "Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
+    },
+    {
+      "album": {
         "name": "VERITAS",
         "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
       },
@@ -3473,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "Godhood",
+        "url": "https://open.spotify.com/album/7FLprZptdVc6uWnpvnbiPR"
+      },
+      "artists": [
+        {
+          "name": "Humanity's Last Breath",
+          "url": "https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197986,
+      "name": "Godhood",
+      "url": "https://open.spotify.com/track/4H8L4Q02z8DBnM0m0twa5C"
+    },
+    {
+      "album": {
         "name": "Gold Cobra (Deluxe)",
         "url": "https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI"
       },
@@ -3913,6 +3949,28 @@
     },
     {
       "album": {
+        "name": "Hive Mind (feat. Denzel Curry)",
+        "url": "https://open.spotify.com/album/6eNCE2Inl49H7U8L0YaaRg"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206161,
+      "name": "Hive Mind (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/4jfzIzQiUabe8PDNo0O66j"
+    },
+    {
+      "album": {
         "name": "Scoring The End Of The World (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy"
       },
@@ -3928,6 +3986,24 @@
       "duration_ms": 187321,
       "name": "Hollow Points",
       "url": "https://open.spotify.com/track/5J1SceWegPiycCW89uIfAU"
+    },
+    {
+      "album": {
+        "name": "House Of Cards",
+        "url": "https://open.spotify.com/album/2F25bU0K9R8auwo1iSZw0L"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206788,
+      "name": "House Of Cards",
+      "url": "https://open.spotify.com/track/5pbqq53RAmAifpkkD5Q401"
     },
     {
       "album": {
@@ -5712,7 +5788,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 268141,
       "name": "Nu Delhi",
       "url": "https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a"
@@ -5752,7 +5828,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 499875,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg"
@@ -6214,7 +6290,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 239640,
       "name": "Perfect Soul",
       "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
@@ -8530,7 +8606,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 257453,
       "name": "Torn in Two",
       "url": "https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU"

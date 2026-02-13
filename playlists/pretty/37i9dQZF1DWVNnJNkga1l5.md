@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 
 > Canciones inolvidables para darle un toque dulce a tus comidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,701 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,712 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 | 21 | [Te He Prometido](https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Canta Trovador](https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8) | 3:07 |
 | 22 | [A Dios Le Pido](https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:25 |
 | 23 | [Quién Como Tú](https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quién Como tú](https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D) | 3:31 |
-| 24 | [Así No Te Amará Jamás](https://open.spotify.com/track/0hTao6s03MkTStWfxAmnGk) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 2:51 |
-| 25 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
+| 24 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 |
+| 25 | [Así No Te Amará Jamás](https://open.spotify.com/track/0hTao6s03MkTStWfxAmnGk) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 2:51 |
 | 26 | [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 |
 | 27 | [Y, ¿Si fuera ella?](https://open.spotify.com/track/1DmlUpnkg4N1VWquSoffF1) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:23 |
 | 28 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNnJNkga1l5.md) - [plain]
 | 50 | [Depende](https://open.spotify.com/track/6aaPUBUFw9KEW1p1inVQv9) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:25 |
 | 51 | [La soledad](https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 3:59 |
 | 52 | [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 |
-| 53 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
-| 54 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
-| 55 | [Tanto la Queria](https://open.spotify.com/track/2VSGzQqy9nqJefcYGJNWst) | [Andy & Lucas](https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L) | [Andy Y Lucas](https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm) | 4:40 |
-| 56 | [Un Beso Y Una Flor](https://open.spotify.com/track/5IU4JO2cpa0wPK8oQWFfCr) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Super 20](https://open.spotify.com/album/6IXbg5QxJ4hGkrnTZo3n1B) | 4:32 |
+| 53 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
+| 54 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
+| 55 | [Un Beso Y Una Flor](https://open.spotify.com/track/5IU4JO2cpa0wPK8oQWFfCr) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Super 20](https://open.spotify.com/album/6IXbg5QxJ4hGkrnTZo3n1B) | 4:32 |
+| 56 | [Tanto la Queria](https://open.spotify.com/track/2VSGzQqy9nqJefcYGJNWst) | [Andy & Lucas](https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L) | [Andy Y Lucas](https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm) | 4:40 |
 | 57 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/3yzHIAzk3zVE1WgspS8W21) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 3:30 |
 | 58 | [Mi Buen Corazón](https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol\. 1](https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS) | 4:22 |
 | 59 | [Mi gran noche](https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 3:00 |

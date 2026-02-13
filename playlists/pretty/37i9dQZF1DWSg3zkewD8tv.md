@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,426 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,419 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 2 | [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 |
 | 3 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 |
 | 4 | [Chandelier](https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:36 |
-| 5 | [You Were Right](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:59 |
-| 6 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
+| 5 | [Beautiful Country](https://open.spotify.com/track/1W1hUUuDko94HVziWmaLUh) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Beautiful Country](https://open.spotify.com/album/0FxmyJliJRVYem01DaFhdJ) | 4:07 |
+| 6 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
 | 7 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
 | 8 | [Highway to Hell](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:28 |
 | 9 | [Cheap Thrills](https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:31 |
-| 10 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 |
-| 11 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 |
+| 10 | [You Were Right](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:59 |
+| 11 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 |
 | 12 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 |
 | 13 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:16 |
 | 14 | [Weather With You](https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:44 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 18 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 |
 | 19 | [Tomorrow](https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:26 |
 | 20 | [Khe Sanh \- 2011 Remastered](https://open.spotify.com/track/0frIZMaQwtdV4Ee8nhB1te) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [Cold Chisel](https://open.spotify.com/album/58LEKVWXpcYbeevCcl2boB) | 4:14 |
-| 21 | [My Happiness](https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:36 |
-| 22 | [I Touch Myself](https://open.spotify.com/track/6oNvmplQGUkmAh441Teows) | [Divinyls](https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC) | [Divinyls](https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv) | 3:47 |
+| 21 | [I Touch Myself](https://open.spotify.com/track/6oNvmplQGUkmAh441Teows) | [Divinyls](https://open.spotify.com/artist/5t06MTkDD3yr5LVs3YFLQC) | [Divinyls](https://open.spotify.com/album/50bQGJWB4VoD1GY3c4vYbv) | 3:47 |
+| 22 | [My Happiness](https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8) | [Powderfinger](https://open.spotify.com/artist/6LBCQo20ri3tsvbsWWLmr6) | [Odyssey Number Five](https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws) | 4:36 |
 | 23 | [T.N.T.](https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 3:35 |
 | 24 | [Fall At Your Feet](https://open.spotify.com/track/1Yc2k9b9PNZSB6P5S53SPC) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:18 |
 | 25 | [You're the Voice](https://open.spotify.com/track/721DwsHOeKf7zHRABCR2rh) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Whispering Jack](https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd) | 5:00 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 30 | [Rum Rage](https://open.spotify.com/track/3OwsQhfC9eJdOlD3IO74l4) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Land Of Pleasure](https://open.spotify.com/album/60syJlVPj5DcTyxfw4GK0f) | 4:12 |
 | 31 | [I Want You](https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 3:52 |
 | 32 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 |
-| 33 | [The Horses](https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Rise](https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq) | 4:16 |
+| 33 | [Drenched](https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm) | 4:11 |
 | 34 | [Don't Dream It's Over](https://open.spotify.com/track/1fiDe8sb2DMEU4JGPOIEB1) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [The Very Very Best Of Crowded House \(Deluxe Edition\)](https://open.spotify.com/album/3XLP6DCTfz8eQkORPdfvvy) | 3:58 |
-| 35 | [Drenched](https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm) | 4:11 |
+| 35 | [The Horses](https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Rise](https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq) | 4:16 |
 | 36 | [Joker And The Thief](https://open.spotify.com/track/2yoCk1xYdULGPV1143r7CB) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/747qcmgpdnnIG6lIBwNKhO) | 4:40 |
 | 37 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
 | 38 | [Robbery](https://open.spotify.com/track/5iAxcPoyxt0HWU5sZToqe5) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 3:43 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 47 | [Caress Your Soul](https://open.spotify.com/track/6CvgS2YcW7b3CqIXBBbfwp) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Caress Your Soul](https://open.spotify.com/album/2XiBbHgNjlt3JLz8j2S61k) | 2:57 |
 | 48 | [Love Balloon](https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/1jVge2F1Y083ZHDecI0LaK) | 4:00 |
 | 49 | [April Sun in Cuba](https://open.spotify.com/track/0NKv1n25UpKKhZbp5UVV6P) | [Dragon](https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t) | [Running Free](https://open.spotify.com/album/05frF9sl7GngNlYJp7V6fe) | 3:27 |
-| 50 | [Blue Sky Mine \- 2011 Remaster](https://open.spotify.com/track/6z9ehfxE973fOlKJKNJL2x) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Blue Sky Mining \(Remastered\)](https://open.spotify.com/album/4C3raKL0dzfTitM3YtqN1S) | 4:15 |
+| 50 | [Why Won't You Make Up Your Mind?](https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 3:19 |
 
-Snapshot ID: `AAAAAPpGlXsgoZkJIHfmykGTJAgwLnTo`
+Snapshot ID: `AAAAAEZOBbjc+L0QnVY55df4HDfLxUCs`

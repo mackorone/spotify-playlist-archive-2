@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 162461,
       "name": "Bandido problem\u00e1tico",
       "url": "https://open.spotify.com/track/6pOSgZYfI73XOsjjZqrIUf"
@@ -2154,7 +2154,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 179076,
       "name": "CYPHER DA BOLHA 2",
       "url": "https://open.spotify.com/track/3c49xG6l5s6D6Azb6Kui5b"
@@ -5260,7 +5260,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 211668,
       "name": "MEGA YOU WILL SEE",
       "url": "https://open.spotify.com/track/4s14VIfzOjS6Xb8L35QfUf"
@@ -7071,6 +7071,36 @@
     },
     {
       "album": {
+        "name": "NOIADO DE BCT X PERERECA\u00c7O",
+        "url": "https://open.spotify.com/album/40awrNiRuiB0eqjoFUCyLw"
+      },
+      "artists": [
+        {
+          "name": "DJ AZIN",
+          "url": "https://open.spotify.com/artist/1rw1jDrOlds1ktwgsYTgJN"
+        },
+        {
+          "name": "MC HK DA 7",
+          "url": "https://open.spotify.com/artist/2XlHqPf6rMXNqdd5LTpFhE"
+        },
+        {
+          "name": "Mc CAITAN",
+          "url": "https://open.spotify.com/artist/6WCE7KaGxvEI0wHhJDsxUx"
+        },
+        {
+          "name": "GOUVEA",
+          "url": "https://open.spotify.com/artist/4ywUUuIB9AwT6dw7oUMxkN"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "NOIADO DE BCT X PERERECA\u00c7O",
+      "url": "https://open.spotify.com/track/5d0M6WE8EMV098NTuozcNd"
+    },
+    {
+      "album": {
         "name": "Noite Dos Perdidos",
         "url": "https://open.spotify.com/album/5Daso30Ue6dC3bFySoOCta"
       },
@@ -7889,6 +7919,36 @@
     },
     {
       "album": {
+        "name": "Pique Anos 80",
+        "url": "https://open.spotify.com/album/1NnQabuzqHfICeVw2wL6Ax"
+      },
+      "artists": [
+        {
+          "name": "Kaue Mc",
+          "url": "https://open.spotify.com/artist/4Amq40B1awicYgOZlACbU7"
+        },
+        {
+          "name": "WR Original",
+          "url": "https://open.spotify.com/artist/3i6ctIgUbjQQpqrDVlxvtx"
+        },
+        {
+          "name": "DJ CLEBER",
+          "url": "https://open.spotify.com/artist/1Hd0OkFbOEllOnmQj6nurm"
+        },
+        {
+          "name": "DJ LP Malvad\u00e3o",
+          "url": "https://open.spotify.com/artist/2u5PN9VIp4WFd6PeHp7eJ5"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "Pique Anos 80",
+      "url": "https://open.spotify.com/track/4m3nNqcqRDefROgesL4rAG"
+    },
+    {
+      "album": {
         "name": "Pira\u00e7\u00e3o 2.0",
         "url": "https://open.spotify.com/album/7fQ7FbXBfe2IbrSQJ0QltX"
       },
@@ -8326,6 +8386,36 @@
       "duration_ms": 126515,
       "name": "Put\u00edfero Pro Max",
       "url": "https://open.spotify.com/track/5Raqxm1zg9Kd5gm9MXiRw5"
+    },
+    {
+      "album": {
+        "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
+        "url": "https://open.spotify.com/album/0fCdf2W6IcPdWaFceqJMLo"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Ryuchi",
+          "url": "https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
+      "url": "https://open.spotify.com/track/4YQ37NPJlIUMFo8Kq51heS"
     },
     {
       "album": {

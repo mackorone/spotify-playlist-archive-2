@@ -410,7 +410,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 186505,
       "name": "a la cara",
       "url": "https://open.spotify.com/track/3alDWlvGPYBEOOzTXZ5RWo"
@@ -2903,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "cuentas pendientes",
+        "url": "https://open.spotify.com/album/25JCsKj0poCA1gGnIY663D"
+      },
+      "artists": [
+        {
+          "name": "Kadriana Massri",
+          "url": "https://open.spotify.com/artist/3VQnM4BnAzAcEwr7RZl8mz"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162410,
+      "name": "cuentas pendientes",
+      "url": "https://open.spotify.com/track/4S5gLfR0Nq0vCRp8dU0s3N"
+    },
+    {
+      "album": {
         "name": "Cuentos de hadas 2.0",
         "url": "https://open.spotify.com/album/5SH8uxJ0KCQNHJom2abXtr"
       },
@@ -4570,6 +4588,28 @@
       "duration_ms": 134769,
       "name": "fangs.",
       "url": "https://open.spotify.com/track/5sHE3crofShtlPonTGTdBL"
+    },
+    {
+      "album": {
+        "name": "Fanumanal",
+        "url": "https://open.spotify.com/album/4uO2LlOIhQOOaFB72Mdza7"
+      },
+      "artists": [
+        {
+          "name": "Guim",
+          "url": "https://open.spotify.com/artist/6ZnLEzYkKjhcAiNL7BG3kX"
+        },
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "Fanumanal",
+      "url": "https://open.spotify.com/track/39gf5ey744ptNpgdNrtsIz"
     },
     {
       "album": {
@@ -6264,7 +6304,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 140800,
       "name": "JOHATSU",
       "url": "https://open.spotify.com/track/6YBNoqmfANpeMxYP1PDqro"
@@ -7178,7 +7218,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 186875,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0U2oNjp5TIZLiQ7jnsU3oB"
@@ -12483,6 +12523,32 @@
     },
     {
       "album": {
+        "name": "Son de amores",
+        "url": "https://open.spotify.com/album/2v7eIFpPylXljeSmDWu5bs"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Escarmiento",
+          "url": "https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl"
+        },
+        {
+          "name": "Danisan47",
+          "url": "https://open.spotify.com/artist/1yTlZQrJjObA2BxIjdyp4Z"
+        },
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159017,
+      "name": "Son de amores",
+      "url": "https://open.spotify.com/track/4dzSAL9H7zU0hCSE86hg2a"
+    },
+    {
+      "album": {
         "name": "LA ESKINA DEL ESTANKE",
         "url": "https://open.spotify.com/album/2VukIjOu9AXoe66SxCFJTF"
       },
@@ -13484,7 +13550,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 128780,
       "name": "toseyhielo (feat. XannyDay, Velasko, Trillfox)",
       "url": "https://open.spotify.com/track/3RQGd0FmS76JRhaNI8GFUV"
@@ -14236,6 +14302,24 @@
       "duration_ms": 157750,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/76509L8F0tfkf0sg1SpeSw"
+    },
+    {
+      "album": {
+        "name": "Vampiro",
+        "url": "https://open.spotify.com/album/5V9DmdewM3UK5sDwI6n22C"
+      },
+      "artists": [
+        {
+          "name": "QLOUD",
+          "url": "https://open.spotify.com/artist/1YBW8nXtjzKkWTEtt2AmRk"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207147,
+      "name": "Vampiro",
+      "url": "https://open.spotify.com/track/0EPyLIa9yfg4wp9E5axBwf"
     },
     {
       "album": {

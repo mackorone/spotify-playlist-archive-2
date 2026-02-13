@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 
 > This is Offset\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,168 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,180 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 33 | [Fantasy \(feat\. Offset\)](https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Big Grim Reaper: The Return](https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut) | 3:22 |
 | 34 | [Danger \(Spider\) \(Offset & JID\)](https://open.spotify.com/track/3X6qK1LdMkSOhklwRa2ZfG) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:25 |
 | 35 | [Legacy \(feat\. Travis Scott & 21 Savage\)](https://open.spotify.com/track/7pMRoGLEJuFM2wl5pt0R99) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 4:04 |
-| 36 | [I HEARD \(FT\. YOUNGBOY NEVER BROKE AGAIN\)](https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 2:38 |
-| 37 | [Startender \(feat\. Offset and Tyga\)](https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:12 |
+| 36 | [Startender \(feat\. Offset and Tyga\)](https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:12 |
+| 37 | [I HEARD \(FT\. YOUNGBOY NEVER BROKE AGAIN\)](https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [HAUNTED BY FAME](https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg) | 2:38 |
 | 38 | [100 Racks \(Offset feat\. Playboi Carti\)](https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:37 |
 | 39 | [Red Room](https://open.spotify.com/track/4TWflhgevIGo448fWc6mQq) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [FATHER OF 4](https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc) | 4:01 |
 | 40 | [Lick](https://open.spotify.com/track/44uF8DNeuCzdr6SnjydJ7x) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Best of Rap](https://open.spotify.com/album/5QpweNFfnaNFd0gfU0Jr6z) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Ilh3G.md) - [plain]
 | 49 | [Baby Sitter \(feat\. Offset\)](https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:37 |
 | 50 | [Disrespectful](https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:40 |
 
-Snapshot ID: `aYp1AAAAAACmpa3hs5Gtcms/BeUz4b+M`
+Snapshot ID: `aYvGgAAAAAC4l7GxAcFV4KjsBMbklMLS`

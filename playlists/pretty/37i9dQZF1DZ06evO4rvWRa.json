@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638570,
+  "num_followers": 1638567,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADMW33Uh85rFflh1FKN11ue",
+  "snapshot_id": "aYvGgAAAAAA+PHuEes/x0dSZel6vxLzE",
   "tracks": [
     {
       "added_at": null,
@@ -135,18 +135,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spectre",
-        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh"
       },
       "artists": [
         {
+          "name": "The Walkers",
+          "url": "https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE"
+        },
+        {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "SAPPHIRE",
+          "url": "https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J"
         }
       ],
-      "duration_ms": 193787,
-      "name": "The Spectre",
-      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
+      "duration_ms": 204521,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA"
     },
     {
       "added_at": null,
@@ -171,26 +179,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh"
+        "name": "The Spectre",
+        "url": "https://open.spotify.com/album/1IKRstg3XuCuLWeCg3oaAW"
       },
       "artists": [
         {
-          "name": "The Walkers",
-          "url": "https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE"
-        },
-        {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "SAPPHIRE",
-          "url": "https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J"
         }
       ],
-      "duration_ms": 204521,
-      "name": "Unity",
-      "url": "https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA"
+      "duration_ms": 193787,
+      "name": "The Spectre",
+      "url": "https://open.spotify.com/track/2DGa7iaidT5s0qnINlwMjJ"
     },
     {
       "added_at": null,
@@ -1071,26 +1071,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOO BAD \u2013 Alan Walker Remix",
-        "url": "https://open.spotify.com/album/4enxadOuHz7QgYDT1Tcn3b"
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
       },
       "artists": [
         {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
         }
       ],
-      "duration_ms": 148474,
-      "name": "TOO BAD - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/6JcKisIcNS6Pe3As4Alvmg"
+      "duration_ms": 161097,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0CSLSbNaWiSnaXQ5h5lmWm"
     }
   ],
   "unique_name": "This Is Alan Walker",

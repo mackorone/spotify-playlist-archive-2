@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,607,249 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,607,125 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 60 | [Take Your Time](https://open.spotify.com/track/4B5Opwj9GzHEWizfD5ZLzQ) | [Humbear](https://open.spotify.com/artist/2u6q1sXo1CNVNLFCWqWDGo) | [Take Your Time](https://open.spotify.com/album/1LVvgt8v7FuFux2bJAYb2F) | 3:24 |
 | 61 | [1,000 Years](https://open.spotify.com/track/22uyZjmZR0DX8FyrIwQl35) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [The Colder Months](https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1) | 3:39 |
 | 62 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
-| 63 | [Winners](https://open.spotify.com/track/24iNTcDw03qMYCS3mJaq5f) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wild Animals](https://open.spotify.com/album/1DcI1ob0G4cNKIyFhrR35S) | 5:14 |
-| 64 | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/track/10jrqgyC1u81RhIgtLUfdR) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/album/3WAsH27vQcwla1TNOYFEua) | 3:33 |
+| 63 | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/track/10jrqgyC1u81RhIgtLUfdR) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/album/3WAsH27vQcwla1TNOYFEua) | 3:33 |
+| 64 | [Winners](https://open.spotify.com/track/24iNTcDw03qMYCS3mJaq5f) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wild Animals](https://open.spotify.com/album/1DcI1ob0G4cNKIyFhrR35S) | 5:14 |
 | 65 | [Roll](https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX) | [Ethan Parker](https://open.spotify.com/artist/6M7eKplcEZB8f87r2FMo3l) | [Roll](https://open.spotify.com/album/3zaxYdzgmoxxps2lC8sfOH) | 3:25 |
 | 66 | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t) | 3:58 |
 | 67 | [Somebody To Love](https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:32 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 95 | [Everything's Fine](https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Everything's Fine](https://open.spotify.com/album/3OZkBeZ9S4LDYvmn3jQ9kZ) | 3:29 |
 | 96 | [Swim the River](https://open.spotify.com/track/07SXue1iQcaLpTvFovKjrQ) | [Christian Lopez](https://open.spotify.com/artist/1KiDbdT8AHOwmlA0LwhpQc) | [Swim the River](https://open.spotify.com/album/69f1FJ4lZGfKFnEvVv8KGb) | 2:55 |
 | 97 | [Marry Me](https://open.spotify.com/track/2xierqeEyEkSJL9WKInBR5) | [Venus and the Moon](https://open.spotify.com/artist/2wHuSfI5SnRFuRsaCKJRL3) | [Marry Me](https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD) | 3:01 |
-| 98 | [Care for Me](https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE) | [Lee Henke](https://open.spotify.com/artist/0LWZC1UccfSpUQvkRPXf7T) | [Schema \- EP](https://open.spotify.com/album/0HvUhXafSupf8Iee6UBimo) | 4:11 |
-| 99 | [The Ones I Love](https://open.spotify.com/track/7zRYjnA47oCzNwc67sTTnf) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Me and the Fool I've Been \(Set 2\)](https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN) | 3:00 |
+| 98 | [The Ones I Love](https://open.spotify.com/track/7zRYjnA47oCzNwc67sTTnf) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Me and the Fool I've Been \(Set 2\)](https://open.spotify.com/album/1wu5s1SZC92eAVDJZYTsMN) | 3:00 |
+| 99 | [Care for Me](https://open.spotify.com/track/2ZyWQzcTlpZhKZluJL9TgE) | [Lee Henke](https://open.spotify.com/artist/0LWZC1UccfSpUQvkRPXf7T) | [Schema \- EP](https://open.spotify.com/album/0HvUhXafSupf8Iee6UBimo) | 4:11 |
 | 100 | [In Good Times](https://open.spotify.com/track/3gCZCyMbMK0jHCRDQfpKrX) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Remember Roses](https://open.spotify.com/album/2Dpk21DBj28JDsfpkrPj5Z) | 2:51 |
 
 Snapshot ID: `AAAAAAUrI/3R44/q/s6BCEgAMbKh55qP`

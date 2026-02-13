@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 248191,
+  "num_followers": 248214,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAHDgBljEWK8cHpWlkoqPI7",
+  "snapshot_id": "aYvGgAAAAADMgxJ8HAF9kYWODM4b5NNj",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
+      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNA HISTORIA IMPORTANTE",
         "url": "https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 309191,
       "name": "L'aurora (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/2KWeyq9rNnXLubrBqUw1zC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
-      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
     },
     {
       "added_at": null,
@@ -499,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eros",
+        "url": "https://open.spotify.com/album/2XkwMzF1gAdfHI4sk6QArW"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 258480,
+      "name": "Quanto amore sei",
+      "url": "https://open.spotify.com/track/3gRMbDA0VfPqymyAYLXSv4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "9 (Spanish Version)",
         "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
       },
@@ -515,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros",
-        "url": "https://open.spotify.com/album/2XkwMzF1gAdfHI4sk6QArW"
+        "name": "M\u00e9xico & Amigos",
+        "url": "https://open.spotify.com/album/5wRH13btzRy0O7c5RWcpEo"
       },
       "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        },
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 258480,
-      "name": "Quanto amore sei",
-      "url": "https://open.spotify.com/track/3gRMbDA0VfPqymyAYLXSv4"
+      "duration_ms": 198320,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/5EW6Lazy489NAOroclzA0p"
     },
     {
       "added_at": null,
@@ -559,26 +579,6 @@
       "duration_ms": 180279,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1ivNr2pbIq5dHix5eOuAlE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e9xico & Amigos",
-        "url": "https://open.spotify.com/album/5wRH13btzRy0O7c5RWcpEo"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        },
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/5EW6Lazy489NAOroclzA0p"
     },
     {
       "added_at": null,

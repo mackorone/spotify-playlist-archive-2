@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Fcukers on the cover bby
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,091 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,138 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 43 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 |
 | 44 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:39 |
 | 45 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:53 |
-| 46 | [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Just Your Doll](https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG) | 2:27 |
-| 47 | [You Only Live Once](https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:09 |
+| 46 | [You Only Live Once](https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:09 |
+| 47 | [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Just Your Doll](https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG) | 2:27 |
 | 48 | [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Rooty](https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP) | 4:45 |
 | 49 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
 | 50 | [Crystalised](https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:21 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 61 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
 | 62 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 |
 | 63 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
-| 64 | [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:25 |
-| 65 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
+| 64 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
+| 65 | [Forever salty](https://open.spotify.com/track/2BNWCIN4nxYbNhcSIol2BG) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk 2](https://open.spotify.com/album/5rkvqB9hpyAd8ZpSg9UL4r) | 2:25 |
 | 66 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
 | 67 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
 | 68 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 74 | [Such Great Heights](https://open.spotify.com/track/75z2YLg5Lkqf6qL9XOY8tV) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up](https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz) | 4:26 |
 | 75 | [I Like It Like That](https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I Like It Like That](https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT) | 2:53 |
 | 76 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
-| 77 | [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 |
-| 78 | [The End Has No End](https://open.spotify.com/track/0dy6iXYIF0piirySAzCBwF) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:05 |
+| 77 | [The End Has No End](https://open.spotify.com/track/0dy6iXYIF0piirySAzCBwF) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:05 |
+| 78 | [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 |
 | 79 | [The Reeling](https://open.spotify.com/track/5noQJkpVfHt2D4df2GXieV) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 4:47 |
 | 80 | [My Dick](https://open.spotify.com/track/2tN2Kvzm2ITh1jnMKjjWBZ) | [Mickey Avalon](https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2) | [Mickey Avalon](https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV) | 3:00 |
 | 81 | [I Remember](https://open.spotify.com/track/2edcAWwKM7SQajsFGP0edC) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [I Remember](https://open.spotify.com/album/7BvvgBNrGFOvoYKNPvoXv5) | 9:53 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 90 | [one more](https://open.spotify.com/track/1S499avHKKW1ycbMIFd0HL) | [Casual Affairs](https://open.spotify.com/artist/5EESQeFhNh3C79v3mLKe2W) | [one more](https://open.spotify.com/album/3HTS25aTQgzWbAkD4Hys7J) | 2:20 |
 | 91 | [Boys Wanna Be Her](https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd) | [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Impeach My Bush](https://open.spotify.com/album/5CSak2h5F36n6QieudTObv) | 3:55 |
 | 92 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 |
-| 93 | [Car Crash Baby](https://open.spotify.com/track/5ZrmgtEvaTrMhWbvzmq4UD) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Car Crash Baby](https://open.spotify.com/album/7dGjnItsV3bqzSXI0ChV40) | 3:17 |
-| 94 | [Play Your Part \(Pt\. 1\)](https://open.spotify.com/track/5udnrY00yVUOAzupil2H56) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Feed the Animals](https://open.spotify.com/album/1B5Lwt0D1ZetRreaCBYobP) | 4:44 |
+| 93 | [Play Your Part \(Pt\. 1\)](https://open.spotify.com/track/5udnrY00yVUOAzupil2H56) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Feed the Animals](https://open.spotify.com/album/1B5Lwt0D1ZetRreaCBYobP) | 4:44 |
+| 94 | [Car Crash Baby](https://open.spotify.com/track/5ZrmgtEvaTrMhWbvzmq4UD) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Car Crash Baby](https://open.spotify.com/album/7dGjnItsV3bqzSXI0ChV40) | 3:17 |
 | 95 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
 | 96 | [Fuck Forever](https://open.spotify.com/track/41Z2joQXOwZRBB8V6zk0A8) | [Babyshambles](https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ) | [Down In Albion](https://open.spotify.com/album/2f35NQiqbGoDuNBG1hyaDA) | 4:37 |
 | 97 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 173807,
+  "num_followers": 173810,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADII0qO45oShMpafbG2yx31",
+  "snapshot_id": "aYvGgAAAAAC28tTd46PS+nAc7A9x8wWo",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Sol Tamb\u00e9m Chora",
-        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
       "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
         }
       ],
-      "duration_ms": 257654,
-      "name": "Ven\u00e7a",
-      "url": "https://open.spotify.com/track/3dtHGICnmZt45FNHD1s8nf"
+      "duration_ms": 235866,
+      "name": "A Ordem Natural das Coisas (feat. Mc Tha)",
+      "url": "https://open.spotify.com/track/7MK6sYlWniVj8D1mrAAIwb"
     },
     {
       "added_at": null,
@@ -295,22 +291,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+        "name": "O Sol Tamb\u00e9m Chora",
+        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
       },
       "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
         {
           "name": "Emicida",
           "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
         },
         {
-          "name": "Mc Tha",
-          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 235866,
-      "name": "A Ordem Natural das Coisas (feat. Mc Tha)",
-      "url": "https://open.spotify.com/track/7MK6sYlWniVj8D1mrAAIwb"
+      "duration_ms": 257654,
+      "name": "Ven\u00e7a",
+      "url": "https://open.spotify.com/track/3dtHGICnmZt45FNHD1s8nf"
     },
     {
       "added_at": null,
@@ -359,6 +359,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 320800,
+      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
+      "url": "https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Mundo D\u00e1 Voltas",
         "url": "https://open.spotify.com/album/1fmt1VeCfsXnQTVQ9CgY8y"
       },
@@ -383,30 +407,6 @@
       "duration_ms": 342928,
       "name": "A Laje",
       "url": "https://open.spotify.com/track/0EXqaE8m9hSzNrO9h6Yepq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AmarElo",
-        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 320800,
-      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
-      "url": "https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX"
     },
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
-        "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 188518,
-      "name": "DESCOBRIDOR",
-      "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 249000,
       "name": "Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra)",
       "url": "https://open.spotify.com/track/4yEBOuDHhrFeGXyXNJ3C4y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
+        "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 188518,
+      "name": "DESCOBRIDOR",
+      "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
     },
     {
       "added_at": null,
@@ -531,30 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 A \u00daltima Rima",
-        "url": "https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E"
-      },
-      "artists": [
-        {
-          "name": "Jotap\u00ea",
-          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 275555,
-      "name": "Leandro Roque",
-      "url": "https://open.spotify.com/track/6CloyUaUDsg2gOp51hT9ao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
@@ -583,6 +559,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 A \u00daltima Rima",
+        "url": "https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E"
+      },
+      "artists": [
+        {
+          "name": "Jotap\u00ea",
+          "url": "https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 275555,
+      "name": "Leandro Roque",
+      "url": "https://open.spotify.com/track/6CloyUaUDsg2gOp51hT9ao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Emicida Racional VL 2 - Mesmas Cores & Mesmos Valores",
         "url": "https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn"
       },
@@ -595,26 +595,6 @@
       "duration_ms": 115200,
       "name": "O que n\u00f3iz faz com essa dor?",
       "url": "https://open.spotify.com/track/0N1jAQTeTbmibSZERYl4ER"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criolo E Emicida Ao Vivo (Live)",
-        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Rua Augusta - Live",
-      "url": "https://open.spotify.com/track/09sMZakpoYDwZIdqgg9YKS"
     },
     {
       "added_at": null,
@@ -635,6 +615,26 @@
       "duration_ms": 197746,
       "name": "Eu Gosto Dela",
       "url": "https://open.spotify.com/track/1fQ9v8EmKsTDzcrucB00K9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Rua Augusta - Live",
+      "url": "https://open.spotify.com/track/09sMZakpoYDwZIdqgg9YKS"
     },
     {
       "added_at": null,
@@ -1095,26 +1095,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Levanta e Anda",
-        "url": "https://open.spotify.com/album/2N1TNLiSMyJFNvn4zP5XN6"
-      },
-      "artists": [
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 173812,
-      "name": "Levanta e Anda",
-      "url": "https://open.spotify.com/track/0gbRoCASJO6l75d7A5XsXc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 246320,
       "name": "Oi Compadre - Ao Vivo",
       "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Levanta e Anda",
+        "url": "https://open.spotify.com/album/2N1TNLiSMyJFNvn4zP5XN6"
+      },
+      "artists": [
+        {
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 173812,
+      "name": "Levanta e Anda",
+      "url": "https://open.spotify.com/track/0gbRoCASJO6l75d7A5XsXc"
     }
   ],
   "unique_name": "This Is Emicida",

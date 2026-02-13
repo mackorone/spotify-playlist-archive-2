@@ -4,7 +4,7 @@
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-232 songs - 11 hr 38 min
+233 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/track/1TXbPx0WUaJM0fjDVs4wCD) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Hands On Me \(feat\. Meghan Trainor\)](https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up) | 3:03 | 2023-10-29 | 2024-03-25 |
 | [HEM VINGUT A JUGAR](https://open.spotify.com/track/381uhXd2a52f6WiLtjiCZs) | [Buhos](https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR) | [HEM VINGUT A JUGAR](https://open.spotify.com/album/53qkR8B31cDvVdKbKWldOa) | 2:31 | 2025-01-12 | 2025-06-03 |
 | [HERE TO STAY](https://open.spotify.com/track/10Df5LD2JCT1C0GJyWxBJf) | [Sofia Coll](https://open.spotify.com/artist/6Cn9q93GGDWyKJNDclydGd) | [HERE TO STAY](https://open.spotify.com/album/0WygPaugo9fU5L9iAVGHjG) | 2:38 | 2024-02-05 | 2024-07-15 |
+| [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 | 2026-02-12 |  |
 | [Higher](https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Higher](https://open.spotify.com/album/3b8s7uA0RjzJlP3WfIpdsa) | 3:21 | 2024-10-20 | 2024-12-16 |
 | [Hot summer night \- Oh La La La](https://open.spotify.com/track/23uAM0P7BzfC2Vf5qVrczN) | [Smil](https://open.spotify.com/artist/6QjHYUiCpQbhpD7eVApnQI), [Just Ben](https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL) | [Hot summer night \(Oh La La La\)](https://open.spotify.com/album/3OwwK4RPKg0xubd8IFMjoG) | 3:05 | 2025-08-11 | 2025-10-16 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-26 | 2024-08-05 |

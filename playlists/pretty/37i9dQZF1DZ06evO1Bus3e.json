@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12537,
+  "num_followers": 12539,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAD8p6s6cJQ+5hN4OeHbe3iD",
+  "snapshot_id": "aYvGgAAAAADVo/t/7oxA6EMUkl5x9e4g",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crimen Organizado",
-        "url": "https://open.spotify.com/album/5FiPNWW7CAEXZUFhPniZm1"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "Compa Nava",
-          "url": "https://open.spotify.com/artist/4XJ36g1SNkMd94pZKdizLF"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Crimen Organizado",
-      "url": "https://open.spotify.com/track/7rQc9Enutk9xbjP7WRUgUi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BELLAGIO",
         "url": "https://open.spotify.com/album/1xHAZAsmU6kT8P3SO49MLZ"
       },
@@ -335,6 +315,22 @@
       "duration_ms": 158066,
       "name": "BELLAGIO",
       "url": "https://open.spotify.com/track/3raY7hL7cPzLYOefqW4ubH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/4huwqIi9UfY9D3DtGwo4di"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 177219,
+      "name": "Soy Ayon",
+      "url": "https://open.spotify.com/track/1RoXiUyEb8DZsw6uAcGPiJ"
     },
     {
       "added_at": null,
@@ -371,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida Peligrosa",
-        "url": "https://open.spotify.com/album/4huwqIi9UfY9D3DtGwo4di"
+        "name": "Crimen Organizado",
+        "url": "https://open.spotify.com/album/5FiPNWW7CAEXZUFhPniZm1"
       },
       "artists": [
         {
           "name": "Arsenal Efectivo",
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Compa Nava",
+          "url": "https://open.spotify.com/artist/4XJ36g1SNkMd94pZKdizLF"
         }
       ],
-      "duration_ms": 177219,
-      "name": "Soy Ayon",
-      "url": "https://open.spotify.com/track/1RoXiUyEb8DZsw6uAcGPiJ"
+      "duration_ms": 186455,
+      "name": "Crimen Organizado",
+      "url": "https://open.spotify.com/track/7rQc9Enutk9xbjP7WRUgUi"
     },
     {
       "added_at": null,

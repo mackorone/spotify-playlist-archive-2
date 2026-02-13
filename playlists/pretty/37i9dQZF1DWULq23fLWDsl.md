@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > The Indie highlights of 2010\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,503 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,560 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 28 | [Home](https://open.spotify.com/track/5gmv3BgePSYiHnPJgY7oTJ) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 7:53 |
 | 29 | [Only The Young](https://open.spotify.com/track/4pOnY9Cbr16N3w0yDkUae8) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Flamingo](https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK) | 4:18 |
 | 30 | [I Can Talk](https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:55 |
-| 31 | [The Ghost Inside](https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:18 |
+| 31 | [Everlasting Light](https://open.spotify.com/track/50ruR1ueH4wroJBpJOnjQS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:25 |
 | 32 | [Why Won't You Make Up Your Mind?](https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 3:19 |
-| 33 | [Everlasting Light](https://open.spotify.com/track/50ruR1ueH4wroJBpJOnjQS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:25 |
+| 33 | [The Ghost Inside](https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:18 |
 | 34 | [Limit To Your Love](https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:36 |
 | 35 | [Spanish Sahara](https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Total Life Forever](https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E) | 6:49 |
 | 36 | [Big Jet Plane](https://open.spotify.com/track/7k7lT4K4hTJc3eEAX7euuk) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA) | 3:59 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 52 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
 | 53 | [She's Long Gone](https://open.spotify.com/track/4AaPXm5NKGEwGdOJzuPnrL) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:06 |
 | 54 | [Revival](https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 2:13 |
-| 55 | [Moneygrabber](https://open.spotify.com/track/4PwwyZBEkHcm4OTJThCzXi) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Pickin' up the Pieces](https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1) | 3:09 |
-| 56 | [Laredo](https://open.spotify.com/track/61beXNR1qPPxjyM8x3pdRk) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 3:12 |
+| 55 | [Laredo](https://open.spotify.com/track/61beXNR1qPPxjyM8x3pdRk) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 3:12 |
+| 56 | [Moneygrabber](https://open.spotify.com/track/4PwwyZBEkHcm4OTJThCzXi) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Pickin' up the Pieces](https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1) | 3:09 |
 | 57 | [Holiday](https://open.spotify.com/track/4cYZRebfwTsVNERxTm29Rb) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 2:18 |
 | 58 | [Brother Sparrow](https://open.spotify.com/track/6cWotAT4XRc5BO4aw6GjRt) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/6dhuUg8lHDWChpHit1OgRa) | 3:58 |
 | 59 | [He Would Have Laughed](https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 7:29 |

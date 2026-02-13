@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,116 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,124 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 25 | [modify Youth](https://open.spotify.com/track/2iytZJc4ySshGfIGzZ6rhe) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [evergreen/modify Youth](https://open.spotify.com/album/5RuEwr8rTtJN4DOlMT6bYt) | 3:11 |
 | 26 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
 | 27 | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/track/0yMqE8BPui92vB2It7NpWJ) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [BOUNCE \(feat\. C.O.S.A.\)](https://open.spotify.com/album/44D0vIz4TIkfyRU1f4h374) | 2:37 |
-| 28 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 |
+| 28 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
 | 29 | [アクション](https://open.spotify.com/track/1Dp1j8ohcjGTJhswwYWl5u) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [アクション](https://open.spotify.com/album/40d2UkPaT4bv8edR0RFiSx) | 2:53 |
-| 30 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
+| 30 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 |
 | 31 | [よあけのうた \- Yoake no uta](https://open.spotify.com/track/5EiVeDviICNBtdhZwGxp0Z) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [よあけのうた \- Yoake no uta \- JUJUTSU KAISEN The Culling Game part1 Ending Theme Song](https://open.spotify.com/album/58vU4Ix3CBflsbWDI9HpaZ) | 3:19 |
 | 32 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
 | 33 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xaI1AkwmFi.md) - [plain]
 | 46 | [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 |
 | 47 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 |
 | 48 | [Odoru Ponpokorin](https://open.spotify.com/track/3pncyVfDzI4m9oErJKLKIo) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Odoru Ponpokorin](https://open.spotify.com/album/2XeKcmluJtZwNDYJmhiDER) | 3:14 |
-| 49 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
+| 49 | [TOKYO DRIFT](https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD) | 3:08 |
 | 50 | [Tokimeki](https://open.spotify.com/track/3e0Td8QexmD5l3DJzXbbcC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:32 |
 
-Snapshot ID: `AAAAALOlKnY0X/wWILZEuy3AfME7NWvr`
+Snapshot ID: `AAAAABhGLiT5u9GW9iWrJH48ppgJ3Jp2`

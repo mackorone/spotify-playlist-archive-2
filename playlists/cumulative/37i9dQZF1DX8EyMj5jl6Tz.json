@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 144935,
       "name": "Fire To The Rain",
       "url": "https://open.spotify.com/track/1mlH24UmHdpICgiT2WwugR"
@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 119583,
       "name": "Lethal Industry",
       "url": "https://open.spotify.com/track/0QZgj2tq8LVEYesniNZbXm"
@@ -2566,6 +2566,28 @@
       "duration_ms": 117882,
       "name": "P.I.M.P",
       "url": "https://open.spotify.com/track/4aIJ6bMEK91amdy07Ap21o"
+    },
+    {
+      "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/3QZ9sm89waa7Jo6H0heRZR"
+      },
+      "artists": [
+        {
+          "name": "Gang Speed",
+          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
+        },
+        {
+          "name": "Emilio",
+          "url": "https://open.spotify.com/artist/5ejQjLfm6RcKIVWYxxupYj"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142608,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/6aisjMfoTpJoDa8jeXddkz"
     },
     {
       "album": {
@@ -3725,6 +3747,24 @@
     },
     {
       "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/6li4R1fIJW5BpleGWzQtd1"
+      },
+      "artists": [
+        {
+          "name": "Billy The Kit",
+          "url": "https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/745bMMlcwu39Xs4Us4EW34"
+    },
+    {
+      "album": {
         "name": "The Way I Are",
         "url": "https://open.spotify.com/album/5zWSMWktWUZq2crOfyWuxW"
       },
@@ -3736,7 +3776,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 186667,
       "name": "The Way I Are",
       "url": "https://open.spotify.com/track/5osKlPBtBF4rC9o7PyCWm1"
@@ -3916,6 +3956,28 @@
       "duration_ms": 231891,
       "name": "Unfaithful",
       "url": "https://open.spotify.com/track/342is2Mbd5vqTD5HADpRz8"
+    },
+    {
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/2hwtlqYFr8vEYYugqfxAro"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125625,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/47Ur1YLaC5ELAQ3R9q4zkW"
     },
     {
       "album": {

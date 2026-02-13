@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,767 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,796 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 81 | [Who I Am](https://open.spotify.com/track/3dlM0Jy0cLRzAOeBxMt7Mw) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [The Waiting](https://open.spotify.com/album/0n6zxAXMLA2dDZx4bLs6IG) | 4:35 |
 | 82 | [Back Roads](https://open.spotify.com/track/2ZnA5zyjPzku5AVV3UCBI9) | [Brandon Rhyder](https://open.spotify.com/artist/7E6MNnNmJCt5ag3vtTvHiD) | [Conviction](https://open.spotify.com/album/5eZc2QcvtO6kHyhKqKdinL) | 4:04 |
 | 83 | [Anyhow, I Love You](https://open.spotify.com/track/0SAi0kuzDwXPdQSHbEGfEt) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Texas Cookin](https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF) | 3:54 |
-| 84 | [Lonesome](https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR) | [Cory Morrow](https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC) | [Brand New Me](https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk) | 3:09 |
-| 85 | [There Goes My Heart Again](https://open.spotify.com/track/6U42tr2pL6gFjdX6iY57PH) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 2:37 |
+| 84 | [There Goes My Heart Again](https://open.spotify.com/track/6U42tr2pL6gFjdX6iY57PH) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 2:37 |
+| 85 | [Lonesome](https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR) | [Cory Morrow](https://open.spotify.com/artist/0XRBwgqB24RnxXi7BFYNxC) | [Brand New Me](https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk) | 3:09 |
 | 86 | [Beer, Bait and Ammo](https://open.spotify.com/track/7irS1d9sepVtxIrGQKc0Vy) | [Kevin Fowler](https://open.spotify.com/artist/6NKQIkHTjxD5Ovj6znGV1n) | [Beer, Bait and Ammo](https://open.spotify.com/album/7eM2NVyKYavESvxkNxrE8T) | 5:15 |
 | 87 | [Delta Dawn](https://open.spotify.com/track/26O47HvtANzG1c2Uv6eW5H) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [16 Biggest Hits](https://open.spotify.com/album/3YD1UC4LwnmtJoJMxrWWKx) | 2:56 |
 | 88 | [Don't Forget Where You Come From](https://open.spotify.com/track/15EJEiqpaFgDISecfkyxH1) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [Don't Forget Where You Come From](https://open.spotify.com/album/57L4MhqfDun3uimhVBXX0Z) | 3:02 |

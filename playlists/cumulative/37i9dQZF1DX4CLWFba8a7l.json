@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "In this house we celebrate Australian music. Cover: DZ Deathrays",
+  "description": "In this house we celebrate Australian music. Cover: Chet Faker",
   "name": "Turn Up Aus",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 217997,
       "name": "1 DAY 2 LATE",
       "url": "https://open.spotify.com/track/5akUW2aUdnNs3Y0Ohn560G"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244055,
+      "name": "1000 Ways",
+      "url": "https://open.spotify.com/track/7HohY6Vgz1aoZfgKB6iL1J"
     },
     {
       "album": {
@@ -2508,7 +2526,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 214212,
       "name": "Easing Out Of Control",
       "url": "https://open.spotify.com/track/4mwK104Wm12C3cTMXwq5Op"
@@ -3137,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "Foxtrap",
+        "url": "https://open.spotify.com/album/01mswWCdsOBOKGQHcPVjC2"
+      },
+      "artists": [
+        {
+          "name": "Adam Newling",
+          "url": "https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184517,
+      "name": "Foxtrap",
+      "url": "https://open.spotify.com/track/7oBXofppxSrXALXG0Agcnv"
+    },
+    {
+      "album": {
         "name": "Freaker",
         "url": "https://open.spotify.com/album/3TcAQVAFJxk7Bb1JDIPEvO"
       },
@@ -3626,7 +3662,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 133140,
       "name": "Growing Pains",
       "url": "https://open.spotify.com/track/3D87GX5fjm6vhs3Mi6NUV4"
@@ -4144,7 +4180,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 186971,
       "name": "Hurt So Bad",
       "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
@@ -6492,7 +6528,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 284271,
       "name": "Over You",
       "url": "https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt"
@@ -8354,7 +8390,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 397448,
       "name": "Sunburned in London",
       "url": "https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT"
@@ -9361,6 +9397,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Keli Holiday",
+          "url": "https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/68MVhCraIUdjnZcaGUxz9q"
+    },
+    {
+      "album": {
         "name": "Caught in a Reverie",
         "url": "https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr"
       },
@@ -9921,6 +9975,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197544,
+      "name": "Where Our Streets Met",
+      "url": "https://open.spotify.com/track/1pdY6AbGcmbev2bBj7ScdA"
+    },
+    {
+      "album": {
         "name": "Where You Need To Be",
         "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
       },
@@ -10200,6 +10272,24 @@
       "duration_ms": 157853,
       "name": "XTC",
       "url": "https://open.spotify.com/track/5LPJ9swDvm6EKh8cW52I4A"
+    },
+    {
+      "album": {
+        "name": "Whenever I Go",
+        "url": "https://open.spotify.com/album/7sX23NUtAyg82G2H7hX91R"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170331,
+      "name": "You Were There",
+      "url": "https://open.spotify.com/track/5UT4Kb2glnF5IS7rEu48wN"
     },
     {
       "album": {

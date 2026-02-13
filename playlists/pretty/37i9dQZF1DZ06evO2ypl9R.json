@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADvz6jictE8vxt+DoBFtP+Z",
+  "snapshot_id": "aYvGgAAAAAAKEAQ3dZ3u7TFNPdmaE2Xy",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 567721,
+      "name": "Wut IZ Style?",
+      "url": "https://open.spotify.com/track/1mwMaWjLGCRehwM1f6FZdn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Envision Remixes",
         "url": "https://open.spotify.com/album/6h5GzvE8M453rbfa8NKjwK"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 556306,
       "name": "Envision - \u00c2me Remix",
       "url": "https://open.spotify.com/track/7IXVjnFnFsGQ21qBV3Uo1T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 567721,
-      "name": "Wut IZ Style?",
-      "url": "https://open.spotify.com/track/1mwMaWjLGCRehwM1f6FZdn"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 323262,
+      "name": "Don\u2019t Ever Look Back",
+      "url": "https://open.spotify.com/track/0GcwozvQwoXOcCbIyrW9zC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Feel For You (Yoruba Soul Remixes)",
         "url": "https://open.spotify.com/album/1cCnQtwVprQDiKoAX9Nwqp"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 378929,
       "name": "I Feel For You - Yoruba Soul Club Mix",
       "url": "https://open.spotify.com/track/5LtfuQrurh67IqeQbuLfYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 323262,
-      "name": "Don\u2019t Ever Look Back",
-      "url": "https://open.spotify.com/track/0GcwozvQwoXOcCbIyrW9zC"
     },
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 126900,
+      "name": "Gett Loww",
+      "url": "https://open.spotify.com/track/6xWMBSdce2AZvlB1fRn8WE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Quieter You Become, the More You Hear",
         "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 287043,
       "name": "Recovery Music",
       "url": "https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 126900,
-      "name": "Gett Loww",
-      "url": "https://open.spotify.com/track/6xWMBSdce2AZvlB1fRn8WE"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 301713,
+      "name": "I Found",
+      "url": "https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Tambores Te Llaman",
         "url": "https://open.spotify.com/album/35lL1deAL0vwnkfgO3Abnq"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 379360,
       "name": "Los Tambores Te Llaman - Original Mix",
       "url": "https://open.spotify.com/track/6og7BbvvSqRR08CiWhuDBN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 301713,
-      "name": "I Found",
-      "url": "https://open.spotify.com/track/2VK2xw8zkrAAsL3awzxDgf"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 258617,
+      "name": "Plantation Earth",
+      "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brand New Feeling - Yoruba Soul Remixes",
         "url": "https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 447400,
       "name": "Brand New Feeling - Yoruba Soul Mix Part 1",
       "url": "https://open.spotify.com/track/5udRnyoTYZRr44pXCOCo7p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 258617,
-      "name": "Plantation Earth",
-      "url": "https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm"
     },
     {
       "added_at": null,
@@ -600,29 +600,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 171668,
-      "name": "The Roads Of Kenya",
-      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exit Music - Songs with Radio Heads EP 4",
-        "url": "https://open.spotify.com/album/4TQcH4sJAp0hv7Tu9lgtOh"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Erro",
-          "url": "https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK"
-        }
-      ],
-      "duration_ms": 398320,
-      "name": "Everything in Its Right Place",
-      "url": "https://open.spotify.com/track/3ulFB8nNu9NB1a5zUnTIgR"
+      "duration_ms": 182071,
+      "name": "MOSS",
+      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
     },
     {
       "added_at": null,
@@ -643,6 +623,26 @@
       "duration_ms": 379160,
       "name": "Same Thing - Vocal Mix",
       "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Exit Music - Songs with Radio Heads EP 4",
+        "url": "https://open.spotify.com/album/4TQcH4sJAp0hv7Tu9lgtOh"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Erro",
+          "url": "https://open.spotify.com/artist/1OqARZ9xhHwxnxShurKYLK"
+        }
+      ],
+      "duration_ms": 398320,
+      "name": "Everything in Its Right Place",
+      "url": "https://open.spotify.com/track/3ulFB8nNu9NB1a5zUnTIgR"
     },
     {
       "added_at": null,
@@ -676,25 +676,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 182071,
-      "name": "MOSS",
-      "url": "https://open.spotify.com/track/0aVhniuf8aJR8KEgrbL9zb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+      "duration_ms": 171668,
+      "name": "The Roads Of Kenya",
+      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
     },
     {
       "added_at": null,
@@ -739,6 +723,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Basic Sketches For Beginners",
+        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 590030,
+      "name": "Auto Machine",
+      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cantos A Ochun et Oya [Juan Valentine ReEdit]",
         "url": "https://open.spotify.com/album/6k6ANYZCzmhF4KyKxUsPMx"
       },
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Basic Sketches For Beginners",
-        "url": "https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF"
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
       "artists": [
         {
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 590030,
-      "name": "Auto Machine",
-      "url": "https://open.spotify.com/track/5BOTahRcfhhdSllCVVWYnc"
+      "duration_ms": 169349,
+      "name": "Intro (Solemait)",
+      "url": "https://open.spotify.com/track/0yUIO5AhRDop02PKzsMn4P"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 514164,
       "name": "Black Woman Cry",
       "url": "https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pyrography",
-        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 169349,
-      "name": "Intro (Solemait)",
-      "url": "https://open.spotify.com/track/0yUIO5AhRDop02PKzsMn4P"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 275419,
-      "name": "Booty Call",
-      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pyrography",
         "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 304218,
       "name": "Walkin' in Paris",
       "url": "https://open.spotify.com/track/6FT47gn7jWEL31VHB41UZw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 275419,
+      "name": "Booty Call",
+      "url": "https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU"
     },
     {
       "added_at": null,
@@ -915,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 135259,
-      "name": "Lollies & Weed",
-      "url": "https://open.spotify.com/track/4larL9D7YZUdvPWdEdk5Nf"
+      "duration_ms": 361000,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U"
     }
   ],
   "unique_name": "This Is Osunlade",

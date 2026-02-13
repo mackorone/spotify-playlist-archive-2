@@ -1,12 +1,12 @@
 {
   "description": "Add some perreo to your Valentine\u2019s Day activities \u2764\ufe0f",
-  "num_followers": 162118,
+  "num_followers": 162270,
   "original_name": "Valentine\u2019s Day Perreo Party \u2764\ufe0f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGg1mVdbbOuoaoPmA8htNAsoLy67",
+  "snapshot_id": "AAAAAK2W8XsjY33YVXZvzCyFpWx+Y0j5",
   "tracks": [
     {
       "added_at": "2026-02-03 08:02:44",
@@ -347,22 +347,22 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
-        "name": "I'M PART",
-        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
+        "name": "Amanece",
+        "url": "https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj"
       },
       "artists": [
         {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Dysbit",
-          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
         }
       ],
-      "duration_ms": 158480,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
+      "duration_ms": 190004,
+      "name": "Amanece",
+      "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
     },
     {
       "added_at": "2026-02-03 08:02:44",
@@ -383,22 +383,22 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
-        "name": "Amanece",
-        "url": "https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj"
+        "name": "I'M PART",
+        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
         },
         {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
         }
       ],
-      "duration_ms": 190004,
-      "name": "Amanece",
-      "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
+      "duration_ms": 158480,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
     },
     {
       "added_at": "2026-02-03 08:02:44",
@@ -763,6 +763,26 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 157453,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
+    },
+    {
+      "added_at": "2026-02-03 08:02:44",
+      "album": {
         "name": "Chula Vente",
         "url": "https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 241564,
       "name": "Chula Vente",
       "url": "https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"
-    },
-    {
-      "added_at": "2026-02-03 08:02:44",
-      "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 157453,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
     },
     {
       "added_at": "2026-02-03 08:02:44",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
+        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
+        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 209680,
+      "name": "Sexy Movimiento",
+      "url": "https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu"
+    },
+    {
+      "added_at": "2026-02-03 08:02:44",
+      "album": {
         "name": "COMO OREO",
         "url": "https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 195261,
       "name": "COMO OREO",
       "url": "https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs"
-    },
-    {
-      "added_at": "2026-02-03 08:02:44",
-      "album": {
-        "name": "Wisin Vs Yandel \"Los Extraterrestres\"",
-        "url": "https://open.spotify.com/album/1wqojXZPs45MXFSPlqcVkh"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 209680,
-      "name": "Sexy Movimiento",
-      "url": "https://open.spotify.com/track/1Kgyx7NLtzsa3gWV1efGHu"
     },
     {
       "added_at": "2026-02-03 08:02:44",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
-        "name": "NUBES",
-        "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 271801,
-      "name": "NUBES",
-      "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
-    },
-    {
-      "added_at": "2026-02-03 08:02:44",
-      "album": {
         "name": "Farruko Presents Los Menores",
         "url": "https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 213311,
       "name": "Passion Whine",
       "url": "https://open.spotify.com/track/2QAwkI8L0UVBpjHJ6PwBzn"
+    },
+    {
+      "added_at": "2026-02-03 08:02:44",
+      "album": {
+        "name": "NUBES",
+        "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 271801,
+      "name": "NUBES",
+      "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
     },
     {
       "added_at": "2026-02-03 08:02:44",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "T\u00fa Foto",
-      "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
-    },
-    {
-      "added_at": "2026-02-03 08:02:44",
-      "album": {
         "name": "Tacata (Remix)",
         "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
       },
@@ -1531,26 +1515,18 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 204700,
-      "name": "Bella y Sensual",
-      "url": "https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3"
+      "duration_ms": 193226,
+      "name": "T\u00fa Foto",
+      "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
     },
     {
       "added_at": "2026-02-03 08:02:44",
@@ -1571,6 +1547,30 @@
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
+    },
+    {
+      "added_at": "2026-02-03 08:02:44",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Bella y Sensual",
+      "url": "https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3"
     },
     {
       "added_at": "2026-02-03 08:02:44",
@@ -1999,6 +1999,26 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
+        "name": "YTSQS",
+        "url": "https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "CHICA ATRACTIVA",
+      "url": "https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1"
+    },
+    {
+      "added_at": "2026-02-03 08:02:44",
+      "album": {
         "name": "Otro Trago (Remix)",
         "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
       },
@@ -2027,26 +2047,6 @@
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
-    },
-    {
-      "added_at": "2026-02-03 08:02:44",
-      "album": {
-        "name": "YTSQS",
-        "url": "https://open.spotify.com/album/4CVDmXbf9G25OoGBLGI7T1"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Lewis Somes",
-          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "CHICA ATRACTIVA",
-      "url": "https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1"
     },
     {
       "added_at": "2026-02-03 08:02:44",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
-        "name": "LO MISMO DE SIEMPRE",
-        "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "BANDIDA",
-      "url": "https://open.spotify.com/track/1vvWri6BpgA6Pqz6JixNFa"
-    },
-    {
-      "added_at": "2026-02-03 08:02:44",
-      "album": {
         "name": "DEMBOW B\u00c9LICO",
         "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+    },
+    {
+      "added_at": "2026-02-03 08:02:44",
+      "album": {
+        "name": "LO MISMO DE SIEMPRE",
+        "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "BANDIDA",
+      "url": "https://open.spotify.com/track/1vvWri6BpgA6Pqz6JixNFa"
     },
     {
       "added_at": "2026-02-03 08:02:44",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 186096,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
-    },
-    {
-      "added_at": "2026-02-03 08:02:44",
-      "album": {
         "name": "Mas Rica Que Ayer",
         "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
       },
@@ -2635,22 +2619,18 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
-        "name": "ANDO",
-        "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
       },
       "artists": [
         {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Gittobeatz",
-          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
         }
       ],
-      "duration_ms": 172774,
-      "name": "ANDO",
-      "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
+      "duration_ms": 186096,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
     },
     {
       "added_at": "2026-02-03 08:02:44",
@@ -2675,22 +2655,42 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
-        "name": "IND\u00d3MITA",
-        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
+        "name": "DELIRIUM",
+        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
       },
       "artists": [
         {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
           "name": "Neton Vega",
           "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 198211,
-      "name": "+ Perra + Bitch",
-      "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
+      "duration_ms": 209571,
+      "name": "/90 60 90",
+      "url": "https://open.spotify.com/track/0JqpFd68DAc8gLNubwTrkq"
+    },
+    {
+      "added_at": "2026-02-03 08:02:44",
+      "album": {
+        "name": "ANDO",
+        "url": "https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Gittobeatz",
+          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
+        }
+      ],
+      "duration_ms": 172774,
+      "name": "ANDO",
+      "url": "https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu"
     },
     {
       "added_at": "2026-02-03 08:02:44",
@@ -2731,22 +2731,22 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
-        "name": "DELIRIUM",
-        "url": "https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6"
+        "name": "IND\u00d3MITA",
+        "url": "https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
         }
       ],
-      "duration_ms": 209571,
-      "name": "/90 60 90",
-      "url": "https://open.spotify.com/track/0JqpFd68DAc8gLNubwTrkq"
+      "duration_ms": 198211,
+      "name": "+ Perra + Bitch",
+      "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
     },
     {
       "added_at": "2026-02-03 08:02:44",
@@ -2867,6 +2867,22 @@
     {
       "added_at": "2026-02-03 08:02:44",
       "album": {
+        "name": "Qu\u00e9 Motor",
+        "url": "https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 187459,
+      "name": "Qu\u00e9 Motor",
+      "url": "https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi"
+    },
+    {
+      "added_at": "2026-02-03 08:02:44",
+      "album": {
         "name": "Doblexx\u00f3",
         "url": "https://open.spotify.com/album/6u2scPtBaaOFV7WTyR21KZ"
       },
@@ -2883,22 +2899,6 @@
       "duration_ms": 176720,
       "name": "Doblexx\u00f3",
       "url": "https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2"
-    },
-    {
-      "added_at": "2026-02-03 08:02:44",
-      "album": {
-        "name": "Qu\u00e9 Motor",
-        "url": "https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 187459,
-      "name": "Qu\u00e9 Motor",
-      "url": "https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi"
     },
     {
       "added_at": "2026-02-03 08:02:44",

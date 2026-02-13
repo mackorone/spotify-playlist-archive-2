@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 489 likes - 78 songs - 4 hr 35 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 497 likes - 82 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,9 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 76 | [Want](https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:21 |
 | 77 | [Tic toc](https://open.spotify.com/track/5BTY9TRm4ypYqXVU0kvmTF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Tic toc](https://open.spotify.com/album/0zubQYsAaKEyw6Ju6IRHko) | 2:34 |
 | 78 | [El Arte de Perderse](https://open.spotify.com/track/1lQ1oIQJjfIRnT16EBx4yU) | [normandía](https://open.spotify.com/artist/0KSutzhXRytRGdfEsGWN1M) | [El Arte de Perderse](https://open.spotify.com/album/1feLfZkAWelzbUVsaoyux2) | 2:50 |
+| 79 | [Alchemical Romance](https://open.spotify.com/track/5WWvHcc1dQc6528tbZsVip) | [Belladonna](https://open.spotify.com/artist/46kYkISh4NadImXUdivRVb) | [The Noir Album](https://open.spotify.com/album/3wURhrqRieO3ZuMIlEqpDR) | 3:22 |
+| 80 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 |
+| 81 | [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 |
+| 82 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 |
 
-Snapshot ID: `AAACmuWAINXvDgEDTyW4MrRokm46GU68`
+Snapshot ID: `AAACnqMsiLia4HlfxsbvgT7+7EVm6PoZ`

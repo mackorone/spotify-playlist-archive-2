@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,745 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,747 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 9 | [Unknown Song](https://open.spotify.com/track/2zR85boqjMOKPygjdDbGbC) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Paulina Eisenberg](https://open.spotify.com/artist/1obwjMHQ4kZ2bXoBhLIaBT) | [Unknown Song](https://open.spotify.com/album/62rE0W1Vy1v48FTO9hxPzx) | 4:10 |
 | 10 | [in my mind](https://open.spotify.com/track/6HEJavNON4wd0cy1Hp6KV2) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [in my mind](https://open.spotify.com/album/0BLXUt3TsQv6e4A3Mp6PZk) | 3:01 |
 | 11 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
-| 12 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
-| 13 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
+| 12 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
+| 13 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 14 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
 | 15 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
 | 16 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 47 | [Falling for You](https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Falling for You](https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO) | 3:26 |
 | 48 | [beautiful day](https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [beautiful day](https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq) | 3:03 |
 | 49 | [Highroll](https://open.spotify.com/track/4eaXS4949afO8LgaF4rzZO) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Highroll](https://open.spotify.com/album/2Kaxgrdx5WnASCgyIRlII4) | 3:01 |
-| 50 | [Mojito](https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Mojito](https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax) | 3:04 |
+| 50 | [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 |
 | 51 | [Morning Sun](https://open.spotify.com/track/2q8CITaNIKGjvpwAkroCYD) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Morning Sun](https://open.spotify.com/album/0SE40IGBADJ2A8mneCxzWQ) | 3:19 |
 | 52 | [Into the Night](https://open.spotify.com/track/0u1x6HLqZ45r7ekn7mOkTE) | [Mink](https://open.spotify.com/artist/021q1fOEcfqxtlCtJs868v) | [Into the Night](https://open.spotify.com/album/2lvXZ9u0h6wI8vzZ8rdfac) | 2:51 |
 | 53 | [Highness](https://open.spotify.com/track/5StogjwnaLs9zO0fl6x7P3) | [Nosoyo](https://open.spotify.com/artist/4H5tKZTXuVPxynMaaaBbWs) | [Highness](https://open.spotify.com/album/4EHDGQCK8ziAccxlY8tCS5) | 3:13 |
 | 54 | [Tides](https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Mirage Morning](https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ) | 2:42 |
-| 55 | [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 |
+| 55 | [Mojito](https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Mojito](https://open.spotify.com/album/2DBmd6085jcbfKpihaRpax) | 3:04 |
 | 56 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 |
 | 57 | [Eight Hours](https://open.spotify.com/track/0G6I2K2DU70tZkrdVZ3hxZ) | [Fruit Junior](https://open.spotify.com/artist/4qNHQ7M4r3z1jEKUyH8NiN) | [How About This Picture Of A Cat](https://open.spotify.com/album/7es9gg8c5hl6lgy7HsgbgU) | 3:43 |
 | 58 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 69 | [Casanova](https://open.spotify.com/track/3MvAbg1lc0SC7Qi1UOvrpg) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Casanova](https://open.spotify.com/album/696HC3UABKkKCfHnZGEhCs) | 2:35 |
 | 70 | [1969 \- Conrad](https://open.spotify.com/track/44Zr3vEQdmZWNheh9t2wfz) | [Razz](https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu) | [1969 \- Conrad](https://open.spotify.com/album/0FYK70LHC8oiKAlI71uu9V) | 2:38 |
 | 71 | [Calm Me Down](https://open.spotify.com/track/2hTeAOEUwcFJATk3c8mUGN) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Calm Me Down](https://open.spotify.com/album/7CWCUEK92DRBxcKuDkb7Xk) | 3:05 |
-| 72 | [Non\-Breakable Space](https://open.spotify.com/track/47YQlBQsQv1CfHi1E1Lnq8) | [Small Fires](https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc) | [All This Noise](https://open.spotify.com/album/1s352S6claWIYeJ0bvwyrq) | 3:43 |
-| 73 | [How 2 Dance](https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [How 2 Dance](https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp) | 2:43 |
-| 74 | [I Float on Your Love](https://open.spotify.com/track/6AWDdRAaK0dgJ3Gst6VT5S) | [Like Lovers](https://open.spotify.com/artist/0puXK77dHMF8fzrgmov6MF) | [Everything All the Time Forever](https://open.spotify.com/album/32QWfCJJKd4CpBngWJyr94) | 4:18 |
+| 72 | [How 2 Dance](https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [How 2 Dance](https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp) | 2:43 |
+| 73 | [I Float on Your Love](https://open.spotify.com/track/6AWDdRAaK0dgJ3Gst6VT5S) | [Like Lovers](https://open.spotify.com/artist/0puXK77dHMF8fzrgmov6MF) | [Everything All the Time Forever](https://open.spotify.com/album/32QWfCJJKd4CpBngWJyr94) | 4:18 |
+| 74 | [Non\-Breakable Space](https://open.spotify.com/track/47YQlBQsQv1CfHi1E1Lnq8) | [Small Fires](https://open.spotify.com/artist/6lcQgSJvV3dxRev56wMrbc) | [All This Noise](https://open.spotify.com/album/1s352S6claWIYeJ0bvwyrq) | 3:43 |
 | 75 | [Dance at the Function](https://open.spotify.com/track/5USEKBiRFiQCeWy4U8AjKW) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Dance at the Function](https://open.spotify.com/album/7DIMi5jLdMlWB8rgsMMDwd) | 3:25 |
 | 76 | [Parasols](https://open.spotify.com/track/2pbIIJf26jXuS70UbDsdD0) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Parasols](https://open.spotify.com/album/0u6JSuef88Gk0cD2cKJxgF) | 3:19 |
 | 77 | [make you feel](https://open.spotify.com/track/7tltcvB3SJcvxq7VCMMmp4) | [palffi](https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC) | [make you feel](https://open.spotify.com/album/33uld99180XHljxAhQiPNs) | 3:30 |

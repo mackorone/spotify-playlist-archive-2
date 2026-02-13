@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43515,
+  "num_followers": 43519,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAACjMQHg4Hh3lIo1By9UDx4X",
+  "snapshot_id": "aYvGgAAAAAB4JJDD/NnLCGMx2ktLLEar",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 170081,
+      "name": "Saberte Querer",
+      "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT \u00dc",
         "url": "https://open.spotify.com/album/6WhhFMVZAcW8dWpipOddAk"
       },
@@ -227,26 +247,6 @@
       "duration_ms": 139322,
       "name": "NOT \u00dc",
       "url": "https://open.spotify.com/track/7GJtYstZAW9hVBoTMfkYgh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IDGAF ERA",
-        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 170081,
-      "name": "Saberte Querer",
-      "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
     },
     {
       "added_at": null,
@@ -615,30 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MiuMiu",
-        "url": "https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 179374,
-      "name": "MiuMiu",
-      "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diane Warren: The Cave Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re"
       },
@@ -663,6 +639,30 @@
       "duration_ms": 200739,
       "name": "Seaside",
       "url": "https://open.spotify.com/track/0cw83fumWofmtmNd2hVAPr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MiuMiu",
+        "url": "https://open.spotify.com/album/1fWk1CMAtVYbXJTUZKUohA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 179374,
+      "name": "MiuMiu",
+      "url": "https://open.spotify.com/track/06P2zNCmRsB8aQBZo78D2o"
     },
     {
       "added_at": null,

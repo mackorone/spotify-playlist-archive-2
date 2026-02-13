@@ -1169,6 +1169,32 @@
     },
     {
       "album": {
+        "name": "Dump Gawd: Shot Clock King, Vol. 4",
+        "url": "https://open.spotify.com/album/26A4HF6PQ3VVtV9gTmct3c"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Jay Nice",
+          "url": "https://open.spotify.com/artist/6NdNJXkvy3edTkcMoRnuzN"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Area of Effect",
+      "url": "https://open.spotify.com/track/3jQcVREtLkONMQlTF4IxsM"
+    },
+    {
+      "album": {
         "name": "AS MAN FIGHT HIMSELF",
         "url": "https://open.spotify.com/album/6P5t0pdWbeFGDJes590iQc"
       },

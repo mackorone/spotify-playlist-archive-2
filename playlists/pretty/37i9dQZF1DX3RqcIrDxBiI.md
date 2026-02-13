@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RqcIrDxBiI.md) - [plain]
 
 > Les plus belles chansons d'amour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,441 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,461 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RqcIrDxBiI.md) - [plain]
 | 5 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
 | 6 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
 | 7 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
-| 8 | [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 |
+| 8 | [Marry You](https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:50 |
 | 9 | [Dilemma](https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 4:49 |
 | 10 | [How Deep Is Your Love](https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Greatest](https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT) | 4:05 |
 | 11 | [Fallin'](https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 3:30 |
 | 12 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 |
-| 13 | [Marry You](https://open.spotify.com/track/6SKwQghsR8AISlxhcwyA9R) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:50 |
+| 13 | [Just the Way You Are](https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:40 |
 | 14 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
 | 15 | [Baby Can I Hold You](https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 3:13 |
 | 16 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RqcIrDxBiI.md) - [plain]
 | 29 | [Ta reine](https://open.spotify.com/track/3iXhLi33EpUfcOwasC8un1) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Brol](https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC) | 3:33 |
 | 30 | [Popcorn Salé](https://open.spotify.com/track/6IyY7st5UooM84lDO3odza) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 3:58 |
 | 31 | [Avant toi](https://open.spotify.com/track/4iNPp0BZ4lBu7bipdWLcWk) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [VersuS](https://open.spotify.com/album/5DD7BStcOFBl3i9z1fyr7e) | 3:43 |
-| 32 | [Je te promets](https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 4:35 |
-| 33 | [Underneath Your Clothes](https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:44 |
+| 32 | [Underneath Your Clothes](https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:44 |
+| 33 | [Je te promets](https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Gang](https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg) | 4:35 |
 | 34 | [Unchained Melody](https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [The Very Best Of The Righteous Brothers \- Unchained Melody](https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6) | 3:36 |
 | 35 | [L'envie d'aimer](https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n) | [Les Dix Commandements](https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb), [Daniel Levi](https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD) | [Les Dix Commandements \(L'intégrale\)](https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l) | 6:28 |
 | 36 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 |

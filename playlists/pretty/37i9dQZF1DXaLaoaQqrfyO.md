@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 
 > Seminal indie pop tracks from the 2010s\. Cover: Blood Orange.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,208 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,221 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 33 | [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 |
 | 34 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
 | 35 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 |
-| 36 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
-| 37 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
+| 36 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
+| 37 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
 | 38 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 |
 | 39 | [Talk Too Much](https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [How Will You Know If You Never Try](https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe) | 3:08 |
 | 40 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 50 | [Sutphin Boulevard](https://open.spotify.com/track/2NtqI3Ylig7bB36esIwYuE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 3:34 |
 | 51 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 |
 | 52 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
-| 53 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
-| 54 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 |
+| 53 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 |
+| 54 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
 | 55 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
 | 56 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
 | 57 | [Peaches](https://open.spotify.com/track/0JsRZWdSquAQtgyJO8mhLA) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:45 |
@@ -90,14 +90,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLaoaQqrfyO.md) - [plain]
 | 80 | [17](https://open.spotify.com/track/5UVBumEwdUnzvqxrXOYLFA) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [The Year of Hibernation](https://open.spotify.com/album/7jG32gfkuo10qarPgmWC7q) | 3:56 |
 | 81 | [San Francisco](https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/4pmOIOmY4QXH1rMSqHMOGH) | 2:53 |
 | 82 | [Two High](https://open.spotify.com/track/5huOzlgCK7PsMSG4TFBvKY) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Let The Record Play](https://open.spotify.com/album/5XE34NOdsk2pkDEDd2Niuj) | 3:33 |
-| 83 | [Ready to Start](https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 4:15 |
-| 84 | [Keep You](https://open.spotify.com/track/1eREJIBdqeCcqNCB1pbz7w) | [Wild Belle](https://open.spotify.com/artist/4wHZkzWXD9GPr4RQAYjUcv) | [Isles](https://open.spotify.com/album/5xLuG0ycrUWoF0gn9RoGZO) | 3:30 |
+| 83 | [Keep You](https://open.spotify.com/track/1eREJIBdqeCcqNCB1pbz7w) | [Wild Belle](https://open.spotify.com/artist/4wHZkzWXD9GPr4RQAYjUcv) | [Isles](https://open.spotify.com/album/5xLuG0ycrUWoF0gn9RoGZO) | 3:30 |
+| 84 | [Ready to Start](https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 4:15 |
 | 85 | [Darling](https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI) | [Real Estate](https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT) | [In Mind](https://open.spotify.com/album/7IQn4jT1WciC5O9DZrxeKv) | 4:20 |
 | 86 | [Strong](https://open.spotify.com/track/0QMK2WVjKy3iKdqajgDB1P) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 4:35 |
 | 87 | [Kingdom Leader](https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Kingdom Leader – Single](https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX) | 3:34 |
 | 88 | [Elevate](https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [When The Night \(Deluxe\)](https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo) | 5:08 |
-| 89 | [Somebody Else \- Alt Edit](https://open.spotify.com/track/4fnctse2eIRf7dvOhIGO4P) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Somebody Else \(Alt Edit\)](https://open.spotify.com/album/3gInuvCjtLEy3LCWxZ4ZYF) | 4:01 |
-| 90 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
+| 89 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 |
+| 90 | [Somebody Else \- Alt Edit](https://open.spotify.com/track/4fnctse2eIRf7dvOhIGO4P) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Somebody Else \(Alt Edit\)](https://open.spotify.com/album/3gInuvCjtLEy3LCWxZ4ZYF) | 4:01 |
 | 91 | [Honey](https://open.spotify.com/track/3olYZQTYOLYNImERBnZZqm) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:54 |
 | 92 | [Zebra](https://open.spotify.com/track/6asU049doNupkVllo61luh) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 4:48 |
 | 93 | [Painting \(Masterpiece\)](https://open.spotify.com/track/4kK14radw0XfwxJDPt9tnP) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Lewis Del Mar](https://open.spotify.com/album/7BKGTpCWDwTCeHnlLFcfLJ) | 4:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Pk7rcCDQIzm46M7Z50xDh">Taylor Swift</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,647 likes - 225 songs - 14 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,643 likes - 225 songs - 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 38 | [this is me trying](https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:15 |
 | 39 | [Miss Americana & The Heartbreak Prince](https://open.spotify.com/track/214nt20w5wOxJnY462klLw) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:54 |
 | 40 | [The Archer](https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:31 |
-| 41 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 |
-| 42 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 |
+| 41 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 |
+| 42 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 |
 | 43 | [Snow On The Beach \(feat\. Lana Del Rey\)](https://open.spotify.com/track/1wtOxkiel43cVs0Yux5Q4h) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:16 |
 | 44 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 |
 | 45 | [Down Bad](https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:21 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 114 | [hoax](https://open.spotify.com/track/6MWoRt97mnSTXZhu3ggi9C) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:40 |
 | 115 | [Paris](https://open.spotify.com/track/6J834IBcZJMH38ksrgAqwF) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/4894htPwC6zoiuTqUQwn4I) | 3:16 |
 | 116 | [Wi$h Li$t](https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:27 |
-| 117 | [epiphany](https://open.spotify.com/track/08fa9LFcFBTcilB3iq2e2A) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:49 |
-| 118 | [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 |
+| 117 | [The Life of a Showgirl \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/5eXgqtg3T8Av0m1FUaGHex) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 4:01 |
+| 118 | [epiphany](https://open.spotify.com/track/08fa9LFcFBTcilB3iq2e2A) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:49 |
 | 119 | [coney island \(feat\. The National\)](https://open.spotify.com/track/4tyX1rw9X309WkEdh2As4B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 4:35 |
 | 120 | [dorothea](https://open.spotify.com/track/3w9VRlKPvNxj40RdUGRweH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:45 |
 | 121 | [Everything Has Changed \(feat\. Ed Sheeran\) \(Taylor’s Version\)](https://open.spotify.com/track/7qEUFOVcxRI19tbT68JcYK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:05 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC2wbN3v6RhP.md) - [plain]
 | 224 | [Beautiful Ghosts \(Victoria’s Song\) \- From The Motion Picture Soundtrack "Cats"](https://open.spotify.com/track/1EBBNQDbxG6jfdiGTeWPdT) | [Francesca Hayward](https://open.spotify.com/artist/73jlloXDUzlTRHOcO9JhIg) | [Cats: Highlights From The Motion Picture Soundtrack](https://open.spotify.com/album/3OjtXmDVcfHAjJOS3xBoYU) | 2:50 |
 | 225 | [Dark Blue Tennessee](https://open.spotify.com/track/09CEIc9goZeeqRYwz6GYFD) | [outplay](https://open.spotify.com/artist/2vUjgOHdDaeftRG27IxxNq) | [Dark Blue Tennessee](https://open.spotify.com/album/5Am8oboqYxIQiEYU5tcSDz) | 3:17 |
 
-Snapshot ID: `AcJajAAAAADgCzynHzxR66jIse9wlItm`
+Snapshot ID: `AcJgNgAAAACMbzlYfV3uPIy5edmTSKwl`

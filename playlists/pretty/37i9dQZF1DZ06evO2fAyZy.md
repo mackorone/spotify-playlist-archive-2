@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 
 > This is Kelsea Ballerini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,081 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,089 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fAyZy.md) - [plain]
 | 45 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 |
 | 46 | [WAIT!](https://open.spotify.com/track/6l9ponCrul5GMirw4xqwVc) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS](https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0) | 3:02 |
 | 47 | [First Time Again](https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [They Don't Know](https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L) | 3:24 |
-| 48 | [Legends](https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 4:04 |
-| 49 | [Future Tripping](https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:28 |
+| 48 | [Future Tripping](https://open.spotify.com/track/4w4BEXFhuQM5VcoycPe1zD) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(DELUXE\)](https://open.spotify.com/album/426ni1U6MsUtpxmvtXgLhn) | 2:28 |
+| 49 | [Legends](https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 4:04 |
 | 50 | [Baggage \(Stripped Version\)](https://open.spotify.com/track/2t1pIl7vd9cDFS3u1Qeix5) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [PATTERNS \(Stripped Session\)](https://open.spotify.com/album/6teVbLgWVLojJtw9eJKiNq) | 2:35 |
 
-Snapshot ID: `aYp1AAAAAABQ7lAuBuIgWuZkiTjKHPNW`
+Snapshot ID: `aYvGgAAAAADe4UpcHc9jIpRuskPWyFNM`

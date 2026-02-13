@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 23696,
+  "num_followers": 23704,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAABn/YfjichoIKC3GdpwhqY4",
+  "snapshot_id": "aYvGgAAAAADeVKysKFdX8ZcMit9rzvQm",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 279232,
+      "name": "Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NamgungFEFERE",
         "url": "https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 228544,
       "name": "NamgungFEFERE (feat. Japanese Breakfast)",
       "url": "https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 279232,
-      "name": "Dreams - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 224312,
-      "name": "Badlands (Night)",
-      "url": "https://open.spotify.com/track/3EsUhOrtrAxkuaY7tHYXcg"
+      "duration_ms": 210625,
+      "name": "Better the Mask",
+      "url": "https://open.spotify.com/track/6tQfAfTBvhmgJCjOPsltN4"
     }
   ],
   "unique_name": "This Is Japanese Breakfast",

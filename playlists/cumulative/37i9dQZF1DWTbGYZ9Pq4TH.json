@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-09",
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "name": "Canzoni d'amore italiane",
+  "name": "San Valentino 2026",
   "tracks": [
     {
       "album": {
@@ -1805,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/0y4WMwCamrMPOfqa470j4Y"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177866,
+      "name": "Ipernova",
+      "url": "https://open.spotify.com/track/1TaSkLG2bXx84YuKmJvncw"
+    },
+    {
+      "album": {
         "name": "Mi Fai Stare Bene",
         "url": "https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ"
       },
@@ -2314,7 +2332,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 222101,
       "name": "La ragazza con il cuore di latta",
       "url": "https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf"

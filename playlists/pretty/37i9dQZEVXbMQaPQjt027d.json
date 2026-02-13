@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Netherlands.",
-  "num_followers": 67182,
+  "num_followers": 67184,
   "original_name": "Viral 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MR/pmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MSE7GAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Vogel\u00e8r",
         "url": "https://open.spotify.com/album/1xEije5x5zYRINzkNAdG1a"
@@ -25,55 +25,7 @@
       "url": "https://open.spotify.com/track/4tSNg31L0F7pfhx6k9GMO4"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Waar Was Je?",
-        "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
-      },
-      "artists": [
-        {
-          "name": "Qlas",
-          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
-        }
-      ],
-      "duration_ms": 148645,
-      "name": "Waar Was Je?",
-      "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "A New Day Has Come",
-        "url": "https://open.spotify.com/album/79BUFCc813MsPvj9cpbmVN"
-      },
-      "artists": [
-        {
-          "name": "Mason Trent",
-          "url": "https://open.spotify.com/artist/3WUYZKTcRPPFXTpmwILTxM"
-        }
-      ],
-      "duration_ms": 151457,
-      "name": "A New Day Has Come",
-      "url": "https://open.spotify.com/track/4ZoRyM7IyuPcfGFwORVNsi"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX"
-      },
-      "artists": [
-        {
-          "name": "Milky",
-          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
-        }
-      ],
-      "duration_ms": 210070,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Vierentwintigdelig Noodpakket",
         "url": "https://open.spotify.com/album/3pI4Bz6qfgRzYrI60ntcXG"
@@ -89,23 +41,39 @@
       "url": "https://open.spotify.com/track/0CrFZWIu08NUW2eDkAEygd"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
-        "name": "\u00d2p Kar\u00e1kter",
-        "url": "https://open.spotify.com/album/5SwJuol9MvJGcvxI3tCWMJ"
+        "name": "Waar Was Je?",
+        "url": "https://open.spotify.com/album/4kEeqiqqWBO8Uh1KSInTeC"
       },
       "artists": [
         {
-          "name": "Pruuf mar",
-          "url": "https://open.spotify.com/artist/2J0GG3jtVCyTh9NtDpDvui"
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
         }
       ],
-      "duration_ms": 165150,
-      "name": "\u00d2p Kar\u00e1kter",
-      "url": "https://open.spotify.com/track/6GwXydt81E3rMjcaNtY3xE"
+      "duration_ms": 148645,
+      "name": "Waar Was Je?",
+      "url": "https://open.spotify.com/track/7GLBgrDPai2M459NKWMAMf"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/5y263lsrcaKgIF6rWV3uXX"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        }
+      ],
+      "duration_ms": 210070,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/2kJo0J02qdTsD1omMouIro"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Cash Betaald",
         "url": "https://open.spotify.com/album/7sokqMwVYfPAUgZpbOmklP"
@@ -125,7 +93,39 @@
       "url": "https://open.spotify.com/track/4qqlE1mI2KIYEPw0B65QNA"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "A New Day Has Come",
+        "url": "https://open.spotify.com/album/79BUFCc813MsPvj9cpbmVN"
+      },
+      "artists": [
+        {
+          "name": "Mason Trent",
+          "url": "https://open.spotify.com/artist/3WUYZKTcRPPFXTpmwILTxM"
+        }
+      ],
+      "duration_ms": 151457,
+      "name": "A New Day Has Come",
+      "url": "https://open.spotify.com/track/4ZoRyM7IyuPcfGFwORVNsi"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "\u00d2p Kar\u00e1kter",
+        "url": "https://open.spotify.com/album/5SwJuol9MvJGcvxI3tCWMJ"
+      },
+      "artists": [
+        {
+          "name": "Pruuf mar",
+          "url": "https://open.spotify.com/artist/2J0GG3jtVCyTh9NtDpDvui"
+        }
+      ],
+      "duration_ms": 165150,
+      "name": "\u00d2p Kar\u00e1kter",
+      "url": "https://open.spotify.com/track/6GwXydt81E3rMjcaNtY3xE"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "ChatGPT",
         "url": "https://open.spotify.com/album/7Kb6J35gIMTaT1nmet8sjO"
@@ -157,23 +157,7 @@
       "url": "https://open.spotify.com/track/27QO1TzSIwkMTQfdfhZsx1"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Spulleke!",
-        "url": "https://open.spotify.com/album/2OjSDC7vFdX0FORnFJyNeA"
-      },
-      "artists": [
-        {
-          "name": "CV De K\u00f2ljakkers",
-          "url": "https://open.spotify.com/artist/4KwO8DQbo5JHZL5LGTYYCO"
-        }
-      ],
-      "duration_ms": 200859,
-      "name": "Spulleke!",
-      "url": "https://open.spotify.com/track/2AituYi1jd8v7u0yW4kDGu"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Als Blikken Konden Doden",
         "url": "https://open.spotify.com/album/229FKtAV6ltXMbD9Q7ye2U"
@@ -189,7 +173,23 @@
       "url": "https://open.spotify.com/track/1tlJ07kgmeSDJc4HurwVDM"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "Spulleke!",
+        "url": "https://open.spotify.com/album/2OjSDC7vFdX0FORnFJyNeA"
+      },
+      "artists": [
+        {
+          "name": "CV De K\u00f2ljakkers",
+          "url": "https://open.spotify.com/artist/4KwO8DQbo5JHZL5LGTYYCO"
+        }
+      ],
+      "duration_ms": 200859,
+      "name": "Spulleke!",
+      "url": "https://open.spotify.com/track/2AituYi1jd8v7u0yW4kDGu"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Zet Die Tap Maar Open",
         "url": "https://open.spotify.com/album/5cNzwqGurwTjfc7bvQlDoM"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/4zGp1OpaQRgrBCYaw22o9K"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Vastelaovend is lit!",
         "url": "https://open.spotify.com/album/7MituHVtfeo6yaA0h3ZEcq"
@@ -221,7 +221,87 @@
       "url": "https://open.spotify.com/track/44YYCUDL65fpK2Uizbu3H5"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "Zeg Eens AAA!",
+        "url": "https://open.spotify.com/album/5QkXq5ztvv4a4MDAAUL5WR"
+      },
+      "artists": [
+        {
+          "name": "CV De W\u00e8ggooiers",
+          "url": "https://open.spotify.com/artist/2pXq4tP6lC5FmBYeUyjgwS"
+        }
+      ],
+      "duration_ms": 185273,
+      "name": "Zeg Eens AAA!",
+      "url": "https://open.spotify.com/track/3ExJPD7Xwv89wM510ShJzI"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "AI (Nee Een Ezel Ben Ik Nie)",
+        "url": "https://open.spotify.com/album/3F8Bh6TjFW0r5X4H0kWPj3"
+      },
+      "artists": [
+        {
+          "name": "Trio Zandvrees En De Viezevoetenkortingen",
+          "url": "https://open.spotify.com/artist/2w9Votofk5FPRWuaUzd37B"
+        }
+      ],
+      "duration_ms": 168164,
+      "name": "AI (Nee Een Ezel Ben Ik Nie)",
+      "url": "https://open.spotify.com/track/0aq78pEKnPzdltYxsuLglk"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "Gein Z\u00een Um Ut Aaf Te Lie\u00ebre!",
+        "url": "https://open.spotify.com/album/2JkeYKOtnsclqryuxazNeA"
+      },
+      "artists": [
+        {
+          "name": "Miserabel",
+          "url": "https://open.spotify.com/artist/6XaQxcwBg5ZsLujzbycnTq"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Gein Z\u00een Um Ut Aaf Te Lie\u00ebre!",
+      "url": "https://open.spotify.com/track/3sYOn9DPSbIQIRyuZAj07F"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "Carnavalsmuziek",
+        "url": "https://open.spotify.com/album/2FJUTLnYTGumln2DyINRkY"
+      },
+      "artists": [
+        {
+          "name": "Moeilijk Straal",
+          "url": "https://open.spotify.com/artist/5qdCBsrXOsvFbCJb9dn0lP"
+        }
+      ],
+      "duration_ms": 185859,
+      "name": "Carnavalsmuziek",
+      "url": "https://open.spotify.com/track/0ZrH8Dri3ffjs0MLUGuPnr"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "CD van mij",
         "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
@@ -241,71 +321,23 @@
       "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
-        "name": "AI (Nee Een Ezel Ben Ik Nie)",
-        "url": "https://open.spotify.com/album/3F8Bh6TjFW0r5X4H0kWPj3"
+        "name": "Bietje Stoken",
+        "url": "https://open.spotify.com/album/33MlkmIpcJijkNB36wbfd7"
       },
       "artists": [
         {
-          "name": "Trio Zandvrees En De Viezevoetenkortingen",
-          "url": "https://open.spotify.com/artist/2w9Votofk5FPRWuaUzd37B"
+          "name": "CV DE KETELS",
+          "url": "https://open.spotify.com/artist/5sdiwAGnNmHR5rpE3cCoQM"
         }
       ],
-      "duration_ms": 168164,
-      "name": "AI (Nee Een Ezel Ben Ik Nie)",
-      "url": "https://open.spotify.com/track/0aq78pEKnPzdltYxsuLglk"
+      "duration_ms": 189396,
+      "name": "Bietje Stoken",
+      "url": "https://open.spotify.com/track/0IUrzfDYkeY0WVc6LHE9rz"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Gein Z\u00een Um Ut Aaf Te Lie\u00ebre!",
-        "url": "https://open.spotify.com/album/2JkeYKOtnsclqryuxazNeA"
-      },
-      "artists": [
-        {
-          "name": "Miserabel",
-          "url": "https://open.spotify.com/artist/6XaQxcwBg5ZsLujzbycnTq"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Gein Z\u00een Um Ut Aaf Te Lie\u00ebre!",
-      "url": "https://open.spotify.com/track/3sYOn9DPSbIQIRyuZAj07F"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Carnavalsmuziek",
-        "url": "https://open.spotify.com/album/2FJUTLnYTGumln2DyINRkY"
-      },
-      "artists": [
-        {
-          "name": "Moeilijk Straal",
-          "url": "https://open.spotify.com/artist/5qdCBsrXOsvFbCJb9dn0lP"
-        }
-      ],
-      "duration_ms": 185859,
-      "name": "Carnavalsmuziek",
-      "url": "https://open.spotify.com/track/0ZrH8Dri3ffjs0MLUGuPnr"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Zeg Eens AAA!",
-        "url": "https://open.spotify.com/album/5QkXq5ztvv4a4MDAAUL5WR"
-      },
-      "artists": [
-        {
-          "name": "CV De W\u00e8ggooiers",
-          "url": "https://open.spotify.com/artist/2pXq4tP6lC5FmBYeUyjgwS"
-        }
-      ],
-      "duration_ms": 185273,
-      "name": "Zeg Eens AAA!",
-      "url": "https://open.spotify.com/track/3ExJPD7Xwv89wM510ShJzI"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -316,12 +348,28 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "The Final Verdict",
+        "url": "https://open.spotify.com/album/3a3QTWdcqdKxXYVU7UdSV5"
+      },
+      "artists": [
+        {
+          "name": "Kili",
+          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "The Final Verdict",
+      "url": "https://open.spotify.com/track/66GgamjluD1DwCLEiPWZv9"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Into My Life (feat. Joyce Sims)",
         "url": "https://open.spotify.com/album/4KzpmvHWP09GTVgGpnkBl7"
@@ -341,115 +389,7 @@
       "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "The Final Verdict",
-        "url": "https://open.spotify.com/album/3a3QTWdcqdKxXYVU7UdSV5"
-      },
-      "artists": [
-        {
-          "name": "Kili",
-          "url": "https://open.spotify.com/artist/5MOwAeqyaDS3fFo5jEqvXV"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "The Final Verdict",
-      "url": "https://open.spotify.com/track/66GgamjluD1DwCLEiPWZv9"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "That's the Way It Is",
-        "url": "https://open.spotify.com/album/7kZB9awZC29eaIpVRgF0BQ"
-      },
-      "artists": [
-        {
-          "name": "Kastra",
-          "url": "https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC"
-        },
-        {
-          "name": "Lena Leon",
-          "url": "https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7"
-        }
-      ],
-      "duration_ms": 181565,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/3IN5K5LG1EGzFak9e0GNrC"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
-      },
-      "artists": [
-        {
-          "name": "Jim Gardner",
-          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Bietje Stoken",
-        "url": "https://open.spotify.com/album/33MlkmIpcJijkNB36wbfd7"
-      },
-      "artists": [
-        {
-          "name": "CV DE KETELS",
-          "url": "https://open.spotify.com/artist/5sdiwAGnNmHR5rpE3cCoQM"
-        }
-      ],
-      "duration_ms": 189396,
-      "name": "Bietje Stoken",
-      "url": "https://open.spotify.com/track/0IUrzfDYkeY0WVc6LHE9rz"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Papaoutai (Afro Soul)",
-        "url": "https://open.spotify.com/album/4H50NcMmYRT4SovEvVgjqW"
-      },
-      "artists": [
-        {
-          "name": "mikeeysmind",
-          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
-        },
-        {
-          "name": "Chill77",
-          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
-        },
-        {
-          "name": "Unjaps",
-          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
-        }
-      ],
-      "duration_ms": 279962,
-      "name": "Papaoutai - Afro Soul",
-      "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Het Sjtopleech Van De Vasteloavend",
         "url": "https://open.spotify.com/album/45hUUemn4pQrmqRMnyxRjs"
@@ -465,23 +405,7 @@
       "url": "https://open.spotify.com/track/2K8xv8XoNrYN49ulfMguD9"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Ode \u00c1n D'n Natte Rug",
-        "url": "https://open.spotify.com/album/1Of5EhYMOwKKJT50ZL9Cpg"
-      },
-      "artists": [
-        {
-          "name": "Van Lieshout en Arts",
-          "url": "https://open.spotify.com/artist/54YBcnUDJ7VtG9kbhxoRQb"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Ode \u00c1n D'n Natte Rug",
-      "url": "https://open.spotify.com/track/0X95LBtLEb3Whw8K0H6Hat"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Verkeerde Gat",
         "url": "https://open.spotify.com/album/3F5dX3ga1PmuPx0kdiLUMN"
@@ -497,7 +421,55 @@
       "url": "https://open.spotify.com/track/3CupXzjBMhy9vXtH6WgJHb"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "We Slaon Deur!",
+        "url": "https://open.spotify.com/album/3Wn5qOzoOpYSN9pp46VQa6"
+      },
+      "artists": [
+        {
+          "name": "De Gospelpompers",
+          "url": "https://open.spotify.com/artist/3alQEtCiNlywWqAvAjx0yw"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "We Slaon Deur!",
+      "url": "https://open.spotify.com/track/7pJejvEBgG7aPamIxGIWtN"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "Ode \u00c1n D'n Natte Rug",
+        "url": "https://open.spotify.com/album/1Of5EhYMOwKKJT50ZL9Cpg"
+      },
+      "artists": [
+        {
+          "name": "Van Lieshout en Arts",
+          "url": "https://open.spotify.com/artist/54YBcnUDJ7VtG9kbhxoRQb"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Ode \u00c1n D'n Natte Rug",
+      "url": "https://open.spotify.com/track/0X95LBtLEb3Whw8K0H6Hat"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Mo\u00ebt Dat Nou",
         "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
@@ -517,31 +489,87 @@
       "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
-        "name": "Dive In",
-        "url": "https://open.spotify.com/album/36atWUXll5o1tohRI6NCUz"
+        "name": "Kakalika",
+        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
       },
       "artists": [
         {
-          "name": "Only Chris",
-          "url": "https://open.spotify.com/artist/26nVix33ggpJLOx8KKNB0G"
-        },
-        {
-          "name": "MALARKEY",
-          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
-        },
-        {
-          "name": "Len Blake",
-          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
         }
       ],
-      "duration_ms": 139687,
-      "name": "Dive In",
-      "url": "https://open.spotify.com/track/3XBPAGKzYJ3rrAuyaxth0j"
+      "duration_ms": 181581,
+      "name": "Kakalika",
+      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "Laat Het Klinken",
+        "url": "https://open.spotify.com/album/7JNAVa8Fizl3KhPDoSpcXG"
+      },
+      "artists": [
+        {
+          "name": "JanseDeCoomp",
+          "url": "https://open.spotify.com/artist/6BGsiEu10dMTIdm1PnXPOb"
+        }
+      ],
+      "duration_ms": 187734,
+      "name": "Laat Het Klinken",
+      "url": "https://open.spotify.com/track/37M7RBRHVusIZgvjeLfcUH"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "Drankorgel",
+        "url": "https://open.spotify.com/album/4IQobLkInvWkfuYHsYvyKd"
+      },
+      "artists": [
+        {
+          "name": "Chef Soldaat",
+          "url": "https://open.spotify.com/artist/0LIxgll1dwDCbuahwJQCAr"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Drankorgel",
+      "url": "https://open.spotify.com/track/3IGaFZt7Ctu3d7QMkyhS5z"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "Terug over de Maas",
+        "url": "https://open.spotify.com/album/3YQNpAoJVlZ1oIEAt1hxMb"
+      },
+      "artists": [
+        {
+          "name": "C.V. de Kapotte Kachels",
+          "url": "https://open.spotify.com/artist/0YqkHSocHDMPgmp7pGn9R8"
+        }
+      ],
+      "duration_ms": 201183,
+      "name": "Terug over de Maas",
+      "url": "https://open.spotify.com/track/51CMEEvWkKz5jCtUHHDfQO"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
         "url": "https://open.spotify.com/album/3317qFuusi41ZE9hfffsmq"
@@ -565,39 +593,39 @@
       "url": "https://open.spotify.com/track/1tYWIkEZg6wMrMuLO2mWcy"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
-        "name": "We Slaon Deur!",
-        "url": "https://open.spotify.com/album/3Wn5qOzoOpYSN9pp46VQa6"
+        "name": "Da zien we morge dan wel weer",
+        "url": "https://open.spotify.com/album/3UXMFJh7uNfOBJtq1pLajz"
       },
       "artists": [
         {
-          "name": "De Gospelpompers",
-          "url": "https://open.spotify.com/artist/3alQEtCiNlywWqAvAjx0yw"
+          "name": "Mosterd Na De Maaltijd",
+          "url": "https://open.spotify.com/artist/2QFy07GCrxvtIc9Cfi5NIF"
         }
       ],
-      "duration_ms": 156190,
-      "name": "We Slaon Deur!",
-      "url": "https://open.spotify.com/track/7pJejvEBgG7aPamIxGIWtN"
+      "duration_ms": 148402,
+      "name": "Da zien we morge dan wel weer",
+      "url": "https://open.spotify.com/track/7CmGfrtoPYSWXzUR803e2N"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
-        "name": "Laat Het Klinken",
-        "url": "https://open.spotify.com/album/7JNAVa8Fizl3KhPDoSpcXG"
+        "name": "Ik Wooj Nie Gaon",
+        "url": "https://open.spotify.com/album/42s9jiuLkFq5UHIRmYCrz7"
       },
       "artists": [
         {
-          "name": "JanseDeCoomp",
-          "url": "https://open.spotify.com/artist/6BGsiEu10dMTIdm1PnXPOb"
+          "name": "Van Lieshout en Arts",
+          "url": "https://open.spotify.com/artist/54YBcnUDJ7VtG9kbhxoRQb"
         }
       ],
-      "duration_ms": 187734,
-      "name": "Laat Het Klinken",
-      "url": "https://open.spotify.com/track/37M7RBRHVusIZgvjeLfcUH"
+      "duration_ms": 204821,
+      "name": "Ik Wooj Nie Gaon",
+      "url": "https://open.spotify.com/track/36xEkavf3iEhdjdy8fzcvZ"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Bare Minimum (Starboy)",
         "url": "https://open.spotify.com/album/3vnMnkcCgl4jF9E1IlKV4j"
@@ -621,7 +649,7 @@
       "url": "https://open.spotify.com/track/6GhAQffyGx6IgDejJQC4yR"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Yeralt\u0131",
         "url": "https://open.spotify.com/album/7enP6Rz2LzW9et03U8W1aD"
@@ -637,7 +665,47 @@
       "url": "https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/36atWUXll5o1tohRI6NCUz"
+      },
+      "artists": [
+        {
+          "name": "Only Chris",
+          "url": "https://open.spotify.com/artist/26nVix33ggpJLOx8KKNB0G"
+        },
+        {
+          "name": "MALARKEY",
+          "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
+        },
+        {
+          "name": "Len Blake",
+          "url": "https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7"
+        }
+      ],
+      "duration_ms": 139687,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/3XBPAGKzYJ3rrAuyaxth0j"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Als ik er morgen niet meer ben",
         "url": "https://open.spotify.com/album/34RReB3sOtBFEnxWSi82gy"
@@ -657,71 +725,39 @@
       "url": "https://open.spotify.com/track/1SWs18KGeBVypCfK78XsBX"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+        "name": "Euhj!",
+        "url": "https://open.spotify.com/album/56A6kFLmpwhGrIfZ9tmu6G"
       },
       "artists": [
         {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+          "name": "De Tappers",
+          "url": "https://open.spotify.com/artist/6vn4O4crtqugOzSUvzpQkM"
         }
       ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+      "duration_ms": 184150,
+      "name": "Euhj!",
+      "url": "https://open.spotify.com/track/2Og1hNc7k1ta1vUu1vnwEc"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
-        "name": "Da zien we morge dan wel weer",
-        "url": "https://open.spotify.com/album/3UXMFJh7uNfOBJtq1pLajz"
+        "name": "Cupkeek",
+        "url": "https://open.spotify.com/album/0do8NwqoSPk8w4qLsvfVx3"
       },
       "artists": [
         {
-          "name": "Mosterd Na De Maaltijd",
-          "url": "https://open.spotify.com/artist/2QFy07GCrxvtIc9Cfi5NIF"
+          "name": "Sjansjee",
+          "url": "https://open.spotify.com/artist/5THH2clAoVLZlo48SqyZvE"
         }
       ],
-      "duration_ms": 148402,
-      "name": "Da zien we morge dan wel weer",
-      "url": "https://open.spotify.com/track/7CmGfrtoPYSWXzUR803e2N"
+      "duration_ms": 172796,
+      "name": "Cupkeek",
+      "url": "https://open.spotify.com/track/400g9PdnTjF15IYy947Blq"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Beneath My Skin",
-        "url": "https://open.spotify.com/album/4BbNfnjoNMGtONXMKlRVNJ"
-      },
-      "artists": [
-        {
-          "name": "JERRY'S SOUND ROOM",
-          "url": "https://open.spotify.com/artist/0tuO2DDZTKEQ6t6RT47WKH"
-        }
-      ],
-      "duration_ms": 199830,
-      "name": "Beneath My Skin",
-      "url": "https://open.spotify.com/track/3YS9z1r7MUsI8RxhdnCFnI"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Kakalika",
-        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
-      },
-      "artists": [
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 181581,
-      "name": "Kakalika",
-      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -741,23 +777,31 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
-        "name": "Dit Is Je Verjaardag (Troetelnamen)",
-        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
+        "name": "Oeteldonk Met Jou",
+        "url": "https://open.spotify.com/album/5LxapwD2l9eH3DDKR6WwjM"
       },
       "artists": [
         {
-          "name": "Cadeautje voor jou",
-          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
+          "name": "Kermit dun Kwakert",
+          "url": "https://open.spotify.com/artist/0pvixheshW4BS5bimksMv9"
+        },
+        {
+          "name": "Kelsey Ikkersheim",
+          "url": "https://open.spotify.com/artist/0TZaQ6HN0qRD5wS5uDKiLl"
+        },
+        {
+          "name": "Oeteldonk",
+          "url": "https://open.spotify.com/artist/1ZDurHpvKpiAC7j4wgclXI"
         }
       ],
-      "duration_ms": 191687,
-      "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
-      "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
+      "duration_ms": 219000,
+      "name": "Oeteldonk Met Jou",
+      "url": "https://open.spotify.com/track/2Urevob1PzRlHazFLyCmaQ"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
@@ -777,112 +821,36 @@
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
-        "name": "TIKI TIKI",
-        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
+        "name": "Dit Is Je Verjaardag (Troetelnamen)",
+        "url": "https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN"
       },
       "artists": [
         {
-          "name": "QMIIR",
-          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
+          "name": "Cadeautje voor jou",
+          "url": "https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ"
         }
       ],
-      "duration_ms": 121739,
-      "name": "TIKI TIKI - Slowed",
-      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
+      "duration_ms": 191687,
+      "name": "H\u00e9 Kanjer, Dit Is Je Verjaardag",
+      "url": "https://open.spotify.com/track/7AwQUXHJnDnEeeow7dfLGi"
     },
     {
-      "added_at": "2026-02-11 14:08:39",
+      "added_at": "2026-02-12 14:37:06",
       "album": {
-        "name": "Gebaore um te laeve",
-        "url": "https://open.spotify.com/album/4rOKkkqG7cMMkXitz6448z"
+        "name": "De Tent Moet Op Z'n Kop",
+        "url": "https://open.spotify.com/album/4NBqEWNdp6HwnNymhFSYZJ"
       },
       "artists": [
         {
-          "name": "Andy en Roy",
-          "url": "https://open.spotify.com/artist/42r2wprLxQa9R5Fipn8xVd"
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
         }
       ],
-      "duration_ms": 198449,
-      "name": "Gebaore um te laeve",
-      "url": "https://open.spotify.com/track/4vKcQVLkc29puSMCa8SI20"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "THE CORE - \u6838",
-        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "HYPNOTIZE",
-      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Euhj!",
-        "url": "https://open.spotify.com/album/56A6kFLmpwhGrIfZ9tmu6G"
-      },
-      "artists": [
-        {
-          "name": "De Tappers",
-          "url": "https://open.spotify.com/artist/6vn4O4crtqugOzSUvzpQkM"
-        }
-      ],
-      "duration_ms": 184150,
-      "name": "Euhj!",
-      "url": "https://open.spotify.com/track/2Og1hNc7k1ta1vUu1vnwEc"
-    },
-    {
-      "added_at": "2026-02-11 14:08:39",
-      "album": {
-        "name": "Meisje",
-        "url": "https://open.spotify.com/album/3RddC9RIBIrGeS5VIGgRZS"
-      },
-      "artists": [
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Billy Dans",
-          "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
-        },
-        {
-          "name": "Brace",
-          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
-        },
-        {
-          "name": "Jeffrey Heesen",
-          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
-        }
-      ],
-      "duration_ms": 128014,
-      "name": "Meisje",
-      "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
+      "duration_ms": 157613,
+      "name": "De Tent Moet Op Z'n Kop",
+      "url": "https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p"
     }
   ],
   "unique_name": "Viral 50 - Netherlands",

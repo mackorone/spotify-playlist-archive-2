@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 28371,
+  "num_followers": 28394,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "Alma Gitana",
+        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        }
+      ],
+      "duration_ms": 171309,
+      "name": "El Oasis",
+      "url": "https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "Luna Llena de Fuego",
         "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Alma Gitana",
-        "url": "https://open.spotify.com/album/09UYfumzxnNeYgzOtYPwfj"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        }
-      ],
-      "duration_ms": 171309,
-      "name": "El Oasis",
-      "url": "https://open.spotify.com/track/2Q464tEwoBbA7exfvzPBce"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Eufemismos",
         "url": "https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF"
       },
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "A\u00fan no mor\u00ed",
-        "url": "https://open.spotify.com/album/1lH4jV0IQPcfpSqhB72hZA"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Alvez",
-          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
-        },
-        {
-          "name": "Isabel Lenoir",
-          "url": "https://open.spotify.com/artist/4mCet07zarCtThoh4FTIuW"
-        }
-      ],
-      "duration_ms": 217457,
-      "name": "A\u00fan no mor\u00ed",
-      "url": "https://open.spotify.com/track/4idJOmzQyu0f8TtQdejMjN"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "\u00c1rboles",
         "url": "https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 139952,
       "name": "Siesta rosa",
       "url": "https://open.spotify.com/track/5hvRrwyKWzVLNe66ZicvTU"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "A\u00fan no mor\u00ed",
+        "url": "https://open.spotify.com/album/1lH4jV0IQPcfpSqhB72hZA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Alvez",
+          "url": "https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a"
+        },
+        {
+          "name": "Isabel Lenoir",
+          "url": "https://open.spotify.com/artist/4mCet07zarCtThoh4FTIuW"
+        }
+      ],
+      "duration_ms": 217457,
+      "name": "A\u00fan no mor\u00ed",
+      "url": "https://open.spotify.com/track/4idJOmzQyu0f8TtQdejMjN"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -939,30 +939,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Cenital",
-        "url": "https://open.spotify.com/album/0QvnKhLge7VNaO29hCOAFK"
-      },
-      "artists": [
-        {
-          "name": "Lucio Mantel",
-          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
-        },
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "Ampersan",
-          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
-        }
-      ],
-      "duration_ms": 209917,
-      "name": "Cenital",
-      "url": "https://open.spotify.com/track/60yhtT4KG6a07BMov9LZKr"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "MALAMADOS",
         "url": "https://open.spotify.com/album/44lJ5zDofqcICxEkA3Dn0q"
       },
@@ -987,18 +963,26 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/5Iah1jUzkQe7WWtCBbq927"
+        "name": "Cenital",
+        "url": "https://open.spotify.com/album/0QvnKhLge7VNaO29hCOAFK"
       },
       "artists": [
         {
-          "name": "Alexia Naomi",
-          "url": "https://open.spotify.com/artist/6f9J2VhTUt61qMX87UtIqn"
+          "name": "Lucio Mantel",
+          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
+        },
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "Ampersan",
+          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
         }
       ],
-      "duration_ms": 167250,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/5SfWbIwxCKmEYp9INyXdpC"
+      "duration_ms": 209917,
+      "name": "Cenital",
+      "url": "https://open.spotify.com/track/60yhtT4KG6a07BMov9LZKr"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1019,6 +1003,22 @@
       "duration_ms": 231127,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/3udpGRMgZkvml2wsDUoSNL"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/5Iah1jUzkQe7WWtCBbq927"
+      },
+      "artists": [
+        {
+          "name": "Alexia Naomi",
+          "url": "https://open.spotify.com/artist/6f9J2VhTUt61qMX87UtIqn"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/5SfWbIwxCKmEYp9INyXdpC"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Qui\u00e9n da M\u00e1s?",
-        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
-      },
-      "artists": [
-        {
-          "name": "Marcos French",
-          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
-        },
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 272010,
-      "name": "Qui\u00e9n da M\u00e1s?",
-      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Juana De C\u00e1diz",
         "url": "https://open.spotify.com/album/701XCJBlqDynw3S06YAufd"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 203701,
       "name": "Juana De C\u00e1diz",
       "url": "https://open.spotify.com/track/6HPltAAAB93eEXGfPuDW7K"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Qui\u00e9n da M\u00e1s?",
+        "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
+      },
+      "artists": [
+        {
+          "name": "Marcos French",
+          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
+        },
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 272010,
+      "name": "Qui\u00e9n da M\u00e1s?",
+      "url": "https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Color De Flor",
-        "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
-      },
-      "artists": [
-        {
-          "name": "Eduardo Castro",
-          "url": "https://open.spotify.com/artist/1uBdSvIwuEaiGnwhmqp9An"
-        },
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 273219,
-      "name": "Color De Flor",
-      "url": "https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/1kOml1kbVw1MjzEFPKCPjP"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 190691,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Color De Flor",
+        "url": "https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Castro",
+          "url": "https://open.spotify.com/artist/1uBdSvIwuEaiGnwhmqp9An"
+        },
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 273219,
+      "name": "Color De Flor",
+      "url": "https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "Inflexion (En Vivo)",
+        "url": "https://open.spotify.com/album/7uikRUekVt8PqpdM5Q6ZOB"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 228789,
+      "name": "Inflexion - En Vivo",
+      "url": "https://open.spotify.com/track/6SttmMPiIprbCMIBW9iW5U"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "BOLERo LIBRA",
         "url": "https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 172687,
       "name": "BOLERo LIBRA",
       "url": "https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "Inflexion (En Vivo)",
-        "url": "https://open.spotify.com/album/7uikRUekVt8PqpdM5Q6ZOB"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        }
-      ],
-      "duration_ms": 228789,
-      "name": "Inflexion - En Vivo",
-      "url": "https://open.spotify.com/track/6SttmMPiIprbCMIBW9iW5U"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1843,6 +1843,26 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "SERENATA (En Vivo en Anfitri\u00f3n - TV P\u00fablica)",
+        "url": "https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Briones",
+          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "SERENATA - En Vivo en Anfitri\u00f3n - TV P\u00fablica",
+      "url": "https://open.spotify.com/track/6GpGT7RTOhZ6YTMSDUorv5"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "Los Ancestros",
         "url": "https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24"
       },
@@ -1895,26 +1915,6 @@
       "duration_ms": 215931,
       "name": "Dos Hemisferios",
       "url": "https://open.spotify.com/track/3oV54WIjzyy9Bi1dFUtfN4"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "SERENATA (En Vivo en Anfitri\u00f3n - TV P\u00fablica)",
-        "url": "https://open.spotify.com/album/0gFDlNWDmcA3HTxN36EXji"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Briones",
-          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "SERENATA - En Vivo en Anfitri\u00f3n - TV P\u00fablica",
-      "url": "https://open.spotify.com/track/6GpGT7RTOhZ6YTMSDUorv5"
     }
   ],
   "unique_name": "Voces del Sur",

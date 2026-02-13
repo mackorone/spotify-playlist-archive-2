@@ -1,6 +1,6 @@
 {
   "description": "On October 3rd he asked me what day it was",
-  "num_followers": 597841,
+  "num_followers": 597964,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
@@ -1675,18 +1675,22 @@
     {
       "added_at": "2024-07-12 21:13:59",
       "album": {
-        "name": "Victoria Beckham",
-        "url": "https://open.spotify.com/album/3fMBMxLqwrHdzCfrTrl41e"
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
       },
       "artists": [
         {
-          "name": "Victoria Beckham",
-          "url": "https://open.spotify.com/artist/54w1dJI7MTjkRGNfGuu2fc"
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
         }
       ],
-      "duration_ms": 199880,
-      "name": "Not Such An Innocent Girl",
-      "url": "https://open.spotify.com/track/2GcAqQbqBhBh2SwsOq3REu"
+      "duration_ms": 229360,
+      "name": "Beep",
+      "url": "https://open.spotify.com/track/5TXNLJ2EENAt3Tf9MX4kT2"
     }
   ],
   "unique_name": "y2k",

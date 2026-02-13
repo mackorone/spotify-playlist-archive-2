@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 5877,
+  "num_followers": 5879,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAACE/UTIDmAIys8mv9s6E5SJ",
+  "snapshot_id": "aYvGgAAAAAAVQlsUU7i+gW2leKiIYtab",
   "tracks": [
     {
       "added_at": null,
@@ -112,9 +112,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 232346,
-      "name": "I Feel A Sin Coming On",
-      "url": "https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd"
+      "duration_ms": 201626,
+      "name": "Long As I Can See The Light",
+      "url": "https://open.spotify.com/track/40FfbBZ6mxWBpsg7r1cTFL"
     },
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 201626,
-      "name": "Long As I Can See The Light",
-      "url": "https://open.spotify.com/track/40FfbBZ6mxWBpsg7r1cTFL"
+      "duration_ms": 232346,
+      "name": "I Feel A Sin Coming On",
+      "url": "https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd"
     },
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Should Have Come Home",
+      "url": "https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money & Power",
         "url": "https://open.spotify.com/album/0Dwz5n9Dk4PJR9PA8rZGwh"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 172261,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/1Dm4rrlrrPfUTrxlutFXDB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Should Have Come Home",
-      "url": "https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 276395,
+      "name": "Down On Bended Knee",
+      "url": "https://open.spotify.com/track/5AWUpyTOEjNob8wrho0cbu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 259733,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "Isn't That So",
-      "url": "https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "Isn't That So",
+      "url": "https://open.spotify.com/track/3I0NjntD1g4OVC6zBQjsrT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blame It On Eve",
         "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
       },
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 276395,
-      "name": "Down On Bended Knee",
-      "url": "https://open.spotify.com/track/5AWUpyTOEjNob8wrho0cbu"
+      "duration_ms": 228002,
+      "name": "Broken High Heels",
+      "url": "https://open.spotify.com/track/7KJHFbQMatRENgkXRiXI90"
     },
     {
       "added_at": null,
@@ -759,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
       },
       "artists": [
         {
@@ -768,9 +784,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 285990,
-      "name": "Uncivil War",
-      "url": "https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh"
+      "duration_ms": 245173,
+      "name": "Outskirts Of Love",
+      "url": "https://open.spotify.com/track/7Kkr2utF6dANb5z8c3ztSK"
     },
     {
       "added_at": null,
@@ -784,15 +800,15 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 228002,
-      "name": "Broken High Heels",
-      "url": "https://open.spotify.com/track/7KJHFbQMatRENgkXRiXI90"
+      "duration_ms": 224325,
+      "name": "Is There Anybody Up There?",
+      "url": "https://open.spotify.com/track/1RGfvefofh4VSQVBbs8TZN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e"
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
       },
       "artists": [
         {
@@ -800,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 245173,
-      "name": "Outskirts Of Love",
-      "url": "https://open.spotify.com/track/7Kkr2utF6dANb5z8c3ztSK"
+      "duration_ms": 285990,
+      "name": "Uncivil War",
+      "url": "https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
       "duration_ms": 197468,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Tee Tot Payne",
-      "url": "https://open.spotify.com/track/4Rj0alinvWWuxkNfmZAxM8"
     }
   ],
   "unique_name": "This Is Shemekia Copeland",

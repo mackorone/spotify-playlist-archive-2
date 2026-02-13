@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,766 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,864 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 43 | [Abarajame](https://open.spotify.com/track/3uLlpzZGQCMfhM0kmuI4qn) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Chaco \(Serie Rock Nacional 2004\)](https://open.spotify.com/album/0GkGiViGgeUGQ1rweG2rsH) | 4:18 |
 | 44 | [El Idioma De Los Dioses](https://open.spotify.com/track/0Qb4S8BHqevwscp4rfvQZq) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Mejor Que El Silencio](https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529) | 4:13 |
 | 45 | [Tequila Sunrise \- Spanish Version](https://open.spotify.com/track/71irkRXv8MoAoJo6oZjjAe) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Tequila Sunrise](https://open.spotify.com/album/03tKydztnZhkF2ZFVv4VYV) | 3:57 |
-| 46 | [A Praga](https://open.spotify.com/track/6jlT1zT7tKV8YUqJe08rfD) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [A Praga](https://open.spotify.com/album/02Lwolo9461GRQH8mLaHHi) | 3:12 |
-| 47 | [Sexo de Despedida](https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Nunca Vemos Nada](https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv) | 3:41 |
+| 46 | [Sexo de Despedida](https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Nunca Vemos Nada](https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv) | 3:41 |
+| 47 | [A Praga](https://open.spotify.com/track/6jlT1zT7tKV8YUqJe08rfD) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [A Praga](https://open.spotify.com/album/02Lwolo9461GRQH8mLaHHi) | 3:12 |
 | 48 | [Hecho En Mexico](https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 4:22 |
 | 49 | [Tengo Un Trato](https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Lujo Ibérico](https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx) | 2:47 |
 | 50 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
@@ -71,16 +71,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 61 | [Basado en hechos reales](https://open.spotify.com/track/5YcF2yE63JW70yfB9rIprG) | [Nach Scratch](https://open.spotify.com/artist/2HiFszpmRqt7qy3eGBI62V) | [En la brevedad de los dias](https://open.spotify.com/album/0hllL83xhHyw3bU8xIlQay) | 4:05 |
 | 62 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 |
 | 63 | [Por Amor al Odio \(Versión Jazz\)](https://open.spotify.com/track/48MRnIDd36Zp5XxFgYfEHg) | [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3), [Glaç](https://open.spotify.com/artist/15hd9Fica9zjDslWUJUKgm) | [Donde Duele Inspira \(Versión Jazz\)](https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL) | 7:18 |
-| 64 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
-| 65 | [Contra Todos](https://open.spotify.com/track/13FbVnmgiKZdKMHPly1ekQ) | [995](https://open.spotify.com/artist/6Yd1PvtV3SDFofgpb4EWqt), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [995](https://open.spotify.com/album/2Uxj0MZLjKgQQBrRzNtPM5) | 5:19 |
+| 64 | [Contra Todos](https://open.spotify.com/track/13FbVnmgiKZdKMHPly1ekQ) | [995](https://open.spotify.com/artist/6Yd1PvtV3SDFofgpb4EWqt), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [995](https://open.spotify.com/album/2Uxj0MZLjKgQQBrRzNtPM5) | 5:19 |
+| 65 | [ANIMAL](https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ANIMAL](https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp) | 2:50 |
 | 66 | [Mis Disculpas](https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Mis Disculpas](https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB) | 8:08 |
 | 67 | [Bómboro](https://open.spotify.com/track/2xvaPbaFiZO4nhkVWJKGva) | [Kartel Aztlán](https://open.spotify.com/artist/249NypbZvEmdeVoeF6TQ45) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:45 |
 | 68 | [Balance](https://open.spotify.com/track/6udpsP3eFtN0CtaXLquDdb) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Faruz Vs\. Proof](https://open.spotify.com/album/4f0iuEJ66gNenOENDbjva8) | 3:24 |
 | 69 | [Tratos Con el Diablo](https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Verdugo](https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1) | 3:44 |
 | 70 | [No Entiendes La Onda \(How I Could Just Kill A Man\) \- Spanish Version](https://open.spotify.com/track/3JlHPSGJykKR0EAESs8Ope) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 4:09 |
-| 71 | [Digo Lo Que Pienso](https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:53 |
-| 72 | [El Pais De Las Maravillas](https://open.spotify.com/track/6Dh60wEtGzPSMUYFgMh5O2) | [Baston](https://open.spotify.com/artist/4BJngV0qOXFfhG5PQUSPrX) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:53 |
-| 73 | [Mi Familia](https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Expreso Aerophon](https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr) | 5:13 |
+| 71 | [Mi Familia](https://open.spotify.com/track/7KVzAwCgl6WhxBhVNJM9My) | [Aerophon](https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep) | [Expreso Aerophon](https://open.spotify.com/album/7pj1LFC6r4N8EyKXbw55rr) | 5:13 |
+| 72 | [Digo Lo Que Pienso](https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Entren Los Que Quieran](https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx) | 4:53 |
+| 73 | [El Pais De Las Maravillas](https://open.spotify.com/track/6Dh60wEtGzPSMUYFgMh5O2) | [Baston](https://open.spotify.com/artist/4BJngV0qOXFfhG5PQUSPrX) | [Vieja Guardia](https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN) | 3:53 |
 | 74 | [El Mito de la Caverna](https://open.spotify.com/track/0NiWrLr9wR2VkGXKKzhgQL) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Nunca Vemos Nada](https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv) | 3:15 |
 | 75 | [Suena](https://open.spotify.com/track/4HqvCLdcpiJtzxR82gH3qE) | [T\-Killa](https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl) | [Inksanidad](https://open.spotify.com/album/2amPdwaDwP9ftLGv0RNfIJ) | 3:39 |
 | 76 | [Mi Vicio](https://open.spotify.com/track/0GJshwQMsHQv3wXn4kU2TP) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mi Vicio](https://open.spotify.com/album/0DvsHsfnyP812KErsPuCdL) | 3:42 |

@@ -312,6 +312,40 @@
     {
       "album": {
         "name": "Remonta",
+        "url": "https://open.spotify.com/album/4N6Ps2F2pA3yHKRTwLpwJn"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        },
+        {
+          "name": "Caramelows",
+          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "ATR",
+          "url": "https://open.spotify.com/artist/4l4EjHjmOJyDgzN9Vqukn0"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196990,
+      "name": "Boxok\u00ea",
+      "url": "https://open.spotify.com/track/2c9w7HlmwbZzSSRNoMO5ba"
+    },
+    {
+      "album": {
+        "name": "Remonta",
         "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
       },
       "artists": [
@@ -2722,6 +2756,36 @@
       "duration_ms": 213198,
       "name": "Try",
       "url": "https://open.spotify.com/track/2xDxwmGw4q5LRo8duRC0z5"
+    },
+    {
+      "album": {
+        "name": "Remonta",
+        "url": "https://open.spotify.com/album/4N6Ps2F2pA3yHKRTwLpwJn"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        },
+        {
+          "name": "Caramelows",
+          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350773,
+      "name": "Tua",
+      "url": "https://open.spotify.com/track/4kzMcKnWW2jLcb8vpLg1y7"
     },
     {
       "album": {

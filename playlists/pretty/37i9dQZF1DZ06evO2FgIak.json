@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 51816,
+  "num_followers": 51822,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAJwxwwEQPQzbMoqoT5D8Nz",
+  "snapshot_id": "aYvGgAAAAACb5CFb3xcqcCQxs2Poyyu+",
   "tracks": [
     {
       "added_at": null,
@@ -207,26 +207,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Super Super Blues Band",
-        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
       },
       "artists": [
         {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        },
-        {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 253093,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/2KQhquTTsARcnU7Y3b6NDW"
+      "duration_ms": 174567,
+      "name": "Forty Days And Forty Nights",
+      "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
     },
     {
       "added_at": null,
@@ -247,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/2ehO3e7Bp6PnyqTWCqErMs"
       },
       "artists": [
         {
@@ -256,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 174567,
-      "name": "Forty Days And Forty Nights",
-      "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
+      "duration_ms": 200434,
+      "name": "Honey Bee",
+      "url": "https://open.spotify.com/track/2XwAWk73TyUGjXkYFBz8Ys"
     },
     {
       "added_at": null,
@@ -279,18 +271,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/2ehO3e7Bp6PnyqTWCqErMs"
+        "name": "The Super Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
       "artists": [
         {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        },
+        {
           "name": "Muddy Waters",
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 200434,
-      "name": "Honey Bee",
-      "url": "https://open.spotify.com/track/2XwAWk73TyUGjXkYFBz8Ys"
+      "duration_ms": 253093,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/2KQhquTTsARcnU7Y3b6NDW"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Walkin' Blues",
-      "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
@@ -552,15 +536,15 @@
           "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 277080,
-      "name": "Train Fare Home - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
-      "url": "https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y"
+      "duration_ms": 248586,
+      "name": "Blow Wind Blow - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
+      "url": "https://open.spotify.com/track/5OFRzy4ReR0W5tZw0O6KHG"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
       },
       "artists": [
         {
@@ -568,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 183880,
-      "name": "Mad Love (I Want You To Love Me) - Single Version",
-      "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
+      "duration_ms": 178600,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
     },
     {
       "added_at": null,
@@ -624,9 +608,25 @@
           "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 248586,
-      "name": "Blow Wind Blow - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
-      "url": "https://open.spotify.com/track/5OFRzy4ReR0W5tZw0O6KHG"
+      "duration_ms": 277080,
+      "name": "Train Fare Home - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
+      "url": "https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Mad Love (I Want You To Love Me) - Single Version",
+      "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Standing Around Crying - Single Version",
-      "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 259946,
       "name": "Ring Up - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
       "url": "https://open.spotify.com/track/2k0UVEOVlCMv3p9MX2jOtv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Standing Around Crying - Single Version",
+      "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "She Moves Me",
-      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 284546,
       "name": "Worried Life Blues - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
       "url": "https://open.spotify.com/track/56itvurydIT3dgXua4a3zr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "She Moves Me",
+      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 174200,
-      "name": "Louisiana Blues",
-      "url": "https://open.spotify.com/track/25fwvbLBDoj0FclO5XC1jT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
@@ -847,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saga Blues: Natural Born Lover 1954-1958",
-        "url": "https://open.spotify.com/album/7MDOsIzQ653hvBoBY19KGP"
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
       "artists": [
         {
@@ -856,9 +840,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 165840,
-      "name": "I Want To Be Loved",
-      "url": "https://open.spotify.com/track/348vMftVTCp10l8C90s2kE"
+      "duration_ms": 174200,
+      "name": "Louisiana Blues",
+      "url": "https://open.spotify.com/track/25fwvbLBDoj0FclO5XC1jT"
     },
     {
       "added_at": null,
@@ -883,6 +867,22 @@
       "duration_ms": 236160,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saga Blues: Natural Born Lover 1954-1958",
+        "url": "https://open.spotify.com/album/7MDOsIzQ653hvBoBY19KGP"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 165840,
+      "name": "I Want To Be Loved",
+      "url": "https://open.spotify.com/track/348vMftVTCp10l8C90s2kE"
     }
   ],
   "unique_name": "This Is Muddy Waters",

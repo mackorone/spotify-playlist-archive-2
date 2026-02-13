@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 
 > This is Binomio de Oro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,779 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,781 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 45 | [Quise Manchar Tu Alma](https://open.spotify.com/track/7vhO3vAmpiSNECd97UlT1j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Clase Aparte](https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK) | 4:14 |
 | 46 | [Reconozco Que Te Amo](https://open.spotify.com/track/6UWxacchH4Cp35ModegMM4) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Sólo Clásicos: Rafael Orozco](https://open.spotify.com/album/6UsTetmSj6XUraFvepURzu) | 3:51 |
 | 47 | [Juro Que Te Amo](https://open.spotify.com/track/79c4saLiw95dwN0D8UHgoW) | [Rafael Orozco](https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8), [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los 30 Mejores](https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS) | 4:10 |
-| 48 | [Acéptame Como Soy](https://open.spotify.com/track/4erN5dF9fvpx3r9NrE3rpT) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 4:26 |
+| 48 | [Mi Mejor Canción](https://open.spotify.com/track/2i7SWI1bVRznjvyjlW53t6) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Enamorado Como Siempre](https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z) | 3:54 |
 | 49 | [Voz de Acordeones](https://open.spotify.com/track/1ynlh10fcaVkkHg27N0X1w) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Clase Aparte](https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK) | 4:48 |
-| 50 | [Campana](https://open.spotify.com/track/1lgSdPP75qkN4CUZvbZILI) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los Elegidos](https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne) | 3:43 |
+| 50 | [Acéptame Como Soy](https://open.spotify.com/track/4erN5dF9fvpx3r9NrE3rpT) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 4:26 |
 
-Snapshot ID: `aYp1AAAAAAC6Pa7h6V3//vIR5qVy+xf7`
+Snapshot ID: `aYvGgAAAAACOvcFH/aV85DP06pIkIOvq`

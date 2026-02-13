@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "The Noir Album",
+        "url": "https://open.spotify.com/album/3wURhrqRieO3ZuMIlEqpDR"
+      },
+      "artists": [
+        {
+          "name": "Belladonna",
+          "url": "https://open.spotify.com/artist/46kYkISh4NadImXUdivRVb"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "Alchemical Romance",
+      "url": "https://open.spotify.com/track/5WWvHcc1dQc6528tbZsVip"
+    },
+    {
+      "album": {
         "name": "Surrounded by Spiders",
         "url": "https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT"
       },
@@ -200,6 +218,24 @@
       "duration_ms": 152716,
       "name": "Autumn in the Storm",
       "url": "https://open.spotify.com/track/0tB90dlegD2EegT7EE2Bii"
+    },
+    {
+      "album": {
+        "name": "Mr. Collision / Awhile Longer",
+        "url": "https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261760,
+      "name": "Awhile Longer",
+      "url": "https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV"
     },
     {
       "album": {
@@ -1339,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "Heart of a Coward / Maelstrom",
+        "url": "https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270498,
+      "name": "Heart of a Coward",
+      "url": "https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv"
+    },
+    {
+      "album": {
         "name": "help",
         "url": "https://open.spotify.com/album/2FXsrNcATB6Wrgvg32Fzp7"
       },
@@ -2072,6 +2126,24 @@
       "duration_ms": 197994,
       "name": "Movimento Barraco",
       "url": "https://open.spotify.com/track/6qAtUlwjZFrpUs8ITyTycQ"
+    },
+    {
+      "album": {
+        "name": "Mr. Collision / Awhile Longer",
+        "url": "https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301333,
+      "name": "Mr. Collision",
+      "url": "https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF"
     },
     {
       "album": {

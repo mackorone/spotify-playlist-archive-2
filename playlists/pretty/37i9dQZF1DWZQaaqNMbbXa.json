@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 584605,
+  "num_followers": 584691,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "Pharmacy",
+        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 227073,
+      "name": "Runaway (U & I)",
+      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Dirty Cash (Money Talks)",
         "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 221448,
       "name": "Dirty Cash (Money Talks)",
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "Pharmacy",
-        "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 227073,
-      "name": "Runaway (U & I)",
-      "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 179052,
       "name": "Alone, Pt. II",
       "url": "https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "Intense",
+        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "This Is What It Feels Like",
+      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Free Wired",
         "url": "https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 216893,
       "name": "Like A G6",
       "url": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "Intense",
-        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "This Is What It Feels Like",
-      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
-        "name": "More Than A Woman (SG's Paradise Edit)",
-        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 357936,
-      "name": "More Than A Woman - SG's Paradise Edit",
-      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
+        "name": "More Than A Woman (SG's Paradise Edit)",
+        "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 357936,
+      "name": "More Than A Woman - SG's Paradise Edit",
+      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -2767,26 +2767,6 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
-        "name": "Settle",
-        "url": "https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 255631,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/1BltsyC5W3SAABdxyrDXwi"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
         "name": "Peace Is The Mission",
         "url": "https://open.spotify.com/album/2XBnxKeRZi76u2iyGcMych"
       },
@@ -2807,6 +2787,26 @@
       "duration_ms": 176561,
       "name": "Lean On (feat. M\u00d8 & DJ Snake)",
       "url": "https://open.spotify.com/track/4WjH9Bzt3kx7z8kl0awxh4"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
+        "name": "Settle",
+        "url": "https://open.spotify.com/album/1ZFGRj11NnZHos8DUbbpF1"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 255631,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/1BltsyC5W3SAABdxyrDXwi"
     },
     {
       "added_at": "2025-10-05 23:11:45",

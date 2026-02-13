@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 321189,
+  "num_followers": 321291,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
+        "name": "Sombra La Lua",
+        "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
+      },
+      "artists": [
+        {
+          "name": "Billie Shaw",
+          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
+        }
+      ],
+      "duration_ms": 226468,
+      "name": "Sombra La Lua",
+      "url": "https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
         "name": "Braziliana",
         "url": "https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
-        "name": "Sombra La Lua",
-        "url": "https://open.spotify.com/album/6z87GcQHwxK137iiIU9PH5"
+        "name": "C\u00e9u Tropical",
+        "url": "https://open.spotify.com/album/5b6Pitwhg3vbsfRO2wrVXs"
       },
       "artists": [
         {
-          "name": "Billie Shaw",
-          "url": "https://open.spotify.com/artist/5fLL8sHcUsZw07ll4RV2Ku"
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
         }
       ],
-      "duration_ms": 226468,
-      "name": "Sombra La Lua",
-      "url": "https://open.spotify.com/track/7cB0pvTADSIai5xRoH8owQ"
+      "duration_ms": 215699,
+      "name": "C\u00e9u Tropical",
+      "url": "https://open.spotify.com/track/1tQDRcG0bYg7zYvTkN98RY"
     },
     {
       "added_at": "2026-02-06 08:55:34",
@@ -735,22 +751,6 @@
       "duration_ms": 259933,
       "name": "Day by day",
       "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
-        "name": "C\u00e9u Tropical",
-        "url": "https://open.spotify.com/album/5b6Pitwhg3vbsfRO2wrVXs"
-      },
-      "artists": [
-        {
-          "name": "Mart\u00edn Lima",
-          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
-        }
-      ],
-      "duration_ms": 215699,
-      "name": "C\u00e9u Tropical",
-      "url": "https://open.spotify.com/track/1tQDRcG0bYg7zYvTkN98RY"
     },
     {
       "added_at": "2026-02-06 08:55:34",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
-        "name": "Copacabana",
-        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
         "name": "Nature Boy",
         "url": "https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 263536,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
+        "name": "Copacabana",
+        "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
     },
     {
       "added_at": "2026-02-06 08:55:34",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
-        "name": "Praia de Ipanema",
-        "url": "https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1"
-      },
-      "artists": [
-        {
-          "name": "Jonah Anderson",
-          "url": "https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa"
-        }
-      ],
-      "duration_ms": 241124,
-      "name": "Praia de Ipanema",
-      "url": "https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
         "name": "Fim do ver\u00e3o",
         "url": "https://open.spotify.com/album/5sofxaOfF8vLaLAvn9hlzN"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 230591,
       "name": "Fim do ver\u00e3o",
       "url": "https://open.spotify.com/track/31wVCqF1fJTpgLPraYmQPg"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
+        "name": "Praia de Ipanema",
+        "url": "https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1"
+      },
+      "artists": [
+        {
+          "name": "Jonah Anderson",
+          "url": "https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa"
+        }
+      ],
+      "duration_ms": 241124,
+      "name": "Praia de Ipanema",
+      "url": "https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn"
     },
     {
       "added_at": "2026-02-06 08:55:34",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
-        "name": "Black Orpheus",
-        "url": "https://open.spotify.com/album/1uIZcgp7yorDXZFTY7Eh53"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 254533,
-      "name": "Black Orpheus",
-      "url": "https://open.spotify.com/track/2gURzEbMFhxw1ujKV3v1HY"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
         "name": "Lullaby for Dreaming",
         "url": "https://open.spotify.com/album/430vwTtYup6dRlSRkti1ge"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 174561,
       "name": "Lullaby for Dreaming",
       "url": "https://open.spotify.com/track/2jh30POVfh10M3JAgNXOBL"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
+        "name": "Black Orpheus",
+        "url": "https://open.spotify.com/album/1uIZcgp7yorDXZFTY7Eh53"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 254533,
+      "name": "Black Orpheus",
+      "url": "https://open.spotify.com/track/2gURzEbMFhxw1ujKV3v1HY"
     },
     {
       "added_at": "2026-02-06 08:55:34",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
-        "name": "Above the Clouds",
-        "url": "https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4"
-      },
-      "artists": [
-        {
-          "name": "Prism Trio",
-          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
-        }
-      ],
-      "duration_ms": 240072,
-      "name": "Above the Clouds",
-      "url": "https://open.spotify.com/track/3LScC8PsoWhfG3IvoQ0VoC"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
         "name": "A Rita",
         "url": "https://open.spotify.com/album/0AOG458GeaoRDRDuEHd2ns"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 248448,
       "name": "Wave",
       "url": "https://open.spotify.com/track/3bwnEib4SFS3W3wAVCEbaJ"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
+        "name": "Above the Clouds",
+        "url": "https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4"
+      },
+      "artists": [
+        {
+          "name": "Prism Trio",
+          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
+        }
+      ],
+      "duration_ms": 240072,
+      "name": "Above the Clouds",
+      "url": "https://open.spotify.com/track/3LScC8PsoWhfG3IvoQ0VoC"
     },
     {
       "added_at": "2026-02-06 08:55:34",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-02-06 08:55:34",
       "album": {
-        "name": "Praia \u00e0 noite",
-        "url": "https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7"
-      },
-      "artists": [
-        {
-          "name": "C. Moreira",
-          "url": "https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02"
-        }
-      ],
-      "duration_ms": 180610,
-      "name": "Praia \u00e0 noite",
-      "url": "https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt"
-    },
-    {
-      "added_at": "2026-02-06 08:55:34",
-      "album": {
         "name": "Time Passes By",
         "url": "https://open.spotify.com/album/3vbx6IdBvFjp0awFTBjA3u"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 151877,
       "name": "Time Passes By",
       "url": "https://open.spotify.com/track/2ZqQihrhkzoMTtf6x9wn2b"
+    },
+    {
+      "added_at": "2026-02-06 08:55:34",
+      "album": {
+        "name": "Praia \u00e0 noite",
+        "url": "https://open.spotify.com/album/2qGrmHUuZHRkayn9YdZxH7"
+      },
+      "artists": [
+        {
+          "name": "C. Moreira",
+          "url": "https://open.spotify.com/artist/3k0cZx5vqDLFwJFYJwbD02"
+        }
+      ],
+      "duration_ms": 180610,
+      "name": "Praia \u00e0 noite",
+      "url": "https://open.spotify.com/track/5nSgChBrcg32gzwJprrrIt"
     },
     {
       "added_at": "2026-02-06 08:55:34",

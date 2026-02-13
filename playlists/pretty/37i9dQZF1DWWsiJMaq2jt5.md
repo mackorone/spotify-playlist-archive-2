@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:7A5EBB4tls8HDFroU2Cm5p">Dobrawa Czocher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,657 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,659 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 59 | [Pierwszy krok](https://open.spotify.com/track/3OedeMhlE4qwoSGvADZvIf) | [the mia](https://open.spotify.com/artist/3UoNwzwi8ccTGEHcZed2iT) | [Pierwszy krok](https://open.spotify.com/album/2cHBN25kerd4eO3pduLj7x) | 2:27 |
 | 60 | [Do rana](https://open.spotify.com/track/4Byqhqa0N5KfdtetgKHjr7) | [Slavic DAMA](https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz), [Adam Grycan](https://open.spotify.com/artist/6Cl4XSkOB60zr2t0fwkc4P) | [Do rana](https://open.spotify.com/album/4OKqjxZltbafrBG9W0HHKZ) | 2:48 |
 
-Snapshot ID: `AAAAAPh3dXQPI95k99c28nEERVJRiaYA`
+Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`

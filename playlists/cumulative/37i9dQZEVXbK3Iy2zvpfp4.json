@@ -10780,7 +10780,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "BYTY BYTY",
       "url": "https://open.spotify.com/track/6JZTBYP2NwPY8NMLigp2mw"
@@ -15612,7 +15612,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 192411,
       "name": "Dar zeme",
       "url": "https://open.spotify.com/track/5g7CjGrpQRZdqHM3V7FCnG"
@@ -20315,6 +20315,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204768,
+      "name": "EoO",
+      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
+    },
+    {
+      "album": {
         "name": "\u00c9quinoxe",
         "url": "https://open.spotify.com/album/4jz8xe3ErCHfGc0m0aGGau"
       },
@@ -22738,7 +22756,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 313638,
       "name": "Fire In My Heart",
       "url": "https://open.spotify.com/track/3xyZpb0MDiEv5hOpNjKN5z"
@@ -35374,7 +35392,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 156000,
       "name": "KATYUSHA",
       "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
@@ -44382,7 +44400,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 214479,
       "name": "MOMENT - DEEP HOUSE REMIX",
       "url": "https://open.spotify.com/track/5sUCXZAnSkCdBLY5uItJlO"
@@ -51172,7 +51190,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 171851,
       "name": "oblubene slovo",
       "url": "https://open.spotify.com/track/6AsdWSmhPKdh0c5AjQhVqk"
@@ -53216,7 +53234,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
@@ -71918,7 +71936,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 206200,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/1iUdrNKh0GaFuyHgVVDwfi"

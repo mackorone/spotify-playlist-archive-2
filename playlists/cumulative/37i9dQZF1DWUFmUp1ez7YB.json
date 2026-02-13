@@ -750,7 +750,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 225933,
       "name": "Corazon de Acero",
       "url": "https://open.spotify.com/track/60tVsYxb9Ac05YRFgMmyL1"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 314960,
       "name": "El Paso De Encarnaci\u00f3n",
       "url": "https://open.spotify.com/track/0BGDijO05WJ1kpqVLwUU5d"
@@ -1464,6 +1464,28 @@
       "duration_ms": 354973,
       "name": "Gotas De Lluvia",
       "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "album": {
+        "name": "Elsa y Elmar (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287328,
+      "name": "Grecia - Spotify Sessions",
+      "url": "https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN"
     },
     {
       "album": {
@@ -2438,7 +2460,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 272666,
       "name": "Procura",
       "url": "https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8"
@@ -2828,7 +2850,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 303173,
       "name": "Tu Con El",
       "url": "https://open.spotify.com/track/3fwqOw3lzCle2zxamHMcQ2"
@@ -2998,7 +3020,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 271726,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/5SIoLK4aqXc2UzNrhVHwtp"

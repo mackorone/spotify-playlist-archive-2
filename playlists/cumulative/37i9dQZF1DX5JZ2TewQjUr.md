@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Turbulent
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: COPAK
 
-1,610 songs - 3 day 19 hr 5 min
+1,614 songs - 3 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Don’t Say Goodnight](https://open.spotify.com/track/387ZUKmGoVVahky9sfjzQe) | [Charming Way](https://open.spotify.com/artist/1us1dhuQC9cgSiJT3qEQJb) | [Don’t Say Goodnight](https://open.spotify.com/album/6gTPwxBc5uM0WbVH063fQv) | 4:21 | 2023-10-12 | 2024-01-05 |
 | [doot doot](https://open.spotify.com/track/3uJm6I6vpUSnjhRLkOJagc) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [doot doot](https://open.spotify.com/album/4xqMWeMmFEu8N4vUsqOUID) | 2:53 | 2024-08-29 | 2024-12-13 |
 | [Double Express](https://open.spotify.com/track/7nhilqQeh8qPeeUAzVzZNW) | [Drag.C](https://open.spotify.com/artist/55WhiLQ34OpR3TBexpudGZ), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [Double Express](https://open.spotify.com/album/6gaL3MA4UGdlLbEloZTvCx) | 3:40 | 2024-05-02 | 2024-11-15 |
+| [DOWN!](https://open.spotify.com/track/4ZiIxuyiw2CGWUZwo2MUlx) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [HOW HIGH](https://open.spotify.com/album/4cZivAxSgzYXbegNhaWd4B) | 4:05 | 2026-02-12 |  |
 | [Dream On](https://open.spotify.com/track/0rKi0fBy4sAM29TBKTAhr5) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy) | [Sky is the Limit](https://open.spotify.com/album/4uxs4OV71XqfDFct1eUfug) | 3:07 | 2023-03-09 | 2023-07-14 |
 | [dreamgirl\(s\).](https://open.spotify.com/track/3GhZ9ngx41rpxnjVwkaFH0) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [dreamgirl\(s\).](https://open.spotify.com/album/1wOEx9F3prCwdDXRxUrxdC) | 2:34 | 2023-03-09 | 2023-07-14 |
 | [Dreams \- Acoustic Version](https://open.spotify.com/track/6WBiD1wHBQrvVoBABHsidv) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [All I want for Christmas is Acoustic](https://open.spotify.com/album/7bNLecuW4MfNBYeyT1ol9w) | 2:00 | 2023-12-28 | 2024-05-10 |
@@ -291,6 +292,7 @@
 | [Feelin'](https://open.spotify.com/track/2KBlnIRT9BiUqIcf9E6V6S) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [Feelin'](https://open.spotify.com/album/0DFzivEqYeYcURlXDRzHks) | 3:01 | 2022-10-27 | 2023-02-03 |
 | [feelit?](https://open.spotify.com/track/1NFls9VltXXSfZh2GxzNAX) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [feelit?](https://open.spotify.com/album/3IEOmMfmbLheFV7utGKmuO) | 2:50 | 2023-11-23 | 2024-01-05 |
 | [Feels like back in 2018](https://open.spotify.com/track/393U6czC5kq6BC5e6z2Eua) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [Bye.](https://open.spotify.com/album/3O8g3PI0mEjHD6ByNMVsx4) | 2:16 | 2024-11-28 | 2025-03-14 |
+| [Figure Eight](https://open.spotify.com/track/0QvLNAmChmIxtuiHQRcK8x) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Figure Eight / Then You're Here Again](https://open.spotify.com/album/0uuVQfkEALS6HEAjnA7F5M) | 2:57 | 2026-02-12 |  |
 | [Fill My Empty Soul](https://open.spotify.com/track/3YN2Vz3jYYIIvkC2eX2mGr) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [Fill My Empty Soul](https://open.spotify.com/album/46kdOcGtnWMPDLcmRmdEjg) | 3:26 | 2024-12-12 | 2025-05-30 |
 | [Fireflies](https://open.spotify.com/track/26BGPHSmjchqcViaelHuJj) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu), [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Fireflies](https://open.spotify.com/album/5mMABLGwyj57ar2ltq9LQ7) | 3:10 | 2024-07-04 | 2024-11-15 |
 | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/track/3ksUlJXEkMyLt7Tm4sC2aq) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [FIRST CLASS \(feat\. The Crane\)](https://open.spotify.com/album/02xnWnxfcuIKgAXpj1qsx9) | 3:04 | 2023-07-06 | 2023-11-03 |
@@ -330,6 +332,7 @@
 | [GHOSTED \(Prod\. Jom Donato & Shrinjay Ghosh\)](https://open.spotify.com/track/0zElDp0olI2fPoeBh1BQB3) | [KAREN YEE](https://open.spotify.com/artist/4PIfjY4eTuXfopttbsBdOh) | [GHOSTED \(Prod\. Jom Donato & Shrinjay Ghosh\)](https://open.spotify.com/album/3ymWQzCYogShcn2sPPJTSI) | 2:38 | 2023-09-14 | 2023-12-01 |
 | [GIGGLE](https://open.spotify.com/track/6i64lLGBXrXxkJ5y5yUiFC) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [GIGGLE](https://open.spotify.com/album/2D0xcHpatH08bxmjLzi8aq) | 2:48 | 2022-05-26 | 2022-07-29 |
 | [Gigi](https://open.spotify.com/track/2iIk4RyJRWVa4l0t0fiQWs) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Gigi](https://open.spotify.com/album/0WnVwquHKlCPWJbZO9upzd) | 4:10 | 2022-12-29 | 2023-05-26 |
+| [Gin & T \(金汤力\)](https://open.spotify.com/track/5tBK6RekQG8h66M7pCv7vo) | [Oatmilk Fan](https://open.spotify.com/artist/6sQkF5EAcNhM4aBh1zCRSF) | [Gin & T \(金汤力\)](https://open.spotify.com/album/2apNxOFeZC8xvQJkhFLllx) | 3:49 | 2026-02-12 |  |
 | [Girl in the Mirror](https://open.spotify.com/track/4MqkF6zmaKFH1ZPVotMjwr) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [Girl in the Mirror](https://open.spotify.com/album/1OFjJFdsJOuCMPvXHkH80h) | 3:34 | 2025-06-05 | 2025-11-21 |
 | [Girl, let's dance](https://open.spotify.com/track/5nywwZ634HioYXawXsujaZ) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Girl, let's dance](https://open.spotify.com/album/0gGzZsU0Uv5MRw4kOtYJ5M) | 3:22 | 2024-03-07 | 2024-11-15 |
 | [give in to you](https://open.spotify.com/track/30uhhtCSKgdM41GpWRpLVJ) | [Lau Heung King](https://open.spotify.com/artist/72AJX3x6g9ISakQ4X8N8Pd) | [give in to you](https://open.spotify.com/album/5dN9X6OlySq4wet8HP1Gfi) | 3:04 | 2023-09-21 | 2023-11-24 |
@@ -927,6 +930,7 @@
 | [THE LONE](https://open.spotify.com/track/7EGoC4MKt8Gu9jLOf9BRjb) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1), [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0) | [THE LONE](https://open.spotify.com/album/63b0tAuVWzZocCcOKq1ecW) | 2:40 | 2024-06-06 | 2024-11-15 |
 | [The Night](https://open.spotify.com/track/2OjYBLpax4gAZpcrlLF0rI) | [DEADHEIR](https://open.spotify.com/artist/3kUjUAQE2usKTo1Gt2MZBU) | [Tidalwave](https://open.spotify.com/album/4VAgZzba5bzKaLRail3YNK) | 3:01 | 2024-02-01 | 2024-05-10 |
 | [The Real World](https://open.spotify.com/track/6UNcgKafaHhsO5rFuwYCJa) | [Mr Koo](https://open.spotify.com/artist/63Jj7uHeJZ9ygXaesiq6MF) | [The Real World](https://open.spotify.com/album/7I6TlOZiXDJx7S3sdLfdRN) | 4:00 | 2024-11-14 | 2025-03-14 |
+| [The Reason](https://open.spotify.com/track/02ICRIj52ntml18khwSWHh) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [The Reason](https://open.spotify.com/album/1Yyz2u4loJ2ltgtR0uVFE6) | 4:17 | 2026-02-12 |  |
 | [The Risk of Driving](https://open.spotify.com/track/3H0LmVeF0URHGKLCu8v6RH) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [The Risk of Driving](https://open.spotify.com/album/0DSpzXiLBWhFm47l15ioX6) | 2:54 | 2024-03-28 | 2024-11-15 |
 | [The Sea \(feat\. Peace Lo\)](https://open.spotify.com/track/7nDzjK7VTX20ZEK87DJt22) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC), [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [The Sea \(feat\. Peace Lo\)](https://open.spotify.com/album/3mXyrQE4KOxpmYsEoh0yBQ) | 2:24 | 2022-05-26 | 2022-07-29 |
 | [The Sulis Club](https://open.spotify.com/track/0YdCIalpcKXsIMtM7GTWKl) | [SULIS](https://open.spotify.com/artist/341jDjLcWdN0Xt9TCkhsv3) | [The Sulis Club](https://open.spotify.com/album/2FI5MRKbzouq21k3AlPGi3) | 3:14 | 2024-07-04 | 2024-11-15 |

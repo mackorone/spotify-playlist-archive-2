@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,331 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,494 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 61 | [una noche con hugel](https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [una noche con hugel](https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT) | 3:11 |
 | 62 | [Qué Pasaría...](https://open.spotify.com/track/0OxKf18dUo2G5dFOQYCvBN) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Qué Pasaría...](https://open.spotify.com/album/0uuqkIU29zH9mpChddc5Tn) | 3:11 |
 | 63 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 |
-| 64 | [Luck Ra: Bzrp Music Sessions, Vol\. 61/66](https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra: Bzrp Music Sessions, Vol\. 61/66](https://open.spotify.com/album/7HEU1uhs82x9hvNHOJrMKX) | 2:50 |
-| 65 | [Dura](https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Dura](https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7) | 3:20 |
+| 64 | [Dura](https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Dura](https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7) | 3:20 |
+| 65 | [Luck Ra: Bzrp Music Sessions, Vol\. 61/66](https://open.spotify.com/track/5AGnkbWCiF9u4ra54N9X1a) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra: Bzrp Music Sessions, Vol\. 61/66](https://open.spotify.com/album/7HEU1uhs82x9hvNHOJrMKX) | 2:50 |
 | 66 | [SUERTE](https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Slow Jamz](https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o) | [SUERTE](https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz) | 3:13 |
 | 67 | [ENAMORARSE PARA QUE](https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk) | [VIUS](https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE) | [ENAMORARSE PARA QUE](https://open.spotify.com/album/32Prq4dvBeioGhPUARQieZ) | 3:04 |
 | 68 | [Te Felicito](https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Te Felicito](https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH) | 2:52 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 96 | [Borracho Y Loco](https://open.spotify.com/track/6JbJ5vPFWyeB3WvolAXFoP) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [UNDERDOGS](https://open.spotify.com/album/1nPRTKmS3Bn0f2ih11i2aH) | 2:44 |
 | 97 | [Noventa \(with J Balvin\)](https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Noventa \(with J Balvin\)](https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ) | 2:26 |
 | 98 | [TENGO GANAS](https://open.spotify.com/track/2X3NWjkwnqCOfAS0TcUYOW) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9) | [TENGO GANAS](https://open.spotify.com/album/3PZsmna1CzAkZndq3h0Krs) | 2:41 |
-| 99 | [RU MOR](https://open.spotify.com/track/3LToltMjcoYi665BhuLEAN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO VOL X: Sagrado](https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC) | 2:26 |
-| 100 | [X TI](https://open.spotify.com/track/6jNMtUR4tNxTqP63yfdJTv) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [X TI](https://open.spotify.com/album/4HfQzOCpQrakm38l0HdS1V) | 3:35 |
+| 99 | [X TI](https://open.spotify.com/track/6jNMtUR4tNxTqP63yfdJTv) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [X TI](https://open.spotify.com/album/4HfQzOCpQrakm38l0HdS1V) | 3:35 |
+| 100 | [RU MOR](https://open.spotify.com/track/3LToltMjcoYi665BhuLEAN) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FERXXO VOL X: Sagrado](https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC) | 2:26 |
 
 Snapshot ID: `AAAAAJiJKfdhu/ePtpdzgdmy3FSGPgdd`

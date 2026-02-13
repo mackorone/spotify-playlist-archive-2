@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 437355,
+  "num_followers": 437395,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "KISS ME",
-        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
       },
       "artists": [
         {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 183431,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
+      "duration_ms": 238666,
+      "name": "Song For You",
+      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+        "name": "KISS ME",
+        "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Song For You",
-      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
+      "duration_ms": 183431,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1211,6 +1211,30 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "El Sitio de Mi Recreo",
+        "url": "https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME"
+      },
+      "artists": [
+        {
+          "name": "Alba Molina",
+          "url": "https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1"
+        },
+        {
+          "name": "Mayte Martin",
+          "url": "https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd"
+        },
+        {
+          "name": "Vicente Amigo",
+          "url": "https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY"
+        }
+      ],
+      "duration_ms": 211791,
+      "name": "El Sitio de Mi Recreo",
+      "url": "https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "DeSAFINADO",
         "url": "https://open.spotify.com/album/2FdMgZJD8hglucdGdPPT6a"
       },
@@ -1243,30 +1267,6 @@
       "duration_ms": 220031,
       "name": "Dos L\u00e1grimas, Dos Peces",
       "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "El Sitio de Mi Recreo",
-        "url": "https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME"
-      },
-      "artists": [
-        {
-          "name": "Alba Molina",
-          "url": "https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1"
-        },
-        {
-          "name": "Mayte Martin",
-          "url": "https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd"
-        },
-        {
-          "name": "Vicente Amigo",
-          "url": "https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY"
-        }
-      ],
-      "duration_ms": 211791,
-      "name": "El Sitio de Mi Recreo",
-      "url": "https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "Mandela Place",
+        "url": "https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 213563,
+      "name": "Mandela Place",
+      "url": "https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "EL CORAZ\u00d3N MANDA",
         "url": "https://open.spotify.com/album/2am6bidvxhxkCd2iHwjR3V"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Mandela Place",
-        "url": "https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 213563,
-      "name": "Mandela Place",
-      "url": "https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "Tiza",
         "url": "https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 165642,
       "name": "Muy Agradecido",
       "url": "https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "\u00c1rboles",
+        "url": "https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "\u00c1rboles",
+      "url": "https://open.spotify.com/track/7ifZcrE6kGBTXOT4ypxqqS"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1403,22 +1419,6 @@
       "duration_ms": 190583,
       "name": "Pro Mundo Ouvir",
       "url": "https://open.spotify.com/track/72QpSvlwGaU3dtEFzmMREZ"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "\u00c1rboles",
-        "url": "https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW"
-      },
-      "artists": [
-        {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "\u00c1rboles",
-      "url": "https://open.spotify.com/track/7ifZcrE6kGBTXOT4ypxqqS"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
-      },
-      "artists": [
-        {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
-        }
-      ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "La Jarrita del Tiempo",
         "url": "https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
+      },
+      "artists": [
+        {
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
+        }
+      ],
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz"
       },
@@ -1635,6 +1635,26 @@
       "duration_ms": 203003,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Vernat",
+          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
+        }
+      ],
+      "duration_ms": 163402,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1703,26 +1723,6 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Vernat",
-          "url": "https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9"
-        }
-      ],
-      "duration_ms": 163402,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
         "name": "xulejudetu",
         "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
@@ -1738,6 +1738,10 @@
         {
           "name": "salvi",
           "url": "https://open.spotify.com/artist/348j2dI5sC2EzHfvJS29tU"
+        },
+        {
+          "name": "bby bdass",
+          "url": "https://open.spotify.com/artist/5dUw4645pmwu7qVZ7RNHJL"
         }
       ],
       "duration_ms": 153687,
@@ -1767,18 +1771,18 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Demian",
-        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
+        "name": "Todo Marchit\u00f3",
+        "url": "https://open.spotify.com/album/45vox10mCCmPfUgr3SkJ1v"
       },
       "artists": [
         {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+          "name": "Los Telep\u00e1ticos",
+          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
         }
       ],
-      "duration_ms": 270250,
-      "name": "La Espiral",
-      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
+      "duration_ms": 247622,
+      "name": "Todo Marchit\u00f3",
+      "url": "https://open.spotify.com/track/5NbGdDoAlBNn5i4HxWppYf"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -1799,18 +1803,18 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
-        "name": "Todo Marchit\u00f3",
-        "url": "https://open.spotify.com/album/45vox10mCCmPfUgr3SkJ1v"
+        "name": "Demian",
+        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
       },
       "artists": [
         {
-          "name": "Los Telep\u00e1ticos",
-          "url": "https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS"
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
         }
       ],
-      "duration_ms": 247622,
-      "name": "Todo Marchit\u00f3",
-      "url": "https://open.spotify.com/track/5NbGdDoAlBNn5i4HxWppYf"
+      "duration_ms": 270250,
+      "name": "La Espiral",
+      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
     },
     {
       "added_at": "2026-01-16 05:55:21",
@@ -2055,6 +2059,22 @@
     {
       "added_at": "2026-01-16 05:55:21",
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 144744,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
+    },
+    {
+      "added_at": "2026-01-16 05:55:21",
+      "album": {
         "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
         "url": "https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4"
       },
@@ -2075,22 +2095,6 @@
       "duration_ms": 186000,
       "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
       "url": "https://open.spotify.com/track/4ZFCQHDbp3V5d4TyN6wmPu"
-    },
-    {
-      "added_at": "2026-01-16 05:55:21",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 144744,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
     },
     {
       "added_at": "2026-01-16 05:55:21",

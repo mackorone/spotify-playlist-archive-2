@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-03-14",
-  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: Sassy 009",
+  "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: miaw",
   "name": "Cph+",
   "tracks": [
     {
@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Golden Brown Sugar",
+        "url": "https://open.spotify.com/album/3GTsuGzSY59ekjlR2WDWWp"
+      },
+      "artists": [
+        {
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Golden Brown Sugar",
+      "url": "https://open.spotify.com/track/1s8UNp2swlH5b6c6FghaCl"
+    },
+    {
+      "album": {
         "name": "Good Stuff (Edit)",
         "url": "https://open.spotify.com/album/3qNVaqCijxUA03OYFh88ul"
       },
@@ -1870,6 +1888,24 @@
       "duration_ms": 179808,
       "name": "Hibiscus",
       "url": "https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/0lDky6LrsdXzdWprzrfi73"
+      },
+      "artists": [
+        {
+          "name": "Melodi Ghazal",
+          "url": "https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/50I2vo9ZK26EZlDpRzkmT9"
     },
     {
       "album": {
@@ -3312,6 +3348,24 @@
       "duration_ms": 216000,
       "name": "Silent But For Joy",
       "url": "https://open.spotify.com/track/2JqhEPBaV1pPRgrqlTmsNn"
+    },
+    {
+      "album": {
+        "name": "Simplicity",
+        "url": "https://open.spotify.com/album/75Uh1msjrWV7KfrZMS3mIB"
+      },
+      "artists": [
+        {
+          "name": "Boy With Apple",
+          "url": "https://open.spotify.com/artist/6cs5N6HLaTJIgJefiYLkg7"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177906,
+      "name": "Simplicity",
+      "url": "https://open.spotify.com/track/03NldygupIfeTSh41yjVXi"
     },
     {
       "album": {

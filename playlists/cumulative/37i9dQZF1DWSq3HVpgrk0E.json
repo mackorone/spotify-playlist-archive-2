@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "The whole truth. Cover: Don Toliver",
+  "description": "The whole truth. Cover: Central Cee",
   "name": "No Cap (2)",
   "tracks": [
     {
@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN FREESTYLE",
+        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "ICEMAN FREESTYLE",
+      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
+    },
+    {
+      "album": {
         "name": "WHAT HAPPENED TO THE STREETS?",
         "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
       },
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 109773,
       "name": "Tartan",
       "url": "https://open.spotify.com/track/0rMZlyruR3etQ2F6baXc8S"

@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAHeaZbofVzqkC3kywV1K67/cw/XvGK",
+  "snapshot_id": "AAAHfHua/3wt5wFy9KDzFFhqWDS2nh/2",
   "tracks": [
     {
       "added_at": "2026-02-07 22:51:48",
@@ -66575,6 +66575,54 @@
       "duration_ms": 246919,
       "name": "Henuza",
       "url": "https://open.spotify.com/track/2NzCwz5yoAwnU7s5W3qH3m"
+    },
+    {
+      "added_at": "2026-02-12 17:59:53",
+      "album": {
+        "name": "Through the Night (dance mix)",
+        "url": "https://open.spotify.com/album/5H3VYqTziKrzJ7FG68rQ5P"
+      },
+      "artists": [
+        {
+          "name": "Riptide River",
+          "url": "https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX"
+        }
+      ],
+      "duration_ms": 236283,
+      "name": "Through the Night (dance mix)",
+      "url": "https://open.spotify.com/track/4dcay6OeAuB1ymm8oN42nC"
+    },
+    {
+      "added_at": "2026-02-12 18:00:21",
+      "album": {
+        "name": "Paradox",
+        "url": "https://open.spotify.com/album/0MfcQgDAzxySwEcNklvyMB"
+      },
+      "artists": [
+        {
+          "name": "Riptide River",
+          "url": "https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX"
+        }
+      ],
+      "duration_ms": 299919,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/51OqiMvYNTbSiqNYU38usD"
+    },
+    {
+      "added_at": "2026-02-12 18:00:48",
+      "album": {
+        "name": "Resistance",
+        "url": "https://open.spotify.com/album/4y7j9U8phgwqj8D7TKJWV4"
+      },
+      "artists": [
+        {
+          "name": "Riptide River",
+          "url": "https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX"
+        }
+      ],
+      "duration_ms": 201639,
+      "name": "Resistance",
+      "url": "https://open.spotify.com/track/2eHIE3zMkOC06LaS84bJ7r"
     }
   ],
   "unique_name": "playlist spotify free",

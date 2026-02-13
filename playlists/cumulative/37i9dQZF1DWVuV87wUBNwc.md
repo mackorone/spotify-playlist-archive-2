@@ -2,9 +2,9 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> GIMS & Theodora au sommet de la première playlist de France.
+> Tyla au sommet de la première playlist de France.
 
-429 songs - 21 hr 46 min
+431 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-05-02 | 2024-07-19 |
 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 | 2024-03-21 | 2024-08-02 |
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-10-16 |  |
-| [Game Started](https://open.spotify.com/track/6qB2O09Bxs3bCKiWT4UVOv) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Game Started](https://open.spotify.com/album/3cZw8m9b9L5fAHyEitA9WC) | 2:28 | 2025-10-02 |  |
+| [Game Started](https://open.spotify.com/track/6qB2O09Bxs3bCKiWT4UVOv) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Game Started](https://open.spotify.com/album/3cZw8m9b9L5fAHyEitA9WC) | 2:28 | 2025-10-02 | 2026-02-13 |
 | [Gamins des sables](https://open.spotify.com/track/7iC9oAiBbBf0WHAU9Ap28Q) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamin des sables](https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW) | 3:01 | 2024-12-12 | 2025-01-24 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-25 | 2025-01-03 |
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-10-05 | 2024-05-17 |
@@ -317,6 +317,7 @@
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-01-22 |  |
 | [Recommence\-moi](https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Recommence\-moi](https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y) | 3:16 | 2024-04-25 | 2025-02-07 |
 | [Reflet](https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Reflet](https://open.spotify.com/album/5fntmqoGRA3LPBGFzYy7wp) | 2:48 | 2025-04-24 | 2025-07-11 |
+| [Respire fort](https://open.spotify.com/track/14KogTtMWr07LMu5E66IrS) | [Jeanne](https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ) | [Respire fort](https://open.spotify.com/album/5sQnc8AUDkAWRBjnNSXR3h) | 2:51 | 2026-02-12 |  |
 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-07-27 | 2023-10-27 |
 | [Rosa](https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Rosa](https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz) | 2:16 | 2024-08-22 | 2024-12-20 |
 | [RUINART](https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [RUINART](https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1) | 2:54 | 2025-07-10 | 2025-10-24 |
@@ -355,6 +356,7 @@
 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-23 | 2024-12-27 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2024-01-25 | 2024-02-23 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-06-20 | 2024-12-06 |
+| [Stateside + Zara Larsson](https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Stateside + Zara Larsson](https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM) | 3:04 | 2026-02-12 |  |
 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 | 2025-11-20 |  |
 | [Stay \(Never Leave\)](https://open.spotify.com/track/6zDitZRQadPCyaVl4u6OJy) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Stay \(Never Leave\)](https://open.spotify.com/album/3ShZxa7ntVznDhTLISXLY9) | 2:32 | 2023-11-23 | 2023-12-15 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-14 | 2024-03-01 |
@@ -394,7 +396,7 @@
 | [TOUCHÉ](https://open.spotify.com/track/0hQqfUxxTVwYW172Ble1oD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [TOUCHÉ](https://open.spotify.com/album/4iD6uPh3j7fPoPQrmhJIif) | 2:53 | 2025-05-15 | 2025-08-01 |
 | [Tour du monde](https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tour du monde](https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO) | 2:51 | 2025-09-18 |  |
 | [Tout a changé \(Rien n'a changé\)](https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 2:46 | 2025-10-23 |  |
-| [Toute la nuit](https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [Toute la nuit](https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS) | 3:18 | 2025-10-23 |  |
+| [Toute la nuit](https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [Toute la nuit](https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS) | 3:18 | 2025-10-23 | 2026-02-13 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-07-27 | 2023-10-13 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-03-14 | 2024-09-20 |
 | [TRUSTFALL](https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt) | 3:57 | 2023-07-27 | 2023-10-13 |

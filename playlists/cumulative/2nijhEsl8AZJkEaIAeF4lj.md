@@ -4,7 +4,7 @@
 
 > melancholic dreaming… or my go\-to plane playlist
 
-363 songs - 23 hr 16 min
+364 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Forever ..\. \(is a long time\)](https://open.spotify.com/track/6BORJ0ZazxMBpM3cWg79Id) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 2:47 | 2024-03-21 |  |
 | [Forget About The Party](https://open.spotify.com/track/0hnh2mE1YXEF3wvOmTVizC) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Wildest Dreams](https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB) | 3:20 | 2021-10-23 |  |
 | [FourFiveSeconds](https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL) | 3:08 | 2021-11-10 |  |
+| [Francis Forever](https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:29 | 2026-02-13 |  |
 | [Friends That Break Your Heart](https://open.spotify.com/track/40FsuBI6VgWa0ouG9KcB0c) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Friends That Break Your Heart](https://open.spotify.com/album/1zNtJFMCNIyT0X19jpcI3j) | 3:21 | 2021-10-08 |  |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-07-24 |  |
 | [Fuck it I love you](https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:38 | 2025-08-22 |  |

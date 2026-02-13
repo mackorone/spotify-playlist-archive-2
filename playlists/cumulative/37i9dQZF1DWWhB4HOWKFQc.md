@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: LNGSHOT
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Bad Bunny
 
-1,485 songs - 3 day 17 hr 23 min
+1,488 songs - 3 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Badut Baru](https://open.spotify.com/track/2cvKEBxlLOjAWYhsDwOvRC) | [dbatlayar](https://open.spotify.com/artist/6Cl2MkL95uTSdGnkT0epnG) | [Badut Baru](https://open.spotify.com/album/2hHIt7x4I5MPMUiAwNkQcZ) | 3:57 | 2024-08-28 | 2024-11-14 |
 | [BADVILLAIN](https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [OVERSTEP](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) | 3:09 | 2024-06-18 | 2024-07-27 |
 | [Bahagia Lagi](https://open.spotify.com/track/5tZaKZPJtiHh6teQfVEHB5) | [Piche Kota](https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM) | [Bahagia Lagi](https://open.spotify.com/album/5Dwl7DzGeKt0iSXXwefCIX) | 3:47 | 2025-11-20 |  |
+| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2026-02-13 |  |
 | [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 | 2024-03-14 | 2024-04-19 |
 | [Bangkit Usai Pesta](https://open.spotify.com/track/6y1iYNHh9uD8xCbF4wj585) | [Harum Manis](https://open.spotify.com/artist/3aIlSAyCQdRBZwKMwRJSVI) | [Hentikan Pernikahan Ini](https://open.spotify.com/album/1k7UoaHhzVpVmeCUVmDvnH) | 2:44 | 2025-06-13 | 2025-07-18 |
 | [Bass Body Party](https://open.spotify.com/track/0UEAwLwq9drkkrDfgxlGwK) | [Dior Jones](https://open.spotify.com/artist/6vJGWqVAAelkNaU4vRJmKs) | [Bass Body Party](https://open.spotify.com/album/6v8nTczg6FEt6x79EbyF1F) | 3:52 | 2023-10-05 | 2023-12-02 |
@@ -372,7 +373,7 @@
 | [Drowning](https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 4:04 | 2024-11-22 | 2024-12-04 |
 | [drunk text](https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [drunk text](https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ) | 3:07 | 2023-03-23 | 2024-08-29 |
 | [drunk text](https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:07 | 2024-03-14 | 2024-04-19 |
-| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-23 | 2025-02-27 |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-23 |  |
 | [Dulu Memang Cinta](https://open.spotify.com/track/3d6zV36mKy0ShSgmBMm3oS) | [Putri Tanjung](https://open.spotify.com/artist/0YP9OgyAgc7vZelWXj765a), [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Dulu Memang Cinta](https://open.spotify.com/album/29KrA0ucg3agGF6CZZcfrN) | 3:00 | 2025-04-09 | 2025-05-23 |
 | [duniakitaberdua](https://open.spotify.com/track/0ZsaPxM1dmNuvBFzL9mBsR) | [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi), [kirohta](https://open.spotify.com/artist/3PXrisFNv2LkiFF2wuVY21) | [duniakitaberdua](https://open.spotify.com/album/4TTL6Is7Gi32NOOEHS7Qbx) | 2:35 | 2025-10-17 | 2025-11-08 |
 | [Dystopia](https://open.spotify.com/track/4WVcTxy8lZqrz3wp0Mp1DF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/6hhxNNO0GccTgRk5pBPfAQ) | 3:09 | 2024-11-13 | 2024-12-04 |
@@ -693,6 +694,7 @@
 | [La Perla](https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:15 | 2025-11-28 | 2026-01-15 |
 | [Lagu Lama](https://open.spotify.com/track/5pXbx9GLA7G7VOSVFEBJFW) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [Lagu Lama](https://open.spotify.com/album/6gtIruxboZVfDgE2JKREwM) | 3:33 | 2024-05-15 | 2024-07-05 |
 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 | 2024-03-03 | 2024-06-06 |
+| [Lalu Biru](https://open.spotify.com/track/3iC60wudai0qrFnkFUDHSs) | [Eleanor Whisper](https://open.spotify.com/artist/3EQ7f2bfZCs8Twd8dFdH3R) | [Mati Bersemi](https://open.spotify.com/album/2oJFJ9wTEMV6xT0kpeTEf0) | 5:24 | 2026-02-13 |  |
 | [Lama\-Lama](https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 3:04 | 2024-07-09 | 2025-01-24 |
 | [Lampu Kuning](https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Nonfiksi](https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh) | 3:59 | 2024-07-18 | 2025-02-01 |
 | [Lampu Merah](https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo) | 4:58 | 2024-02-20 | 2024-03-22 |
@@ -912,6 +914,7 @@
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-25 | 2023-12-08 |
 | [Nresnani](https://open.spotify.com/track/3xM5ljrKKRa3smVZF2ObFf) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Damara De](https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF) | [Nresnani](https://open.spotify.com/album/42y04fYST8LC6KCZcayUNf) | 4:30 | 2024-11-05 | 2024-11-29 |
 | [Nuansa Bening](https://open.spotify.com/track/1k5ZInUyMOJRmjxsDE1LKe) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Pelangi Di Malam Hari](https://open.spotify.com/album/21LvKljAcxUbAYUEMP6Osx) | 4:42 | 2024-06-13 | 2024-07-27 |
+| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2026-02-13 |  |
 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-12-11 | 2025-04-10 |
 | [number one girl](https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 3:36 | 2025-01-23 | 2025-02-01 |
 | [O Ya](https://open.spotify.com/track/3XxBabUCVJOgYxMuMhFb2W) | [Tika Ramlan](https://open.spotify.com/artist/0nakE0sr2S86UEoSn2peQX) | [Lebih Baik](https://open.spotify.com/album/2RrABaoK8SXePVFHUrLA1t) | 3:22 | 2023-03-23 | 2023-04-21 |

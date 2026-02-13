@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PERSES",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: VVV",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 231333,
       "name": "SOMTAM (\u0e2a\u0e49\u0e21\u0e15\u0e33)",
       "url": "https://open.spotify.com/track/0yJse6R8bNxJcjZuB1GE7d"
@@ -3997,6 +3997,28 @@
     },
     {
       "album": {
+        "name": "Take Our Time (From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d\")",
+        "url": "https://open.spotify.com/album/4YUoymyzePtO2w5Eqqxu9F"
+      },
+      "artists": [
+        {
+          "name": "JINWOOK OF BUS",
+          "url": "https://open.spotify.com/artist/5fN4TLKABIQWkolg9NnUrk"
+        },
+        {
+          "name": "PHUTATCHAI OF BUS",
+          "url": "https://open.spotify.com/artist/0tzKmSvAijkqjpOefCl5QQ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190285,
+      "name": "Take Our Time (From \"\u0e14\u0e49\u0e27\u0e07\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d\")",
+      "url": "https://open.spotify.com/track/6siqePsBfrF0SoHmWrPUEQ"
+    },
+    {
+      "album": {
         "name": "TEEDEE TADA - Single",
         "url": "https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML"
       },
@@ -4066,7 +4088,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 188366,
       "name": "TOUCH",
       "url": "https://open.spotify.com/track/2w3yu5eVe9VdMwyMCfQSrl"
@@ -4690,6 +4712,28 @@
       "duration_ms": 202784,
       "name": "YOBO",
       "url": "https://open.spotify.com/track/7KdROwz8Wl1zzoFIhDNdvu"
+    },
+    {
+      "album": {
+        "name": "You Give Me Butterflies",
+        "url": "https://open.spotify.com/album/1zaRbxugwNRnSY0HeJDx4b"
+      },
+      "artists": [
+        {
+          "name": "BLUE PONGTIWAT",
+          "url": "https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ"
+        },
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210697,
+      "name": "You Give Me Butterflies",
+      "url": "https://open.spotify.com/track/4VjdrMPJtXDEAzbaiNmh7O"
     },
     {
       "album": {
@@ -6168,7 +6212,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 212991,
       "name": "\u0e04\u0e49\u0e32\u0e07\u0e04\u0e32 (Doubt) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Dare You To Death \u0e44\u0e02\u0e04\u0e14\u0e35\u0e40\u0e1b\u0e47\u0e19 \u0e40\u0e2b\u0e47\u0e19\u0e04\u0e14\u0e35\u0e15\u0e32\u0e22\"",
       "url": "https://open.spotify.com/track/78gIW7yTjpAHfPN3YbIC2g"
@@ -9754,7 +9798,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 198367,
       "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
       "url": "https://open.spotify.com/track/0fLernOp42FJPLu1XaknLV"
@@ -12905,6 +12949,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e19\u0e34\u0e23\u0e4c\u0e14\u0e14\u0e35 (Nerdy)",
+        "url": "https://open.spotify.com/album/3ID5rgCeHEpASNQjQmXmxN"
+      },
+      "artists": [
+        {
+          "name": "VVV",
+          "url": "https://open.spotify.com/artist/3U4M9eUmInXbVk74Z8ddkF"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153809,
+      "name": "\u0e40\u0e19\u0e34\u0e23\u0e4c\u0e14\u0e14\u0e35 (Nerdy)",
+      "url": "https://open.spotify.com/track/21NwwpDdex2A27E87VGqRX"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e15\u0e31\u0e27\u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19 (Time to Shine)",
         "url": "https://open.spotify.com/album/0jhtd9GxvrRfGVbWKJJUco"
       },
@@ -14653,6 +14715,42 @@
     },
     {
       "album": {
+        "name": "\u0e42\u0e25\u0e40\u0e25 \u0e42\u0e22\u0e40\u0e22 \u0e42\u0e21\u0e40\u0e21 (No Way)",
+        "url": "https://open.spotify.com/album/1nkCVldSm0BACa1JvBONAq"
+      },
+      "artists": [
+        {
+          "name": "LYKN",
+          "url": "https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174703,
+      "name": "\u0e42\u0e25\u0e40\u0e25 \u0e42\u0e22\u0e40\u0e22 \u0e42\u0e21\u0e40\u0e21 (No Way)",
+      "url": "https://open.spotify.com/track/0XD4SwzwVcepNKCtr2i37z"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e2a\u0e14\u0e2a\u0e19\u0e34\u0e17 (100% single)",
+        "url": "https://open.spotify.com/album/6WgtoQ25rW94D4gO7zJGZ2"
+      },
+      "artists": [
+        {
+          "name": "Praesun",
+          "url": "https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "\u0e42\u0e2a\u0e14\u0e2a\u0e19\u0e34\u0e17 (100% single)",
+      "url": "https://open.spotify.com/track/1DCHQy6QgSlhjAsGr2wbEi"
+    },
+    {
+      "album": {
         "name": "\u0e42\u0e2b\u0e25\u0e22\u0e42\u0e17\u0e48\u0e22 (Poor Boy)",
         "url": "https://open.spotify.com/album/0kcSrOXptP3PBv9T8r22Qc"
       },
@@ -15492,7 +15590,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 206737,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19 ? (PLAY WITH ME)",
       "url": "https://open.spotify.com/track/0tXadPfyJ8LdiGGfJV2ggr"

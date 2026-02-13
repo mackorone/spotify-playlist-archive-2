@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1396895,
+  "num_followers": 1397061,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 190726,
       "name": "Talk It Out",
       "url": "https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX"
     },
     {
       "added_at": "2024-06-24 11:23:29",

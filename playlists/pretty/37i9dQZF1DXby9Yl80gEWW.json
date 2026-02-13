@@ -1,6 +1,6 @@
 {
   "description": "A taste of today's best bluegrass instrumentals. ",
-  "num_followers": 60921,
+  "num_followers": 60929,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "Lone Soldier",
+        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
+      },
+      "artists": [
+        {
+          "name": "David Grier",
+          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Smith Chapel",
+      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "Moon in Motion 1",
         "url": "https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp"
       },
@@ -563,22 +579,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Lone Soldier",
-        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
-      },
-      "artists": [
-        {
-          "name": "David Grier",
-          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Smith Chapel",
-      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Banjo Loop",
         "url": "https://open.spotify.com/album/4POUNiNHPgdhRBjDJQHoNP"
       },
@@ -591,22 +591,6 @@
       "duration_ms": 292138,
       "name": "Banjo Loop",
       "url": "https://open.spotify.com/track/4NK99PnJwKAwF39fc49j1E"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -631,18 +615,18 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
       },
       "artists": [
         {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
         }
       ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -659,6 +643,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+      },
+      "artists": [
+        {
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+        }
+      ],
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Toward the Fray",
-        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 301786,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Squirrelville",
         "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 281386,
       "name": "Squirrelville",
       "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Toward the Fray",
+        "url": "https://open.spotify.com/album/0L5uOzFpdnqCTWgGfUQmQ0"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 301786,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/67lThj6VkuNrRBdw7xy4nL"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1153,38 +1153,6 @@
       "url": "https://open.spotify.com/track/0SE1Y1MCWtKm88IeqjnDoL"
     },
     {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
-      },
-      "artists": [
-        {
-          "name": "Danny Roberts",
-          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Concrete and Steel",
-        "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
-      },
-      "artists": [
-        {
-          "name": "Off the Rails",
-          "url": "https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn"
-        }
-      ],
-      "duration_ms": 251047,
-      "name": "Concrete and Steel",
-      "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
-    },
-    {
       "added_at": "2026-02-06 14:14:34",
       "album": {
         "name": "Crazy Creek",
@@ -1203,6 +1171,38 @@
       "duration_ms": 302000,
       "name": "Crazy Creek",
       "url": "https://open.spotify.com/track/2bHknQnqcBwt6SiEXBrGqV"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Concrete and Steel",
+        "url": "https://open.spotify.com/album/0T9mLuAz73gyFfAiyEBfCD"
+      },
+      "artists": [
+        {
+          "name": "Off the Rails",
+          "url": "https://open.spotify.com/artist/5IQJ1whqwZ6KxBfEhTwAQn"
+        }
+      ],
+      "duration_ms": 251047,
+      "name": "Concrete and Steel",
+      "url": "https://open.spotify.com/track/4py2tahEW31c0KfKIZFVE1"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/2sUWx6c0BiEVMPhtCN3awW"
+      },
+      "artists": [
+        {
+          "name": "Danny Roberts",
+          "url": "https://open.spotify.com/artist/35dKyjgPblJr8mwgHkxLPE"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/7EypAsgFzfyVK13EqjZnDQ"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1319,30 +1319,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Donner Pass",
-        "url": "https://open.spotify.com/album/1pUHvl6AWvntcSdQ7Bfdpx"
-      },
-      "artists": [
-        {
-          "name": "Benson",
-          "url": "https://open.spotify.com/artist/6bPV28MZGhKrAelauCkYto"
-        },
-        {
-          "name": "Wayne Benson",
-          "url": "https://open.spotify.com/artist/64RUphSmKMjOuGBDbTs3Ac"
-        },
-        {
-          "name": "Kristin Scott Benson",
-          "url": "https://open.spotify.com/artist/7GmvUtieBmMajFTqGY7WVD"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Donner Pass",
-      "url": "https://open.spotify.com/track/1gavgGR6CXhtXbeJMLxWnQ"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Crowe River",
         "url": "https://open.spotify.com/album/7B1ir2STaCkGcMw15M7NMZ"
       },
@@ -1367,6 +1343,30 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "Donner Pass",
+        "url": "https://open.spotify.com/album/1pUHvl6AWvntcSdQ7Bfdpx"
+      },
+      "artists": [
+        {
+          "name": "Benson",
+          "url": "https://open.spotify.com/artist/6bPV28MZGhKrAelauCkYto"
+        },
+        {
+          "name": "Wayne Benson",
+          "url": "https://open.spotify.com/artist/64RUphSmKMjOuGBDbTs3Ac"
+        },
+        {
+          "name": "Kristin Scott Benson",
+          "url": "https://open.spotify.com/artist/7GmvUtieBmMajFTqGY7WVD"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Donner Pass",
+      "url": "https://open.spotify.com/track/1gavgGR6CXhtXbeJMLxWnQ"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "The View From Here",
         "url": "https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 213666,
       "name": "Black's Fork",
       "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
-      },
-      "artists": [
-        {
-          "name": "Noam Pikelny",
-          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Stoney Lonesome",
-      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1419,6 +1403,22 @@
       "duration_ms": 177493,
       "name": "Santa Ana",
       "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
+      },
+      "artists": [
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Stoney Lonesome",
+      "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Old Hickory",
-        "url": "https://open.spotify.com/album/2o0FmKRvx1KCTHsO2AqFVi"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Old Hickory",
-      "url": "https://open.spotify.com/track/3F3Z9tXg4iCPWGgf31Nihv"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Finnland",
         "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 165853,
       "name": "Finnland",
       "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Old Hickory",
+        "url": "https://open.spotify.com/album/2o0FmKRvx1KCTHsO2AqFVi"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Old Hickory",
+      "url": "https://open.spotify.com/track/3F3Z9tXg4iCPWGgf31Nihv"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
-      },
-      "artists": [
-        {
-          "name": "Ethan Setiawan",
-          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
-        }
-      ],
-      "duration_ms": 372746,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Things Are Simple",
         "url": "https://open.spotify.com/album/2ob3K0w9zdg2YPET5xn49c"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 288026,
       "name": "Along Came Sonny",
       "url": "https://open.spotify.com/track/2eIOinqL0Rup57qmoRiwKs"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv"
+      },
+      "artists": [
+        {
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
+        }
+      ],
+      "duration_ms": 372746,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8"
     },
     {
       "added_at": "2026-02-04 05:00:17",

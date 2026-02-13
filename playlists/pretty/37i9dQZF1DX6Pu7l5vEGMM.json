@@ -1,6 +1,6 @@
 {
   "description": "what are we?",
-  "num_followers": 606418,
+  "num_followers": 606551,
   "original_name": "situationship",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2025-12-02 08:48:46",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2025-12-02 08:48:46",
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2025-12-02 08:48:46",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "added_at": "2025-12-02 08:48:46",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-12-02 08:48:46",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "added_at": "2025-12-02 08:48:46",
-      "album": {
         "name": "Mind Of Mine (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 202749,
       "name": "PILLOWTALK",
       "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
+    },
+    {
+      "added_at": "2025-12-02 08:48:46",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2025-12-02 08:48:46",

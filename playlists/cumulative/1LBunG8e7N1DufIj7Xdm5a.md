@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,024 songs - 8 day 21 hr 44 min
+4,027 songs - 8 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2635,6 +2635,7 @@
 | [Parade in Paradise](https://open.spotify.com/track/4ORLIPxmsDbTZbChs9MlVb) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Parade in Paradise](https://open.spotify.com/album/2INEr6iZuCPbY1zKTsCYFY) | 3:02 | 2025-06-10 |  |
 | [Paradiso eterno](https://open.spotify.com/track/5pAaK2Rg1YiHH9RKxqiePM) | [Dave Bolo](https://open.spotify.com/artist/7fCRAaXZoFGb21FJqY9ihn) | [Musica buona](https://open.spotify.com/album/35aGpU9MM9yCOCZDHjjqn7) | 3:36 | 2025-06-06 |  |
 | [Paradormo \- Radio Edit](https://open.spotify.com/track/66Yz4IsUlrYzqYrEoDFo7q) | [Bumbart Dj](https://open.spotify.com/artist/2Ft53dnGW9FNcHT5rsR2L9) | [Paradormo \(Radio Edit\)](https://open.spotify.com/album/1ypxObf8BIT2GQnzmKbJUO) | 3:06 | 2025-04-04 |  |
+| [Paradox](https://open.spotify.com/track/51OqiMvYNTbSiqNYU38usD) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Paradox](https://open.spotify.com/album/0MfcQgDAzxySwEcNklvyMB) | 4:59 | 2026-02-12 |  |
 | [Parafrasando Te](https://open.spotify.com/track/6eFiK40wkTwzyPSs2FKJLH) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Parafrasando Te](https://open.spotify.com/album/4YXVlggdk7OKmCsmtEubxe) | 3:19 | 2023-03-09 |  |
 | [Paranoia del Destino](https://open.spotify.com/track/6UYgfCHUnXAlUqAFq3yWYU) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:49 | 2025-07-26 |  |
 | [Paranoia del Destino \(another\)](https://open.spotify.com/track/34g8ZLQxg9oofcUtgQbkCm) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:54 | 2025-09-18 |  |
@@ -2820,6 +2821,7 @@
 | [Remember That Time \- Demo](https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW) | [cadenn](https://open.spotify.com/artist/5R8wFLLq8qW1vOVntakADR) | [Remember That Time \(Demo\)](https://open.spotify.com/album/70O6lr0dswyDaSUc8By1KC) | 5:20 | 2025-12-26 |  |
 | [Renegade](https://open.spotify.com/track/7nJ98wvbYzBi2oDerHkk6q) | [Antimony](https://open.spotify.com/artist/6j3Y1pCQUEoIJaVaUVXBk2), [Dwain Willis](https://open.spotify.com/artist/79ZYKvbgWvEwQye9io7K0X) | [Renegade](https://open.spotify.com/album/3VMMzRSKt2V02sa2vlSXVa) | 2:28 | 2025-05-10 |  |
 | [Renfield's Afoot](https://open.spotify.com/track/5U28vvBjNFQm0QESzDC2qw) | [Half Man Half Biscuit](https://open.spotify.com/artist/6hBQq083tyW3yrF1gdVt4Q) | [No One Cares About Your Creative Hub so Get Your Fuckin' Hedge Cut](https://open.spotify.com/album/12aUWcdImt2uVMSGYHRmYl) | 1:18 | 2025-11-05 |  |
+| [Resistance](https://open.spotify.com/track/2eHIE3zMkOC06LaS84bJ7r) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Resistance](https://open.spotify.com/album/4y7j9U8phgwqj8D7TKJWV4) | 3:21 | 2026-02-12 |  |
 | [Respawn Generation](https://open.spotify.com/track/5ojHvogANoNbE276B7h349) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Videogame inspired alternative rock](https://open.spotify.com/album/5zRoS1FLwDk1J1PcPd4oyT) | 3:29 | 2025-09-12 |  |
 | [Resti addosso e poi scompari](https://open.spotify.com/track/0agxfqN1nPIXw72KDMl78t) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Resti addosso e poi scompari](https://open.spotify.com/album/3ICdbjJ7OIouie81R0cD4P) | 3:08 | 2026-01-13 |  |
 | [Resti nel Cuore](https://open.spotify.com/track/0Q3WbHq5gvsfHoTvMxcv27) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 2:39 | 2025-09-12 |  |
@@ -3526,6 +3528,7 @@
 | [Through the Neon Light](https://open.spotify.com/track/4xmbZKMq61Iffxfk55r7Zz) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Experimental Pop Music](https://open.spotify.com/album/4sO2jGSkWa3e2Ce0OXtMP8) | 3:15 | 2025-09-19 |  |
 | [Through the Neon Light \(another\)](https://open.spotify.com/track/76le3JEPbbvS6mfpdJGdQF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Experimental Pop Music](https://open.spotify.com/album/4sO2jGSkWa3e2Ce0OXtMP8) | 3:13 | 2025-09-19 |  |
 | [Through the Night](https://open.spotify.com/track/2qi8xb3J9hXM8RwdZGq29b) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Through the Night](https://open.spotify.com/album/6lLqFNEgWQj4G4qOPHlx2L) | 3:50 | 2025-09-26 |  |
+| [Through the Night \(dance mix\)](https://open.spotify.com/track/4dcay6OeAuB1ymm8oN42nC) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Through the Night \(dance mix\)](https://open.spotify.com/album/5H3VYqTziKrzJ7FG68rQ5P) | 3:56 | 2026-02-12 |  |
 | [Thunder in the Night](https://open.spotify.com/track/1USE3QUkEMjdOcWWElzv0B) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Heavy Metal](https://open.spotify.com/album/3qU2fVHByONqza3flWiPev) | 3:33 | 2025-09-19 |  |
 | [Thunder in the Night \(another\)](https://open.spotify.com/track/5puWBDDFheERNyW0liLo2R) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Heavy Metal](https://open.spotify.com/album/3qU2fVHByONqza3flWiPev) | 2:37 | 2025-09-19 |  |
 | [Ti Amo Offline](https://open.spotify.com/track/032kRyH2Zsew7wo1y5NRIJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica virale italiana amore gioco divertimento gioia bello bella musica rap disco virale viral trap rap pop vol.2 \(POV viral social streaming music fun funny compilation\)](https://open.spotify.com/album/2fTUyZ5WwsVuhfL75uIND0) | 2:24 | 2025-09-17 |  |

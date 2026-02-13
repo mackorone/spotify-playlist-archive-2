@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,739,700 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,739,973 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 44 | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:36 |
 | 45 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 |
 | 46 | [Next Thing You Know](https://open.spotify.com/track/39OclE5hZematADrdfaWvE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:55 |
-| 47 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 |
-| 48 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
+| 47 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 |
+| 48 | [One Man Band](https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:06 |
 | 49 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 |
 | 50 | [Little Bit Better](https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Little Bit Better](https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV) | 3:47 |
 | 51 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
-| 52 | [I Won't Give Up](https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 4:00 |
-| 53 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 |
+| 52 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 |
+| 53 | [I Won't Give Up](https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Love Is a Four Letter Word \(Deluxe Edition\)](https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b) | 4:00 |
 | 54 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |
 | 55 | [dna](https://open.spotify.com/track/2McTSCNNzxgDtAqiuibhPI) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx](https://open.spotify.com/album/20tgAhlplT42WnAAC8Xndk) | 2:57 |
 | 56 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IDTimEWoTd.md) - [plain]
 | 80 | [Gravity](https://open.spotify.com/track/4oa14QBfWRDfJy2agySy0L) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 3:53 |
 | 81 | [Ends of the Earth](https://open.spotify.com/track/30rU9CBF5cwiexNHJffkLS) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Ends of the Earth](https://open.spotify.com/album/59IUArxnHB64BUCM3hKTwQ) | 4:29 |
 | 82 | [like my father](https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [like my father](https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj) | 3:03 |
-| 83 | [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 |
-| 84 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
+| 83 | [The One That Got Away \- Acoustic](https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 4:19 |
+| 84 | [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 |
 | 85 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
 | 86 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
 | 87 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 |

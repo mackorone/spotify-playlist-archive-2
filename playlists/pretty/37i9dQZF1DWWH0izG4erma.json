@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 651774,
+  "num_followers": 651864,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -828,7 +828,7 @@
           "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
         }
       ],
-      "duration_ms": 154960,
+      "duration_ms": 154240,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/1U88VM6HzsPBZbXPT1aAR5"
     },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-01-16 05:00:44",
       "album": {
-        "name": "Old News",
-        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
-      },
-      "artists": [
-        {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        }
-      ],
-      "duration_ms": 251498,
-      "name": "All of These Years",
-      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
-    },
-    {
-      "added_at": "2026-01-16 05:00:44",
-      "album": {
         "name": "Black Powder Soul",
         "url": "https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 216153,
       "name": "Black Powder Soul",
       "url": "https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe"
+    },
+    {
+      "added_at": "2026-01-16 05:00:44",
+      "album": {
+        "name": "Old News",
+        "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
+      },
+      "artists": [
+        {
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        }
+      ],
+      "duration_ms": 251498,
+      "name": "All of These Years",
+      "url": "https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD"
     },
     {
       "added_at": "2026-01-16 05:00:44",

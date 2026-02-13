@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 
 > عيش أجمل حالة حب 🫶❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,396 likes - 99 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,435 likes - 99 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFV1CnuXO8v.md) - [plain]
 | 26 | [El Hob El Ha2e2y](https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [El Hob El Ha2e2y](https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75) | 5:44 |
 | 27 | [Aamel Eh Fe Hayatak](https://open.spotify.com/track/0a25CdetJLml52JdQ1ravw) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0), [Mariam Amer Mounib](https://open.spotify.com/artist/4wc11xEY5JEhocVGyceo3x) | [Aamel Eh Fe Hayatak](https://open.spotify.com/album/3pwX3CktXBbpAiQuerfZUK) | 3:18 |
 | 28 | [Helm Seneen](https://open.spotify.com/track/16himVwawH5yHZGEj8nhCd) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Eish Besho'ak](https://open.spotify.com/album/7u14kRIlBjFL0sAfNnaOis) | 3:59 |
-| 29 | [نساى](https://open.spotify.com/track/2AVA6NJZXA7UERS5nnsTzz) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:17 |
-| 30 | [Esmaa Kalamy](https://open.spotify.com/track/4WI8gWUhvwXSN9sBSUDF87) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Hob Emtelak](https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk) | 4:04 |
+| 29 | [Esmaa Kalamy](https://open.spotify.com/track/4WI8gWUhvwXSN9sBSUDF87) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Hob Emtelak](https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk) | 4:04 |
+| 30 | [نساى](https://open.spotify.com/track/2AVA6NJZXA7UERS5nnsTzz) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:17 |
 | 31 | [Fe Einy](https://open.spotify.com/track/2TyixRw1j8Ojuh29akRROH) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Fe Einy](https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt) | 3:08 |
 | 32 | [ياما ليالى وانت مش معايا](https://open.spotify.com/track/6U0bpnpXAxQosoFepgVxMn) | [Sara Haytham](https://open.spotify.com/artist/4oI0vKQ28dDOGjKXXaztrK) | [ياما ليالى وانت مش معايا](https://open.spotify.com/album/7ANyylaT0Q0s0oiOFk1AZ3) | 3:36 |
 | 33 | [Etamen](https://open.spotify.com/track/5ti8xf2EXHvNFipCq7MzNa) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ekhtart Sah](https://open.spotify.com/album/3wfH8A6DyBlbWWyzonseqf) | 5:16 |

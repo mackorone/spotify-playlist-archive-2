@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "Architect",
+        "url": "https://open.spotify.com/album/75NONw8p9atqr5UJ5GC92D"
+      },
+      "artists": [
+        {
+          "name": "Felix Hien",
+          "url": "https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ"
+        },
+        {
+          "name": "TOS",
+          "url": "https://open.spotify.com/artist/3o7iDFUagDPxmiEL8FEqMX"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140815,
+      "name": "Architect",
+      "url": "https://open.spotify.com/track/6Teu1T4BtzKENkseup5Fle"
+    },
+    {
+      "album": {
         "name": "Are U Still",
         "url": "https://open.spotify.com/album/1DuUEqsNu7nHsTmc6cfoeR"
       },
@@ -9913,7 +9935,7 @@
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 181723,
+      "duration_ms": 192144,
       "name": "Sorry Not Sorry (feat. Braxton Cook & Tallulah Rose)",
       "url": "https://open.spotify.com/track/29x4dI3F48pWHQvPKNZLVk"
     },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,149 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,143 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 56 | [Super Duper Love](https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions](https://open.spotify.com/album/188TILSlxecPremJwHDkk7) | 4:20 |
 | 57 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1JsUAmsjNz6oGuRTFG93qH) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/24L75CzM3lqg3yAm4oTIVR) | 3:36 |
 | 58 | [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 |
-| 59 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 |
-| 60 | [Boom Clap](https://open.spotify.com/track/3x2YIvkLcxvZQsA5x6xyIR) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 2:49 |
+| 59 | [Boom Clap](https://open.spotify.com/track/3x2YIvkLcxvZQsA5x6xyIR) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 2:49 |
+| 60 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 |
 | 61 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
 | 62 | [Call My Name](https://open.spotify.com/track/5o7TXypciBNWzWLE6Hdzuz) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [A Million Lights \(Deluxe Version\)](https://open.spotify.com/album/2mduHypWQwgRXMQ9kEFssu) | 3:27 |
 | 63 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 |

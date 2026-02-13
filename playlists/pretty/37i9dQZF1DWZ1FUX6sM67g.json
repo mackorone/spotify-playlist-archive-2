@@ -1,13 +1,33 @@
 {
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Carlos Vives",
-  "num_followers": 431606,
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Elsa y Elmar ",
+  "num_followers": 431616,
   "original_name": "Punto Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM9IPgmCsfvVCBIBnHgHud2jH1ot",
+  "snapshot_id": "AAAAAIeuEjG0Nd5KOXLs9R4sFJCt4fFU",
   "tracks": [
+    {
+      "added_at": "2026-02-12 21:42:53",
+      "album": {
+        "name": "Elsa y Elmar (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 287328,
+      "name": "Grecia - Spotify Sessions",
+      "url": "https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN"
+    },
     {
       "added_at": "2026-02-06 15:16:34",
       "album": {

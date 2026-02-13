@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A perfect link up to soundtrack your day. Cover: Joshua Baraka",
+  "description": "A perfect link up to soundtrack your day. Cover: Theodora",
   "name": "The ACS",
   "tracks": [
     {
@@ -2689,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Des mythos",
+        "url": "https://open.spotify.com/album/1oEH5R9wEyBGUfutYhtv8I"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177601,
+      "name": "Des mythos",
+      "url": "https://open.spotify.com/track/2Gysuuhf0SEoIsEiRuLVcY"
+    },
+    {
+      "album": {
         "name": "Insincerely AP",
         "url": "https://open.spotify.com/album/3kj8MeAuCML4nMgO4wNbEg"
       },
@@ -2988,7 +3006,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
@@ -7873,6 +7891,28 @@
     },
     {
       "album": {
+        "name": "The Fall That Saved Us",
+        "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170013,
+      "name": "Nights In The Sun (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
+    },
+    {
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/5Eaer8EnmyB6iEuRVQA54X"
       },
@@ -7918,6 +7958,24 @@
       "duration_ms": 156328,
       "name": "No Rampin (feat. Moelogo & Nadia Rose)",
       "url": "https://open.spotify.com/track/43u9qIHBXcZZPAP0chWeww"
+    },
+    {
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/0GaXk84jAdVN9ya3x8Keud"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146626,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/5ihk7LYUhUcGVVvUAqViTt"
     },
     {
       "album": {
@@ -8232,7 +8290,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 150783,
       "name": "On The Low",
       "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
@@ -9468,7 +9526,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 157149,
       "name": "RHUDE GYAL! (with Darkoo)",
       "url": "https://open.spotify.com/track/7fTZGGFULOk6KDBAhupep5"

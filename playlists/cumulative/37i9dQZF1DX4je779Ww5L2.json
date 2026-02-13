@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Getting Up",
+        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
+      },
+      "artists": [
+        {
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274719,
+      "name": "Getting Up",
+      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
+    },
+    {
+      "album": {
         "name": "Blurrr",
         "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
       },

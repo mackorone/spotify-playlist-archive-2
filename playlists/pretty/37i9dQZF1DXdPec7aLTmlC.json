@@ -1,6 +1,6 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
-  "num_followers": 6343993,
+  "num_followers": 6343946,
   "original_name": "Happy Hits!",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Read My Lips (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Murder On The Dancefloor",
+      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Read My Lips (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Murder On The Dancefloor",
-      "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -452,8 +452,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
         },
         {
           "name": "Justin Bieber",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "I Forgot That You Existed",
+      "url": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 202245,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "I Forgot That You Existed",
-      "url": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "If It's Lovin' That You Want",
+      "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 164640,
       "name": "Magic In The Hamptons (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Music Of The Sun",
-        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "If It's Lovin' That You Want",
-      "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Speed Drive (From Barbie The Album)",
         "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 117809,
       "name": "Speed Drive (From Barbie The Album)",
       "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "KESI (Remix)",
-        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 176575,
-      "name": "KESI - Remix",
-      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "What's Love Got to Do with It",
         "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
       },
@@ -1511,6 +1491,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "KESI (Remix)",
+        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 176575,
+      "name": "KESI - Remix",
+      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Never Really Over",
         "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 223523,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Single Soon",
+        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 171655,
+      "name": "Single Soon",
+      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1547,22 +1563,6 @@
       "duration_ms": 184905,
       "name": "Savage Love (Laxed \u2013 Siren Beat) [BTS Remix]",
       "url": "https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Single Soon",
-        "url": "https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 171655,
-      "name": "Single Soon",
-      "url": "https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "My Oh My",
+        "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 156155,
+      "name": "My Oh My",
+      "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -1823,18 +1839,26 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "My Oh My",
-        "url": "https://open.spotify.com/album/3uYWY4pRKn0fbVQJNrfUed"
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 156155,
-      "name": "My Oh My",
-      "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
+      "duration_ms": 201526,
+      "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+      "url": "https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1859,30 +1883,6 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 201526,
-      "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
-      "url": "https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu"
     }
   ],
   "unique_name": "Happy Hits!",

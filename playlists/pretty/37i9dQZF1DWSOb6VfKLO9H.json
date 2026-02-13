@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 105762,
+  "num_followers": 105814,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "We Don't Stop",
+        "url": "https://open.spotify.com/album/040y4hBxeWnxEXp6Nwoypu"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+        }
+      ],
+      "duration_ms": 149027,
+      "name": "Vervloekt",
+      "url": "https://open.spotify.com/track/0TSXMqkkZy7yV7jno8Nv4a"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Hij Is Van Mij (feat. Bizzey)",
         "url": "https://open.spotify.com/album/2H2PQhGTflXeBbPunZh2mL"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 214387,
       "name": "Hij Is Van Mij (feat. Bizzey)",
       "url": "https://open.spotify.com/track/6716bTJI7qiHJFFSR0Ethe"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "We Don't Stop",
-        "url": "https://open.spotify.com/album/040y4hBxeWnxEXp6Nwoypu"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Diquenza",
-          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
-        }
-      ],
-      "duration_ms": 149027,
-      "name": "Vervloekt",
-      "url": "https://open.spotify.com/track/0TSXMqkkZy7yV7jno8Nv4a"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -803,6 +803,34 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Francis",
+        "url": "https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "duration_ms": 185834,
+      "name": "Louboutin",
+      "url": "https://open.spotify.com/track/1nYj5Hv2ON80QokibDMvOE"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/6dhwuiDlB6pBpCH2yv1iA2"
       },
@@ -835,34 +863,6 @@
       "duration_ms": 177396,
       "name": "Was Je Nog Maar Hier - Radio Edit",
       "url": "https://open.spotify.com/track/4c457KvkafnHGz6clGYMmz"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Francis",
-        "url": "https://open.spotify.com/album/1pgAdTVfRnyzn4AqNXOUZ2"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        }
-      ],
-      "duration_ms": 185834,
-      "name": "Louboutin",
-      "url": "https://open.spotify.com/track/1nYj5Hv2ON80QokibDMvOE"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Cocaina (Remix)",
         "url": "https://open.spotify.com/album/2Fsjpq6WBpu8J8kzLtVGIS"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 219750,
       "name": "Cocaina - Remix",
       "url": "https://open.spotify.com/track/6OpKBghxyHSJ9lqqJ4EkJu"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1191,6 +1191,34 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Ondernemer",
+        "url": "https://open.spotify.com/album/2gybXUjEyAWl79Nb1vbj4v"
+      },
+      "artists": [
+        {
+          "name": "WAWA",
+          "url": "https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ"
+        },
+        {
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "Ondernemer",
+      "url": "https://open.spotify.com/track/4HsSwlgvRrHAkTQ8n9mGFV"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Update",
         "url": "https://open.spotify.com/album/1KPFU6sP0o457VZsUESt7N"
       },
@@ -1227,34 +1255,6 @@
       "duration_ms": 179277,
       "name": "Ai",
       "url": "https://open.spotify.com/track/2dEoEy7wqvJ4xq90lrPEwU"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Ondernemer",
-        "url": "https://open.spotify.com/album/2gybXUjEyAWl79Nb1vbj4v"
-      },
-      "artists": [
-        {
-          "name": "WAWA",
-          "url": "https://open.spotify.com/artist/71IGD79X5laXW6cmqehskJ"
-        },
-        {
-          "name": "Kempi",
-          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
-        },
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Ondernemer",
-      "url": "https://open.spotify.com/track/4HsSwlgvRrHAkTQ8n9mGFV"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Woozy",
-        "url": "https://open.spotify.com/album/5pUAwlSQbMdGGS96lNIDRU"
-      },
-      "artists": [
-        {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 144667,
-      "name": "Woozy",
-      "url": "https://open.spotify.com/track/541peoOERBSTw2fRDZTHbd"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Nachtwacht",
         "url": "https://open.spotify.com/album/0ZakSoY5lCsL5vBf1LFlJw"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 240000,
       "name": "C'est la vie",
       "url": "https://open.spotify.com/track/3TUafDwB2Oygi8lyZlLyQt"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Woozy",
+        "url": "https://open.spotify.com/album/5pUAwlSQbMdGGS96lNIDRU"
+      },
+      "artists": [
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 144667,
+      "name": "Woozy",
+      "url": "https://open.spotify.com/track/541peoOERBSTw2fRDZTHbd"
     },
     {
       "added_at": "2024-07-19 06:38:33",

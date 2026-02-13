@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Marlon Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,218 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,220 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,17 +16,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 6 | [MAKINA DEL SEX](https://open.spotify.com/track/4YVVzWDGAeFxDWn6rnf6UC) | [Euskoprincess](https://open.spotify.com/artist/013ZlYSF8o28LMo2qmhjFT), [Mattin](https://open.spotify.com/artist/4MtStwqBW8x22H16pbiYqO), [1111](https://open.spotify.com/artist/7s5UemXTsq4giWtzr4fqiN) | [MAKINA DEL SEX](https://open.spotify.com/album/0t6TwNpw3LriW528DA0sc3) | 2:04 |
 | 7 | [UNA BIMBO POR MADRID](https://open.spotify.com/track/6ccAIVGiwh5DsVMEdc14oS) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF) | [JANE DOE IN THE DREAM HOUSE](https://open.spotify.com/album/0cJtrnTkhdinnjnScKVLF2) | 2:15 |
 | 8 | [TKM CNT XFA](https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [TKM CNT XFA](https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q) | 3:32 |
-| 9 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
+| 9 | [Bomba de Amor](https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bomba de Amor](https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv) | 2:53 |
 | 10 | [ESPEJISMOS](https://open.spotify.com/track/5WAIKDBWmHcLtB0KgXMtEY) | [Sofía Amores](https://open.spotify.com/artist/6jXX146p0AOeMFnndQH3cQ) | [OMEN](https://open.spotify.com/album/1ZkpD3sWe1Xm4sAXgQShtB) | 2:21 |
 | 11 | [El edificio](https://open.spotify.com/track/1Pse4bB2v3l1MpPHuu0IPf) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [El edificio](https://open.spotify.com/album/30sHvlxADgpqRliN7oDwkq) | 3:30 |
 | 12 | [dama en apuros remix metrika](https://open.spotify.com/track/6XuRLxFu9edk9lpe4in9KO) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [dama en apuros remix metrika](https://open.spotify.com/album/4FVv61nEB3ItwrbpKoluuZ) | 2:27 |
 | 13 | [TOTO DE LOCA](https://open.spotify.com/track/3uSN0SuaW9gMtWGUK7FPup) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [TOTO DE LOCA](https://open.spotify.com/album/2NskudT1sgEVLPqmJ39JPn) | 3:00 |
 | 14 | [Para 2](https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Para 2](https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo) | 2:46 |
-| 15 | [la victoria](https://open.spotify.com/track/2nVZyNOFeTqPKHDk5NEAUC) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [la victoria](https://open.spotify.com/album/1f26pxJqxIsVABKGkg00yO) | 3:16 |
-| 16 | [Primavera](https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Primavera](https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn) | 2:36 |
-| 17 | [iii\. LaDrogaMásSuaveDelMundo\(!\) · enamoramiento](https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Soulost](https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE) | 4:00 |
+| 15 | [He sido](https://open.spotify.com/track/4iejnjpuEuh1BDoFNj2h5E) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [He sido](https://open.spotify.com/album/7ePDXhq4qte3UdIJEIhxHh) | 3:19 |
+| 16 | [la victoria](https://open.spotify.com/track/2nVZyNOFeTqPKHDk5NEAUC) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [la victoria](https://open.spotify.com/album/1f26pxJqxIsVABKGkg00yO) | 3:16 |
+| 17 | [Primavera](https://open.spotify.com/track/4idzZPbOKWkdaCK5yljYXP) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Primavera](https://open.spotify.com/album/15sj9DWaanj1WbtHnvcYbn) | 2:36 |
 | 18 | [ROADTRIP](https://open.spotify.com/track/1WZfs7Pl5zlvsqv8yH3RGC) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [ROADTRIP](https://open.spotify.com/album/2pJoTyNXajAzNvSomoodOJ) | 2:41 |
-| 19 | [Bomba de Amor](https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bomba de Amor](https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv) | 2:53 |
+| 19 | [iii\. LaDrogaMásSuaveDelMundo\(!\) · enamoramiento](https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Soulost](https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE) | 4:00 |
 | 20 | [TONTO](https://open.spotify.com/track/34VKUP2Z3OsgH1MG1tZzvn) | [TRONKAS!](https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt) | [TONTO](https://open.spotify.com/album/52D92moSlvosJjb2StIvMY) | 3:53 |
 | 21 | [Full time papi](https://open.spotify.com/track/0a8rvYEGeBv8gLCEpRsFcJ) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Full time papi](https://open.spotify.com/album/1Ed3cPiyucgrHAiIohB63I) | 2:47 |
 | 22 | [Me tiré a un Facha](https://open.spotify.com/track/1rqVMhdUJPYvnXF7xHlqWY) | [Montedapena](https://open.spotify.com/artist/4mit7hjQhGPMJOj2zNQIyv), [PLATERÍAS](https://open.spotify.com/artist/421hInltWZcGKhEFnDbj5C) | [Me tiré a un Facha](https://open.spotify.com/album/20oYiyi0cfku7vjOnYbQRb) | 3:00 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 24 | [se sube la falda](https://open.spotify.com/track/4e9CBjJ4QlXdi37JmSdBC7) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [se sube la falda](https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN) | 2:34 |
 | 25 | [Nuevos Recuerdos](https://open.spotify.com/track/627AgFGbrZRwWVNcwsK2jc) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Nuevos Recuerdos](https://open.spotify.com/album/0pZWzpJOLbxjI3vjWpA4Ns) | 3:33 |
 | 26 | [Tócame](https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [MAYO SEASON](https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp) | 2:18 |
-| 27 | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW) | 2:36 |
-| 28 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
+| 27 | [Mocatriz](https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Mocatriz](https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe) | 3:57 |
+| 28 | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [Satisfacer Tu Deseo De Hombre](https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW) | 2:36 |
 | 29 | [El Destello](https://open.spotify.com/track/3RejEb5bp6ixsZxUa9yEWA) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF), [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [El Destello](https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD) | 2:40 |
 | 30 | [CULPA NUESTRA](https://open.spotify.com/track/4qUiG9rcbKpFry7Mxsax9Y) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL), [STRANGEL0VE](https://open.spotify.com/artist/6IsXcpSH7ewL9FTTqSPFfP) | [CULPA NUESTRA](https://open.spotify.com/album/6ZaPk664xTwSQL0v70J4Po) | 2:22 |
 | 31 | [SABES K ME KIERES](https://open.spotify.com/track/30yyRnlzBJo9Vz1AzUsiTF) | [Luna Zuazu](https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J) | [SABES K ME KIERES](https://open.spotify.com/album/52SfgXz7J3q6GCHopmdj0P) | 2:20 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 45 | [No soy Diosa](https://open.spotify.com/track/0vz3RZvT3EsujmA5QdLM7k) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [No soy Diosa](https://open.spotify.com/album/0YyJj0GUJFXhBo6pdjX6uz) | 2:11 |
 | 46 | [Y Yo Que Pensaba](https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [TANTO POR HACER](https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4) | 3:12 |
 | 47 | [Me Quedaré](https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG) | [Paul Thin](https://open.spotify.com/artist/0aA3vWOE6EWwJH8hDImZdv) | [Spawnpoint](https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit) | 3:20 |
-| 48 | [Pégate](https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork), [Xema Fuentes](https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9) | [Pégate](https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC) | 2:26 |
-| 49 | [LLÁMAME](https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw) | [J Kbello](https://open.spotify.com/artist/6rCKs7YmtBhtKc2fAdblZA), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [LLÁMAME](https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo) | 2:18 |
+| 48 | [LLÁMAME](https://open.spotify.com/track/1kCtV6thYSIvBLxsyrqsWw) | [J Kbello](https://open.spotify.com/artist/6rCKs7YmtBhtKc2fAdblZA), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [LLÁMAME](https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo) | 2:18 |
+| 49 | [Pégate](https://open.spotify.com/track/3y1vPgwHA2R20efomVmD9F) | [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork), [Xema Fuentes](https://open.spotify.com/artist/4inFKjNfPOKToQ9T5pjYf9) | [Pégate](https://open.spotify.com/album/0i9xKltQWUdgwphffTgEqC) | 2:26 |
 | 50 | [MEDUSA](https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [MEDUSA](https://open.spotify.com/album/0e52cQeUozMdcp0YMPhPYG) | 3:22 |
 
 Snapshot ID: `AAAAAEAGkzR/5Q2U9BtCgffRJSCEQqI1`

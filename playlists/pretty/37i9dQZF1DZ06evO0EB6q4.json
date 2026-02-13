@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 261279,
+  "num_followers": 261317,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAABdwRHeFgycZYLmzg9pEDnQ",
+  "snapshot_id": "aYvGgAAAAABkIUe7cGvpr7gOI9gmZK+V",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "EAVEMAR\u00cdA",
+        "url": "https://open.spotify.com/album/4HihmUvifnIJeOcJVnxeBq"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 138356,
+      "name": "EAVEMAR\u00cdA",
+      "url": "https://open.spotify.com/track/4hsCp1AwBQwLgrV4qQNE21"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paz Mental",
         "url": "https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze"
       },
@@ -191,26 +211,6 @@
       "duration_ms": 209032,
       "name": "Paz Mental",
       "url": "https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EAVEMAR\u00cdA",
-        "url": "https://open.spotify.com/album/4HihmUvifnIJeOcJVnxeBq"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 138356,
-      "name": "EAVEMAR\u00cdA",
-      "url": "https://open.spotify.com/track/4hsCp1AwBQwLgrV4qQNE21"
     },
     {
       "added_at": null,
@@ -275,26 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFROROCKSTAR",
-        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Duelo",
         "url": "https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 169409,
       "name": "Nunca Tuve Tanto",
       "url": "https://open.spotify.com/track/4WQaXkwA43WaPBuAZdtoe1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFROROCKSTAR",
+        "url": "https://open.spotify.com/album/6dk6SJoigUMz87JrvrAhdG"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/4QuvjR6DLUuH1SqcfJN7gL"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas",
-        "url": "https://open.spotify.com/album/6OvMtRnVQ8DmGU9AeBMmuu"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 177313,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/52KDBENtaXF2tlJdqXCLQd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para los Dolidos",
         "url": "https://open.spotify.com/album/5SvkYjltTnPtiSoQayLNEh"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 156403,
       "name": "Para los Dolidos",
       "url": "https://open.spotify.com/track/2viWABT14AgG9wTbTxyD7a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Gustas",
+        "url": "https://open.spotify.com/album/6OvMtRnVQ8DmGU9AeBMmuu"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 177313,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/52KDBENtaXF2tlJdqXCLQd"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sobre el Aire",
         "url": "https://open.spotify.com/album/4QXjXW4J6E9KPimmQCnz3T"
       },
@@ -719,42 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/7B09xwvImN3XxIC7Dk5bOL"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/4YboPBRofQXESDyYLZZOSM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Luna Me Dijo",
-        "url": "https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r"
-      },
-      "artists": [
-        {
-          "name": "Soley",
-          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "La Luna Me Dijo",
-      "url": "https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 313500,
       "name": "D\u00e9jame en Paz",
       "url": "https://open.spotify.com/track/7y16XmtzjTGe8QxTmExwSX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Luna Me Dijo",
+        "url": "https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "La Luna Me Dijo",
+      "url": "https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ"
     },
     {
       "added_at": null,

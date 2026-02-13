@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,755 likes - 120 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,878 likes - 120 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

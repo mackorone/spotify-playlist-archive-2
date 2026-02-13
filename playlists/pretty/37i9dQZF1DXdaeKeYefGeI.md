@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: WIES
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,161 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,166 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Behang](https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [AH!](https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX) | 2:33 |
 | 2 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 |
-| 3 | [Dans](https://open.spotify.com/track/47JBXznQqDtATWPNBZPwBc) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Een hoop](https://open.spotify.com/album/4EZ4fZ33JLMzzm9DBFGavm) | 4:36 |
-| 4 | [Tranen](https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Tranen](https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU) | 3:19 |
-| 5 | [In dit huis \(Live\)](https://open.spotify.com/track/4SC9TZrBeoWx1zxDviwiYT) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve), [Veldhuis & Kemper](https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U) | [In dit huis \(Live\)](https://open.spotify.com/album/676sRodKmYDr72hqrGYOmc) | 3:39 |
-| 6 | [Terwijl Je Voor Me Stond](https://open.spotify.com/track/0dZP31liofOrl8VTrfbsqv) | [Frans Kalf](https://open.spotify.com/artist/53HC6zp6LWb36NB6HBnHMt) | [Terwijl Je Voor Me Stond](https://open.spotify.com/album/5y4aMMIGmJj4kfVQYUw6KX) | 3:37 |
-| 7 | [Onder Je Huid](https://open.spotify.com/track/6c17gCtzFlBv3asUYPHVgs) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Lievelingsliedjes Mixtape](https://open.spotify.com/album/6ZHvbpByHjOFIPC9lgYI8T) | 3:12 |
-| 8 | [Als Je Niet Meer Van Me Houdt](https://open.spotify.com/track/2RAawfWrnaZLBAmP0kYaBh) | [Alex Roeka](https://open.spotify.com/artist/7yZlxklSzsDJIpuRRwe6bO) | [Als Je Niet Meer Van Me Houdt](https://open.spotify.com/album/0IRzfnTCqYrPPqyJzjKqP5) | 3:47 |
-| 9 | [Mama Huil Niet](https://open.spotify.com/track/3Nq9OzwDXWVRSBiM5SFSRA) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Jacqueline Govaert\)](https://open.spotify.com/album/3JV5C1wGCb3gOyIfRE2D0M) | 3:28 |
-| 10 | [Kijk Niet Achterom](https://open.spotify.com/track/3qBkuKl5sThSlYOgDoFy7X) | [Babette Van Veen](https://open.spotify.com/artist/5GUosf9oyNKzoKSzyguTax), [Soy Kroon](https://open.spotify.com/artist/16V5a3d99qj5d7xQxYD0IT) | [Kijk Niet Achterom](https://open.spotify.com/album/0fMXDvkCObFINs9pgcDKCT) | 3:58 |
+| 3 | [In dit huis \(Live\)](https://open.spotify.com/track/4SC9TZrBeoWx1zxDviwiYT) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve), [Veldhuis & Kemper](https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U) | [In dit huis \(Live\)](https://open.spotify.com/album/676sRodKmYDr72hqrGYOmc) | 3:39 |
+| 4 | [Kijk Niet Achterom](https://open.spotify.com/track/3qBkuKl5sThSlYOgDoFy7X) | [Babette Van Veen](https://open.spotify.com/artist/5GUosf9oyNKzoKSzyguTax), [Soy Kroon](https://open.spotify.com/artist/16V5a3d99qj5d7xQxYD0IT) | [Kijk Niet Achterom](https://open.spotify.com/album/0fMXDvkCObFINs9pgcDKCT) | 3:58 |
+| 5 | [Dans](https://open.spotify.com/track/47JBXznQqDtATWPNBZPwBc) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Een hoop](https://open.spotify.com/album/4EZ4fZ33JLMzzm9DBFGavm) | 4:36 |
+| 6 | [Tranen](https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Tranen](https://open.spotify.com/album/1w1Jg5FgU11wyjh06ly8cU) | 3:19 |
+| 7 | [Terwijl Je Voor Me Stond](https://open.spotify.com/track/0dZP31liofOrl8VTrfbsqv) | [Frans Kalf](https://open.spotify.com/artist/53HC6zp6LWb36NB6HBnHMt) | [Terwijl Je Voor Me Stond](https://open.spotify.com/album/5y4aMMIGmJj4kfVQYUw6KX) | 3:37 |
+| 8 | [Onder Je Huid](https://open.spotify.com/track/6c17gCtzFlBv3asUYPHVgs) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Lievelingsliedjes Mixtape](https://open.spotify.com/album/6ZHvbpByHjOFIPC9lgYI8T) | 3:12 |
+| 9 | [Als Je Niet Meer Van Me Houdt](https://open.spotify.com/track/2RAawfWrnaZLBAmP0kYaBh) | [Alex Roeka](https://open.spotify.com/artist/7yZlxklSzsDJIpuRRwe6bO) | [Als Je Niet Meer Van Me Houdt](https://open.spotify.com/album/0IRzfnTCqYrPPqyJzjKqP5) | 3:47 |
+| 10 | [Mama Huil Niet](https://open.spotify.com/track/3Nq9OzwDXWVRSBiM5SFSRA) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Jacqueline Govaert\)](https://open.spotify.com/album/3JV5C1wGCb3gOyIfRE2D0M) | 3:28 |
 | 11 | [Jij bent hier \(El Ultimo Adios \- NL vertaling S\. Bos\)](https://open.spotify.com/track/7Gq7tMZK3KWFeYyagw3E3y) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Jij bent hier \(El Ultimo Adios \- NL vertaling S\. Bos\)](https://open.spotify.com/album/5wqWxEZynyEWO1wX0kSBw5) | 3:45 |
 | 12 | [Zebrapad](https://open.spotify.com/track/1vuueWdeDCMdCAxKFUekdI) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Denise Breevaart](https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS) | [Zebrapad](https://open.spotify.com/album/6HnGs7sCIlS5vCdcP1ibHr) | 3:28 |
 | 13 | [Liefde Is Groot](https://open.spotify.com/track/68rBZgauT7vvJNNcuEIdDM) | [Hans De Booij](https://open.spotify.com/artist/7cdRThov7spzODFHbygauO) | [Liefde Is Groot](https://open.spotify.com/album/2nyViTxhNy3YGcEHTYuL4E) | 2:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 59 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 |
 | 60 | [Laat Me / Vivre \- Lange versie](https://open.spotify.com/track/1IpdAKuSYrQKTXs0KpypFb) | [Gerard Alderliefste](https://open.spotify.com/artist/718CHttAO54nPQXP00EzmD), [Alderliefste](https://open.spotify.com/artist/5J8ns43YpsiTRsG45N1cDi) | [Laat Me / Vivre](https://open.spotify.com/album/0d4Dr3RCYyHXFgWz0PFD1M) | 6:25 |
 
-Snapshot ID: `AAAAAFdalu5oOjHNRN/WLulECtWUN3Pc`
+Snapshot ID: `AAAAAL1DtfQqOj8D6YsRmm8ts7//TSN+`

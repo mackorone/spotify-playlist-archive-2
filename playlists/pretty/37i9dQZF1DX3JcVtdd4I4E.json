@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom. ",
-  "num_followers": 7869,
+  "num_followers": 7867,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Marameo",
-        "url": "https://open.spotify.com/album/0sd73d4ExGo3LUahL0qsw7"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Marameo",
-      "url": "https://open.spotify.com/track/29uL3fef86r156Qsy00WeY"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 147619,
       "name": "Feel This Way",
       "url": "https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Marameo",
+        "url": "https://open.spotify.com/album/0sd73d4ExGo3LUahL0qsw7"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Marameo",
+      "url": "https://open.spotify.com/track/29uL3fef86r156Qsy00WeY"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Silver Heart",
-        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
-      },
-      "artists": [
-        {
-          "name": "Ronia",
-          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
-        }
-      ],
-      "duration_ms": 229079,
-      "name": "Silver Heart",
-      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 162389,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Silver Heart",
+        "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 229079,
+      "name": "Silver Heart",
+      "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Do Good Be Better",
-        "url": "https://open.spotify.com/album/3XO9q33qp2Foiaa54zFmVQ"
-      },
-      "artists": [
-        {
-          "name": "AmenA",
-          "url": "https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo"
-        }
-      ],
-      "duration_ms": 162253,
-      "name": "Do Good Be Better",
-      "url": "https://open.spotify.com/track/4dg5ZW6p6Lo56Eoyf994Lf"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Always Hurts",
         "url": "https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "late night thoughts",
-        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
+        "name": "Do Good Be Better",
+        "url": "https://open.spotify.com/album/3XO9q33qp2Foiaa54zFmVQ"
       },
       "artists": [
         {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+          "name": "AmenA",
+          "url": "https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo"
         }
       ],
-      "duration_ms": 153905,
-      "name": "wait it out",
-      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
+      "duration_ms": 162253,
+      "name": "Do Good Be Better",
+      "url": "https://open.spotify.com/track/4dg5ZW6p6Lo56Eoyf994Lf"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -915,6 +899,22 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 153905,
+      "name": "wait it out",
+      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
         "name": "It Takes a Fool to Remain Sane (Spotify Singles)",
         "url": "https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 228065,
       "name": "It Takes a Fool to Remain Sane - Spotify Singles",
       "url": "https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
-        "name": "Beautiful Woman",
-        "url": "https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 213115,
-      "name": "Beautiful Woman",
-      "url": "https://open.spotify.com/track/3awrIDBFGaAgR1NVoUwNjs"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -963,18 +947,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "And Then Came You",
-        "url": "https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS"
+        "name": "Beautiful Woman",
+        "url": "https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW"
       },
       "artists": [
         {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
         }
       ],
-      "duration_ms": 195909,
-      "name": "And Then Came You",
-      "url": "https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI"
+      "duration_ms": 213115,
+      "name": "Beautiful Woman",
+      "url": "https://open.spotify.com/track/3awrIDBFGaAgR1NVoUwNjs"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -991,6 +975,22 @@
       "duration_ms": 166760,
       "name": "Test It",
       "url": "https://open.spotify.com/track/1UMAHQ2G23kmost9bTNv26"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "And Then Came You",
+        "url": "https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "duration_ms": 195909,
+      "name": "And Then Came You",
+      "url": "https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK"
-      },
-      "artists": [
-        {
-          "name": "Carlina de Place",
-          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "DeLorean",
         "url": "https://open.spotify.com/album/5P1w7q0aU3Zo2GiviyKfJN"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 211956,
       "name": "DeLorean",
       "url": "https://open.spotify.com/track/0b4b7Em3xHYHAXVQ0KQReI"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK"
+      },
+      "artists": [
+        {
+          "name": "Carlina de Place",
+          "url": "https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc"
     },
     {
       "added_at": "2025-05-06 11:46:39",

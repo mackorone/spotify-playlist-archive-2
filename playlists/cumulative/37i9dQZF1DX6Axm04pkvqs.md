@@ -4,7 +4,7 @@
 
 > When my mouth has no words, let my spirit sing
 
-105 songs - 15 hr 44 min
+106 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Hunger \(Cover Version\)](https://open.spotify.com/track/4y1G0zIj1I6FKdD5riSTEy) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Hunger \(Cover Version\)](https://open.spotify.com/album/0SApsq2CLGIYTK2BDHHTtM) | 3:27 | 2024-07-26 | 2025-11-17 |
 | [I will pray](https://open.spotify.com/track/4us9pwwMqOKN3lklnPZZAv) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [I will pray](https://open.spotify.com/album/28UZKXjw7Iag6leBIIoAeQ) | 2:50 | 2024-07-26 |  |
 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 | 2024-07-26 | 2025-12-27 |
-| [Ihe I Na\-Emere M DI Mma](https://open.spotify.com/track/75uBK33oMZqgY8zV5PeiCO) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX), [The City Choir](https://open.spotify.com/artist/1SVHoT2JwZ2NP7JbYK9VvJ) | [Ihe I Na\-Emere M DI Mma](https://open.spotify.com/album/5DoRb3TJZwF4C1g4GMdgvw) | 9:38 | 2025-01-10 |  |
+| [Ihe I Na\-Emere M DI Mma](https://open.spotify.com/track/75uBK33oMZqgY8zV5PeiCO) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX), [The City Choir](https://open.spotify.com/artist/1SVHoT2JwZ2NP7JbYK9VvJ) | [Ihe I Na\-Emere M DI Mma](https://open.spotify.com/album/5DoRb3TJZwF4C1g4GMdgvw) | 9:38 | 2025-01-10 | 2026-02-13 |
 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 | 2025-03-07 | 2025-11-14 |
 | [Intense Spontaneous Worship](https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0) | [Faith Captain](https://open.spotify.com/artist/3w0OMqAlsf7zRV2GprZvJK) | [The Zamar Experience](https://open.spotify.com/album/4leEZEGBNamPXVBRUqDUQa) | 9:24 | 2024-07-26 |  |
 | [Intensify](https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [Eternity in View](https://open.spotify.com/album/0uWI0ToFhg1eLuNvr32eGY) | 3:34 | 2024-07-26 |  |
@@ -65,6 +65,7 @@
 | [Iwo Loba\(Chant\)](https://open.spotify.com/track/7DWMCsJ0Vb7Dx3Q1Zr2y7I) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Tongues and Melodies](https://open.spotify.com/album/4KKbio6RtPiANVNYFAQwnK) | 2:14 | 2024-07-26 | 2025-09-30 |
 | [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 | 2024-07-26 |  |
 | [Joy Chant](https://open.spotify.com/track/4FaVSby2tGf0H9tg10d6pH) | [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [Joy Chant](https://open.spotify.com/album/5vL8tCAa5HZmg5SsXQziPN) | 8:51 | 2025-08-29 |  |
+| [Joy Chant \- Live](https://open.spotify.com/track/79TqQAmMV3ygUgx373bcL6) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Joy Chant \(Live\)](https://open.spotify.com/album/46iESYEXmodV4W2rwVLWn0) | 4:32 | 2026-02-13 |  |
 | [Kabiyesi](https://open.spotify.com/track/2qQz5I3VxBWjXDHNqMg6UB) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:18 | 2024-07-26 | 2025-09-19 |
 | [Kadosh \(Live\)](https://open.spotify.com/track/78Fp5wJomAsTyP3Hiju3ud) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [Kadosh](https://open.spotify.com/album/4DsR36DsXQDyRLGfY5c7Y2) | 5:37 | 2024-07-26 |  |
 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 | 2024-07-26 |  |

@@ -4,7 +4,7 @@
 
 > Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.
 
-372 songs - 19 hr 55 min
+373 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [fuß baumeln](https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [fuß baumeln](https://open.spotify.com/album/2BukPk8h55bGp9vildXq57) | 2:27 | 2024-04-19 | 2024-09-12 |
 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 | 2024-04-05 | 2024-09-12 |
 | [Gegenteil von Glück](https://open.spotify.com/track/6hHrfh59hQJyfxGjGtMQ0h) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/31Q0RTl2JFPyexVMgwub3B) | 2:39 | 2025-12-05 |  |
+| [Geheimnis](https://open.spotify.com/track/31Tx7OHXWHZDf4gMLt4RYI) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Geheimnis](https://open.spotify.com/album/70khccdVKWgQyOeCZoBjeF) | 3:24 | 2026-02-12 |  |
 | [Geile Zeit](https://open.spotify.com/track/47UCIHMC5NtybfvIEZBD4E) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Geile Zeit](https://open.spotify.com/album/5ZGg6JuNmc7VikmdjeOKzc) | 2:20 | 2024-07-09 | 2025-07-26 |
 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 | 2025-07-10 | 2025-08-14 |
 | [Glide](https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Glide](https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx) | 3:04 | 2025-04-02 |  |
@@ -148,7 +149,7 @@
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2023-07-26 | 2026-02-06 |
 | [How Far Is Your Love \(with Los Lonely Boys\)](https://open.spotify.com/track/2ZrioVBvBpKZXOd8tWcmzR) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Los Lonely Boys](https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj) | [Good Morning](https://open.spotify.com/album/5SP7T6m18OQCH0l68nxlON) | 2:43 | 2024-06-22 | 2024-10-19 |
 | [Hunde](https://open.spotify.com/track/1l9ENpcYemz9iAYy5ZuLu1) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Hunde](https://open.spotify.com/album/1qm0apTk5hpPINgNE0sxWO) | 2:42 | 2025-12-05 | 2026-01-15 |
-| [I Like How I Look](https://open.spotify.com/track/5UhmDALCzmMrY0voaPfx0z) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:16 | 2025-10-09 |  |
+| [I Like How I Look](https://open.spotify.com/track/5UhmDALCzmMrY0voaPfx0z) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:16 | 2025-10-09 | 2026-02-13 |
 | [I Love You So](https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [I Love You So](https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9) | 2:40 | 2024-01-19 | 2025-08-02 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-09-26 |  |
 | [I Wouldn't Mind](https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj) | [He Is We](https://open.spotify.com/artist/6yFbpXlBH8XHVQGjUPUvKU) | [Fall out of Line](https://open.spotify.com/album/0j9ER085qAs6Wd1P53hOGn) | 3:20 | 2024-01-19 | 2025-08-02 |
@@ -184,12 +185,12 @@
 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 | 2024-05-22 | 2025-03-02 |
 | [lieblingslied](https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [lieblingslied](https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp) | 2:26 | 2025-11-21 |  |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-07-26 | 2023-09-09 |
-| [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-07-26 | 2025-12-02 |
+| [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-07-26 |  |
 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 | 2023-07-26 |  |
 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 | 2023-09-15 | 2024-07-02 |
 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2023-07-26 | 2024-12-07 |
 | [loslassen](https://open.spotify.com/track/684DYzMh67ioLQQ9wJAfpm) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [loslassen](https://open.spotify.com/album/0dYAetAdTEU9qtAvtIQO2v) | 2:19 | 2024-09-06 | 2025-10-17 |
-| [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-07-26 |  |
+| [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-07-26 | 2026-02-13 |
 | [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 | 2025-08-01 | 2025-10-25 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-06-22 | 2025-03-25 |
 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-02-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Dave & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,744 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,751 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 47 | [Greece](https://open.spotify.com/track/5ohlN3aJiV7849vqb3HDI1) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Greece](https://open.spotify.com/album/5zmDVvrSrECRqUimEeHygu) | 2:39 |
 | 48 | [Wow](https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Wow](https://open.spotify.com/album/50GEiFeJvh61ifn8ZWyH4Y) | 2:53 |
 | 49 | [Traffic](https://open.spotify.com/track/3WpGt7fhdIDd5ej7xyzbe8) | [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Traffic](https://open.spotify.com/album/3TIC3tf3EeG2e2otDVXhEE) | 3:57 |
-| 50 | [Genius \(feat\. Lil Tjay & Swae Lee\)](https://open.spotify.com/track/0kNYrbMehFxp1eleTwUjkP) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:28 |
+| 50 | [No Remorse](https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [From The Can](https://open.spotify.com/album/7D59qIBeJucYHLc1Kq6i69) | 2:29 |
 
 Snapshot ID: `AAAAALLvl6dQ2upSgXl/zuygbqtoh7y6`

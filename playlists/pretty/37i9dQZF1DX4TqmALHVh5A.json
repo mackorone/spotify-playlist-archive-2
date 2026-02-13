@@ -1,119 +1,15 @@
 {
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Marlon Magn\u00e9e",
-  "num_followers": 52364,
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Dynamite Shakers",
+  "num_followers": 52363,
   "original_name": "Courant Alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALVrn6ekua0yOisDOOU2TYT1sDfc",
+  "snapshot_id": "AAAAALIeaDUHOOx4VUV4sBeNrGS1qNDs",
   "tracks": [
     {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "People Are Afraid",
-        "url": "https://open.spotify.com/album/5lWUoBPPotqfkEZJ4P3Mnb"
-      },
-      "artists": [
-        {
-          "name": "Marlon Magn\u00e9e",
-          "url": "https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs"
-        },
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 229506,
-      "name": "People Are Afraid",
-      "url": "https://open.spotify.com/track/4ARZSaY13oxocIbvHBKoLi"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "sympa",
-        "url": "https://open.spotify.com/album/1CBmtnrlHIOqhMU7YQfiNd"
-      },
-      "artists": [
-        {
-          "name": "Dab Rozer",
-          "url": "https://open.spotify.com/artist/33Mlo4xMrJsseOIv75xdfl"
-        }
-      ],
-      "duration_ms": 200348,
-      "name": "sympa",
-      "url": "https://open.spotify.com/track/2cjBJ5UEWmzN4uy7VuuxWw"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "En Sentido Contrario",
-        "url": "https://open.spotify.com/album/25hA2iBqLcVIFSBEPZSVER"
-      },
-      "artists": [
-        {
-          "name": "Exsonvaldes",
-          "url": "https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb"
-        },
-        {
-          "name": "Helena Miquel",
-          "url": "https://open.spotify.com/artist/6Yf8Pbx7zg5uPx2PUeIwp9"
-        }
-      ],
-      "duration_ms": 193794,
-      "name": "En Sentido Contrario",
-      "url": "https://open.spotify.com/track/4khRClTR8t347HO18rAOmf"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "la chica Tamagotchi \u208a\u00b0\u0f3a\u2764\ufe0e\u0f3b",
-        "url": "https://open.spotify.com/album/6REwDqNlpiOJ0BwMl4uqwX"
-      },
-      "artists": [
-        {
-          "name": "Liv del Estal",
-          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
-        }
-      ],
-      "duration_ms": 124981,
-      "name": "la chica Tamagotchi \u208a\u00b0\u0f3a\u2764\ufe0e\u0f3b",
-      "url": "https://open.spotify.com/track/7Jrp7ZY2VTaahgfV8pDT1P"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "Tout seul",
-        "url": "https://open.spotify.com/album/434ZXKSEKFsnFPImSq1si0"
-      },
-      "artists": [
-        {
-          "name": "AGAV",
-          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
-        }
-      ],
-      "duration_ms": 140827,
-      "name": "Tout seul",
-      "url": "https://open.spotify.com/track/6VZ0v0TSl98xFn6rQuzVgy"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "La Fable",
-        "url": "https://open.spotify.com/album/61giTMofDEougdMZ1vPnME"
-      },
-      "artists": [
-        {
-          "name": "Cabadzi",
-          "url": "https://open.spotify.com/artist/6SOfR3vMDf9otrCMyzrdDn"
-        }
-      ],
-      "duration_ms": 170389,
-      "name": "La Fable",
-      "url": "https://open.spotify.com/track/2jq53C6bIzTpqvgnFZZUNa"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Nightclub",
         "url": "https://open.spotify.com/album/2TDj6BvuFFMvHfWFCEbP5n"
@@ -129,55 +25,7 @@
       "url": "https://open.spotify.com/track/28W16x4pZhK9uQ9zPSqD7Q"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "Je voulais te dire que je t'attends",
-        "url": "https://open.spotify.com/album/2NEkmITnwj3s5U2e8tKEca"
-      },
-      "artists": [
-        {
-          "name": "Flora Fishbach",
-          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "Je voulais te dire que je t'attends",
-      "url": "https://open.spotify.com/track/00G4SFlowxWJA9QspYIX05"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "Mesdames, Messieurs !",
-        "url": "https://open.spotify.com/album/43Kjt22AJCNFvCjnYtsuqn"
-      },
-      "artists": [
-        {
-          "name": "Sam Sauvage",
-          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
-        }
-      ],
-      "duration_ms": 151453,
-      "name": "J'Suis Pas Bo",
-      "url": "https://open.spotify.com/track/1wPrfGvINb3lWrGbLWXedI"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "on s'en rappellera pas",
-        "url": "https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5"
-      },
-      "artists": [
-        {
-          "name": "disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "amsterdam",
-      "url": "https://open.spotify.com/track/0p1jyG640jfYCes1EagSsU"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Romy Rose",
         "url": "https://open.spotify.com/album/1mnFieEOP2S3wQbZaYwEne"
@@ -193,7 +41,23 @@
       "url": "https://open.spotify.com/track/2SevTNSp0JjUiKqk0SQTLS"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "on s'en rappellera pas",
+        "url": "https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        }
+      ],
+      "duration_ms": 190773,
+      "name": "amsterdam",
+      "url": "https://open.spotify.com/track/0p1jyG640jfYCes1EagSsU"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "mes d\u00e9g\u00e2ts",
         "url": "https://open.spotify.com/album/46ekCxsYd36dP4EPugKMrv"
@@ -209,79 +73,71 @@
       "url": "https://open.spotify.com/track/3BZVvt21W0x7ADbx0X4XrP"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "Mauvaise t\u00eate",
-        "url": "https://open.spotify.com/album/0Lf2JwBPW1pxnmScm5m2L1"
+        "name": "ON TRA\u00ceNE!",
+        "url": "https://open.spotify.com/album/4pzM7XQTTktoK05OJ2xP1A"
       },
       "artists": [
         {
-          "name": "a6el",
-          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
         }
       ],
-      "duration_ms": 158054,
-      "name": "Mauvaise t\u00eate",
-      "url": "https://open.spotify.com/track/4QEg4vfzw0NwePfYMoJtwK"
+      "duration_ms": 160000,
+      "name": "ON TRA\u00ceNE!",
+      "url": "https://open.spotify.com/track/51q8Y8fPdifFD5tFC5cV3m"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "BALLERINES DE BOURGE",
-        "url": "https://open.spotify.com/album/1JQxGJxzNukKrEiD6jC2qY"
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/194FbjQQTYgTUhp11vk6NC"
       },
       "artists": [
         {
-          "name": "KALIKA",
-          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
-        },
-        {
-          "name": "Tess Kirby",
-          "url": "https://open.spotify.com/artist/173QAn9N2bN4CJ6LJEoeO3"
+          "name": "Simia",
+          "url": "https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev"
         }
       ],
-      "duration_ms": 171920,
-      "name": "BALLERINES DE BOURGE",
-      "url": "https://open.spotify.com/track/2NGMnic5kVnqB12RLiEdOy"
+      "duration_ms": 156609,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/2eWsfkVueCBIPv8TgZ6M5s"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "Bonne chance pour la suite",
-        "url": "https://open.spotify.com/album/5Xi1T4E5u564I6Njs5iLLm"
+        "name": "Je voulais te dire que je t'attends",
+        "url": "https://open.spotify.com/album/2NEkmITnwj3s5U2e8tKEca"
       },
       "artists": [
         {
-          "name": "Cyril Mokaiesh",
-          "url": "https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk"
+          "name": "Flora Fishbach",
+          "url": "https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb"
         }
       ],
-      "duration_ms": 245520,
-      "name": "Approximatif",
-      "url": "https://open.spotify.com/track/0I5EAx0lrJ4cL4Dj21MoK4"
+      "duration_ms": 228213,
+      "name": "Je voulais te dire que je t'attends",
+      "url": "https://open.spotify.com/track/00G4SFlowxWJA9QspYIX05"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "Party crashing",
-        "url": "https://open.spotify.com/album/2pxAb9FGrlisCT66eLQwqZ"
+        "name": "Mesdames, Messieurs !",
+        "url": "https://open.spotify.com/album/43Kjt22AJCNFvCjnYtsuqn"
       },
       "artists": [
         {
-          "name": "kissed",
-          "url": "https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi"
-        },
-        {
-          "name": "unisature",
-          "url": "https://open.spotify.com/artist/5Q1QmxKNSY4UHazJ0wFQXn"
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
         }
       ],
-      "duration_ms": 181001,
-      "name": "le danger (feat. unisature)",
-      "url": "https://open.spotify.com/track/6IgsTzTGhUXl3PwtWZPfEY"
+      "duration_ms": 151453,
+      "name": "J'Suis Pas Bo",
+      "url": "https://open.spotify.com/track/1wPrfGvINb3lWrGbLWXedI"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "COPINES?",
         "url": "https://open.spotify.com/album/0FvG0TMwM7ANCg5FRCkoFy"
@@ -297,7 +153,7 @@
       "url": "https://open.spotify.com/track/6USaIObsBoczO9pEFj2rO5"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Peaux Miroirs",
         "url": "https://open.spotify.com/album/4Ej3dz9FNGG59gJUs3tDiF"
@@ -317,7 +173,183 @@
       "url": "https://open.spotify.com/track/7cxAjAFypLuTNZWLIQifAz"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "People Are Afraid",
+        "url": "https://open.spotify.com/album/5lWUoBPPotqfkEZJ4P3Mnb"
+      },
+      "artists": [
+        {
+          "name": "Marlon Magn\u00e9e",
+          "url": "https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs"
+        },
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 229506,
+      "name": "People Are Afraid",
+      "url": "https://open.spotify.com/track/4ARZSaY13oxocIbvHBKoLi"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "sympa",
+        "url": "https://open.spotify.com/album/1CBmtnrlHIOqhMU7YQfiNd"
+      },
+      "artists": [
+        {
+          "name": "Dab Rozer",
+          "url": "https://open.spotify.com/artist/33Mlo4xMrJsseOIv75xdfl"
+        }
+      ],
+      "duration_ms": 200348,
+      "name": "sympa",
+      "url": "https://open.spotify.com/track/2cjBJ5UEWmzN4uy7VuuxWw"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "En Sentido Contrario",
+        "url": "https://open.spotify.com/album/25hA2iBqLcVIFSBEPZSVER"
+      },
+      "artists": [
+        {
+          "name": "Exsonvaldes",
+          "url": "https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb"
+        },
+        {
+          "name": "Helena Miquel",
+          "url": "https://open.spotify.com/artist/6Yf8Pbx7zg5uPx2PUeIwp9"
+        }
+      ],
+      "duration_ms": 193794,
+      "name": "En Sentido Contrario",
+      "url": "https://open.spotify.com/track/4khRClTR8t347HO18rAOmf"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "la chica Tamagotchi \u208a\u00b0\u0f3a\u2764\ufe0e\u0f3b",
+        "url": "https://open.spotify.com/album/6REwDqNlpiOJ0BwMl4uqwX"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "duration_ms": 124981,
+      "name": "la chica Tamagotchi \u208a\u00b0\u0f3a\u2764\ufe0e\u0f3b",
+      "url": "https://open.spotify.com/track/7Jrp7ZY2VTaahgfV8pDT1P"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Tout seul",
+        "url": "https://open.spotify.com/album/434ZXKSEKFsnFPImSq1si0"
+      },
+      "artists": [
+        {
+          "name": "AGAV",
+          "url": "https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g"
+        }
+      ],
+      "duration_ms": 140827,
+      "name": "Tout seul",
+      "url": "https://open.spotify.com/track/6VZ0v0TSl98xFn6rQuzVgy"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "La Fable",
+        "url": "https://open.spotify.com/album/61giTMofDEougdMZ1vPnME"
+      },
+      "artists": [
+        {
+          "name": "Cabadzi",
+          "url": "https://open.spotify.com/artist/6SOfR3vMDf9otrCMyzrdDn"
+        }
+      ],
+      "duration_ms": 170389,
+      "name": "La Fable",
+      "url": "https://open.spotify.com/track/2jq53C6bIzTpqvgnFZZUNa"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Mauvaise t\u00eate",
+        "url": "https://open.spotify.com/album/0Lf2JwBPW1pxnmScm5m2L1"
+      },
+      "artists": [
+        {
+          "name": "a6el",
+          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+        }
+      ],
+      "duration_ms": 158054,
+      "name": "Mauvaise t\u00eate",
+      "url": "https://open.spotify.com/track/4QEg4vfzw0NwePfYMoJtwK"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "BALLERINES DE BOURGE",
+        "url": "https://open.spotify.com/album/1JQxGJxzNukKrEiD6jC2qY"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        },
+        {
+          "name": "Tess Kirby",
+          "url": "https://open.spotify.com/artist/173QAn9N2bN4CJ6LJEoeO3"
+        }
+      ],
+      "duration_ms": 171920,
+      "name": "BALLERINES DE BOURGE",
+      "url": "https://open.spotify.com/track/2NGMnic5kVnqB12RLiEdOy"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Bonne chance pour la suite",
+        "url": "https://open.spotify.com/album/5Xi1T4E5u564I6Njs5iLLm"
+      },
+      "artists": [
+        {
+          "name": "Cyril Mokaiesh",
+          "url": "https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk"
+        }
+      ],
+      "duration_ms": 245520,
+      "name": "Approximatif",
+      "url": "https://open.spotify.com/track/0I5EAx0lrJ4cL4Dj21MoK4"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Party crashing",
+        "url": "https://open.spotify.com/album/2pxAb9FGrlisCT66eLQwqZ"
+      },
+      "artists": [
+        {
+          "name": "kissed",
+          "url": "https://open.spotify.com/artist/6tkcFCnXVayNKi5OWeVpoi"
+        },
+        {
+          "name": "unisature",
+          "url": "https://open.spotify.com/artist/5Q1QmxKNSY4UHazJ0wFQXn"
+        }
+      ],
+      "duration_ms": 181001,
+      "name": "le danger (feat. unisature)",
+      "url": "https://open.spotify.com/track/6IgsTzTGhUXl3PwtWZPfEY"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "La d\u00e9licatesse",
         "url": "https://open.spotify.com/album/3qjCkRSt0YOz4mqELWcnum"
@@ -333,7 +365,7 @@
       "url": "https://open.spotify.com/track/56n9Iuw4IMSWk4SCMUYMFF"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Prol\u00e9taire",
         "url": "https://open.spotify.com/album/2e3J4pEJnEvgMGBsJO6CJV"
@@ -349,23 +381,7 @@
       "url": "https://open.spotify.com/track/14diKmKKPZS0PI24p8HOKM"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "ON TRA\u00ceNE!",
-        "url": "https://open.spotify.com/album/4pzM7XQTTktoK05OJ2xP1A"
-      },
-      "artists": [
-        {
-          "name": "MDNS",
-          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "ON TRA\u00ceNE!",
-      "url": "https://open.spotify.com/track/51q8Y8fPdifFD5tFC5cV3m"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "si t'essayais d'\u00eatre heureux ?",
         "url": "https://open.spotify.com/album/0JAuF1R6ZwlprcI5fnEnXc"
@@ -381,7 +397,7 @@
       "url": "https://open.spotify.com/track/4sr9TyrHO5XTnbqs0V51qn"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Les Ailes",
         "url": "https://open.spotify.com/album/4AenevqGlEU6uDhZTzAErQ"
@@ -401,39 +417,7 @@
       "url": "https://open.spotify.com/track/62nYa9kuN26ukVARAPiszd"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "Un Cri Dans Le M\u00e9tro",
-        "url": "https://open.spotify.com/album/6fQKbdeZ74qspEkX5MnuPS"
-      },
-      "artists": [
-        {
-          "name": "Sam Sauvage",
-          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Un Cri Dans Le M\u00e9tro",
-      "url": "https://open.spotify.com/track/2hWWHIXzcexn3QjpsBWsJP"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "FLEMME",
-        "url": "https://open.spotify.com/album/179KOwuoogAJN7nKByOBha"
-      },
-      "artists": [
-        {
-          "name": "SALYA",
-          "url": "https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef"
-        }
-      ],
-      "duration_ms": 147608,
-      "name": "FLEMME",
-      "url": "https://open.spotify.com/track/1aWfRPTSnvfgn0p5niDMr1"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Les histoires d'amour de St Graal",
         "url": "https://open.spotify.com/album/2Yb34HpfejFCJSMtap0HdE"
@@ -449,7 +433,7 @@
       "url": "https://open.spotify.com/track/5x8xtP96TVMZpwP6XV7Cji"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "le rem\u00e8de",
         "url": "https://open.spotify.com/album/4FWg7jBdMPHOEWpJm7TXKD"
@@ -465,23 +449,7 @@
       "url": "https://open.spotify.com/track/5EH33ROUwuT0KgCKBJmMAc"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "La pomme",
-        "url": "https://open.spotify.com/album/2XW2k6zgPuyMyf72H0XGZZ"
-      },
-      "artists": [
-        {
-          "name": "TheFrenchKris",
-          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
-        }
-      ],
-      "duration_ms": 134846,
-      "name": "La pomme",
-      "url": "https://open.spotify.com/track/2RmBJ4b1fDRCuxD3UWIj9R"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Les limbes",
         "url": "https://open.spotify.com/album/1c9Y0czH9pqBVvjZyxL5rH"
@@ -497,7 +465,39 @@
       "url": "https://open.spotify.com/track/3qg2qAGEgFVPjov9Rx9fb8"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Un Cri Dans Le M\u00e9tro",
+        "url": "https://open.spotify.com/album/6fQKbdeZ74qspEkX5MnuPS"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Un Cri Dans Le M\u00e9tro",
+      "url": "https://open.spotify.com/track/2hWWHIXzcexn3QjpsBWsJP"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "La pomme",
+        "url": "https://open.spotify.com/album/2XW2k6zgPuyMyf72H0XGZZ"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "duration_ms": 134846,
+      "name": "La pomme",
+      "url": "https://open.spotify.com/track/2RmBJ4b1fDRCuxD3UWIj9R"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Na\u00eff de Coeur",
         "url": "https://open.spotify.com/album/1jUbkwlkekzGLC0FOefl6r"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/3trEKMbjxk1uzYxNYCXDRA"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "In\u00e9dit 2",
         "url": "https://open.spotify.com/album/1TMnUhDskOPu2NZMlnv0KN"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/4MTBDFWh50Sk1q9u6B9GBU"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "british girl",
         "url": "https://open.spotify.com/album/2yx7RfrsuYbbkS2vBC1arg"
@@ -545,7 +545,7 @@
       "url": "https://open.spotify.com/track/0l04kYoEizefLbLIBttGVK"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "La v\u00e9rit\u00e9 des baisers",
         "url": "https://open.spotify.com/album/5ZoBThw0ygoWQ5qw5KK3nl"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/1Xd6H1K9Lq1Owqux3UDsZg"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "DOULA (hypercouleurs)",
         "url": "https://open.spotify.com/album/5MQ0mnvWM2yRD84eKzUCZv"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/4yNgAVEPDXv5RmxOHMxKHM"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Distancer",
         "url": "https://open.spotify.com/album/7qr1UZqCBwaBUomxmnNBMg"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/6jRXFZfoodiKfSTbfWXxhG"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Paris Bruxelles",
         "url": "https://open.spotify.com/album/6qR7ykO4LyNbaFZpThlERw"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/3PDJkJiZiqQm3wYeRGUej7"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Bal de fin d'ann\u00e9e",
         "url": "https://open.spotify.com/album/7Cj6DYtezHa2YFV7egsXU7"
@@ -625,39 +625,7 @@
       "url": "https://open.spotify.com/track/4tOehJCrjHFakWKIt2yuHd"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "Je Ne T'Aime Plus",
-        "url": "https://open.spotify.com/album/31othSVbJmYGw12cF2fPxg"
-      },
-      "artists": [
-        {
-          "name": "Sam Sauvage",
-          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
-        }
-      ],
-      "duration_ms": 211413,
-      "name": "Je Ne T'Aime Plus",
-      "url": "https://open.spotify.com/track/0L4EzEIPK3SEcz0PKXURlp"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "Pas le temps",
-        "url": "https://open.spotify.com/album/3woAumoPTvkkzSGxDsfLqM"
-      },
-      "artists": [
-        {
-          "name": "Bandit Bandit",
-          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
-        }
-      ],
-      "duration_ms": 182794,
-      "name": "Pas le temps",
-      "url": "https://open.spotify.com/track/1fH3GLZtWqNTxDUoknAMwO"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Tango Montrouge",
         "url": "https://open.spotify.com/album/5AXn24BfwO7rlfQlLnPjKc"
@@ -673,7 +641,39 @@
       "url": "https://open.spotify.com/track/4ALUui623wOZZhsJ1h3M2V"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Je Ne T'Aime Plus",
+        "url": "https://open.spotify.com/album/31othSVbJmYGw12cF2fPxg"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "Je Ne T'Aime Plus",
+      "url": "https://open.spotify.com/track/0L4EzEIPK3SEcz0PKXURlp"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Pas le temps",
+        "url": "https://open.spotify.com/album/3woAumoPTvkkzSGxDsfLqM"
+      },
+      "artists": [
+        {
+          "name": "Bandit Bandit",
+          "url": "https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h"
+        }
+      ],
+      "duration_ms": 182794,
+      "name": "Pas le temps",
+      "url": "https://open.spotify.com/track/1fH3GLZtWqNTxDUoknAMwO"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Appel de d\u00e9tresse",
         "url": "https://open.spotify.com/album/6HqJN4WwVxjeSdML6pNBUT"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/0SlVqq3nMSf6ItkaOMPXfg"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Presque Punk",
         "url": "https://open.spotify.com/album/2tLSulOAVaq89ILmVaFE71"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/5mysBYvFfQpZobu9bCRJ6e"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "T\u00c9L\u00c9PHONE!",
         "url": "https://open.spotify.com/album/1q72NUONJTQRhQalQFUNWc"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/4X8VOk1uN2KmGTXqBlqn7r"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Nuage Gris",
         "url": "https://open.spotify.com/album/4azWvnmyKImqcEkbZPnKCC"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/2x02xV4vO3Ph7ndHQa4vVF"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "crever toute la nuit",
         "url": "https://open.spotify.com/album/49PTTEem5m1njsHXx9QijX"
@@ -765,23 +765,7 @@
       "url": "https://open.spotify.com/track/70JwcaOgUCOqZfZ9jMaKjm"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
-      "album": {
-        "name": "Techno boom boom",
-        "url": "https://open.spotify.com/album/1vEKjUDnxmdOGRVtmHthP4"
-      },
-      "artists": [
-        {
-          "name": "St Graal",
-          "url": "https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I"
-        }
-      ],
-      "duration_ms": 177173,
-      "name": "Techno boom boom",
-      "url": "https://open.spotify.com/track/2wANJq48Tuxs3KUn4Qe7Pg"
-    },
-    {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Parachute",
         "url": "https://open.spotify.com/album/54hqrNqycVKChEW44Sv5Dp"
@@ -797,23 +781,23 @@
       "url": "https://open.spotify.com/track/1QEN3ujV5VZUBMv1WDnCAA"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "Distraction",
-        "url": "https://open.spotify.com/album/6TM06ZS2PtNj6XB6g3LAdO"
+        "name": "Xanax mon amour",
+        "url": "https://open.spotify.com/album/46OTJBJw8pyI1SRtTjePOt"
       },
       "artists": [
         {
-          "name": "Edg\u00e4r",
-          "url": "https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO"
+          "name": "Zaoui",
+          "url": "https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr"
         }
       ],
-      "duration_ms": 217173,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/7atWzGuz6MT8vaGQX5kdwp"
+      "duration_ms": 178602,
+      "name": "Xanax mon amour",
+      "url": "https://open.spotify.com/track/6FvzF6lcbZw1W3L0Tn4dD3"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "A priori",
         "url": "https://open.spotify.com/album/72i912k2lzdq3Mluq6SYR2"
@@ -829,20 +813,36 @@
       "url": "https://open.spotify.com/track/1ox8o1j0gYJL98H9fG3cP6"
     },
     {
-      "added_at": "2026-02-05 23:00:02",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "Xanax mon amour",
-        "url": "https://open.spotify.com/album/46OTJBJw8pyI1SRtTjePOt"
+        "name": "Distraction",
+        "url": "https://open.spotify.com/album/6TM06ZS2PtNj6XB6g3LAdO"
       },
       "artists": [
         {
-          "name": "Zaoui",
-          "url": "https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr"
+          "name": "Edg\u00e4r",
+          "url": "https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO"
         }
       ],
-      "duration_ms": 178602,
-      "name": "Xanax mon amour",
-      "url": "https://open.spotify.com/track/6FvzF6lcbZw1W3L0Tn4dD3"
+      "duration_ms": 217173,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/7atWzGuz6MT8vaGQX5kdwp"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Techno boom boom",
+        "url": "https://open.spotify.com/album/1vEKjUDnxmdOGRVtmHthP4"
+      },
+      "artists": [
+        {
+          "name": "St Graal",
+          "url": "https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I"
+        }
+      ],
+      "duration_ms": 177173,
+      "name": "Techno boom boom",
+      "url": "https://open.spotify.com/track/2wANJq48Tuxs3KUn4Qe7Pg"
     }
   ],
   "unique_name": "Courant Alternatif",

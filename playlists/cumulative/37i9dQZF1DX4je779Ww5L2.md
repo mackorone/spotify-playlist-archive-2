@@ -4,7 +4,7 @@
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-95 songs - 5 hr 57 min
+96 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Exit Wounds](https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Sincerely, Sevens](https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn) | 4:10 | 2025-08-08 |  |
 | [Fortune \- Acoustic Version](https://open.spotify.com/track/4yBaSpXD0NXU0fVVORb0Dx) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/67VE6RTOJLwouXsB6Bs5zB) | 3:48 | 2025-08-08 |  |
 | [Gaza is Calling](https://open.spotify.com/track/3J60sGMryOdR9iFriazOzm) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Gaza is Calling](https://open.spotify.com/album/5VVL5bs1loPBnJc826gQGl) | 4:30 | 2025-08-08 | 2025-10-14 |
+| [Getting Up](https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Getting Up](https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI) | 4:34 | 2026-02-12 |  |
 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 | 2025-09-25 |  |
 | [Growing Pains](https://open.spotify.com/track/2nuv1Vj4H8uTP0e2bIbotu) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Growing Pains](https://open.spotify.com/album/0YTckebc9Ece4Ja8Jr8go2) | 2:53 | 2025-08-08 |  |
 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 | 2025-09-26 |  |

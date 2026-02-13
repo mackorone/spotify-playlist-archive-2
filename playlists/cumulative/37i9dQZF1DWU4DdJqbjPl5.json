@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Intersection of R&B and afrobeats. Cover: Omah Lay",
+  "description": "Intersection of R&B and afrobeats. Cover: Wande Coal & Qing Madi",
   "name": "afro&b ",
   "tracks": [
     {
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 161982,
       "name": "B\u00e9b\u00e9 s'en va",
       "url": "https://open.spotify.com/track/1hHWdYKfUcLyuK4gE3i0sb"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 184792,
       "name": "Charmeur \u00e0 Gage Mission Ines",
       "url": "https://open.spotify.com/track/5oD6GjkYj5CyGn7KysNhT8"
@@ -2130,10 +2130,32 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 142204,
       "name": "Day n Nite",
       "url": "https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1"
+    },
+    {
+      "album": {
+        "name": "DEARLY",
+        "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181495,
+      "name": "DEARLY",
+      "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
     },
     {
       "album": {
@@ -3030,6 +3052,32 @@
       "duration_ms": 220322,
       "name": "FIND A WAY",
       "url": "https://open.spotify.com/track/76uERg3iGnf13tuoRoUSxD"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2PErZB2USDV1fbqww2mJKJ"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172577,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4Yza7I7ds4vF1m1hi3Qg56"
     },
     {
       "album": {
@@ -5422,7 +5470,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 217636,
       "name": "London Summers",
       "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
@@ -7392,7 +7440,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 199487,
       "name": "PRETTY WOMAN (WICKED)",
       "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
@@ -8972,7 +9020,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 220272,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/5kYTz4YNWt0QyAzXXQIfSP"
@@ -9941,6 +9989,24 @@
     },
     {
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/2IDWvpkV3xi7a6ZWNmOQ4G"
+      },
+      "artists": [
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/69FoPusRL3DhNJeTPhkZMO"
+    },
+    {
+      "album": {
         "name": "Waiting On You",
         "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
       },
@@ -10126,7 +10192,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 186000,
       "name": "Where You Dey",
       "url": "https://open.spotify.com/track/7IgIgtb2tud3KGvik0M5uG"

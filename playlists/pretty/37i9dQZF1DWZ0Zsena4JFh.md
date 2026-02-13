@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > lo alt, raro y cool\. The Black Keys en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,341 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,310 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 13 | [Victim Of Luck](https://open.spotify.com/track/5gH0Jr4nPOHPapmjfSYs4Y) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Victim Of Luck](https://open.spotify.com/album/4RcM2L1fg6E8uL3t1H355B) | 3:23 |
 | 14 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 |
 | 15 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 |
-| 16 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
+| 16 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
 | 17 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
 | 18 | [Back To Me](https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:34 |
 | 19 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
-| 20 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
+| 20 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
 | 21 | [Eastside](https://open.spotify.com/track/2evvE2jejUgiMrZNeCyi0H) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Eastside](https://open.spotify.com/album/3TC2ByOCEmKmVQmSaBmAWl) | 1:37 |
 | 22 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
 | 23 | [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 |

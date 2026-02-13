@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\.  Kapak: ALIZADE
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,003 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,059 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 29 | [BURADA SOKAKLAR](https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [BURADA SOKAKLAR](https://open.spotify.com/album/3XJWLy10bubUmpdIuWP7m2) | 2:19 |
 | 30 | [Beni Unutma](https://open.spotify.com/track/1nTP1D8Fz1lHFdFNudiCdp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Beni Unutma](https://open.spotify.com/album/2jt5o80d0JDe0NMjwXewrM) | 3:10 |
 | 31 | [Bende Katilime Aşıktım](https://open.spotify.com/track/5dOsHFII8HF05Cq6BoZDOa) | [Yıldırım Elmas](https://open.spotify.com/artist/464lu5xDniFcO7vYC5K8Ox) | [Bende Katilime Aşıktım](https://open.spotify.com/album/51iuFHmvwb5h5E4oMhzmHu) | 2:41 |
-| 32 | [Yeniden](https://open.spotify.com/track/5yoW8adECpBjG1em4xsaUX) | [Ragga Oktay](https://open.spotify.com/artist/1dp13r1d5Mp119KCR4BQvw) | [Yeniden](https://open.spotify.com/album/4QmxpKc5PxcnseYtWbzAsV) | 3:40 |
-| 33 | [Aldanırım](https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Aldanırım](https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt) | 3:21 |
+| 32 | [Aldanırım](https://open.spotify.com/track/1I7iW0f42qRNJMvpyERRmo) | [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC), [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp) | [Aldanırım](https://open.spotify.com/album/1nQJBqp4xqBPEv5MU2qxHt) | 3:21 |
+| 33 | [Yeniden](https://open.spotify.com/track/5yoW8adECpBjG1em4xsaUX) | [Ragga Oktay](https://open.spotify.com/artist/1dp13r1d5Mp119KCR4BQvw) | [Yeniden](https://open.spotify.com/album/4QmxpKc5PxcnseYtWbzAsV) | 3:40 |
 | 34 | [Sigara](https://open.spotify.com/track/2Vo0kGsnu44Nmfuh3r5aJv) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Perdeler](https://open.spotify.com/album/5cx3XHwc4WNml8uhO7LM3y) | 4:54 |
 | 35 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 |
 | 36 | [Gözler](https://open.spotify.com/track/3Hvn1ASL6A9m921Y99Hdm4) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Gözler](https://open.spotify.com/album/3cXZMVNUyIrwOPIJZ94Ic1) | 2:24 |

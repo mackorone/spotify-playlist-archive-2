@@ -4,7 +4,7 @@
 
 > C'est parti pour une bonne journée.
 
-292 songs - 18 hr 10 min
+293 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Gaffe aux autres](https://open.spotify.com/track/6PbRfvvnsJr6fIi3iunNyn) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Paradis](https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL) | 2:51 | 2022-12-06 | 2025-02-27 |
 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 | 2025-05-16 |  |
 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 | 2022-12-06 | 2025-04-16 |
-| [Good Company](https://open.spotify.com/track/4gsWaXmgcuOpqUA1tR7FXN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Good Company](https://open.spotify.com/album/1Sh6wJdwNxKzgnYsMpVBW3) | 3:25 | 2025-04-15 |  |
+| [Good Company](https://open.spotify.com/track/4gsWaXmgcuOpqUA1tR7FXN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Good Company](https://open.spotify.com/album/1Sh6wJdwNxKzgnYsMpVBW3) | 3:25 | 2025-04-15 | 2026-02-13 |
 | [Grateful For](https://open.spotify.com/track/5cE0uS4VSGwOGYc1K6joDH) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Grateful For](https://open.spotify.com/album/78y8zxdtwe1dIuMkPED0Wc) | 3:39 | 2025-05-16 |  |
 | [Gravity](https://open.spotify.com/track/1r7J1I74FgrxkmJ6kJBKs6) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Maratea](https://open.spotify.com/album/2OSdHB4RYfDZ0wFzbNoh7G) | 3:06 | 2024-03-27 | 2024-10-12 |
 | [Growing Up \(feat\. Ed Sheeran\)](https://open.spotify.com/track/44T13PWJ87jb3lFElhVIHx) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 5:05 | 2024-02-15 | 2025-04-16 |
@@ -111,6 +111,7 @@
 | [Her Face](https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Her Face](https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg) | 3:23 | 2025-11-06 | 2026-01-30 |
 | [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 | 2025-07-24 |  |
 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 | 2025-06-17 |  |
+| [Home](https://open.spotify.com/track/3ibjwFminiiudfT76RkuvU) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Home](https://open.spotify.com/album/4KDnylxQXJbcBTbMzc9E3Q) | 2:17 | 2026-02-05 |  |
 | [Home](https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Home](https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH) | 1:59 | 2025-11-06 |  |
 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 | 2024-03-27 | 2025-03-15 |
 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 | 2022-12-06 | 2024-04-19 |

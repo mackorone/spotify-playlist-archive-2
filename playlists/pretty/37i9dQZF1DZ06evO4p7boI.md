@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,053 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,048 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 43 | [Bali](https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 3:05 |
 | 44 | [The Man \(2015\)](https://open.spotify.com/track/2TWUcyxR1DmdZBbpgIKW9T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [The Man \(2015\)](https://open.spotify.com/album/5mjgHjGJu6oAaDZ9LaPF6n) | 4:19 |
 | 45 | [Interstellar \(with Lil Uzi Vert\)](https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 2:44 |
-| 46 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
-| 47 | [6AM Thoughts \(with Cash Cobain & Bay Swag\)](https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [6AM Thoughts](https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx) | 3:20 |
+| 46 | [6AM Thoughts \(with Cash Cobain & Bay Swag\)](https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [6AM Thoughts](https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx) | 3:20 |
+| 47 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
 | 48 | [Foreign \(feat\. Nav\)](https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:13 |
 | 49 | [Rexdale](https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Rexdale](https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4) | 2:05 |
 | 50 | [No Debate \(feat\. Young Thug\)](https://open.spotify.com/track/29eSqQBrdva2tPLYMneFzP) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:08 |
 
-Snapshot ID: `aYp1AAAAAACSVCdOeRUegFr0xIQLXQBM`
+Snapshot ID: `aYvGgAAAAADvFZvcBLBOy5v4P10+4N+I`

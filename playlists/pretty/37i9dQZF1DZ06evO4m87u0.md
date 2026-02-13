@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,841 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,879 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 19 | [Your Touch](https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Magic Potion](https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O) | 2:42 |
 | 20 | [In Time](https://open.spotify.com/track/39e1gl7VaxuCev5ga7bvNq) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:28 |
 | 21 | [Man On A Mission](https://open.spotify.com/track/7Ef0kJ9gKetW9HUd2AbrH2) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:31 |
-| 22 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
-| 23 | [Dead and Gone \- 2021 Remaster](https://open.spotify.com/track/0z8Z1WC2VT9iYT9gdjT1ua) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino \(2021 Remaster\)](https://open.spotify.com/album/15TCQN0DHHM3XX4TfnNkV8) | 3:41 |
+| 22 | [Run Right Back \- 2021 Remaster](https://open.spotify.com/track/3pFW7cWwjsYN15mJzeEVRb) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino \(2021 Remaster\)](https://open.spotify.com/album/15TCQN0DHHM3XX4TfnNkV8) | 3:16 |
+| 23 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
 | 24 | [Heavy Soul](https://open.spotify.com/track/5GZq8P4Iy2smHngL07Pcuo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:08 |
 | 25 | [The Night Before](https://open.spotify.com/track/718SlaHAcFwEKTIDIBa1Z2) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 2:34 |
-| 26 | [Fire Walk With Me](https://open.spotify.com/track/0UfkJ92b6D2CLHygzn8C6k) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:58 |
-| 27 | [Run Right Back \- 2021 Remaster](https://open.spotify.com/track/3pFW7cWwjsYN15mJzeEVRb) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino \(2021 Remaster\)](https://open.spotify.com/album/15TCQN0DHHM3XX4TfnNkV8) | 3:16 |
-| 28 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:47 |
+| 26 | [Dead and Gone \- 2021 Remaster](https://open.spotify.com/track/0z8Z1WC2VT9iYT9gdjT1ua) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino \(2021 Remaster\)](https://open.spotify.com/album/15TCQN0DHHM3XX4TfnNkV8) | 3:41 |
+| 27 | [Fire Walk With Me](https://open.spotify.com/track/0UfkJ92b6D2CLHygzn8C6k) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:58 |
+| 28 | [Good Love \(feat\. Billy F Gibbons\)](https://open.spotify.com/track/49Mvj8Ohz1uu0AcZ7Ri70Z) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:37 |
 | 29 | [All My Life](https://open.spotify.com/track/5Bu3CmkflxDAx5ps1BI8HI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 2:53 |
-| 30 | [Good Love \(feat\. Billy F Gibbons\)](https://open.spotify.com/track/49Mvj8Ohz1uu0AcZ7Ri70Z) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:37 |
-| 31 | [Mind Eraser \- 2021 Remaster](https://open.spotify.com/track/1g0QAoI37Wpsye1918bKjl) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino \(2021 Remaster\)](https://open.spotify.com/album/15TCQN0DHHM3XX4TfnNkV8) | 3:14 |
+| 30 | [Mind Eraser \- 2021 Remaster](https://open.spotify.com/track/1g0QAoI37Wpsye1918bKjl) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino \(2021 Remaster\)](https://open.spotify.com/album/15TCQN0DHHM3XX4TfnNkV8) | 3:14 |
+| 31 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2meH4dMuvGlooo2tpiPjJp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:47 |
 | 32 | [Gotta Get Away](https://open.spotify.com/track/0zo4T5c5VV42554ySEc5J6) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 3:00 |
 | 33 | [A Little Too High](https://open.spotify.com/track/07UhkkoVZLfX0khL5UzpoZ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 3:37 |
 | 34 | [Keep Me](https://open.spotify.com/track/5wGmaQYNYxJZrnWykQG3HF) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 2:52 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 40 | [I'll Be Your Man](https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:20 |
 | 41 | [Ten Cent Pistol](https://open.spotify.com/track/2qoLCpTRYv6h8Vx94hxkvl) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 4:29 |
 | 42 | [I Forgot To Be Your Lover](https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:27 |
-| 43 | [The Only One](https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 5:00 |
+| 43 | [Next Girl](https://open.spotify.com/track/4yWWuAW3bywNtneUa4L6YJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:17 |
 | 44 | [Thickfreakness](https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Thickfreakness](https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa) | 3:48 |
 | 45 | [Sinister Kid](https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:44 |
 | 46 | [This Is Nowhere](https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:44 |
-| 47 | [10 A.M\. Automatic](https://open.spotify.com/track/4HIx4KL2XRilgBf6WzfLqI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 2:59 |
-| 48 | [Busted](https://open.spotify.com/track/5qnOCQW9EwKd6kG6HVecHo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:33 |
+| 47 | [The Only One](https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 5:00 |
+| 48 | [10 A.M\. Automatic](https://open.spotify.com/track/4HIx4KL2XRilgBf6WzfLqI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 2:59 |
 | 49 | [She's Long Gone](https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:06 |
-| 50 | [I'm Not the One](https://open.spotify.com/track/3OCu1I58aI9fy6m6pYEtN2) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:49 |
+| 50 | [Busted](https://open.spotify.com/track/5qnOCQW9EwKd6kG6HVecHo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:33 |
 
-Snapshot ID: `aYp1AAAAAABe8oqj5b5i794OI7++RPce`
+Snapshot ID: `aYvGgAAAAACeteDfH1osoD/KPM5TX4nQ`

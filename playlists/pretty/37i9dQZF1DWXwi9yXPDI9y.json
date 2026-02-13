@@ -1,6 +1,6 @@
 {
   "description": "Grab a drink and relax to the Jazz played in the background at the bar.",
-  "num_followers": 188770,
+  "num_followers": 188849,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "Baby Breeze (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 162733,
-      "name": "The Touch Of Your Lips",
-      "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
-    },
-    {
-      "added_at": "2026-02-04 10:41:16",
-      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 332120,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2"
+    },
+    {
+      "added_at": "2026-02-04 10:41:16",
+      "album": {
+        "name": "Baby Breeze (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 162733,
+      "name": "The Touch Of Your Lips",
+      "url": "https://open.spotify.com/track/5LLWrf6UdvgH9o1PGkNeYP"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Blame It On My Youth - Remastered 1999",
-      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
-    },
-    {
-      "added_at": "2026-02-04 10:41:16",
-      "album": {
         "name": "Oscar Peterson Plays The George Gershwin Song Book",
         "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 168866,
       "name": "It Ain't Necessarily So",
       "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
+    },
+    {
+      "added_at": "2026-02-04 10:41:16",
+      "album": {
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "Amoureusement V\u00f4tre",
-        "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
-      },
-      "artists": [
-        {
-          "name": "Don Byas",
-          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
-    },
-    {
-      "added_at": "2026-02-04 10:41:16",
-      "album": {
         "name": "The Wonderful World Of Jazz",
         "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 210973,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
+    },
+    {
+      "added_at": "2026-02-04 10:41:16",
+      "album": {
+        "name": "Amoureusement V\u00f4tre",
+        "url": "https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC"
+      },
+      "artists": [
+        {
+          "name": "Don Byas",
+          "url": "https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
-    },
-    {
-      "added_at": "2026-02-04 10:41:16",
-      "album": {
         "name": "Dear Old Stockholm",
         "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
       },
@@ -907,34 +891,18 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 256386,
-      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
-      "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
-    },
-    {
-      "added_at": "2026-02-04 10:41:16",
-      "album": {
-        "name": "The Jazz Giants '56",
-        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 569880,
-      "name": "I Guess I'll Have To Change My Plan",
-      "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -951,6 +919,22 @@
       "duration_ms": 277013,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/220ZfJj309AIx2dUXJ2JoW"
+    },
+    {
+      "added_at": "2026-02-04 10:41:16",
+      "album": {
+        "name": "The Jazz Giants '56",
+        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 569880,
+      "name": "I Guess I'll Have To Change My Plan",
+      "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -987,18 +971,18 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "Give Him The Ooh-La-La (Expanded Edition)",
-        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 258093,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
+      "duration_ms": 256386,
+      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
+      "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -1047,6 +1031,22 @@
       "duration_ms": 292106,
       "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
+    },
+    {
+      "added_at": "2026-02-04 10:41:16",
+      "album": {
+        "name": "Give Him The Ooh-La-La (Expanded Edition)",
+        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 258093,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
     },
     {
       "added_at": "2026-02-04 10:41:16",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-02-04 10:41:16",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 434666,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
-    },
-    {
-      "added_at": "2026-02-04 10:41:16",
-      "album": {
         "name": "Johnny Hodges With Billy Strayhorn And The Orchestra",
         "url": "https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 180306,
       "name": "Your Love Has Faded",
       "url": "https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO"
+    },
+    {
+      "added_at": "2026-02-04 10:41:16",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/66lE5oVdR8QZjXNbYjJulR"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 434666,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/26bVvTsdbtIAuJ0pZyCaOO"
     },
     {
       "added_at": "2026-02-04 10:41:16",

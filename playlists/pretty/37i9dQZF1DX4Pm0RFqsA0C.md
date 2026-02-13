@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,247 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,250 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 11 | [Couple](https://open.spotify.com/track/3VuQoOFwJdcQ5IOamXlWZa) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Special](https://open.spotify.com/album/3UrK9PYPdR8FBmTyKubidf) | 4:10 |
 | 12 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
 | 13 | [Tell me \(feat\. 엄정화\)](https://open.spotify.com/track/4ebC0oQEzTTNTpCDM1IBWD) | [JINUSEAN](https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv) | [Jinusean](https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt) | 3:53 |
-| 14 | [December](https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [BORN AGAIN](https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o) | 4:20 |
+| 14 | [아로하](https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:25 |
 | 15 | [\(′Cause\) I′m Your Girl](https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [S.E.S\. \- The 1st Album](https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ) | 3:45 |
-| 16 | [아로하](https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:25 |
+| 16 | [December](https://open.spotify.com/track/5rpFNrOoB6rVKc0K8Gv9Qx) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [BORN AGAIN](https://open.spotify.com/album/5t40BdoTOPrSnUcWDoGA6o) | 4:20 |
 | 17 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
 | 18 | [와](https://open.spotify.com/track/1XrfEfQj3x4XfIM1nxMJJW) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [Let's Go To My Star](https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6) | 3:32 |
 | 19 | [To Heaven](https://open.spotify.com/track/4SULy2zFlFpmIPP7KFFTyT) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [To Heaven](https://open.spotify.com/album/31IqkuM3AcPWni0vIJZvep) | 4:10 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 36 | [Dance with DOC](https://open.spotify.com/track/46tMl2itZomvKj9TR7wzVz) | [DJ DOC](https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF) | [DJ\. DOC 4th Album](https://open.spotify.com/album/4bClX08UzWDCDbsURK56mv) | 3:12 |
 | 37 | [벌써 이렇게 \(feat\. Psy\)](https://open.spotify.com/track/7y24cTluWhcJct69ZOWKNC) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:17 |
 | 38 | [Wild Eyes](https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [HEY, COME ON! \- The 4th Album](https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul) | 3:21 |
-| 39 | [회상](https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [터보 HISTORY](https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa) | 4:35 |
-| 40 | [선물](https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:25 |
+| 39 | [선물](https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:25 |
+| 40 | [회상](https://open.spotify.com/track/1HH2Y8JAYu6OnH29EV10e8) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [터보 HISTORY](https://open.spotify.com/album/7cCpncteqNEdgRJpV9FLOa) | 4:35 |
 | 41 | [Just A Feeling \- Original Version](https://open.spotify.com/track/7BrWFGg6iIfSVDO7IVKAbN) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [Choose My Life\-U](https://open.spotify.com/album/7apoRHFUdYNuaR5tRrOnPd) | 3:48 |
 | 42 | [We are the future](https://open.spotify.com/track/2khPCdofF2cFTDKjINZavV) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Wolf And Sheep](https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN) | 3:40 |
 | 43 | [Love is gone](https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD) | [Kim Gun Mo](https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO) | [Myself](https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9) | 3:59 |

@@ -896,7 +896,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 373840,
       "name": "Day Dream",
       "url": "https://open.spotify.com/track/5Smmg9SpxnawbuYPKSNcmx"
@@ -2144,10 +2144,28 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 182733,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/6jSOQzZ92aPKN0p2m09y2n"
+    },
+    {
+      "album": {
+        "name": "Ink Spots Favorites",
+        "url": "https://open.spotify.com/album/6LLPeixvrRf01ul9PbFVCg"
+      },
+      "artists": [
+        {
+          "name": "The Ink Spots",
+          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184826,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/7cmI5N55E1nMoxfYJxqjw0"
     },
     {
       "album": {

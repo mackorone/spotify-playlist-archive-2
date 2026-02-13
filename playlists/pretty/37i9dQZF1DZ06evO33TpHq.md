@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,925 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,957 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 17 | [The King Is In The Room](https://open.spotify.com/track/7g5XHIyUEAOIAVgQvPx7uW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:02 |
 | 18 | [Why God \- My God](https://open.spotify.com/track/4v3UsxasOoLT3BTMuJHKL3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Miri Mesika](https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa), [Angel](https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF) | [DAVID \(Soundtrack from the Angel Original Film\)](https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq) | 3:28 |
 | 19 | [Sunday Is Coming](https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:52 |
-| 20 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 5:23 |
+| 20 | [Great Things](https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:50 |
 | 21 | [Running To A Runaway](https://open.spotify.com/track/5LQ9sggtmciQlOQmV79wDA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 3:59 |
 | 22 | [I Will Not Be Afraid \(Reprise\)](https://open.spotify.com/track/6HjiwLJ1CzTn6Yhmpf5PK2) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Angel](https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF) | [DAVID \(Soundtrack from the Angel Original Film\)](https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq) | 2:13 |
 | 23 | [Psalm 23](https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:34 |
-| 24 | [Great Things](https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:50 |
+| 24 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 5:23 |
 | 25 | [Able](https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:33 |
 | 26 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Acoustic Sessions\)](https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj) | 4:32 |
 | 27 | [The Jesus Way](https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 49 | [Worthy Of My Song](https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Worthy Of My Song](https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS) | 6:11 |
 | 50 | [Here with Me \- Acoustic](https://open.spotify.com/track/0gunBydvSCEozLvcukTqQa) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 4:15 |
 
-Snapshot ID: `aYp1AAAAAAAEZIkA4ZPuszZssD0EnqEI`
+Snapshot ID: `aYvGgAAAAAAFeAiXGCNw0aOc9JANPNMt`

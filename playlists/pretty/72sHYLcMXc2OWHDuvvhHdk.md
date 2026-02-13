@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 559 likes - 2,307 songs - 5 day 14 hr 53 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 559 likes - 2,311 songs - 5 day 15 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2315,5 +2315,9 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2305 | [Descontrolada](https://open.spotify.com/track/7rmziVMZPo7QJk1tYyrHK3) | [BoraRoger](https://open.spotify.com/artist/0ZqTAL4oC4tLViGNKPDRqY) | [Descontrolada](https://open.spotify.com/album/3lmQOQsaDAt0S7EcVYXJHA) | 2:11 |
 | 2306 | [Backyard Kings](https://open.spotify.com/track/7qrRSrYdSbW7ESfOFhbat1) | [nwmhb](https://open.spotify.com/artist/1MJR8Z36dtmgxMjwqwTsxl) | [Backyard Kings](https://open.spotify.com/album/0XigRjeeyL65dPAdnQYdJL) | 2:26 |
 | 2307 | [Gleichsein \- Extended Version](https://open.spotify.com/track/1vnMCjKEUsQW7uuWMZPDlJ) | [Florian Döppert](https://open.spotify.com/artist/6XiAqQIEjUavVqcIc9UfJG), [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Gleichsein \(Extended Version\)](https://open.spotify.com/album/1dxD08b8jWCRwVr4rV7gZj) | 7:21 |
+| 2308 | [Live With The Day](https://open.spotify.com/track/4ijTymS7wcVeaGsAJRmwPa) | [Vetus](https://open.spotify.com/artist/5ttgYDG4whP6U4pLIp0a0f) | [After The Signal](https://open.spotify.com/album/0yzVaccOr0T3cKBinuZwhs) | 3:34 |
+| 2309 | [JUA NAKUPENDA](https://open.spotify.com/track/3P3B5WfMGFwtROsOu0mtb6) | [MARK OVIN](https://open.spotify.com/artist/7AuFoZQgb2ekBCPLnY0Mfz) | [JUA NAKUPENDA](https://open.spotify.com/album/5biFSCoMErFP6zEaGwb4q0) | 3:18 |
+| 2310 | [Shattered Pieces \- Remastered 2026](https://open.spotify.com/track/0GsmUiID1NhxGPrlBGGxk5) | [Riot Hype](https://open.spotify.com/artist/6AkTxR6fyVtmtsXJ6IBMeK) | [Tomorrow Is The Future](https://open.spotify.com/album/5tiAe9vkPgvOzNZ7muVBLb) | 2:34 |
+| 2311 | [Windborne](https://open.spotify.com/track/0O9NDl3eK2OvQREtczZ6kD) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Dirty Lines Through Indigo Minds](https://open.spotify.com/album/5VGOfHz3KrBSynttgQ48J7) | 1:53 |
 
-Snapshot ID: `AAAJmkZwR93FJdfv+nn9qn2TwtiB1PK5`
+Snapshot ID: `AAAJnvZwpUiqbYfrfEPUBjzsi+lh5IGt`

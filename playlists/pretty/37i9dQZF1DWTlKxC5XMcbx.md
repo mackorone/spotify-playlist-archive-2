@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,808 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,809 likes - 75 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 27 | [Dedicated To You](https://open.spotify.com/track/7Codqj9B5oMniYPUhfv26I) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Body & The Soul](https://open.spotify.com/album/4HI73mieaBFtwKS37HmvQH) | 3:22 |
 | 28 | [Strange Meadow Lark](https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 7:22 |
 | 29 | [I'm A Fool To Want You \- Remastered 2006](https://open.spotify.com/track/2FnTwpi1PdHLjgHv4XQEFn) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:12 |
-| 30 | [Forenet](https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Ordet](https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq) | 1:58 |
-| 31 | [Reacquainted](https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Reacquainted](https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD) | 3:29 |
+| 30 | [Reacquainted](https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2) | [Eric Rowland](https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0) | [Reacquainted](https://open.spotify.com/album/7jttkH7iYONN0AoY3jTyeD) | 3:29 |
+| 31 | [Forenet](https://open.spotify.com/track/1Xzr6UzZzm2ksXBafZzowm) | [Bremer/McCoy](https://open.spotify.com/artist/2lHSlOOSjpb0qKUkrpXT6J) | [Ordet](https://open.spotify.com/album/0rt84oJPahkvHKS9jkSdaq) | 1:58 |
 | 32 | [When Your Lover Has Gone](https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 3:56 |
 | 33 | [You've Changed](https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:15 |
 | 34 | [I'm A Fool To Want You](https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Ballads](https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K) | 6:45 |

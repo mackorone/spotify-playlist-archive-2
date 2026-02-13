@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Canti",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Dzulfahmi",
   "name": "JIVVA",
   "tracks": [
     {
@@ -552,6 +552,24 @@
       "duration_ms": 220945,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
+    },
+    {
+      "album": {
+        "name": "Blueberry Pie",
+        "url": "https://open.spotify.com/album/364RXnlRcgtFki0T4FQEwI"
+      },
+      "artists": [
+        {
+          "name": "Thaviella",
+          "url": "https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "Blueberry Pie",
+      "url": "https://open.spotify.com/track/3hzrqBqKYzH0DDcKQD2jzy"
     },
     {
       "album": {
@@ -1217,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "FALL AGAIN",
+        "url": "https://open.spotify.com/album/5DLrerqf7OKlJskTZOAlYn"
+      },
+      "artists": [
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188745,
+      "name": "FALL AGAIN",
+      "url": "https://open.spotify.com/track/303TW5JcL5wE8nPhyb0XRV"
+    },
+    {
+      "album": {
         "name": "Fall Into You",
         "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
       },
@@ -1436,7 +1472,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 278270,
       "name": "Good Fellas",
       "url": "https://open.spotify.com/track/2FmT90UyNwTNSWMHFzWBYq"
@@ -1582,7 +1618,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 271764,
       "name": "HEARTBEAT",
       "url": "https://open.spotify.com/track/5StSU7EGlDLQnadRAJvCQN"
@@ -1800,7 +1836,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 241480,
       "name": "If Only",
       "url": "https://open.spotify.com/track/5igPUqZAso9bMHVCpS5USI"
@@ -2243,6 +2279,24 @@
     },
     {
       "album": {
+        "name": "Lancang",
+        "url": "https://open.spotify.com/album/2GvJs4N1g9Spr2zEpzVI23"
+      },
+      "artists": [
+        {
+          "name": "Andity",
+          "url": "https://open.spotify.com/artist/66P3FEL28QNJw9ylq00wRa"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219115,
+      "name": "Lancang",
+      "url": "https://open.spotify.com/track/4EOEKMXnS6XW3ArVKIAvTe"
+    },
+    {
+      "album": {
         "name": "Lelah",
         "url": "https://open.spotify.com/album/4ndTARa0clTFGf8DnNzuSO"
       },
@@ -2284,6 +2338,28 @@
       "duration_ms": 186352,
       "name": "Light",
       "url": "https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ"
+    },
+    {
+      "album": {
+        "name": "Lika & Liku",
+        "url": "https://open.spotify.com/album/7lOptYZ3jVvZ0mELGJJQ6v"
+      },
+      "artists": [
+        {
+          "name": "Dzulfahmi",
+          "url": "https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio"
+        },
+        {
+          "name": "Jebung",
+          "url": "https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Lika & Liku",
+      "url": "https://open.spotify.com/track/7bsAM9K5gI0eTqYOqVg0tq"
     },
     {
       "album": {
@@ -2388,7 +2464,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 230347,
       "name": "lupa",
       "url": "https://open.spotify.com/track/7B2T9lm0FeFnWRzUK20On9"
@@ -3661,6 +3737,32 @@
     },
     {
       "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/1rabDiwDQqHHdtLpXVGCWI"
+      },
+      "artists": [
+        {
+          "name": "Wondrah",
+          "url": "https://open.spotify.com/artist/0l3fkpslJAMPZDPgT9KwDa"
+        },
+        {
+          "name": "Valentine",
+          "url": "https://open.spotify.com/artist/0b7yUYbKbidPYkoLNAN56k"
+        },
+        {
+          "name": "Reynard Silva",
+          "url": "https://open.spotify.com/artist/4Nxf1eWIJmgCAE7vgLrTfk"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194389,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/3CVW3DouFC7yxwRsRPYVSw"
+    },
+    {
+      "album": {
         "name": "Tak Secinta Itu",
         "url": "https://open.spotify.com/album/6l4mo22pd6Mxxq2rViRGOQ"
       },
@@ -3672,7 +3774,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 241397,
       "name": "Tak Secinta Itu",
       "url": "https://open.spotify.com/track/4PR85M8Le8SBr4fU7CCadz"

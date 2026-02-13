@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 
 > The highlights of Eurovision from the 50s, 60s & 70s\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,702 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,703 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 43 | [Une petite française](https://open.spotify.com/track/4OMWFiBrBlA11tnJmNhi7y) | [Michèle Torr](https://open.spotify.com/artist/0eaTYkUQnI2gRaYwT0nWNF) | [Universal Master](https://open.spotify.com/album/7kg1lYWJkHb0GbJbRcvN3K) | 2:53 |
 | 44 | [Let Me Be the One](https://open.spotify.com/track/6gZvvkOUTl33NDsbi3lzKr) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [Shadows \- The Collection](https://open.spotify.com/album/64pi43eHLCnVZHpcIdhoLa) | 2:50 |
 | 45 | [Merci Chérie](https://open.spotify.com/track/29wXI6B7d5vy3iPfXhYMuP) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Alle Macht den Gefühlen](https://open.spotify.com/album/20OmM7msF0aALXBhaWgUFI) | 2:46 |
-| 46 | [Tipi\-tii](https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Marion Rung](https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL) | 2:12 |
-| 47 | [Nur die Liebe lässt uns leben \- Neuaufnahme](https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY) | [Mary Roos](https://open.spotify.com/artist/2MmejQB7k07GW7ooY66Umn) | [Herzen zu verschenken](https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB) | 3:13 |
+| 46 | [Nur die Liebe lässt uns leben \- Neuaufnahme](https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY) | [Mary Roos](https://open.spotify.com/artist/2MmejQB7k07GW7ooY66Umn) | [Herzen zu verschenken](https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB) | 3:13 |
+| 47 | [Tipi\-tii](https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Marion Rung](https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL) | 2:12 |
 | 48 | [Uno Per Tutte](https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk) | [Emilio Pericoli](https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ) | [Solino](https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb) | 2:58 |
 | 49 | [Tom Pillibi](https://open.spotify.com/track/3fZIQ0sdsy7u7YDmOpqbxS) | [Jacqueline Boyer](https://open.spotify.com/artist/39CXnW4H5Zc2567MY5UaeH) | [Succès et raretés \(Collection "78 tours et puis s'en vont..."\)](https://open.spotify.com/album/7sklBkyosCBaqrUisOaPRG) | 3:03 |
 | 50 | [Warum nur, warum](https://open.spotify.com/track/231iiM3Zt82cVUjEUHFSZA) | [Udo Jürgens](https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur) | [Udo Jürgens \- Die Erfolgsgeschichte](https://open.spotify.com/album/7ux7Y97oJmhfjtYKO95Ku6) | 2:58 |
@@ -67,14 +67,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatjfEjdkA6Y.md) - [plain]
 | 57 | [Save Your Kisses For Me](https://open.spotify.com/track/3Egto4BiPhrim1EdRERwht) | [Brotherhood of Man](https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo) | [Greatest 70's Hits Best Ever](https://open.spotify.com/album/0oAJXGROv1EuMhrT0p5zcc) | 3:02 |
 | 58 | [Ein Hoch der Liebe](https://open.spotify.com/track/1SlsyDG3PMLZ57fLzp5WVI) | [Wencke Myhre](https://open.spotify.com/artist/6W5ilMykftL18jlBb7CHuo) | [Er steht im Tor \- Ihre grossen Erfolge](https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw) | 2:31 |
 | 59 | [Festa da Vida](https://open.spotify.com/track/7wLYU9xbF3rGxN8ZYTy0NS) | [Carlos Mendes](https://open.spotify.com/artist/0rPo81L45W612Ke5Ezsqc4) | [A Festa da Vida](https://open.spotify.com/album/0ZlWPHxyCHxo70SQBSYZGm) | 2:40 |
-| 60 | [Marianne](https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Collection: Sergio Endrigo](https://open.spotify.com/album/3I41nPHRdOpInP57Noytru) | 3:10 |
-| 61 | [Judy et cie](https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg) | [Pierre Rapsat](https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g) | [L'essentiel](https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd) | 2:50 |
+| 60 | [Judy et cie](https://open.spotify.com/track/73T2aSDbeMFuIN8CvDKCrg) | [Pierre Rapsat](https://open.spotify.com/artist/3Jsgw675Kwq2u5MxmBmW7g) | [L'essentiel](https://open.spotify.com/album/2mmOO4TUSuodwuFoao1rYd) | 2:50 |
+| 61 | [Marianne](https://open.spotify.com/track/6qjTf8vArMndh5BalX4qGv) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Collection: Sergio Endrigo](https://open.spotify.com/album/3I41nPHRdOpInP57Noytru) | 3:10 |
 | 62 | [Feuer \- Remastered 1996](https://open.spotify.com/track/1bBZVweXaAyLI8FkuhoOyb) | [Ireen Sheer](https://open.spotify.com/artist/6DtzOuUkjukrHLwgG4EnDw) | [Mega 50 \- Die 70er Jahre](https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls) | 3:03 |
 | 63 | [Et Bonjour A Toi l'Artiste](https://open.spotify.com/track/5eGnVU7C3mRbXMergmSz9Q) | [Nicole Rieu](https://open.spotify.com/artist/77eP94nF4XoaYvzx5W8CVC) | [Nicole Rieu](https://open.spotify.com/album/6pgSHh4Sb9J1ttOTDrgtwl) | 3:42 |
 | 64 | [Tom Tom Tom](https://open.spotify.com/track/5r4mWGBL8NKQL02ARMP2dg) | [Marion Rung](https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym) | [Big\-5: Marion](https://open.spotify.com/album/1wLH0O9ZGMxKl9R9JbFM6U) | 2:55 |
-| 65 | [Telegram](https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Golden Girls](https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV) | 3:03 |
-| 66 | [Det börjar verka kärlek, banne mej](https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl) | [Claes\-Göran Hederström](https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi) | [Festivalfavoriter 1](https://open.spotify.com/album/3cNpSXxkZG0wE2TnIbd66m) | 2:46 |
-| 67 | [Un jardin sur la Terre](https://open.spotify.com/track/5qrnU9rQR0Vpoc4vI1zmYc) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Les 50 Plus Belles Chansons](https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu) | 3:07 |
+| 65 | [Un jardin sur la Terre](https://open.spotify.com/track/5qrnU9rQR0Vpoc4vI1zmYc) | [Serge Lama](https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz) | [Les 50 Plus Belles Chansons](https://open.spotify.com/album/0jhZnOsf191o5d4pzt2qTu) | 3:07 |
+| 66 | [Telegram](https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Golden Girls](https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV) | 3:03 |
+| 67 | [Det börjar verka kärlek, banne mej](https://open.spotify.com/track/1qnzSLvl5qWPIgpaRnLGxl) | [Claes\-Göran Hederström](https://open.spotify.com/artist/3xCwhFeIUkdyi9V0skNdLi) | [Festivalfavoriter 1](https://open.spotify.com/album/3cNpSXxkZG0wE2TnIbd66m) | 2:46 |
 | 68 | [Brez besed \- Evrovizija 1966](https://open.spotify.com/track/3OZqPWY86jhuv6DV5TV0kK) | [Berta Ambroz](https://open.spotify.com/artist/04mSp2LAR4PNf4nWSJTXWq) | [Brez besed](https://open.spotify.com/album/17XZ6Nn2VQ1xbnUU27d8U9) | 2:45 |
 | 69 | [Primaballerina \- tysk Version](https://open.spotify.com/track/5I0IiNSEy5ww523Wvmgrmc) | [Siw Malmkvist](https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl) | [Primaballerina](https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy) | 2:42 |
 | 70 | [Tsarly Tsaplin](https://open.spotify.com/track/2BcjzwGE9Nwoqe6rqplYxD) | [Tania Tsanaklidou](https://open.spotify.com/artist/2M0MfjN3wqrrvKHXohxTfw) | [Tsarli Tsaplin](https://open.spotify.com/album/6PQTUHJ7dqG3mz1Qzi0DXM) | 2:51 |

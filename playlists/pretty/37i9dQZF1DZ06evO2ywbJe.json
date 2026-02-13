@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 7367,
+  "num_followers": 7374,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADXSxnV5+yE3FhEvL8bCgja",
+  "snapshot_id": "aYvGgAAAAAATYu7W8J6QBzfmMTDTXcej",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "10 Bottles",
+        "url": "https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 178936,
+      "name": "10 Bottles",
+      "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "10 Bottles",
-        "url": "https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 178936,
-      "name": "10 Bottles",
-      "url": "https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p"
     },
     {
       "added_at": null,

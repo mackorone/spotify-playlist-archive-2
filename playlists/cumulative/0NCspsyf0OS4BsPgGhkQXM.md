@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,131 songs - 2 day 10 hr 10 min
+1,133 songs - 2 day 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Distancing](https://open.spotify.com/track/2sRROPunrmFrF8g0MZaZc0) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Distancing](https://open.spotify.com/album/0TEPTW3WXx3BJNRcOl1yPm) | 2:43 | 2022-01-14 | 2022-09-15 |
 | [Division](https://open.spotify.com/track/5xWqW9uWzuawEsjL6AQjMo) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm) | [Division](https://open.spotify.com/album/66A7Noku1gnATSMvRSPlKA) | 3:09 | 2022-01-14 | 2022-02-17 |
 | [DNA](https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [DNA](https://open.spotify.com/album/1ILssfrknV8cQv5QvwBGUY) | 1:28 | 2024-02-02 | 2024-11-07 |
+| [Dominator](https://open.spotify.com/track/340tn1p9E0oKKpWVCBd5Vh) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [Dominator](https://open.spotify.com/album/09LcSDpp9M6lTSs8GpfGcO) | 2:53 | 2026-02-12 |  |
 | [Don't Let Me Down \- Illenium Remix](https://open.spotify.com/track/15BlympuVSfZFROojEMY2M) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Don't Let Me Down \(Remixes\)](https://open.spotify.com/album/5yhNY3zM1Vx1oaL3GYTWIZ) | 3:38 | 2022-11-22 |  |
 | [Don't Look Down](https://open.spotify.com/track/2pt8dSblTOCi6R969U1kTv) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Leslie Powell](https://open.spotify.com/artist/67tylszKgAZkKeJ0hCMyjU) | [Pieces](https://open.spotify.com/album/41zOUkivBUd5X0KRWPO3CB) | 3:13 | 2022-01-14 | 2022-07-29 |
 | [DON'T LOOK DOWN \(feat\. Lizzy Land\)](https://open.spotify.com/track/5rIpzFDp0sYDCQytYDG96W) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [DON'T LOOK DOWN \(feat\. Lizzy Land\)](https://open.spotify.com/album/7m8fnIJ9yEu4ose0FQUR3N) | 3:16 | 2023-01-30 | 2023-02-22 |
@@ -1086,6 +1087,7 @@
 | [we r who we r \(glitter on my eyes\)](https://open.spotify.com/track/3hPlTosFqmAbiagWiUXXMz) | [pk](https://open.spotify.com/artist/2sdEBoxNYMB610EyPA0CcS) | [we r who we r \(glitter on my eyes\)](https://open.spotify.com/album/1f8xq5C1WDAbmKVAlZCQnj) | 3:31 | 2024-08-13 |  |
 | [We Rise](https://open.spotify.com/track/7uSZPbd8DxdkmSauCKnITY) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [We Rise](https://open.spotify.com/album/1fgSS7d1R3fin79TUkhuxW) | 4:26 | 2022-11-22 |  |
 | [Whale Song](https://open.spotify.com/track/0l7ndsnez9CFBqHd24BIdD) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Awakening](https://open.spotify.com/album/6gMYX0rJ9tdR1B53cj2wPT) | 3:24 | 2022-08-12 | 2022-11-24 |
+| [What It Feels Like](https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [What It Feels Like](https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79) | 2:18 | 2026-02-12 |  |
 | [what's updog](https://open.spotify.com/track/4KJLhBVCplZF9RgqiuSexy) | [updog](https://open.spotify.com/artist/1s5ZfyjywLsAr7PY4pmldn) | [what's updog](https://open.spotify.com/album/1VhyIQc25vgbKGCX9WHvmd) | 3:01 | 2022-01-22 | 2022-02-17 |
 | [When I'm Gone](https://open.spotify.com/track/0qPZo4jWPVUuzt4OY0YiHH) | [K Theory](https://open.spotify.com/artist/4N4XqUMMv5KXtLvCBYEIOt), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [The Blueprint](https://open.spotify.com/album/11vbM8Rflk8ZqMRJDrr8VZ) | 2:52 | 2022-09-22 | 2023-02-22 |
 | [When I'm Gone](https://open.spotify.com/track/7x9wHXfhDr63mFJJC0efxw) | [NO\-VA](https://open.spotify.com/artist/2xHpcZJHhiVAvhoHa1ANrI), [UNDY](https://open.spotify.com/artist/3WblVrC43yUgW8cVFeVEuQ) | [When I'm Gone](https://open.spotify.com/album/1Y9OYsH0h1h0tw5fHoVqSf) | 3:24 | 2022-08-12 | 2022-09-10 |

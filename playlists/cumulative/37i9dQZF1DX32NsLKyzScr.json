@@ -12567,6 +12567,24 @@
     },
     {
       "album": {
+        "name": "In Every Life",
+        "url": "https://open.spotify.com/album/60lgL9FkLYX2qHC6WQWTJq"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204312,
+      "name": "In Every Life",
+      "url": "https://open.spotify.com/track/4FyCcBkN2pVvw0ZZZV2rjY"
+    },
+    {
+      "album": {
         "name": "In Love With You (Radio Edit)",
         "url": "https://open.spotify.com/album/6uKD5yITNbZRNfix9NTcbE"
       },
@@ -26660,7 +26678,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 184620,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/0Ec7CMUXnfpSCZsJL26lhS"

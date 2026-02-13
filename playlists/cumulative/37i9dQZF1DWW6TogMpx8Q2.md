@@ -2,9 +2,9 @@
 
 ### [CantoVision](https://open.spotify.com/playlist/37i9dQZF1DWW6TogMpx8Q2)
 
-> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Terence Lam
+> Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Jason Chan
 
-140 songs - 8 hr 52 min
+141 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [我所看見的未來](https://open.spotify.com/track/7H4kKWF9aM6qm3puVzcwy6) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [我所看見的未來](https://open.spotify.com/album/5KyjhnUaXk2qzoFUqT0niK) | 4:07 | 2025-08-13 |  |
 | [拜託](https://open.spotify.com/track/1wNJcZPwOanXp5YLU8ivC9) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [拜託](https://open.spotify.com/album/3gVFE0wdEnrwgD4fZi6lWu) | 3:55 | 2024-08-13 |  |
 | [掛念你 你好嗎](https://open.spotify.com/track/5JzEFdWA7vqNdWU4B0FUdJ) | [KING 吳崇銘](https://open.spotify.com/artist/2znlSYU1ncZS9S3yTGx7Qo) | [掛念你 你好嗎](https://open.spotify.com/album/6kvHg6nbWc2PpFv6V6sn7E) | 4:01 | 2025-08-13 |  |
+| [旁若無人](https://open.spotify.com/track/5JVFXmewwca6re1sYNNfp2) | [Jason Chan](https://open.spotify.com/artist/1IDuSpntFl2Mutofvrrutc) | [旁若無人](https://open.spotify.com/album/0ZvZ1txiy8kOuNihiJBSxe) | 4:01 | 2026-02-12 |  |
 | [春日部](https://open.spotify.com/track/2UsLlSoOjzmEvp0EygT9ss) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [春日部](https://open.spotify.com/album/0QCp9c4Zi2ZpssCe1tRhm5) | 3:02 | 2025-08-13 |  |
 | [時候不早](https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [時候不早](https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4) | 3:40 | 2022-07-07 | 2025-08-14 |
 | [時辰未到](https://open.spotify.com/track/1nDmW1RYXrQmaM7JXcWAXG) | [Pakho Chau](https://open.spotify.com/artist/38t0Qk7AJg7YdrXmOC6TH1) | [時辰未到](https://open.spotify.com/album/5UqmcsRhJIr8uJzS03WDAj) | 4:28 | 2025-09-25 |  |

@@ -4,7 +4,7 @@
 
 > Latinoamérica baila al ritmo de Eladio Carrion.
 
-1,359 songs - 2 day 22 hr 31 min
+1,360 songs - 2 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,7 +775,7 @@
 | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG) | [Elio Leiros](https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW) | 3:14 | 2024-02-02 | 2024-08-03 |
 | [Mi Plan B](https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0) | [Freddy Leyva](https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Mi Plan B](https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9) | 3:17 | 2022-05-27 | 2022-06-09 |
 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2024-12-06 |  |
-| [Mi reina](https://open.spotify.com/track/5n2Y9htZdVMHg8Xvkkjd28) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Santo Domingo](https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0) | 3:17 | 2025-11-26 |  |
+| [Mi reina](https://open.spotify.com/track/5n2Y9htZdVMHg8Xvkkjd28) | [mhtresuno](https://open.spotify.com/artist/1S1AhqtlhBuOTsEaM1kAOQ) | [Santo Domingo](https://open.spotify.com/album/3reJXxrPWQJ1riq8df76g0) | 3:17 | 2025-11-26 | 2026-02-13 |
 | [Mi Shorty](https://open.spotify.com/track/44Rn60e3tDPDAYARpHFoVN) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Mi Shorty](https://open.spotify.com/album/7CATraPa1pNEdL9hQVPodQ) | 3:06 | 2023-02-17 | 2023-04-09 |
 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 | 2023-02-10 | 2023-04-20 |
 | [Miau \(feat\. Uzielito Mix\)](https://open.spotify.com/track/0spIfr7PKo381CocT4XnYN) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Miau \(feat\. Uzielito Mix\)](https://open.spotify.com/album/0mBQmMKmet3H16WQDbGIE0) | 3:12 | 2025-02-21 | 2025-05-17 |
@@ -921,6 +921,7 @@
 | [OTRO ROUND](https://open.spotify.com/track/28SuPULQaeBPA7MEcHG1ns) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:14 | 2023-11-24 | 2024-06-08 |
 | [OTROS LUGARES](https://open.spotify.com/track/2UmxXelTCIFuaUF8TGuaJj) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [UGH / OTROS LUGARES](https://open.spotify.com/album/0XhIxz89H75DGG7ku4T1FU) | 3:21 | 2024-12-06 | 2025-06-07 |
 | [OVERTHINKING](https://open.spotify.com/track/0KyDHcSdBtnbOlnfGbGvj1) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Álvaro Díaz](https://open.spotify.com/artist/0cn182v9T2NPfhnpKnOYq9) | [PARA TODAS LAS MAMACITAS](https://open.spotify.com/album/3vybLae46btPWds1OXSHTK) | 2:35 | 2024-06-28 | 2025-03-01 |
+| [Ozono](https://open.spotify.com/track/4acvrfbXrDPFQNNDnFZnpC) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [maikol el insoportable](https://open.spotify.com/artist/3VM367sQBq9n6bsyu5OWQr) | [Ozono](https://open.spotify.com/album/0Yh9K0Fo5hLl92tEmP0g7y) | 4:04 | 2026-02-13 |  |
 | [PA KCD](https://open.spotify.com/track/0moikgbCGxG2dsWorOpbo1) | [Ximena Nazor](https://open.spotify.com/artist/46mEOjpSXIdTaxVUdB1IMk), [LLOVET](https://open.spotify.com/artist/5TvOsMgascOJC6WCuM4ymj) | [PA KCD](https://open.spotify.com/album/5RmUh11v7RB6nQ7Uj7EMF2) | 2:16 | 2025-12-05 | 2026-01-17 |
 | [Pa La Pared](https://open.spotify.com/track/4adPgo19PueMLIF65DLgVE) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Pa La Pared](https://open.spotify.com/album/7qxbeqkRWr5RgjQTO87k4I) | 4:17 | 2022-01-07 | 2022-05-28 |
 | [Pa Que Guaye](https://open.spotify.com/track/3eS9dAZWceGcFJutyCfuwm) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Pa Que Guaye](https://open.spotify.com/album/0pMY812uIJr7yn51lcX5K6) | 2:48 | 2022-01-07 | 2022-04-09 |

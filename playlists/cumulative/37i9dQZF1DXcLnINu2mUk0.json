@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Jimmy P",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Black Spygo, Deezy",
   "name": "Seda",
   "tracks": [
     {
@@ -655,6 +655,32 @@
     },
     {
       "album": {
+        "name": "Aguarela",
+        "url": "https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "Teetwo",
+          "url": "https://open.spotify.com/artist/5VJa8cNehs0vBfqAEd92ar"
+        },
+        {
+          "name": "TeniTeach",
+          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196912,
+      "name": "Aguarela",
+      "url": "https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S"
+    },
+    {
+      "album": {
         "name": "AHORA",
         "url": "https://open.spotify.com/album/3rslRwi4PXo3aamFuHgaa2"
       },
@@ -746,7 +772,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 138979,
       "name": "Alta Cultura - Babygirl",
       "url": "https://open.spotify.com/track/0r59zpiDDbZk8PEdIyGqBQ"
@@ -6125,6 +6151,28 @@
     },
     {
       "album": {
+        "name": "Flexin On U",
+        "url": "https://open.spotify.com/album/483ljN85NtrrdrvsNSXF8u"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "Tatiana Duarte",
+          "url": "https://open.spotify.com/artist/78o0thKbUQAtuBKIy9FwdT"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271500,
+      "name": "Flexin On U",
+      "url": "https://open.spotify.com/track/21WFD8glO3k4hYmOiprEFF"
+    },
+    {
+      "album": {
         "name": "Heartbreak & Other Stories",
         "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
       },
@@ -8818,6 +8866,32 @@
       "duration_ms": 234000,
       "name": "MARIPOSA",
       "url": "https://open.spotify.com/track/2MWPhFv5k2Xjqt6Qea94nG"
+    },
+    {
+      "album": {
+        "name": "Marital",
+        "url": "https://open.spotify.com/album/1TyQdzqFpznNGcx8nvSRf9"
+      },
+      "artists": [
+        {
+          "name": "Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "Deezy",
+          "url": "https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN"
+        },
+        {
+          "name": "Black Vision",
+          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166357,
+      "name": "Marital",
+      "url": "https://open.spotify.com/track/74ZgDex0thEt3VIxlnkpL9"
     },
     {
       "album": {
@@ -11521,6 +11595,24 @@
     },
     {
       "album": {
+        "name": "Perto",
+        "url": "https://open.spotify.com/album/1kBsaFJ5AdVxhw4riTq4C0"
+      },
+      "artists": [
+        {
+          "name": "Keven Santos",
+          "url": "https://open.spotify.com/artist/1Tz3pfjgndAnZLV2Wqtxc4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Perto",
+      "url": "https://open.spotify.com/track/5ZUmKYx06j9nfAFrQzLh7h"
+    },
+    {
+      "album": {
         "name": "PESO DA COROA",
         "url": "https://open.spotify.com/album/61kK3qogodK2Wlo2Q6i9t7"
       },
@@ -13500,7 +13592,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 138000,
       "name": "SEM CARTA",
       "url": "https://open.spotify.com/track/2JMbseaVSNUJEEqZ91Xz7d"
@@ -13558,7 +13650,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 155050,
       "name": "Sem Ti",
       "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
@@ -14052,7 +14144,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 203478,
       "name": "Sodade",
       "url": "https://open.spotify.com/track/1TorEzwo0MIK815pZdyba2"

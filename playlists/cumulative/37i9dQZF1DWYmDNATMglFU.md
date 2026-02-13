@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> new gen alt ⛓ ft\. ugly ozo
+> new gen alt ⛓ ft\. chalk
 
-1,074 songs - 2 day 6 hr 10 min
+1,077 songs - 2 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Flowers & Dirt](https://open.spotify.com/track/0mnUcuIMHiKQyHkkNNeKRr) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Flowers & Dirt](https://open.spotify.com/album/6dwzFHYwgGP9vL9Aod6U8P) | 2:07 | 2025-06-18 | 2026-02-07 |
 | [fmk \(with blackbear\) \- messier](https://open.spotify.com/track/5CO8EbwcxnvA28O7NCDKfJ) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [fmk \(with blackbear\) \[messier\]](https://open.spotify.com/album/6awuYwlqz9cN5h3yCOffbg) | 3:06 | 2022-10-31 | 2023-03-25 |
 | [For The Weekend](https://open.spotify.com/track/2q7DmMeGKPyEKqR8RvRvu8) | [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [For The Weekend](https://open.spotify.com/album/3p9w4qM9HmdRiSQ9lEt5fl) | 2:51 | 2024-11-15 | 2025-08-09 |
+| [for your love](https://open.spotify.com/track/6YiySDiEu0qdt9k75XD0qZ) | [Cruz Beckham](https://open.spotify.com/artist/3ZPOiGqgEbfNlKFFKxXVsD) | [for your love](https://open.spotify.com/album/5DXRZIcbELIWkOjRQB2qM3) | 3:05 | 2026-02-13 |  |
 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 | 2021-12-31 | 2022-01-08 |
 | [Four Leaf Clover](https://open.spotify.com/track/5XQQX4THbdT7w4kZytcF81) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Four Leaf Clover](https://open.spotify.com/album/6TFpKOHlI6bl1gDeoCRHo2) | 3:17 | 2024-06-20 | 2024-07-12 |
 | [Freaks & Geeks](https://open.spotify.com/track/3ZGQI9j7Sal0lMXeNlr0Da) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freaks & Geeks](https://open.spotify.com/album/6cn8UgYmHfsNr6tCQM3xud) | 2:20 | 2022-02-04 | 2022-07-22 |
@@ -743,6 +744,7 @@
 | [Pink Paper](https://open.spotify.com/track/0fQlpBKc3AJPmoudVpmDje) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:13 | 2022-04-28 | 2022-08-05 |
 | [pity](https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [pity](https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk) | 2:59 | 2023-11-17 | 2024-05-10 |
 | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/track/7A9JSq4XOYn9bhSFcGJxto) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [pity party \(feat\. Royal & The Serpent\)](https://open.spotify.com/album/6MGaZYL2sKeycUQhWepQms) | 2:41 | 2022-01-14 | 2022-04-01 |
+| [Placebo](https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14) | [VILLANELLE](https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF) | [Placebo](https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq) | 4:50 | 2026-02-13 |  |
 | [Plant Pot Song](https://open.spotify.com/track/5GYlldi6Qa1Px83vRKCuDj) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Plant Pot Song](https://open.spotify.com/album/57Xwk8VAERpxv7fYtXoRT1) | 3:09 | 2025-02-07 | 2025-09-19 |
 | [Plucked](https://open.spotify.com/track/7bkTXTJgFgGvAeLw4Tateh) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Plucked](https://open.spotify.com/album/2DIAuUtBOj0fmoxbLUMHKZ) | 3:11 | 2024-03-15 | 2024-09-27 |
 | [politix](https://open.spotify.com/track/4hZYlamBpLerJCoFjJ6BBq) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [politix](https://open.spotify.com/album/3siWh7rJo3ncwWHq8SjnFq) | 2:45 | 2025-06-18 | 2025-09-12 |
@@ -980,6 +982,7 @@
 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 | 2023-04-13 | 2023-08-04 |
 | [Toaster For A Swim](https://open.spotify.com/track/3o5fFjZNcwZnKwF8deFHL0) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [\(e\)motion sickness](https://open.spotify.com/album/19QF8Q16dquh9yICxiJKEf) | 3:14 | 2022-08-27 | 2023-04-21 |
 | [Today](https://open.spotify.com/track/5OiIkkbuzSkkJUDCq9EaWP) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt), [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [Today](https://open.spotify.com/album/75tCOwMwjcKr9j9SMY4qCf) | 2:00 | 2023-11-17 | 2024-03-01 |
+| [Tongue](https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Tongue](https://open.spotify.com/album/577XDhAIhJ0K2KCZDJTNUf) | 2:28 | 2026-02-13 |  |
 | [Tonight \(I’m Afraid\)](https://open.spotify.com/track/1D86Oiw34wxj4HTDhFvQc8) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Tonight \(I'm Afraid\)](https://open.spotify.com/album/5N7z0KErgUkigQXvafcXw4) | 3:25 | 2025-03-19 | 2025-07-18 |
 | [Too Bad](https://open.spotify.com/track/4kyfZcirG407sqrF34ZKxR) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Too Bad](https://open.spotify.com/album/4v8XPmMKSBUwjz4t7C8Ecn) | 2:13 | 2024-03-15 | 2024-08-16 |
 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 | 2023-04-13 | 2024-03-09 |

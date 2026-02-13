@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-181 songs - 10 hr 23 min
+182 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Joking](https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Joking](https://open.spotify.com/album/1lSICe6rIoZ3OOf4HGTfZU) | 2:38 | 2025-07-16 |  |
 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 | 2025-09-08 |  |
 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 | 2025-09-20 |  |
+| [Just One Night On The Weekend](https://open.spotify.com/track/3aVF4W9OoCUDWOjdM6aNpX) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Just One Night On The Weekend](https://open.spotify.com/album/6jB2dZ2LyavwIStYOJAHWT) | 3:02 | 2026-02-12 |  |
 | [Kids](https://open.spotify.com/track/5ydndwOte7G6LQKbP8Suvb) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Kids](https://open.spotify.com/album/06oxOFFYnj4Pv5pLhIklm8) | 3:05 | 2025-07-16 | 2025-09-19 |
 | [Leave It Up To You](https://open.spotify.com/track/6L9mT3g89Nl8JVWMy5DAPf) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [Leave It Up To You](https://open.spotify.com/album/1CE36RRFj8UJxH9B0KSTnH) | 2:48 | 2025-07-16 |  |
 | [Less Is More](https://open.spotify.com/track/6xDHpo8drfNDqIgKfEwyx9) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Echo](https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB) | 3:56 | 2025-08-08 |  |
@@ -146,7 +147,7 @@
 | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/track/2QV5C0JxWFvZsjuUevlVLe) | [Mazey Haze](https://open.spotify.com/artist/4SGpTxsJIAuKXibC2ql1aL) | [Sometimes I Feel Great, Sometimes I Feel Useless](https://open.spotify.com/album/7D7F63TERCvVdQeaCUZ8yf) | 3:49 | 2025-07-16 |  |
 | [Sorry](https://open.spotify.com/track/02KWhwsDjIX8ZXgBgK9kOP) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [LOVED](https://open.spotify.com/album/1rSbjr5U9J9rQ9sE7RxHFl) | 3:17 | 2025-10-02 |  |
 | [Starlight](https://open.spotify.com/track/6wq0YV1Mv8ybQi8FyZcHN7) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Starlight](https://open.spotify.com/album/5dsUxFUcEdxgmIyaxYo0Ax) | 4:02 | 2025-07-16 | 2025-09-19 |
-| [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2025-07-16 |  |
+| [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2025-07-16 | 2026-02-13 |
 | [Sun and Moon](https://open.spotify.com/track/0q5EdEDkLB7il1NnGlshso) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:54 | 2026-02-03 |  |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-10-09 |  |
 | [Sweet Serotonin](https://open.spotify.com/track/5pzCNVV0gcW92gF73DmhOa) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Sweet Serotonin](https://open.spotify.com/album/1aPQaSLNNPbMOJ6ur6hHgK) | 3:01 | 2025-07-16 |  |

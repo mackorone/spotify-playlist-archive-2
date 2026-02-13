@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124338,
+  "num_followers": 124334,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVHcXuecpqzHTji17DadzF8gKgy8G3",
+  "snapshot_id": "AAAVH0LZErMYj+2DpZdYuKhkw4hLmV90",
   "tracks": [
+    {
+      "added_at": "2026-02-12 16:02:31",
+      "album": {
+        "name": "Best of Me",
+        "url": "https://open.spotify.com/album/09ynBz2UFJqcvCYCevXD4e"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "duration_ms": 253024,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/5elOQoKVxdk7B76s4rEwNM"
+    },
     {
       "added_at": "2026-02-11 17:54:38",
       "album": {
@@ -1091,26 +1115,6 @@
       "duration_ms": 161600,
       "name": "BELIEVE",
       "url": "https://open.spotify.com/track/2HGWEdmzqykDOKbAxRd1JE"
-    },
-    {
-      "added_at": "2025-11-12 15:37:14",
-      "album": {
-        "name": "Snowglobe",
-        "url": "https://open.spotify.com/album/3olphOfuxOVH6cV9IEIUfA"
-      },
-      "artists": [
-        {
-          "name": "Mango",
-          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
-        },
-        {
-          "name": "Cloudcage",
-          "url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Snowglobe",
-      "url": "https://open.spotify.com/track/6UJJQojiWeKnlKJqvMZVPr"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

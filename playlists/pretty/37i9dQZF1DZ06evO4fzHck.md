@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,057 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,117 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 11 | [A Letter To Elise](https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 5:12 |
 | 12 | [A Night Like This](https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:16 |
 | 13 | [Pictures Of You \- Remastered](https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 7:28 |
-| 14 | [Why Can't I Be You? \- Remastered 2006](https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me Kiss Me Kiss Me \(Remastered 2006\)](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:13 |
+| 14 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 |
 | 15 | [High](https://open.spotify.com/track/1G5cCZhEI67suiGvSWAiZz) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:32 |
-| 16 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 |
+| 16 | [Why Can't I Be You? \- Remastered 2006](https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me Kiss Me Kiss Me \(Remastered 2006\)](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:13 |
 | 17 | [Fascination Street \- Remastered](https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:15 |
 | 18 | [A Fragile Thing](https://open.spotify.com/track/4i5a73hGNtTXXmxEUW2esC) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 4:43 |
 | 19 | [Let's Go To Bed](https://open.spotify.com/track/7yZvWX3xZ50oh555vREpin) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:34 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 26 | [All I Ever Am](https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 5:21 |
 | 27 | [Primary](https://open.spotify.com/track/4fnx6Wman02ryvAOqKm6iI) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith](https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo) | 3:39 |
 | 28 | [10:15 Saturday Night](https://open.spotify.com/track/2CdxmZfz23dIjK7iuxvvMO) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:42 |
-| 29 | [The Walk](https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:29 |
+| 29 | [M](https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56) | 3:03 |
 | 30 | [And Nothing Is Forever](https://open.spotify.com/track/4NFptVazMTsSJTYvKENHJl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 6:53 |
-| 31 | [M](https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56) | 3:03 |
+| 31 | [The Walk](https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:29 |
 | 32 | [Fire In Cairo](https://open.spotify.com/track/2ZZjAZLVSnHJnSNFN5AUCd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:23 |
 | 33 | [Cut Here](https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap) | 4:10 |
 | 34 | [I Can Never Say Goodbye](https://open.spotify.com/track/1gXS1LBxTyfZ7Lf380CR9E) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 6:03 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 43 | [Charlotte Sometimes \- Single Version](https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith \(Deluxe Edition\)](https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T) | 4:13 |
 | 44 | [Last Dance \- Remastered](https://open.spotify.com/track/5wogpGnbWL89uAlRviQWJL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 4:43 |
 | 45 | [The End Of The World](https://open.spotify.com/track/0FMAfHeqwXjJPy0mcCm6ur) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Cure](https://open.spotify.com/album/54kHivms9VVDh6nQrWryv7) | 3:43 |
-| 46 | [Plastic Passion \- 79 Mix / 2026 Remaster](https://open.spotify.com/track/3mY0emITFckDU59zoXOZx2) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Boys Don’t Cry \(86 Mix\)](https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8) | 2:14 |
-| 47 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 |
+| 46 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 |
+| 47 | [Plastic Passion \- 79 Mix / 2026 Remaster](https://open.spotify.com/track/3mY0emITFckDU59zoXOZx2) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Boys Don’t Cry \(86 Mix\)](https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8) | 2:14 |
 | 48 | [Three Imaginary Boys](https://open.spotify.com/track/2rgYH8S363FAP3vunkUHnB) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:15 |
 | 49 | [Catch \- Remastered 2006](https://open.spotify.com/track/3sNALJvZznQrafpRvniDCw) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me Kiss Me Kiss Me \(Remastered 2006\)](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 2:43 |
-| 50 | [Do The Hansa \- 86 Mix / 2026 Remaster](https://open.spotify.com/track/3jTgYv61FVyyR6gGOmJxFK) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Boys Don’t Cry \(86 Mix\)](https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8) | 2:39 |
+| 50 | [Doing The Unstuck](https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:21 |
 
-Snapshot ID: `aYp1AAAAAABCvECQcsQ2ejy27JzPrvLR`
+Snapshot ID: `aYvGgAAAAADBjB91qiQHFzQlAkScoc25`

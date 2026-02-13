@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,269 songs - 3 day 5 hr 49 min
+1,270 songs - 3 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -605,6 +605,7 @@
 | [Lean Beef Patty](https://open.spotify.com/track/3FsqOTQT3d7c296eStnEnl) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 1:47 | 2023-09-11 |  |
 | [LEARNING TO SWIM](https://open.spotify.com/track/0tKZl6SbC0qLaMQWhBILxg) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper \(The Extended Cut\)](https://open.spotify.com/album/3ZfqSEOlHerP9UZJfu4tSD) | 4:50 | 2026-02-03 |  |
 | [Leave Before The Lights Come On](https://open.spotify.com/track/4Du0BRUJvKybzxcRplp7HF) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw) | 3:53 | 2021-03-23 |  |
+| [Legacy \(with PJ\)](https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 3:55 | 2026-02-12 |  |
 | [Legend](https://open.spotify.com/track/1CDVadnneswMxi6gBqJTtC) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 2:52 | 2024-05-31 |  |
 | [Legit](https://open.spotify.com/track/0N7KYoFclzCaF5COp7BIlH) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 3:22 | 2022-11-15 |  |
 | [Lemon](https://open.spotify.com/track/2anSEDAqaZ8CTi9YNGV3xS) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lemon](https://open.spotify.com/album/4UjGNWCVeNpTjYNCtHNx96) | 3:50 | 2024-06-22 |  |

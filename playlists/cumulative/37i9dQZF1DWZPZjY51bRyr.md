@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZPZjY51bRyr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZPZjY51bRyr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZPZjY51bRyr)
 
-### [Wellness \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWZPZjY51bRyr)
+### [Wellness](https://open.spotify.com/playlist/37i9dQZF1DWZPZjY51bRyr)
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 

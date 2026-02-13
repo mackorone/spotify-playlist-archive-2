@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 573074,
+  "num_followers": 573340,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243275,
+      "name": "25/8",
+      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Amigos y Enemigos (Remix)",
         "url": "https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 295304,
       "name": "Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix",
       "url": "https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243275,
-      "name": "25/8",
-      "url": "https://open.spotify.com/track/4NqQaovM14WR2hNPMFxgjb"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 112273,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Sensualidad",
         "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 297485,
       "name": "Sensualidad",
       "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/15Pp0263atXizZbrwTEWjb"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 112273,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3E4ZzO4ySupnYypDPXcc3D"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Dime Si Te Acuerdas",
+        "url": "https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Dime Si Te Acuerdas",
+      "url": "https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "C\u00f3mo Le Digo",
         "url": "https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 226100,
       "name": "C\u00f3mo Le Digo",
       "url": "https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Dime Si Te Acuerdas",
-        "url": "https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Dime Si Te Acuerdas",
-      "url": "https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Coronamos",
-        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
-      },
-      "artists": [
-        {
-          "name": "Lito Kirino",
-          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "Coronamos",
-      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Tacos Altos",
         "url": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 306946,
       "name": "Tacos Altos",
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Coronamos",
+        "url": "https://open.spotify.com/album/43w0kG30A0HlctbjuW4ryR"
+      },
+      "artists": [
+        {
+          "name": "Lito Kirino",
+          "url": "https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Coronamos",
+      "url": "https://open.spotify.com/track/6H1XQeSmnfImLOcdFn5x43"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Flexin'",
-        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "Flexin'",
-      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "T\u00fa No Amas",
         "url": "https://open.spotify.com/album/3eFEGgySyFZSq66Mq43Jwh"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 273321,
       "name": "T\u00fa No Amas",
       "url": "https://open.spotify.com/track/5J64qSSq0VZuh0CiI9o9Nq"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Flexin'",
+        "url": "https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "Flexin'",
+      "url": "https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "Dubai",
-        "url": "https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 157732,
-      "name": "Dubai",
-      "url": "https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "La Mia (Remix)",
         "url": "https://open.spotify.com/album/5KFoHD3Tby2JyPRZSCVZiC"
       },
@@ -1879,6 +1863,22 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Dubai",
+        "url": "https://open.spotify.com/album/1Dpa94iJ05Y6F6eDL4lslm"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 157732,
+      "name": "Dubai",
+      "url": "https://open.spotify.com/track/0iZO13BcjGGBuJzQ8Fj9R8"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw"
       },
@@ -1895,6 +1895,38 @@
       "duration_ms": 242418,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "Krippy Kush (feat. 21 Savage & Rvssian) [Remix]",
+        "url": "https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 236965,
+      "name": "Krippy Kush (feat. 21 Savage & Rvssian) - Remix",
+      "url": "https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -1931,38 +1963,6 @@
       "duration_ms": 133718,
       "name": "Si Te Lastim\u00e9",
       "url": "https://open.spotify.com/track/1NKwmnPXpm2WaZbiPBcfYY"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Krippy Kush (feat. 21 Savage & Rvssian) [Remix]",
-        "url": "https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 236965,
-      "name": "Krippy Kush (feat. 21 Savage & Rvssian) - Remix",
-      "url": "https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX"
     },
     {
       "added_at": "2024-03-08 16:14:30",

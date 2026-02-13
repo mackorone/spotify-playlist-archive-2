@@ -4,7 +4,7 @@
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-128 songs - 7 hr 52 min
+130 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bem Longe do Fim](https://open.spotify.com/track/1AGA8E3UOc4M2uD0Fixc81) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/6AzwnRF53cPihnLKlame5v) | 3:33 | 2025-11-16 |  |
 | [Bem Longe do Fim](https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 3:33 | 2024-03-16 | 2025-11-16 |
 | [Black Loro](https://open.spotify.com/track/4oXmqXtCQhbK77XGg4c8fx) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Black Loro](https://open.spotify.com/album/6be6POk7ENDnzbgBFlTfYh) | 2:45 | 2024-07-06 | 2024-12-18 |
+| [Boxokê](https://open.spotify.com/track/2c9w7HlmwbZzSSRNoMO5ba) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [ATR](https://open.spotify.com/artist/4l4EjHjmOJyDgzN9Vqukn0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Remonta](https://open.spotify.com/album/4N6Ps2F2pA3yHKRTwLpwJn) | 3:16 | 2026-02-13 |  |
 | [BoxOkê](https://open.spotify.com/track/0G7AtVdCLQAGrGjRbLvCeK) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [ATR](https://open.spotify.com/artist/4l4EjHjmOJyDgzN9Vqukn0), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 3:17 | 2023-09-18 | 2025-12-15 |
 | [Brecha](https://open.spotify.com/track/0lWj52Gewf7kwCqZS5kEl2) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 3:01 | 2024-09-12 | 2025-11-20 |
 | [Brecha](https://open.spotify.com/track/3nixNBTnBcJQ2OupAaowCc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Topo da Minha Cabeça](https://open.spotify.com/album/0VotJU4WlPWWZRsb1Vmo3C) | 3:01 | 2025-11-20 |  |
@@ -128,6 +129,7 @@
 | [Topo da Minha Cabeça](https://open.spotify.com/track/6lAQU9g2xFvFYpQjogi4RL) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 4:12 | 2024-09-11 | 2025-11-20 |
 | [Try](https://open.spotify.com/track/0sXJb5D2uFWMfmc0aRCwaX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/7qpdsnBS3Kfbat72sb8Gab) | 3:33 | 2025-12-17 |  |
 | [Try](https://open.spotify.com/track/2xDxwmGw4q5LRo8duRC0z5) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 3:33 | 2024-01-21 | 2025-11-21 |
+| [Tua](https://open.spotify.com/track/4kzMcKnWW2jLcb8vpLg1y7) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Remonta](https://open.spotify.com/album/4N6Ps2F2pA3yHKRTwLpwJn) | 5:50 | 2026-02-13 |  |
 | [Tua](https://open.spotify.com/track/1oke7Jkp9afNQzTUD5iHZZ) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 5:50 | 2023-09-18 | 2026-01-25 |
 | [Tão Crazy](https://open.spotify.com/track/0Bl9rTGsGKSQq1L601N9MX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 4:09 | 2024-09-11 | 2025-11-21 |
 | [Tão Crazy](https://open.spotify.com/track/1H7lePmWCBzz9pXoYDMiZc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4) | [Topo da Minha Cabeça](https://open.spotify.com/album/0VotJU4WlPWWZRsb1Vmo3C) | 4:09 | 2025-11-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Dirty Blond
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,087 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,093 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 16 | [Safe Now](https://open.spotify.com/track/6EMdPtnLCYSsWBX0s8K0if) | [Juno James](https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE) | [Safe Now](https://open.spotify.com/album/4HCKn10cZMkTZ6wW1k6ULD) | 2:48 |
 | 17 | [never had a man DEMO](https://open.spotify.com/track/0DbfJpRovomxe6LvDbEE6Z) | [WESTGIRL](https://open.spotify.com/artist/0OPkfhvOowTQLXJ87vgIdD) | [never had a man DEMO](https://open.spotify.com/album/1YISTtmumiQlwIBPf2XICB) | 2:49 |
 | 18 | [I don't recognise you anymore](https://open.spotify.com/track/0Iy039DDtbSrPwLXO8rsru) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS) | [I don't recognise you anymore](https://open.spotify.com/album/5WutVmK4nqhhoE3Gjs47qO) | 3:12 |
-| 19 | [selene](https://open.spotify.com/track/0wqhPg9z6yferpo62lFzLg) | [junechi](https://open.spotify.com/artist/5cmUKmvvNOeTPMN524dqIJ) | [selene](https://open.spotify.com/album/2Htwz1s7KGPR3po0H6zddo) | 3:54 |
+| 19 | [selene](https://open.spotify.com/track/0wqhPg9z6yferpo62lFzLg) | [junechi](https://open.spotify.com/artist/5cmUKmvvNOeTPMN524dqIJ) | [selene](https://open.spotify.com/album/2Htwz1s7KGPR3po0H6zddo) | 3:52 |
 | 20 | [Marked Up](https://open.spotify.com/track/5IwRuwDHqwUEC1k60AATfy) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [Marked Up](https://open.spotify.com/album/1jD2FnIbaPmrwPdHWzTf33) | 2:53 |
 | 21 | [Headside In Da Skiez \(Babycham Supernova\)](https://open.spotify.com/track/4ol6wLKnSSiu7MpPhYvIrk) | [Kibo](https://open.spotify.com/artist/1htekGIYpgIzz9EDeufPwn) | [Headside In Da Skiez \(Babycham Supernova\)](https://open.spotify.com/album/7cvZTXuwZeTDPYKiNYSCmT) | 3:16 |
 | 22 | [COME AROUND](https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [COME AROUND](https://open.spotify.com/album/3fHfrgyopjNq8rUUPJKEcJ) | 2:45 |

@@ -7335,6 +7335,28 @@
     },
     {
       "album": {
+        "name": "Babe",
+        "url": "https://open.spotify.com/album/7Ku9iZqg9bEa1OV3VRelJY"
+      },
+      "artists": [
+        {
+          "name": "Prolifik Plsoo",
+          "url": "https://open.spotify.com/artist/3gdXgaIc6lIxOzpqpY1TJZ"
+        },
+        {
+          "name": "Mr.Wakobi",
+          "url": "https://open.spotify.com/artist/3YPSUF80Pv7R3ft9LROSrV"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193253,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/2fP2e3AQ3XZgJuJj8drSs0"
+    },
+    {
+      "album": {
         "name": "Baby Boo",
         "url": "https://open.spotify.com/album/4K2cmfMq8FprYE8i5CKAOx"
       },
@@ -23921,6 +23943,24 @@
     },
     {
       "album": {
+        "name": "Dirt Road to Downtown",
+        "url": "https://open.spotify.com/album/0WvAmoCRrzGXTJC2r1qToY"
+      },
+      "artists": [
+        {
+          "name": "Kyle Bunney",
+          "url": "https://open.spotify.com/artist/6AJIJDkkmXNrrEhKk7QOuC"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221199,
+      "name": "Dirt Road to Downtown",
+      "url": "https://open.spotify.com/track/4bf7r2C08fjhJXuYkzFOuN"
+    },
+    {
+      "album": {
         "name": "Dirty Blue",
         "url": "https://open.spotify.com/album/0jEJhpFsKA0ROSpu9WCEfY"
       },
@@ -25014,6 +25054,24 @@
       "duration_ms": 173856,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/5L2jBYCrHvxFLVVYq6CQEt"
+    },
+    {
+      "album": {
+        "name": "Don't Run Home",
+        "url": "https://open.spotify.com/album/6llRZH3mkRkg0fAHiUhoOg"
+      },
+      "artists": [
+        {
+          "name": "$cotty",
+          "url": "https://open.spotify.com/artist/5mOW3PxPVgrj3BBwZdSIY4"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177115,
+      "name": "Don't Run Home",
+      "url": "https://open.spotify.com/track/5GOQDfNmhVDeQUsRR9B8J0"
     },
     {
       "album": {
@@ -52761,6 +52819,24 @@
     },
     {
       "album": {
+        "name": "let go",
+        "url": "https://open.spotify.com/album/0b6FIktnaUOk1N0eOOajDA"
+      },
+      "artists": [
+        {
+          "name": "wigi!",
+          "url": "https://open.spotify.com/artist/56wyLJzjhBfN9IwX7fBKAU"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122172,
+      "name": "let go",
+      "url": "https://open.spotify.com/track/3tRg6Z0xjmB0IlV9ggAif8"
+    },
+    {
+      "album": {
         "name": "Let Go & Let God",
         "url": "https://open.spotify.com/album/4rjwtYIiDhxkRCSXRWFp3F"
       },
@@ -62119,6 +62195,24 @@
     },
     {
       "album": {
+        "name": "L\u00d8VE",
+        "url": "https://open.spotify.com/album/3ckArbcam3BpEr3P7e9PJZ"
+      },
+      "artists": [
+        {
+          "name": "Yachi Cj",
+          "url": "https://open.spotify.com/artist/3X20hnjwoJOiodc9LfTITJ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141922,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/433QmROnQp7IQMPF88wBjq"
+    },
+    {
+      "album": {
         "name": "PULSE",
         "url": "https://open.spotify.com/album/74aSmBDf6t5SlwJWoXLeC2"
       },
@@ -64903,6 +64997,24 @@
     },
     {
       "album": {
+        "name": "Ngiyanikela konke",
+        "url": "https://open.spotify.com/album/5Lr9UEozytrR2fkfyOe85f"
+      },
+      "artists": [
+        {
+          "name": "Dr. Deus",
+          "url": "https://open.spotify.com/artist/5Lp4nPhu0eRwXxiGqq4L8s"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301840,
+      "name": "Ngiyanikela konke",
+      "url": "https://open.spotify.com/track/64i5OtK2X4DHZQWTDiWHOW"
+    },
+    {
+      "album": {
         "name": "Nice & Easy",
         "url": "https://open.spotify.com/album/1zzrPzrLhJKoyp77hZxK1B"
       },
@@ -65454,7 +65566,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 186920,
       "name": "No King in no Castle",
       "url": "https://open.spotify.com/track/28KmAN5LFhU7pULUbQhJlv"
@@ -79118,7 +79230,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 197216,
       "name": "sad forever",
       "url": "https://open.spotify.com/track/2giOAvgiB3uJUwWYWwKu84"
@@ -93434,6 +93546,24 @@
       "duration_ms": 228017,
       "name": "The Postcard",
       "url": "https://open.spotify.com/track/17xCCjsAJxRy6k3AXOHiys"
+    },
+    {
+      "album": {
+        "name": "The Promised Land",
+        "url": "https://open.spotify.com/album/32v0FiZq4dKSRlW8DCTGhV"
+      },
+      "artists": [
+        {
+          "name": "Shiloh West",
+          "url": "https://open.spotify.com/artist/69dGyAIqgXw03hO6001hxn"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255654,
+      "name": "The Promised Land",
+      "url": "https://open.spotify.com/track/0gCTWPjLiFpaPTohBAUnOK"
     },
     {
       "album": {

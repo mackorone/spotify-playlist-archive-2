@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDafB3skWPN.md) - [plain]
 
 > Celebrate yourself with a fun pop & hip hop mix
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,013 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,011 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDafB3skWPN.md) - [plain]
 | 14 | [Right Round](https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [R.O.O.T.S\. \(Route of Overcoming the Struggle\)](https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5) | 3:24 |
 | 15 | [Sweet but Psycho](https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:07 |
 | 16 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
-| 17 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:58 |
-| 18 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
+| 17 | [I Like It](https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:13 |
+| 18 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:58 |
 | 19 | [Ric Flair Drip \(with Metro Boomin\)](https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:52 |
 | 20 | [Triumph](https://open.spotify.com/track/7lSTs6DLjCP2oqib43vyGB) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Triumph](https://open.spotify.com/album/6gnZgEs6IZaBrJWO8I6HSb) | 2:38 |
 | 21 | [679 \(feat\. Remy Boyz\)](https://open.spotify.com/track/5NQbUaeTEOGdD6hHcre0dZ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Remy Boyz](https://open.spotify.com/artist/2s0yxtiHiyGe6CY4mbDYFi) | [679 \(feat\. Remy Boyz\)](https://open.spotify.com/album/0TyDTzG2zt2tg0wONT9wSU) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: Qlas & Mula B",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: Langa & Bokke8",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -806,7 +806,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 150000,
       "name": "Before The Hype",
       "url": "https://open.spotify.com/track/6Xl8SV2MuJgXtytiJwX5Vz"
@@ -1400,10 +1400,32 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 193170,
       "name": "Dat Kan",
       "url": "https://open.spotify.com/track/1rRhoDlol0ySLqGYQeV7lh"
+    },
+    {
+      "album": {
+        "name": "Dawgs Out",
+        "url": "https://open.spotify.com/album/6eM5ZgA4P9K2lUYQriw3sj"
+      },
+      "artists": [
+        {
+          "name": "Rits",
+          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
+        },
+        {
+          "name": "Solid Circle",
+          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182432,
+      "name": "Dawgs Out",
+      "url": "https://open.spotify.com/track/0NgcDz7iEEkM2MUWeX9c5M"
     },
     {
       "album": {
@@ -1540,7 +1562,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 130700,
       "name": "Don Julio",
       "url": "https://open.spotify.com/track/50xOKdGM8g8aBZoF6eDFb1"
@@ -1570,6 +1592,24 @@
       "duration_ms": 229439,
       "name": "Doolhof",
       "url": "https://open.spotify.com/track/0ynjDe416FmCL2grDmj75r"
+    },
+    {
+      "album": {
+        "name": "Dromen Achterna",
+        "url": "https://open.spotify.com/album/5xEDclHO7NfsaCW4BqpgVz"
+      },
+      "artists": [
+        {
+          "name": "Mesy",
+          "url": "https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Dromen Achterna",
+      "url": "https://open.spotify.com/track/5pyzmmODTKxN3CAFnQ1lto"
     },
     {
       "album": {
@@ -1662,6 +1702,32 @@
       "duration_ms": 182362,
       "name": "Duracell",
       "url": "https://open.spotify.com/track/5gtLS2CnIhKvt1BDAOXVSq"
+    },
+    {
+      "album": {
+        "name": "Dure Geintje",
+        "url": "https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr"
+      },
+      "artists": [
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        },
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136802,
+      "name": "Dure Geintje",
+      "url": "https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz"
     },
     {
       "album": {
@@ -1976,7 +2042,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 101052,
       "name": "gaan",
       "url": "https://open.spotify.com/track/7cR4FKLz7tebhC0eMPSg9z"
@@ -2076,6 +2142,32 @@
       "duration_ms": 193071,
       "name": "Gedragscode",
       "url": "https://open.spotify.com/track/4GQQmYZCovPDy2wUoFSBDh"
+    },
+    {
+      "album": {
+        "name": "Geen Draken",
+        "url": "https://open.spotify.com/album/3YSjOZgkPeWNZUZRO3NkCG"
+      },
+      "artists": [
+        {
+          "name": "Figo Gang",
+          "url": "https://open.spotify.com/artist/7kpbKPdmy6jHnsfTHdZmU7"
+        },
+        {
+          "name": "BFLQuatro",
+          "url": "https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl"
+        },
+        {
+          "name": "Marrabeatsz",
+          "url": "https://open.spotify.com/artist/2W0Q6w2WizYVCoKQGMjlm5"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149589,
+      "name": "Geen Draken",
+      "url": "https://open.spotify.com/track/6kfeHDEdb9WZQ8XAks6m4X"
     },
     {
       "album": {
@@ -2442,7 +2534,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 492972,
       "name": "Helse Weg",
       "url": "https://open.spotify.com/track/13J4yy3fZ0lL4hrPFuZD2f"
@@ -2626,7 +2718,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 192635,
       "name": "Ik wil praten..",
       "url": "https://open.spotify.com/track/6XMGS64tneEJ1CdchExqUv"
@@ -2714,6 +2806,24 @@
       "duration_ms": 163753,
       "name": "JAAHAA",
       "url": "https://open.spotify.com/track/5BaBYz1YNroBj3V0v0oAb3"
+    },
+    {
+      "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/1qdcY1wcFgOSqfYzvMAu40"
+      },
+      "artists": [
+        {
+          "name": "Sepa",
+          "url": "https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Jackpot",
+      "url": "https://open.spotify.com/track/0bABHLkG5svlotIyVub6Kh"
     },
     {
       "album": {
@@ -3010,7 +3120,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 144149,
       "name": "KINKY",
       "url": "https://open.spotify.com/track/4h6OoG8vJtsARQ6RJRZFJy"
@@ -3629,6 +3739,24 @@
     },
     {
       "album": {
+        "name": "MAPOGO FREESTYLE",
+        "url": "https://open.spotify.com/album/0vxUaMQZucfuK6rx00MDno"
+      },
+      "artists": [
+        {
+          "name": "Drechter",
+          "url": "https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129075,
+      "name": "MAPOGO FREESTYLE",
+      "url": "https://open.spotify.com/track/1jv7jOSL8p2mbcp4U0ZsG4"
+    },
+    {
+      "album": {
         "name": "Marlboro",
         "url": "https://open.spotify.com/album/29kW2ScJ6Fr6AAC1rh2XWm"
       },
@@ -4127,6 +4255,24 @@
     },
     {
       "album": {
+        "name": "Niemand",
+        "url": "https://open.spotify.com/album/2JhnDm8AtD2OIHFaX2dcOa"
+      },
+      "artists": [
+        {
+          "name": "Flashy",
+          "url": "https://open.spotify.com/artist/5sXROBdCYLZ26gvHtpj4gd"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151985,
+      "name": "Niemand",
+      "url": "https://open.spotify.com/track/2R5pR5gFpXjvKUCVtXm1ui"
+    },
+    {
+      "album": {
         "name": "Niet Genoeg",
         "url": "https://open.spotify.com/album/1ZEzfbl3tUydOdnNdcPFdv"
       },
@@ -4383,6 +4529,32 @@
     },
     {
       "album": {
+        "name": "Op Een Go",
+        "url": "https://open.spotify.com/album/6cxZ9ynUSmr9HxXRMPrjvH"
+      },
+      "artists": [
+        {
+          "name": "Langa",
+          "url": "https://open.spotify.com/artist/0BFood0cmj86LkpdOArhNs"
+        },
+        {
+          "name": "Bokke8",
+          "url": "https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB"
+        },
+        {
+          "name": "GS",
+          "url": "https://open.spotify.com/artist/3uicVMR3k5xPb0cD4JsMv1"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177346,
+      "name": "Op Een Go",
+      "url": "https://open.spotify.com/track/5MFDSAWYjuWNZIKmhbBCJQ"
+    },
+    {
+      "album": {
         "name": "OP SLOT?",
         "url": "https://open.spotify.com/album/6OcHXAlf8tK7kRjZe27Lth"
       },
@@ -4428,7 +4600,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 167199,
       "name": "OPPBOTS",
       "url": "https://open.spotify.com/track/6TYJ9Ilq5TEIKCcIwXDbAI"
@@ -5378,7 +5550,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 123870,
       "name": "Scheisse (Stick Up)",
       "url": "https://open.spotify.com/track/0gxBGux3TJo09ZnKUBKPS5"
@@ -5590,6 +5762,28 @@
       "duration_ms": 144000,
       "name": "Speld",
       "url": "https://open.spotify.com/track/1RlQQ7IhyKqSih2cWopppl"
+    },
+    {
+      "album": {
+        "name": "Spoil Her",
+        "url": "https://open.spotify.com/album/6ZkYP7u5ckhoRs6NmyWF7M"
+      },
+      "artists": [
+        {
+          "name": "Brasco",
+          "url": "https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr"
+        },
+        {
+          "name": "NAVI",
+          "url": "https://open.spotify.com/artist/5DCwmxnCqNVMljhthee6ti"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182954,
+      "name": "Spoil Her",
+      "url": "https://open.spotify.com/track/3KrBEhUQMVm5KSG6thdGi7"
     },
     {
       "album": {
@@ -6489,6 +6683,28 @@
     },
     {
       "album": {
+        "name": "Waardering",
+        "url": "https://open.spotify.com/album/6J3BH0JhrGNqfTCVbEtKNP"
+      },
+      "artists": [
+        {
+          "name": "JOJO AIR",
+          "url": "https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF"
+        },
+        {
+          "name": "Solid Circle",
+          "url": "https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181250,
+      "name": "Waardering",
+      "url": "https://open.spotify.com/track/4kBtYyfgzbZPVuqpNdKL7Q"
+    },
+    {
+      "album": {
         "name": "INSOMNIA",
         "url": "https://open.spotify.com/album/3l4ZN4bsXuGGzpnPt1czlW"
       },
@@ -6774,7 +6990,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 185581,
       "name": "Winterbanden",
       "url": "https://open.spotify.com/track/0S1jSwK33ilIaRwmPlWnvV"

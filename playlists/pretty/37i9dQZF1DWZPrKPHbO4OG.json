@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 35901,
+  "num_followers": 35923,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2026-01-28 11:19:37",
       "album": {
-        "name": "Numberkari",
-        "url": "https://open.spotify.com/album/2ajYzVGA7PC5TpZQfpSVsB"
-      },
-      "artists": [
-        {
-          "name": "MC GAWTHI",
-          "url": "https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC"
-        },
-        {
-          "name": "Andhadhoon",
-          "url": "https://open.spotify.com/artist/14J7BBCRt8pmT06yfYvMKo"
-        }
-      ],
-      "duration_ms": 216362,
-      "name": "Numberkari",
-      "url": "https://open.spotify.com/track/2RBSlozluCiLoguWs977VK"
-    },
-    {
-      "added_at": "2026-01-28 11:19:37",
-      "album": {
         "name": "Angaat Aalaya - Zombivli",
         "url": "https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 226008,
       "name": "Angaat Aalaya",
       "url": "https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT"
+    },
+    {
+      "added_at": "2026-01-28 11:19:37",
+      "album": {
+        "name": "Numberkari",
+        "url": "https://open.spotify.com/album/2ajYzVGA7PC5TpZQfpSVsB"
+      },
+      "artists": [
+        {
+          "name": "MC GAWTHI",
+          "url": "https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC"
+        },
+        {
+          "name": "Andhadhoon",
+          "url": "https://open.spotify.com/artist/14J7BBCRt8pmT06yfYvMKo"
+        }
+      ],
+      "duration_ms": 216362,
+      "name": "Numberkari",
+      "url": "https://open.spotify.com/track/2RBSlozluCiLoguWs977VK"
     },
     {
       "added_at": "2026-01-28 11:19:37",

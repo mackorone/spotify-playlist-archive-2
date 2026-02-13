@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Daphni",
+  "description": "The home for alternative electronic music. Cover: Ahadadream",
   "name": "Altar",
   "tracks": [
     {
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 373870,
       "name": "And You Are?",
       "url": "https://open.spotify.com/track/77nHBl5zo9J3ArmIifxs7C"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 240000,
       "name": "Anti Conti",
       "url": "https://open.spotify.com/track/7mdwXG6DHKiNFMs5YucoWU"
@@ -2358,6 +2358,32 @@
       "duration_ms": 296074,
       "name": "Basilisk",
       "url": "https://open.spotify.com/track/0hggD2nXY3ez5PlFXoUIYx"
+    },
+    {
+      "album": {
+        "name": "Bass Dhol",
+        "url": "https://open.spotify.com/album/6zPVFPc0OjKODf5SkRSlNu"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218069,
+      "name": "Bass Dhol",
+      "url": "https://open.spotify.com/track/2rVhkoMwbeOzsBdqMUnm0p"
     },
     {
       "album": {
@@ -7124,7 +7150,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 260353,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
@@ -12425,6 +12451,24 @@
     },
     {
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/0mtGeLXVMtHOo7n83TqJib"
+      },
+      "artists": [
+        {
+          "name": "Megra",
+          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255426,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/1UcSwc91w0QBondREndseA"
+    },
+    {
+      "album": {
         "name": "Sad Girl",
         "url": "https://open.spotify.com/album/5sGYMMmqW6bcKWdmC7Jd2S"
       },
@@ -14233,6 +14277,28 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260879,
+      "name": "Lights Burn Dimmer",
+      "url": "https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE"
       },
@@ -14702,6 +14768,24 @@
       "duration_ms": 167357,
       "name": "LOUI3",
       "url": "https://open.spotify.com/track/4YQbiWpVvSESKhzYhr24in"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/4t9vOwy3LFYcre771GzHy4"
+      },
+      "artists": [
+        {
+          "name": "TWOFACED",
+          "url": "https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/2zGn6hwGCnANDoSsAxlnRx"
     },
     {
       "album": {
@@ -16290,7 +16374,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 426309,
       "name": "Mutual Attraction",
       "url": "https://open.spotify.com/track/0NcXWme3XGFu34aMx0qfL0"
@@ -17559,6 +17643,24 @@
     },
     {
       "album": {
+        "name": "GSC005",
+        "url": "https://open.spotify.com/album/0g4n0Ui0ahS2CrCiXkHpZT"
+      },
+      "artists": [
+        {
+          "name": "Soul Mass Transit System",
+          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384105,
+      "name": "One 2 One",
+      "url": "https://open.spotify.com/track/6sgmz6hcWUvp1VDJabeXc4"
+    },
+    {
+      "album": {
         "name": "Grace In Motion",
         "url": "https://open.spotify.com/album/2nwWZ9AxNZmGS1Bep29vzI"
       },
@@ -18700,7 +18802,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 193100,
       "name": "play it again",
       "url": "https://open.spotify.com/track/4kGp3xOS7JdHV5WPZhUBWg"
@@ -20222,7 +20324,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 244295,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/1Urif2vcnbYSMmeFWZFvb2"
@@ -22708,6 +22810,24 @@
       "duration_ms": 175213,
       "name": "Steamroller",
       "url": "https://open.spotify.com/track/1Sh4k3Bhq9C9airIGg7awN"
+    },
+    {
+      "album": {
+        "name": "Steppa",
+        "url": "https://open.spotify.com/album/7mKWHxgSO5hVy40Py0OHdX"
+      },
+      "artists": [
+        {
+          "name": "Love Remain",
+          "url": "https://open.spotify.com/artist/5ELuqqizVx5FdajBcrBckx"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Steppa",
+      "url": "https://open.spotify.com/track/1cMXu8uAM6Ylw9VwQ9E07s"
     },
     {
       "album": {

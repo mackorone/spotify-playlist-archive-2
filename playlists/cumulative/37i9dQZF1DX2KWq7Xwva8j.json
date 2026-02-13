@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "El futuro ya est\u00e1 aqu\u00ed. Foto: c\u00e9ro.",
+  "description": "El futuro ya est\u00e1 aqu\u00ed. Foto: Julieta.",
   "name": "RADAR Espa\u00f1a",
   "tracks": [
     {
@@ -638,6 +638,24 @@
       "duration_ms": 165882,
       "name": "Ca\u00edmos las dos",
       "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
+    },
+    {
+      "album": {
+        "name": "CENT PER CENT",
+        "url": "https://open.spotify.com/album/773bcOMkLxhlik2epGoXXH"
+      },
+      "artists": [
+        {
+          "name": "Julieta",
+          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192115,
+      "name": "CENT PER CENT",
+      "url": "https://open.spotify.com/track/4DN7qIOgFue3K9mH6sJs6Y"
     },
     {
       "album": {

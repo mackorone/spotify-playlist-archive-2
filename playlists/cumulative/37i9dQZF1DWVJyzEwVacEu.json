@@ -984,7 +984,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 178149,
       "name": "Believe It",
       "url": "https://open.spotify.com/track/1FyRs3kifmILHRGXQhu2YY"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 154160,
       "name": "Catch A Rainbow",
       "url": "https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2"
@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
@@ -2277,6 +2277,28 @@
     },
     {
       "album": {
+        "name": "Drive Safe",
+        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Drive Safe",
+      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
+    },
+    {
+      "album": {
         "name": "Droom Jij Over Mij Vannacht",
         "url": "https://open.spotify.com/album/7F3QzxZYm1dXmhjHctzsDy"
       },
@@ -2288,7 +2310,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 190499,
       "name": "Droom Jij Over Mij Vannacht",
       "url": "https://open.spotify.com/track/4VqkzNrCmkv31nd7POoHWL"
@@ -2414,7 +2436,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -3395,6 +3417,24 @@
     },
     {
       "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "album": {
         "name": "Honderd Keer",
         "url": "https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo"
       },
@@ -3726,7 +3766,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 161420,
       "name": "I Hate That It's True",
       "url": "https://open.spotify.com/track/6WVUCSF2fDkuvvCRk7VFkF"
@@ -4698,7 +4738,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 178207,
       "name": "Love On Hold",
       "url": "https://open.spotify.com/track/2XyjqBGEClpj4kBx6kv4kI"
@@ -4965,6 +5005,24 @@
     },
     {
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
+    },
+    {
+      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/1CFYXwvtEcMoaFgQJZzNRE"
       },
@@ -5119,6 +5177,28 @@
     },
     {
       "album": {
+        "name": "Mo\u00ebt Dat Nou",
+        "url": "https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        },
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154691,
+      "name": "Mo\u00ebt Dat Nou",
+      "url": "https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8"
+    },
+    {
+      "album": {
         "name": "Multicolor",
         "url": "https://open.spotify.com/album/1Aq9FlSr9KanZFljnUnl2m"
       },
@@ -5246,7 +5326,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 179273,
       "name": "Never Been Better",
       "url": "https://open.spotify.com/track/5D6qQXww5siYkd2YyJpLEf"
@@ -5362,7 +5442,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 229779,
       "name": "Niemand",
       "url": "https://open.spotify.com/track/2ZodgwtywVovNUNIcKDpbD"
@@ -6491,6 +6571,24 @@
     },
     {
       "album": {
+        "name": "Sluit Me In Je Armen",
+        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163976,
+      "name": "Sluit Me In Je Armen",
+      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
+    },
+    {
+      "album": {
         "name": "SNAP (High and Fast)",
         "url": "https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP"
       },
@@ -7436,7 +7534,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 172636,
       "name": "The Thing I Love",
       "url": "https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu"
@@ -8382,7 +8480,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 170445,
       "name": "With You",
       "url": "https://open.spotify.com/track/0fy5enlfWgIP2ojLZjUcwA"

@@ -4,7 +4,7 @@
 
 > The official soundtrack for EA SPORTS FC 26.
 
-242 songs - 13 hr 29 min
+243 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [PASSE A RESPEITAR](https://open.spotify.com/track/7pNRL7S26wxE7afedHhQPt) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Fernanda Abreu](https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [DJ Chernobyl](https://open.spotify.com/artist/64TsgRO3AX0B5lDwTKqZjW) | [MPC \(Música Popular Carioca\)](https://open.spotify.com/album/6eyTN2TvyY5vcbu7Di6E3R) | 1:54 | 2025-09-15 |  |
 | [Passed Tense](https://open.spotify.com/track/2uUAW6qgya8keByF9mh3ui) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Passed Tense](https://open.spotify.com/album/5lbiP1DLW9DrB5BB3dH3x9) | 4:01 | 2022-09-22 | 2025-09-16 |
 | [Payback \(feat\. Knucks\)](https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Payback \(feat\. Knucks\)](https://open.spotify.com/album/7FQ4z8g9MPaIKsTdMXo0zA) | 2:44 | 2022-09-22 | 2025-09-16 |
+| [Peace Of Mind](https://open.spotify.com/track/0QDpFGGK0vPADxypanLHVz) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Peace Of Mind](https://open.spotify.com/album/2glAiy9pJLk6x42sYeQlOi) | 2:09 | 2026-02-12 |  |
 | [Pedi](https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:05 | 2022-09-22 | 2024-04-19 |
 | [Pedi](https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Pedi](https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU) | 2:05 | 2022-09-22 | 2025-09-16 |
 | [People \(with The Knocks\)](https://open.spotify.com/track/3ZTsdSVrRJCTOnuXHpHK0w) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 3:44 | 2022-09-22 | 2025-09-16 |

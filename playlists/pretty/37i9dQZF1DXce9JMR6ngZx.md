@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 
 > Grandes sucessos dos anos 80 para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,788 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,833 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 35 | [Just Like Heaven \- Remastered 2006](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me Kiss Me Kiss Me \(Remastered 2006\)](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 |
 | 36 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 |
 | 37 | [Like a Prayer](https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 5:40 |
-| 38 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 |
-| 39 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
+| 38 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
+| 39 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 |
 | 40 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
 | 41 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
 | 42 | [La Isla Bonita](https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:02 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 58 | [O Descobridor Dos Sete Mares](https://open.spotify.com/track/6wpDQGn3Gl0j9Wt6D6mYvQ) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [O Descobridor Dos Sete Mares](https://open.spotify.com/album/7Ff0Q5oeEoVKHtxJJoXyId) | 4:25 |
 | 59 | [Menina Veneno](https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Vôo de Coração](https://open.spotify.com/album/2folhiorW4UtZhloQOUqZt) | 4:41 |
 | 60 | [Inbetween Days](https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 2:57 |
-| 61 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
-| 62 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 |
+| 61 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 |
+| 62 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
 | 63 | [Down Under](https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:40 |
 | 64 | [Pride \(In The Name Of Love\) \- Remastered 2009](https://open.spotify.com/track/65E62rOSbm7SZbAMYjNTJq) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Deluxe Edition Remastered\)](https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY) | 3:48 |
 | 65 | [Lanterna Dos Afogados](https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Big Bang](https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm) | 3:09 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXce9JMR6ngZx.md) - [plain]
 | 90 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
 | 91 | [Lança Perfume](https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:10 |
 | 92 | [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 |
-| 93 | [Infinita Highway](https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [A Revolta Dos Dandis](https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC) | 6:12 |
-| 94 | [Queixa](https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Cores, Nomes](https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm) | 4:23 |
-| 95 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/1UvTPXlImVd4jcucK4qJwb) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [LOVE](https://open.spotify.com/album/7KRJ8x3IpetRApZ8LGS2Pi) | 4:49 |
+| 93 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/1UvTPXlImVd4jcucK4qJwb) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [LOVE](https://open.spotify.com/album/7KRJ8x3IpetRApZ8LGS2Pi) | 4:49 |
+| 94 | [Infinita Highway](https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [A Revolta Dos Dandis](https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC) | 6:12 |
+| 95 | [Queixa](https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Cores, Nomes](https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm) | 4:23 |
 | 96 | [Tempos modernos \- Remasterizado em 2001](https://open.spotify.com/track/50OJLsH4w0kKLCkLdhc9TY) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Tempos modernos \(2001 Remasterizado\)](https://open.spotify.com/album/52rgb93JdNoMHwpq4RzJZp) | 4:17 |
 | 97 | [Que Pais É Este](https://open.spotify.com/track/1bqRtNOcT1QiV1j87IoATA) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Que Pais E Este](https://open.spotify.com/album/5dtcavvE7Hy2bmWb2XpiUe) | 2:58 |
 | 98 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
 | 99 | [Você Não Soube Me Amar](https://open.spotify.com/track/3bQmU3UGvZMsYZ13ffNyVf) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Com Você](https://open.spotify.com/album/3hBm8EufbPG0VvvrL6i7M8) | 3:21 |
-| 100 | [Vital E Sua Moto](https://open.spotify.com/track/5XKUTawRWuTb8edaGn38gB) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Cinema Mudo](https://open.spotify.com/album/1ufuoCMD2OXmkUYNDeQxPV) | 3:11 |
+| 100 | [Strangelove](https://open.spotify.com/track/2dQd2qrFB5VtuUMp45G41p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:54 |
 
 Snapshot ID: `AAAAAEVrmwbjuSz4J3l6QyRD+DHE4RE+`

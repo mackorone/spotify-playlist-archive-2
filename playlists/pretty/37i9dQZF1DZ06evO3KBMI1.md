@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,355 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,357 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [D\-tecnoLife](https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 3:53 |
-| 2 | [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 |
+| 1 | [EVER](https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EVER](https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS) | 4:02 |
+| 2 | [D\-tecnoLife](https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Timeless](https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0) | 3:53 |
 | 3 | [CORE PRIDE](https://open.spotify.com/track/55n4sFy8tjysBcCjQFwX3A) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 4:18 |
 | 4 | [ODD FUTURE](https://open.spotify.com/track/5tHp131qFB3T7e01x1xsO2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 3:46 |
 | 5 | [Colors of the Heart](https://open.spotify.com/track/7vPKB0XXYhWsTjyZ8DAId8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [BUGRIGHT](https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe) | 3:52 |
@@ -32,20 +32,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 22 | [Don’t Think.Feel](https://open.spotify.com/track/683p6Ov3orc4ICLOKi1Yn6) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 3:46 |
 | 23 | [0 choir](https://open.spotify.com/track/0l0v2OwXowCmGOcPeIOcUP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 5:41 |
 | 24 | [MMH](https://open.spotify.com/track/1Q3lBgDsR5gRlGcJtyPhxY) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [MMH](https://open.spotify.com/album/5RrsFS1r5qn2MkjKNEnCFr) | 3:33 |
-| 25 | [NO MAP](https://open.spotify.com/track/3NM5kbdYzz42SPWqDEUL8b) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:55 |
-| 26 | [激動](https://open.spotify.com/track/2bB94ADjTpb7qavnp8NYQP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Neo SOUND BEST](https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6) | 5:34 |
+| 25 | [激動](https://open.spotify.com/track/2bB94ADjTpb7qavnp8NYQP) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Neo SOUND BEST](https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6) | 5:34 |
+| 26 | [NO MAP](https://open.spotify.com/track/3NM5kbdYzz42SPWqDEUL8b) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:55 |
 | 27 | [IMPACT](https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:25 |
 | 28 | [AWAYOKUBA\-斬る](https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [7ｔｈ Trigger](https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz) | 4:35 |
-| 29 | [PHOENIX AX](https://open.spotify.com/track/3g7jOzyFtGOgTSmzalvlt7) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 4:11 |
-| 30 | [THEORY](https://open.spotify.com/track/0GmGyXJKcxbbsXu1HtkDqA) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:49 |
+| 29 | [THEORY](https://open.spotify.com/track/0GmGyXJKcxbbsXu1HtkDqA) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:49 |
+| 30 | [PHOENIX AX](https://open.spotify.com/track/3g7jOzyFtGOgTSmzalvlt7) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 4:11 |
 | 31 | [REVERSI](https://open.spotify.com/track/7HiAUL9h0px38LjWchaeR2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:49 |
 | 32 | [白昼夢](https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 3:20 |
-| 33 | [美影意志](https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 5:54 |
-| 34 | [ENCORE AGAIN](https://open.spotify.com/track/4JwwYSJnbvuqRKrZLEnkA8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky), [SHUNTO](https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:39 |
+| 33 | [ENCORE AGAIN](https://open.spotify.com/track/4JwwYSJnbvuqRKrZLEnkA8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky), [SHUNTO](https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 3:39 |
+| 34 | [美影意志](https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AwakEVE](https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS) | 5:54 |
 | 35 | [ナノ・セカンド](https://open.spotify.com/track/6C0gAZcbctqrkeV3hh0uvQ) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ナノ・セカンド](https://open.spotify.com/album/6BdTHYe5EDbUI5Us4HnX2P) | 4:34 |
 | 36 | [MONDO PIECE](https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 5:28 |
-| 37 | [AFTER LIFE](https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 5:12 |
-| 38 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 |
+| 37 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 |
+| 38 | [AFTER LIFE](https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [UNSER](https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8) | 5:12 |
 | 39 | [シリウス](https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [TYCOON](https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo) | 4:51 |
 | 40 | [Bye\-Bye to you](https://open.spotify.com/track/1YC7xtKxgK0w1ZCtVXuvzl) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Bye\-Bye to you](https://open.spotify.com/album/6Z7Mzo45DiFgAHm1DQwWvo) | 4:08 |
 | 41 | [If...Hello](https://open.spotify.com/track/7zktx1s5bo9dqsQWiVEllC) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 49 | [NO MAP EPIPHANY at Tokyo Dome 2025.06.15 \- Live Version](https://open.spotify.com/track/3Nbs2g7FC4naMto9Pguuq9) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY at Tokyo Dome 2025.06.15](https://open.spotify.com/album/1f018h8BBE9PAXJoWBqlRR) | 4:37 |
 | 50 | [Only US](https://open.spotify.com/track/6dqNzdwpS4oOf0lb1oOlrY) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [EPIPHANY](https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw) | 3:54 |
 
-Snapshot ID: `aYp1AAAAAAADkZ639BT4I3TX9ewyC23r`
+Snapshot ID: `aYvGgAAAAADGJS2GgEmpXyatnJD2Pnmh`

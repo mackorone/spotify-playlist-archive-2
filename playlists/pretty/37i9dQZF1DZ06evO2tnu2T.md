@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 
 > This is Absolutely\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,555 likes - 17 songs - 53 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,561 likes - 17 songs - 53 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 |
-| 2 | [I Just Don't Know You Yet](https://open.spotify.com/track/2kkBKBjHt4mCmgtx3FPCyH) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet \(Live\)](https://open.spotify.com/album/2X6jiccyMdJbgEtEiZXWMk) | 3:21 |
+| 1 | [I Just Don't Know You Yet](https://open.spotify.com/track/2kkBKBjHt4mCmgtx3FPCyH) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [I Just Don't Know You Yet \(Live\)](https://open.spotify.com/album/2X6jiccyMdJbgEtEiZXWMk) | 3:21 |
+| 2 | [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 |
 | 3 | [see through \(remix\) \[feat\. Coco Jones, Absolutely & Samara Cyn\]](https://open.spotify.com/track/4K4DZUvJQSiSOchQdZlP7K) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [see through \(remix\)](https://open.spotify.com/album/4Z5CCOQUQJnow6RCLneGWH) | 3:59 |
 | 4 | [Air](https://open.spotify.com/track/71QKcBjRSoGBMNPByY715u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 2:49 |
 | 5 | [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 |
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 | 16 | [Glass](https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:18 |
 | 17 | [Daylight](https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:31 |
 
-Snapshot ID: `aYp1AAAAAAAtPm8qlZ/YDaeYCfzWpGmg`
+Snapshot ID: `aYvGgAAAAAAWPoIZWzTy+IUK5pZ4wkHx`

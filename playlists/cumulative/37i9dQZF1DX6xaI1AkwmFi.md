@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-547 songs - 1 day 7 hr 43 min
+548 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Friends, Family & God \(feat\. G\-k.i.d & KEIJU\)](https://open.spotify.com/track/2ot7Di8yxbJ01vGdJmdQ4L) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [G\-k.i.d](https://open.spotify.com/artist/50xj3nfsSMeJ046DOsee0v), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Friends, Family & God \(feat\. G\-k.i.d & KEIJU\)](https://open.spotify.com/album/0NFLbdYg7vCwWYSE7OiRpZ) | 3:50 | 2024-08-28 | 2024-10-23 |
 | [From Now!](https://open.spotify.com/track/0toZ2nIg2UPB7lnUBUC5cy) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [From Now!](https://open.spotify.com/album/0ZQ92Ej8z7S5K65dmOIoB9) | 2:55 | 2024-09-11 | 2024-09-18 |
 | [Funky Lovely Girl](https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p) | 3:44 | 2025-07-02 | 2026-01-15 |
-| [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 | 2025-09-18 |  |
+| [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 | 2025-09-18 | 2026-02-13 |
 | [gear5](https://open.spotify.com/track/23JwNWd7oVq9Jhqfv6nCVi) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [gear5](https://open.spotify.com/album/7ElBjSm3n8957SudOB5Dyt) | 3:01 | 2024-01-18 | 2024-02-07 |
 | [Get Back To 人生](https://open.spotify.com/track/4sg2qkykUHXz9Sf3XcAvJX) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Rejoice](https://open.spotify.com/album/66azqlrT0IYzfh3621YClv) | 4:27 | 2024-07-24 | 2024-07-31 |
 | [Ghost](https://open.spotify.com/track/37qlRGMmN1tStZS0elymXg) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [Ghost](https://open.spotify.com/album/0aA475GObe8VCZvHRRloxK) | 3:02 | 2025-05-13 | 2025-08-06 |
@@ -261,6 +261,7 @@
 | [TOGE TOGE](https://open.spotify.com/track/3VZkUsi9dvriDVM0y6earF) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [TOGE TOGE](https://open.spotify.com/album/6CpM9vme3baJvIG0oWP4dc) | 3:55 | 2026-01-28 | 2026-02-05 |
 | [Toki Yo Tomare](https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Toki Yo Tomare](https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP) | 3:08 | 2025-11-05 | 2025-12-18 |
 | [Tokimeki](https://open.spotify.com/track/3e0Td8QexmD5l3DJzXbbcC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:32 | 2026-01-14 |  |
+| [TOKYO DRIFT](https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD) | 3:08 | 2026-02-04 |  |
 | [TOKYO JOURNEY](https://open.spotify.com/track/3eVvBU4nUV2GoVoF4iHo12) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [TOKYO JOURNEY](https://open.spotify.com/album/2f6d38S4UgGAF66V7DTwzs) | 4:18 | 2023-11-29 | 2024-01-10 |
 | [Tomorrow!](https://open.spotify.com/track/1c6g0m9UCX9IHPLSy20MEF) | [ZETTAKUN](https://open.spotify.com/artist/7yXfTS7XSd7lqCBxjhXeqo) | [Tomorrow!](https://open.spotify.com/album/73aLbNZmva7CV9Q2yDTmWU) | 3:17 | 2024-01-11 | 2024-02-07 |
 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 | 2024-01-25 | 2024-02-07 |

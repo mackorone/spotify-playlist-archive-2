@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,383 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,385 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 44 | [No Digas No](https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ) | [Rivs](https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [No Digas No](https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH) | 2:49 |
 | 45 | [El Uno Al 7 \- En Vivo](https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Uno Al 7 \(En Vivo\)](https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs) | 3:24 |
 | 46 | [Bsod3](https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD) | [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Bsod3](https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx) | 3:14 |
-| 47 | [Tonto](https://open.spotify.com/track/3Uvrcjvuj4BVQ9L5qLPjHg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Tonto](https://open.spotify.com/album/0cxct2zd10F6AhClN2YWGo) | 3:06 |
-| 48 | [Nadie Lo Hubiera Pensado](https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Nadie Lo Hubiera Pensado](https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ) | 2:29 |
-| 49 | [El Lic \- En Vivo](https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:04 |
-| 50 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 |
+| 47 | [Nadie Lo Hubiera Pensado](https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Nadie Lo Hubiera Pensado](https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ) | 2:29 |
+| 48 | [Tonto](https://open.spotify.com/track/3Uvrcjvuj4BVQ9L5qLPjHg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Tonto](https://open.spotify.com/album/0cxct2zd10F6AhClN2YWGo) | 3:06 |
+| 49 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 |
+| 50 | [El Lic \- En Vivo](https://open.spotify.com/track/4Wmzvb4GkzBBJdvhxkc89C) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:04 |
 
-Snapshot ID: `aYp1AAAAAABFNQhYZVEu92VS4qNiA7aV`
+Snapshot ID: `aYvGgAAAAADefT6hl/uiIF1RWEvfdCOo`

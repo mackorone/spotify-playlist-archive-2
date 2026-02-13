@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Tutto \u00e8 possibile \u00e8 qua, Geolier in cover.",
+  "description": "Solo rap da Napoli e dalla Campania. Geolier in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -598,7 +598,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 151556,
       "name": "AFRICA TWIN",
       "url": "https://open.spotify.com/track/39psWh1pYgu6CQcEev1qv9"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 156631,
       "name": "ASFALTO",
       "url": "https://open.spotify.com/track/2b0EsPuWQGPvFBchBSmcPe"
@@ -2713,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "CUIET",
+        "url": "https://open.spotify.com/album/7rzNjZ0flfZVI5TqF29YCK"
+      },
+      "artists": [
+        {
+          "name": "Songop",
+          "url": "https://open.spotify.com/artist/1W85h651mGAVGp2CmvCOna"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "CUIET",
+      "url": "https://open.spotify.com/track/431pLYghQroa6VJENGf9hM"
+    },
+    {
+      "album": {
         "name": "Cuore",
         "url": "https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY"
       },
@@ -2838,6 +2856,32 @@
       "duration_ms": 192146,
       "name": "Desaparecidos (feat. Geolier)",
       "url": "https://open.spotify.com/track/1kcwsO1ptrEMXsHtcIGPjI"
+    },
+    {
+      "album": {
+        "name": "CLAN DESTINO",
+        "url": "https://open.spotify.com/album/5INRqiY3G26Mhx9J6FiulJ"
+      },
+      "artists": [
+        {
+          "name": "J Lord",
+          "url": "https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C"
+        },
+        {
+          "name": "Auxx",
+          "url": "https://open.spotify.com/artist/6ETphpqz1sVhwDrvfTtm58"
+        },
+        {
+          "name": "ONii",
+          "url": "https://open.spotify.com/artist/3HFLulppfcLWaMdAqrMPX9"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187259,
+      "name": "DESTINO",
+      "url": "https://open.spotify.com/track/2CVvhoDX3XxEwN4kOOlDQu"
     },
     {
       "album": {
@@ -3318,6 +3362,24 @@
       "duration_ms": 161684,
       "name": "ESAME DI COSCIENZA",
       "url": "https://open.spotify.com/track/43yj12NGdqBcizo5rGE71D"
+    },
+    {
+      "album": {
+        "name": "ESIST TU",
+        "url": "https://open.spotify.com/album/3Xt94Edf3srSxzBsq5Q55h"
+      },
+      "artists": [
+        {
+          "name": "Christian Liguori",
+          "url": "https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168086,
+      "name": "ESIST TU",
+      "url": "https://open.spotify.com/track/5zmyun0z1O559inXDPPa4x"
     },
     {
       "album": {
@@ -6323,6 +6385,24 @@
     },
     {
       "album": {
+        "name": "MISERIA",
+        "url": "https://open.spotify.com/album/5imZj3QdoaXP3vg7hgg4ML"
+      },
+      "artists": [
+        {
+          "name": "Rue Diego",
+          "url": "https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "MISERIA",
+      "url": "https://open.spotify.com/track/1x3YtLutkPtcLbVwJ1cIQv"
+    },
+    {
+      "album": {
         "name": "Angeli Violenti",
         "url": "https://open.spotify.com/album/6pKpBKHov6EhhP362AeFLm"
       },
@@ -6882,6 +6962,28 @@
       "duration_ms": 151428,
       "name": "NEL BENE E NEL MALE (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/6GOyPV5EYObpYcy6r0BNSn"
+    },
+    {
+      "album": {
+        "name": "NFAM E PUTTAN",
+        "url": "https://open.spotify.com/album/54BRRyTRa8emRRwA8KvhPa"
+      },
+      "artists": [
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        },
+        {
+          "name": "Im Envy",
+          "url": "https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "NFAM E PUTTAN",
+      "url": "https://open.spotify.com/track/6UptHz4ZdXnTeH68pSKHPh"
     },
     {
       "album": {
@@ -9826,7 +9928,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 197955,
       "name": "SAYAN",
       "url": "https://open.spotify.com/track/3kv70BJZSKR7QJN73UwQU1"
@@ -9954,7 +10056,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 130213,
       "name": "Senza Futuro",
       "url": "https://open.spotify.com/track/7gin6iKqKHTDeRVAMbq3GI"

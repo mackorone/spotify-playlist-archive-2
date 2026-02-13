@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,285,242 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,285,149 likes - 80 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 38 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
 | 39 | [Movie Star](https://open.spotify.com/track/6aRmjhWmg9pAioffjegxtp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 1:32 |
 | 40 | [Midnight](https://open.spotify.com/track/1ru2yZCJsLgHuiFJr506BV) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Sunset Traveler](https://open.spotify.com/album/6mRDTbYQi7iQEbrCtAHibh) | 1:44 |
-| 41 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 |
-| 42 | [Confession](https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:32 |
+| 41 | [Confession](https://open.spotify.com/track/6mOZSB8gmObud9MwsOte3e) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:32 |
+| 42 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 |
 | 43 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 |
 | 44 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
 | 45 | [My Blood](https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |

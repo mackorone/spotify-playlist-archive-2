@@ -613,6 +613,28 @@
     },
     {
       "album": {
+        "name": "Echoes of a Romantic Soul",
+        "url": "https://open.spotify.com/album/5VZrn1egaRKKSAbCScL9bj"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Klemens Klein",
+          "url": "https://open.spotify.com/artist/2NmcHggEqapmrZwB4VrRm6"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155713,
+      "name": "Piano Sonata in G Minor: III. Scherzo and Trio",
+      "url": "https://open.spotify.com/track/2xeelBBvvmweToHklDjR71"
+    },
+    {
+      "album": {
         "name": "Clara Schumann: Piano Sonata in G Minor",
         "url": "https://open.spotify.com/album/57cUGwG3O0kO8v0puKP1V9"
       },

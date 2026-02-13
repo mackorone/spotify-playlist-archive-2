@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-162 songs - 10 hr 51 min
+163 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [La Puntada](https://open.spotify.com/track/494ZDmO4zk9knBfI0o3Wn8) | [Los Hermanos Bustos](https://open.spotify.com/artist/6tHL3QK7MT2Tm05x3D3MfQ) | [La Trayectoria](https://open.spotify.com/album/47HtfhXmNErmARr7h9Wx9g) | 2:54 | 2023-03-03 |  |
 | [La Rumbera](https://open.spotify.com/track/7FM9C1MThKu9AlMltdBZDL) | [Los Cumbieros](https://open.spotify.com/artist/1oxiRPCo3i3tVs9nbcIYdF) | [12 Años de Historia](https://open.spotify.com/album/26Mb8YUJfW0yhdUmu3YWjn) | 2:58 | 2023-03-03 |  |
 | [La Suegra](https://open.spotify.com/track/0KvdmyWi1v3HaRjSM64tgo) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [La Fiesta de Koky](https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd) | 3:24 | 2023-03-03 |  |
+| [La Vida No Vale Nada](https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [La Vida No Vale Nada](https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC) | 3:24 | 2025-09-18 |  |
 | [Las Flores de Tu Florero](https://open.spotify.com/track/7oW3MKXuQQw4JlAy6WeaHL) | [Los Manantiales](https://open.spotify.com/artist/576SVashrrxz5pBVPgwFCL) | [Éxitos de Antología](https://open.spotify.com/album/33u15Nq63kyMnEpA0XBGee) | 2:57 | 2023-03-03 | 2025-12-31 |
 | [Lloviendo Estrellas](https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Cumpliendo Sueños](https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy) | 4:28 | 2023-03-03 |  |
 | [Los Vampiros](https://open.spotify.com/track/3zE0IrQnWKR2kQt7Bzv2Dh) | [Kevin y Sus Lumaquinos](https://open.spotify.com/artist/6BzAeU4PNabWlKRDqrhD0E) | [Camino al Éxito](https://open.spotify.com/album/2W6UrYOGmHDAgk2boYZaGR) | 3:31 | 2023-03-03 |  |
@@ -144,7 +145,7 @@
 | [Tarjetita de Invitacion](https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [Tarjetita de Invitación](https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU) | 3:44 | 2023-03-03 |  |
 | [Tattoo](https://open.spotify.com/track/0vfPiExVUcECwzpQ3vfV0R) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Tattoo](https://open.spotify.com/album/3EYAbEV8gM0VvHPqF3asP4) | 3:21 | 2024-10-14 |  |
 | [Tatuaje](https://open.spotify.com/track/04iJD3f7nwF1wuM8b8FPmk) | [Los Pincheira del sur Oficial](https://open.spotify.com/artist/4B6txUkP3Ou0M2dFHtoJAR) | [Puro Sur Puro Chile](https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG) | 3:35 | 2023-03-03 |  |
-| [Te Amo y Te Amaré](https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK) | [Princesita Mía](https://open.spotify.com/album/6kTtSL54fq8ISSk4d95L5Z) | 6:31 | 2023-03-03 |  |
+| [Te Amo y Te Amaré](https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK) | [Princesita Mía](https://open.spotify.com/album/6kTtSL54fq8ISSk4d95L5Z) | 6:31 | 2023-03-03 | 2026-02-13 |
 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/2CdxmSPq2YLHWemapVnw7j) | [Amor Sureño](https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y) | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/album/0LtVrgVbR0Q9SP2Zj1Bx8z) | 3:39 | 2023-03-03 |  |
 | [Te Hablarán de Mi](https://open.spotify.com/track/4XaVN3Q7qKKUNdfMupEzw9) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Te Hablarán de Mi](https://open.spotify.com/album/4yX6JWHE7JS4DdzWnGWSSS) | 3:04 | 2025-09-18 |  |
 | [Te Hice Mal / Enséñame a Olvidar / Vida de Mi Vida \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/6ogw9osyfTycNSy5UaGvdX) | [Los Kuatreros Del Sur](https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8) | [Te Hice Mal / Enséñame a Olvidar / Vida de Mi Vida \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/4xpAa7gkfJeFZUVoxdI7bG) | 12:19 | 2023-03-03 | 2024-08-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Relive the good ol' days with these 60s and 70s classics.",
-  "num_followers": 681689,
+  "num_followers": 681692,
   "original_name": "Happy Days",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-02-10 18:28:49",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174717,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
-    },
-    {
-      "added_at": "2025-02-10 18:28:49",
-      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
+    },
+    {
+      "added_at": "2025-02-10 18:28:49",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174717,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2025-02-10 18:28:49",

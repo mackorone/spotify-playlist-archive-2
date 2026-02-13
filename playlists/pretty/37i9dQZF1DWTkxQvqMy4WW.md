@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 
 > Country music to get you back to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,415,631 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,415,590 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkxQvqMy4WW.md) - [plain]
 | 72 | [Alright](https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Learn To Live](https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK) | 3:51 |
 | 73 | [What Ifs \(feat\. Lauren Alaina\)](https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:08 |
 | 74 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 |
-| 75 | [Crazy Girl](https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:20 |
-| 76 | [Wildflowers and Wild Horses \(Single Version\)](https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses](https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV) | 3:36 |
+| 75 | [Wildflowers and Wild Horses \(Single Version\)](https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wildflowers and Wild Horses](https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV) | 3:36 |
+| 76 | [Crazy Girl](https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:20 |
 | 77 | [She Won't Be Lonely Long](https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [She Won't Be Lonely Long](https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1) | 3:29 |
 | 78 | [House Party](https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:10 |
 | 79 | [Hard To Love](https://open.spotify.com/track/6E9V9TRlVOLjenGjHemzEH) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:44 |

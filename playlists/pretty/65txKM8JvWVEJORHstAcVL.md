@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 30,538 likes - 45 songs - 2 hr 20 min
+[flaixbacoficial](https://open.spotify.com/user/flaixbacoficial) - 30,541 likes - 46 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,6 @@ pretty - [cumulative](/playlists/cumulative/65txKM8JvWVEJORHstAcVL.md) - [plain]
 | 43 | [On t'has ficat aquesta nit?](https://open.spotify.com/track/07STk0CsYrCkhYalbL0bVG) | [La Ludwig Band](https://open.spotify.com/artist/1hOwyBjBzD71G76KApDEy5) | [On t'has ficat aquesta nit?](https://open.spotify.com/album/0CRI1sYFgajuz1EOh1tMui) | 3:18 |
 | 44 | [Sad Song \(feat\. Gabrielle\)](https://open.spotify.com/track/0Pmyd3LBTdwD5UbqiORoaj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Sad Song \(feat\. Gabrielle\)](https://open.spotify.com/album/1dCCRucKvx0O6pbAABFj3E) | 2:45 |
 | 45 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 46 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 |
 
-Snapshot ID: `AABATaHk+LfO8s8m2HVUuYX2s6Y8iwjV`
+Snapshot ID: `AABATsisAI7M6t5iGPv8nOANoudnLfx+`

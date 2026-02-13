@@ -4,10 +4,11 @@
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-109 songs - 5 hr 53 min
+109 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/5fkhwXNw3xWy7IrGDhBDB6) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6FIJRZtL0Sca4b93q4RJXv) | 0:00 | 2022-10-13 |  |
 | [A Certain Smile](https://open.spotify.com/track/3S2CLXMqZvrikqslQ0Zca2) | [Ted Greene](https://open.spotify.com/artist/5GPOtnbe7RBHBUur5OzpO3) | [Solo Guitar](https://open.spotify.com/album/7fSp1R10Hsbtcfa3tvRdDX) | 4:22 | 2022-10-13 |  |
 | [A Change](https://open.spotify.com/track/55zWqtq1WZvg47RqLu4aDZ) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [A Change](https://open.spotify.com/album/60oXCcivScPRBRGRCybZPe) | 2:08 | 2025-01-07 |  |
 | [After The Rain](https://open.spotify.com/track/5VLNiOFRm9ZtMojrjS5faz) | [Edgar Finnegan](https://open.spotify.com/artist/15iw6gErDKXlPsa961xmHK) | [After The Rain](https://open.spotify.com/album/5IJekJTt2i6tL1BQDO3odQ) | 2:47 | 2022-10-13 |  |
@@ -19,7 +20,6 @@
 | [Autumn Leaves](https://open.spotify.com/track/609aYx7tX9W22UwKaH7CRK) | [Erik Faelt](https://open.spotify.com/artist/1ML8LCQGl0s8S4IECHztk1) | [My Romance](https://open.spotify.com/album/08n5jSurl6yZPKmPlwr5Ru) | 2:49 | 2022-10-13 | 2025-11-15 |
 | [Autumn Skies](https://open.spotify.com/track/1xHI2bJ5Lb9zjA2uNvVndM) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 2:49 | 2022-10-13 |  |
 | [Back There](https://open.spotify.com/track/21Xor47HLYhzTrfNnCY5Yz) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Back There](https://open.spotify.com/album/5RPcB0dJKIgRba7DQsvOA9) | 2:22 | 2024-07-22 |  |
-| [Backstage](https://open.spotify.com/track/5fkhwXNw3xWy7IrGDhBDB6) | [Daniel Monza](https://open.spotify.com/artist/4cM9QbsCEUCRRm7RocSczP) | [Backstage](https://open.spotify.com/album/6FIJRZtL0Sca4b93q4RJXv) | 2:27 | 2022-10-13 |  |
 | [Bali](https://open.spotify.com/track/0gIQviarG5RlZbvCxfpHKL) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 5:48 | 2022-10-13 |  |
 | [Blame It On My Youth](https://open.spotify.com/track/3L0bUhCLyWQif6u3oRtUjo) | [Billie Arnold](https://open.spotify.com/artist/3r47s3wKylwAGlM9XYoI4v) | [Blame It On My Youth](https://open.spotify.com/album/7qe6VBTIkgGfnluSwEV4jz) | 2:38 | 2022-11-24 |  |
 | [Blue Note Stroll](https://open.spotify.com/track/3AWpy96m4QvSYy5RNsY2p9) | [Morris Valentin](https://open.spotify.com/artist/4eNel5cDOyyO9AuVHCg7h8) | [Blue Note Stroll](https://open.spotify.com/album/3BuZh3ULP5NWnn2NVaGGUl) | 1:46 | 2024-10-21 |  |

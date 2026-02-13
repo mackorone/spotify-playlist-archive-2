@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Mau y Rick, Lu\u00edsa Sonza, Big One",
-  "num_followers": 239026,
+  "num_followers": 239063,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-02-06 12:59:33",
       "album": {
+        "name": "WHERE SHE GOES",
+        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "added_at": "2026-02-06 12:59:33",
+      "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
-    },
-    {
-      "added_at": "2026-02-06 12:59:33",
-      "album": {
-        "name": "WHERE SHE GOES",
-        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 231704,
-      "name": "WHERE SHE GOES",
-      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
     },
     {
       "added_at": "2026-02-06 12:59:33",
@@ -523,6 +523,26 @@
     {
       "added_at": "2026-02-06 12:59:33",
       "album": {
+        "name": "FAN\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "FAN\u00c1TICO",
+      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
+    },
+    {
+      "added_at": "2026-02-06 12:59:33",
+      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -543,22 +563,22 @@
     {
       "added_at": "2026-02-06 12:59:33",
       "album": {
-        "name": "FAN\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
+        "name": "BELLAKEO",
+        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 235102,
-      "name": "FAN\u00c1TICO",
-      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
+      "duration_ms": 197333,
+      "name": "BELLAKEO",
+      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
     },
     {
       "added_at": "2026-02-06 12:59:33",
@@ -583,26 +603,6 @@
       "duration_ms": 146000,
       "name": "HACE CALOR",
       "url": "https://open.spotify.com/track/4tabsd3NLLwuT90wkuNh7C"
-    },
-    {
-      "added_at": "2026-02-06 12:59:33",
-      "album": {
-        "name": "BELLAKEO",
-        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "BELLAKEO",
-      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
     },
     {
       "added_at": "2026-02-06 12:59:33",
@@ -919,6 +919,22 @@
     {
       "added_at": "2026-02-06 12:59:33",
       "album": {
+        "name": "Bohemio",
+        "url": "https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 153911,
+      "name": "Olv\u00eddala",
+      "url": "https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF"
+    },
+    {
+      "added_at": "2026-02-06 12:59:33",
+      "album": {
         "name": "ASTRO",
         "url": "https://open.spotify.com/album/2HCiLvEdZuHb8iDweMZwDG"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 132727,
       "name": "PERVERSA",
       "url": "https://open.spotify.com/track/3lkv8itXt58NC98Fq0EGEB"
-    },
-    {
-      "added_at": "2026-02-06 12:59:33",
-      "album": {
-        "name": "Bohemio",
-        "url": "https://open.spotify.com/album/6Mxj2Qa89q3Hx0qCi5YUqV"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 153911,
-      "name": "Olv\u00eddala",
-      "url": "https://open.spotify.com/track/7fC9JbQTR20CB6gvWr1NcF"
     },
     {
       "added_at": "2026-02-06 12:59:33",

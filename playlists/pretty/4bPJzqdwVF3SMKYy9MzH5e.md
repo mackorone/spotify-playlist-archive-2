@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,323 songs - 5 day 4 hr 32 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,324 songs - 5 day 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2331,5 +2331,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2321 | [Tommy](https://open.spotify.com/track/38piSUlzLXLqHqgrxSO4zE) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Tommy](https://open.spotify.com/album/6ypPEd46mjBNn9NsfpxWKT) | 4:34 |
 | 2322 | [Suck My Electro](https://open.spotify.com/track/5bc9luLb1Hd0jqXHx5qr57) | [Taly & Smith](https://open.spotify.com/artist/7wanVtHKgFPsQeBRnS4cZz), [Locked Club](https://open.spotify.com/artist/1qGCxiHgY9rBU7aNeMo9kc) | [Bomber](https://open.spotify.com/album/5AO9SUWGhSnAAUdGhdmKQG) | 3:47 |
 | 2323 | [Your Need \(не должен\) \- Deep Mix](https://open.spotify.com/track/0JDRpa08T4GhnDhE9O68bE) | [Kedr Livanskiy](https://open.spotify.com/artist/7deuX0YejjlcB4uLcdgEDW) | [Your Need](https://open.spotify.com/album/2c6FcKInAkAqZI0yNQXa9C) | 3:36 |
+| 2324 | [FODE PRA KARALHO](https://open.spotify.com/track/38rXikWlOpWfwEz4tx1tep) | [petrus.wav](https://open.spotify.com/artist/0yvZFjUmr182h8ibQd1LrM), [DJ Rafinha Duarte](https://open.spotify.com/artist/6FkdZL65sL243K1Wrfgzws), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [FODE PRA KARALHO](https://open.spotify.com/album/67p2bbPEwvrpk3X3bgyYHZ) | 2:00 |
 
-Snapshot ID: `AAAFEv8ZIlffvueTgZ9MqXcGNFu5pQR0`
+Snapshot ID: `AAAFEwfQOCmauSZddD5SFwkqitG0HOo+`

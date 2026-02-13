@@ -1,12 +1,12 @@
 {
   "description": "This is Sister Rosetta Tharpe. The essential tracks, all in one playlist.",
-  "num_followers": 25485,
+  "num_followers": 25495,
   "original_name": "This Is Sister Rosetta Tharpe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADzJ8aEqKcd3kPapZd92/0h",
+  "snapshot_id": "aYvGgAAAAACwN0HkMiQLeglK+QoFFTs7",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Shout!",
+        "url": "https://open.spotify.com/album/0xVdSd5cOmnLrp96uLqAPR"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "Strange Things Happening Every Day",
+      "url": "https://open.spotify.com/track/65QPlBzfKi0Kg00YU4rrvA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 145232,
       "name": "Don't Take Everybody To Be Your Friend",
       "url": "https://open.spotify.com/track/3bmT6zIM0SmV3hv4kGgmqN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Shout!",
-        "url": "https://open.spotify.com/album/0xVdSd5cOmnLrp96uLqAPR"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "Strange Things Happening Every Day",
-      "url": "https://open.spotify.com/track/65QPlBzfKi0Kg00YU4rrvA"
     },
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Decca Singles, Vol. 4",
+        "url": "https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 183950,
+      "name": "Feed Me Jesus",
+      "url": "https://open.spotify.com/track/2sVALcZ85tz1l9RE0Pe2Q9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/0d2kYndpc9gJafJgyEVwYk"
       },
@@ -411,54 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Authorized Sister Rosetta Tharpe Collection",
-        "url": "https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Down by the Riverside",
-      "url": "https://open.spotify.com/track/2tk6nL1NqqRkjNtOLzwlnl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Decca Singles, Vol. 4",
-        "url": "https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 183950,
-      "name": "Feed Me Jesus",
-      "url": "https://open.spotify.com/track/2sVALcZ85tz1l9RE0Pe2Q9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gospel Of The Blues",
-        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 174440,
-      "name": "Singing In My Soul",
-      "url": "https://open.spotify.com/track/3MlL10pZjsB1UI0owXi3Yb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Precious Memories",
         "url": "https://open.spotify.com/album/1YHahOzmBm2OgsIx0P3fU8"
       },
@@ -471,6 +439,22 @@
       "duration_ms": 222906,
       "name": "Come By Here",
       "url": "https://open.spotify.com/track/1HdGMegJdBak9lLtgzWRoA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Authorized Sister Rosetta Tharpe Collection",
+        "url": "https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Down by the Riverside",
+      "url": "https://open.spotify.com/track/2tk6nL1NqqRkjNtOLzwlnl"
     },
     {
       "added_at": null,
@@ -514,15 +498,11 @@
         {
           "name": "Sister Rosetta Tharpe",
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        },
-        {
-          "name": "Lucky Millinder & His Orchestra",
-          "url": "https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR"
         }
       ],
-      "duration_ms": 171173,
-      "name": "I Want A Tall Skinny Papa",
-      "url": "https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e"
+      "duration_ms": 174440,
+      "name": "Singing In My Soul",
+      "url": "https://open.spotify.com/track/3MlL10pZjsB1UI0owXi3Yb"
     },
     {
       "added_at": null,
@@ -582,11 +562,47 @@
         {
           "name": "Sister Rosetta Tharpe",
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        },
+        {
+          "name": "Lucky Millinder & His Orchestra",
+          "url": "https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR"
         }
       ],
-      "duration_ms": 133160,
-      "name": "Sit Down",
-      "url": "https://open.spotify.com/track/5wEg2hMv0QRDuUoySWRRu6"
+      "duration_ms": 171173,
+      "name": "I Want A Tall Skinny Papa",
+      "url": "https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirituals In Rhythm",
+        "url": "https://open.spotify.com/album/0m04XubMVnvu8oKgGSgTT9"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 85983,
+      "name": "Oh, The Joy That Came To Me",
+      "url": "https://open.spotify.com/track/6HiEL8sTTAfhSNibOkghyd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gospel Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 141882,
+      "name": "So High, So Low",
+      "url": "https://open.spotify.com/track/0GGJAc3cUtcwNkSh3Ch4OT"
     },
     {
       "added_at": null,
@@ -615,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gospel Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
+        "name": "The Gospel Of The Blues",
+        "url": "https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA"
       },
       "artists": [
         {
@@ -624,25 +640,9 @@
           "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 141882,
-      "name": "So High, So Low",
-      "url": "https://open.spotify.com/track/0GGJAc3cUtcwNkSh3Ch4OT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spirituals In Rhythm",
-        "url": "https://open.spotify.com/album/0m04XubMVnvu8oKgGSgTT9"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 85983,
-      "name": "Oh, The Joy That Came To Me",
-      "url": "https://open.spotify.com/track/6HiEL8sTTAfhSNibOkghyd"
+      "duration_ms": 133160,
+      "name": "Sit Down",
+      "url": "https://open.spotify.com/track/5wEg2hMv0QRDuUoySWRRu6"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singing In My Soul",
-        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Strange Things Are Happening",
-      "url": "https://open.spotify.com/track/53RPjPo21M6JzNDZd0HQ2N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gospel Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 147701,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0uqrVU6p1FD04exzZKkLe0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singing In My Soul",
+        "url": "https://open.spotify.com/album/4Si6lSCmJNqUil1buKI4zw"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Strange Things Are Happening",
+      "url": "https://open.spotify.com/track/53RPjPo21M6JzNDZd0HQ2N"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosetta Tharpe Is Wonderful",
-        "url": "https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 124739,
-      "name": "God Is Wonderful",
-      "url": "https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Epic: The Soundtrack",
         "url": "https://open.spotify.com/album/21Sm8niJI2UqXfD3slifFQ"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 178400,
       "name": "Up Above My Head",
       "url": "https://open.spotify.com/track/4HhfG0tUfWTsyKgiCWk0SE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rosetta Tharpe Is Wonderful",
+        "url": "https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 124739,
+      "name": "God Is Wonderful",
+      "url": "https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
-        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 160731,
-      "name": "Rock Daniel (VD129)",
-      "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing Sister Sing",
         "url": "https://open.spotify.com/album/37eAippKdaKLfGT1Qo91br"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 101119,
       "name": "Travelin' Shoes",
       "url": "https://open.spotify.com/track/7u0xtYAnMsqrhz4dfhM90m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
+        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 160731,
+      "name": "Rock Daniel (VD129)",
+      "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
     },
     {
       "added_at": null,

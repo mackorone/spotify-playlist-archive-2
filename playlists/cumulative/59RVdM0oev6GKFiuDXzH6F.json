@@ -11321,6 +11321,28 @@
     },
     {
       "album": {
+        "name": "Loco Loco",
+        "url": "https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Loco Loco",
+      "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
+    },
+    {
+      "album": {
         "name": "Lookin 4 Me (feat. Hadar Adora)",
         "url": "https://open.spotify.com/album/2At1LoYQie7a3GT6ulZM1d"
       },

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,984 likes - 50 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,988 likes - 50 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Linoleum](https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Punk In Drublic](https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh) | 2:10 |
 | 2 | [Idiots Are Taking Over](https://open.spotify.com/track/4EUAdFODgiLjf1QNDq122f) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 3:21 |
-| 3 | [Minnesota Nazis](https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Minnesota Nazis](https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy) | 3:39 |
-| 4 | [Bob](https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:02 |
+| 3 | [Bob](https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:02 |
+| 4 | [Minnesota Nazis](https://open.spotify.com/track/29wgPMWqXQcezTMVBVV21X) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Minnesota Nazis](https://open.spotify.com/album/5zqJjEsvOX077dfZnfG2cy) | 3:39 |
 | 5 | [Monosyllabic Girl](https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 0:54 |
 | 6 | [The Separation of Church and Skate](https://open.spotify.com/track/4J4mHxR63tRwRCtuAB7aG8) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 3:09 |
 | 7 | [Seeing Double at the Triple Rock](https://open.spotify.com/track/5K5oUwfMJeRClJLQUSdKuD) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg) | 2:09 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 39 | [The Longest Line](https://open.spotify.com/track/76ePTtXUWNxPzip6pTt69O) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The Longest Line](https://open.spotify.com/album/6jKQuMZAUduiiBYspgmpZO) | 2:04 |
 | 40 | [Green Corn](https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Ribbed](https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ) | 1:44 |
 | 41 | [What's The Matter With Parents Today?](https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:58 |
-| 42 | [Cigarette Girl](https://open.spotify.com/track/5WQ6T2qB3FTdgrFUxscm2t) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 2:10 |
-| 43 | [Oxy Moronic](https://open.spotify.com/track/0d6SLBSgTzYfRalWF0QLqx) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/6MsmOTvTocDVQqc68Gj7Pj) | 3:56 |
+| 42 | [Oxy Moronic](https://open.spotify.com/track/0d6SLBSgTzYfRalWF0QLqx) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/6MsmOTvTocDVQqc68Gj7Pj) | 3:56 |
+| 43 | [Cigarette Girl](https://open.spotify.com/track/5WQ6T2qB3FTdgrFUxscm2t) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 2:10 |
 | 44 | [The Moron Brothers](https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Ribbed](https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ) | 2:26 |
 | 45 | [Bottles To The Ground](https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:20 |
 | 46 | [Soul Doubt](https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [White Trash, Two Heebs and a Bean](https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 49 | [And Now For Something Completely Similar](https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 0:58 |
 | 50 | [Mattersville](https://open.spotify.com/track/2NnnVb5986T5L0qyLdMqmT) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 2:28 |
 
-Snapshot ID: `aYp1AAAAAACuzI0wT/XWosPoMjQxR18S`
+Snapshot ID: `aYvGgAAAAAA2S8bXO8gso84ERgXWXOne`

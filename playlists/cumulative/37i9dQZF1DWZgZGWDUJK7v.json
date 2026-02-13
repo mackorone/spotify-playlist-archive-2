@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "Meet the popular webtoon OSTs now! (Cover: \uc5f0\uc560\ud601\uba85 (Love Revolution)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "description": "Meet the popular webtoon OSTs now! (Cover: \uc7ac\ud63c \ud669\ud6c4 (The Remarried Empress)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
   "name": "K-Webtoon/Anime OST (K-\uc6f9\ud230/\uc560\ub2c8\uba54\uc774\uc158 OSTs)",
   "tracks": [
     {
@@ -1749,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "Webtoon \u2018The Remarried Empress\u2019 Part. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2cuObUnEFIJR8pEWrKDEux"
+      },
+      "artists": [
+        {
+          "name": "BELLE",
+          "url": "https://open.spotify.com/artist/6NsHyr1CcyPSYAiWmW1A1U"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "I Rise (Webtoon \u2018The Remarried Empress\u2019)",
+      "url": "https://open.spotify.com/track/1zDVQYhoxBKlXkpUntu0Cr"
+    },
+    {
+      "album": {
         "name": "Coffee Fox Kim Sam Wol OST Part.1 (Soundtrack)",
         "url": "https://open.spotify.com/album/2E2XzUwbkkjeOkCVIScLmO"
       },
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 260173,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK"

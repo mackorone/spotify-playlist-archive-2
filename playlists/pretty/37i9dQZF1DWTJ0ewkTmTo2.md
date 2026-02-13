@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 
 > Get ready to sing your hearts out with these family friendly road trip classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 737,377 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 737,411 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 | 24 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
 | 25 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 |
 | 26 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
-| 27 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
-| 28 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
+| 27 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
+| 28 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 | 29 | [Since U Been Gone](https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:08 |
 | 30 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 |
 | 31 | [Call Me Maybe](https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:13 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 | 33 | [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 |
 | 34 | [Jessie's Girl](https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Working Class Dog](https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa) | 3:14 |
 | 35 | [Shake It Off](https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:39 |
-| 36 | [Two Princes](https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite \(Anniversary Edition\)](https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh) | 4:16 |
-| 37 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
+| 36 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
+| 37 | [Two Princes](https://open.spotify.com/track/0cuq829zRNq4AEdmDJA4aw) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite \(Anniversary Edition\)](https://open.spotify.com/album/3jx5C8Z66FwdjNkqsSDBQh) | 4:16 |
 | 38 | [Help! \- Remastered 2009](https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:19 |
 | 39 | [Beverly Hills](https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:16 |
 | 40 | [Achy Breaky Heart](https://open.spotify.com/track/2EoIt9vdgFRNW03u5IvFsQ) | [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa) | [Some Gave All](https://open.spotify.com/album/2Rh2JyaBjJwPMFR9Dl60nV) | 3:23 |

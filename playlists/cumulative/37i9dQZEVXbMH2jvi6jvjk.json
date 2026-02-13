@@ -3177,6 +3177,32 @@
     },
     {
       "album": {
+        "name": "AmaRider",
+        "url": "https://open.spotify.com/album/6swCK9UtZeTTl96vYWp5Td"
+      },
+      "artists": [
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3"
+        },
+        {
+          "name": "Officixl RSA",
+          "url": "https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246449,
+      "name": "AmaRider",
+      "url": "https://open.spotify.com/track/1eXAX85fhHNygLTnnA49Dp"
+    },
+    {
+      "album": {
         "name": "Amasango (feat. Sjavasdadeejay & TitoM)",
         "url": "https://open.spotify.com/album/3e4kcnfW5lh8vLnhVeeyer"
       },
@@ -21958,7 +21984,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 332386,
       "name": "I Love Her Again",
       "url": "https://open.spotify.com/track/5pjf75G1zn9EEFa8iaCV5h"
@@ -24086,7 +24112,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 394285,
       "name": "Iphupho (feat. Thatohatsi)",
       "url": "https://open.spotify.com/track/6t7jwNNBTceuXuVeT71naT"
@@ -28804,7 +28830,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 235906,
       "name": "Legacy (with PJ)",
       "url": "https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua"
@@ -30636,7 +30662,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 395493,
       "name": "Lutho (feat. De Rose)",
       "url": "https://open.spotify.com/track/54gOExDYI4WmDlwQaygLDp"
@@ -40188,7 +40214,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 350365,
       "name": "Phesheya",
       "url": "https://open.spotify.com/track/2cqRkbubhLlwDlEOoksEXt"
@@ -43420,7 +43446,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 242573,
       "name": "Run A Train (with Future)",
       "url": "https://open.spotify.com/track/4pPJQ2p8jIsBuvxEIW2R99"
@@ -47038,7 +47064,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"

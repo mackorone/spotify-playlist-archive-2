@@ -1,6 +1,6 @@
 {
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
-  "num_followers": 37475,
+  "num_followers": 37471,
   "original_name": "Footwork/Juke",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM"
+      },
+      "artists": [
+        {
+          "name": "DJ FLP",
+          "url": "https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA"
+        }
+      ],
+      "duration_ms": 363230,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/0lFoUvjrmqtll233XwCyko"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 193072,
       "name": "Pass That",
       "url": "https://open.spotify.com/track/4YKjrt7cGTQnu97OgKaFgC"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM"
-      },
-      "artists": [
-        {
-          "name": "DJ FLP",
-          "url": "https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA"
-        }
-      ],
-      "duration_ms": 363230,
-      "name": "Forgotten",
-      "url": "https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX"
     },
     {
       "added_at": "2023-06-30 04:00:00",

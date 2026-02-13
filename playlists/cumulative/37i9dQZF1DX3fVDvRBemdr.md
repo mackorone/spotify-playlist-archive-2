@@ -2,9 +2,9 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> De nieuwste releases Hollands & Volks\. Cover: Jesse Prins
+> De nieuwste releases Hollands & Volks\. Cover: Dave Dekker
 
-534 songs - 1 day 1 hr 49 min
+539 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Een Dag Niet Gelachen](https://open.spotify.com/track/3f9ox3NTcvBctWb0VyPRdA) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [Een Dag Niet Gelachen](https://open.spotify.com/album/4rSAI90WhB1jvUv0xkAOMa) | 2:24 | 2025-12-04 |  |
 | [Een Druppeltje Geluk](https://open.spotify.com/track/4Kp5K5QOiaQTXAkYHVlgnn) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Een Druppeltje Geluk](https://open.spotify.com/album/1Gyh2UyLO4xNOwjKxtAiJ7) | 3:17 | 2025-01-10 | 2025-04-04 |
 | [Een Hemels Feest](https://open.spotify.com/track/1rcNMAQ6BVcXi3YhGNXbfJ) | [Edwin Van Der Toolen](https://open.spotify.com/artist/30V9SaUhU48JzEtGT7x8eI) | [Een Hemels Feest](https://open.spotify.com/album/2L3IbhLTe5lfCCFS0BMJBi) | 2:58 | 2024-11-04 | 2025-02-28 |
+| [Eenzaamheid Maakt Alle Mensen Gelijk](https://open.spotify.com/track/3qjKAJvIbedMgBDvuXKBnS) | [William Burg](https://open.spotify.com/artist/4NsbHQrXLybMMQCmVBHo2y) | [Eenzaamheid Maakt Alle Mensen Gelijk](https://open.spotify.com/album/0OVJFJ9wm0ESDjUbXjY3nt) | 3:08 | 2026-02-12 |  |
 | [Eeuwige Vrijgezel](https://open.spotify.com/track/7zOd09BFkqClE1ExyMBAli) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Eeuwige Vrijgezel](https://open.spotify.com/album/0ZI3DVDtDxy84x1K5EbmOF) | 2:43 | 2025-02-27 | 2025-06-13 |
 | [Eigen Schuld](https://open.spotify.com/track/1AHGfEp4zcjYK9cjj6W1vT) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Eigen Schuld](https://open.spotify.com/album/61Qr7dTzKj6UJkDcgv1vG7) | 2:47 | 2026-01-29 |  |
 | [Elize](https://open.spotify.com/track/7GM2Kw9ljFkWCATZlXs9t6) | [Rocky Pauw](https://open.spotify.com/artist/4ZAsWJbCCCCKS5r0z0qIvd) | [Elize](https://open.spotify.com/album/0A7vchdRrasOb5dXUiTyIR) | 3:02 | 2025-11-27 | 2026-01-23 |
@@ -173,16 +174,19 @@
 | [Geen Rem](https://open.spotify.com/track/3MzLHKhtdZhnZZW6I9SA51) | [Gino Graus](https://open.spotify.com/artist/4gdJesT5lTB7pRinLDB4iT) | [Geen Rem](https://open.spotify.com/album/00u43daJFLpuFSQohB0l1r) | 2:55 | 2025-01-10 | 2025-04-18 |
 | [Gekke Henkie](https://open.spotify.com/track/0JgjTKDzat4XqdKE0efgMK) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Gekke Henkie](https://open.spotify.com/album/4YSlyuxYSVoI72Tmv0aoxU) | 2:36 | 2025-10-02 | 2026-02-06 |
 | [Gekke Makelaar](https://open.spotify.com/track/1619tucbCv9JfHFHrglvaN) | [Richell](https://open.spotify.com/artist/7aLeCI1mEhWe4jOJRjADV2) | [Gekke Makelaar](https://open.spotify.com/album/6aZp52KbGn66Dy1gb0TItf) | 2:11 | 2026-01-22 |  |
+| [Gekkenhuis](https://open.spotify.com/track/6mbWCEF2EythgujAeKwE81) | [Mick Harren](https://open.spotify.com/artist/3rC0vVL6atCESm1dahvBDl) | [Gekkenhuis](https://open.spotify.com/album/6SYqQyKQjPrejCqpzrU1zI) | 3:08 | 2026-02-12 |  |
 | [Geld Maakt Niet Gelukkig](https://open.spotify.com/track/5goNWoaojSwBrmXHZuXlv2) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Geld Maakt Niet Gelukkig](https://open.spotify.com/album/50Aag4UQT0FrhXDk4H1fps) | 2:37 | 2024-08-29 | 2025-02-08 |
 | [Gelukkig](https://open.spotify.com/track/54IC3MsaaeBkxY4GXKUixY) | [Marlous](https://open.spotify.com/artist/5Eld7TocuB1kAsvOnssFUf) | [Gelukkig](https://open.spotify.com/album/1tgndivifoeWt6Ierx1meq) | 3:24 | 2025-11-13 |  |
 | [Gelukkig Heb Ik Jou Nog](https://open.spotify.com/track/3AHSS3a8DEMiAPDM0C2aOE) | [GIO VAN VEEN](https://open.spotify.com/artist/4vssXvv1qrZJ8ti9PbTm8j) | [Gelukkig Heb Ik Jou Nog](https://open.spotify.com/album/6cfRQ6FFOBdEgIFSsvYt4O) | 2:54 | 2025-02-03 | 2025-04-04 |
 | [Geniet Zo Van Het Leven](https://open.spotify.com/track/3uVbuP7Bk3U4J9g6LLs0RY) | [Toon Schut](https://open.spotify.com/artist/4vZnZBqVPhnTFy8xBQNpC2) | [Geniet Zo Van Het Leven](https://open.spotify.com/album/61GZrvfpeJfFjCjNA1qXPm) | 2:21 | 2025-11-20 | 2026-02-06 |
+| [Genieten zonder spijt](https://open.spotify.com/track/62hSdHFvbwINZpG611wfiu) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Genieten zonder spijt](https://open.spotify.com/album/4QHwUmWUFH5SiNWLfmA1G3) | 2:53 | 2026-02-12 |  |
 | [Geouwehoer](https://open.spotify.com/track/482UpSEiMaKq7iOUxSvydd) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Geouwehoer](https://open.spotify.com/album/73ZqNRlby912HDhC6XyIm0) | 3:29 | 2025-10-23 |  |
 | [Gevangenis](https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Gevangenis](https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM) | 2:44 | 2025-10-23 |  |
 | [Gewoon Omdat Het Kan](https://open.spotify.com/track/5UkKbrz487JtcpIqwkvfuF) | [Davey van der Sluis](https://open.spotify.com/artist/3ewaEvAw1iJsUt6mcCWUMs) | [Gewoon Omdat Het Kan](https://open.spotify.com/album/4Igks3lKCilN0C2CONNSPi) | 2:06 | 2025-11-13 |  |
 | [Gianna](https://open.spotify.com/track/04j7fMxsyGzfeCwS0M2Iyq) | [Dean Saunders](https://open.spotify.com/artist/6TBzLFNJfgT63BNFn0ZK2t) | [Gianna](https://open.spotify.com/album/0MKOgCuZhl3ihwCe1ZJqzE) | 3:26 | 2025-08-14 | 2025-11-14 |
 | [Giga Giga Winter](https://open.spotify.com/track/5gpzDfWSrpnGPP8rN9G43t) | [Rob Zorn](https://open.spotify.com/artist/0c6wYitLm4qjmJSfw4Aej8) | [Giga Giga Winter](https://open.spotify.com/album/3HqDAi4tba3BwAPMmOYqc1) | 3:17 | 2024-11-21 | 2025-01-07 |
 | [Gipsy](https://open.spotify.com/track/2VKz7PoOPT8bFmcA80vbZe) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Gipsy](https://open.spotify.com/album/35qNQKTgoI2RzPJV29PoMb) | 3:28 | 2024-11-07 | 2025-02-28 |
+| [Gisteren Was Het Feest](https://open.spotify.com/track/3Ae5hDXfwS4QxwCGVnUx8i) | [Matthijs Koning](https://open.spotify.com/artist/6yaUUCx2XvvugnXs6h9oVV) | [Gisteren Was Het Feest](https://open.spotify.com/album/5rKeYZFEQaQhsmYStku0Tp) | 2:55 | 2026-02-12 |  |
 | [Goede Slechte Tijden](https://open.spotify.com/track/5yfulbZVOrtOPI4SW9ZSV7) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Goede Slechte Tijden](https://open.spotify.com/album/4UOzDZACPl3BTnUVZh25J1) | 2:28 | 2025-09-04 | 2025-11-14 |
 | [Goud](https://open.spotify.com/track/2gf4tNTtfDh8FoREZGc1aS) | [Guus Doggen](https://open.spotify.com/artist/5EOFZMTcOOtNcSZdJMOkYJ) | [Goud](https://open.spotify.com/album/4gaHOqxgETRFxWS0g2EX8Q) | 2:36 | 2025-11-06 |  |
 | [Had Jij Gedacht](https://open.spotify.com/track/3RWj13NKn7kxFKvP6kyjmZ) | [Anthonie Krijkamp](https://open.spotify.com/artist/0VCtDmJOXLvKrLghMKgsNo) | [Had Jij Gedacht](https://open.spotify.com/album/2mdwwCCw0szjoRbywp3szc) | 2:18 | 2025-07-17 | 2025-08-08 |
@@ -353,6 +357,7 @@
 | [Mijn Vader](https://open.spotify.com/track/47i9ElelaZpAmtxvl8rUDr) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Mijn Vader](https://open.spotify.com/album/0J5t9pYHLzRl93fcUpp9vY) | 3:42 | 2025-06-05 | 2025-07-11 |
 | [Mirjana 2.0](https://open.spotify.com/track/70Enwp7Oajrq6OhHbsAp3G) | [Martin Sifoy](https://open.spotify.com/artist/2pMQc3rQHljavN9dUHj4Xa) | [Mirjana 2.0](https://open.spotify.com/album/1STsKNbEvKXPSIJWEPF02R) | 2:56 | 2025-06-12 | 2025-07-04 |
 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 | 2025-02-27 | 2025-06-20 |
+| [Monica](https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Monica](https://open.spotify.com/album/76FCh8KbiHcDiThhJXkM6e) | 3:06 | 2026-02-12 |  |
 | [Moët Dat Nou](https://open.spotify.com/track/0HWjXL4layDbYbCj21uzd8) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE) | [Moët Dat Nou](https://open.spotify.com/album/7F5D4dM8ANyl1zY5V7knze) | 2:34 | 2026-01-09 |  |
 | [Muchos Licores](https://open.spotify.com/track/440XZ0yUIcTKwKIS5aIstU) | [Jari Hellegers](https://open.spotify.com/artist/2jPuZfXN0BcFiNowWQk4au) | [Muchos Licores](https://open.spotify.com/album/5qZ4Qd5gOyKY5rktsGX1JQ) | 2:19 | 2024-07-11 | 2025-11-07 |
 | [My Boy / Mijn Zoon](https://open.spotify.com/track/5oY2F1gLkA5sbbY0BWx1ne) | [Bouke](https://open.spotify.com/artist/47jGPDwl3tZIKpBbn4eWtu), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [My Boy / Mijn Zoon](https://open.spotify.com/album/19d1Ss80eH1I0bTavBkaTz) | 3:36 | 2025-02-13 | 2025-05-02 |

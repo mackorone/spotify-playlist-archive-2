@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Arya in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "INVERNO in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -749,6 +749,28 @@
     },
     {
       "album": {
+        "name": "alba",
+        "url": "https://open.spotify.com/album/2vVhrAJGPwEczJKwjMHPCh"
+      },
+      "artists": [
+        {
+          "name": "Big Dave",
+          "url": "https://open.spotify.com/artist/7mJ5wRuabjjgBefTAQ1mST"
+        },
+        {
+          "name": "Giordano Dan",
+          "url": "https://open.spotify.com/artist/63Gyhf9hKGOAp5HhEqhyqk"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217482,
+      "name": "alba",
+      "url": "https://open.spotify.com/track/3ghXBFBVy0o5VlEO63WuBZ"
+    },
+    {
+      "album": {
         "name": "NHP+",
         "url": "https://open.spotify.com/album/4b8b3XF7WiMNaUXQ8Kf5Yi"
       },
@@ -1032,7 +1054,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 191127,
       "name": "Andiamo lontano",
       "url": "https://open.spotify.com/track/6epxNY4ColYTPqcFJH1t1J"
@@ -3978,7 +4000,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 132000,
       "name": "Como Tu",
       "url": "https://open.spotify.com/track/6Qe06F7JkIWwjq8pdNyNRc"
@@ -4040,7 +4062,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 193841,
       "name": "Conmigo",
       "url": "https://open.spotify.com/track/0zt6IjCPYnF8osoS4PYSGd"
@@ -4636,6 +4658,24 @@
       "duration_ms": 181524,
       "name": "Dettagli",
       "url": "https://open.spotify.com/track/7isfTQzWnrGZPv0eLf92cF"
+    },
+    {
+      "album": {
+        "name": "Act II: Devi stare quiet / Questa citt\u00e0 brucia",
+        "url": "https://open.spotify.com/album/0HWRRstSBPJxpObtaSK16b"
+      },
+      "artists": [
+        {
+          "name": "INVERNO",
+          "url": "https://open.spotify.com/artist/7Ao4PRYc1rFAZVkr0FKnrt"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164096,
+      "name": "Devi stare quiet",
+      "url": "https://open.spotify.com/track/0Op7XFczJtSbxNXHVRRRMv"
     },
     {
       "album": {
@@ -8685,6 +8725,24 @@
     },
     {
       "album": {
+        "name": "la tua strada",
+        "url": "https://open.spotify.com/album/22JOBUjNBSpE9lExPv3VJt"
+      },
+      "artists": [
+        {
+          "name": "Evra",
+          "url": "https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "la tua strada",
+      "url": "https://open.spotify.com/track/1sdyBYV3veJtQZjtKXOoPb"
+    },
+    {
+      "album": {
         "name": "La t\u00eate",
         "url": "https://open.spotify.com/album/041xiEWdbxKjnK0oAsgsF2"
       },
@@ -11056,6 +11114,24 @@
       "duration_ms": 214766,
       "name": "Nel Vortice",
       "url": "https://open.spotify.com/track/3Gy88h0xErGucDUTBOyV31"
+    },
+    {
+      "album": {
+        "name": "Nen\u00e8",
+        "url": "https://open.spotify.com/album/4y9dapheFFFFpwKcYH1rce"
+      },
+      "artists": [
+        {
+          "name": "JANAKI",
+          "url": "https://open.spotify.com/artist/5x9yExrQoWWxIruKCWIMip"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212459,
+      "name": "Nen\u00e8",
+      "url": "https://open.spotify.com/track/65UY8dcWKmyuOilr3KYede"
     },
     {
       "album": {
@@ -14402,6 +14478,24 @@
       "duration_ms": 220408,
       "name": "Resta Ancora Qui",
       "url": "https://open.spotify.com/track/0c7g2K0GXT8bHB6mR5iMFe"
+    },
+    {
+      "album": {
+        "name": "Resta qui",
+        "url": "https://open.spotify.com/album/3oLp2u0BBj1B5FAmzUAt1P"
+      },
+      "artists": [
+        {
+          "name": "Fat\u0259",
+          "url": "https://open.spotify.com/artist/1114HiXMQMHW4hiof99yFS"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154451,
+      "name": "Resta qui",
+      "url": "https://open.spotify.com/track/0IGUXQ9IrxEQzAkkd1Jy6H"
     },
     {
       "album": {
@@ -19090,7 +19184,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 137236,
       "name": "wabi sabi",
       "url": "https://open.spotify.com/track/1NEBMLtZNI6Dg3uy1Ad7UQ"
@@ -19116,7 +19210,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 211894,
       "name": "WHERE U AT",
       "url": "https://open.spotify.com/track/0lex7KqPfrmHaaRqGseF29"

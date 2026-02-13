@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,456 likes - 80 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,554 likes - 80 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 9 | [Bette Davis Eyes](https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5) | [Kim Carnes](https://open.spotify.com/artist/5PN2aHIvLEM98XIorsPMhE) | [Mistaken Identity](https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA) | 3:48 |
 | 10 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 11 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
-| 12 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
-| 13 | [Eye of the Tiger](https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 4:03 |
+| 12 | [Eye of the Tiger](https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Eye Of The Tiger](https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W) | 4:03 |
+| 13 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 14 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 15 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
 | 16 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 19 | [Faith \- Remastered](https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 3:13 |
 | 20 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 |
 | 21 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
-| 22 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 |
+| 22 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:29 |
 | 23 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 |
-| 24 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:29 |
+| 24 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 |
 | 25 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
 | 26 | [Celebration](https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Celebrate!](https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI) | 4:58 |
 | 27 | [Call Me](https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic/Atomix](https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6) | 3:32 |

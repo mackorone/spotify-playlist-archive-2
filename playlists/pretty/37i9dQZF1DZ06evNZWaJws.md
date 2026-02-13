@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 
 > This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,884 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,922 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,17 +16,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 6 | [Mis Tres Viejas](https://open.spotify.com/track/1yxJIFPhP2EqnQ6oWJKbmP) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 2:42 |
 | 7 | [La Chona](https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Robaste El Corazon](https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y) | 3:18 |
 | 8 | [Es Verdad](https://open.spotify.com/track/0mPDiJbkbk88vpgviK63Fm) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:48 |
-| 9 | [Las Heladas](https://open.spotify.com/track/50sTMaXwK2k8ZTgnLNuHhE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 2:44 |
+| 9 | [Espejeando](https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:03 |
 | 10 | [Me Gusta Vivir De Noche](https://open.spotify.com/track/4GoBPGSNDWr9Sgi2Sc8xsj) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Gusta Vivir De Noche](https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd) | 3:35 |
 | 11 | [Mis Tres Animales](https://open.spotify.com/track/50urwe1JN84PxSKsJ8yY2p) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [14 Tucanazos Bien Pesados](https://open.spotify.com/album/5poff6oDNapTa60LAq46O0) | 2:43 |
 | 12 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 |
-| 13 | [Espejeando](https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:03 |
+| 13 | [Las Heladas](https://open.spotify.com/track/50sTMaXwK2k8ZTgnLNuHhE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 2:44 |
 | 14 | [Cien Por Uno](https://open.spotify.com/track/64VeKDD6z3P2UnDl8nphc4) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos De Primera Plana](https://open.spotify.com/album/368bh2s0aVeChSmOHvmXxz) | 3:45 |
 | 15 | [Rigo Campos](https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Rigo Campos](https://open.spotify.com/album/1qFit9VXot0CCpEk3HuWOb) | 3:47 |
 | 16 | [Temporada En La Sierra](https://open.spotify.com/track/5q7Fuxm9jsbkui4OfsBvrG) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:49 |
 | 17 | [Tus Verdades](https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:35 |
-| 18 | [El Diablo \(Tema De La Película "El Infierno"\)](https://open.spotify.com/track/5yFBa03KP98kIbOQkD2UeT) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Árbol](https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT) | 3:18 |
-| 19 | [Soy Todo Tuyo](https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Soy Todo Tuyo](https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx) | 3:07 |
+| 18 | [Soy Todo Tuyo](https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Soy Todo Tuyo](https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx) | 3:07 |
+| 19 | [El Diablo \(Tema De La Película "El Infierno"\)](https://open.spotify.com/track/5yFBa03KP98kIbOQkD2UeT) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Árbol](https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT) | 3:18 |
 | 20 | [La Piñata](https://open.spotify.com/track/0g1Qhh4ijd51TcpV53O8dU) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:07 |
 | 21 | [El Papa de Los Pollitos](https://open.spotify.com/track/3KAcYTn1jBKdqnep5HjI7e) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Papá De Los Pollitos](https://open.spotify.com/album/4ZnliQGsaaGr7O2SLtDuHG) | 3:19 |
 | 22 | [Clave Nueva](https://open.spotify.com/track/0puyjmma5eQMZJ8hi9DyTt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Clave Nueva](https://open.spotify.com/album/0NnVLyoPXRp3hs8Gd3PHCZ) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 49 | [La Gran Noche](https://open.spotify.com/track/1A1J6knUAtu0FgY1GeqyfU) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Gusta Vivir De Noche](https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd) | 3:11 |
 | 50 | [Tus Verdades \(En Vivo\)](https://open.spotify.com/track/15Y1KUm93ke9daK1JlqsjM) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Arriba La Tía, Desde Las Vegas \(En Vivo\)](https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO) | 2:52 |
 
-Snapshot ID: `aYp1AAAAAAAKIsgfhUky6Iurb8LptcAX`
+Snapshot ID: `aYvGgAAAAADAGjAXV8h1rRaDdZ2aQC5I`

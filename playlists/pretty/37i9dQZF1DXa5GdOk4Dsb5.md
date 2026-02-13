@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 
 > Para ahogar las penas en el fondo de una botella\. Jessi Uribe en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,853 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,930 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 49 | [El Malo](https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm) | 4:09 |
 | 50 | [Como Si Nada](https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:09 |
 | 51 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
-| 52 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 |
-| 53 | [Ni Por Mil Puñados De Oro](https://open.spotify.com/track/4VEBNcqsygMc4VOJyR6MuN) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Por El Amor A Mi Madre](https://open.spotify.com/album/47TTo2l9XEU3fQu5W9pe9p) | 2:20 |
+| 52 | [Ni Por Mil Puñados De Oro](https://open.spotify.com/track/4VEBNcqsygMc4VOJyR6MuN) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Por El Amor A Mi Madre](https://open.spotify.com/album/47TTo2l9XEU3fQu5W9pe9p) | 2:20 |
+| 53 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 |
 | 54 | [Alma Enamorada](https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:55 |
 | 55 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 |
 | 56 | [Debí Suponerlo \- Versión Mariachi](https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Debí Suponerlo \(Versión Mariachi\)](https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM) | 2:40 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5GdOk4Dsb5.md) - [plain]
 | 93 | [La Conquista](https://open.spotify.com/track/4o5DwAte1mdSB3YfIKwZjm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [La Conquista](https://open.spotify.com/album/5uZpOJO7pLBQ7nSHE1fjjY) | 3:06 |
 | 94 | [Amor Verdadero](https://open.spotify.com/track/1T9fuxX8eO5LbpYxq80faP) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:07 |
 | 95 | [OK](https://open.spotify.com/track/7uUt5Q3ToDZhMQSGiqoLmv) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi) | 2:21 |
-| 96 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:20 |
+| 96 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 |
 | 97 | [No Es Por Acá](https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Es Por Acá](https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k) | 2:47 |
-| 98 | [Cupido Falló](https://open.spotify.com/track/42RKuMMmSjr4AX3m5RRm8L) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Cupido Falló](https://open.spotify.com/album/5dhqkA6KOXgukDTilRTAj0) | 3:17 |
+| 98 | [Que Te Lo Crea Tu Madre](https://open.spotify.com/track/1FEH4cNvTNkBO5tM4mMyag) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Las Compuse para Ti](https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv) | 3:20 |
 | 99 | [De Pura Rabia](https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [De Pura Rabia](https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX) | 3:07 |
 
 Snapshot ID: `AAAAAB7TpwHxGGwtMF3flyORYfGMbusF`

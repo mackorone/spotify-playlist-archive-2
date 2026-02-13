@@ -174,7 +174,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 179200,
       "name": "Acid Disco",
       "url": "https://open.spotify.com/track/2JKf4fQir0tbd8mBcrvJqE"
@@ -4897,6 +4897,28 @@
     },
     {
       "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/3IIcIxBM771Nd5KIRYRQor"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187384,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/1A0yrRs7GAe1gbCklYE6wl"
+    },
+    {
+      "album": {
         "name": "God Save the Rave",
         "url": "https://open.spotify.com/album/1gJBY42LTHtG7e4bLUi9uV"
       },
@@ -5636,7 +5658,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 162578,
       "name": "Hypnotising",
       "url": "https://open.spotify.com/track/3dMeC0ZvUkklhOHIEzQcfH"
@@ -7208,6 +7230,40 @@
       "duration_ms": 200292,
       "name": "MAKI",
       "url": "https://open.spotify.com/track/49zTxpRczdi1GiWNIhkJ3A"
+    },
+    {
+      "album": {
+        "name": "Makina Time",
+        "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Dj Konik",
+          "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130090,
+      "name": "Makina Time",
+      "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
     },
     {
       "album": {

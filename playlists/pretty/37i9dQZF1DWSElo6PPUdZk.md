@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Nimrat Khaira
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,120 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,156 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sheesha](https://open.spotify.com/track/6oyMFlglGxhB5o8JMUYrzT) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Forever](https://open.spotify.com/album/3eOgLmDciOYgHrX60jnN9y) | 3:08 |
 | 2 | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/track/3dWqtHvm7AuPTnvnrtl1b0) | [Rupinder Handa](https://open.spotify.com/artist/6Yn7JpYwiZUEUlKbrPLfh3), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [Kaali Activa \- Pind De Gerhe](https://open.spotify.com/album/1ZrFTErvBb0enB2kRqaWI4) | 3:53 |
-| 3 | [OMG](https://open.spotify.com/track/0yNVNZIGFH8sx6sdticsiA) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [N Vee](https://open.spotify.com/artist/4O58hOXQfK7tmXXhg5i1BL) | [OMG](https://open.spotify.com/album/52dK7gHiMtNksMerWBRq3Z) | 2:20 |
+| 3 | [Let It Happen](https://open.spotify.com/track/6L9p4IvKa3Xa3cctVOqnEL) | [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [Let It Happen](https://open.spotify.com/album/5Yb4WsQzfHDQEg0qGcnzFT) | 2:27 |
 | 4 | [Dangeyaa](https://open.spotify.com/track/2cznhWoWHi1LGTi7aJM6NX) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Pannu Maan](https://open.spotify.com/artist/6Uahqqf56uJl0XXAxGC74p) | [Dangeyaa](https://open.spotify.com/album/02oTFRfvda71AUB3lHiekJ) | 2:47 |
 | 5 | [Chitte Kurte Waleya](https://open.spotify.com/track/0RXKcVTby7pYusTm2t3rE5) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Chitte Kurte Waleya](https://open.spotify.com/album/1ZNDNUpjtB0LcDPbOUdP9U) | 3:02 |
 | 6 | [Sukoon](https://open.spotify.com/track/6L7dfCKQ3aiLxO1LhbXxux) | [Sakshi Ratti](https://open.spotify.com/artist/0hiYQJ7bFeqV3IJuF6fG7Y) | [Sukoon](https://open.spotify.com/album/11bcNhD31YIICMMmUQZd4s) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Ammiye](https://open.spotify.com/track/48bRxd4YmkZSMaCEiNpWbP) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:40 |
 | 50 | [All Of You](https://open.spotify.com/track/1QCU59QRGh7vkgSIAM9NNx) | [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Dilmaan](https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK) | [All Of You](https://open.spotify.com/album/3uvubadrqzODiqtkV5fsQR) | 2:19 |
 
-Snapshot ID: `AAAAALwbDFnUKEsArWy0KTghYZ7kvM3A`
+Snapshot ID: `AAAAADZ1PcWX5ckfa3l1kIe9kwkIDD6C`

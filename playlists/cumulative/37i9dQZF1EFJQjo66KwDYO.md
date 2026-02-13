@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4md41gWw4iHeQrueXkPBmc">Dyo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-71 songs - 3 hr 37 min
+73 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Already Know](https://open.spotify.com/track/6OaLMeC2dKySw0lYyMoXo3) | [23 Unofficial](https://open.spotify.com/artist/3wvA1LQHLvXmkPFm3WtSrI), [Tayá](https://open.spotify.com/artist/0QHXPsTQVqvNPfK6edjInM) | [The Unofficial Album](https://open.spotify.com/album/5s8cSWiL3tx1ijNoJRwDm2) | 3:04 | 2024-08-07 |  |
 | [Arena \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/1SUYyb19XaRPXJh9nfLoW0) | [Dyo](https://open.spotify.com/artist/4H1PNuHElBLVok0lnYMrRb), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Arena \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/2pbAobwTic4qoJQzjkNnwt) | 3:24 | 2024-08-07 |  |
 | [BACK to YOU](https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:35 | 2025-04-09 |  |
-| [Bad Vibe](https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:34 | 2024-08-07 |  |
+| [Bad Vibe](https://open.spotify.com/track/3HATF0OPbTWWy5TPz8KiAu) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:34 | 2024-08-07 | 2026-02-13 |
+| [Bad Vibe](https://open.spotify.com/track/70eehEqNug7oAhozjhG21t) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Lotto Boyzz](https://open.spotify.com/artist/6TlhWcs3imNDmxFviZjpDX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Bad Vibe](https://open.spotify.com/album/0gLjyIohhJ5LxXPRJhIOtq) | 3:34 | 2026-02-12 |  |
 | [Bounce](https://open.spotify.com/track/2EYuXHbbhNY1R8ORtWp6gl) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic \(Deluxe Version\)](https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf) | 2:47 | 2024-08-07 |  |
 | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/track/59nbIJxGb1qkrzbtTomZkL) | [Jesy Nelson](https://open.spotify.com/artist/73KwqWuob0R53I14Vs56p9), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Boyz \(feat\. Nicki Minaj\)](https://open.spotify.com/album/4ShgsMHEHPPLI6Dk16HNF1) | 2:59 | 2024-08-07 |  |
 | [Bulletproof](https://open.spotify.com/track/2bLNCZeUzcu3dPPRI2xw2r) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [BARE WITH ME \(The Album\)](https://open.spotify.com/album/3KhbfZCXAGH3Zih09mAp5e) | 3:43 | 2024-08-07 |  |
@@ -77,7 +78,8 @@
 | [With You \- Team Salut Remix](https://open.spotify.com/track/5jOTqna3o2dvQbigp6TECt) | [DUSK](https://open.spotify.com/artist/3MZOJgyDf3rGiesBu9Xil6), [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Team Salut](https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH) | [With You \(Remixes\)](https://open.spotify.com/album/4MoN9o7EsiKnjntLUNnYaa) | 3:28 | 2025-06-27 | 2025-07-10 |
 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2025-01-09 | 2025-04-12 |
 | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/track/5HHqox80tEzKiorzCVkSp6) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:11 | 2024-08-07 |  |
-| [Wondering](https://open.spotify.com/track/0LsLfkwQYTQ010Ml9B3I4I) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:07 | 2024-08-07 |  |
+| [Wondering](https://open.spotify.com/track/0LsLfkwQYTQ010Ml9B3I4I) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:07 | 2024-08-07 | 2026-02-13 |
+| [Wondering](https://open.spotify.com/track/0W62hhso3n2u9mq7g2D6Hn) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [Wondering](https://open.spotify.com/album/5F052ZxRL4lWoaIRxTLKNN) | 3:07 | 2026-02-12 |  |
 | [Xai](https://open.spotify.com/track/5nn8n54NEKniTH8fpfKjNP) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:15 | 2024-08-07 |  |
 
 \*This playlist was first scraped on 2024-08-08. Prior content cannot be recovered.

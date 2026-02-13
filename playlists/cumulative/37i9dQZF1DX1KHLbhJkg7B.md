@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Dan + Shay
 
-444 songs - 1 day 3 hr 45 min
+445 songs - 1 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Faithfully \- feat\. Willie Nelson](https://open.spotify.com/track/1vnZeVXl71X1D7WHgGotLY) | [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Faithfully \(feat\. Willie Nelson\)](https://open.spotify.com/album/3WUpUwDbCVQyeKq8YigINX) | 4:22 | 2025-05-16 | 2025-08-30 |
 | [Fall For You](https://open.spotify.com/track/1WBjNLcV8rSwvMVk1hH1Hh) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Fall For You](https://open.spotify.com/album/7Ead2MCF3iQUU15W1v46d0) | 2:56 | 2024-01-19 | 2024-05-18 |
 | [Falling \- Spotify Singles](https://open.spotify.com/track/6FHfUzKEh5vR0V3auDHHTW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 3:44 | 2023-03-17 | 2023-06-19 |
+| [Fame Is A Gun](https://open.spotify.com/track/5yWWa7xMrXjB7kw5u7xLat) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Fame Is A Gun](https://open.spotify.com/album/2tVIPtGNg9l31BI3DcLVtb) | 4:00 | 2026-02-12 |  |
 | [Farewell Party](https://open.spotify.com/track/06OO9hB9riQOLRGNCsZiQl) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:08 | 2021-12-10 | 2022-07-26 |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-03-24 |  |
 | [Feathered Indians](https://open.spotify.com/track/2WRQB0pN5ddmTM8XgjqRHV) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Feathered Indians](https://open.spotify.com/album/7Ephl9oBmFd7rfvWihjJQL) | 3:10 | 2022-07-29 | 2025-05-24 |
@@ -341,7 +342,7 @@
 | [Stay](https://open.spotify.com/track/7HCpV8ksGTbXRRq91RceRl) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [Stay](https://open.spotify.com/album/0QoBtGuvBvCZirZiPPYxpB) | 3:45 | 2023-11-03 | 2024-04-19 |
 | [Steal My Girl](https://open.spotify.com/track/5nraaaIIPnVoXFLcFA1MDJ) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Do It Anyway](https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y) | 3:48 | 2023-09-29 | 2024-08-31 |
 | [Still into You](https://open.spotify.com/track/2Cxo9xfuyaCdVxVdFsiYSl) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Still into You](https://open.spotify.com/album/2bMes0XVSc7GH1dX0EN5n0) | 4:12 | 2025-11-14 |  |
-| [Stop Draggin' My Heart Around](https://open.spotify.com/track/5XeIgn1dQwDZPhhkPIfaap) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Stop Draggin' My Heart Around](https://open.spotify.com/album/7FdqXRWzRjtH0ZyUK6FS34) | 4:18 | 2024-06-21 |  |
+| [Stop Draggin' My Heart Around](https://open.spotify.com/track/5XeIgn1dQwDZPhhkPIfaap) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Stop Draggin' My Heart Around](https://open.spotify.com/album/7FdqXRWzRjtH0ZyUK6FS34) | 4:18 | 2024-06-21 | 2026-02-13 |
 | [Storms Never Last](https://open.spotify.com/track/4eFO9eib4mPZYKAWCl2zKa) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Storms Never Last](https://open.spotify.com/album/5FaXoAFB95CiYsxkJAOrIc) | 3:22 | 2022-04-15 | 2022-07-12 |
 | [Straight Tequila Night](https://open.spotify.com/track/6rM6byRRxL2BZEKJ4UMNBl) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 3:23 | 2022-08-05 | 2022-11-06 |
 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 | 2021-12-10 | 2024-08-22 |

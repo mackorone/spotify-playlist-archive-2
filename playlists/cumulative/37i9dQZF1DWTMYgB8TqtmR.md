@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-1,032 songs - 2 day 3 hr 44 min
+1,033 songs - 2 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-14 | 2023-09-12 |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-11 | 2023-09-21 |
 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2022-07-21 | 2023-04-14 |
-| [Bakom molnen](https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Bakom molnen](https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o) | 3:02 | 2025-11-04 |  |
+| [Bakom molnen](https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Bakom molnen](https://open.spotify.com/album/45YWIRQbOKBHi8FwMBTT6o) | 3:02 | 2025-11-04 | 2026-02-13 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-03 | 2022-06-10 |
 | [BANANANAS](https://open.spotify.com/track/4wk5F6LPPm0DTl0kA5r25K) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [BANANANAS](https://open.spotify.com/album/6eJNlN1SvQB9HrTSvjbcj6) | 2:25 | 2025-06-26 | 2025-08-01 |
 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-02-26 | 2025-09-19 |
@@ -1040,5 +1040,6 @@
 | [Över](https://open.spotify.com/track/1enxBOSOQnVVHMNI6BBv8q) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr) | [Över](https://open.spotify.com/album/0jbr13J0q4bxhSCiqjYQwR) | 2:10 | 2023-04-20 | 2023-05-19 |
 | [Överallt](https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Överallt](https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM) | 2:05 | 2023-11-07 | 2024-02-04 |
 | [Överallt](https://open.spotify.com/track/4HbjNhJI28hVrLv90NKia2) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Bestämda Kliv](https://open.spotify.com/album/5vfP4ynhnd7wqU84adLvcG) | 2:05 | 2024-02-01 | 2024-03-16 |
+| [Övertänker](https://open.spotify.com/track/3U573wJbbipFNpkGGE2pQh) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Övertänker](https://open.spotify.com/album/38tGxDfs43Mnsip0jruENW) | 3:23 | 2026-02-12 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

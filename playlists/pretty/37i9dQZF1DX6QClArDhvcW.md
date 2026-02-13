@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 
 > laid\-back beats for an easygoing morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,922 likes - 100 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,997 likes - 100 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QClArDhvcW.md) - [plain]
 | 99 | [Maple](https://open.spotify.com/track/35JoXVdT9UjxPrrnralvTL) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Maple](https://open.spotify.com/album/05g58vC8XlX2niuDkz3TTq) | 1:25 |
 | 100 | [Morning Coffee](https://open.spotify.com/track/5TIsR4S8fDO1TO8KZXedKi) | [sleepy turtle](https://open.spotify.com/artist/0Izi9quSIBBUyjV3Ur0RCY) | [Morning Coffee](https://open.spotify.com/album/5lOaxgs7ewldAkepMk1kdT) | 2:14 |
 
-Snapshot ID: `AAAAADFwVak0M38+nuMp3uciKQz2kLiY`
+Snapshot ID: `AAAAAC5ydW+qQN0WXqJHtNKDZb5CTZtg`

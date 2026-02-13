@@ -1,6 +1,6 @@
 {
   "description": "hairbrush as a microphone type songs.",
-  "num_followers": 125823,
+  "num_followers": 125840,
   "original_name": "Slumber Party",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 231124,
       "name": "You Belong With Me (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
       "added_at": "2024-06-28 04:00:00",

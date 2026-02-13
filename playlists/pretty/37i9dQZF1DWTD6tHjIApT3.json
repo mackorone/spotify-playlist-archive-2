@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: Chara+YUKI",
-  "num_followers": 134924,
+  "num_followers": 134958,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -795,38 +795,6 @@
     {
       "added_at": "2026-02-11 07:54:25",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/69rpY1f8pKvaHgFqIXSJdi"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 225298,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/0wwkJegAXrw6dGg9gdPP8N"
-    },
-    {
-      "added_at": "2026-02-11 07:54:25",
-      "album": {
-        "name": "Tokei",
-        "url": "https://open.spotify.com/album/1WbMoAGnRkZ3MZ4y00n03o"
-      },
-      "artists": [
-        {
-          "name": "Maaya Sakamoto",
-          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
-        }
-      ],
-      "duration_ms": 332466,
-      "name": "Tokei",
-      "url": "https://open.spotify.com/track/3kEvtzKpxW6LlwwyG8f8BE"
-    },
-    {
-      "added_at": "2026-02-11 07:54:25",
-      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/0RdAutXGrAeWaEGBlr9hEn"
       },
@@ -843,6 +811,22 @@
     {
       "added_at": "2026-02-11 07:54:25",
       "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/69rpY1f8pKvaHgFqIXSJdi"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 225298,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/0wwkJegAXrw6dGg9gdPP8N"
+    },
+    {
+      "added_at": "2026-02-11 07:54:25",
+      "album": {
         "name": "Swing Swing Heart",
         "url": "https://open.spotify.com/album/3AYHeU3Nz5yohUc48SEThk"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 207490,
       "name": "Swing Swing Heart",
       "url": "https://open.spotify.com/track/3sk0eT30FYPi2oYnb2psKX"
+    },
+    {
+      "added_at": "2026-02-11 07:54:25",
+      "album": {
+        "name": "Tokei",
+        "url": "https://open.spotify.com/album/1WbMoAGnRkZ3MZ4y00n03o"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "duration_ms": 332466,
+      "name": "Tokei",
+      "url": "https://open.spotify.com/track/3kEvtzKpxW6LlwwyG8f8BE"
     },
     {
       "added_at": "2026-02-11 07:54:25",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-02-11 07:54:25",
       "album": {
-        "name": "Inori",
-        "url": "https://open.spotify.com/album/7IkCaLjOJbXSiUR0E8ynAz"
-      },
-      "artists": [
-        {
-          "name": "\u85e4\u5ddd\u5343\u611b",
-          "url": "https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Inori",
-      "url": "https://open.spotify.com/track/5lhpdsLwynYUVmW8pJP8aT"
-    },
-    {
-      "added_at": "2026-02-11 07:54:25",
-      "album": {
         "name": "\u305c\u3093\u3076\u53ef\u611b\u3044\u306e\u305b\u3044",
         "url": "https://open.spotify.com/album/73uS2yvzIbEMt94JQsSJao"
       },
@@ -951,6 +935,38 @@
       "duration_ms": 254000,
       "name": "\u6a2a\u9854",
       "url": "https://open.spotify.com/track/0KOgyCjDRHJeBuRGkStf9R"
+    },
+    {
+      "added_at": "2026-02-11 07:54:25",
+      "album": {
+        "name": "Inori",
+        "url": "https://open.spotify.com/album/7IkCaLjOJbXSiUR0E8ynAz"
+      },
+      "artists": [
+        {
+          "name": "\u85e4\u5ddd\u5343\u611b",
+          "url": "https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/5lhpdsLwynYUVmW8pJP8aT"
+    },
+    {
+      "added_at": "2026-02-11 07:54:25",
+      "album": {
+        "name": "\u6765\u4e16\u306f\u3069\u3046\u305b",
+        "url": "https://open.spotify.com/album/0ElIOZL0L423BuXmBnlfVz"
+      },
+      "artists": [
+        {
+          "name": "\u91d1\u5b50\u307f\u3086",
+          "url": "https://open.spotify.com/artist/0Iab9IqgQQIZab2HPPQuc1"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "\u6765\u4e16\u306f\u3069\u3046\u305b",
+      "url": "https://open.spotify.com/track/4TSwjM55mVyZQ4Cwhi3F8v"
     },
     {
       "added_at": "2026-02-11 07:54:25",
@@ -987,22 +1003,6 @@
       "duration_ms": 209808,
       "name": "\u30a2\u30a4\u30a8\u30ca\u30e9\u30a8 feat. \u8a69\u7fbd",
       "url": "https://open.spotify.com/track/3I6nrxDD1OqDmu57qbMYzu"
-    },
-    {
-      "added_at": "2026-02-11 07:54:25",
-      "album": {
-        "name": "\u6765\u4e16\u306f\u3069\u3046\u305b",
-        "url": "https://open.spotify.com/album/0ElIOZL0L423BuXmBnlfVz"
-      },
-      "artists": [
-        {
-          "name": "\u91d1\u5b50\u307f\u3086",
-          "url": "https://open.spotify.com/artist/0Iab9IqgQQIZab2HPPQuc1"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "\u6765\u4e16\u306f\u3069\u3046\u305b",
-      "url": "https://open.spotify.com/track/4TSwjM55mVyZQ4Cwhi3F8v"
     },
     {
       "added_at": "2026-02-11 07:54:25",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-02-11 07:54:25",
       "album": {
+        "name": "\u56db\u9762\u695a\u6b4c",
+        "url": "https://open.spotify.com/album/2rX0erWZKJR0ieN7WdWKFU"
+      },
+      "artists": [
+        {
+          "name": "Nanatsukaze",
+          "url": "https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH"
+        }
+      ],
+      "duration_ms": 223521,
+      "name": "\u56db\u9762\u695a\u6b4c",
+      "url": "https://open.spotify.com/track/3EQ8DzEgUx2zylrlCQf3Pg"
+    },
+    {
+      "added_at": "2026-02-11 07:54:25",
+      "album": {
         "name": "BITTERSWEET",
         "url": "https://open.spotify.com/album/5iT4t4tsexjyInZ7G0Tfdq"
       },
@@ -1087,6 +1103,22 @@
     {
       "added_at": "2026-02-11 07:54:25",
       "album": {
+        "name": "\u3072\u3081\u3059\u304e\u308b",
+        "url": "https://open.spotify.com/album/5cNHm1M6F9cFGOx7uWvKw4"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u3057\u30e1\u30ed",
+          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "\u3072\u3081\u3059\u304e\u308b",
+      "url": "https://open.spotify.com/track/10oh35tl681Kg99f6ggNAU"
+    },
+    {
+      "added_at": "2026-02-11 07:54:25",
+      "album": {
         "name": "\u30be\u30fc\u30f330",
         "url": "https://open.spotify.com/album/5DbB1Ij6LR3GL77oyHzYkR"
       },
@@ -1099,22 +1131,6 @@
       "duration_ms": 195733,
       "name": "\u30be\u30fc\u30f330",
       "url": "https://open.spotify.com/track/67P1Qbqb14tD6MmGsuv0eh"
-    },
-    {
-      "added_at": "2026-02-11 07:54:25",
-      "album": {
-        "name": "\u56db\u9762\u695a\u6b4c",
-        "url": "https://open.spotify.com/album/2rX0erWZKJR0ieN7WdWKFU"
-      },
-      "artists": [
-        {
-          "name": "Nanatsukaze",
-          "url": "https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH"
-        }
-      ],
-      "duration_ms": 223521,
-      "name": "\u56db\u9762\u695a\u6b4c",
-      "url": "https://open.spotify.com/track/3EQ8DzEgUx2zylrlCQf3Pg"
     },
     {
       "added_at": "2026-02-11 07:54:25",
@@ -1139,22 +1155,6 @@
       "duration_ms": 230181,
       "name": "Scramble City (feat. \u8ca1\u6d25\u30de\u30a4)",
       "url": "https://open.spotify.com/track/0cSuhEqdlu88AT9lh1Sp2b"
-    },
-    {
-      "added_at": "2026-02-11 07:54:25",
-      "album": {
-        "name": "\u3072\u3081\u3059\u304e\u308b",
-        "url": "https://open.spotify.com/album/5cNHm1M6F9cFGOx7uWvKw4"
-      },
-      "artists": [
-        {
-          "name": "\u306f\u3057\u30e1\u30ed",
-          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "\u3072\u3081\u3059\u304e\u308b",
-      "url": "https://open.spotify.com/track/10oh35tl681Kg99f6ggNAU"
     },
     {
       "added_at": "2026-02-11 07:54:25",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2026-02-11 07:54:25",
       "album": {
-        "name": "\u3056\u304f\u308d",
-        "url": "https://open.spotify.com/album/6kAdtRwIMmp8Nee6pcUKnN"
+        "name": "Celeste",
+        "url": "https://open.spotify.com/album/16eVU6d7Bntt7tQa37bCXw"
       },
       "artists": [
         {
-          "name": "\u732b\u6226",
-          "url": "https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1"
+          "name": "Myuk",
+          "url": "https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9"
         }
       ],
-      "duration_ms": 402651,
-      "name": "\u3056\u304f\u308d",
-      "url": "https://open.spotify.com/track/6vPPT1WvV33jLT13PbXeqq"
+      "duration_ms": 245000,
+      "name": "Celeste",
+      "url": "https://open.spotify.com/track/2JFSvkUw0TIPBajbi84UcZ"
     },
     {
       "added_at": "2026-02-11 07:54:25",
@@ -1223,34 +1223,18 @@
     {
       "added_at": "2026-02-11 07:54:25",
       "album": {
-        "name": "Celeste",
-        "url": "https://open.spotify.com/album/16eVU6d7Bntt7tQa37bCXw"
+        "name": "\u3056\u304f\u308d",
+        "url": "https://open.spotify.com/album/6kAdtRwIMmp8Nee6pcUKnN"
       },
       "artists": [
         {
-          "name": "Myuk",
-          "url": "https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9"
+          "name": "\u732b\u6226",
+          "url": "https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/2JFSvkUw0TIPBajbi84UcZ"
-    },
-    {
-      "added_at": "2026-02-11 07:54:25",
-      "album": {
-        "name": "The weight of choice",
-        "url": "https://open.spotify.com/album/3zBdOFm0Zbf6V4ljxgCc3K"
-      },
-      "artists": [
-        {
-          "name": "East Of Eden",
-          "url": "https://open.spotify.com/artist/3lvaevDiFzsr9cUrMV8HYn"
-        }
-      ],
-      "duration_ms": 242427,
-      "name": "The weight of choice",
-      "url": "https://open.spotify.com/track/03T6TSSbzReqkPC7LGq2JF"
+      "duration_ms": 402651,
+      "name": "\u3056\u304f\u308d",
+      "url": "https://open.spotify.com/track/6vPPT1WvV33jLT13PbXeqq"
     },
     {
       "added_at": "2026-02-11 07:54:25",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2026-02-11 07:54:25",
       "album": {
+        "name": "The weight of choice",
+        "url": "https://open.spotify.com/album/3zBdOFm0Zbf6V4ljxgCc3K"
+      },
+      "artists": [
+        {
+          "name": "East Of Eden",
+          "url": "https://open.spotify.com/artist/3lvaevDiFzsr9cUrMV8HYn"
+        }
+      ],
+      "duration_ms": 242427,
+      "name": "The weight of choice",
+      "url": "https://open.spotify.com/track/03T6TSSbzReqkPC7LGq2JF"
+    },
+    {
+      "added_at": "2026-02-11 07:54:25",
+      "album": {
         "name": "Two Of Us",
         "url": "https://open.spotify.com/album/4prSarxQwQqDSNEUwxG8XE"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 252692,
       "name": "\u661f\u7d21\u304e",
       "url": "https://open.spotify.com/track/1HVtUsPc8oqBWKfLaf5tWm"
+    },
+    {
+      "added_at": "2026-02-11 07:54:25",
+      "album": {
+        "name": "STAGE -THE MUSICAL IN MY HEAD-",
+        "url": "https://open.spotify.com/album/5IBfFKDYVDaGcjr6aReWEP"
+      },
+      "artists": [
+        {
+          "name": "Mika Nakashima",
+          "url": "https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F"
+        }
+      ],
+      "duration_ms": 279026,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/3bFTP5wzgJnAmL7rU16Ch0"
     },
     {
       "added_at": "2026-02-11 07:54:25",
@@ -1319,22 +1335,6 @@
       "duration_ms": 173017,
       "name": "Night Fly (feat. Nanaka Tomita from \u2260ME)",
       "url": "https://open.spotify.com/track/7GdZ9YF2hmWYtvE7VRUQ6x"
-    },
-    {
-      "added_at": "2026-02-11 07:54:25",
-      "album": {
-        "name": "STAGE -THE MUSICAL IN MY HEAD-",
-        "url": "https://open.spotify.com/album/5IBfFKDYVDaGcjr6aReWEP"
-      },
-      "artists": [
-        {
-          "name": "Mika Nakashima",
-          "url": "https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F"
-        }
-      ],
-      "duration_ms": 279026,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/3bFTP5wzgJnAmL7rU16Ch0"
     },
     {
       "added_at": "2026-02-11 07:54:25",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-02-11 07:54:25",
       "album": {
+        "name": "Ayatsunagi",
+        "url": "https://open.spotify.com/album/7en1OvDGyIYuTeL6OIyjYI"
+      },
+      "artists": [
+        {
+          "name": "harha",
+          "url": "https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh"
+        }
+      ],
+      "duration_ms": 270253,
+      "name": "Ayatsunagi",
+      "url": "https://open.spotify.com/track/5grQQK8iCsqDuwj2IgvQtf"
+    },
+    {
+      "added_at": "2026-02-11 07:54:25",
+      "album": {
         "name": "NIJITO (SWING VER.)",
         "url": "https://open.spotify.com/album/1jK8y0xkQ6wbeI4NazdgTY"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2026-02-11 07:54:25",
       "album": {
-        "name": "Ayatsunagi",
-        "url": "https://open.spotify.com/album/7en1OvDGyIYuTeL6OIyjYI"
+        "name": "OK",
+        "url": "https://open.spotify.com/album/2qUZYHZL8wIABuv5OOcA9Q"
       },
       "artists": [
         {
-          "name": "harha",
-          "url": "https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh"
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
         }
       ],
-      "duration_ms": 270253,
-      "name": "Ayatsunagi",
-      "url": "https://open.spotify.com/track/5grQQK8iCsqDuwj2IgvQtf"
+      "duration_ms": 183679,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/6aQodoR5W5mnGGvGpWPH9l"
     },
     {
       "added_at": "2026-02-11 07:54:25",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2026-02-11 07:54:25",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/2qUZYHZL8wIABuv5OOcA9Q"
-      },
-      "artists": [
-        {
-          "name": "Sakura Fujiwara",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
-        }
-      ],
-      "duration_ms": 183679,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/6aQodoR5W5mnGGvGpWPH9l"
-    },
-    {
-      "added_at": "2026-02-11 07:54:25",
-      "album": {
         "name": "MINE",
         "url": "https://open.spotify.com/album/4b51KDoNVNisbHS4cu2Tdo"
       },
@@ -1483,38 +1483,6 @@
       "duration_ms": 149760,
       "name": "MINE",
       "url": "https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis"
-    },
-    {
-      "added_at": "2026-02-11 07:54:25",
-      "album": {
-        "name": "\u5b87\u5b99\u306e\u7247\u9685",
-        "url": "https://open.spotify.com/album/2wHR7bIzjEPLrkvfBnPedh"
-      },
-      "artists": [
-        {
-          "name": "Sayonara Ponytail",
-          "url": "https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X"
-        }
-      ],
-      "duration_ms": 231115,
-      "name": "\u5b87\u5b99\u306e\u7247\u9685",
-      "url": "https://open.spotify.com/track/2rT29dgrrT4wIh44Jt17Hz"
-    },
-    {
-      "added_at": "2026-02-11 07:54:25",
-      "album": {
-        "name": "\u518d\u4f1a",
-        "url": "https://open.spotify.com/album/3f1m2jisPLKabIc3OToOjq"
-      },
-      "artists": [
-        {
-          "name": "Veg",
-          "url": "https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8"
-        }
-      ],
-      "duration_ms": 224234,
-      "name": "\u518d\u4f1a",
-      "url": "https://open.spotify.com/track/7IJLnpn8tnvMmIGXZQXduC"
     },
     {
       "added_at": "2026-02-11 07:54:25",
@@ -1535,6 +1503,22 @@
     {
       "added_at": "2026-02-11 07:54:25",
       "album": {
+        "name": "\u518d\u4f1a",
+        "url": "https://open.spotify.com/album/3f1m2jisPLKabIc3OToOjq"
+      },
+      "artists": [
+        {
+          "name": "Veg",
+          "url": "https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8"
+        }
+      ],
+      "duration_ms": 224234,
+      "name": "\u518d\u4f1a",
+      "url": "https://open.spotify.com/track/7IJLnpn8tnvMmIGXZQXduC"
+    },
+    {
+      "added_at": "2026-02-11 07:54:25",
+      "album": {
         "name": "\u541b\u3068\u96e8",
         "url": "https://open.spotify.com/album/1epIGTuqB7XgzWL6RqLLx6"
       },
@@ -1547,6 +1531,38 @@
       "duration_ms": 132642,
       "name": "\u541b\u3068\u96e8",
       "url": "https://open.spotify.com/track/4hyNsZKK28RPQVlXWup5wV"
+    },
+    {
+      "added_at": "2026-02-11 07:54:25",
+      "album": {
+        "name": "\u5b87\u5b99\u306e\u7247\u9685",
+        "url": "https://open.spotify.com/album/2wHR7bIzjEPLrkvfBnPedh"
+      },
+      "artists": [
+        {
+          "name": "Sayonara Ponytail",
+          "url": "https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X"
+        }
+      ],
+      "duration_ms": 231115,
+      "name": "\u5b87\u5b99\u306e\u7247\u9685",
+      "url": "https://open.spotify.com/track/2rT29dgrrT4wIh44Jt17Hz"
+    },
+    {
+      "added_at": "2026-02-11 07:54:25",
+      "album": {
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/1d1VFYdjh6XoYmwb15Zyje"
+      },
+      "artists": [
+        {
+          "name": "HIBANA",
+          "url": "https://open.spotify.com/artist/6UANXRxys3n1xkNv8dLRUp"
+        }
+      ],
+      "duration_ms": 179325,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/0SUuJdYvvT2VF9RjMHZKTr"
     },
     {
       "added_at": "2026-02-11 07:54:25",
@@ -1595,22 +1611,6 @@
       "duration_ms": 207580,
       "name": "I'll be fine.",
       "url": "https://open.spotify.com/track/4xNb0XZixcum6m8oeTIuv5"
-    },
-    {
-      "added_at": "2026-02-11 07:54:25",
-      "album": {
-        "name": "Snowman",
-        "url": "https://open.spotify.com/album/1d1VFYdjh6XoYmwb15Zyje"
-      },
-      "artists": [
-        {
-          "name": "HIBANA",
-          "url": "https://open.spotify.com/artist/6UANXRxys3n1xkNv8dLRUp"
-        }
-      ],
-      "duration_ms": 179325,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/0SUuJdYvvT2VF9RjMHZKTr"
     },
     {
       "added_at": "2026-02-11 07:54:25",

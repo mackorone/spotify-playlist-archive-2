@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 305941,
+  "num_followers": 305972,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADS27hZxlFNAW+fLRakfHQe",
+  "snapshot_id": "aYvGgAAAAAAcTl+MD8BasNRSkD0TKfaz",
   "tracks": [
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 155090,
-      "name": "What\u2019s New",
-      "url": "https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc"
+      "duration_ms": 95199,
+      "name": "He Think I Love Him",
+      "url": "https://open.spotify.com/track/1BllxkhLaC2xvKNLSEZIKL"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 95199,
-      "name": "He Think I Love Him",
-      "url": "https://open.spotify.com/track/1BllxkhLaC2xvKNLSEZIKL"
+      "duration_ms": 155090,
+      "name": "What\u2019s New",
+      "url": "https://open.spotify.com/track/3jRHehB5ulTMKfK5WaqDqc"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 172221,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6qzZLA8bDM3wsAzTK4PvSX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 118518,
       "name": "HOW I LOOK (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 172221,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6qzZLA8bDM3wsAzTK4PvSX"
     },
     {
       "added_at": null,

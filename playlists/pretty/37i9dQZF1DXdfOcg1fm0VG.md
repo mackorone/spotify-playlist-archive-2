@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,021 likes - 144 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,083 likes - 144 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 33 | [The Last of Us Part II](https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 2:52 |
 | 34 | [Into the Starfield \(Main Theme\)](https://open.spotify.com/track/325hdqkyHBRYu6ZOZt5Yrh) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [Starfield: Original Game Soundtrack](https://open.spotify.com/album/1XXC0nK0M6T3UCGCdm7UQG) | 2:49 |
 | 35 | [Fields of Dusk \- Orchestral Version](https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ) | [TATRAN](https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB) | [Star Wars Jedi: Survivor \(Original Video Game Soundtrack\)](https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741) | 4:41 |
-| 36 | [Overture to the Unwritten \(from "Hogwarts Legacy"\)](https://open.spotify.com/track/4u3Idn4PRAINifJ5lgzZDx) | [chuck e\. myers 'sea'](https://open.spotify.com/artist/3LgsL4KAyz5zPUMnDoZjCa), [J Scott Rakozy](https://open.spotify.com/artist/5QsqtbrHN65994pLwOyp5N), [Peter Murray](https://open.spotify.com/artist/4OmBmVt6D1vpEF32YC9gWL), [Hogwarts Legacy](https://open.spotify.com/artist/3he1hJlJoHsQOzaDlNptC2) | [Hogwarts Legacy \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi) | 5:00 |
+| 36 | [Overture to the Unwritten \(from "Hogwarts Legacy"\)](https://open.spotify.com/track/4u3Idn4PRAINifJ5lgzZDx) | [chuck e\. myers 'sea'](https://open.spotify.com/artist/3N7S4eXIHxONMJt60YOX4h), [J Scott Rakozy](https://open.spotify.com/artist/5lp45Z4FcT6JNBPJQMbSp5), [Peter Murray](https://open.spotify.com/artist/4OmBmVt6D1vpEF32YC9gWL), [Hogwarts Legacy](https://open.spotify.com/artist/1JLbOKxg2sA694KKvAOI3G) | [Hogwarts Legacy \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi) | 5:00 |
 | 37 | [Fontaine](https://open.spotify.com/track/7gEpP0zIY3lVwTl7I5GZmH) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Fountain of Belleau \(Original Game Soundtrack\)](https://open.spotify.com/album/4UwFbGhMZA4LZqqAnt8LCB) | 4:33 |
 | 38 | [New York's Only Spider\-Man](https://open.spotify.com/track/3sPz0HlbbJsiTL1jrrrxGT) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz) | [Marvel’s Spider\-Man: Miles Morales \(Original Video Game Soundtrack\)](https://open.spotify.com/album/6CaxswOwsM2r7jchhSyTb8) | 2:53 |
 | 39 | [The First Hunter](https://open.spotify.com/track/33eoaqosKfgXYHd6HyYmPh) | [SIE Sound Team](https://open.spotify.com/artist/1RjRHE0popjV7rhcHdp376) | [Bloodborne Original Soundtrack](https://open.spotify.com/album/5nRwiGsiEtrFN847UULpzL) | 5:11 |

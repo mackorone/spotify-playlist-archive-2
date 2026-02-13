@@ -2,9 +2,9 @@
 
 ### [Punto Tropical](https://open.spotify.com/playlist/37i9dQZF1DWZ1FUX6sM67g)
 
-> ¡En este punto tropical, se encuentra un poco de todo! Foto: Carlos Vives
+> ¡En este punto tropical, se encuentra un poco de todo! Foto: Elsa y Elmar
 
-258 songs - 14 hr 57 min
+259 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Estas Ganas](https://open.spotify.com/track/6axFk0R5Fm7BmnAle3CJ2T) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Estas Ganas](https://open.spotify.com/album/1JyeUyl21sY9G60Clzk7vO) | 2:46 | 2025-06-13 |  |
 | [FOR SALE](https://open.spotify.com/track/0ZQuLDHTb6xo5y8UQb2T9X) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Debut y Segunda Tanda \(Deluxe\)](https://open.spotify.com/album/4uBIS6rAEZQX8NCDgoLKq2) | 4:18 | 2022-10-28 | 2023-02-17 |
 | [Good Girl](https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Good Girl](https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt) | 3:28 | 2022-11-11 | 2023-03-03 |
+| [Grecia \- Spotify Sessions](https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 4:47 | 2026-02-12 |  |
 | [HOY SE GUAYA](https://open.spotify.com/track/23bzW63Ly1XUrxjigp7hDV) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [HOY SE GUAYA](https://open.spotify.com/album/4bDcoGYOho0rcPLm7FV8Te) | 2:55 | 2025-12-19 |  |
 | [Háblame de Miami](https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Háblame de Miami](https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE) | 2:38 | 2022-05-20 |  |
 | [INSOMNIO](https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC) | 3:38 | 2024-08-09 | 2025-04-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,724 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,736 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 55 | [Zukunftsmusik \(feat\. U96\)](https://open.spotify.com/track/4JBLosZzEEyIOzPw8UhpLD) | [Wolfgang Flür](https://open.spotify.com/artist/2bXLBqSNmadcnCjRQaePRj), [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Magazine 1](https://open.spotify.com/album/3XhqcfjNdUJwpq96rgprM4) | 4:15 |
 | 56 | [Send a Prayer \- Pt.2](https://open.spotify.com/track/4QaNevdY8gjGHXzcx7yL4U) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Send a Prayer](https://open.spotify.com/album/6mO4AK7dBGMRL0igZrJorB) | 5:37 |
 | 57 | [Ndeko Solo](https://open.spotify.com/track/3fsaBPSlFoPMx3hnO0vmL9) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT) | [Ndeko Solo](https://open.spotify.com/album/6EJmG2vGlkqjgl9J9RP6Y0) | 4:23 |
-| 58 | [You Never Show Your Love](https://open.spotify.com/track/44mJCZNSG0dLPKHXDekPLC) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC), [Bambounou](https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX) | [You Never Show Your Love](https://open.spotify.com/album/4CTzq9lmRvcZCU5pFuJWyZ) | 3:45 |
+| 58 | [You Never Show Your Love](https://open.spotify.com/track/44mJCZNSG0dLPKHXDekPLC) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [You Never Show Your Love](https://open.spotify.com/album/4CTzq9lmRvcZCU5pFuJWyZ) | 3:45 |
 | 59 | [That Booty](https://open.spotify.com/track/3LeF9mN2mUrTrhUxu9O84c) | [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [Juke Trax Online Vol\. 8](https://open.spotify.com/album/55APDPIZGfSA8E7YUSC7fH) | 2:19 |
 | 60 | [Chaseworkz](https://open.spotify.com/track/6JVkEsbpSaYa1d8l0pCcZ5) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Chaseworkz](https://open.spotify.com/album/7FKq8498f5tbHUdc77hZQP) | 3:21 |
 | 61 | [brinks!](https://open.spotify.com/track/5ogN4nxD1mi8XQKL3073du) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [UM Quebrada Inteligente](https://open.spotify.com/album/3BpvtVd1Xy2oPXbOot4RkI) | 2:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 99 | [Groupie](https://open.spotify.com/track/6H7CJfDODbdbwcCO3E5mCM) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Groupie](https://open.spotify.com/album/2NMqz2mYpb0UkszvWhPKwV) | 2:52 |
 | 100 | [Eternal Life](https://open.spotify.com/track/0qVl1dXbbdqb7HfjAqYjNK) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Point Of Entry](https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe) | 4:08 |
 
-Snapshot ID: `AAAAAJH8xnDJkrBN0URxlxIGWwOeeYaV`
+Snapshot ID: `AAAAAMXSQmiO7GT1fVpTtx+8Uzn+1Mdr`

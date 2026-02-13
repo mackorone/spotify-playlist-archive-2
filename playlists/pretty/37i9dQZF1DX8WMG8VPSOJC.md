@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,753,440 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,753,484 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 76 | [Mind On You](https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Mind On You](https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL) | 2:57 |
 | 77 | [Love You Like I Used To](https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Love You Like I Used To](https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq) | 3:06 |
 | 78 | [Wreckage](https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage](https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6) | 3:32 |
-| 79 | [Holding On to You](https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:32 |
-| 80 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
+| 79 | [Feel Like This](https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv) | 3:16 |
+| 80 | [Holding On to You](https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:32 |
 | 81 | [The Rest of Our Life](https://open.spotify.com/track/19P6cJstaoQJHtHW3HOGcg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Rest of Our Life](https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx) | 3:44 |
 | 82 | [I Hate Love Songs](https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:11 |
 | 83 | [Take Me Away](https://open.spotify.com/track/5UaJtNAZJcN9pWpIuVMnN2) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 3:44 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 94 | [Strangers](https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Strangers](https://open.spotify.com/album/07xNmQBSa65Wxv8qPsFaLY) | 3:32 |
 | 95 | [Once](https://open.spotify.com/track/5SYYZNpzQ42443RzIhqNWG) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Once](https://open.spotify.com/album/1m9aMm03qhLgwJb7SNFhS6) | 3:04 |
 | 96 | [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 |
-| 97 | [Found It In You](https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It In You](https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI) | 3:03 |
-| 98 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/5kp3JbZL1ROMxc32pcpn29) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Slow Dance In A Parking Lot](https://open.spotify.com/album/4Yd4bTzy6exvtIcjKviJuj) | 3:13 |
+| 97 | [Slow Dance In A Parking Lot](https://open.spotify.com/track/5kp3JbZL1ROMxc32pcpn29) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Slow Dance In A Parking Lot](https://open.spotify.com/album/4Yd4bTzy6exvtIcjKviJuj) | 3:13 |
+| 98 | [Found It In You](https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It In You](https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI) | 3:03 |
 | 99 | [Angels](https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Angels](https://open.spotify.com/album/4HHsYvJLSiZ8f7WnU6Xiie) | 3:34 |
 | 100 | [Long Haul](https://open.spotify.com/track/4q6L3Ca4YuLHWg8YZqfMvE) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Haul](https://open.spotify.com/album/6hv9rSMxLukAg8nYVegpYL) | 3:51 |
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Barth",
+  "description": "Les hits zouk & kompa du moment. Photo : Kany",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -860,7 +860,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 251294,
       "name": "Champagne k\u00e9 fraises",
       "url": "https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 193043,
       "name": "Dis moi",
       "url": "https://open.spotify.com/track/3I2EDUywF9v32CuKSRRujz"
@@ -1594,6 +1594,28 @@
       "duration_ms": 161406,
       "name": "Donne Tout",
       "url": "https://open.spotify.com/track/1U5gnEmalOGreRltGLpLh2"
+    },
+    {
+      "album": {
+        "name": "Donne-moi ton coeur",
+        "url": "https://open.spotify.com/album/53FGcyfkrUNuYKFBs6GHjQ"
+      },
+      "artists": [
+        {
+          "name": "Bryans",
+          "url": "https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW"
+        },
+        {
+          "name": "Dory",
+          "url": "https://open.spotify.com/artist/0cZJ5gjr184hSsTcm7PNBK"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234057,
+      "name": "Donne-moi ton coeur",
+      "url": "https://open.spotify.com/track/6kXBZDR02iBGvZIml9UzmF"
     },
     {
       "album": {
@@ -1822,7 +1844,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 158181,
       "name": "D\u00e9lice",
       "url": "https://open.spotify.com/track/7cHYUPz5z6BVDrcAhk5NL1"
@@ -1982,7 +2004,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 131707,
       "name": "ENL\u00c8VE TOUT",
       "url": "https://open.spotify.com/track/46L28MTOvLiVgQK6hdJzXF"
@@ -3240,6 +3262,24 @@
       "duration_ms": 183214,
       "name": "Le bon choix",
       "url": "https://open.spotify.com/track/6gN1jPRmuyD5vNUrgYuENc"
+    },
+    {
+      "album": {
+        "name": "OMW",
+        "url": "https://open.spotify.com/album/1APrydqpXaHpfA3RZcbu07"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Les autres filles",
+      "url": "https://open.spotify.com/track/66GWd4w8J7xqU7cVQahAIU"
     },
     {
       "album": {
@@ -5497,6 +5537,24 @@
     },
     {
       "album": {
+        "name": "Safe place",
+        "url": "https://open.spotify.com/album/5RvPwdxHGLNaxKvySH3cf2"
+      },
+      "artists": [
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179277,
+      "name": "Safe place",
+      "url": "https://open.spotify.com/track/6M8l9eprbrVogC3V6MnO9d"
+    },
+    {
+      "album": {
         "name": "Saison 2",
         "url": "https://open.spotify.com/album/0msn4kPdpwzjypJgyDeomg"
       },
@@ -5818,7 +5876,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 194666,
       "name": "Si tu veux de moi",
       "url": "https://open.spotify.com/track/1sRF75Kys66RDpvMVKNFOo"
@@ -6862,6 +6920,24 @@
       "duration_ms": 180000,
       "name": "TROP LOVE",
       "url": "https://open.spotify.com/track/33dJhAnryWez0YcwdwRLIt"
+    },
+    {
+      "album": {
+        "name": "Trop sexy",
+        "url": "https://open.spotify.com/album/4c07LJDKfy5rBTzZIRuTki"
+      },
+      "artists": [
+        {
+          "name": "Rody Khems",
+          "url": "https://open.spotify.com/artist/0VhG1tpChOSPrXDI4WzNdc"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144866,
+      "name": "Trop sexy",
+      "url": "https://open.spotify.com/track/01lBKtR4KIXBYaZx2JXtjM"
     },
     {
       "album": {

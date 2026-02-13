@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-210 songs - 12 hr 49 min
+214 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,12 @@
 | [Adrift](https://open.spotify.com/track/649n923Nb1uamTFlRmpKrT) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8) | [AudioVisual](https://open.spotify.com/album/0JdcjgsOJ1ybVEmHuFhfBD) | 3:22 | 2026-01-28 |  |
 | [Aggravated Cultivation](https://open.spotify.com/track/03j9ESzqUIcPzWn5hh1W7g) | [Tom Markey](https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ) | [Pale Ontology](https://open.spotify.com/album/7xDRFDBkIeinYvAGc5ctT6) | 3:45 | 2026-01-19 |  |
 | [Agujas](https://open.spotify.com/track/4E4xgatRQurGBlsXaKfp1z) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 3:45 | 2025-08-29 | 2026-01-05 |
+| [Alchemical Romance](https://open.spotify.com/track/5WWvHcc1dQc6528tbZsVip) | [Belladonna](https://open.spotify.com/artist/46kYkISh4NadImXUdivRVb) | [The Noir Album](https://open.spotify.com/album/3wURhrqRieO3ZuMIlEqpDR) | 3:22 | 2026-02-13 |  |
 | [Another Light Year](https://open.spotify.com/track/2LxPolkDBMrJHAhxOTCQXX) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 2:24 | 2025-10-04 | 2026-01-05 |
 | [Anything Better to Do](https://open.spotify.com/track/5rk0K5Z6oyuHpP7gjlScDK) | [Feyer](https://open.spotify.com/artist/7Eu9QyMHf0nXat8KuTJJX4) | [Bridging The Gaps](https://open.spotify.com/album/1NPMdLOVMk6kqBB4DQMKfi) | 3:19 | 2026-01-17 |  |
 | [Aquella mirada](https://open.spotify.com/track/3KnPS50cVLvfJhaN8CGQUo) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Aquella Mirada](https://open.spotify.com/album/61EmKeW5ZlfiO1Q5PI7Yw7) | 4:01 | 2025-11-11 | 2025-12-06 |
 | [Autumn in the Storm](https://open.spotify.com/track/0tB90dlegD2EegT7EE2Bii) | [Breathing Tales](https://open.spotify.com/artist/2ZFi7bp6R1cFiPxT0Q7P0I) | [Autumn in the Storm](https://open.spotify.com/album/0PEP2Y4dCNhnc71M1SC8zo) | 2:32 | 2026-01-29 |  |
+| [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2026-02-13 |  |
 | [Back To The Void](https://open.spotify.com/track/7hKA7Lg3KfmdlFvq6wSLMF) | [Symbol Cult](https://open.spotify.com/artist/0gU1QispGh4FK7U6gwHeTQ) | [Back To The Void](https://open.spotify.com/album/4xctjWVrJGis1IAcP94Qjq) | 2:17 | 2025-11-11 | 2025-12-06 |
 | [BECAUSE OF YOU](https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [BECAUSE OF YOU](https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2) | 3:43 | 2025-12-13 | 2026-01-05 |
 | [Bewitched Doll](https://open.spotify.com/track/7FwOW5rSiix0q9yz9WYwD3) | [Vegas No.8](https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf) | [Bewitched Doll](https://open.spotify.com/album/3pbNzHfFDgN5NovxF3FhDr) | 3:22 | 2025-12-22 | 2026-01-21 |
@@ -81,6 +83,7 @@
 | [Hardly Know Her](https://open.spotify.com/track/2UaCdxvJaX7lmezW3YiGIf) | [Lipstick](https://open.spotify.com/artist/7uFXs2KLMId1XYKLSbQlzv) | [Hardly Know Her](https://open.spotify.com/album/5kpOB3QejOEIWHmcJ8nZlE) | 3:09 | 2025-12-12 | 2026-01-05 |
 | [headnoise](https://open.spotify.com/track/4YiD4uZY0vAYYYktsVLho7) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG) | [headnoise](https://open.spotify.com/album/6WrlzrcGmFuduE71cI8di2) | 2:50 | 2025-10-18 |  |
 | [Headrush](https://open.spotify.com/track/0YfyjWkn6cAvWXokmeu77R) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Headrush](https://open.spotify.com/album/1xawMxWDShlnHZgENk0Y5W) | 3:25 | 2025-12-18 | 2026-01-21 |
+| [Heart of a Coward](https://open.spotify.com/track/7vmfuBMDV2eQsjFm2rLPLv) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 4:30 | 2026-02-13 |  |
 | [help](https://open.spotify.com/track/0GL1VRnWrizG4gRqEA6bFN) | [1bed](https://open.spotify.com/artist/4u3OTdGtad4UJc5nKD15oq) | [help](https://open.spotify.com/album/2FXsrNcATB6Wrgvg32Fzp7) | 1:26 | 2025-12-13 | 2026-01-05 |
 | [HERO](https://open.spotify.com/track/6qhp3xbHvTOars63ilniHO) | [YOUR PERSONAL VENDETTA](https://open.spotify.com/artist/2PpRod27I2pxzn70VkdDJn) | [HERO](https://open.spotify.com/album/2menXSxj3dacUu08KPRyIT) | 4:02 | 2026-02-01 |  |
 | [High Conviction Play](https://open.spotify.com/track/56aHbWEiv8usy8xott0QHY) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:25 | 2025-11-04 | 2025-12-06 |
@@ -121,6 +124,7 @@
 | [Mother of Time](https://open.spotify.com/track/2q0rnBYEAkjWnkKRXv2M7a) | [FourJN](https://open.spotify.com/artist/5JGuRETSauFw2ur3SlobHY) | [Mother of Time](https://open.spotify.com/album/5HaWf762zb0lF6udfxXp86) | 5:02 | 2025-09-25 | 2025-12-16 |
 | [Mountainside](https://open.spotify.com/track/67pdwschvXYd3FnxYtvc5s) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 3:43 | 2025-11-20 | 2025-12-12 |
 | [Movimento Barraco](https://open.spotify.com/track/6qAtUlwjZFrpUs8ITyTycQ) | [Peyote](https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF), [Carbono](https://open.spotify.com/artist/7pjey9YZRudRWPkwyM0L7B), [Helena](https://open.spotify.com/artist/68ykJPo7z4VMBaaLo3ENaE) | [Movimento Barraco](https://open.spotify.com/album/7r9tmeiUiNZ9kNVnegNrwk) | 3:17 | 2025-10-01 | 2026-01-05 |
+| [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-02-13 |  |
 | [My Energy Transformation](https://open.spotify.com/track/4zpMCYjAJQrazZod6z2Jc1) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 6:21 | 2025-11-29 | 2025-12-28 |
 | [My Journey into Space](https://open.spotify.com/track/0JwcnEfABRXunsYH2W1AVv) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 5:12 | 2025-12-29 | 2026-01-21 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-11 | 2026-01-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > The perfect soundtrack to those long nights over dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,827,862 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,827,860 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 40 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 |
 | 41 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 |
 | 42 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 |
-| 43 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
-| 44 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
+| 43 | [Just the Way You Are](https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 4:50 |
+| 44 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
 | 45 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
 | 46 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 |
 | 47 | [MUTT](https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo) | 3:13 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 80 | [Love Like This](https://open.spotify.com/track/58HH7mUdFhh2uHciYZ33n1) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:36 |
 | 81 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 |
 | 82 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 |
-| 83 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 |
-| 84 | [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 |
+| 83 | [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 |
+| 84 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 |
 | 85 | [Falling Asleep At The Wheel](https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg) | 3:23 |
 | 86 | [You Are So Beautiful \- 1996 Version](https://open.spotify.com/track/0Q4FBn52tglZ02DCrAY8j0) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Organic](https://open.spotify.com/album/5oOaUOotDESRXMElqVlOFQ) | 2:43 |
 | 87 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 99 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
 | 100 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 |
 
-Snapshot ID: `AAAAAHm+0BtvRrmrYdHlrraIRE41oMpi`
+Snapshot ID: `AAAAAJ9d0EqNFL5X3N7nsREcN+689h99`

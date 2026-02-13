@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479,948 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,480,220 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 30 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4UJ1AKSbXAbPlPVFe66wK7) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Music For Girls Night Out](https://open.spotify.com/album/0qiop0l73dDZfXckujBG7k) | 3:37 |
 | 31 | [Cotton Eye Joe](https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz) | 3:13 |
 | 32 | [Omen III \- Single Edit](https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1) | [Magic Affair](https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg) | [Omen \- The Story Continues](https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb) | 3:57 |
-| 33 | [Think About the Way](https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:20 |
-| 34 | [Sandstorm \- Radio Edit](https://open.spotify.com/track/2kWB9IV8EHDOU9EjgxWFrF) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Sandstorm](https://open.spotify.com/album/0SHWgw0LPDs37Go6oPdaqp) | 3:46 |
+| 33 | [Sandstorm \- Radio Edit](https://open.spotify.com/track/2kWB9IV8EHDOU9EjgxWFrF) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Sandstorm](https://open.spotify.com/album/0SHWgw0LPDs37Go6oPdaqp) | 3:46 |
+| 34 | [Think About the Way](https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:20 |
 | 35 | [Never Alone](https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Dreams](https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG) | 5:51 |
 | 36 | [The Bomb! \(These Sound Fall into My Mind\) \- Radio Edit](https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9) | [The Bucketheads](https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC) | [All In The Mind](https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU) | 3:23 |
 | 37 | [Sweet Dreams](https://open.spotify.com/track/1M3Im6Xjl0QUKbP9VAXxVf) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Best Of La Bouche feat\. Melanie Thornton \(feat\. Melanie Thornton\)](https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN) | 3:24 |
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 44 | [No More \(I Can't Stand It\)](https://open.spotify.com/track/6JXghpembwocSY1Ky0TxTt) | [Maxx](https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX) | [To The Maxximum](https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG) | 4:41 |
 | 45 | [Captain Jack \- Short Mix](https://open.spotify.com/track/09uma8kvpf699ailOSlzds) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf) | [Captain Jack](https://open.spotify.com/album/0hpZzIHtMqYBt6RDYnLLww) | 4:08 |
 | 46 | [Tarzan & Jane](https://open.spotify.com/track/2R3gfyDoBo0uXZSwTiKysZ) | [Toy\-Box](https://open.spotify.com/artist/0BYEp3eyHK9Wsp4t2Ad1R8) | [FanTastic](https://open.spotify.com/album/7pZA63LsjuRCziMYfjEYjf) | 3:06 |
-| 47 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 |
-| 48 | [Close to You](https://open.spotify.com/track/70DbNpe8D1QnGi92Mo2MK1) | [Fun Factory](https://open.spotify.com/artist/22p5npx84cXYat7kgGocRZ) | [Back to the Factory](https://open.spotify.com/album/6jEa6t77CNNbH9z2Pax5wn) | 3:38 |
+| 47 | [Close to You](https://open.spotify.com/track/70DbNpe8D1QnGi92Mo2MK1) | [Fun Factory](https://open.spotify.com/artist/22p5npx84cXYat7kgGocRZ) | [Back to the Factory](https://open.spotify.com/album/6jEa6t77CNNbH9z2Pax5wn) | 3:38 |
+| 48 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 |
 | 49 | [This Is The Way \- Radio Edit](https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Made In Sweden](https://open.spotify.com/album/6HaxLemmf6z0xt74wnX8bA) | 3:55 |
 | 50 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
 | 51 | [United \- Short Mix](https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm) | [Mark 'Oh](https://open.spotify.com/artist/4PTTDM08OI9jnPTOZ7QRn1) | [United](https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF) | 3:41 |
 | 52 | [I Give You My Heart](https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:35 |
-| 53 | [Baby Baby](https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:48 |
-| 54 | [Trust Me](https://open.spotify.com/track/1iUdrNKh0GaFuyHgVVDwfi) | [Pandora](https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc) | [One Of A Kind](https://open.spotify.com/album/3y7BEC8JPOLH7ZMkuVDjvM) | 3:26 |
+| 53 | [Trust Me](https://open.spotify.com/track/1iUdrNKh0GaFuyHgVVDwfi) | [Pandora](https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc) | [One Of A Kind](https://open.spotify.com/album/3y7BEC8JPOLH7ZMkuVDjvM) | 3:26 |
+| 54 | [Baby Baby](https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:48 |
 | 55 | [Rhythm Of Love \- Original Radio Edit](https://open.spotify.com/track/7jGrEtwlejqbmRB5La3Abp) | [DJ Sequenza](https://open.spotify.com/artist/5aS5b54NtRuGHbNol5aSCX) | [Rhythm Of Love](https://open.spotify.com/album/4qGFv8BijBeeg1RVyv3LXC) | 3:01 |
 | 56 | [Show me colours](https://open.spotify.com/track/6xRRr4W5VQiQZOVhXzqtIr) | [Masterboy](https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E) | [Colours](https://open.spotify.com/album/5dmEmXqf6kIJPhTcmhItRd) | 4:29 |
 | 57 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |

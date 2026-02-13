@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best pop music right now ft. Maisie Peters",
+  "description": "The best pop music right now ft. Danny L Harle & Dua Lipa",
   "name": "The Pop List",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
@@ -478,6 +478,24 @@
       "duration_ms": 131466,
       "name": "almost killed me",
       "url": "https://open.spotify.com/track/37u5TeuApXd4MVNO6PvTXb"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183975,
+      "name": "Always Everywhere",
+      "url": "https://open.spotify.com/track/6fGapufucZHPva1kvCqceA"
     },
     {
       "album": {
@@ -2401,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
+    },
+    {
+      "album": {
         "name": "Dear Loved,",
         "url": "https://open.spotify.com/album/2ChSLf0jXVOEgPLOSFfW79"
       },
@@ -2971,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "DON\u2019T YOU SEE ME TRYING?",
+        "url": "https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213887,
+      "name": "DON\u2019T YOU SEE ME TRYING?",
+      "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
+    },
+    {
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
       },
@@ -3116,7 +3170,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-14",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -6230,7 +6284,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 179666,
       "name": "I\u2019m Good - From The Movie \u201cGOAT\u201d",
       "url": "https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28"
@@ -7149,6 +7203,24 @@
     },
     {
       "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -7344,7 +7416,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 217442,
       "name": "Mature",
       "url": "https://open.spotify.com/track/1BeyjPUWYbHcthHjusrejv"
@@ -9010,7 +9082,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 187483,
       "name": "POSSESSION",
       "url": "https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe"
@@ -12319,6 +12391,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 16",
+      "url": "https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/78d7vHOKAddR9gJf9sAMkI"
       },
@@ -12410,6 +12500,28 @@
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "album": {
@@ -13218,6 +13330,24 @@
       "duration_ms": 209479,
       "name": "Wish I Didn't",
       "url": "https://open.spotify.com/track/5z5hTxmH4cAEYr9yg2L8OB"
+    },
+    {
+      "album": {
+        "name": "Woman In Love",
+        "url": "https://open.spotify.com/album/7iRIV5983f4RqBEPDFpe0a"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163488,
+      "name": "Woman In Love",
+      "url": "https://open.spotify.com/track/1RJCrqZSR2j7blHTMErbq3"
     },
     {
       "album": {

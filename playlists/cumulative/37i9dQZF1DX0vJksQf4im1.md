@@ -2,9 +2,9 @@
 
 ### [Big In Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX0vJksQf4im1)
 
-> Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: sombr
+> Mark實呢個歌單，就唔驚錯過香港hit 緊嘅Pop Songs 啦！Cover: CORTIS
 
-381 songs - 20 hr 42 min
+385 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [AIR FORCE \(BLACK DEMARCO\)](https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:44 | 2026-01-16 |  |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-04 | 2025-05-09 |
 | [Alley Rose](https://open.spotify.com/track/63PCEHeJ7ZgTLpmzjkuWoy) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Alley Rose](https://open.spotify.com/album/0UhDmGYpV3BlEWQXuff5DF) | 3:28 | 2024-06-21 | 2024-09-13 |
+| [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [](https://open.spotify.com/album/null) | 3:03 | 2026-02-13 |  |
 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-23 |  |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-17 | 2025-05-09 |
 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 | 2025-01-09 | 2025-03-07 |
@@ -36,6 +37,7 @@
 | [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-10-25 | 2025-04-18 |
 | [Backslide](https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Backslide](https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD) | 3:00 | 2024-06-21 | 2024-09-13 |
 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-01 | 2025-08-15 |
+| [BANG BANG](https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7) | 2:58 | 2026-02-13 |  |
 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-01-23 | 2025-06-20 |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-09 | 2025-03-07 |
 | [Beat Yourself Up](https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Beat Yourself Up](https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN) | 2:58 | 2026-01-16 |  |
@@ -126,6 +128,7 @@
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-06-19 | 2025-12-12 |
 | [Gameboy](https://open.spotify.com/track/2HMvIK2S3oC6OABl2YXAx1) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 3:05 | 2025-06-26 | 2026-01-15 |
 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-16 | 2025-03-07 |
+| [Get In Girl](https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Get In Girl](https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk) | 3:26 | 2026-02-13 |  |
 | [Girl In The Orchestra](https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Girl In The Orchestra](https://open.spotify.com/album/0Wgw9J708bA5yoIR87bJAC) | 3:12 | 2024-06-21 | 2025-03-07 |
 | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 | 2025-12-12 | 2026-01-15 |
 | [Glue](https://open.spotify.com/track/7h7p7gSIBzqTxEEoAR2lwL) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w) | 4:20 | 2024-07-11 | 2025-03-07 |
@@ -222,6 +225,7 @@
 | [MASC \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/4CphT44U2oOp2XzqWKUyeo) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [MASC \(feat\. Teezo Touchdown\)](https://open.spotify.com/album/1aN3LYbdOm7vBEZRXjt0MA) | 3:25 | 2024-06-21 | 2024-09-13 |
 | [ME+YOU](https://open.spotify.com/track/0hGWmmZuKyd8sO7RCvF6rH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [TEN: The Story Goes On](https://open.spotify.com/album/7zyibWit2LeHvy5h9utbfg) | 2:55 | 2025-10-09 |  |
 | [Memories](https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Memories](https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09) | 2:59 | 2024-06-21 | 2024-09-13 |
+| [Mention Me](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 | 2026-02-13 |  |
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 | 2025-05-08 | 2025-10-03 |
 | [MIA \(feat\. Chlöe\)](https://open.spotify.com/track/1jI4qCnDm6wDP5X6caZPeO) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:40 | 2024-12-12 | 2025-03-07 |
 | [Misfire](https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy) | 3:41 | 2025-08-07 | 2026-01-15 |

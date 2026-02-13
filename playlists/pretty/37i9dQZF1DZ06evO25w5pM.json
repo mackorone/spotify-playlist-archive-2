@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19468,
+  "num_followers": 19471,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAACVT+4y6e2hAeOrtY9eU70o",
+  "snapshot_id": "aYvGgAAAAAC8KdvwpTOy3StCwCFvwL/v",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "Coucher de Lune",
-      "url": "https://open.spotify.com/track/7lGuSZj1abRWIJ2JDsiCxe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 1125226,
       "name": "Endless Horizon",
       "url": "https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "Coucher de Lune",
+      "url": "https://open.spotify.com/track/7lGuSZj1abRWIJ2JDsiCxe"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 433706,
-      "name": "Love's Winged Messenger",
-      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
+      "duration_ms": 486893,
+      "name": "Still Stones of Silence",
+      "url": "https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 486893,
-      "name": "Still Stones of Silence",
-      "url": "https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr"
+      "duration_ms": 433706,
+      "name": "Love's Winged Messenger",
+      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Light",
-        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 610733,
-      "name": "Loving Touch",
-      "url": "https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reiki Hands of Love",
         "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 321786,
       "name": "Morning Light Silhouettes 2",
       "url": "https://open.spotify.com/track/1vP4rx7L7iHjCkiIRj6FLN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 610733,
+      "name": "Loving Touch",
+      "url": "https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Light",
-        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 521693,
-      "name": "Mystic Voyage",
-      "url": "https://open.spotify.com/track/7guiwTzSraP0ZHqBCMlnmE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empty Sky",
         "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
       },
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/5GCUS3VW202Gj5yRrN0Iwc"
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 518626,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/6iM0Fhzfc9mT3IY2PZbT65"
+      "duration_ms": 521693,
+      "name": "Mystic Voyage",
+      "url": "https://open.spotify.com/track/7guiwTzSraP0ZHqBCMlnmE"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/5GCUS3VW202Gj5yRrN0Iwc"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 468493,
-      "name": "Silent Alchemy",
-      "url": "https://open.spotify.com/track/6ibmDmnayyljaIfT8hgkVq"
+      "duration_ms": 518626,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/6iM0Fhzfc9mT3IY2PZbT65"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 416800,
       "name": "Cinque",
       "url": "https://open.spotify.com/track/0RDAF6UAfX2Yg6CVd9kI3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 468493,
+      "name": "Silent Alchemy",
+      "url": "https://open.spotify.com/track/6ibmDmnayyljaIfT8hgkVq"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiritual Healing",
-        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 450480,
-      "name": "Dawn Mist - The Temple",
-      "url": "https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atmospheres",
         "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 383133,
       "name": "Deux",
       "url": "https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spiritual Healing",
+        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 450480,
+      "name": "Dawn Mist - The Temple",
+      "url": "https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2"
     },
     {
       "added_at": null,

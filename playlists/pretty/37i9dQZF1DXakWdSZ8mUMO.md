@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 
 > Você não para quando está cansado, só quando terminar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,122 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,128 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 4 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 | 5 | [It's Supposed To Hurt](https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [It's Supposed To Hurt](https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE) | 3:32 |
 | 6 | [Bleed It Out](https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 2:44 |
-| 7 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 |
-| 8 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
+| 7 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
+| 8 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 |
 | 9 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 |
 | 10 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
 | 11 | [Papercut](https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:04 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 31 | [Your Betrayal](https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Fever](https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb) | 4:51 |
 | 32 | [Undead](https://open.spotify.com/track/5wBLDkxVvclanSitx5jq8e) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Swan Songs](https://open.spotify.com/album/2UYxjXHKm1JDT6JA7OSeR6) | 4:25 |
 | 33 | [Lonely Boy](https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:13 |
-| 34 | [Monkey Wrench](https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 3:51 |
-| 35 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
+| 34 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
+| 35 | [Monkey Wrench](https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 3:51 |
 | 36 | [Cut the Cord](https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:44 |
 | 37 | [I'm Broken](https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:24 |
 | 38 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 95 | [Get Up! \(feat\. Skrillex\)](https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:42 |
 | 96 | [Roots](https://open.spotify.com/track/5wBaNy59nK8hJnx8AB2zRe) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:09 |
 | 97 | [No Giving Up](https://open.spotify.com/track/7M7VUNhN51Fjsu58dLv0EY) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 3:34 |
-| 98 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
-| 99 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 |
+| 98 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 |
+| 99 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |
 | 100 | [I Only Lie When I Love You](https://open.spotify.com/track/1LbwMX3159t6QxG3u7DRWe) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [How Did We Get So Dark?](https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj) | 2:49 |
 
 Snapshot ID: `AAAAAAr6WSonZbZ769xGY2X/c1/ubh/W`

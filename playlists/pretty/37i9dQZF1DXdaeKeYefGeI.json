@@ -1,12 +1,12 @@
 {
   "description": "Wat kan het Nederlands toch mooi zijn. Cover: WIES",
-  "num_followers": 37161,
+  "num_followers": 37166,
   "original_name": "Mooi Nederlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFdalu5oOjHNRN/WLulECtWUN3Pc",
+  "snapshot_id": "AAAAAL1DtfQqOj8D6YsRmm8ts7//TSN+",
   "tracks": [
     {
       "added_at": "2026-02-05 23:00:08",
@@ -51,6 +51,46 @@
     {
       "added_at": "2026-02-05 23:00:08",
       "album": {
+        "name": "In dit huis (Live)",
+        "url": "https://open.spotify.com/album/676sRodKmYDr72hqrGYOmc"
+      },
+      "artists": [
+        {
+          "name": "Leonie Meijer",
+          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
+        },
+        {
+          "name": "Veldhuis & Kemper",
+          "url": "https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U"
+        }
+      ],
+      "duration_ms": 219129,
+      "name": "In dit huis (Live)",
+      "url": "https://open.spotify.com/track/4SC9TZrBeoWx1zxDviwiYT"
+    },
+    {
+      "added_at": "2026-02-05 23:00:08",
+      "album": {
+        "name": "Kijk Niet Achterom",
+        "url": "https://open.spotify.com/album/0fMXDvkCObFINs9pgcDKCT"
+      },
+      "artists": [
+        {
+          "name": "Babette Van Veen",
+          "url": "https://open.spotify.com/artist/5GUosf9oyNKzoKSzyguTax"
+        },
+        {
+          "name": "Soy Kroon",
+          "url": "https://open.spotify.com/artist/16V5a3d99qj5d7xQxYD0IT"
+        }
+      ],
+      "duration_ms": 238513,
+      "name": "Kijk Niet Achterom",
+      "url": "https://open.spotify.com/track/3qBkuKl5sThSlYOgDoFy7X"
+    },
+    {
+      "added_at": "2026-02-05 23:00:08",
+      "album": {
         "name": "Een hoop",
         "url": "https://open.spotify.com/album/4EZ4fZ33JLMzzm9DBFGavm"
       },
@@ -83,26 +123,6 @@
       "duration_ms": 199074,
       "name": "Tranen",
       "url": "https://open.spotify.com/track/7747domZyQuAyHPMy6jvAn"
-    },
-    {
-      "added_at": "2026-02-05 23:00:08",
-      "album": {
-        "name": "In dit huis (Live)",
-        "url": "https://open.spotify.com/album/676sRodKmYDr72hqrGYOmc"
-      },
-      "artists": [
-        {
-          "name": "Leonie Meijer",
-          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
-        },
-        {
-          "name": "Veldhuis & Kemper",
-          "url": "https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U"
-        }
-      ],
-      "duration_ms": 219129,
-      "name": "In dit huis (Live)",
-      "url": "https://open.spotify.com/track/4SC9TZrBeoWx1zxDviwiYT"
     },
     {
       "added_at": "2026-02-05 23:00:08",
@@ -171,26 +191,6 @@
       "duration_ms": 208575,
       "name": "Mama Huil Niet",
       "url": "https://open.spotify.com/track/3Nq9OzwDXWVRSBiM5SFSRA"
-    },
-    {
-      "added_at": "2026-02-05 23:00:08",
-      "album": {
-        "name": "Kijk Niet Achterom",
-        "url": "https://open.spotify.com/album/0fMXDvkCObFINs9pgcDKCT"
-      },
-      "artists": [
-        {
-          "name": "Babette Van Veen",
-          "url": "https://open.spotify.com/artist/5GUosf9oyNKzoKSzyguTax"
-        },
-        {
-          "name": "Soy Kroon",
-          "url": "https://open.spotify.com/artist/16V5a3d99qj5d7xQxYD0IT"
-        }
-      ],
-      "duration_ms": 238513,
-      "name": "Kijk Niet Achterom",
-      "url": "https://open.spotify.com/track/3qBkuKl5sThSlYOgDoFy7X"
     },
     {
       "added_at": "2026-02-05 23:00:08",

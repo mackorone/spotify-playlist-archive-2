@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
-  "num_followers": 977607,
+  "num_followers": 978025,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-12-03 21:38:54",
       "album": {
-        "name": "Algo De Mi",
-        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Algo De M\u00ed",
-      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
-    },
-    {
-      "added_at": "2024-12-03 21:38:54",
-      "album": {
         "name": "Tu Sombra",
         "url": "https://open.spotify.com/album/2d7tfROtI0Sdsy2TYJMDpe"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 200560,
       "name": "A chillar a otra parte",
       "url": "https://open.spotify.com/track/3BwabPHcwg7jotkO7YOcJ2"
+    },
+    {
+      "added_at": "2024-12-03 21:38:54",
+      "album": {
+        "name": "Algo De Mi",
+        "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Algo De M\u00ed",
+      "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
     },
     {
       "added_at": "2024-12-03 21:38:54",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-12-03 21:38:54",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Un Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
+    },
+    {
+      "added_at": "2024-12-03 21:38:54",
+      "album": {
         "name": "Siempre Imitado, Jamas Igualado",
         "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 165733,
       "name": "Voy A Llorar Por Ti",
       "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
-    },
-    {
-      "added_at": "2024-12-03 21:38:54",
-      "album": {
-        "name": "Realidades",
-        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Qu\u00e9 Tal Si Eres Tu",
-      "url": "https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy"
     },
     {
       "added_at": "2024-12-03 21:38:54",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-12-03 21:38:54",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+        "name": "Realidades",
+        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Un Desenga\u00f1o",
-      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
+      "duration_ms": 178973,
+      "name": "Qu\u00e9 Tal Si Eres Tu",
+      "url": "https://open.spotify.com/track/228ExGBaOYwzsAGotWXaqy"
     },
     {
       "added_at": "2024-12-03 21:38:54",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-12-03 21:38:54",
       "album": {
-        "name": "Hasta El Final",
-        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Moneda Sin Valor",
-      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
-    },
-    {
-      "added_at": "2024-12-03 21:38:54",
-      "album": {
         "name": "Mundo De Amor",
         "url": "https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 155066,
       "name": "Tus Verdades",
       "url": "https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST"
+    },
+    {
+      "added_at": "2024-12-03 21:38:54",
+      "album": {
+        "name": "Hasta El Final",
+        "url": "https://open.spotify.com/album/3uJX93KsrS6PxobrPQfPc9"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Moneda Sin Valor",
+      "url": "https://open.spotify.com/track/0s6eS6S8Dsr7VFdYUYo5Lu"
     },
     {
       "added_at": "2024-12-03 21:38:54",

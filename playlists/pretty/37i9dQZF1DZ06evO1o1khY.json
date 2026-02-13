@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 43347,
+  "num_followers": 43363,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAA+LenjysuW8VgQyJBOkOuQ",
+  "snapshot_id": "aYvGgAAAAABzMStucQ5+yuR4Z83n9NYD",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Typa",
+        "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Typa",
+      "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHAT HAPPENED TO THE STREETS?",
         "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 198108,
       "name": "DOG $HIT",
       "url": "https://open.spotify.com/track/3o6Wg0EOBtWXPdufCes5Lj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Typa",
-        "url": "https://open.spotify.com/album/296t8NLKxtLZ8jBOa0eGSY"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Typa",
-      "url": "https://open.spotify.com/track/08L2vgqPpiLt7PpwMHbbk1"
     },
     {
       "added_at": null,
@@ -987,6 +987,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hell Woods 2",
+        "url": "https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 190693,
+      "name": "Hell Woods 2",
+      "url": "https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Said I Love You First... And You Said It Back",
         "url": "https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 163631,
       "name": "Cowboy (with GloRilla) - GloRilla Remix",
       "url": "https://open.spotify.com/track/0OXYEWAt2zwWjJJsASxY2A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hell Woods 2",
-        "url": "https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic"
-      },
-      "artists": [
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "Hell Woods 2",
-      "url": "https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc"
     }
   ],
   "unique_name": "This Is GloRilla",

@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,172 songs - 2 day 15 hr 42 min
+1,173 songs - 2 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [away.](https://open.spotify.com/track/6CbW8W2qUm29j8cuqjO8qF) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [away.](https://open.spotify.com/album/1wITTkeUkrbiseKv0eVGec) | 3:25 | 2023-05-18 | 2023-06-09 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-11-13 |  |
 | [Baby Can You Stay](https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc) | [WNRDA](https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ) | [Baby Can You Stay](https://open.spotify.com/album/12iY7dts3ziwGFq7na5C2L) | 2:58 | 2022-05-09 | 2023-07-08 |
-| [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [BACK 2 YOU](https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh) | 3:41 | 2025-10-02 |  |
+| [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [BACK 2 YOU](https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh) | 3:41 | 2025-10-02 | 2026-02-13 |
 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 | 2023-08-11 | 2025-01-08 |
 | [Bad Dreams](https://open.spotify.com/track/0t0p3pFkUxv3KnMGZqPxyP) | [BEVY MACO](https://open.spotify.com/artist/4J8BSoVR5I3Am5CxHMkqYj), [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao) | [Still Feel The Same](https://open.spotify.com/album/5MXJrDdgDdH6XXoebSe0Uj) | 5:12 | 2022-01-28 | 2022-04-20 |
 | [Bad Girls Behave](https://open.spotify.com/track/2CspyaDniJQAhgAYamTyI3) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Bad Girls Behave](https://open.spotify.com/album/6c6ObiguaXrGWxcy3kP0pJ) | 2:50 | 2023-10-06 | 2023-10-14 |
@@ -740,6 +740,7 @@
 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 | 2022-07-18 | 2024-11-13 |
 | [oh mia](https://open.spotify.com/track/2ZJBYxThNkxpOrrX43vxNV) | [rowena](https://open.spotify.com/artist/5tLZAJVqLyHKzHOfQxK5cD) | [the sun is in virgo](https://open.spotify.com/album/7e0acr6R002xhXzmSm5dn2) | 3:50 | 2023-01-26 | 2023-02-03 |
 | [oh no](https://open.spotify.com/track/7sErz2bp49BQJ6uThpeO6Y) | [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [crying in the shower](https://open.spotify.com/album/0fWOWGAmyJ88ez1XOBpI7u) | 2:19 | 2023-08-25 | 2023-09-02 |
+| [Ohaguro](https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Ohaguro](https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI) | 3:08 | 2026-02-06 |  |
 | [ok bye](https://open.spotify.com/track/233XcBvOmiwJNANsDLjc2q) | [Lunadira](https://open.spotify.com/artist/6i6xQR652uL4FpGmUqZHOC), [Reddi Rocket](https://open.spotify.com/artist/121DYfRpwhbZPSWjvViett) | [Tangerine](https://open.spotify.com/album/3bXJbyLmLNwVR8zJHJaFRs) | 2:08 | 2022-01-28 | 2022-07-22 |
 | [OKIE](https://open.spotify.com/track/4mjWTBR4OsQwO3aow5ysrF) | [Sio Lubis](https://open.spotify.com/artist/6fzB3myUVKUDnUriIReh26) | [OKIE](https://open.spotify.com/album/7DtVUzWsPS0MfT1WokA0Nv) | 2:18 | 2024-03-01 | 2024-03-09 |
 | [Old Habits](https://open.spotify.com/track/12DoPpS8dUSjLP0RCESSvF) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [Old Habits](https://open.spotify.com/album/3VkA8rTT2BOdZ4xLlLiib8) | 2:55 | 2023-08-11 | 2023-08-26 |

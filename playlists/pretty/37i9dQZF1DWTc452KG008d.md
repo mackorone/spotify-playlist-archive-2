@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 
 > Because a quiet Sunday every now and again doesn't hurt anybody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,238 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,228 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,16 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 | 33 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
 | 34 | [Count on Me](https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:17 |
 | 35 | [Bleeding Love](https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5) | 4:22 |
-| 36 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
-| 37 | [Orange Juice](https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:57 |
+| 36 | [Orange Juice](https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:57 |
+| 37 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
 | 38 | [Blackbird \- Remastered 2009](https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 2:18 |
 | 39 | [Beautiful Crazy](https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You Too \(Deluxe Edition\)](https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz) | 3:13 |
 | 40 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 41 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 |
 | 42 | [If You Love Her](https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [If You Love Her](https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR) | 3:37 |
 | 43 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 |
-| 44 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
-| 45 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 |
+| 44 | [1 step forward, 3 steps back](https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:43 |
+| 45 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
 | 46 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
 | 47 | [You've Got The Love](https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:48 |
 | 48 | [Lights Are On](https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Z\-Sides](https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T) | 3:13 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 | 57 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 |
 | 58 | [Sunrise](https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Feels Like Home](https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL) | 3:20 |
 | 59 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 |
-| 60 | [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 4:18 |
-| 61 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 |
+| 60 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 |
+| 61 | [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 4:18 |
 | 62 | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/track/1fXALB3kb14ngMRGNdV5wD) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [The Hardest Part \(feat\. Leon Bridges\)](https://open.spotify.com/album/74vEZ35YylZD5SAxjLDsZz) | 2:56 |
 | 63 | [Love Of My Life \- Remastered 2011](https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB) | 3:37 |
 | 64 | [Home](https://open.spotify.com/track/18V1UiYRvWYwn01CRDbbuR) | [Edith Whiskers](https://open.spotify.com/artist/15K8w0bfYieOr55vhSMgJN) | [Stop Stealing The Covers!](https://open.spotify.com/album/7mCxkaPLj0IGKmbBuLDYah) | 3:17 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 | 67 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
 | 68 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
 | 69 | [Tourniquet](https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:09 |
-| 70 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 |
+| 70 | [Slow Hands](https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:08 |
 | 71 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
-| 72 | [Slow Hands](https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:08 |
+| 72 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 |
 | 73 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 74 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
 | 75 | [Hold My Hand](https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Hold My Hand \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe) | 3:45 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTc452KG008d.md) - [plain]
 | 79 | [drivers license](https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drivers license](https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr) | 4:02 |
 | 80 | [Forever You and Me](https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Forever You and Me](https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW) | 2:55 |
 
-Snapshot ID: `AAAAAFlRT4RTTgsw6XHikXdtK+j/FZRf`
+Snapshot ID: `AAAAAELFEainss1fp8PHyNo4aQ/ePXqH`

@@ -1,6 +1,6 @@
 {
   "description": "Pump it up with these current jams!",
-  "num_followers": 2194843,
+  "num_followers": 2194879,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
         "name": "Black Friday (pretty like the sun)",
         "url": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr"
       },
@@ -255,18 +271,18 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -287,18 +303,18 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -335,22 +351,6 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
-        "name": "Homewrecker",
-        "url": "https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Homewrecker",
-      "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
         "name": "Lil Boo Thang",
         "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 114233,
       "name": "Lil Boo Thang",
       "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -595,6 +595,22 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
+        "name": "GOLDEN HOUR : Part.4",
+        "url": "https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
         "name": "Pretty Slowly",
         "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
       },
@@ -631,18 +647,22 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "GOLDEN HOUR : Part.4",
-        "url": "https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk"
+        "name": "Drive Safe",
+        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 219920,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
+      "duration_ms": 201000,
+      "name": "Drive Safe",
+      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -679,22 +699,6 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
       },
@@ -723,6 +727,22 @@
       "duration_ms": 225148,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -767,26 +787,6 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "Drive Safe",
-        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        },
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Drive Safe",
-      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
         "name": "All The Way (feat. Bailey Zimmerman)",
         "url": "https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "who\u2019s your boyfriend",
-      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
         "name": "Love Somebody",
         "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 204828,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "gigolo",
-        "url": "https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 118461,
-      "name": "gigolo",
-      "url": "https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
         "name": "Carry You Home",
         "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
+        "name": "gigolo",
+        "url": "https://open.spotify.com/album/58Xf2l1m7iWhfwoRjx75C0"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 118461,
+      "name": "gigolo",
+      "url": "https://open.spotify.com/track/6DYul32gElizGgTrtRYrNY"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 188802,
-      "name": "bandaids",
-      "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
         "name": "I Like It (with Nate Smith)",
         "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 152349,
       "name": "I Like It (with Nate Smith)",
       "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 188802,
+      "name": "bandaids",
+      "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
+        "name": "Burning Down",
+        "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 179437,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 151986,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
-        "name": "Burning Down",
-        "url": "https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 179437,
-      "name": "Burning Down",
-      "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "I\u2019m Good (From The Movie \u201cGOAT\u201d)",
-        "url": "https://open.spotify.com/album/45mBhso0bpjGCjrHoQ9Tpa"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "I\u2019m Good - From The Movie \u201cGOAT\u201d",
-      "url": "https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
         "name": "Run My Way",
         "url": "https://open.spotify.com/album/2iCHhOIojuvNTY1hINgWOi"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 164366,
       "name": "Run My Way",
       "url": "https://open.spotify.com/track/5vEdGoNQHH2FZT9y2wc2zr"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
+        "name": "I\u2019m Good (From The Movie \u201cGOAT\u201d)",
+        "url": "https://open.spotify.com/album/45mBhso0bpjGCjrHoQ9Tpa"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "I\u2019m Good - From The Movie \u201cGOAT\u201d",
+      "url": "https://open.spotify.com/track/4Rse4e9moG5PKR61F7ah28"
     },
     {
       "added_at": "2026-02-06 05:42:15",

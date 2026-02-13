@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22333,
+  "num_followers": 22335,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAABktynjR1rH60wf/e4wyCF/",
+  "snapshot_id": "aYvGgAAAAACzMPK2lszJMC2yv8qQgLSO",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Sa\u00edda Est\u00e1 Dentro",
+        "url": "https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 231407,
+      "name": "P\u00e1ssaros",
+      "url": "https://open.spotify.com/track/09a27piHzkROsmYoFqr15A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor Livre",
         "url": "https://open.spotify.com/album/4IUX7jygRntlpHKwaLen5z"
       },
@@ -743,22 +763,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Sa\u00edda Est\u00e1 Dentro",
-        "url": "https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8"
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/1tQe4DId5aSpPVhMIvPOna"
       },
       "artists": [
         {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         },
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         }
       ],
-      "duration_ms": 231407,
-      "name": "P\u00e1ssaros",
-      "url": "https://open.spotify.com/track/09a27piHzkROsmYoFqr15A"
+      "duration_ms": 208576,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/5cSW70c7FYpNtioW8zBoLb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
+        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "billboard Brasil",
+          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
+        }
+      ],
+      "duration_ms": 235987,
+      "name": "Medley Poesia Ac\u00fastica 9, 11",
+      "url": "https://open.spotify.com/track/2LvTfB9Jgh82XMa81Orz5E"
     },
     {
       "added_at": null,
@@ -815,50 +859,6 @@
       "duration_ms": 235919,
       "name": "O Corre Nunca Vai Parar",
       "url": "https://open.spotify.com/track/7Hkk9sj1032Lv1S61s5qzy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lourena Ac\u00fastico Est\u00fadio Billboard",
-        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "billboard Brasil",
-          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
-        }
-      ],
-      "duration_ms": 235987,
-      "name": "Medley Poesia Ac\u00fastica 9, 11",
-      "url": "https://open.spotify.com/track/2LvTfB9Jgh82XMa81Orz5E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prioridade",
-        "url": "https://open.spotify.com/album/1tQe4DId5aSpPVhMIvPOna"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 208576,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/5cSW70c7FYpNtioW8zBoLb"
     },
     {
       "added_at": null,
@@ -1071,26 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deixa Ir",
-        "url": "https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caon",
-          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Deixa Ir",
-      "url": "https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 198260,
       "name": "Cupido Querido",
       "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deixa Ir",
+        "url": "https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caon",
+          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Deixa Ir",
+      "url": "https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi"
     },
     {
       "added_at": null,
@@ -1207,6 +1207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ele Me Falou",
+        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 209268,
+      "name": "Ele Me Falou",
+      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Posturadin",
         "url": "https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 226521,
       "name": "Posturadin",
       "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ele Me Falou",
-        "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 209268,
-      "name": "Ele Me Falou",
-      "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > New music from J\. Cole, Don Toliver and Esdeekid.
 
-2,647 songs - 5 day 17 hr 16 min
+2,648 songs - 5 day 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Alright](https://open.spotify.com/track/0ECs7wpW9157Tk5yBUGbE0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Alright](https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i) | 3:14 | 2020-06-02 | 2020-06-03 |
 | [Always On Time](https://open.spotify.com/track/2hNf1rawV2XAZ6Jld2Fxwf) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Pain Is Love](https://open.spotify.com/album/15tmDweVwISwJoMSLgvHpp) | 4:05 | 2025-02-13 | 2025-02-15 |
 | [Ambition For Cash](https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Ambition For Cash](https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9) | 2:23 | 2021-10-01 | 2022-01-20 |
+| [Ambitionz Az A Ridah](https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [All Eyez On Me](https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC) | 4:38 | 2026-02-12 |  |
 | [Andale](https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 2:48 | 2023-03-31 | 2023-06-17 |
 | [Angels In The Sky](https://open.spotify.com/track/5quU0IUtPut7sZZlQ2kK54) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Angels In The Sky](https://open.spotify.com/album/41VlriZ3G48XNHYmoWqYSW) | 2:42 | 2024-05-31 | 2024-06-22 |
 | [Angels Never Cry \(feat\. MoneyBagg Yo & Kodak Black\)](https://open.spotify.com/track/1NGEkrPq8SaBWXSx3Re839) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 4:13 | 2021-07-24 | 2021-07-31 |

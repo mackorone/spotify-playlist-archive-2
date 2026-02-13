@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 
 > La colonna sonora perfetta per le giornate di lavoro da casa, alla scrivania o sul divano! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,793 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,795 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5DMeb1cFOV.md) - [plain]
 | 28 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/7FGq80cy8juXBCD2nrqdWU) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [FRIENDS KEEP SECRETS](https://open.spotify.com/album/7dQ734EW0iLvQfF6vBFNiZ) | 2:50 |
 | 29 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 |
 | 30 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 |
-| 31 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
+| 31 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
 | 32 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 |
 | 33 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 34 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:07 |

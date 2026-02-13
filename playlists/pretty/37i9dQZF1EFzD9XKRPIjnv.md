@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,370 likes - 157 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,369 likes - 157 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 67 | [At the End of the Day](https://open.spotify.com/track/7xdKRHvX5OXoRyfPQ8w2mU) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 3:53 |
 | 68 | [Ripple](https://open.spotify.com/track/3nBHw8jcbLDsJ3LHu0rIoG) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Zorb](https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz) | 3:34 |
 | 69 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 |
-| 70 | [Common \(feat\. Brandi Carlile\)](https://open.spotify.com/track/4w23TYG2uP8R7pBpBexj9c) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:05 |
-| 71 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
+| 70 | [Afterthought](https://open.spotify.com/track/4LqkSEGv7SpGzruiSTkfL5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:01 |
+| 71 | [Common \(feat\. Brandi Carlile\)](https://open.spotify.com/track/4w23TYG2uP8R7pBpBexj9c) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 4:05 |
 | 72 | [Haunted House](https://open.spotify.com/track/3J0jlN9j7fpmghvALVF0Th) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 2:13 |
 | 73 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 |
 | 74 | [Something Tells Me](https://open.spotify.com/track/2qa4X6J7mNVwHZbfqk1JfG) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Hope](https://open.spotify.com/album/2Bmi2zZ8N7hWRQwPAZ1A0y) | 3:36 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 76 | [Don't Cry](https://open.spotify.com/track/0A472qovEW32nP2G0mkJoe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:07 |
 | 77 | [Everything To Everyone \(Intro\)](https://open.spotify.com/track/21Uc575UbMARrDbyOYG4w8) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 1:08 |
 | 78 | [Lights Out](https://open.spotify.com/track/6MQQI2uYnjd8EsWbISfpA5) | [Odette](https://open.spotify.com/artist/1iQVsRr2JalWIOLQa4T7O6) | [To A Stranger](https://open.spotify.com/album/2NwLmvIUuYg63DvZrVidmG) | 3:32 |
-| 79 | [Tainted](https://open.spotify.com/track/5nQAWjvARaGiEiqNrvVLZj) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/10xM56wKLWLEU3sX4q8CVl) | 3:32 |
-| 80 | [Oblivion](https://open.spotify.com/track/1grOl5UNPBMDtrW96KbNdH) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:28 |
+| 79 | [Oblivion](https://open.spotify.com/track/1grOl5UNPBMDtrW96KbNdH) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:28 |
+| 80 | [Tainted](https://open.spotify.com/track/5nQAWjvARaGiEiqNrvVLZj) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/10xM56wKLWLEU3sX4q8CVl) | 3:32 |
 | 81 | [Bleach](https://open.spotify.com/track/3ddDFIHXxdx1dWsqLaz5Ac) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 3:01 |
 | 82 | [Fear Of Water](https://open.spotify.com/track/3NGulWlwuwKJNdLJNe07qR) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 2:51 |
 | 83 | [Frozen](https://open.spotify.com/track/6lNybwsMNGhVOpT9i2nEL0) | [PON CHO](https://open.spotify.com/artist/2NYOggWBPKbqdEYs7jUr1n), [Paige IV](https://open.spotify.com/artist/7FhrJLDe6bQ0Hqt9Wf7zXh) | [Frozen](https://open.spotify.com/album/0SROse0jfLRqQebonkFxFl) | 3:29 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 100 | [Smoke & Mirrors](https://open.spotify.com/track/5olgfv0LjMoUtFe11djz32) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Deluxe\)](https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S) | 3:56 |
 | 101 | [Pilot](https://open.spotify.com/track/36t9gWH3NGsrjP9jlaK1Dw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:13 |
 | 102 | [My Kind Of Woman](https://open.spotify.com/track/4QKEdRuZXSSOIFslnWs0Zt) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [The Playlist EP](https://open.spotify.com/album/6t9XXMUjsFc5yuzbA8JfyK) | 3:49 |
-| 103 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 |
-| 104 | [Bad Idea](https://open.spotify.com/track/4hTFbz1G3He7e3MKqXjcGx) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:14 |
+| 103 | [Bad Idea](https://open.spotify.com/track/4hTFbz1G3He7e3MKqXjcGx) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:14 |
+| 104 | [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 |
 | 105 | [Honesty](https://open.spotify.com/track/1ab5fflidfhTti4z11mtZF) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm) | 2:16 |
 | 106 | [Track 8](https://open.spotify.com/track/0scqkbbmbtKtoXNH3JL9Dj) | [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 3:22 |
 | 107 | [Detour](https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 4:07 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 156 | [With You Now](https://open.spotify.com/track/4kDyintdUy4pLjF8Dz1wQI) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Future Echo](https://open.spotify.com/album/1E5oM65g5S0QpdbAzuiPrs) | 3:36 |
 | 157 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 
-Snapshot ID: `AcJajAAAAACmNTKDhujPCvKxuBThNO9t`
+Snapshot ID: `AcJgNgAAAACXQ1Bs6lH6amyfCwL+GjS3`

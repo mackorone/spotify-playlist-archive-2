@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-552 songs - 1 day 8 hr 15 min
+554 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Arsehole \(feat\. Georgia Maq\)](https://open.spotify.com/track/2rslqIWVYP3oChamtWzQmU) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf), [Georgia Maq](https://open.spotify.com/artist/5NeumLAB759fhEZ61o2Bed) | [Arsehole \(feat\. Georgia Maq\)](https://open.spotify.com/album/6zGRsxXibSElH6fZTLcqCC) | 4:28 | 2022-08-05 | 2025-06-04 |
 | [Asphalt Meadows](https://open.spotify.com/track/7xjbn0bhs7zx7E1s0lCqT3) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 4:05 | 2022-09-16 | 2025-06-04 |
 | [Assume Your Ultimate Form](https://open.spotify.com/track/3AV4Hwma9jsmY6RR2B1cmK) | [Iron Mind](https://open.spotify.com/artist/4FM1JEy3ztOTABIpQulaxF) | [Assume Your Ultimate Form](https://open.spotify.com/album/0OROBjp8G7dQw9icpzhWtE) | 2:43 | 2023-09-13 | 2025-06-04 |
+| [Au Revoir Reservoir](https://open.spotify.com/track/4FuFWcilYbfBCe7peW45Ag) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Tenterhooks](https://open.spotify.com/album/71wJ2hxdQJExW1DwxIZ5Sr) | 3:21 | 2026-02-12 |  |
 | [Babygirl](https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Babygirl](https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf) | 2:54 | 2025-06-03 |  |
 | [BACK2YOU \(feat\. blackbear\)](https://open.spotify.com/track/0Ih5m31aOTcaTL4PnvGgYS) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [BLOODLUST](https://open.spotify.com/album/78LoEWcpdvgRImtnfTZe0q) | 2:32 | 2020-10-10\* | 2021-02-25 |
 | [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 | 2025-05-30 |  |
@@ -554,6 +555,7 @@
 | [Worm in the Sun](https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY) | [alexsucks](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [Worm in the Sun](https://open.spotify.com/album/3SxhtkvIvcKOchlKgJ4aBN) | 2:41 | 2025-02-28 |  |
 | [Worship](https://open.spotify.com/track/5R0L4WPC4QTrd1Z87tWoa1) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/7gkXGlBcRhR8cBS9mXOXSE) | 3:56 | 2020-10-10\* | 2021-02-25 |
 | [Yeah, I Like You](https://open.spotify.com/track/6kNOYOpdMy0w67fC4XPc0q) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Yeah, I Like You](https://open.spotify.com/album/0vlDeWXsRPN0GZkdIoykfT) | 4:24 | 2022-07-01 | 2025-06-04 |
+| [You Got to Lose](https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [You Got to Lose](https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1) | 3:17 | 2026-02-12 |  |
 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 | 2022-08-26 | 2025-06-04 |
 | [You n Me Sellin' Weed](https://open.spotify.com/track/3vbiHwFRUuoIU9oa01dwmx) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [You n Me Sellin' Weed](https://open.spotify.com/album/3v7rmNsFfuUSmIOdPMslld) | 4:56 | 2020-10-10\* | 2021-05-13 |
 | [You Oughta Know](https://open.spotify.com/track/5XfmXD9W5jClWQ1QtiXHsz) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [You Oughta Know](https://open.spotify.com/album/05Ukhe9G2XLfuByt31unQM) | 4:08 | 2021-07-17 | 2025-05-28 |

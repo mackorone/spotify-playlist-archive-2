@@ -1,70 +1,18 @@
 {
-  "description": "The best jazz new releases. Cover: Macha Gharibian",
-  "num_followers": 159730,
+  "description": "The best jazz new releases. Cover: Pat Metheny",
+  "num_followers": 159745,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH88wUCdf2NAV5j9JgQ6eutDDY4b",
+  "snapshot_id": "AAAAACS1jEqajxnZDLtJ4BC1B84DO/A/",
   "tracks": [
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "PHENOMENAL WOMEN (DELUXE EDITION)",
-        "url": "https://open.spotify.com/album/5JTcLjG8jpk8bW2WY3pUaD"
-      },
-      "artists": [
-        {
-          "name": "Macha Gharibian",
-          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "You Love Her - Solo Version",
-      "url": "https://open.spotify.com/track/2PUYcjSQxY21GOhjR3H2GF"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "Misty",
-        "url": "https://open.spotify.com/album/08KGb1DdDe5ZHqEgzD4LFV"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 250237,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/1y3PEN0MP4b3KT1ss15bnj"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "West of Broadway (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3Pu7oGvOi4CoTnSUQqLlrZ"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 203446,
-      "name": "One Wonders Why - deluxe bonus track",
-      "url": "https://open.spotify.com/track/1dhHKhItoJoBPe4ewDdTjj"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "Don't Look Down",
-        "url": "https://open.spotify.com/album/5DKt9w3jGXPagN6zIpr3bq"
+        "name": "In On It",
+        "url": "https://open.spotify.com/album/3jT6HQDdG1B92MVoiyJZNM"
       },
       "artists": [
         {
@@ -72,68 +20,12 @@
           "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
         }
       ],
-      "duration_ms": 676374,
-      "name": "Don't Look Down",
-      "url": "https://open.spotify.com/track/1E3HMV57VwDkqQq9beSSUD"
+      "duration_ms": 476445,
+      "name": "In On It",
+      "url": "https://open.spotify.com/track/7jKhWfwscF6ZYXCKM9iA9k"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "Nuit parisienne \u00e0 La Havane",
-        "url": "https://open.spotify.com/album/2SBHQRGi2rN8FysbZX5ijA"
-      },
-      "artists": [
-        {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
-        },
-        {
-          "name": "Vincent Segal",
-          "url": "https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F"
-        }
-      ],
-      "duration_ms": 250906,
-      "name": "Soul Kiss",
-      "url": "https://open.spotify.com/track/2N1wJYMg2aQGH9WenUZcMq"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "Hold my Halo (Paint me Perfectly)",
-        "url": "https://open.spotify.com/album/5DAYhwtumUGlXR9qutDkR0"
-      },
-      "artists": [
-        {
-          "name": "New Jazz Underground",
-          "url": "https://open.spotify.com/artist/2yIrk1RE59khwEvVfW0ARD"
-        }
-      ],
-      "duration_ms": 300373,
-      "name": "Hold my Halo (Paint me Perfectly)",
-      "url": "https://open.spotify.com/track/7MWB01g4WlOm18Cp86BktQ"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "Moonshadow",
-        "url": "https://open.spotify.com/album/03krhuEDwV1JmVUTI7SYHV"
-      },
-      "artists": [
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        },
-        {
-          "name": "Swedish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
-        }
-      ],
-      "duration_ms": 299560,
-      "name": "Moonshadow",
-      "url": "https://open.spotify.com/track/42XjekxUZwW4zksq1af7YF"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "My Very Own Ride",
         "url": "https://open.spotify.com/album/70qZS6hqpcc8kOFWkd22g0"
@@ -153,7 +45,55 @@
       "url": "https://open.spotify.com/track/59ZAfJo35Lunuv56upvhCZ"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Roy Hargrove: Live at KNKX",
+        "url": "https://open.spotify.com/album/5YP0b8AebeLSJJyMJFwnVC"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "duration_ms": 397341,
+      "name": "Top of My Head (Live)",
+      "url": "https://open.spotify.com/track/3MNiy7awkWDXeJ8C4CiUdY"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 293601,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/6Wr8n9KkQgJtlY26IypHvX"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "You Brought A New Kind Of Love To Me",
+        "url": "https://open.spotify.com/album/6OpwhRo7F9IZe3iiGPsvsj"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "You Brought A New Kind Of Love To Me",
+      "url": "https://open.spotify.com/track/2KudbcpwTFHYqJFAByNyew"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/6jLSXSwAGPur7sq0sZpFCv"
@@ -173,39 +113,231 @@
       "url": "https://open.spotify.com/track/3XEYQ6Vh0SCIKbAKYrxK4I"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "Roy Hargrove: Live at KNKX",
-        "url": "https://open.spotify.com/album/5YP0b8AebeLSJJyMJFwnVC"
+        "name": "As",
+        "url": "https://open.spotify.com/album/4XxaxELTGozCzIJsasoG8q"
       },
       "artists": [
         {
-          "name": "Roy Hargrove",
-          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
         }
       ],
-      "duration_ms": 397341,
-      "name": "Top of My Head (Live)",
-      "url": "https://open.spotify.com/track/3MNiy7awkWDXeJ8C4CiUdY"
+      "duration_ms": 299303,
+      "name": "As",
+      "url": "https://open.spotify.com/track/3H6rGdvid0cBQDvluU8lFj"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/0R8av0tTQptVgkuB69M7Gu"
+        "name": "The Getdown",
+        "url": "https://open.spotify.com/album/0Mc1HIpKFoQVEaYVV0PiOF"
       },
       "artists": [
         {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+          "name": "The Getdown",
+          "url": "https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ"
+        },
+        {
+          "name": "Laurent Coulondre",
+          "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
+        },
+        {
+          "name": "Arnaud Dolmen",
+          "url": "https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm"
+        },
+        {
+          "name": "Gr\u00e9gory Privat",
+          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
         }
       ],
-      "duration_ms": 293601,
-      "name": "The River",
-      "url": "https://open.spotify.com/track/6Wr8n9KkQgJtlY26IypHvX"
+      "duration_ms": 189927,
+      "name": "Endless Groove",
+      "url": "https://open.spotify.com/track/7GX8haQKN8Wr12spO3mb0H"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Hold my Halo (Paint me Perfectly)",
+        "url": "https://open.spotify.com/album/5DAYhwtumUGlXR9qutDkR0"
+      },
+      "artists": [
+        {
+          "name": "New Jazz Underground",
+          "url": "https://open.spotify.com/artist/2yIrk1RE59khwEvVfW0ARD"
+        }
+      ],
+      "duration_ms": 300373,
+      "name": "Hold my Halo (Paint me Perfectly)",
+      "url": "https://open.spotify.com/track/7MWB01g4WlOm18Cp86BktQ"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/08KGb1DdDe5ZHqEgzD4LFV"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 250237,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/1y3PEN0MP4b3KT1ss15bnj"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Nuit parisienne \u00e0 La Havane",
+        "url": "https://open.spotify.com/album/2SBHQRGi2rN8FysbZX5ijA"
+      },
+      "artists": [
+        {
+          "name": "Roberto Fonseca",
+          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+        },
+        {
+          "name": "Vincent Segal",
+          "url": "https://open.spotify.com/artist/1DM0tMCA5GRAgG3qLCy67F"
+        }
+      ],
+      "duration_ms": 250906,
+      "name": "Soul Kiss",
+      "url": "https://open.spotify.com/track/2N1wJYMg2aQGH9WenUZcMq"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Off The Fence",
+        "url": "https://open.spotify.com/album/3pnF8uSu69bKR2CJ5irJNG"
+      },
+      "artists": [
+        {
+          "name": "The James Hunter Six",
+          "url": "https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp"
+        }
+      ],
+      "duration_ms": 174287,
+      "name": "Gun Shy",
+      "url": "https://open.spotify.com/track/4Dkjf9iITfWIy5tokfNop0"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "PHENOMENAL WOMEN (DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/5JTcLjG8jpk8bW2WY3pUaD"
+      },
+      "artists": [
+        {
+          "name": "Macha Gharibian",
+          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "You Love Her - Solo Version",
+      "url": "https://open.spotify.com/track/2PUYcjSQxY21GOhjR3H2GF"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        }
+      ],
+      "duration_ms": 429000,
+      "name": "Lost in the Stars",
+      "url": "https://open.spotify.com/track/239or9BOCzbRCPI9pJFqFo"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "West of Broadway (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3Pu7oGvOi4CoTnSUQqLlrZ"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 203446,
+      "name": "One Wonders Why - deluxe bonus track",
+      "url": "https://open.spotify.com/track/1dhHKhItoJoBPe4ewDdTjj"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "HOUSE OF BIRDS",
+        "url": "https://open.spotify.com/album/62OfSUbBm4t5ootwPrYHQI"
+      },
+      "artists": [
+        {
+          "name": "VEEKO",
+          "url": "https://open.spotify.com/artist/45IMVcKtPxEQpiIOooChbg"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "duration_ms": 185472,
+      "name": "AMISTAD",
+      "url": "https://open.spotify.com/track/2EBcteXQgs8Mn5n4qiZHZC"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "BelleJazzClub (Vol. 2)",
+        "url": "https://open.spotify.com/album/13sp1OTugkv3S0ofb1B7X6"
+      },
+      "artists": [
+        {
+          "name": "Adrien Soleiman",
+          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
+        }
+      ],
+      "duration_ms": 329173,
+      "name": "Jam",
+      "url": "https://open.spotify.com/track/5ZhePA1oduKtO16Klcp8AU"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "eniola",
+          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
+        }
+      ],
+      "duration_ms": 266719,
+      "name": "Azimuth",
+      "url": "https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Lady Day & John Coltrane (12\" Version)",
         "url": "https://open.spotify.com/album/2ucZvZAF7EA60Gq35WPN9A"
@@ -233,7 +365,43 @@
       "url": "https://open.spotify.com/track/4iSi6VQl5LfU4m1PgW2cF4"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Don't Look Down",
+        "url": "https://open.spotify.com/album/5DKt9w3jGXPagN6zIpr3bq"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 676374,
+      "name": "Don't Look Down",
+      "url": "https://open.spotify.com/track/1E3HMV57VwDkqQq9beSSUD"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Moonshadow",
+        "url": "https://open.spotify.com/album/03krhuEDwV1JmVUTI7SYHV"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        }
+      ],
+      "duration_ms": 299560,
+      "name": "Moonshadow",
+      "url": "https://open.spotify.com/track/42XjekxUZwW4zksq1af7YF"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "What You Waiting For",
         "url": "https://open.spotify.com/album/2iKLXxZIGM4af8GBn2RC7K"
@@ -249,63 +417,7 @@
       "url": "https://open.spotify.com/track/7M2DbRhTl0wHZzeHGVZvn6"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "HOUSE OF BIRDS",
-        "url": "https://open.spotify.com/album/62OfSUbBm4t5ootwPrYHQI"
-      },
-      "artists": [
-        {
-          "name": "VEEKO",
-          "url": "https://open.spotify.com/artist/45IMVcKtPxEQpiIOooChbg"
-        },
-        {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
-        }
-      ],
-      "duration_ms": 185472,
-      "name": "AMISTAD",
-      "url": "https://open.spotify.com/track/2EBcteXQgs8Mn5n4qiZHZC"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "BelleJazzClub (Vol. 2)",
-        "url": "https://open.spotify.com/album/13sp1OTugkv3S0ofb1B7X6"
-      },
-      "artists": [
-        {
-          "name": "Adrien Soleiman",
-          "url": "https://open.spotify.com/artist/2EYdJknyuZSMB61Nx1ru7e"
-        }
-      ],
-      "duration_ms": 329173,
-      "name": "Jam",
-      "url": "https://open.spotify.com/track/5ZhePA1oduKtO16Klcp8AU"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        },
-        {
-          "name": "eniola",
-          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
-        }
-      ],
-      "duration_ms": 266719,
-      "name": "Azimuth",
-      "url": "https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Pacifiques Biches",
         "url": "https://open.spotify.com/album/3T8qoyOqISNu86H92G7Enu"
@@ -321,7 +433,7 @@
       "url": "https://open.spotify.com/track/1B9puk4a8v3SPB1kxQqyEz"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "sMiLes",
         "url": "https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ"
@@ -341,23 +453,7 @@
       "url": "https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "As",
-        "url": "https://open.spotify.com/album/4XxaxELTGozCzIJsasoG8q"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 299303,
-      "name": "As",
-      "url": "https://open.spotify.com/track/3H6rGdvid0cBQDvluU8lFj"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Do it!",
         "url": "https://open.spotify.com/album/3ZO9VQykrlnoCfBgTW2Soq"
@@ -377,7 +473,63 @@
       "url": "https://open.spotify.com/track/5aV0D3ZrrCqKoOftm4Ad0h"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "I Cannot Believe In Tomorrow",
+        "url": "https://open.spotify.com/album/5b7x03T43AJwPQNg7gEhO0"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 227733,
+      "name": "I Cannot Believe In Tomorrow",
+      "url": "https://open.spotify.com/track/3V8Uo8FEWucjOaKoExg6R6"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Fall Down (feat. Erik Truffaz)",
+        "url": "https://open.spotify.com/album/1Kw5PW3ZtpdXdx4qRGQWzS"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        },
+        {
+          "name": "Erik Truffaz",
+          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
+        }
+      ],
+      "duration_ms": 251073,
+      "name": "Fall Down (feat. Erik Truffaz)",
+      "url": "https://open.spotify.com/track/6IhFq2Io95ZyMpyHKfqKf5"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Strange Magic",
+        "url": "https://open.spotify.com/album/6jN7NCBUgbPezubxOkCt3u"
+      },
+      "artists": [
+        {
+          "name": "Shai Maestro",
+          "url": "https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj"
+        },
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
+        }
+      ],
+      "duration_ms": 264698,
+      "name": "Strange Magic",
+      "url": "https://open.spotify.com/track/7BBJGgySjfGRFtEqDWEPUl"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Bass For Peace",
         "url": "https://open.spotify.com/album/1Nm5dUA0gJq04FsQKBaqbr"
@@ -405,39 +557,7 @@
       "url": "https://open.spotify.com/track/6FnpT7ubI45NKmr7rq00vS"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "Off The Fence",
-        "url": "https://open.spotify.com/album/3pnF8uSu69bKR2CJ5irJNG"
-      },
-      "artists": [
-        {
-          "name": "The James Hunter Six",
-          "url": "https://open.spotify.com/artist/0Fn28eidAZsxHQhTzY3gKp"
-        }
-      ],
-      "duration_ms": 174287,
-      "name": "Gun Shy",
-      "url": "https://open.spotify.com/track/4Dkjf9iITfWIy5tokfNop0"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "I Cannot Believe In Tomorrow",
-        "url": "https://open.spotify.com/album/5b7x03T43AJwPQNg7gEhO0"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 227733,
-      "name": "I Cannot Believe In Tomorrow",
-      "url": "https://open.spotify.com/track/3V8Uo8FEWucjOaKoExg6R6"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Rumbo a T\u00ed",
         "url": "https://open.spotify.com/album/4PPbMS6V66VO6D9erHPY38"
@@ -457,27 +577,7 @@
       "url": "https://open.spotify.com/track/1AgV1nlfJqH8nrMetnqqpL"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "Fall Down (feat. Erik Truffaz)",
-        "url": "https://open.spotify.com/album/1Kw5PW3ZtpdXdx4qRGQWzS"
-      },
-      "artists": [
-        {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
-        },
-        {
-          "name": "Erik Truffaz",
-          "url": "https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3"
-        }
-      ],
-      "duration_ms": 251073,
-      "name": "Fall Down (feat. Erik Truffaz)",
-      "url": "https://open.spotify.com/track/6IhFq2Io95ZyMpyHKfqKf5"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "White Keys",
         "url": "https://open.spotify.com/album/6EGBzjlalI2ygImj0aqouF"
@@ -501,7 +601,7 @@
       "url": "https://open.spotify.com/track/3bZVl3PDZXdCwBVTcjGmmR"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/5jjHOQ9aVCKDSTAwAbaiaj"
@@ -521,43 +621,7 @@
       "url": "https://open.spotify.com/track/7bxsLsRvyJDVsTTSKLgQ6h"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "In On It",
-        "url": "https://open.spotify.com/album/3jT6HQDdG1B92MVoiyJZNM"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 476445,
-      "name": "In On It",
-      "url": "https://open.spotify.com/track/7jKhWfwscF6ZYXCKM9iA9k"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "Strange Magic",
-        "url": "https://open.spotify.com/album/6jN7NCBUgbPezubxOkCt3u"
-      },
-      "artists": [
-        {
-          "name": "Shai Maestro",
-          "url": "https://open.spotify.com/artist/0ctjXj4AKsMtj6Tsm0JzSj"
-        },
-        {
-          "name": "Michael Mayo",
-          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
-        }
-      ],
-      "duration_ms": 264698,
-      "name": "Strange Magic",
-      "url": "https://open.spotify.com/track/7BBJGgySjfGRFtEqDWEPUl"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "A Breath of Fresh Air",
         "url": "https://open.spotify.com/album/6mS8l8ZNHCu2CWerK3iBt7"
@@ -573,7 +637,7 @@
       "url": "https://open.spotify.com/track/3iFmz0nwf8t0Z1NQC9KpDr"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Everyday Superheroes",
         "url": "https://open.spotify.com/album/0t29Q1FASaChkVGRq3C8QF"
@@ -589,7 +653,7 @@
       "url": "https://open.spotify.com/track/1O8upChPtS2EYyK3krjqy0"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Trust Fall",
         "url": "https://open.spotify.com/album/0uDG74hbgD9AfK08Awa4vC"
@@ -609,7 +673,7 @@
       "url": "https://open.spotify.com/track/3BeLCzl6z5kMsOJjJL6av0"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Lost Pieces",
         "url": "https://open.spotify.com/album/7HPFuMcEEclYGdy1ptcVDY"
@@ -625,7 +689,7 @@
       "url": "https://open.spotify.com/track/4ytgWs2KdZzOKgVkZcIRls"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Anjo de mim",
         "url": "https://open.spotify.com/album/56gi3p7SzI2Q3xT4POaId9"
@@ -657,7 +721,7 @@
       "url": "https://open.spotify.com/track/2uT7Dgq3BL5oId4d64f0bl"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Mellow Mood",
         "url": "https://open.spotify.com/album/0vayclALpKpD3eJVCdt6Sm"
@@ -673,7 +737,7 @@
       "url": "https://open.spotify.com/track/0Pe1KapRTQUTfPyVrBD8Iv"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "F\u00eate de la Lune",
         "url": "https://open.spotify.com/album/1AJLwsfJNSl7X0pgGX3pmi"
@@ -689,7 +753,7 @@
       "url": "https://open.spotify.com/track/1HPJAgazdyuIIzjQ3GB7kz"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Tears in Delhi's Fog",
         "url": "https://open.spotify.com/album/1u173bXuuSgcoZVvCd2l7S"
@@ -705,7 +769,7 @@
       "url": "https://open.spotify.com/track/27R6UGCSRTmzGUpm4zeoNd"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Songbook",
         "url": "https://open.spotify.com/album/4QcMPMeiiIgC6vejghEAUl"
@@ -725,7 +789,7 @@
       "url": "https://open.spotify.com/track/4CoxOtljview88zweWSqQI"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "More Understanding Than A Man / Dis, quand reviendras-tu ?",
         "url": "https://open.spotify.com/album/4LiyJkRKcsoEvQjZ0cT70T"
@@ -741,7 +805,7 @@
       "url": "https://open.spotify.com/track/0jMD8lrNmuSPBE4hYFIjS7"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "HOP, SKIP, JUMP",
         "url": "https://open.spotify.com/album/1FvUroeDcxTrwKbaKKtOYj"
@@ -761,7 +825,7 @@
       "url": "https://open.spotify.com/track/1YY7XZ8sOCqlnoFjMA3Zka"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Almost Like Being In Love",
         "url": "https://open.spotify.com/album/2XlNf2alkFJq3LD4Fumyqo"
@@ -785,7 +849,7 @@
       "url": "https://open.spotify.com/track/7HcR5MZXpCSmjymdVyvtXs"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Moon of Knives",
         "url": "https://open.spotify.com/album/68azO8eJBIwV0RFHLo9ukQ"
@@ -801,7 +865,7 @@
       "url": "https://open.spotify.com/track/5N8AMFYZN3ktluzN1y8Drs"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Woman Of Faces",
         "url": "https://open.spotify.com/album/4EjogBoZXWpOTLhi9mxczy"
@@ -817,7 +881,7 @@
       "url": "https://open.spotify.com/track/1fgPBVkZww9OAoVmDOJFdg"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "RUST",
         "url": "https://open.spotify.com/album/4OsGsUmunboaDQbAb1tA0e"
@@ -845,7 +909,7 @@
       "url": "https://open.spotify.com/track/5ejBZt6jqTXPW1S1DfKBS9"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "A Little Time For Love",
         "url": "https://open.spotify.com/album/2YNz3gcj2Uucf98VJ4OHPW"
@@ -861,7 +925,7 @@
       "url": "https://open.spotify.com/track/4ykySjQAxiSpS5xNU8R25s"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Soundtype 2",
         "url": "https://open.spotify.com/album/5jyTBzM5t8qI3f4cerBnp2"
@@ -885,7 +949,7 @@
       "url": "https://open.spotify.com/track/2ntMpEEmxmXRg5CEbPgado"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Teal Dreams",
         "url": "https://open.spotify.com/album/2AzTf9LVZzgJ7DoN1nE7uQ"
@@ -901,7 +965,7 @@
       "url": "https://open.spotify.com/track/3gURB0TgRppQkfaFgU735h"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Papillon",
         "url": "https://open.spotify.com/album/6xrQrnOzz2ZdcxG6zZFmCo"
@@ -917,7 +981,7 @@
       "url": "https://open.spotify.com/track/33Hw6VVxSlfUiD5FMtqY87"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Une fleur et des papillons",
         "url": "https://open.spotify.com/album/1WkF9RmVuybqBDiWkPhuKn"
@@ -933,35 +997,7 @@
       "url": "https://open.spotify.com/track/4rvum1zXHabR4tPwPKrKsn"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "The Getdown",
-        "url": "https://open.spotify.com/album/0Mc1HIpKFoQVEaYVV0PiOF"
-      },
-      "artists": [
-        {
-          "name": "The Getdown",
-          "url": "https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ"
-        },
-        {
-          "name": "Laurent Coulondre",
-          "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
-        },
-        {
-          "name": "Arnaud Dolmen",
-          "url": "https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm"
-        },
-        {
-          "name": "Gr\u00e9gory Privat",
-          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
-        }
-      ],
-      "duration_ms": 244126,
-      "name": "Merci Biguine",
-      "url": "https://open.spotify.com/track/5nOnspLIl5HEKxSPJPDOEM"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "O\u00f9 C\u2019est ? Qui sait ?",
         "url": "https://open.spotify.com/album/580NEgzhMeRGVFNlgDH3Kb"
@@ -981,7 +1017,7 @@
       "url": "https://open.spotify.com/track/2TFF8jHQpPuALKQr81dLso"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "ok",
         "url": "https://open.spotify.com/album/5whNm4NJWfN7OYnQi5iusG"
@@ -1001,7 +1037,7 @@
       "url": "https://open.spotify.com/track/1S1bPtnTfEjPBxPFitk8Yd"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Healing Songs",
         "url": "https://open.spotify.com/album/5htGZT3fLKOMEPMLI5Gi4y"
@@ -1033,7 +1069,7 @@
       "url": "https://open.spotify.com/track/1ohcAmZl6D4BtaQ1TjQDoQ"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "I Can't Sleep",
         "url": "https://open.spotify.com/album/3yg5h8iww29SsQwjUCl7P9"
@@ -1049,23 +1085,7 @@
       "url": "https://open.spotify.com/track/0c5D3qXQ1WfyDspBrS8SRV"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "More Understanding Than A Man",
-        "url": "https://open.spotify.com/album/22j385vgy0DNPeUTGKzgkE"
-      },
-      "artists": [
-        {
-          "name": "Flore Benguigui & The Sensible Notes",
-          "url": "https://open.spotify.com/artist/0fPRM8MswpB7AksdDiE8g6"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "More Understanding Than A Man",
-      "url": "https://open.spotify.com/track/4zTNJvl3O4u8H2kONGFjyy"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Song for Abbey (Tribute to Abbey Lincoln)",
         "url": "https://open.spotify.com/album/61bvkueuAf7anU6B18PS1z"
@@ -1085,27 +1105,7 @@
       "url": "https://open.spotify.com/track/7w8wB21SgPWxgmEZ14WfBe"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
-      "album": {
-        "name": "In The Slow Lane",
-        "url": "https://open.spotify.com/album/78BxuOxltovqhD0qXQhXkK"
-      },
-      "artists": [
-        {
-          "name": "Kenny Barron",
-          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
-        },
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        }
-      ],
-      "duration_ms": 287620,
-      "name": "In The Slow Lane",
-      "url": "https://open.spotify.com/track/3WVpOydbLHu7ln6Bk2EQTd"
-    },
-    {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "The Shadow Of Your Smile",
         "url": "https://open.spotify.com/album/7ojnM0aUTEKZYxwVwOrheU"
@@ -1121,7 +1121,7 @@
       "url": "https://open.spotify.com/track/0O4y8lpt0XUKeQwZcj8YgR"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "The Barges Blues",
         "url": "https://open.spotify.com/album/7sEcDNcdQTkAfGzZWinm4C"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/04tKPExuojMrvcrcmIQlsI"
     },
     {
-      "added_at": "2026-02-05 23:00:03",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Chasing Shadows",
         "url": "https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg"

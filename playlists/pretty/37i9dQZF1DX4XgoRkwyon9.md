@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 
 > Daniel, Me Estás Matando te deja las rolitas perfectas para que se las dediques al nadaqueverientx
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,886 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,897 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4XgoRkwyon9.md) - [plain]
 | 21 | [No es normal](https://open.spotify.com/track/4FAkWvgZzt8znu3sFdSjO2) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [No es normal](https://open.spotify.com/album/78JH8LfNlJ8PR2XKKubwsu) | 3:25 |
 | 22 | [Un Veneno](https://open.spotify.com/track/42C5Bbb4dHwS5OFMvtGkG2) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [Un Veneno](https://open.spotify.com/album/15SMQSOyMa1BFYGH9rBmfH) | 3:13 |
 | 23 | [Ya Te Olvidé](https://open.spotify.com/track/7fYr68C6tRUsGIym4poraT) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 2:58 |
-| 24 | [Me Rehúso](https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [Me Rehúso](https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR) | 4:21 |
+| 24 | [Me Rehúso](https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Recoversión](https://open.spotify.com/artist/67SuQAHDkpIOcOLy9WiyhE) | [Me Rehúso](https://open.spotify.com/album/38pQ1G6XgqO7W7iZei8EVR) | 4:21 |
 | 25 | [Ven Porque Te Necesito](https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Internacionales Y Románticos](https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3) | 2:55 |
 | 26 | [Nieves De Enero](https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Nieves de Enero](https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV) | 3:33 |
 | 27 | [Vete Ya](https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:37 |

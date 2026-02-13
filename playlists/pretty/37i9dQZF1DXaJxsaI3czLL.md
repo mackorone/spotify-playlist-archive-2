@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,363 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,364 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 57 | [Branches](https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm) | 4:33 |
 | 58 | [Dream](https://open.spotify.com/track/6aeeLI3C9U6yAnE0QRCce9) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Dream](https://open.spotify.com/album/031ZxdGrMfQdhwJu4B2euP) | 2:35 |
 | 59 | [reiji no machi](https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [イノウエワラビ](https://open.spotify.com/artist/5DhlHgEyxSctLdzRoo5T44) | [Night Flow](https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24) | 4:09 |
-| 60 | [クレイ](https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 4:29 |
-| 61 | [Moon Dance](https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 2:47 |
-| 62 | [Beautiful Sleep](https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム～beautiful sleep～](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 4:02 |
+| 60 | [Beautiful Sleep](https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム～beautiful sleep～](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 4:02 |
+| 61 | [クレイ](https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 4:29 |
+| 62 | [Moon Dance](https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 2:47 |
 | 63 | [夜のままで](https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 1:56 |
 | 64 | [パレード](https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV) | [MIZ](https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq) | [Ninh Binh Brother's Homestay](https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra) | 3:48 |
 | 65 | [ステイウィズミー](https://open.spotify.com/track/5vr4m6d0JK05OSGD8I7nMW) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [勇気](https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z) | 2:25 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 73 | [Arrows](https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Arrows](https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3) | 4:26 |
 | 74 | [めぐる](https://open.spotify.com/track/0K5kuJdxRE7oT7jMfPDwLp) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [めぐる](https://open.spotify.com/album/6h4XyRagPLC8pSqbWls32G) | 4:25 |
 | 75 | [やえ](https://open.spotify.com/track/57Y2OIICEUuqKQt2cB7q3w) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [はなよど](https://open.spotify.com/album/2Qst0y6od2QlYCrHFLxOD8) | 4:21 |
-| 76 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 |
-| 77 | [たとえ・ばさ](https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Double Rift](https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y) | 4:15 |
+| 76 | [たとえ・ばさ](https://open.spotify.com/track/7J13ZqrHTqZPI6rzeZS0jz) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Double Rift](https://open.spotify.com/album/4GlJPeO448wfQ5E1BDir2Y) | 4:15 |
+| 77 | [この日のこと](https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 4:34 |
 | 78 | [風の谷のナウシカ \- 2024 ver.](https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [風の谷のナウシカ \(2024 ver.\)](https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH) | 5:25 |
 | 79 | [新宝島 \(hf remix\)](https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [月の幻 ～ Remix works ～](https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG) | 4:08 |
 | 80 | [Soup](https://open.spotify.com/track/6UHbnHQHQcFlhtEVwOVVQT) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Soup](https://open.spotify.com/album/0wp5HjYpk5v6SLU8QUmDjX) | 3:30 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 95 | [美貌の青空（Bibo no Aozora） \- Geimori \- Medley](https://open.spotify.com/track/0TfFwWDeuphsK3Cx6MAcJL) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [UTAU](https://open.spotify.com/album/6mSXKYAQh59mF11BjUDVI0) | 5:05 |
 | 96 | [ねむるのまち～Tidur Tidur～](https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [帰ってから、歌いたくなってもいいようにと思ったのだ。](https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG) | 5:10 |
 | 97 | [あなたがどこかで](https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK) | [Anzen Chitai](https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC) | [あなたがどこかで](https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF) | 4:40 |
-| 98 | [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 |
-| 99 | [夜はやさし](https://open.spotify.com/track/26VxGKT6FoKO4YFQz1WLwk) | [Sugar Me](https://open.spotify.com/artist/0RUM5RTI0FAykSNS9FdDjr) | [Wild Flowers](https://open.spotify.com/album/1aemhVhHw2fphYPNZy8SY3) | 3:32 |
+| 98 | [夜はやさし](https://open.spotify.com/track/26VxGKT6FoKO4YFQz1WLwk) | [Sugar Me](https://open.spotify.com/artist/0RUM5RTI0FAykSNS9FdDjr) | [Wild Flowers](https://open.spotify.com/album/1aemhVhHw2fphYPNZy8SY3) | 3:32 |
+| 99 | [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 |
 | 100 | [劇場](https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [最悪最愛](https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv) | 5:58 |
 
 Snapshot ID: `AAAAAJy1At2cC7Jb/znCpBH7tIxU2JCS`

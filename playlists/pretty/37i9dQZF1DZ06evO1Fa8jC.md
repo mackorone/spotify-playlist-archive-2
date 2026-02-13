@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,969 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,980 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 36 | [Esclavo](https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Esclavo](https://open.spotify.com/album/1eVMXERactTzMCN0xab6j8) | 4:16 |
 | 37 | [Se Va de Mí](https://open.spotify.com/track/4K7SetvOiFCZPEWk08wM4Z) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:31 |
 | 38 | [Capitán Pelusa](https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:07 |
-| 39 | [Sólo un Pensamiento \- Versión 25 Años](https://open.spotify.com/track/2gDIa4YN7mAIwFpFNnvCZq) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:31 |
-| 40 | [Dulce Muñequita](https://open.spotify.com/track/4801GXDyQH6oD4RXXgyxmW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:24 |
+| 39 | [Dulce Muñequita](https://open.spotify.com/track/4801GXDyQH6oD4RXXgyxmW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:24 |
+| 40 | [Sólo un Pensamiento \- Versión 25 Años](https://open.spotify.com/track/2gDIa4YN7mAIwFpFNnvCZq) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:31 |
 | 41 | [Mi Aliento](https://open.spotify.com/track/5KHWBI8FTuKOVu80l5M3xz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:03 |
 | 42 | [Mientras tanto](https://open.spotify.com/track/42uzgH9HbRS3hTGyq0Ilr2) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:14 |
 | 43 | [Perdón](https://open.spotify.com/track/5noZB6CRuCQuvfwVVCphDR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 49 | [Corazoncito](https://open.spotify.com/track/5kfTTsve31mQ8zGwcoZIVc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hombre Simple](https://open.spotify.com/album/0cBsE8gL9lYm0LjjmFw9R9) | 3:52 |
 | 50 | [Prefiero](https://open.spotify.com/track/3i6m98djJi8AJnyCWyhXWV) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 3:28 |
 
-Snapshot ID: `aYp1AAAAAAAZtI4S3M9n1Tz9yd6Y3n4Z`
+Snapshot ID: `aYvGgAAAAAB/9ea2srF5vc2f69Kp+bql`

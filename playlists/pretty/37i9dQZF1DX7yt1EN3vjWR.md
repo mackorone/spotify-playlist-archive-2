@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 2026年4月3日\(金\)\~4月5日\(日\)に幕張メッセ国際展示場1\~6ホールで開催されるヒップホップフェスティバル『POP YOURS』の公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,540 likes - 125 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,554 likes - 125 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 | 124 | [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 |
 | 125 | [Makuhari](https://open.spotify.com/track/6AaePXUruO3297PugyiDwT) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Makuhari](https://open.spotify.com/album/5IZ0GS67LGTVTEJTSFvb9o) | 4:10 |
 
-Snapshot ID: `AAAAALVJiuaAv8fd8Tm18MIMC3bhsZeX`
+Snapshot ID: `AAAAAOvcB6oRzuAdAIpNEFiklZJq0aEA`

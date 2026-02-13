@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 
 > This is Los Huracanes del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,328 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,341 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 38 | [El Dormilon](https://open.spotify.com/track/20l6LAb5mqBS7hodm871wV) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Fuerza y Sentimiento: Legado Norteño](https://open.spotify.com/album/2eQNUZSF2grKGYk05AZ68f) | 2:47 |
 | 39 | [El Celular](https://open.spotify.com/track/0058g7pEQRXcKEhGxgU6fM) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Pa'l Norte](https://open.spotify.com/album/4mRTjmyvCz4NzsotOUs9u7) | 2:39 |
 | 40 | [El Profeta](https://open.spotify.com/track/5psSRwJyVXRmJJ4PIwf5B1) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos De Caballos Famosos](https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V) | 3:53 |
-| 41 | [Como Tu No Hay Dos](https://open.spotify.com/track/3xK5YyO6zaNcMl1ay6LoL7) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [\#](https://open.spotify.com/album/3J7AOkys8eyUoGkWY0BzYG) | 3:16 |
-| 42 | [Tu Decides](https://open.spotify.com/track/5tPAWUWH0HaMtAu0beheuX) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Haciendo Historia 30 Exitos](https://open.spotify.com/album/5R5JUyEYAgad5gVpAK1zHL) | 3:00 |
+| 41 | [Tu Decides](https://open.spotify.com/track/5tPAWUWH0HaMtAu0beheuX) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Haciendo Historia 30 Exitos](https://open.spotify.com/album/5R5JUyEYAgad5gVpAK1zHL) | 3:00 |
+| 42 | [Como Tu No Hay Dos](https://open.spotify.com/track/3xK5YyO6zaNcMl1ay6LoL7) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [\#](https://open.spotify.com/album/3J7AOkys8eyUoGkWY0BzYG) | 3:16 |
 | 43 | [Tu Ponte En Mi Lugar](https://open.spotify.com/track/5Myv2WxSsDqYtS0idcFnQn) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 3:46 |
 | 44 | [El Mantenido](https://open.spotify.com/track/4p9pcUMHRkyhuG8V3uGI8C) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [En El Tiempo](https://open.spotify.com/album/5lUF7dc1FSAWTL1hEAD4uA) | 2:29 |
 | 45 | [Sangre De Gallo](https://open.spotify.com/track/1nNhBCnOQQuo62aXIj6FdW) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [En Que Trabaja El Muchacho](https://open.spotify.com/album/78sB90ztB36qs1CQuAerxB) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rBMR2.md) - [plain]
 | 49 | [Cruz De Madera](https://open.spotify.com/track/2toJ7xrqoeGas5RLnrifgM) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 2:53 |
 | 50 | [Si Los Caminos Hablaran](https://open.spotify.com/track/3fqs5Bm6c0SxgWxzoxukWt) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [28 Huracanazos](https://open.spotify.com/album/051pj99hFiZmLKCoC9sAti) | 2:38 |
 
-Snapshot ID: `aYp1AAAAAACbYTYJ5H7q7H540c2I+dl4`
+Snapshot ID: `aYvGgAAAAABDHpiH4ZNQRtliuDpxGg6i`

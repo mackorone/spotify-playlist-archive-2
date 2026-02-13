@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 
 > in the mood for love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,557,162 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,557,098 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEvzGeX3eRs.md) - [plain]
 | 9 | [Distant Lover](https://open.spotify.com/track/7vpkmzisaB8R47XlxyTcfs) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/1pwi5nEtbeFghwkwRTcZFe) | 4:16 |
 | 10 | [Lovin' You](https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Perfect Angel](https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9) | 3:43 |
 | 11 | [Cupid](https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [112](https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc) | 4:12 |
-| 12 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 |
-| 13 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
-| 14 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:58 |
+| 12 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:58 |
+| 13 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 |
+| 14 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
 | 15 | [Send It On](https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:56 |
 | 16 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |
 | 17 | [Can We Talk](https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [The Best of Tevin Campbell](https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN) | 4:44 |

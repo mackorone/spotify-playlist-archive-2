@@ -3878,7 +3878,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 119545,
       "name": "CARE FOR U",
       "url": "https://open.spotify.com/track/5fvPL39OaEz4Cio3y4yhck"
@@ -5077,6 +5077,24 @@
     },
     {
       "album": {
+        "name": "Dancar",
+        "url": "https://open.spotify.com/album/77O96RgsNGeVgQRvaaakZ5"
+      },
+      "artists": [
+        {
+          "name": "NewTone",
+          "url": "https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345000,
+      "name": "Dancar",
+      "url": "https://open.spotify.com/track/74QhjGHWS1INrMORU2Aske"
+    },
+    {
+      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
       },
@@ -5946,7 +5964,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 155903,
       "name": "Doom Culture",
       "url": "https://open.spotify.com/track/5BUmnVS1NK0Bx2L3jKRBjP"
@@ -7826,6 +7844,28 @@
       "duration_ms": 166356,
       "name": "Forbidden Feelingz",
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6cAOH931nhY4rkV5og5rve"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        },
+        {
+          "name": "Vivace",
+          "url": "https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241714,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2eFlUKbTC8RmLaIUDAXwWL"
     },
     {
       "album": {
@@ -18210,7 +18250,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 177662,
       "name": "SAUCY",
       "url": "https://open.spotify.com/track/17p5iuFllBlmYhZCTCAHPd"
@@ -19454,6 +19494,28 @@
       "duration_ms": 158896,
       "name": "souldive",
       "url": "https://open.spotify.com/track/1PJFSfRoIQiHksG7636sEY"
+    },
+    {
+      "album": {
+        "name": "Soulseek",
+        "url": "https://open.spotify.com/album/6qglld3ixSlI4JzqRV6ZtK"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "Soltera",
+          "url": "https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311666,
+      "name": "Soulseek",
+      "url": "https://open.spotify.com/track/6CnA2MIKasna7I4rp1RsXV"
     },
     {
       "album": {

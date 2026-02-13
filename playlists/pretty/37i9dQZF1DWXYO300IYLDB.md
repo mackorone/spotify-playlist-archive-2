@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,413 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,405 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 76 | [Dakota](https://open.spotify.com/track/2LOEgB0Jk9suqAP5dDS4bp) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Dakota](https://open.spotify.com/album/4dl5Lo8s7uDNRAqqtW2wna) | 4:54 |
 | 77 | [夜の歯車](https://open.spotify.com/track/4qof5qVArYf5hD1cfIQAhu) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 5:53 |
 | 78 | [Change of Mind \- Acoustic](https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb) | [New Portals](https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1) | [Change of Mind \(Acoustic\)](https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq) | 3:03 |
-| 79 | [Evangeline](https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Evangeline](https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse) | 3:26 |
-| 80 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
+| 79 | [Pure Shores](https://open.spotify.com/track/6J3yPTOppEmWRAWf03f4HP) | [Colder Shoulders](https://open.spotify.com/artist/1zosZ3MRuDEtY3otoKE291) | [Pure Shores](https://open.spotify.com/album/6AF7goSB4mDIpHrDhQCHuU) | 3:19 |
+| 80 | [Evangeline](https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Evangeline](https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse) | 3:26 |
 | 81 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
 | 82 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 |
 | 83 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 89 | [Waterfall](https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm) | 3:17 |
 | 90 | [Sorry](https://open.spotify.com/track/6tbSgMKlQ31izXvorTATrn) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL COVER ALL](https://open.spotify.com/album/1290P26ZPIKJSHOrOyqLXD) | 2:49 |
 | 91 | [サヨナラCOLOR \(feat\. 忌野清志郎\)](https://open.spotify.com/track/2eGvxu3yDYylUCDzbSZk41) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte), [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0), [ナタリー・ワイズ](https://open.spotify.com/artist/3TTu5UlmXN8AGUjlS41ej1), [Kiyoshiro Imawano](https://open.spotify.com/artist/65su2o6jvWfsVRK5uRfvF9) | [サヨナラCOLOR \(feat\. 忌野清志郎\)](https://open.spotify.com/album/5Vh1RJMPCuj0BnibZCtg2Q) | 4:17 |
-| 92 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
-| 93 | [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 |
+| 92 | [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 |
+| 93 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
 | 94 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
 | 95 | [卒業写真](https://open.spotify.com/track/30oGazXdD7pezhc5pRFU22) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [Dialogue －Miki Imai Sings Yuming Classics－](https://open.spotify.com/album/0I5Q4lnNVonZL4H4OL8LKq) | 3:14 |
 | 96 | [Ding\-dong](https://open.spotify.com/track/7w0okOAHEpB4kJjUFIZbu0) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Ding\-dong](https://open.spotify.com/album/2eBnNZdjmBNfER5SuuKQGl) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 99 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 |
 | 100 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
 
-Snapshot ID: `AAAAALNAmufCn1LYNRYDKDmNRW8hee/R`
+Snapshot ID: `AAAAAAAlWOzY6u3nmtIc3YpUmTe6yA/0`

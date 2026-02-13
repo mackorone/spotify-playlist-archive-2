@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-792 songs - 1 day 16 hr 33 min
+796 songs - 1 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 | 2025-05-08 | 2025-06-20 |
 | [Dem Der Forsvandt](https://open.spotify.com/track/4nUGbPojoiw0teXQB9n0KE) | [Jacob Aksglæde](https://open.spotify.com/artist/38OuwRRstYfgqeP4EciiWU) | [Dem Der Forsvandt](https://open.spotify.com/album/4qXUi5QDBN6PYyMQFAxMaR) | 2:48 | 2025-01-02 | 2025-01-17 |
 | [Den nye pige](https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Den nye pige](https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa) | 2:49 | 2025-08-28 | 2026-02-06 |
+| [Den Sidste Dråbe](https://open.spotify.com/track/5rtNYAmh5tDz3viB3Mqzzv) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Den Sidste Dråbe](https://open.spotify.com/album/6epxWewaSsnJyz7MiDwyUP) | 3:06 | 2026-02-12 |  |
 | [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 | 2025-09-18 |  |
 | [Destiny](https://open.spotify.com/track/3lgjvBBSBYpwNpLDY1nsmR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Destiny](https://open.spotify.com/album/4wprqrMAFplpkWVySr4kD1) | 4:37 | 2025-11-13 | 2025-11-28 |
 | [Det sker alt for tit](https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Det sker alt for tit](https://open.spotify.com/album/57eFbZtnhu5KxEP6aUiGvB) | 3:07 | 2025-03-06 | 2025-04-25 |
@@ -462,6 +463,7 @@
 | [Lover Online](https://open.spotify.com/track/0o5wusLgOl9yWjXzUF1SEJ) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Lover Online](https://open.spotify.com/album/3jkEIKa3J9CI09JLsAl7Qs) | 2:47 | 2024-09-19 | 2024-10-04 |
 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 | 2025-05-29 | 2025-10-17 |
 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 | 2024-08-08 | 2024-10-04 |
+| [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 | 2026-02-12 |  |
 | [Luk Mig Ind](https://open.spotify.com/track/4GZt2BpQpWhkEAgmfUrQOu) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Luk Mig Ind](https://open.spotify.com/album/3BzNZ3Q0vSy84tE64QtNWA) | 3:17 | 2024-11-28 | 2025-04-25 |
 | [Lullaby](https://open.spotify.com/track/0YuLMpdDhj3y0WziwZTiVk) | [Benjamin Lasnier](https://open.spotify.com/artist/3N7RhH3YAHpYa9PC4SGuA0) | [Lullaby / LoveLoveLove](https://open.spotify.com/album/2bXIzyIJmka1mdKrorIbvG) | 2:28 | 2024-07-11 | 2024-10-04 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-27 | 2024-11-08 |
@@ -612,6 +614,7 @@
 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 | 2025-11-27 |  |
 | [Skriv Det På Min Gravsten](https://open.spotify.com/track/6cYscV4nNqZ1r8bxEMATme) | [KRYD](https://open.spotify.com/artist/3goYa2gnDqTLI7JESwEmHb) | [Skriv Det På Min Gravsten](https://open.spotify.com/album/4KQFfLnLK2WQD0VSh4mCgF) | 3:02 | 2025-01-09 | 2025-04-25 |
 | [sleepless in seattle](https://open.spotify.com/track/2CIgddPlxflW2J0WSZgIwf) | [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc), [Anders Hede](https://open.spotify.com/artist/1fcG5a7tqhtaX5aquJ2Ll6) | [sleepless in seattle](https://open.spotify.com/album/5WjB9svGjxYhAB4Yrt481q) | 2:50 | 2025-11-21 |  |
+| [Slip Slip \(feat MAS\)](https://open.spotify.com/track/3zdVETKMMylugccTBGOZ53) | [Lea Romea](https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Slip Slip](https://open.spotify.com/album/6thF95qMO200DQlzCuHCGw) | 2:33 | 2026-02-12 |  |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-06-27 | 2024-07-30 |
 | [Slow Motion](https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Slow Motion](https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu) | 3:23 | 2025-01-23 | 2025-05-09 |
 | [Slutet av sommarn](https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Slutet av sommarn](https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I) | 2:17 | 2024-06-27 | 2024-08-30 |
@@ -720,6 +723,7 @@
 | [Turn Red](https://open.spotify.com/track/7ruY9EHnzkOc01D5zxGQ1N) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Turn Red](https://open.spotify.com/album/1u2RNnee15k34sv5gMf5IM) | 2:58 | 2025-07-17 | 2025-09-06 |
 | [tusind tanker](https://open.spotify.com/track/6T5dJLZEkwFjEHo8gDkGZJ) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [\(over\)lever](https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN) | 2:50 | 2026-01-22 |  |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-28 | 2025-06-13 |
+| [Two Hearts](https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [](https://open.spotify.com/album/null) | 3:52 | 2026-02-12 |  |
 | [Type Dangerous](https://open.spotify.com/track/7xXhGshFX3UqeQOGl3euq3) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Type Dangerous](https://open.spotify.com/album/5zqPvn0AajYX7omxHLRmpJ) | 2:55 | 2025-06-06 | 2025-06-20 |
 | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg), [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD) | [Tænker Ik På Andre \(feat\. URO\)](https://open.spotify.com/album/2JmLI48HyAM6YAfQB4z3vm) | 3:23 | 2024-08-29 | 2025-04-25 |
 | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx) | 2:17 | 2025-05-08 | 2025-08-15 |

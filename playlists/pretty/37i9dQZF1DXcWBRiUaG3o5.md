@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,619 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,481 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,18 +63,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 53 | [I Should Live in Salt \- The National Cover \- Live from Spotify, London](https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Spotify Live](https://open.spotify.com/album/315m5F9Xqwhfptakbs0fG8) | 4:12 |
 | 54 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 |
 | 55 | [Ballroom](https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 4:06 |
-| 56 | [Let's Go Outside \- Campfire Version](https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Campfire, Vol\. 1](https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz) | 3:25 |
-| 57 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
-| 58 | [Some Kind of Heaven](https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Some Kind of Heaven](https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH) | 5:10 |
-| 59 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
+| 56 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
+| 57 | [Let's Go Outside \- Campfire Version](https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Campfire, Vol\. 1](https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz) | 3:25 |
+| 58 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
+| 59 | [Some Kind of Heaven](https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Some Kind of Heaven](https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH) | 5:10 |
 | 60 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
 | 61 | [The Last Time I Saw Adrianne](https://open.spotify.com/track/3wmyO7epB7HGP2HOsAWtPW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:36 |
 | 62 | [The Wolves \(Reprise\)](https://open.spotify.com/track/4o9p6bikPh105sEZLM3OzK) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:30 |
 | 63 | [Sang About It](https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Sang About It](https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ) | 2:13 |
 | 64 | [Stop Your Tears](https://open.spotify.com/track/1ipOWUZFRUbHF0IVb00QAh) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2Kecdv9NPLSHoIjZvARyWz) | 5:38 |
 | 65 | [I Can’t Hide](https://open.spotify.com/track/56wQ8oN1RxGkTDw1lV7RSM) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Waiting](https://open.spotify.com/album/42PYcXkN5YS40eOmFFU2XW) | 2:57 |
-| 66 | [The First Time](https://open.spotify.com/track/1KYTFMhgTad8OGgmjkU6rn) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 2:40 |
-| 67 | [The Sun Oh Yeah](https://open.spotify.com/track/3U57mXqMsaCGEWU2KlGRc9) | [Dave Simonett](https://open.spotify.com/artist/6CKy7Do4kT6GmeDoHTSvdr) | [The Sun Oh Yeah](https://open.spotify.com/album/19zgVzRekB6Iga2nn5pc39) | 4:32 |
+| 66 | [The Sun Oh Yeah](https://open.spotify.com/track/3U57mXqMsaCGEWU2KlGRc9) | [Dave Simonett](https://open.spotify.com/artist/6CKy7Do4kT6GmeDoHTSvdr) | [The Sun Oh Yeah](https://open.spotify.com/album/19zgVzRekB6Iga2nn5pc39) | 4:32 |
+| 67 | [The First Time](https://open.spotify.com/track/1KYTFMhgTad8OGgmjkU6rn) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 2:40 |
 | 68 | [Love You Blind \- Windowsill Version](https://open.spotify.com/track/2CDPoedvXCCnPuzZe5KB8W) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Love You Blind \(Windowsill Version\)](https://open.spotify.com/album/7MQfEwXY0TuMvHGxGjJFhy) | 3:44 |
 | 69 | [Zebra](https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [Zebra](https://open.spotify.com/album/6QmnGl7Bj5U4bbXVQSbR37) | 3:05 |
 | 70 | [Cherry In Tacoma](https://open.spotify.com/track/09oUu07p0Hp845lehhYsYG) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Cherry In Tacoma](https://open.spotify.com/album/32peyMgk2J7Ro7X6rLjxZR) | 3:42 |

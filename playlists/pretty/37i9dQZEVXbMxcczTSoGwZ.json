@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
-  "num_followers": 176739,
+  "num_followers": 176753,
   "original_name": "Top 50 - Finland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MR/pmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MSE7GAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Syv\u00e4 p\u00e4\u00e4ty",
         "url": "https://open.spotify.com/album/5vAcp73b5x6zBo3qzvDyhM"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/4eKb3URMF19IeCXcBkbVoN"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Syd\u00e4n (feat. Alina Burnet)",
         "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
@@ -69,27 +69,7 @@
       "url": "https://open.spotify.com/track/0ODbSS6Tq4WqqazALjwksv"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "Liekinheitin",
-        "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
-      },
-      "artists": [
-        {
-          "name": "Linda Lampenius",
-          "url": "https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T"
-        },
-        {
-          "name": "Pete Parkkonen",
-          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Liekinheitin",
-      "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Ihan kohta ohi",
         "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
@@ -109,23 +89,7 @@
       "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "Million Dollar Smile",
-        "url": "https://open.spotify.com/album/7v2aumxwZIVMH7bf26YGDq"
-      },
-      "artists": [
-        {
-          "name": "Etta",
-          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Million Dollar Smile",
-      "url": "https://open.spotify.com/track/6kB0VQW17TAt7XddE7pkz5"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx"
@@ -141,7 +105,43 @@
       "url": "https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "Liekinheitin",
+        "url": "https://open.spotify.com/album/63W9IfvbNFYvIa1zswHqvL"
+      },
+      "artists": [
+        {
+          "name": "Linda Lampenius",
+          "url": "https://open.spotify.com/artist/177ZOBPSU9yqO6IdomgK3T"
+        },
+        {
+          "name": "Pete Parkkonen",
+          "url": "https://open.spotify.com/artist/7zX44fpv6srJt3HfBv0GCn"
+        }
+      ],
+      "duration_ms": 180479,
+      "name": "Liekinheitin",
+      "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "Million Dollar Smile",
+        "url": "https://open.spotify.com/album/7v2aumxwZIVMH7bf26YGDq"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Million Dollar Smile",
+      "url": "https://open.spotify.com/track/6kB0VQW17TAt7XddE7pkz5"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
@@ -165,7 +165,59 @@
       "url": "https://open.spotify.com/track/1MWkXV0BeBUXYiqAKfPAdF"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "Ai Ett\u00e4",
+        "url": "https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Ai Ett\u00e4",
+      "url": "https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "Make up your mind",
+        "url": "https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj"
+      },
+      "artists": [
+        {
+          "name": "Mirella",
+          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
+        },
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Make up your mind",
+      "url": "https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "PETSHOP",
         "url": "https://open.spotify.com/album/57iAh3QvNudObASmZccMzD"
@@ -189,55 +241,7 @@
       "url": "https://open.spotify.com/track/1pEhxch5kmJr2RbMKoNguI"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "Ai Ett\u00e4",
-        "url": "https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Ai Ett\u00e4",
-      "url": "https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "Best For You",
-        "url": "https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ"
-      },
-      "artists": [
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Best For You",
-      "url": "https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Alcoholic",
         "url": "https://open.spotify.com/album/2El1YK63AksH46UztnNsgD"
@@ -253,7 +257,23 @@
       "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "Best For You",
+        "url": "https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Best For You",
+      "url": "https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Aitous ei oo myynniss\u00e4",
         "url": "https://open.spotify.com/album/0Xhjp2tWP9tAbhYTxXI8In"
@@ -269,27 +289,7 @@
       "url": "https://open.spotify.com/track/7aunzDlJop67v4YAYRWxbr"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "Make up your mind",
-        "url": "https://open.spotify.com/album/6h6BGEGN2NDYt8Sk8UEsEj"
-      },
-      "artists": [
-        {
-          "name": "Mirella",
-          "url": "https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ"
-        },
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Make up your mind",
-      "url": "https://open.spotify.com/track/0wcfyMYSuukf3dZAbehTmc"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Syd\u00e4n on rikki",
         "url": "https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Magic City",
         "url": "https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE"
@@ -321,27 +321,7 @@
       "url": "https://open.spotify.com/track/4rch7q4kFz6vqaNzt8FBj5"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "Aris",
-        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "Vesala",
-          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
-        }
-      ],
-      "duration_ms": 170343,
-      "name": "Se ei mennyt niin",
-      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "T\u00e4hdet",
         "url": "https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q"
@@ -361,55 +341,27 @@
       "url": "https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "Takatukka",
-        "url": "https://open.spotify.com/album/5qH8rw6CAseeQMccOMHSWb"
-      },
-      "artists": [
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
         {
-          "name": "Antti Paalanen",
-          "url": "https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V"
+          "name": "Vesala",
+          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Takatukka",
-      "url": "https://open.spotify.com/track/4ZC9E410eX5fMNWI5ITnHd"
+      "duration_ms": 170343,
+      "name": "Se ei mennyt niin",
+      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
@@ -429,7 +381,39 @@
       "url": "https://open.spotify.com/track/5D5wXQy4MpnTS5ZOPW5v94"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "Takatukka",
+        "url": "https://open.spotify.com/album/5qH8rw6CAseeQMccOMHSWb"
+      },
+      "artists": [
+        {
+          "name": "Antti Paalanen",
+          "url": "https://open.spotify.com/artist/04v74MPedb2oLX2pUbcC4V"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Takatukka",
+      "url": "https://open.spotify.com/track/4ZC9E410eX5fMNWI5ITnHd"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Avaimet mun kiesiin (Unitas Sigma)",
         "url": "https://open.spotify.com/album/5ZXmflb4crA5vn9zcqwHhQ"
@@ -453,7 +437,55 @@
       "url": "https://open.spotify.com/track/26fTat1bHiFIElySm9kuJy"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "APATHIA",
+        "url": "https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "duration_ms": 165484,
+      "name": "Menestys on paras tapa kostaa",
+      "url": "https://open.spotify.com/track/728CCaVme0Ppv8zrG9caYE"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "iPhone",
         "url": "https://open.spotify.com/album/1IfmeepspqRCeBFKFgztAv"
@@ -469,7 +501,23 @@
       "url": "https://open.spotify.com/track/6swERFE6dr11ejVdBvJ076"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
+      },
+      "artists": [
+        {
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+        }
+      ],
+      "duration_ms": 165359,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Mik\u00e4\u00e4n ei koskaan muutu",
         "url": "https://open.spotify.com/album/3RrGvR1LisLQkvKN9vvY8t"
@@ -489,7 +537,7 @@
       "url": "https://open.spotify.com/track/7exPEC6VUcgiGVBAFjn01W"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Lululai",
         "url": "https://open.spotify.com/album/59sdjIA1D5cyfXaM7nCAzp"
@@ -505,55 +553,7 @@
       "url": "https://open.spotify.com/track/0Cm8hDgE0cW9plGfdlhyd1"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "APATHIA",
-        "url": "https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        }
-      ],
-      "duration_ms": 165484,
-      "name": "Menestys on paras tapa kostaa",
-      "url": "https://open.spotify.com/track/728CCaVme0Ppv8zrG9caYE"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 204768,
-      "name": "EoO",
-      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Voiko enkelitkin eksy\u00e4",
         "url": "https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N"
@@ -569,7 +569,39 @@
       "url": "https://open.spotify.com/track/6autRemLR1u9uO5qGa8edx"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 204768,
+      "name": "EoO",
+      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -585,23 +617,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "Nene",
-        "url": "https://open.spotify.com/album/7h0IoR6uEih7xviHeTnTfu"
-      },
-      "artists": [
-        {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Nene",
-      "url": "https://open.spotify.com/track/4v7HeDtsKsa8PD87o0FIjL"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Kuvia mun k\u00e4nnyk\u00e4ss\u00e4",
         "url": "https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega"
@@ -617,7 +633,23 @@
       "url": "https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "Nene",
+        "url": "https://open.spotify.com/album/7h0IoR6uEih7xviHeTnTfu"
+      },
+      "artists": [
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Nene",
+      "url": "https://open.spotify.com/track/4v7HeDtsKsa8PD87o0FIjL"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -637,23 +669,7 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "Stand Back",
-        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
-      },
-      "artists": [
-        {
-          "name": "Jukka Poika",
-          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
-        }
-      ],
-      "duration_ms": 165359,
-      "name": "Stand Back",
-      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
@@ -669,43 +685,7 @@
       "url": "https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "KATULAPSI",
-        "url": "https://open.spotify.com/album/5lroKDiW0qQOrLDJDC3YUW"
-      },
-      "artists": [
-        {
-          "name": "VJ",
-          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
-        },
-        {
-          "name": "Turisti",
-          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
-        }
-      ],
-      "duration_ms": 159300,
-      "name": "Naamat",
-      "url": "https://open.spotify.com/track/7fk4XZFhP99KgWUIF5soxf"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -725,71 +705,27 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
-        "name": "Rakkaudenkipee",
-        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
+        "name": "KATULAPSI",
+        "url": "https://open.spotify.com/album/5lroKDiW0qQOrLDJDC3YUW"
       },
       "artists": [
         {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "Rakkaudenkipee",
-      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "Tytt\u00f6yst\u00e4v\u00e4",
-        "url": "https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 177132,
-      "name": "Tytt\u00f6yst\u00e4v\u00e4",
-      "url": "https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "Magic City",
-        "url": "https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE"
-      },
-      "artists": [
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        },
         {
           "name": "Turisti",
           "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
         }
       ],
-      "duration_ms": 178847,
-      "name": "Beyonce",
-      "url": "https://open.spotify.com/track/6Pa8w6Q4C7lNunjgtqxBkh"
+      "duration_ms": 159300,
+      "name": "Naamat",
+      "url": "https://open.spotify.com/track/7fk4XZFhP99KgWUIF5soxf"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Vanhasta Uuteen",
         "url": "https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb"
@@ -805,23 +741,23 @@
       "url": "https://open.spotify.com/track/30McQzUzWjcZbqQbW3Smd3"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
-        "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
-        "url": "https://open.spotify.com/album/1PGqNvO98f5KApMX6bqsbR"
+        "name": "Tytt\u00f6yst\u00e4v\u00e4",
+        "url": "https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8"
       },
       "artists": [
         {
-          "name": "Elias Kaskinen",
-          "url": "https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj"
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
         }
       ],
-      "duration_ms": 188631,
-      "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
-      "url": "https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc"
+      "duration_ms": 177132,
+      "name": "Tytt\u00f6yst\u00e4v\u00e4",
+      "url": "https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "DENIM",
         "url": "https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa"
@@ -837,7 +773,55 @@
       "url": "https://open.spotify.com/track/7kSBo6NoqCsoZ6W2SBYJvv"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "Magic City",
+        "url": "https://open.spotify.com/album/6F5zxzwlcpCHZKhKQto9sE"
+      },
+      "artists": [
+        {
+          "name": "Turisti",
+          "url": "https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp"
+        }
+      ],
+      "duration_ms": 178847,
+      "name": "Beyonce",
+      "url": "https://open.spotify.com/track/6Pa8w6Q4C7lNunjgtqxBkh"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "Rakkaudenkipee",
+        "url": "https://open.spotify.com/album/2GojwnBicLHPaakAexrwG7"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "Rakkaudenkipee",
+      "url": "https://open.spotify.com/track/2aWi2TIoTMu83w6zagrnzx"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -853,7 +837,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
         "name": "Aris",
         "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
@@ -873,24 +857,36 @@
       "url": "https://open.spotify.com/track/5WrfaQBtLiP0wMuZkDfbmH"
     },
     {
-      "added_at": "2026-02-11 14:07:38",
+      "added_at": "2026-02-12 13:49:09",
       "album": {
-        "name": "OMG (feat. Evelina)",
-        "url": "https://open.spotify.com/album/00mHZCxEg1Ejv6t38O9O4d"
+        "name": "Sata Enkelii",
+        "url": "https://open.spotify.com/album/0qNFBKhnuzQDDgHtXzO2D8"
       },
       "artists": [
         {
-          "name": "Mikael Laurent",
-          "url": "https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO"
-        },
-        {
-          "name": "Evelina",
-          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
         }
       ],
-      "duration_ms": 201187,
-      "name": "OMG (feat. Evelina)",
-      "url": "https://open.spotify.com/track/3Rvtvz0JuyKXEZ9A1ZTmbe"
+      "duration_ms": 174667,
+      "name": "Sata Enkelii",
+      "url": "https://open.spotify.com/track/4kyyeD1eO2wR6VfRKh4gkq"
+    },
+    {
+      "added_at": "2026-02-12 13:49:09",
+      "album": {
+        "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
+        "url": "https://open.spotify.com/album/1PGqNvO98f5KApMX6bqsbR"
+      },
+      "artists": [
+        {
+          "name": "Elias Kaskinen",
+          "url": "https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj"
+        }
+      ],
+      "duration_ms": 188631,
+      "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
+      "url": "https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc"
     }
   ],
   "unique_name": "Top 50 - Finland",

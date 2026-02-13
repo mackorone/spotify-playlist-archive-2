@@ -2,9 +2,9 @@
 
 ### [Hot Hits UK](https://open.spotify.com/playlist/37i9dQZF1DWY4lFlS4Pnso)
 
-> The UK's biggest playlist\. Cover: Olivia Dean
+> The UK's biggest playlist\. Cover: Bad Bunny
 
-426 songs - 22 hr 36 min
+429 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [DPMO](https://open.spotify.com/track/6rf4KX0dLAeA9YOLf2kPR0) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [DPMO](https://open.spotify.com/album/3xufC9z1KXYbBVWO66rG2Y) | 1:51 | 2025-11-10 | 2025-12-19 |
 | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/track/55Gic5of4nSRA78CCQLwSP) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/album/7h1UqQUGd3vtpPFZyg6tIH) | 2:26 | 2025-10-06 | 2025-11-04 |
 | [Dracula](https://open.spotify.com/track/5adNBXEoLla10lGJcGzRIL) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/4c5fV7jRGwwVPYG5IbcCyx) | 3:25 | 2025-10-03 |  |
+| [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-13 |  |
 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-20 |  |
 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 | 2025-07-17 | 2025-08-08 |
 | [d£aler](https://open.spotify.com/track/2oEWlfp7bWOb3Mqiyhu8rW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 2:40 | 2025-09-25 | 2025-12-19 |
@@ -168,7 +169,7 @@
 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 | 2025-04-22 | 2025-06-10 |
 | [Heaterz](https://open.spotify.com/track/2xq0T6R1a1cFBYCn7HPKtt) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Heaterz](https://open.spotify.com/album/6WRkgezvMJYr3bkSFUCPqU) | 2:40 | 2024-11-29 | 2025-01-17 |
 | [Heaven Or Hell](https://open.spotify.com/track/7zF3KNGz44bjX9WMneSvWr) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Heaven or Hell](https://open.spotify.com/album/2hSBelgvz5Wi4anXg9M7KP) | 2:31 | 2024-02-16 | 2024-03-29 |
-| [HELICOPTER](https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:40 | 2026-01-19 |  |
+| [HELICOPTER](https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 2:40 | 2026-01-19 | 2026-02-13 |
 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-06-26 |  |
 | [HISS](https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [HISS](https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA) | 3:12 | 2024-02-02 | 2024-02-23 |
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-02-02 | 2024-12-13 |
@@ -263,7 +264,7 @@
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-06-26 |  |
 | [No Comment](https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [No Comment](https://open.spotify.com/album/7lJucfUoSX4vCCDAa0Nyss) | 3:02 | 2025-08-26 | 2025-10-04 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-01-24 | 2025-03-21 |
-| [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:48 | 2025-11-24 |  |
+| [NOBODY'S GIRL](https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [SO CLOSE TO WHAT??? \(deluxe\)](https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ) | 2:48 | 2025-11-24 | 2026-02-13 |
 | [Noid](https://open.spotify.com/track/1tnZxHryc2wWtjUZC1LQw5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Noid](https://open.spotify.com/album/4OjzAZXWalqQN5STXHPJdl) | 4:44 | 2024-10-25 | 2024-11-22 |
 | [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-02-21 |  |
 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 | 2024-01-26 | 2024-02-13 |
@@ -271,6 +272,7 @@
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2024-01-29 | 2024-03-09 |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2024-01-26 | 2024-06-04 |
 | [NOW OR NEVER](https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM) | [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO), [CXSPER](https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL) | [NOW OR NEVER](https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM) | 2:03 | 2025-10-06 |  |
+| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2026-02-13 |  |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-03-25 | 2024-07-19 |
 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 | 2025-09-04 | 2025-10-07 |
 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 | 2025-05-01 | 2025-06-06 |
@@ -322,7 +324,7 @@
 | [Right Here](https://open.spotify.com/track/2VpKBfkqAZr1iAwwg8AGDO) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Right Here](https://open.spotify.com/album/2xPEnym1OM5cJjW5xZeqTU) | 2:59 | 2024-05-02 | 2024-06-11 |
 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 | 2025-07-24 | 2025-08-22 |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-17 | 2024-06-21 |
-| [Runnin](https://open.spotify.com/track/5b4szVlHAoR5BURFGXTmT0) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Runnin](https://open.spotify.com/album/1JONmXIlIqJ8fVERyDTFVX) | 2:47 | 2026-01-26 |  |
+| [Runnin](https://open.spotify.com/track/5b4szVlHAoR5BURFGXTmT0) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Runnin](https://open.spotify.com/album/1JONmXIlIqJ8fVERyDTFVX) | 2:47 | 2026-01-26 | 2026-02-13 |
 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 | 2025-03-14 | 2025-08-01 |
 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 | 2024-01-26 | 2024-02-27 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-15 | 2024-10-03 |
@@ -424,6 +426,7 @@
 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 | 2025-09-18 |  |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-18 |  |
 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 | 2025-07-28 | 2026-02-03 |
+| [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2026-02-13 |  |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-08-01 | 2025-03-11 |
 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-13 | 2025-01-28 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-10-03 | 2025-04-29 |

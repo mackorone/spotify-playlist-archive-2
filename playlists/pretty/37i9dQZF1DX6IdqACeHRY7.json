@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 158022,
+  "num_followers": 158029,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "I Sit In Parks",
-        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 130093,
-      "name": "I Sit In Parks",
-      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Are You Even Real (feat. Giv\u0113on)",
         "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 147702,
       "name": "Are You Even Real (feat. Giv\u0113on)",
       "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "I Sit In Parks",
+        "url": "https://open.spotify.com/album/4gzc2g5CpI5WaXFvRHM6uj"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 130093,
+      "name": "I Sit In Parks",
+      "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "love (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Love You Anymore",
-      "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Dancing With A Stranger (With Normani) [Acoustic]",
         "url": "https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 187621,
       "name": "Dancing With A Stranger (With Normani) - Acoustic",
       "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Love You Anymore",
+      "url": "https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Lonely (feat. Artigeardit)",
-        "url": "https://open.spotify.com/album/01jgWIUkK5rDmbWf3tFIMb"
-      },
-      "artists": [
-        {
-          "name": "JOSVA",
-          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
-        },
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 196090,
-      "name": "Lonely (feat. Artigeardit)",
-      "url": "https://open.spotify.com/track/00Ma3dn1eTeuz8LYEpUXQo"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Lonely (feat. Artigeardit)",
+        "url": "https://open.spotify.com/album/01jgWIUkK5rDmbWf3tFIMb"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "duration_ms": 196090,
+      "name": "Lonely (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/00Ma3dn1eTeuz8LYEpUXQo"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
         "name": "Allerhelst Vil Vi Elskes",
         "url": "https://open.spotify.com/album/0PvtxoHkUFd9SjApTQUVcP"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 170107,
       "name": "F\u00f8les Godt (feat. Mekdes)",
       "url": "https://open.spotify.com/track/2c94vIXsZfItT8dQqxpmv3"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/2y6hhuWPK4C6s21N0Y5r8r"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Folk Forsvinder",
-        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
-      },
-      "artists": [
-        {
-          "name": "Chris Burton",
-          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
-        }
-      ],
-      "duration_ms": 173041,
-      "name": "Folk Forsvinder",
-      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "Perfect to Me (Acoustic)",
         "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 213213,
       "name": "Perfect To Me - Acoustic",
       "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Folk Forsvinder",
+        "url": "https://open.spotify.com/album/3epMbIVpnO7V1854Efwfpc"
+      },
+      "artists": [
+        {
+          "name": "Chris Burton",
+          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
+        }
+      ],
+      "duration_ms": 173041,
+      "name": "Folk Forsvinder",
+      "url": "https://open.spotify.com/track/1ahsG679rkCBohS1CRjbnr"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1475,22 +1475,6 @@
       "duration_ms": 208998,
       "name": "Tabt Noget",
       "url": "https://open.spotify.com/track/4f7b2nMVkhM58F6nSnQTDZ"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
-        "name": "Over Broen",
-        "url": "https://open.spotify.com/album/4yepsianA44yEssCzMhOW1"
-      },
-      "artists": [
-        {
-          "name": "Dahlin",
-          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
-        }
-      ],
-      "duration_ms": 185197,
-      "name": "Over Broen",
-      "url": "https://open.spotify.com/track/2uYgJzIZbBTCsbXb9laFzh"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1543,6 +1527,22 @@
       "duration_ms": 173442,
       "name": "Uendelighed",
       "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Over Broen",
+        "url": "https://open.spotify.com/album/4yepsianA44yEssCzMhOW1"
+      },
+      "artists": [
+        {
+          "name": "Dahlin",
+          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
+        }
+      ],
+      "duration_ms": 185197,
+      "name": "Over Broen",
+      "url": "https://open.spotify.com/track/2uYgJzIZbBTCsbXb9laFzh"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Lukas Graham (Blue Album)",
-        "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "What Happened To Perfect",
-      "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
-    },
-    {
-      "added_at": "2025-11-20 23:00:41",
-      "album": {
         "name": "1975",
         "url": "https://open.spotify.com/album/0rhChR1mcH1LVUCTm1JtHZ"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 197839,
       "name": "Until The Hurting Is Gone",
       "url": "https://open.spotify.com/track/3GeBvpzVmiqbKIAJZoffVc"
+    },
+    {
+      "added_at": "2025-11-20 23:00:41",
+      "album": {
+        "name": "Lukas Graham (Blue Album)",
+        "url": "https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "What Happened To Perfect",
+      "url": "https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Songs I Cry 2",
-        "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
       },
       "artists": [
         {
-          "name": "Saint clara",
-          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
         }
       ],
-      "duration_ms": 192818,
-      "name": "How I Love You",
-      "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
+      "duration_ms": 189557,
+      "name": "I'm Done",
+      "url": "https://open.spotify.com/track/5kMa3mm5zoM9SWTAZOBDDB"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha"
+        "name": "Songs I Cry 2",
+        "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
       },
       "artists": [
         {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+          "name": "Saint clara",
+          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
         }
       ],
-      "duration_ms": 189557,
-      "name": "I'm Done",
-      "url": "https://open.spotify.com/track/5kMa3mm5zoM9SWTAZOBDDB"
+      "duration_ms": 192818,
+      "name": "How I Love You",
+      "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
     },
     {
       "added_at": "2025-11-20 23:00:41",
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2025-11-20 23:00:41",
       "album": {
-        "name": "Call Your Girlfriend",
-        "url": "https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu"
+        "name": "Hey Ya!",
+        "url": "https://open.spotify.com/album/6T2TpTzKg9Q2ZEwBLZK92G"
       },
       "artists": [
         {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+          "name": "Maygen Lacey",
+          "url": "https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5"
         }
       ],
-      "duration_ms": 194809,
-      "name": "Call Your Girlfriend",
-      "url": "https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX"
+      "duration_ms": 214689,
+      "name": "Hey Ya! - Acoustic",
+      "url": "https://open.spotify.com/track/4qJq5V3Ca2X615wxNV0QWB"
     }
   ],
   "unique_name": "ren hygge",

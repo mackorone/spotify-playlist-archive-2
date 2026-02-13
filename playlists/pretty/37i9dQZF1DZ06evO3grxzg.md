@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,718 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,722 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 28 | [TENEMOS QUE HABLAR](https://open.spotify.com/track/7yhKchyWUfVj4BGM7yhjX7) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:10 |
 | 29 | [AÚN TE QUIERO](https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AÚN TE QUIERO](https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u) | 3:25 |
 | 30 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 |
-| 31 | [Mundo De Caramelo](https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrevete A Soñar](https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb) | 3:50 |
-| 32 | [Pintando El Amor](https://open.spotify.com/track/7hipALmB4PgPnjG1wr8ls4) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mateo](https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0) | [Atrévete A Soñar 2](https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS) | 3:19 |
+| 31 | [Pintando El Amor](https://open.spotify.com/track/7hipALmB4PgPnjG1wr8ls4) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mateo](https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0) | [Atrévete A Soñar 2](https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS) | 3:19 |
+| 32 | [Mundo De Caramelo](https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Atrevete A Soñar](https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb) | 3:50 |
 | 33 | [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 |
 | 34 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/1PyINqIUN9HFVrmhBACtBz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [¿Dónde Estabas Tú?](https://open.spotify.com/album/4Zh7uV38M1p6v2JdS8lUA2) | 4:04 |
 | 35 | [1TRAGO](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1TRAGO](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 49 | [Ladrones](https://open.spotify.com/track/23R6LNvr5YGUw4iJiPhXOb) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Cuatro Estaciones](https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m) | 3:03 |
 | 50 | [Sola](https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:05 |
 
-Snapshot ID: `aYp1AAAAAABHxTFPvPYafTE4ILLB4OJF`
+Snapshot ID: `aYvGgAAAAAAmec6hZUt9Je1354E27ANG`

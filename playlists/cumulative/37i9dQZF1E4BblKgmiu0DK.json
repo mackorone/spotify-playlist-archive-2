@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Neon Decay",
+        "url": "https://open.spotify.com/album/5BmTEHfgJm8S1mqWHvunkR"
+      },
+      "artists": [
+        {
+          "name": "Alia Syntax",
+          "url": "https://open.spotify.com/artist/6BFnkpB2JnCaR0o4pYn84A"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79879,
+      "name": "Asphalt Heart",
+      "url": "https://open.spotify.com/track/7onWhvLus9aSDVMV8GeIpb"
+    },
+    {
+      "album": {
         "name": "Australia",
         "url": "https://open.spotify.com/album/0hzxJTVH6hAfmvON2LBjrQ"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 130290,
       "name": "Blazetrap Anthem",
       "url": "https://open.spotify.com/track/19WwfaQrv9Ofhce1PP3GRN"
@@ -574,7 +592,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 209839,
       "name": "Born to Howl (Forced to Work)",
       "url": "https://open.spotify.com/track/6l51Ge3qMuz16GEZStVDYq"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 257533,
       "name": "Candide",
       "url": "https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh"
@@ -826,7 +844,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 102719,
       "name": "Concrete Fever",
       "url": "https://open.spotify.com/track/2K9VqmS9kCh7IIfMaRjaBo"
@@ -862,7 +880,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 192896,
       "name": "Crazy Is Love",
       "url": "https://open.spotify.com/track/3ye3EwTlQixbu2SyT8z4Ej"
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 176229,
       "name": "DON'T TELL BOMBSHELL",
       "url": "https://open.spotify.com/track/758jBrA6BmGdCv0jFlTRZw"
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 171279,
       "name": "Full of Hate",
       "url": "https://open.spotify.com/track/784dUX0QsFOPg9gNI1U3E2"
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 215481,
       "name": "Gods",
       "url": "https://open.spotify.com/track/1Ossv2yYNukNUIYOltDGZB"
@@ -2062,7 +2080,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 229484,
       "name": "How Much More",
       "url": "https://open.spotify.com/track/3qonuZK4AphPDd6lCcHFog"
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 181211,
       "name": "Hysteria",
       "url": "https://open.spotify.com/track/5PV10jClkV9Z2sds0pR3PX"
@@ -2260,7 +2278,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 102319,
       "name": "I Just Wanna Fuck",
       "url": "https://open.spotify.com/track/4oU0Yvy5C13aRzJZr9hvRn"
@@ -2466,7 +2484,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 213640,
       "name": "It's Not You",
       "url": "https://open.spotify.com/track/6RjSUGBSoURetoxEdJ5JPE"
@@ -2484,7 +2502,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 213480,
       "name": "It's Not You - SC Radio Mix",
       "url": "https://open.spotify.com/track/1gswIHZ2LUd4YYTo2Rw5CV"
@@ -2556,7 +2574,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 186159,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/1y8k2DMk5IX9WoIQ69Snoa"
@@ -2574,7 +2592,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 153653,
       "name": "Killer Life",
       "url": "https://open.spotify.com/track/6mWZ1gqO4e2BMBnPUUREOJ"
@@ -3136,7 +3154,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -3532,7 +3550,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 125447,
       "name": "Paper Hearts",
       "url": "https://open.spotify.com/track/61YKvyGlDZ88m3HItDDolZ"
@@ -3910,7 +3928,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 170559,
       "name": "raise the fire",
       "url": "https://open.spotify.com/track/3IfwL9eaCoBukcCzf5nz26"
@@ -4018,7 +4036,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 70290,
       "name": "Savage Flex Riot",
       "url": "https://open.spotify.com/track/3xBH0Wkv5uNBiJrA9bbHCq"
@@ -4036,7 +4054,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 261405,
       "name": "Shadow Of The Flag",
       "url": "https://open.spotify.com/track/4wsgWgWG3z1UP3DESV5o5k"
@@ -4126,7 +4144,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 193899,
       "name": "So What",
       "url": "https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE"
@@ -4180,7 +4198,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 130519,
       "name": "Static Tongue",
       "url": "https://open.spotify.com/track/3r5IFbPHHkeTnMmHSBeJ90"
@@ -4270,7 +4288,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 188628,
       "name": "Strange Affections",
       "url": "https://open.spotify.com/track/5a3Nba16ivRDsA6GrgFNjX"
@@ -4454,7 +4472,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 166136,
       "name": "The Other Side",
       "url": "https://open.spotify.com/track/6bz4qMWZrodFwDkcLUu0i9"
@@ -4566,7 +4584,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 169799,
       "name": "Throw it on The Pyre",
       "url": "https://open.spotify.com/track/6zDOTt4G46GR5tsKpo72uA"
@@ -4656,7 +4674,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 159433,
       "name": "Turborage Flow",
       "url": "https://open.spotify.com/track/1EwdEzlPkrK7P8TQccZWzh"
@@ -4692,7 +4710,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 178329,
       "name": "Unchained Conformity",
       "url": "https://open.spotify.com/track/6tj40BH4xI2AtZXjChNlqY"
@@ -4854,7 +4872,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 194999,
       "name": "Whack My Bum, Daddy",
       "url": "https://open.spotify.com/track/6nfBxcngs6kplTtMvn7093"
@@ -4890,7 +4908,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 181913,
       "name": "What Will Santa Bring For You?",
       "url": "https://open.spotify.com/track/7jlM3SxpNeBr5IuCfSPbZD"

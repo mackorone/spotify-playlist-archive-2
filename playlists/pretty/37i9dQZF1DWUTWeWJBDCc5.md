@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 2월의 노래를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,238 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,273 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 | 49 | [2SIDED](https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [2SIDED](https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL) | 2:57 |
 | 50 | [Who Knows](https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Son Of Spergy](https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql) | 3:46 |
 
-Snapshot ID: `AAAAAA1GFoD46oqpA+VC3md3bDpR0I5m`
+Snapshot ID: `AAAAAGNmLEW2rDkttgQv/EplmZbj9DeL`

@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 541614,
+  "num_followers": 541724,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAABCTwpuvin6lBiRcMu8fg0v",
+  "snapshot_id": "aYvGgAAAAACou1FrY7aKh/fN5+CP/0Ds",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 226066,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
+      "duration_ms": 451160,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 451160,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F"
+      "duration_ms": 226066,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 
 > This is KISS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,286 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,308 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00jzcA.md) - [plain]
 | 49 | [Firehouse \- Remastered 1997](https://open.spotify.com/track/2hzyGod8yvzZsDkh6M5x2T) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Kiss \(Remastered 1997\)](https://open.spotify.com/album/0NjpmoajQlllfKH9FaNliD) | 3:17 |
 | 50 | [Turn On The Night](https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Crazy Nights](https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN) | 3:18 |
 
-Snapshot ID: `aYp1AAAAAAB8+gy0AZmp9vgUFEpuH/0S`
+Snapshot ID: `aYvGgAAAAABnQ+zinvjsnD7RQhJMM7xA`

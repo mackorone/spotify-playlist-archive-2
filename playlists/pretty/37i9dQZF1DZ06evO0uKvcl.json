@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 31007,
+  "num_followers": 31011,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADzVRbrRQAMmyixqBiqFdHl",
+  "snapshot_id": "aYvGgAAAAAAXy4y5DKXr0jmVwrvu7Vin",
   "tracks": [
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 154800,
-      "name": "Can't Stay Here",
-      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
+      "duration_ms": 293066,
+      "name": "You Turn Slick On Me",
+      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 293066,
-      "name": "You Turn Slick On Me",
-      "url": "https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik"
+      "duration_ms": 154800,
+      "name": "Can't Stay Here",
+      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
     },
     {
       "added_at": null,

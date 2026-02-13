@@ -1,13 +1,65 @@
 {
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Elephant Kind",
-  "num_followers": 34283,
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Alahad",
+  "num_followers": 34286,
   "original_name": "Skena Gres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPcYUTROCOWV/AmyAr3j0n/wSpDc",
+  "snapshot_id": "AAAAANUfYNNDdkABSEYzqhTWyQd0oTUr",
   "tracks": [
+    {
+      "added_at": "2026-02-12 17:18:45",
+      "album": {
+        "name": "Jalan Nan Buntu",
+        "url": "https://open.spotify.com/album/7aWbz7dmnstNyNw0z4GxCr"
+      },
+      "artists": [
+        {
+          "name": "Alahad",
+          "url": "https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "Jalan Nan Buntu",
+      "url": "https://open.spotify.com/track/0D2nnlk9PKm6uXTJY5EF7K"
+    },
+    {
+      "added_at": "2026-02-12 17:18:45",
+      "album": {
+        "name": "Di Balik Senyap",
+        "url": "https://open.spotify.com/album/1Iu5uc5rQV4W7nHBEe2eNF"
+      },
+      "artists": [
+        {
+          "name": "Themilo",
+          "url": "https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS"
+        },
+        {
+          "name": "Leonardo Ringo",
+          "url": "https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL"
+        }
+      ],
+      "duration_ms": 346024,
+      "name": "Di Balik Senyap",
+      "url": "https://open.spotify.com/track/2fyfrAc8mncLRrHUgYlCpW"
+    },
+    {
+      "added_at": "2026-02-12 23:39:11",
+      "album": {
+        "name": "Sembunyi",
+        "url": "https://open.spotify.com/album/4z2p6BK8w2VF6SKZIWg5Tx"
+      },
+      "artists": [
+        {
+          "name": "Pertunjukan",
+          "url": "https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4"
+        }
+      ],
+      "duration_ms": 292500,
+      "name": "Sembunyi",
+      "url": "https://open.spotify.com/track/2UhSDafBQvRgdUbkE0LFwe"
+    },
     {
       "added_at": "2026-02-05 23:19:27",
       "album": {
@@ -531,22 +583,6 @@
     {
       "added_at": "2026-01-30 03:11:26",
       "album": {
-        "name": "birthday/bad day",
-        "url": "https://open.spotify.com/album/7fh7hOjSpnFWl11NH50GUu"
-      },
-      "artists": [
-        {
-          "name": "The Backdoor Hours",
-          "url": "https://open.spotify.com/artist/3u5XGIc6oD5ZdoyidlX39q"
-        }
-      ],
-      "duration_ms": 169166,
-      "name": "birthday/bad day",
-      "url": "https://open.spotify.com/track/0itpp9VHB2NVa2Mv0Cr8UB"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
         "name": "Observasi Transisi",
         "url": "https://open.spotify.com/album/3Unye4dZgHfEcLN3foo8X0"
       },
@@ -611,22 +647,6 @@
     {
       "added_at": "2026-01-30 03:11:26",
       "album": {
-        "name": "Lapor Mas Wapres",
-        "url": "https://open.spotify.com/album/6eZZR65XIidru3G1sFZsGi"
-      },
-      "artists": [
-        {
-          "name": "Aldy Amis",
-          "url": "https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V"
-        }
-      ],
-      "duration_ms": 215735,
-      "name": "Lapor Mas Wapres",
-      "url": "https://open.spotify.com/track/1ottATig7wFOwVe0HOE2N7"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
         "name": "yang tumbuh - live",
         "url": "https://open.spotify.com/album/0BjMX0earROGLT3f0kebDe"
       },
@@ -679,42 +699,6 @@
     {
       "added_at": "2026-01-30 03:11:26",
       "album": {
-        "name": "Melayang",
-        "url": "https://open.spotify.com/album/6WhK0cJpAuUm867voRawki"
-      },
-      "artists": [
-        {
-          "name": "Tarasinta",
-          "url": "https://open.spotify.com/artist/4Cz3KvYnvRJhCwloD3t1TL"
-        }
-      ],
-      "duration_ms": 302142,
-      "name": "Melayang",
-      "url": "https://open.spotify.com/track/6NDRdNur75SmvumwhjxwJ0"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Pengantar Tidur",
-        "url": "https://open.spotify.com/album/5K9ZtZKdMV4jvRZTo9gDZo"
-      },
-      "artists": [
-        {
-          "name": "Alahad",
-          "url": "https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt"
-        },
-        {
-          "name": "Shinjoko",
-          "url": "https://open.spotify.com/artist/0bWXfQkYnT9xcJ6C7JQK0i"
-        }
-      ],
-      "duration_ms": 216548,
-      "name": "Pengantar Tidur",
-      "url": "https://open.spotify.com/track/2Z9ffJHlZQ3hYZRp6205TZ"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
         "name": "Daur",
         "url": "https://open.spotify.com/album/5Us1qTfyMshuyQq0nEuKJ1"
       },
@@ -731,22 +715,6 @@
       "duration_ms": 309221,
       "name": "Kembali Pulang",
       "url": "https://open.spotify.com/track/7DlsgPtUE0b1EMKfynoQ2Y"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Gelora Asa",
-        "url": "https://open.spotify.com/album/3afU8y2wEbUKFQDYeYVI0p"
-      },
-      "artists": [
-        {
-          "name": "Gerap Gurita",
-          "url": "https://open.spotify.com/artist/6WQC8XtUYxHrCSZlHzT2tz"
-        }
-      ],
-      "duration_ms": 169685,
-      "name": "Rindu Lintas Ruang dan Waktu",
-      "url": "https://open.spotify.com/track/4ooJqu9HGsltS46D2R1dvn"
     },
     {
       "added_at": "2026-01-30 03:11:26",
@@ -779,22 +747,6 @@
       "duration_ms": 137181,
       "name": "MENUJU 25",
       "url": "https://open.spotify.com/track/11dSMueUv8UwTKSlv5CDIJ"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "What I Feel",
-        "url": "https://open.spotify.com/album/5at426bQhyBfRE6SoOf3X8"
-      },
-      "artists": [
-        {
-          "name": "The Couch Club",
-          "url": "https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh"
-        }
-      ],
-      "duration_ms": 266926,
-      "name": "What I Feel",
-      "url": "https://open.spotify.com/track/1PGNxyuK7fScstRsOiwkyc"
     },
     {
       "added_at": "2026-01-30 03:11:26",
@@ -835,70 +787,6 @@
     {
       "added_at": "2026-01-30 03:11:26",
       "album": {
-        "name": "Best",
-        "url": "https://open.spotify.com/album/2c3ThUXQqr0g60q53w7Vod"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj"
-        }
-      ],
-      "duration_ms": 223103,
-      "name": "Best",
-      "url": "https://open.spotify.com/track/2M7OFg3jM19RdwxklwGTJX"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Regret",
-        "url": "https://open.spotify.com/album/7Hroty9MCvq3NvzhfiOnsU"
-      },
-      "artists": [
-        {
-          "name": "Comatra",
-          "url": "https://open.spotify.com/artist/0wQG0wMIyif5vczfspwiE6"
-        }
-      ],
-      "duration_ms": 263879,
-      "name": "Regret",
-      "url": "https://open.spotify.com/track/4agohq4gXxIT5ZuJYWgq9y"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Dear Diary",
-        "url": "https://open.spotify.com/album/1ekuciDr4CiXnVOxBpVG5f"
-      },
-      "artists": [
-        {
-          "name": "Cassette Tape",
-          "url": "https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2"
-        }
-      ],
-      "duration_ms": 163862,
-      "name": "Dear Diary",
-      "url": "https://open.spotify.com/track/1Fi14RVbPnkAk2CSFgHskR"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/2WF2HCZZ6frFnyPrRGRL2P"
-      },
-      "artists": [
-        {
-          "name": "Atlesta",
-          "url": "https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/2J1l4yVdYwMke3ydYgn2Mz"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
         "name": "Mencari (2009 Mix)",
         "url": "https://open.spotify.com/album/5Hkt5Yopx1bVPbXiS4Q1pK"
       },
@@ -911,38 +799,6 @@
       "duration_ms": 211500,
       "name": "Mencari - 2009 Mix",
       "url": "https://open.spotify.com/track/4OCiNolqVzkMY3lsuRsmvF"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Cerah Merekah",
-        "url": "https://open.spotify.com/album/3zXo3s6p8VaMVXG85IyiiI"
-      },
-      "artists": [
-        {
-          "name": "T. Rucira",
-          "url": "https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC"
-        }
-      ],
-      "duration_ms": 264600,
-      "name": "Cerah Merekah",
-      "url": "https://open.spotify.com/track/4TW70WgLLPdpkmPdvNVJGx"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Melati",
-        "url": "https://open.spotify.com/album/1EIiz9IOjNshQZ3HAz2ARN"
-      },
-      "artists": [
-        {
-          "name": "Frasa",
-          "url": "https://open.spotify.com/artist/7yZ9jH9hNvBrVhe7ZANmGh"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Melati",
-      "url": "https://open.spotify.com/track/62l2nQqggtXIiljDHLaeEb"
     },
     {
       "added_at": "2026-01-30 03:11:26",
@@ -963,42 +819,6 @@
     {
       "added_at": "2026-01-30 03:11:26",
       "album": {
-        "name": "Behind Closed Doors",
-        "url": "https://open.spotify.com/album/7bkkv7vSkSYtgfQOb8nF0X"
-      },
-      "artists": [
-        {
-          "name": "Sunlotus",
-          "url": "https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn"
-        },
-        {
-          "name": "Tesla Manaf",
-          "url": "https://open.spotify.com/artist/6LkomW0B7xs6zolDBJRUFt"
-        }
-      ],
-      "duration_ms": 269275,
-      "name": "Glacial",
-      "url": "https://open.spotify.com/track/4tidPc7OulW5mIUc17zQ5q"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "When We Left Our Sparks Back in Yesterday",
-        "url": "https://open.spotify.com/album/38IIb2Izn96rLrEn7Es5H1"
-      },
-      "artists": [
-        {
-          "name": "vanilla party",
-          "url": "https://open.spotify.com/artist/1470A0L5LmvZg4AHnS3xrc"
-        }
-      ],
-      "duration_ms": 248253,
-      "name": "When We Left Our Sparks Back in Yesterday",
-      "url": "https://open.spotify.com/track/3EUXMfnCw4mxf460xsVhVI"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
         "name": "87",
         "url": "https://open.spotify.com/album/6d4BlZZo5vAb6A6wmTFXFS"
       },
@@ -1015,58 +835,6 @@
     {
       "added_at": "2026-01-30 03:11:26",
       "album": {
-        "name": "Belum Boleh Pulang",
-        "url": "https://open.spotify.com/album/7DoQfDYmtTcYGRggIrfCHT"
-      },
-      "artists": [
-        {
-          "name": "Boy Warongan & The Palmeiros",
-          "url": "https://open.spotify.com/artist/4xvwA3TjOcTtzsqgBaZdb2"
-        },
-        {
-          "name": "Gabriella Fernaldi",
-          "url": "https://open.spotify.com/artist/5zGnoscN1lVq4vWNExbDZO"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Belum Boleh Pulang",
-      "url": "https://open.spotify.com/track/3lBOSflCf0zyZK3NHZ3dfk"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Please",
-        "url": "https://open.spotify.com/album/3mMXGsJE9strDcTWg6wEj9"
-      },
-      "artists": [
-        {
-          "name": "The Finch",
-          "url": "https://open.spotify.com/artist/4d3ew1SUhMVBc2niYYh1y9"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/1mvDVmFHqxdyFTkRUExzG4"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Tak Ada Jawabnya",
-        "url": "https://open.spotify.com/album/2QaOgwKaakcCg0R64dVrNm"
-      },
-      "artists": [
-        {
-          "name": "aleshanima",
-          "url": "https://open.spotify.com/artist/3WE4FsdB5OdFN5UDBbe1bL"
-        }
-      ],
-      "duration_ms": 306281,
-      "name": "Tak Ada Jawabnya",
-      "url": "https://open.spotify.com/track/694tyQSX19EqSKmzrkfJs9"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
         "name": "Tamasya di Angkasa",
         "url": "https://open.spotify.com/album/76HWh17AMLevhXUBvMO8Bf"
       },
@@ -1079,22 +847,6 @@
       "duration_ms": 261994,
       "name": "Tamasya di Angkasa",
       "url": "https://open.spotify.com/track/3ZExfEyY39Qpzt0fvsCUDn"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "forevermore",
-        "url": "https://open.spotify.com/album/7rbZZAHxa3yL17Gt6eXSjX"
-      },
-      "artists": [
-        {
-          "name": "Ricecooker",
-          "url": "https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q"
-        }
-      ],
-      "duration_ms": 228778,
-      "name": "forevermore",
-      "url": "https://open.spotify.com/track/5V5Ap2hQE1TziFozK3VNm6"
     },
     {
       "added_at": "2026-01-30 03:11:26",
@@ -1143,42 +895,6 @@
       "duration_ms": 246750,
       "name": "SEDASA",
       "url": "https://open.spotify.com/track/59lGPlYIugiYJeTv235PUa"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Diana?",
-        "url": "https://open.spotify.com/album/2jLwaEchPHYtgfGuVQmzhf"
-      },
-      "artists": [
-        {
-          "name": "FILM.",
-          "url": "https://open.spotify.com/artist/68nVbpdYAVfDDejsFw53k8"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "Diana?",
-      "url": "https://open.spotify.com/track/1lliFwwcOTf9M3to9qNpXP"
-    },
-    {
-      "added_at": "2026-01-30 03:11:26",
-      "album": {
-        "name": "Rumah Terakhir",
-        "url": "https://open.spotify.com/album/20cjU6B2kkUlLY0Rw7MCYo"
-      },
-      "artists": [
-        {
-          "name": "Aldy Amis",
-          "url": "https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V"
-        },
-        {
-          "name": "e\u0144au",
-          "url": "https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Rumah Terakhir",
-      "url": "https://open.spotify.com/track/2RYTOchHmp7oqhUva7wpvD"
     },
     {
       "added_at": "2026-01-30 03:11:26",

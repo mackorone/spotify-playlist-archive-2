@@ -10,7 +10,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 |---|---|---|---|---|
 | 1 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
 | 2 | [Love To Go](https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr), [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Love To Go](https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv) | 2:49 |
-| 3 | [Weekends](https://open.spotify.com/track/33PS3s3FyzBQp1bLx7mgKa) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Together](https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU) | 2:07 |
+| 3 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 |
 | 4 | [Go](https://open.spotify.com/track/4m3ljlctmzWajEZPgxXOBb) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Maroox](https://open.spotify.com/artist/5gMP6mQ9eKRREGd2ofMvfU) | [Go](https://open.spotify.com/album/3QrNqDVKugpNxGszGV4kHt) | 2:22 |
 | 5 | [Stay](https://open.spotify.com/track/6EiciPnoJR1o4D0vtaHqjl) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Remember Me](https://open.spotify.com/album/2VYn7cSOxVkl8MwEJr7UCF) | 2:52 |
 | 6 | [love and hate](https://open.spotify.com/track/1vDKQnddTOwYevfB0lbIXu) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [love and hate](https://open.spotify.com/album/22RD49QYSQoEAnpHOBmp6m) | 3:10 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 124 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 125 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AcJalgAAAADvDP8TEHknaRd97FAoMYTB`
+Snapshot ID: `AcJgNgAAAACflAvOvErp4YeRBErbyMOP`

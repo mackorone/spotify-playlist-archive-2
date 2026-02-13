@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 140587,
       "name": "1/1",
       "url": "https://open.spotify.com/track/16CgEHkJE7g4l6NDcnP3Yo"
@@ -22511,6 +22511,24 @@
     },
     {
       "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/3pmO2KLVxGshZCxKNX72fM"
+      },
+      "artists": [
+        {
+          "name": "SUBU",
+          "url": "https://open.spotify.com/artist/1hjbEeysdfRspSDPobSI8r"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158708,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/1j5QufvDatIDRPekZMGnC9"
+    },
+    {
+      "album": {
         "name": "Mala De Verdad (Tik Tak)",
         "url": "https://open.spotify.com/album/7K70x95rpKdWPWaVDxdRZF"
       },
@@ -29314,7 +29332,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 132371,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/03CL9rKPlc8OHevgg6zGCr"
@@ -43692,7 +43710,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"

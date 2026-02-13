@@ -2254,7 +2254,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 229253,
       "name": "\u4f60\u5df2\u7d93\u66ff\u6211\u6c7a\u5b9a\u4e86 (\u300a\u547d\u4e2d\u8a3b\u5b9a\u90a3\u982d\u9d5d\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ"
@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 310588,
       "name": "\u4f60\u8981\u5e78\u798f\u554a (\u300a\u98ce\u8fc7\u7559\u75d5\u300b\u5f71\u89c6\u5267\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/1mamLpkge19ydKzytZF8dj"
@@ -3506,6 +3506,24 @@
       "duration_ms": 232916,
       "name": "\u5225\u8aaa\u518d\u898b",
       "url": "https://open.spotify.com/track/1sm6Ex4fKOUsP1xVVaunN9"
+    },
+    {
+      "album": {
+        "name": "\u5225\u8aaa\u518d\u898b",
+        "url": "https://open.spotify.com/album/0mbf32Kb2naP1gDMiieqjc"
+      },
+      "artists": [
+        {
+          "name": "\u6668\u60a0 CHENYO",
+          "url": "https://open.spotify.com/artist/69HAncV59CvB16M51q77AI"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "\u5225\u8aaa\u518d\u898b",
+      "url": "https://open.spotify.com/track/1cGAAxaOFdBCxDtOeTkaCA"
     },
     {
       "album": {
@@ -9322,7 +9340,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 245822,
       "name": "\u66fe\u7d93\u5982\u4eca",
       "url": "https://open.spotify.com/track/2JJt6Htt2idNEPrypw46MZ"
@@ -11603,6 +11621,24 @@
     },
     {
       "album": {
+        "name": "\u7b49\u70df\u706b\u7167\u4eae\u6211 (\u300a\u6709\u4e00\u5929\u300b\u4e2d\u6587\u7248)",
+        "url": "https://open.spotify.com/album/28oR245lYPeGmP8rb2plpd"
+      },
+      "artists": [
+        {
+          "name": "Young",
+          "url": "https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215328,
+      "name": "\u7b49\u70df\u706b\u7167\u4eae\u6211 - \u300a\u6709\u4e00\u5929\u300b\u4e2d\u6587\u7248",
+      "url": "https://open.spotify.com/track/3Q3KPP4IDdcH9hlEtlrg5Y"
+    },
+    {
+      "album": {
         "name": "\u7b49\u8457\u7b49\u8457\u5c31\u8001\u4e86",
         "url": "https://open.spotify.com/album/6CwddOrOrobFUS7aCMQvjz"
       },
@@ -12552,7 +12588,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 253064,
       "name": "\u89aa\u8fd1\u7684\u964c\u751f\u4eba",
       "url": "https://open.spotify.com/track/5jLoCQxoE18WQfKQ3zRxS2"

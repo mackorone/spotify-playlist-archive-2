@@ -1,12 +1,12 @@
 {
   "description": "This is Car\u00edn Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 1117612,
+  "num_followers": 1117825,
   "original_name": "This Is Car\u00edn Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADAXTaNxOePGf8GY8RlamRO",
+  "snapshot_id": "aYvGgAAAAADgA3SpdtxfwlxToafYgh46",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/0DyrDEUuaMhUJ4ebJoAm4H"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 232458,
-      "name": "A Medio Vivir",
-      "url": "https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noches De Cantina",
         "url": "https://open.spotify.com/album/7s4iqJ8ygSoGZJuKm21v1g"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 233306,
       "name": "Vivir Sin Aire",
       "url": "https://open.spotify.com/track/5cPfJH1aUu9kIZyvZS7Ps7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/0DyrDEUuaMhUJ4ebJoAm4H"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 232458,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/3gJzqwjF3Yjl4OAZJVG0yx"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palabra De To's (Seca)",
-        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 189512,
-      "name": "Si T\u00fa Me Vieras",
-      "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Est\u00e1 Doliendo",
         "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 202941,
       "name": "Me Est\u00e1 Doliendo",
       "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palabra De To's (Seca)",
+        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 189512,
+      "name": "Si T\u00fa Me Vieras",
+      "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
     },
     {
       "added_at": null,

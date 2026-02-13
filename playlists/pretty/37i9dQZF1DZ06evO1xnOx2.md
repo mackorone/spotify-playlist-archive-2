@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 
 > This is Hozier\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,720 likes - 45 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,742 likes - 45 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 | 44 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 |
 | 45 | [Fare Well](https://open.spotify.com/track/6Jj9X88wug8sfLXjkxdqtb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:08 |
 
-Snapshot ID: `aYp1AAAAAABHeGxc/6D8Jz3RumH/jZ6+`
+Snapshot ID: `aYvGgAAAAAAWlFk6BOKpWpbpNn81iyso`

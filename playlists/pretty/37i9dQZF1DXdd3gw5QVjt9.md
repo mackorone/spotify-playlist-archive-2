@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,090,225 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,090,129 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 35 | [Howl](https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Howl](https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj) | 3:03 |
 | 36 | [Morning Is Made](https://open.spotify.com/track/5njv7WRM11r6Xlul5wAy2T) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Morning Is Made](https://open.spotify.com/album/6pVhP4yZaSMv6tmy9MY7ti) | 2:55 |
 | 37 | [Boys](https://open.spotify.com/track/7GoxuKPMDqKRa1QEIIPXHR) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 3:55 |
-| 38 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 |
-| 39 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
+| 38 | [Optimism](https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF) | [Jana Horn](https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1) | [Optimism](https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd) | 1:59 |
+| 39 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 |
 | 40 | [Oh Ohio](https://open.spotify.com/track/7C6J0ZRMJnkpU3T4XPBUOl) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Oh Ohio](https://open.spotify.com/album/7hXB5KdtSNNwns8lMyjkY5) | 2:58 |
 | 41 | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I) | 3:03 |
 | 42 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 55 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
 | 56 | [New Wall](https://open.spotify.com/track/5oF2zpG0BoSdqVkN7bwyWs) | [Tori Forsyth](https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w) | [New Wall](https://open.spotify.com/album/43BULtlzGsqok8PoRPypm2) | 2:38 |
 | 57 | [Pocket Full of Rain](https://open.spotify.com/track/7bUbLYm0GJoTF7ct92WnXm) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu) | 3:50 |
-| 58 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 |
-| 59 | [Asylum](https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Asylum](https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3) | 3:51 |
-| 60 | [baby, get your ticket](https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [baby, get your ticket](https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs) | 2:35 |
+| 58 | [Asylum](https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Asylum](https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3) | 3:51 |
+| 59 | [baby, get your ticket](https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [baby, get your ticket](https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs) | 2:35 |
+| 60 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 |
 | 61 | [So Are We](https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Matinée](https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl) | 4:12 |
 | 62 | [Planet With Water](https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Nervous At Night](https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg) | 3:07 |
 | 63 | [Jealous Sun](https://open.spotify.com/track/70wMwfp8wAqaxip65R8Hkf) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:38 |

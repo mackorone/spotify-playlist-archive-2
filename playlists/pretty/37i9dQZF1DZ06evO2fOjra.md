@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 
 > This is Korn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,122 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,191 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 25 | [Alone I Break](https://open.spotify.com/track/2f1BjAVy4k8B3pB4qBntHj) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:16 |
 | 26 | [Rotting In Vain](https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:33 |
 | 27 | [Clown](https://open.spotify.com/track/3TZuUaGjEtyAiUM9iM89ff) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 4:36 |
-| 28 | [Liar](https://open.spotify.com/track/6B1uhU0w4fk7nNeylg41Xq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On the Other Side](https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF) | 4:14 |
-| 29 | [Dead Bodies Everywhere](https://open.spotify.com/track/6vsyag9kEPckt19NClSf51) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:45 |
+| 28 | [Dead Bodies Everywhere](https://open.spotify.com/track/6vsyag9kEPckt19NClSf51) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:45 |
+| 29 | [Liar](https://open.spotify.com/track/6B1uhU0w4fk7nNeylg41Xq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On the Other Side](https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF) | 4:14 |
 | 30 | [Black Is the Soul](https://open.spotify.com/track/1wYXIhJXqlIAGS6sbzpTL6) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 4:01 |
 | 31 | [Beg for Me](https://open.spotify.com/track/6bwuLPr45wsvbTjB0PGI65) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:54 |
 | 32 | [Ball Tongue](https://open.spotify.com/track/5pbfZdAP7xUu354ZQBhTS2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 4:28 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 42 | [Let's Get This Party Started](https://open.spotify.com/track/4X1XkTFjhpsWOC94lMNNEc) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:41 |
 | 43 | [Wicked \(feat\. Chino Moreno\)](https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 4:00 |
 | 44 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
-| 45 | [Last Legal Drug](https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On The Other Side \(20th Anniversary Edition \- Remastered\)](https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5) | 5:14 |
-| 46 | [Start The Healing](https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:28 |
+| 45 | [Start The Healing](https://open.spotify.com/track/3DRSkg7t5Jpa86TPIFGxBr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:28 |
+| 46 | [Last Legal Drug](https://open.spotify.com/track/6E2yShoZxSJkuyesvukklB) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On The Other Side \(20th Anniversary Edition \- Remastered\)](https://open.spotify.com/album/2gPptj6LEfIBWEVkZP1mT5) | 5:14 |
 | 47 | [Chi](https://open.spotify.com/track/5cLttQXyVI07tUKCN8T4OD) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 3:55 |
 | 48 | [Everything I've Known](https://open.spotify.com/track/79nOgMNLKyoHulwhckWzzQ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 3:34 |
 | 49 | [Prey for Me](https://open.spotify.com/track/1XlGDlukA1wO9SG4gCcHjh) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift](https://open.spotify.com/album/3t7K6sSe7KlcwvlhiNbnRo) | 3:35 |
 | 50 | [Creep \- Live At MTV Studio, NYC, 2006](https://open.spotify.com/track/3Ieq1FuiSAiC65mmmL2zMw) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo) | 3:51 |
 
-Snapshot ID: `aYp1AAAAAACPlgsNhQlkEyFR44jT6tIi`
+Snapshot ID: `aYvGgAAAAAAPDBG9k4hmtelMjrOrBEtV`

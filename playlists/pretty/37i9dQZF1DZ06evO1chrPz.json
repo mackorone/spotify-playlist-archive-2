@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 207356,
+  "num_followers": 207372,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAABwZu1E2DXF2/zXHS5jk5Z8",
+  "snapshot_id": "aYvGgAAAAAAkyAY5V8R3vCfJaev4CMma",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "duration_ms": 347566,
+      "name": "Reign Above It All (Live)",
+      "url": "https://open.spotify.com/track/6tV85GbrePXSeMFenLmUDa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 297533,
       "name": "Peace",
       "url": "https://open.spotify.com/track/6Jk2ueMBIuTZU3aNKjUTGR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        }
-      ],
-      "duration_ms": 347566,
-      "name": "Reign Above It All (Live)",
-      "url": "https://open.spotify.com/track/6tV85GbrePXSeMFenLmUDa"
     },
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Touch of Heaven / Alabaster Heart (Live)",
-        "url": "https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        }
-      ],
-      "duration_ms": 630228,
-      "name": "Touch of Heaven / Alabaster Heart (Live)",
-      "url": "https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revival's In The Air (Live)",
         "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 514573,
       "name": "God of Revival (Live)",
       "url": "https://open.spotify.com/track/6gkCpCwYkE60dNJULveMfZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Touch of Heaven / Alabaster Heart (Live)",
+        "url": "https://open.spotify.com/album/1ugdTIc8PRDPPUBtv7ECzd"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "duration_ms": 630228,
+      "name": "Touch of Heaven / Alabaster Heart (Live)",
+      "url": "https://open.spotify.com/track/5YlH7CeaNAoRKsaSzTXojM"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
       },
       "artists": [
         {
@@ -560,13 +560,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
         }
       ],
-      "duration_ms": 633462,
-      "name": "Too Good To Not Believe (Live)",
-      "url": "https://open.spotify.com/track/19HEhNwTDEciyWL62zvEf9"
+      "duration_ms": 280762,
+      "name": "Lion and the Lamb (Live)",
+      "url": "https://open.spotify.com/track/6UQdeF568sZx5is0l1gxHy"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have It All (Live)",
-        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
       "artists": [
         {
@@ -620,13 +620,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 280762,
-      "name": "Lion and the Lamb (Live)",
-      "url": "https://open.spotify.com/track/6UQdeF568sZx5is0l1gxHy"
+      "duration_ms": 633462,
+      "name": "Too Good To Not Believe (Live)",
+      "url": "https://open.spotify.com/track/19HEhNwTDEciyWL62zvEf9"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "For the One (Instrumental)",
+      "url": "https://open.spotify.com/track/023cGgIWTxiecyhr4hV6WW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Make Me Brave (Live)",
         "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 301090,
       "name": "Surrounded (Fight My Battles)",
       "url": "https://open.spotify.com/track/1bG33I9qQ5jOTLyNQvvSni"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "For the One (Instrumental)",
-      "url": "https://open.spotify.com/track/023cGgIWTxiecyhr4hV6WW"
     },
     {
       "added_at": null,
@@ -999,6 +999,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Promises Never Fail (Live)",
+      "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 389982,
       "name": "Send Me (Live)",
       "url": "https://open.spotify.com/track/5f9NBSHUJ85cpV1tfDDJM9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Victory (Live)",
-        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Promises Never Fail (Live)",
-      "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
     }
   ],
   "unique_name": "This Is Bethel Music",

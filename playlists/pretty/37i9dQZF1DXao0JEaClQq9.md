@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > Modern heavenly sounds\. Cover: Rosalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,626,703 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,626,577 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 45 | [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 |
 | 46 | [Letter To An Old Poet](https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:07 |
 | 47 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
-| 48 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
-| 49 | [Clearblue](https://open.spotify.com/track/5IOucMoMeoBw64mEQ68MjE) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 1:57 |
+| 48 | [Clearblue](https://open.spotify.com/track/5IOucMoMeoBw64mEQ68MjE) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 1:57 |
+| 49 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
 | 50 | [6 Underground](https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Becoming X](https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s) | 3:48 |
 | 51 | [The Path Less Travelled](https://open.spotify.com/track/18cm1ZEAPohP5fWo0o0RAe) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [The Path Less Travelled](https://open.spotify.com/album/3iqw67w0xjeBM1zeQPXbcq) | 3:44 |
 | 52 | [Movies](https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:53 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 71 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 |
 | 72 | [Sunday](https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Surface Tension](https://open.spotify.com/album/632eFniptp1u6saHBEN06y) | 4:01 |
 | 73 | [Give Up The Ghost](https://open.spotify.com/track/05NZMYuLR71Z3qrZOUiUm2) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The King Of Limbs](https://open.spotify.com/album/3P17levwUPzmFfLYdAK3A7) | 4:50 |
-| 74 | [Muse](https://open.spotify.com/track/1AUsxFlpISJH7EJ8uNksye) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I'm camera .](https://open.spotify.com/album/4dZSsJjwlpKl8PY77rSS16) | 4:46 |
-| 75 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 |
+| 74 | [Guilty Conscience \- Tame Impala Remix](https://open.spotify.com/track/5i5fCpsnqDJ9AfeObgd0gW) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Guilty Conscience \(Tame Impala Remix\)](https://open.spotify.com/album/0YklB1LaVFTWaEub2I3tiW) | 3:34 |
+| 75 | [Muse](https://open.spotify.com/track/1AUsxFlpISJH7EJ8uNksye) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I'm camera .](https://open.spotify.com/album/4dZSsJjwlpKl8PY77rSS16) | 4:46 |
 
 Snapshot ID: `AAAAADVCvtfVoLFDDiEUNr5Zn4KEl7L/`

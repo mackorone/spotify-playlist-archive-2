@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,303 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,364 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 24 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 |
 | 25 | [Who's That Girl](https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Who's That Girl Soundtrack](https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ) | 3:59 |
 | 26 | [Secret](https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 5:04 |
-| 27 | [LA BAMBOLA \(FOR DOLCE & GABBANA \- the one\)](https://open.spotify.com/track/3QsCqPFpctYwsNTAMp15P5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [LA BAMBOLA \(FOR DOLCE & GABBANA \- the one\)](https://open.spotify.com/album/37EsuQ9TUWNuxc0lLGh5dM) | 2:51 |
-| 28 | [Me Against the Music \(feat\. Madonna\) \- LP Version / Video Mix](https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 |
+| 27 | [Me Against the Music \(feat\. Madonna\) \- LP Version / Video Mix](https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 |
+| 28 | [LA BAMBOLA \(FOR DOLCE & GABBANA \- the one\)](https://open.spotify.com/track/3QsCqPFpctYwsNTAMp15P5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [LA BAMBOLA \(FOR DOLCE & GABBANA \- the one\)](https://open.spotify.com/album/37EsuQ9TUWNuxc0lLGh5dM) | 2:51 |
 | 29 | [Borderline](https://open.spotify.com/track/4FMNpPI7mkhdeFCCk6fZiE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:58 |
 | 30 | [Give It 2 Me](https://open.spotify.com/track/59qPP8coY8EWIQ9nQDThui) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 4:47 |
 | 31 | [Like a Prayer \- Battle Royale Mix from “Deadpool & Wolverine”](https://open.spotify.com/track/1xSDXrcZ16nKUZGsOckUTW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine: Madonna's "Like a Prayer" EP](https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0) | 2:48 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 41 | [This Used to Be My Playground](https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 5:10 |
 | 42 | [Open Your Heart](https://open.spotify.com/track/6poribUG9PSY1eudyCjJTS) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:13 |
 | 43 | [Levitating \(feat\. Madonna and Missy Elliott\) \[The Blessed Madonna Remix\]](https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Levitating \(feat\. Madonna and Missy Elliott\) \[The Blessed Madonna Remix\]](https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic) | 4:10 |
-| 44 | [Angel](https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:56 |
-| 45 | [Lucky Star](https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 5:37 |
+| 44 | [Lucky Star](https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 5:37 |
+| 45 | [Angel](https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 3:56 |
 | 46 | [Express Yourself](https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:59 |
-| 47 | [Now I'm Following You \(Part I\)](https://open.spotify.com/track/0mPPeHgx3Kxj85Olq1hNU7) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 1:34 |
-| 48 | [Don't Cry for Me Argentina](https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 5:35 |
-| 49 | [You'll See](https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:38 |
+| 47 | [Don't Cry for Me Argentina](https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 5:35 |
+| 48 | [You'll See](https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:38 |
+| 49 | [Now I'm Following You \(Part I\)](https://open.spotify.com/track/0mPPeHgx3Kxj85Olq1hNU7) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 1:34 |
 | 50 | [Cherish](https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:49 |
 
-Snapshot ID: `aYp1AAAAAAAcSs40aJNgn+7sVdSQGaOS`
+Snapshot ID: `aYvGgAAAAABChmWSoW9rB96vXI7dFUgu`

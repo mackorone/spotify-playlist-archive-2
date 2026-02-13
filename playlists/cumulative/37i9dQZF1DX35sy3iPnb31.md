@@ -2,7 +2,7 @@
 
 ### [Editors' picks: Best Canadian songs of January](https://open.spotify.com/playlist/37i9dQZF1DX35sy3iPnb31)
 
-> The best Canadian songs the month, handpicked by Spotify Canada editors\. Cover: Katie Tupper
+> The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Katie Tupper
 
 100 songs - 5 hr 28 min
 

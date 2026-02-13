@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:1KlD1JXtUV44n7tdzmiXit">Salomèe</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,581 likes - 59 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,582 likes - 59 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

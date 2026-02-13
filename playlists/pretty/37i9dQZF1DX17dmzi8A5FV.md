@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 
 > All the biggest hits from the biggest boybands!  Cover: One Direction
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,416 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,481 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 29 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 |
 | 30 | [Teeth](https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:24 |
 | 31 | [Can You Stand The Rain](https://open.spotify.com/track/1vbe9sh7U9vdMceAhitWr2) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 4:57 |
-| 32 | [One Love](https://open.spotify.com/track/2W5acFzXf5FrktecuD30Or) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [One Love](https://open.spotify.com/album/7hleBoZbfZyL2umi4JzxCL) | 3:27 |
+| 32 | [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:43 |
 | 33 | [All Night](https://open.spotify.com/track/0dXNQ8dckG4eYfEtq9zcva) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq) | [Night & Day \(Night Edition\)](https://open.spotify.com/album/69Pj3ce9XFZUi3XuQylLKf) | 3:17 |
 | 34 | [The Call](https://open.spotify.com/track/1mxTCArq9EhSg4QPGqhjhT) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:24 |
 | 35 | [I'll Make Love To You](https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:56 |
 | 36 | [Picture Of You](https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [A Different Beat](https://open.spotify.com/album/6v6BH1znvQFCn3GBsyqVBj) | 3:26 |
-| 37 | [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | 3:43 |
+| 37 | [One Love](https://open.spotify.com/track/2W5acFzXf5FrktecuD30Or) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [One Love](https://open.spotify.com/album/7hleBoZbfZyL2umi4JzxCL) | 3:27 |
 | 38 | [Peaches & Cream](https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 3:13 |
 | 39 | [I Do \(Cherish You\) \- Original Version](https://open.spotify.com/track/6XgwPf0cqjySCMsOmQq4t6) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [98 Degrees And Rising](https://open.spotify.com/album/16oW7he0sWe3dBxV2XaQx6) | 3:46 |
 | 40 | [Boyfriend](https://open.spotify.com/track/1rKBOL9kJfX1Y4C3QaOvRH) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [BTR](https://open.spotify.com/album/2RjFzASjHZG1lUbCKqUahx) | 3:21 |

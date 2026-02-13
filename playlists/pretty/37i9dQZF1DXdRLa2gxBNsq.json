@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Inkandescencia y Laura DSK.",
-  "num_followers": 114532,
+  "num_followers": 114538,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Rayo ke no cesa",
-        "url": "https://open.spotify.com/album/0NnbF8YiKNGAmde0I8yRpw"
-      },
-      "artists": [
-        {
-          "name": "No Konforme",
-          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
-        },
-        {
-          "name": "Boikot",
-          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
-        }
-      ],
-      "duration_ms": 227530,
-      "name": "Palestina",
-      "url": "https://open.spotify.com/track/1v1i0DriBu0BPeiRtJvbfL"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "Quiero que sepas",
         "url": "https://open.spotify.com/album/63eBCTHHIFZw0gyEapFaIz"
       },
@@ -915,18 +895,38 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "J\u00f3venes Promesas de la Delincuencia",
-        "url": "https://open.spotify.com/album/6IRgFasohZEQPq4O9KPRQz"
+        "name": "Rayo ke no cesa",
+        "url": "https://open.spotify.com/album/0NnbF8YiKNGAmde0I8yRpw"
       },
       "artists": [
         {
-          "name": "Rat-Zinger",
-          "url": "https://open.spotify.com/artist/1WVMR6t5Uqq5IBqQiFYKTR"
+          "name": "No Konforme",
+          "url": "https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub"
+        },
+        {
+          "name": "Boikot",
+          "url": "https://open.spotify.com/artist/0wppCmJl3glHZZScLcs4gn"
         }
       ],
-      "duration_ms": 171005,
-      "name": "J\u00f3venes Promesas de la Delincuencia",
-      "url": "https://open.spotify.com/track/5TJt3gSmt1X1h9HkxwNpHJ"
+      "duration_ms": 227530,
+      "name": "Palestina",
+      "url": "https://open.spotify.com/track/1v1i0DriBu0BPeiRtJvbfL"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Camino hacia la ruina",
+        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
+      },
+      "artists": [
+        {
+          "name": "Comando 9mm",
+          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
+        }
+      ],
+      "duration_ms": 285640,
+      "name": "Amor frenop\u00e1tico",
+      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Camino hacia la ruina",
-        "url": "https://open.spotify.com/album/7z6A7KRuF72XBB8VcvUbIh"
+        "name": "J\u00f3venes Promesas de la Delincuencia",
+        "url": "https://open.spotify.com/album/6IRgFasohZEQPq4O9KPRQz"
       },
       "artists": [
         {
-          "name": "Comando 9mm",
-          "url": "https://open.spotify.com/artist/4ysg7aP5WvMZge41OoKKHa"
+          "name": "Rat-Zinger",
+          "url": "https://open.spotify.com/artist/1WVMR6t5Uqq5IBqQiFYKTR"
         }
       ],
-      "duration_ms": 285640,
-      "name": "Amor frenop\u00e1tico",
-      "url": "https://open.spotify.com/track/6YjmFAhmoUJydfvpDj0PMT"
+      "duration_ms": 171005,
+      "name": "J\u00f3venes Promesas de la Delincuencia",
+      "url": "https://open.spotify.com/track/5TJt3gSmt1X1h9HkxwNpHJ"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
+        "name": "A Bocajarro + Sopla Sopla",
+        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
+      },
+      "artists": [
+        {
+          "name": "Tijuana in blue",
+          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
+        }
+      ],
+      "duration_ms": 289367,
+      "name": "Maki Navaja, El \u00daltimo Chorisso",
+      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
         "name": "Corona de espinas",
         "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 266698,
       "name": "Una y Mil Veces",
       "url": "https://open.spotify.com/track/38ynrtrPa6laWTufKuW7vK"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
-        "name": "A Bocajarro + Sopla Sopla",
-        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
-      },
-      "artists": [
-        {
-          "name": "Tijuana in blue",
-          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
-        }
-      ],
-      "duration_ms": 289367,
-      "name": "Maki Navaja, El \u00daltimo Chorisso",
-      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
     },
     {
       "added_at": "2026-02-09 12:00:06",

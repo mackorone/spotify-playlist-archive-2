@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,141 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,130 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 48 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 |
 | 49 | [Todo Cambió](https://open.spotify.com/track/0sYhfDMlg2G1NC0OclLoTx) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Todo Cambió](https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb) | 3:38 |
 | 50 | [Pelo Negro](https://open.spotify.com/track/63lE9CBiNmJIdgkH2vPpVm) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Pelo Negro](https://open.spotify.com/album/1aHrWZbOa31S3rBUA51muK) | 6:10 |
-| 51 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
-| 52 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 |
+| 51 | [inmortal](https://open.spotify.com/track/5fbWIu80QFDqcZV86kTnZj) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [inmortal](https://open.spotify.com/album/3VEKoNYDQgGUoQVADy6xuu) | 2:35 |
+| 52 | [Para Llevar](https://open.spotify.com/track/3AhT5jxJpA6hVDgSgkrr3l) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT), [Vakero](https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0) | [Para Llevar](https://open.spotify.com/album/4WElfalmHN3xVtVcMJJxNW) | 2:52 |
 | 53 | [Sexy](https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Quemar La Casa](https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE) | 4:03 |
 | 54 | [Quien Sabe](https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Soñar Contigo\. Una Colección de Sus Grandes Canciones](https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08) | 3:59 |
 | 55 | [Si estuvieras aquí](https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Si estuvieras aquí](https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1) | 5:02 |
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 66 | [Outra Vez](https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [The Music of Brazil / Elizeth Cardoso, Vol\. 1 / Recordings 1955 \- 1957](https://open.spotify.com/album/2jtHEWxRT5QVF2p872riFt) | 1:55 |
 | 67 | [Porro Maracatu](https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [LADAMA](https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6) | 3:46 |
 | 68 | [Desde Lejos](https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Desde Lejos](https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK) | 4:30 |
-| 69 | [Bachata Rosa](https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:06 |
-| 70 | [American Boy](https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [American Boy](https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW) | 3:45 |
+| 69 | [American Boy](https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [American Boy](https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW) | 3:45 |
+| 70 | [Bachata Rosa](https://open.spotify.com/track/3R0XsmkFDTG9ZnCn2HvXp5) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB) | [Legados Bachata](https://open.spotify.com/album/1U6LFXk4BPw14efwTQePr5) | 4:06 |
 | 71 | [Caminando por Quisqueya](https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Caminando por Quisqueya](https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4) | 6:00 |
 | 72 | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/track/10oji60Sz18msn5AgTQI58) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi) | 3:28 |
 | 73 | [Los Palos](https://open.spotify.com/track/52NTNT8dND7VzOF9jaHJyz) | [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [Los Palos](https://open.spotify.com/album/3fTYIIkdPaTguCnNvT7BkY) | 3:19 |
-| 74 | [Price of Life](https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 3:44 |
-| 75 | [Picadillo](https://open.spotify.com/track/3F69z89dC8NVDaWzcMwzAE) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Delicate & Jumpy](https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J) | 5:34 |
-| 76 | [Me Das](https://open.spotify.com/track/6zBkexycHADArkud3zGT6x) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Me Das](https://open.spotify.com/album/4y67AtdL0t0BUHJaVgIuIG) | 3:02 |
+| 74 | [Picadillo](https://open.spotify.com/track/3F69z89dC8NVDaWzcMwzAE) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [Delicate & Jumpy](https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J) | 5:34 |
+| 75 | [Me Das](https://open.spotify.com/track/6zBkexycHADArkud3zGT6x) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Me Das](https://open.spotify.com/album/4y67AtdL0t0BUHJaVgIuIG) | 3:02 |
+| 76 | [Price of Life](https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 3:44 |
 | 77 | [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 |
 | 78 | [Together](https://open.spotify.com/track/68EFEQMvYJ19iddZRZK0E8) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby), [Jamie Allensworth](https://open.spotify.com/artist/7CbRQq2vD9mZ39Vms6KOdn) | [Together](https://open.spotify.com/album/7hTHvqkEYoVfxDKbRMOfVo) | 3:43 |
 | 79 | [Happy ending](https://open.spotify.com/track/25zVytp42AZHoJ4PBiaXvo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Refresco, Vol.1: Cheo Goes Latin](https://open.spotify.com/album/4Siqpa4ZeRsU8lCuCkr1yf) | 3:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 
 > a dose of high\-energy alternative songs for your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,616 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,613 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 37 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 |
 | 38 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 4:31 |
 | 39 | [S!CK](https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 3:12 |
-| 40 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 |
-| 41 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
+| 40 | [Typhoons](https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:56 |
+| 41 | [Burning Down the House](https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Burning Down the House](https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek) | 3:38 |
 | 42 | [Portrait of a Blank Slate](https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Wake Up & It's Over](https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr) | 3:47 |
 | 43 | [My Body](https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:04 |
 | 44 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:43 |

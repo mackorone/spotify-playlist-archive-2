@@ -4,7 +4,7 @@
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-559 songs - 1 day 5 hr 20 min
+560 songs - 1 day 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Byemalandra](https://open.spotify.com/track/6yBewYV4hyNlDOCV4mialt) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Byemalandra](https://open.spotify.com/album/1CJIb7bzXt24h0EuezCxQf) | 2:45 | 2022-08-11 | 2023-04-22 |
 | [CABLES CRUZADOS](https://open.spotify.com/track/2gGSHUX54Bb9lkWoTkJQKs) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [CVRBON VRMOR](https://open.spotify.com/album/4ZOlDViNpY9CrAXTNZMffm) | 2:51 | 2024-10-21 | 2025-05-31 |
 | [Cachito](https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Cachito](https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf) | 3:08 | 2021-12-16 | 2023-05-09 |
-| [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 | 2024-09-06 |  |
+| [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 | 2024-09-06 | 2026-02-13 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-12-21 | 2025-07-12 |
 | [Calor](https://open.spotify.com/track/4YGFWYHhXfCmZ3zOC22AyT) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Calor](https://open.spotify.com/album/7gWwq96ivfK76zTC8howhG) | 2:34 | 2022-01-01 | 2022-10-08 |
 | [Canción Bonita](https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Canción Bonita](https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U) | 2:49 | 2021-12-16 | 2022-05-28 |
@@ -109,6 +109,7 @@
 | [Chimbo](https://open.spotify.com/track/2MRbBjUXWrouk36b55vipO) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Chimbo](https://open.spotify.com/album/5XRQrTcMUREddc69cWGtzn) | 3:02 | 2022-09-23 | 2023-01-26 |
 | [Chirriqui Chirri \- Remix](https://open.spotify.com/track/2cJPlgUlrvZFeg8mTpOaQe) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Chirriqui Chirri \(Remix\)](https://open.spotify.com/album/7MCcj4imD1eQD9fanm9v2M) | 2:45 | 2025-09-26 | 2025-11-19 |
 | [Churel](https://open.spotify.com/track/5pDCNbulDO4mr8mfWCw97D) | [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [Oscar el Ruso](https://open.spotify.com/artist/1aOK2Zm4Wsm4I4DuoQIXsZ), [Samuel G](https://open.spotify.com/artist/4wJrOCb0eBFfnD4bYqtYKI) | [Churel](https://open.spotify.com/album/6IwqXUkQ1JGEeNPggY4YrM) | 4:27 | 2024-09-06 | 2024-11-30 |
+| [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50) | 3:09 | 2026-02-12 |  |
 | [CINCO](https://open.spotify.com/track/4rogcVulmlEmSi08u3VWc8) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [5](https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw) | 3:27 | 2022-04-02 | 2022-04-16 |
 | [Cinderella](https://open.spotify.com/track/360cQNnbD332V4eO8GOHvA) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Cinderella](https://open.spotify.com/album/3cu712semvh7WetMZ3h7d1) | 2:36 | 2022-01-22 | 2022-09-16 |
 | [Como Tu Decías](https://open.spotify.com/track/2c6zZv6eIVs8wjFiFzJ913) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [El Playlist de Anoche](https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e) | 3:27 | 2021-12-16 | 2022-05-28 |

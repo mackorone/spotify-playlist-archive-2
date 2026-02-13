@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 Feb 23:11 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Feb 23:11 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 278416,
       "name": "Afraid Of The Dark",
       "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
@@ -5624,7 +5624,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 191053,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/2TekScsqJyCJ6TO9Y32X09"
@@ -19817,6 +19817,24 @@
     },
     {
       "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/36z5yhxUByU5TZwDFNf0Wf"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "CINEMA",
+      "url": "https://open.spotify.com/track/1AO9dgVC6GL4ILlh1RpBnC"
+    },
+    {
+      "album": {
         "name": "Cinnamon",
         "url": "https://open.spotify.com/album/7epoeWPFWTeHfuG8eR7HD3"
       },
@@ -20331,6 +20349,24 @@
     },
     {
       "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/543FTm0pzQpBQXNsT6xmmh"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213401,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/7ufzuyyhu3u2vf78deWa9g"
+    },
+    {
+      "album": {
         "name": "CLOUD CORE",
         "url": "https://open.spotify.com/album/6htcWlRCuSWxRnbSrMdnHr"
       },
@@ -20360,7 +20396,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 201771,
       "name": "cloud palace",
       "url": "https://open.spotify.com/track/1dsuEyZ0ZPgL7Z1HAaFSek"
@@ -21078,7 +21114,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 268453,
       "name": "COME CLOSER",
       "url": "https://open.spotify.com/track/1hcPxZEQ7ni2fJMqPrNrWf"
@@ -35919,6 +35955,36 @@
     },
     {
       "album": {
+        "name": "Flags",
+        "url": "https://open.spotify.com/album/4tocgMB81kYzmX1J79SiiH"
+      },
+      "artists": [
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        },
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306537,
+      "name": "Flags",
+      "url": "https://open.spotify.com/track/0GkUyGCLewjgand5EEfCOO"
+    },
+    {
+      "album": {
         "name": "flare",
         "url": "https://open.spotify.com/album/4D4E97npL7MBUiIhDn0G4O"
       },
@@ -48302,7 +48368,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
@@ -48534,6 +48600,24 @@
       "duration_ms": 191150,
       "name": "i guess u never really cared about me",
       "url": "https://open.spotify.com/track/2hyyp0mZc5QFY5YQeyv7oP"
+    },
+    {
+      "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
     },
     {
       "album": {
@@ -48896,6 +48980,24 @@
       "duration_ms": 171216,
       "name": "I Like Ur Look",
       "url": "https://open.spotify.com/track/51h21FmipeDJZXP1HDEiZv"
+    },
+    {
+      "album": {
+        "name": "I Like You A Lot",
+        "url": "https://open.spotify.com/album/3bCqum4mnqThYE8diO7AVk"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247773,
+      "name": "I Like You A Lot",
+      "url": "https://open.spotify.com/track/1te3mypyhXzEcyqNEX5fsj"
     },
     {
       "album": {
@@ -50286,6 +50388,24 @@
       "duration_ms": 174262,
       "name": "ICEBULLETTHEORY",
       "url": "https://open.spotify.com/track/6jmB5GYKYm644fEmqKAauB"
+    },
+    {
+      "album": {
+        "name": "ICEMAN FREESTYLE",
+        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "ICEMAN FREESTYLE",
+      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
     },
     {
       "album": {
@@ -58067,6 +58187,24 @@
     },
     {
       "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291513,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+    },
+    {
+      "album": {
         "name": "Let Me Grow and You'll See the Fruit",
         "url": "https://open.spotify.com/album/24Ux2vjaotkgNhZvpn29Kk"
       },
@@ -58522,7 +58660,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 197906,
       "name": "Liars Tale",
       "url": "https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0"
@@ -63674,6 +63812,28 @@
       "duration_ms": 268630,
       "name": "Mandingo",
       "url": "https://open.spotify.com/track/0JvDcQ2LAzuhV1HujQrAHR"
+    },
+    {
+      "album": {
+        "name": "mangetout (The Dare remix)",
+        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        },
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200192,
+      "name": "mangetout - The Dare remix",
+      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
     },
     {
       "album": {
@@ -73050,7 +73210,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 182857,
       "name": "OFFERINGS",
       "url": "https://open.spotify.com/track/19n32jI1QJiXMr3KXFRCfk"
@@ -77346,7 +77506,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 265090,
       "name": "Pieces Of You",
       "url": "https://open.spotify.com/track/2rh53tzRgeaOdyyOLhK2Ur"
@@ -78988,7 +79148,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 187483,
       "name": "POSSESSION",
       "url": "https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe"
@@ -86014,6 +86174,24 @@
       "duration_ms": 324529,
       "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
       "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
+    },
+    {
+      "album": {
+        "name": "Sauvignon Blanc",
+        "url": "https://open.spotify.com/album/5p10PqUVm787QcnqKmiVZF"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/5QAgAknbr8nCAyAubKsrfS"
     },
     {
       "album": {
@@ -94428,7 +94606,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 275831,
       "name": "Streets of Minneapolis",
       "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
@@ -114542,6 +114720,24 @@
       "duration_ms": 168106,
       "name": "You Ain't The Only One",
       "url": "https://open.spotify.com/track/2PYmLWYQKcyiDoduL1ewVO"
+    },
+    {
+      "album": {
+        "name": "you and forever",
+        "url": "https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234971,
+      "name": "you and forever",
+      "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,655 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,671 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 44 | [Not The End](https://open.spotify.com/track/4UxBbFETMwBIHhXtlAI0Po) | [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Not The End](https://open.spotify.com/album/1z9cu0bqNqoJ0YHZqzmMM8) | 2:41 |
 | 45 | [PEACE](https://open.spotify.com/track/4qHVQTNhEKyCty4Edqn33c) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/76MAve42IxCPmmr6FGkqfQ) | 4:19 |
 | 46 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 |
-| 47 | [Gold \- Live](https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:19 |
-| 48 | [Just Hold On](https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Just Hold On](https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u) | 2:47 |
-| 49 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 |
-| 50 | [Broken & Restored](https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Broken & Restored](https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu) | 4:47 |
+| 47 | [Just Hold On](https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Just Hold On](https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u) | 2:47 |
+| 48 | [Gold \- Live](https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:19 |
+| 49 | [Broken & Restored](https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Broken & Restored](https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu) | 4:47 |
+| 50 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 |
 | 51 | [Where You Are](https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR), [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Where You Are](https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ) | 2:27 |
 | 52 | [Praise Opens Prison Doors \- Live](https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Praise Opens Prison Doors \(Live\)](https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt) | 5:23 |
 | 53 | [I Believe](https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Introspection](https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR) | 2:58 |

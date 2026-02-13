@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 
 > This is Louis Armstrong\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,841 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,859 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Co11u.md) - [plain]
 | 49 | [Georgia On My Mind](https://open.spotify.com/track/1Vkab3Yn1NjKBMtXHgfimR) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Sy Oliver's Orchestra](https://open.spotify.com/artist/3gXg2za1fqp8wAPZr4jSeY) | [Oh Didn't He Ramble](https://open.spotify.com/album/2i7PmkVH34oYZFLvQepQre) | 3:22 |
 | 50 | [The Home Fire](https://open.spotify.com/track/0ctsFiWScfDEQqpH03tTrh) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:18 |
 
-Snapshot ID: `aYp1AAAAAABGEb5pEJbux7bV+jo7RWIE`
+Snapshot ID: `aYvGgAAAAAAYH3LBrz6AquHzv/rDjdEl`

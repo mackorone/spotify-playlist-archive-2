@@ -19044,7 +19044,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 267194,
       "name": "MONACO",
       "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
@@ -32686,6 +32686,24 @@
       "duration_ms": 230704,
       "name": "Yo No Soy Celoso",
       "url": "https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1"
+    },
+    {
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "album": {

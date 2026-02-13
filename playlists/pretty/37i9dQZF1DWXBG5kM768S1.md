@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 
 > Fantastiske viser fra noen av våre aller beste artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,583 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,584 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 13 | [Gressholmen](https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 4:13 |
 | 14 | [Tir n'a Noir](https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk), [Rita Eriksen](https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da) | [Godmorgen, søster](https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G) | 4:30 |
 | 15 | [Bestevenn](https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Bestevenn \(Bonus Version\)](https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy) | 4:04 |
-| 16 | [Ingen som du](https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Berre meg](https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN) | 3:46 |
-| 17 | [Kniven i hjertet](https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Forsvarets Stabsmusikkorps](https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U) | [Kniven i hjertet](https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP) | 3:02 |
+| 16 | [Kniven i hjertet](https://open.spotify.com/track/7hDJBn2vLNOgPg2X2IyHf6) | [Herborg Kråkevik](https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO), [Forsvarets Stabsmusikkorps](https://open.spotify.com/artist/4DSDUs4nuqsHmS4LisPi9U) | [Kniven i hjertet](https://open.spotify.com/album/60vE5wnbCvdlXwj0stElPP) | 3:02 |
+| 17 | [Ingen som du](https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Berre meg](https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN) | 3:46 |
 | 18 | [Kamilla Og Tyven](https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7) | [Morten Harket](https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP) | [Kamilla Og Tyven](https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC) | 3:34 |
-| 19 | [Trondheimsnatt \(feat\. Line Sofie Aleksandersen\)](https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz), [Line Sofie Aleksandersen](https://open.spotify.com/artist/139biVMfyquAUumShjaSQs) | [Linedans](https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU) | 3:50 |
-| 20 | [Ka e du redd for](https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm) | [Underlig Frihet](https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx) | 4:25 |
+| 19 | [Ka e du redd for](https://open.spotify.com/track/4QkGXxYBifaayHWGkQyLPp) | [Sigvart Dagsland](https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA), [Karoline Krüger](https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm) | [Underlig Frihet](https://open.spotify.com/album/78WsjmRDxs2VAEapfy6zxx) | 4:25 |
+| 20 | [Trondheimsnatt \(feat\. Line Sofie Aleksandersen\)](https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf) | [Åge Aleksandersen](https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz), [Line Sofie Aleksandersen](https://open.spotify.com/artist/139biVMfyquAUumShjaSQs) | [Linedans](https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU) | 3:50 |
 | 21 | [Tårnet](https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Gressholmen](https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9) | 3:51 |
 | 22 | [Spor i snø](https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Spor i snø](https://open.spotify.com/album/5ALVZSAv6BgrsAJNLvkfbV) | 3:50 |
 | 23 | [Har En Drøm](https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q) | [Jørn Hoel](https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC) | [Varme Ut Av Is](https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp) | 3:54 |

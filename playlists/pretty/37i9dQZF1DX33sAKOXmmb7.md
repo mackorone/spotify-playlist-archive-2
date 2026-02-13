@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 
 > Indie folk that defined the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,669 likes - 120 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,685 likes - 120 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 20 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
 | 21 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
 | 22 | [Sedona](https://open.spotify.com/track/2MQhTbX792AT6YyzwLz9dt) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Little Neon Limelight](https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh) | 3:59 |
-| 23 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 |
-| 24 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 |
+| 23 | [To Build A Home](https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Ma Fleur](https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO) | 6:10 |
+| 24 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 |
 | 25 | [You Worry Me](https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 3:34 |
 | 26 | [Kansas City](https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River \(Deluxe\)](https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9) | 4:04 |
 | 27 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
-| 28 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
-| 29 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
+| 28 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
+| 29 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
 | 30 | [Sisyphus](https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 4:07 |
 | 31 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
 | 32 | [Hey, Ma](https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW) | 3:36 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 92 | [Holy Roller](https://open.spotify.com/track/0WdfCa2a7iNxVDgsLnulyt) | [Thao](https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG), [Thao & The Get Down Stay Down](https://open.spotify.com/artist/2dn0CGCWvtrwZ66bOeLNb2) | [We the Common](https://open.spotify.com/album/5pwm1xcWT69NiRzZDwb1M1) | 2:36 |
 | 93 | [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 |
 | 94 | [The Bad In Each Other](https://open.spotify.com/track/5YlhFrPeFdcpfwND0sSKQR) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/3vxiBAlJUDqePZboDhd3I5) | 4:44 |
-| 95 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
-| 96 | [Advanced Falconry](https://open.spotify.com/track/6aA2LcC91SFaRgz0jPXZIa) | [Mutual Benefit](https://open.spotify.com/artist/0AUwa5xmiy57qdGlOksvea) | [Love's Crushing Diamond](https://open.spotify.com/album/63eYXtU9LBjEha4RIFeOsM) | 5:05 |
+| 95 | [Advanced Falconry](https://open.spotify.com/track/6aA2LcC91SFaRgz0jPXZIa) | [Mutual Benefit](https://open.spotify.com/artist/0AUwa5xmiy57qdGlOksvea) | [Love's Crushing Diamond](https://open.spotify.com/album/63eYXtU9LBjEha4RIFeOsM) | 5:05 |
+| 96 | [Leaf Off / The Cave](https://open.spotify.com/track/2XMiyGBbIOLEcCdGnHGoq5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Vestiges & Claws](https://open.spotify.com/album/3mDpDgTVy3Lo6fdqoTr215) | 4:53 |
 | 97 | [Lost](https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Two](https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ) | 3:56 |
 | 98 | [Juma Mountain](https://open.spotify.com/track/2i9lTmLLekACc4KBW06Flk) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [The Following Mountain](https://open.spotify.com/album/2fKcI76mLYlxj5XWchuzXe) | 3:38 |
 | 99 | [Crane Your Neck \- Remastered](https://open.spotify.com/track/7FMedJPiag48GjON0tp2PO) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Ripely Pine](https://open.spotify.com/album/0f0Owyducr559mI43AW8Mt) | 6:27 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 116 | [Fake Roses](https://open.spotify.com/track/0vOMIGINY5SN7zbJ0iCi5k) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Then Came the Morning](https://open.spotify.com/album/5HU6Z7afYcN23XAegZ3EQA) | 3:33 |
 | 117 | [Morning Song](https://open.spotify.com/track/3jqHV2hPqcwaTQCkeMzIKY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Magpie And The Dandelion](https://open.spotify.com/album/5WS6noSh1Mi66hO2Ti8aAY) | 3:54 |
 | 118 | [Civilian](https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS) | 3:40 |
-| 119 | [The Heron and the Fox](https://open.spotify.com/track/0bd1QaItPmy8qItYjCWKXV) | [Little Scream](https://open.spotify.com/artist/2U7njwghtRR6ofLobG32Lk) | [The Golden Record](https://open.spotify.com/album/2gTrfad2EWCwWSoYyODZW4) | 5:02 |
-| 120 | [You're So Good to Me](https://open.spotify.com/track/6Exlfu36crYH7dnRp8Z8i7) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [More Rain](https://open.spotify.com/album/1iqXf2jJKf5a6yuxNACYF6) | 3:04 |
+| 119 | [You're So Good to Me](https://open.spotify.com/track/6Exlfu36crYH7dnRp8Z8i7) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [More Rain](https://open.spotify.com/album/1iqXf2jJKf5a6yuxNACYF6) | 3:04 |
+| 120 | [The Heron and the Fox](https://open.spotify.com/track/0bd1QaItPmy8qItYjCWKXV) | [Little Scream](https://open.spotify.com/artist/2U7njwghtRR6ofLobG32Lk) | [The Golden Record](https://open.spotify.com/album/2gTrfad2EWCwWSoYyODZW4) | 5:02 |
 
 Snapshot ID: `AAAAAMQK7S5AseOLbVKFmAV587Pemvmw`

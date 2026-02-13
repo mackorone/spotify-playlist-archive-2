@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,170 likes - 46 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,172 likes - 46 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 15 | [Pervert](https://open.spotify.com/track/0xifpRiUNzQzIsFKVyhtRn) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:47 |
 | 16 | [When I Get Old](https://open.spotify.com/track/40AFXpAe4CDeT8DQ8jSDag) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 2:29 |
 | 17 | [Without Love](https://open.spotify.com/track/7JlcIAeVDKykP56emtGiHb) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:19 |
-| 18 | [Myage](https://open.spotify.com/track/1PcPuR2vNpqNr88Cc2Lw8m) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:00 |
+| 18 | [Bikeage](https://open.spotify.com/track/3H7lUDRaFAXi5hcEzd2GsU) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:14 |
 | 19 | [Talking](https://open.spotify.com/track/2wy0NeYv2d0zNezdHesMEW) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi) | 2:27 |
 | 20 | [Sick\-O\-Me](https://open.spotify.com/track/1fiN0tMqkUXr5rTmw109Qo) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 1:46 |
 | 21 | [I Don't Want to Grow Up](https://open.spotify.com/track/5agRly96hAJywJYZlZRiuA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:21 |
-| 22 | [Bikeage](https://open.spotify.com/track/3H7lUDRaFAXi5hcEzd2GsU) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:14 |
+| 22 | [Myage](https://open.spotify.com/track/1PcPuR2vNpqNr88Cc2Lw8m) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 2:00 |
 | 23 | [She Don't Care](https://open.spotify.com/track/3M27UObWWBzZZH89DRneW9) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi) | 1:51 |
 | 24 | [Rotting Out](https://open.spotify.com/track/4N22k5sUjgC4rTymY5ilpq) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Everything Sucks](https://open.spotify.com/album/2jUjrmnCfEEwvC4H2twuTI) | 1:57 |
 | 25 | [In Love This Way](https://open.spotify.com/track/1wvQFyYkXrEAqkR22UugcJ) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:32 |
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 34 | [Get the Time](https://open.spotify.com/track/2ufvmEujQKJmsewWvuvmFn) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:16 |
 | 35 | [Catalina](https://open.spotify.com/track/5XOFzbdObS7ASc0MFrCHcY) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4), [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Dead Tracks, Vol\. 2](https://open.spotify.com/album/4ErXAsdor9LnNuLW4xyzRI) | 1:51 |
 | 36 | [Feel This](https://open.spotify.com/track/2xYTsFE2JcJEZFBYfV2x56) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:14 |
-| 37 | [Like the Way I Know](https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
+| 37 | [Baby Doncha Know](https://open.spotify.com/track/1JlWpNVAhJ3bh6ofyW5gjU) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
 | 38 | [Cheer](https://open.spotify.com/track/60PehYqowykS4BzqhE8UEi) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:03 |
-| 39 | [Pep Talk](https://open.spotify.com/track/7CGRxDsYJS5vBIfDSdKTiF) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR) | 3:05 |
+| 39 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
 | 40 | [Victim Of Me](https://open.spotify.com/track/40ifWLszUQT675PpXGFH4T) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:36 |
-| 41 | [Baby Doncha Know](https://open.spotify.com/track/1JlWpNVAhJ3bh6ofyW5gjU) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
+| 41 | [Like the Way I Know](https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
 | 42 | [Wendy](https://open.spotify.com/track/3a7eYPmtZYPKAmo6fX4n5X) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 2:19 |
-| 43 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
+| 43 | [Pep Talk](https://open.spotify.com/track/7CGRxDsYJS5vBIfDSdKTiF) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR) | 3:05 |
 | 44 | [Shameless Halo](https://open.spotify.com/track/5tDHV0T0jLjO5qW5qXb3Pt) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 2:05 |
 | 45 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
 | 46 | [Yore Disgusting](https://open.spotify.com/track/0jAYEwSAoUjx1hxlED8GaN) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:52 |
 
-Snapshot ID: `aYp1AAAAAAATNW+Eltax+fJY4PGaxCFh`
+Snapshot ID: `aYvGgAAAAAAoqfFpgwMKoDXl73svZCRm`

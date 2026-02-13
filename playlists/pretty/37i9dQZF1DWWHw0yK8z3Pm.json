@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: John Shambles",
-  "num_followers": 69642,
+  "num_followers": 69646,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -513,22 +513,6 @@
       "url": "https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5"
     },
     {
-      "added_at": "2025-10-24 04:01:04",
-      "album": {
-        "name": "The Pines",
-        "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "The Pines",
-      "url": "https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7"
-    },
-    {
       "added_at": "2026-02-06 05:01:26",
       "album": {
         "name": "Pardon Me",
@@ -543,6 +527,22 @@
       "duration_ms": 244626,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/6qXV3e8mrt4iI265wG5Zkn"
+    },
+    {
+      "added_at": "2025-10-24 04:01:04",
+      "album": {
+        "name": "The Pines",
+        "url": "https://open.spotify.com/album/6zw16BJ3qFOdoWiKJyGDSm"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "The Pines",
+      "url": "https://open.spotify.com/track/7mxxpnlMcWRro6hlBRx0M7"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -645,22 +645,6 @@
       "url": "https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq"
     },
     {
-      "added_at": "2025-10-17 08:01:09",
-      "album": {
-        "name": "Field Song.",
-        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 139530,
-      "name": "Field Song.",
-      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Wishbone",
@@ -675,6 +659,22 @@
       "duration_ms": 184881,
       "name": "Wishbone",
       "url": "https://open.spotify.com/track/3ZNsvorDrEVwo1ce7Eq3Q8"
+    },
+    {
+      "added_at": "2025-10-17 08:01:09",
+      "album": {
+        "name": "Field Song.",
+        "url": "https://open.spotify.com/album/06Ql3BibRMTMGaurflbLdf"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 139530,
+      "name": "Field Song.",
+      "url": "https://open.spotify.com/track/3mWoFs0KLmalbdYhgYRJ3R"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1065,6 +1065,26 @@
       "url": "https://open.spotify.com/track/1gD4zZy5x6UAfo8syZlTDk"
     },
     {
+      "added_at": "2025-10-31 00:01:27",
+      "album": {
+        "name": "Knew It All Along (With Nic D)",
+        "url": "https://open.spotify.com/album/2P0Z4uOfgIjpRFT0qn86nA"
+      },
+      "artists": [
+        {
+          "name": "SonReal",
+          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "duration_ms": 183321,
+      "name": "Knew It All Along (With Nic D)",
+      "url": "https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL"
+    },
+    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Darling Blue",
@@ -1087,26 +1107,6 @@
       "duration_ms": 247050,
       "name": "The Shadows (feat. Noah Cyrus)",
       "url": "https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK"
-    },
-    {
-      "added_at": "2025-10-31 00:01:27",
-      "album": {
-        "name": "Knew It All Along (With Nic D)",
-        "url": "https://open.spotify.com/album/2P0Z4uOfgIjpRFT0qn86nA"
-      },
-      "artists": [
-        {
-          "name": "SonReal",
-          "url": "https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 183321,
-      "name": "Knew It All Along (With Nic D)",
-      "url": "https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL"
     },
     {
       "added_at": "2025-11-07 00:01:44",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD"
     },
     {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 210650,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
-    },
-    {
       "added_at": "2026-02-06 05:01:26",
       "album": {
         "name": "Vengeance and Grace",
@@ -1171,6 +1155,22 @@
       "duration_ms": 195613,
       "name": "Vengeance and Grace",
       "url": "https://open.spotify.com/track/4DAol5wRfD04SGMPsCUVdN"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
+      },
+      "artists": [
+        {
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+        }
+      ],
+      "duration_ms": 210650,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
     },
     {
       "added_at": "2026-01-16 05:01:18",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/3gWj1lXtUdMVXyngyyIZqv"
     },
     {
-      "added_at": "2026-01-09 10:02:10",
-      "album": {
-        "name": "Everywhere a man can be",
-        "url": "https://open.spotify.com/album/4nCDkkBS1cSsrjQ2XCQ7Vn"
-      },
-      "artists": [
-        {
-          "name": "Zachary Lucky",
-          "url": "https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E"
-        }
-      ],
-      "duration_ms": 253773,
-      "name": "Everywhere a man can be",
-      "url": "https://open.spotify.com/track/45G9lRDmps5iw1UujkBlH9"
-    },
-    {
       "added_at": "2025-10-24 04:01:04",
       "album": {
         "name": "Burning Bridges Into Dust",
@@ -1275,6 +1259,22 @@
       "duration_ms": 169890,
       "name": "Hanging Out In My Head",
       "url": "https://open.spotify.com/track/1xhaaznvVPI1MPqGf6zXmp"
+    },
+    {
+      "added_at": "2026-01-09 10:02:10",
+      "album": {
+        "name": "Everywhere a man can be",
+        "url": "https://open.spotify.com/album/4nCDkkBS1cSsrjQ2XCQ7Vn"
+      },
+      "artists": [
+        {
+          "name": "Zachary Lucky",
+          "url": "https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E"
+        }
+      ],
+      "duration_ms": 253773,
+      "name": "Everywhere a man can be",
+      "url": "https://open.spotify.com/track/45G9lRDmps5iw1UujkBlH9"
     },
     {
       "added_at": "2025-10-17 08:01:09",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/7qPMj3byKOvzXbWECLViNP"
     },
     {
-      "added_at": "2025-10-17 08:01:09",
-      "album": {
-        "name": "Further From the Country",
-        "url": "https://open.spotify.com/album/4hLnzIN6eYqCmitWi6TIPO"
-      },
-      "artists": [
-        {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
-        }
-      ],
-      "duration_ms": 360393,
-      "name": "Further From the Country",
-      "url": "https://open.spotify.com/track/3vT7yPGiQ10fqj2I9doxYS"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "American Recordings",
@@ -1323,6 +1307,22 @@
       "duration_ms": 190026,
       "name": "Bloodline",
       "url": "https://open.spotify.com/track/5oPvYIe6n8qkqooSrejkFh"
+    },
+    {
+      "added_at": "2025-10-17 08:01:09",
+      "album": {
+        "name": "Further From the Country",
+        "url": "https://open.spotify.com/album/4hLnzIN6eYqCmitWi6TIPO"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "duration_ms": 360393,
+      "name": "Further From the Country",
+      "url": "https://open.spotify.com/track/3vT7yPGiQ10fqj2I9doxYS"
     },
     {
       "added_at": "2025-10-24 04:01:04",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Baby Blue",
-        "url": "https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 248831,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
         "name": "Trail Of Flowers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg"
       },
@@ -1373,20 +1357,20 @@
       "url": "https://open.spotify.com/track/6YmqrvUwNRWZZWNvPuDpRT"
     },
     {
-      "added_at": "2025-11-07 00:01:44",
+      "added_at": "2025-10-06 15:34:36",
       "album": {
-        "name": "Disappearing Days",
-        "url": "https://open.spotify.com/album/2YmruBLhVjlhArcLgrDGQY"
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe"
       },
       "artists": [
         {
-          "name": "Brendan Walter",
-          "url": "https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat"
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
         }
       ],
-      "duration_ms": 161613,
-      "name": "Pipe Dream",
-      "url": "https://open.spotify.com/track/0I2oDXotdoBAmH1wpTjmwZ"
+      "duration_ms": 248832,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1405,20 +1389,20 @@
       "url": "https://open.spotify.com/track/5vKml30abCjY2IAlborIm2"
     },
     {
-      "added_at": "2025-10-24 04:01:04",
+      "added_at": "2025-11-07 00:01:44",
       "album": {
-        "name": "My Second Last Album",
-        "url": "https://open.spotify.com/album/1lNhmIl6F1c3G7svc0n2SG"
+        "name": "Disappearing Days",
+        "url": "https://open.spotify.com/album/2YmruBLhVjlhArcLgrDGQY"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Brendan Walter",
+          "url": "https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat"
         }
       ],
-      "duration_ms": 162709,
-      "name": "Country for the Town",
-      "url": "https://open.spotify.com/track/60YbzHpkoflRfLQ8YoQRBz"
+      "duration_ms": 161613,
+      "name": "Pipe Dream",
+      "url": "https://open.spotify.com/track/0I2oDXotdoBAmH1wpTjmwZ"
     },
     {
       "added_at": "2025-10-17 08:01:09",
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2025-10-24 04:01:04",
       "album": {
-        "name": "More Acoustic Junk",
-        "url": "https://open.spotify.com/album/18Ab571ICq919FVpS0xdod"
+        "name": "My Second Last Album",
+        "url": "https://open.spotify.com/album/1lNhmIl6F1c3G7svc0n2SG"
       },
       "artists": [
         {
-          "name": "Cowboy Junkies",
-          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 214662,
-      "name": "Rock And Bird - 2025 Version",
-      "url": "https://open.spotify.com/track/2Gra5k4QSdCRecxiDqJpfs"
+      "duration_ms": 162709,
+      "name": "Country for the Town",
+      "url": "https://open.spotify.com/track/60YbzHpkoflRfLQ8YoQRBz"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1467,6 +1451,22 @@
       "duration_ms": 187841,
       "name": "Maybe For Once",
       "url": "https://open.spotify.com/track/44YwwgsWXfrSObT4vCmJMS"
+    },
+    {
+      "added_at": "2025-10-24 04:01:04",
+      "album": {
+        "name": "More Acoustic Junk",
+        "url": "https://open.spotify.com/album/18Ab571ICq919FVpS0xdod"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Junkies",
+          "url": "https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j"
+        }
+      ],
+      "duration_ms": 214662,
+      "name": "Rock And Bird - 2025 Version",
+      "url": "https://open.spotify.com/track/2Gra5k4QSdCRecxiDqJpfs"
     },
     {
       "added_at": "2025-10-06 15:34:36",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/0BTSJiovmjDoWYMt7UHd3B"
     },
     {
-      "added_at": "2025-10-24 04:01:04",
-      "album": {
-        "name": "Little Miss",
-        "url": "https://open.spotify.com/album/0Y9fUcEWMbl62RU2sg6nvW"
-      },
-      "artists": [
-        {
-          "name": "Vincent Mason",
-          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
-        }
-      ],
-      "duration_ms": 158224,
-      "name": "Little Miss",
-      "url": "https://open.spotify.com/track/2YGTOXGGrTB9b3OcFAjG93"
-    },
-    {
       "added_at": "2025-10-06 15:34:36",
       "album": {
         "name": "Billionaire",
@@ -1567,6 +1551,38 @@
       "duration_ms": 301787,
       "name": "1 Mile From Heaven",
       "url": "https://open.spotify.com/track/1j8hIIPFy1YM3FoBMAxihE"
+    },
+    {
+      "added_at": "2025-10-24 04:01:04",
+      "album": {
+        "name": "Little Miss",
+        "url": "https://open.spotify.com/album/0Y9fUcEWMbl62RU2sg6nvW"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "duration_ms": 158224,
+      "name": "Little Miss",
+      "url": "https://open.spotify.com/track/2YGTOXGGrTB9b3OcFAjG93"
+    },
+    {
+      "added_at": "2025-10-06 15:34:36",
+      "album": {
+        "name": "Shoulda Listened",
+        "url": "https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1"
+      },
+      "artists": [
+        {
+          "name": "Ken Presse",
+          "url": "https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z"
+        }
+      ],
+      "duration_ms": 190531,
+      "name": "Shoulda Listened",
+      "url": "https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY"
     },
     {
       "added_at": "2025-10-24 04:01:04",
@@ -1603,22 +1619,6 @@
       "duration_ms": 273146,
       "name": "Don't Put Me in the Middle",
       "url": "https://open.spotify.com/track/7LoMG7OXnNG8GrKcPUstEm"
-    },
-    {
-      "added_at": "2025-10-06 15:34:36",
-      "album": {
-        "name": "Shoulda Listened",
-        "url": "https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1"
-      },
-      "artists": [
-        {
-          "name": "Ken Presse",
-          "url": "https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z"
-        }
-      ],
-      "duration_ms": 190531,
-      "name": "Shoulda Listened",
-      "url": "https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY"
     },
     {
       "added_at": "2026-01-30 05:01:55",

@@ -2,9 +2,9 @@
 
 ### [Pura Salsa](https://open.spotify.com/playlist/37i9dQZF1DX1UHxedJfnRM)
 
-> Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
+> Los temas más sabrosos del momento suenan aquí\. Foto: Elsa y Elmar
 
-167 songs - 12 hr 6 min
+168 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [El Color de Tus Ojos](https://open.spotify.com/track/55wQTdI8Z52zw0FGPSHFhP) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [El Color de Tus Ojos](https://open.spotify.com/album/0Jw0sxH3kuVRIVgAqqXLHC) | 4:03 | 2022-05-13 |  |
 | [El Color de Tus Ojos](https://open.spotify.com/track/0HyN13StsSADhbAOY68PdD) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [El Color de Tus Ojos](https://open.spotify.com/album/008Ys7V09mrkoKkKaxI7G0) | 4:03 | 2022-07-15 | 2024-04-19 |
 | [El Dolor De Mi Vida \- Versión Salsa](https://open.spotify.com/track/3WSAA6uLjnYNAnYACNa5F7) | [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [El Dolor De Mi Vida \(Versión Salsa\)](https://open.spotify.com/album/0ZN7GfXpjhltsNAgaYum5U) | 3:56 | 2022-08-12 |  |
-| [El Mecánico](https://open.spotify.com/track/0a4YTcegjQPgpF2Xf0cCJK) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [El Mecánico](https://open.spotify.com/album/5aMyHMTri4C6hUMXk5RU6B) | 5:09 | 2025-12-19 |  |
+| [El Mecánico](https://open.spotify.com/track/0a4YTcegjQPgpF2Xf0cCJK) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [El Mecánico](https://open.spotify.com/album/5aMyHMTri4C6hUMXk5RU6B) | 5:09 | 2025-12-19 | 2026-02-13 |
 | [El Más Feliz Del Mundo](https://open.spotify.com/track/6LJ0Vm6VniJW73HvDgz2Mr) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Jorge Luís Piloto](https://open.spotify.com/artist/4q3tZzOquSSEmpYJXj8qGp) | [El Más Feliz Del Mundo](https://open.spotify.com/album/3YyG3bUijz0cbjvCUagVMr) | 4:49 | 2023-05-12 | 2024-05-25 |
 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 | 2023-04-27 | 2024-06-01 |
 | [EL YATE \(feat\. Sergio George\) \- Versión Salsa](https://open.spotify.com/track/6BOuw1v7iJbOPYR9PigeJ4) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [EL YATE \(feat\. Sergio George\) \[Versión Salsa\]](https://open.spotify.com/album/6BRLupgfPwOkWkVrtCg9D1) | 3:13 | 2023-10-27 | 2024-06-01 |
@@ -72,6 +72,7 @@
 | [Frágil](https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764) | [Reynier Perez](https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd), [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Enamórate Bailando](https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y) | 4:36 | 2022-05-13 |  |
 | [Fuera](https://open.spotify.com/track/34QE9OSoB5EMflRXe6n0uo) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Empezando Otra Vez](https://open.spotify.com/album/3smje1WslrnJuP7fn3PRCK) | 5:05 | 2022-05-27 | 2022-11-11 |
 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 | 2022-05-13 |  |
+| [Grecia \- Spotify Sessions](https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 4:47 | 2026-02-12 |  |
 | [Hablame de Ti](https://open.spotify.com/track/7eCE1RHUfuYQUJEBAoIGK7) | [Farik Grippa](https://open.spotify.com/artist/00Xr47kjidyk1Kimx2Ypd2) | [Hablame de Ti](https://open.spotify.com/album/1gOzjKHK9YBiKQWz87rxhB) | 4:30 | 2022-05-13 |  |
 | [Hasta Mañana](https://open.spotify.com/track/0E7la0I7QrV6RKtBaCQqvg) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU), [Amy Gutiérrez](https://open.spotify.com/artist/1jrfEx1kZc8BNPLQDC7kVR), [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC) | [Hasta Mañana](https://open.spotify.com/album/28IZL9yZMubsra0WDYmL3o) | 3:52 | 2023-02-17 | 2023-08-05 |
 | [Hawái](https://open.spotify.com/track/7FNyz9hceyslUreGckbfJ0) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg) | [Hawái](https://open.spotify.com/album/01r8qOZXLE3myoaNxBpXA8) | 4:09 | 2022-05-13 |  |

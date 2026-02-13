@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Macha Gharibian",
+  "description": "The best jazz new releases. Cover: Pat Metheny",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -4889,6 +4889,36 @@
     },
     {
       "album": {
+        "name": "The Getdown",
+        "url": "https://open.spotify.com/album/0Mc1HIpKFoQVEaYVV0PiOF"
+      },
+      "artists": [
+        {
+          "name": "The Getdown",
+          "url": "https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ"
+        },
+        {
+          "name": "Laurent Coulondre",
+          "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
+        },
+        {
+          "name": "Arnaud Dolmen",
+          "url": "https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm"
+        },
+        {
+          "name": "Gr\u00e9gory Privat",
+          "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189927,
+      "name": "Endless Groove",
+      "url": "https://open.spotify.com/track/7GX8haQKN8Wr12spO3mb0H"
+    },
+    {
+      "album": {
         "name": "Ensemble",
         "url": "https://open.spotify.com/album/5hN8bjTi83f3kCPyvnYmEw"
       },
@@ -7834,7 +7864,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 287620,
       "name": "In The Slow Lane",
       "url": "https://open.spotify.com/track/3WVpOydbLHu7ln6Bk2EQTd"
@@ -9837,6 +9867,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        },
+        {
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429000,
+      "name": "Lost in the Stars",
+      "url": "https://open.spotify.com/track/239or9BOCzbRCPI9pJFqFo"
+    },
+    {
+      "album": {
         "name": "Lost Pieces",
         "url": "https://open.spotify.com/album/7HPFuMcEEclYGdy1ptcVDY"
       },
@@ -10600,7 +10652,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 244126,
       "name": "Merci Biguine",
       "url": "https://open.spotify.com/track/5nOnspLIl5HEKxSPJPDOEM"
@@ -11088,7 +11140,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 231800,
       "name": "More Understanding Than A Man",
       "url": "https://open.spotify.com/track/4zTNJvl3O4u8H2kONGFjyy"
@@ -18962,6 +19014,24 @@
       "duration_ms": 369493,
       "name": "You Are the Sunshine of My Life",
       "url": "https://open.spotify.com/track/5pHiptnSwesdvZJY4YFo5z"
+    },
+    {
+      "album": {
+        "name": "You Brought A New Kind Of Love To Me",
+        "url": "https://open.spotify.com/album/6OpwhRo7F9IZe3iiGPsvsj"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170578,
+      "name": "You Brought A New Kind Of Love To Me",
+      "url": "https://open.spotify.com/track/2KudbcpwTFHYqJFAByNyew"
     },
     {
       "album": {

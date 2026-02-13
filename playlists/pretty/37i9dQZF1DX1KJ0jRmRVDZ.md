@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,415 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,431 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 13 | [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 |
 | 14 | [メディアノーチェ](https://open.spotify.com/track/0da1IJi7awMHj2O4ZzGFWj) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [メディアノーチェ](https://open.spotify.com/album/243VUqXWPKavxwE9ll1Vyo) | 3:49 |
 | 15 | [Underdog](https://open.spotify.com/track/6IV9MKVGRlKHcECMKG7obQ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Underdog](https://open.spotify.com/album/12wZErivc13mK1x7QutVSE) | 3:13 |
-| 16 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 |
+| 16 | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/track/2CSbGdlvxO4sGBEL9ZPAcZ) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/album/3CW4GK7h8PO7t18vQHbEoc) | 2:27 |
 | 17 | [蛹](https://open.spotify.com/track/3WE8A4ZHK7CDtXtcvpJxnC) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [蛹](https://open.spotify.com/album/6qqUwVgl227Y6CM5LxLt1F) | 3:54 |
 | 18 | [リベラ](https://open.spotify.com/track/6kUge4VjMwcYOLlSGPQAAP) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [リベラ](https://open.spotify.com/album/3RuyvYAJQpgF1qR7R3ofzC) | 2:28 |
-| 19 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 |
-| 20 | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/track/2CSbGdlvxO4sGBEL9ZPAcZ) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I Want You to Tell Me the Moon is Beautiful!](https://open.spotify.com/album/3CW4GK7h8PO7t18vQHbEoc) | 2:27 |
+| 19 | [UNDEAD](https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [UNDEAD](https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e) | 3:02 |
+| 20 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 |
 | 21 | [ヨフケノパレエド](https://open.spotify.com/track/4Jm5Z4a4WBF4Avyex3tfi4) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [ヨフケノパレエド](https://open.spotify.com/album/1TdYRjLDvcYeXoHzlU7AcR) | 3:13 |
 | 22 | [やっと君の誕生日を忘れた](https://open.spotify.com/track/46JTD7UmzaOAofVMTHLtj3) | [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [4 LOVERS ONLY](https://open.spotify.com/album/6W3uQpexdVSTrWO6NDh4JQ) | 3:17 |
 | 23 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 47 | [有心論](https://open.spotify.com/track/0p07bRejRNjkMkjwEKqYJy) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [有心論](https://open.spotify.com/album/1ipf6VYiymoeUxWPULNwtV) | 4:08 |
 | 48 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
 | 49 | [ひゅるりらぱっぱ \- HYURURIRAPAPPA](https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ひゅるりらぱっぱ \- HYURURIRAPAPPA](https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY) | 3:20 |
-| 50 | [Gold Unbalance](https://open.spotify.com/track/5QNhLQXwvqwC97oRSqsIae) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [Gold Unbalance](https://open.spotify.com/album/6YZgsSoo9i8Kxw1t6zXB36) | 3:12 |
+| 50 | [Ghost Avenue](https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Ghost Avenue](https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6) | 2:53 |
 
 Snapshot ID: `AAAAAOYWrJRvlZWcbjkGo7A+eX9XIFy+`

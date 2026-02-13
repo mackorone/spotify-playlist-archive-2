@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 
 > Una noche en el Patio con Daniela, Lupita, Dulce y Yuri 🍸
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,542 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,553 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 25 | [Soldado Del Amor](https://open.spotify.com/track/5SNwMExhg8Cb85fRCfZgO1) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Uno Entre Mil](https://open.spotify.com/album/4eXjBKDecDYrCmjar3Ucwf) | 3:44 |
 | 26 | [No Me Queda Más](https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:20 |
 | 27 | [Volcán](https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Volcan](https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry) | 4:45 |
-| 28 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
+| 28 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
 | 29 | [Las Mil Y Una Noches](https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Luz Y Sombra](https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM) | 4:40 |
-| 30 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
-| 31 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
+| 30 | [Hacer El Amor Con Otro](https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Flor De Piel](https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU) | 4:43 |
+| 31 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
 | 32 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
 | 33 | [Sola Con Mi Soledad](https://open.spotify.com/track/45hKBNoT5SrVC0c9A3jGNX) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/7CQwiFNQwKvtNOveTiMmq7) | 3:45 |
-| 34 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
-| 35 | [El Hombre Que Yo Amo](https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Myriam Hernandez](https://open.spotify.com/album/2ev6My86W8Ri5qXygB645A) | 3:36 |
+| 34 | [El Hombre Que Yo Amo](https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Myriam Hernandez](https://open.spotify.com/album/2ev6My86W8Ri5qXygB645A) | 3:36 |
+| 35 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
 | 36 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
 | 37 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/0incizGIFilFp6soKuyHvZ) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/7hmSedqLVW3pMXzRPSbJfM) | 3:34 |
 | 38 | [Luna](https://open.spotify.com/track/64qCBHI5L54SUOZQfGFYcg) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0) | 4:29 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBs3BbM19Ks.md) - [plain]
 | 63 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:19 |
 | 64 | [Remolino](https://open.spotify.com/track/0ACbLwjYUehkGVVFYKPYNQ) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 4:10 |
 | 65 | [Amor](https://open.spotify.com/track/44eTZfJoqPmHsB9AW4onQp) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [El Deseo De Oír Tu Voz](https://open.spotify.com/album/4C3mFwi92IBnHiix1cmyXI) | 4:59 |
-| 66 | [Mirame](https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:43 |
-| 67 | [Ya No Pienso en Ti \- Spotify Singles](https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Ya No Pienso en Ti \(Spotify Singles\)](https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA) | 3:07 |
+| 66 | [Ya No Pienso en Ti \- Spotify Singles](https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Ya No Pienso en Ti \(Spotify Singles\)](https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA) | 3:07 |
+| 67 | [Mirame](https://open.spotify.com/track/2lxiwqCxyXDxL8xks4aXBu) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:43 |
 | 68 | [El Noa Noa](https://open.spotify.com/track/2Bbvlv1uslztpJbGgEsckH) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2) | 4:17 |
 | 69 | [Quédate Conmigo Esta Noche](https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Siempre](https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr) | 3:51 |
 | 70 | [Quererte a Ti](https://open.spotify.com/track/4dRr0TfZQmZF2waLzRzoQo) | [Angela Carrasco](https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W) | [Sus Mas Grandes Exit](https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8) | 4:35 |

@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 220145,
+  "num_followers": 220181,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
+      },
+      "artists": [
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 297253,
+      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Liszt - My Piano Hero",
         "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 259573,
       "name": "Consolation No. 3 in D-Flat Major, S. 172",
       "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
-      },
-      "artists": [
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 297253,
-      "name": "Laudate Dominum (from Vespers, K. 339) (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Respiro 1",
+        "url": "https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 181984,
+      "name": "Respiro 1",
+      "url": "https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 150415,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Respiro 1",
-        "url": "https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 181984,
-      "name": "Respiro 1",
-      "url": "https://open.spotify.com/track/0UpLrGfkWvoJVVAuju5AeV"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
-        "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 71262,
-      "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
-      "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/09TIZ4XM46PFxq133GoFMq"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 147264,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3mKYC2wJ8TOMqbCJYNunr2"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
+        "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 71262,
+      "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
+      "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Love Came",
-        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
-      },
-      "artists": [
-        {
-          "name": "Peter Gregson",
-          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Love Came",
-      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 65080,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
       "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Love Came",
+        "url": "https://open.spotify.com/album/6X1fv9fslru7IIhs254MWm"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "duration_ms": 135800,
+      "name": "Love Came",
+      "url": "https://open.spotify.com/track/3s5QMIVTYWorP7kUWVuDOk"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
+        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
+      },
+      "artists": [
+        {
+          "name": "Snorri Sigf\u00fas Birgisson",
+          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        }
+      ],
+      "duration_ms": 105386,
+      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
+      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 230426,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
       "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Birgisson: Where Life and Death May Dwell (Icelandic Folk Song)",
-        "url": "https://open.spotify.com/album/2bnR1j7bZ507HnOO3QVMsJ"
-      },
-      "artists": [
-        {
-          "name": "Snorri Sigf\u00fas Birgisson",
-          "url": "https://open.spotify.com/artist/69TbTWdCCyin22T8h1NUS6"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
-        }
-      ],
-      "duration_ms": 105386,
-      "name": "Where Life and Death May Dwell (Icelandic Folk Song) - Upright Piano",
-      "url": "https://open.spotify.com/track/7CcujsBHI04yRbGvuGImWl"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Tempora",
-        "url": "https://open.spotify.com/album/5JRtd3VR4X2LUziz7CcVxE"
-      },
-      "artists": [
-        {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
-        }
-      ],
-      "duration_ms": 152849,
-      "name": "Tempora",
-      "url": "https://open.spotify.com/track/0uME5XUJPts0jypYhjtG13"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Carve the Runes Then Be Content With Silence",
         "url": "https://open.spotify.com/album/1GhkRKKCDDDi5iVrWXybbd"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 265665,
       "name": "With Silence (Mvt. 3) - Pt. 4 \u201csunwards turn\u201d",
       "url": "https://open.spotify.com/track/6uTEe5tHsfdbFMN1uHe31k"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Tempora",
+        "url": "https://open.spotify.com/album/5JRtd3VR4X2LUziz7CcVxE"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 152849,
+      "name": "Tempora",
+      "url": "https://open.spotify.com/track/0uME5XUJPts0jypYhjtG13"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -2247,26 +2247,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Requiem",
-        "url": "https://open.spotify.com/album/2tgroBhBrUTlMUxGZ7pQts"
-      },
-      "artists": [
-        {
-          "name": "Peter Sculthorpe",
-          "url": "https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J"
-        },
-        {
-          "name": "Richard Narroway",
-          "url": "https://open.spotify.com/artist/5xRz6Mr5zBY2D0vDDKYDy4"
-        }
-      ],
-      "duration_ms": 147429,
-      "name": "Requiem for Cello Alone: IV. Lacrimosa",
-      "url": "https://open.spotify.com/track/0aYtpkDdoua0zUqRoX2csM"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Rachmaninoff: Vocalise, Op. 34, No. 14 (Arr. Rose for Cello and Piano) [Musical Moments]",
         "url": "https://open.spotify.com/album/4faodWUUkGAJQrtN5fJKBV"
       },
@@ -2287,6 +2267,26 @@
       "duration_ms": 386066,
       "name": "Vocalise, Op. 34, No. 14 (Arr. Rose for Cello and Piano) - Musical Moments",
       "url": "https://open.spotify.com/track/3Se2RfDlXgkVP3fgLpF2z4"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Requiem",
+        "url": "https://open.spotify.com/album/2tgroBhBrUTlMUxGZ7pQts"
+      },
+      "artists": [
+        {
+          "name": "Peter Sculthorpe",
+          "url": "https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J"
+        },
+        {
+          "name": "Richard Narroway",
+          "url": "https://open.spotify.com/artist/5xRz6Mr5zBY2D0vDDKYDy4"
+        }
+      ],
+      "duration_ms": 147429,
+      "name": "Requiem for Cello Alone: IV. Lacrimosa",
+      "url": "https://open.spotify.com/track/0aYtpkDdoua0zUqRoX2csM"
     },
     {
       "added_at": "2025-12-23 11:21:37",

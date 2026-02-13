@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4516,
+  "num_followers": 4522,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAACtptbZuZwF86aaQuIAkgo",
+  "snapshot_id": "aYvGgAAAAADr6nBnPUanoKvEw8FTGGK8",
   "tracks": [
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 160213,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm"
+      "duration_ms": 195320,
+      "name": "Slow Come On",
+      "url": "https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Slow Come On",
-      "url": "https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2"
+      "duration_ms": 160213,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake Death",
-        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 128520,
-      "name": "Fake Death",
-      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warn Me",
         "url": "https://open.spotify.com/album/2Iq1FXyQkuUSpFmv3CEnzJ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 194346,
       "name": "Warn Me",
       "url": "https://open.spotify.com/track/3FfmYyYHN47nLxPuJ84M0y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake Death",
+        "url": "https://open.spotify.com/album/5l0wHhmCKy7E2IMwOsbtsF"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 128520,
+      "name": "Fake Death",
+      "url": "https://open.spotify.com/track/55OAsuWSj4o87WbNJZOSSX"
     },
     {
       "added_at": null,

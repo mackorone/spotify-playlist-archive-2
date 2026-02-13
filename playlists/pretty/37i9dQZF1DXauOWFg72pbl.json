@@ -1,6 +1,6 @@
 {
   "description": "Cold beer. Hot wings. Great rock. ",
-  "num_followers": 608440,
+  "num_followers": 608465,
   "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-02-08 16:59:41",
       "album": {
-        "name": "With Teeth",
-        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "The Hand That Feeds",
-      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
-    },
-    {
-      "added_at": "2026-02-08 16:59:41",
-      "album": {
         "name": "Holy Fire",
         "url": "https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 238853,
       "name": "My Number",
       "url": "https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud"
+    },
+    {
+      "added_at": "2026-02-08 16:59:41",
+      "album": {
+        "name": "With Teeth",
+        "url": "https://open.spotify.com/album/56Us3Q6UIM4jKJZlWhqddL"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "The Hand That Feeds",
+      "url": "https://open.spotify.com/track/5ugzDiilhy6ILKmKfhEzd7"
     },
     {
       "added_at": "2026-02-08 16:59:41",

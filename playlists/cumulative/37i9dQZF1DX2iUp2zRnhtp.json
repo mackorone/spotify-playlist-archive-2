@@ -2263,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "En million",
+        "url": "https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146918,
+      "name": "En million",
+      "url": "https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR"
+    },
+    {
+      "album": {
         "name": "En Vakker Dag",
         "url": "https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB"
       },
@@ -9565,6 +9583,24 @@
     },
     {
       "album": {
+        "name": "Ung for alltid",
+        "url": "https://open.spotify.com/album/3A4lGTODEzOrOyu0KQajip"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161571,
+      "name": "Ung for alltid",
+      "url": "https://open.spotify.com/track/5LqAXeCGSP6ZRHlzb7ikwf"
+    },
+    {
+      "album": {
         "name": "Update",
         "url": "https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B"
       },
@@ -9674,6 +9710,32 @@
       "duration_ms": 135737,
       "name": "Vil Ikke Dele",
       "url": "https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg"
+    },
+    {
+      "album": {
+        "name": "Voi Voi",
+        "url": "https://open.spotify.com/album/3xYkAZCLQvvOwCAtLpFf7X"
+      },
+      "artists": [
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "OnklP",
+          "url": "https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6"
+        },
+        {
+          "name": "Nora Brockstedt",
+          "url": "https://open.spotify.com/artist/2qYLKeM0r1cFgpiFm4VtA1"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144251,
+      "name": "Voi Voi",
+      "url": "https://open.spotify.com/track/4aKjwqQh7BgS3dWuUth0PY"
     },
     {
       "album": {

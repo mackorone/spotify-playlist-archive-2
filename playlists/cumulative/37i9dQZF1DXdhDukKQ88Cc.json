@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "\ud83d\udd25 de st\u00f8rste nye rap hits i dk \ud83d\udd25 cover: Fouli",
+  "description": "\ud83d\udd25 de st\u00f8rste nye rap hits i dk \ud83d\udd25 cover: Artigeardit",
   "name": "rap dk",
   "tracks": [
     {
@@ -176,6 +176,24 @@
       "duration_ms": 200916,
       "name": "2 Stepper Freestyle",
       "url": "https://open.spotify.com/track/3r0C7cXKzwGQaKLFHr810N"
+    },
+    {
+      "album": {
+        "name": "20 Times",
+        "url": "https://open.spotify.com/album/6SujSL0akcBtBR3u8bkAgH"
+      },
+      "artists": [
+        {
+          "name": "Xabski",
+          "url": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124639,
+      "name": "20 Times",
+      "url": "https://open.spotify.com/track/1Drcv968Oo64KD9JN1MMLc"
     },
     {
       "album": {
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 185953,
       "name": "DEN DER",
       "url": "https://open.spotify.com/track/5jS29RTeFhAV5o9IxwQZC4"
@@ -2364,6 +2382,24 @@
       "duration_ms": 140494,
       "name": "Differente",
       "url": "https://open.spotify.com/track/3tZIAsrTBOkslSFJyMZxes"
+    },
+    {
+      "album": {
+        "name": "DIG & MIG",
+        "url": "https://open.spotify.com/album/16izLjfgq0Mwb9U08yaOIG"
+      },
+      "artists": [
+        {
+          "name": "AMAL",
+          "url": "https://open.spotify.com/artist/4CtKkvQ9cQLDkJMJDS3XAD"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176513,
+      "name": "DIG & MIG",
+      "url": "https://open.spotify.com/track/41zsakuQrxAym3jzKWGgFO"
     },
     {
       "album": {
@@ -2712,6 +2748,24 @@
       "duration_ms": 126743,
       "name": "Du Min (Frk. Escobar)",
       "url": "https://open.spotify.com/track/7kHon0ZXCxI7rwONmhS9Ax"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Lille Fucker",
+          "url": "https://open.spotify.com/artist/6Sr0XZt2vowfPAzp9Mv1ck"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91428,
+      "name": "d\u00f8 sammen",
+      "url": "https://open.spotify.com/track/1wmrFp1aEKH82qOoGXt97G"
     },
     {
       "album": {
@@ -7019,6 +7073,28 @@
     },
     {
       "album": {
+        "name": "PUSTO",
+        "url": "https://open.spotify.com/album/05jV7vuiMm9YwT77HtsKgz"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144053,
+      "name": "Piger (feat. ICEKIID)",
+      "url": "https://open.spotify.com/track/2krMpiq40MNAIo6weIBonY"
+    },
+    {
+      "album": {
         "name": "Pilot",
         "url": "https://open.spotify.com/album/5MacHtaCqoCziU1bOY8bu2"
       },
@@ -9485,6 +9561,24 @@
     },
     {
       "album": {
+        "name": "Walou",
+        "url": "https://open.spotify.com/album/3zUevQMRs1Z1cFWV4O08Rw"
+      },
+      "artists": [
+        {
+          "name": "DIBSET",
+          "url": "https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153499,
+      "name": "Walou",
+      "url": "https://open.spotify.com/track/0eaaE2OY5LpxlaSx6GRLZv"
+    },
+    {
+      "album": {
         "name": "Wanna Be My Lady",
         "url": "https://open.spotify.com/album/5om9PmQ26QpvX2nSxVrcQB"
       },
@@ -9812,6 +9906,24 @@
       "duration_ms": 173786,
       "name": "\u00c6vle",
       "url": "https://open.spotify.com/track/6cyxrvUTs1W5yMh5JF8qoL"
+    },
+    {
+      "album": {
+        "name": "\u00d8jne P\u00e5 Mig",
+        "url": "https://open.spotify.com/album/6saMGThMpdvxdvNeoS55Qj"
+      },
+      "artists": [
+        {
+          "name": "9Boogie",
+          "url": "https://open.spotify.com/artist/6GywQ2ZouwXkm6NuLig6iu"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138818,
+      "name": "\u00d8jne P\u00e5 Mig",
+      "url": "https://open.spotify.com/track/1ZWkyHvBJlAqGfOfVK5Ewl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc"

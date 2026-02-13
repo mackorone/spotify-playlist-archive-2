@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 264580,
+  "num_followers": 264595,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADou4JLdgp76YX3D6YEmhXR",
+  "snapshot_id": "aYvGgAAAAACkHGL55ye0LfQgPf7sXQBW",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "City Girls",
+      "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2 (Deluxe)",
         "url": "https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 188440,
       "name": "Slam the Door",
       "url": "https://open.spotify.com/track/07Vwzgzl5dRyU7AMpJbIE3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slime & B",
-        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "City Girls",
-      "url": "https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Metro Spider (with Young Thug)",
-      "url": "https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 162400,
       "name": "Mannequin Challenge (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Metro Spider (with Young Thug)",
+      "url": "https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh"
     },
     {
       "added_at": null,

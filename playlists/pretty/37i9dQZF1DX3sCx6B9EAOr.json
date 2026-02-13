@@ -1,6 +1,6 @@
 {
   "description": "\uc2dc\uc6d0\ud55c \uad6d\ub0b4\uc74c\uc545\ub4e4\uacfc \ub4dc\ub77c\uc774\ube59\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Tap your feet to the K-Pop beats on your way through the driving moments.)",
-  "num_followers": 120980,
+  "num_followers": 120982,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \ub304\uc2a4+ (K-Pop Dance Driving)",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
+        "name": "DO IT",
+        "url": "https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q"
+    },
+    {
+      "added_at": "2026-02-11 06:11:04",
+      "album": {
         "name": "Killin' It Girl (feat. GloRilla)",
         "url": "https://open.spotify.com/album/0SSznW46Qvf6PHvO58aPNs"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 148714,
       "name": "Killin' It Girl (feat. GloRilla)",
       "url": "https://open.spotify.com/track/5PCOOngROV9jWsUViSy4Ed"
-    },
-    {
-      "added_at": "2026-02-11 06:11:04",
-      "album": {
-        "name": "DO IT",
-        "url": "https://open.spotify.com/album/4lkJ6i3LDK8HvcU2tPWX9k"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/1KuNhOubescxn3xD6WNI7Q"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181192,
-      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
-      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
-    },
-    {
-      "added_at": "2026-02-11 06:11:04",
-      "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
+    },
+    {
+      "added_at": "2026-02-11 06:11:04",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 181192,
+      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -819,8 +819,8 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "BABYMONS7ER",
-        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 170356,
-      "name": "SHEESH",
-      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -903,8 +903,8 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "DRIP",
-        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+        "name": "BABYMONS7ER",
+        "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 180845,
-      "name": "DRIP",
-      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
+      "duration_ms": 170356,
+      "name": "SHEESH",
+      "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "Yet To Come",
-      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
-    },
-    {
-      "added_at": "2026-02-11 06:11:04",
-      "album": {
         "name": "Whiplash - The 5th Mini Album",
         "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
+    },
+    {
+      "added_at": "2026-02-11 06:11:04",
+      "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Yet To Come",
+      "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "IVE SECRET",
-        "url": "https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "XOXZ",
-      "url": "https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V"
-    },
-    {
-      "added_at": "2026-02-11 06:11:04",
-      "album": {
         "name": "UNFORGIVEN",
         "url": "https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 185538,
       "name": "Eve, Psyche & The Bluebeard\u2019s wife",
       "url": "https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89"
+    },
+    {
+      "added_at": "2026-02-11 06:11:04",
+      "album": {
+        "name": "IVE SECRET",
+        "url": "https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "XOXZ",
+      "url": "https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "After LIKE",
-        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "After LIKE",
-      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
-    },
-    {
-      "added_at": "2026-02-11 06:11:04",
-      "album": {
         "name": "FEARLESS",
         "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 168437,
       "name": "FEARLESS",
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "added_at": "2026-02-11 06:11:04",
+      "album": {
+        "name": "After LIKE",
+        "url": "https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "After LIKE",
+      "url": "https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "ONE MORE TIME",
-        "url": "https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy"
-      },
-      "artists": [
-        {
-          "name": "ALLDAY PROJECT",
-          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
-        }
-      ],
-      "duration_ms": 195259,
-      "name": "ONE MORE TIME",
-      "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
-    },
-    {
-      "added_at": "2026-02-11 06:11:04",
-      "album": {
         "name": "EUPHORIA",
         "url": "https://open.spotify.com/album/5nefAD1EsXbLksNfBJorPV"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 188000,
       "name": "FREAK ALARM",
       "url": "https://open.spotify.com/track/44V5j1NOwRWBV8krmLnr4J"
+    },
+    {
+      "added_at": "2026-02-11 06:11:04",
+      "album": {
+        "name": "ONE MORE TIME",
+        "url": "https://open.spotify.com/album/5VxaQoQltZT93oaGc72Csy"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "duration_ms": 195259,
+      "name": "ONE MORE TIME",
+      "url": "https://open.spotify.com/track/7FyKqLLICVzwBiAUtbVYUW"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
+        "name": "Butter (Hotter, Sweeter, Cooler)",
+        "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 164441,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
+    },
+    {
+      "added_at": "2026-02-11 06:11:04",
+      "album": {
         "name": "The Chaos Chapter: FREEZE",
         "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
       },
@@ -1695,22 +1711,6 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "Butter (Hotter, Sweeter, Cooler)",
-        "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 164441,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
-    },
-    {
-      "added_at": "2026-02-11 06:11:04",
-      "album": {
         "name": "gonna love me, right?",
         "url": "https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb"
       },
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql"
+        "name": "The Astronaut",
+        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
       },
       "artists": [
         {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
         }
       ],
-      "duration_ms": 174216,
-      "name": "FLOWER",
-      "url": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc"
+      "duration_ms": 282463,
+      "name": "The Astronaut",
+      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "The Astronaut",
-        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
+        "name": "ME",
+        "url": "https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql"
       },
       "artists": [
         {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
         }
       ],
-      "duration_ms": 282463,
-      "name": "The Astronaut",
-      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+      "duration_ms": 174216,
+      "name": "FLOWER",
+      "url": "https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "SEVENTEEN 4th Album 'Face the Sun'",
-        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
-    },
-    {
-      "added_at": "2026-02-11 06:11:04",
-      "album": {
         "name": "The Chaos Chapter: FIGHT OR ESCAPE",
         "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 199919,
       "name": "LO$ER=LO\u2661ER",
       "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
+    },
+    {
+      "added_at": "2026-02-11 06:11:04",
+      "album": {
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "SEVENTEEN 10th Mini Album 'FML'",
-        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
-    },
-    {
-      "added_at": "2026-02-11 06:11:04",
-      "album": {
         "name": "Take",
         "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 214136,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
+    },
+    {
+      "added_at": "2026-02-11 06:11:04",
+      "album": {
+        "name": "SEVENTEEN 10th Mini Album 'FML'",
+        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
-    },
-    {
-      "added_at": "2026-02-11 06:11:04",
-      "album": {
         "name": "MANIFESTO : DAY 1",
         "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 180750,
       "name": "Future Perfect (Pass the MIC)",
       "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
+    },
+    {
+      "added_at": "2026-02-11 06:11:04",
+      "album": {
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -2355,38 +2355,6 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "TOXIC",
-        "url": "https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk"
-      },
-      "artists": [
-        {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
-        }
-      ],
-      "duration_ms": 123739,
-      "name": "BODY",
-      "url": "https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR"
-    },
-    {
-      "added_at": "2026-02-11 06:11:04",
-      "album": {
-        "name": "minisode 2: Thursday's Child",
-        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 191038,
-      "name": "Good Boy Gone Bad",
-      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
-    },
-    {
-      "added_at": "2026-02-11 06:11:04",
-      "album": {
         "name": "TOO MUCH",
         "url": "https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR"
       },
@@ -2411,18 +2379,34 @@
     {
       "added_at": "2026-02-11 06:11:04",
       "album": {
-        "name": "DUH!",
-        "url": "https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p"
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
       },
       "artists": [
         {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 185440,
-      "name": "DUH!",
-      "url": "https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA"
+      "duration_ms": 191038,
+      "name": "Good Boy Gone Bad",
+      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
+    },
+    {
+      "added_at": "2026-02-11 06:11:04",
+      "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 123739,
+      "name": "BODY",
+      "url": "https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR"
     },
     {
       "added_at": "2026-02-11 06:11:04",
@@ -2439,6 +2423,22 @@
       "duration_ms": 190556,
       "name": "I DO ME",
       "url": "https://open.spotify.com/track/5PclMa9Pxs1OFWSAS6Nid9"
+    },
+    {
+      "added_at": "2026-02-11 06:11:04",
+      "album": {
+        "name": "DUH!",
+        "url": "https://open.spotify.com/album/31Q4mSPAjzNEwqSwyBzW5p"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "DUH!",
+      "url": "https://open.spotify.com/track/6Ts5zvNORCcfLG7K5etvuA"
     },
     {
       "added_at": "2026-02-11 06:11:04",

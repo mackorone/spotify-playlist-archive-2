@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,354 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,368 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 40 | [Ride or Die](https://open.spotify.com/track/1MARJrjeD1y6JXeTVJALGv) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Ride or Die](https://open.spotify.com/album/3bl7S3JQLLoFlKxtjZ8cyX) | 2:49 |
 | 41 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 |
 | 42 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 |
-| 43 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
-| 44 | [hero](https://open.spotify.com/track/4mhn601d6PE1dR3QCON9bF) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [hero](https://open.spotify.com/album/3bu3fyvtURUF34oFHBvxeJ) | 3:04 |
-| 45 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
+| 43 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
+| 44 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
+| 45 | [hero](https://open.spotify.com/track/4mhn601d6PE1dR3QCON9bF) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [hero](https://open.spotify.com/album/3bu3fyvtURUF34oFHBvxeJ) | 3:04 |
 | 46 | [Wedding Dress](https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 4:02 |
 | 47 | [do you think you could love me?](https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [do you think you could love me?](https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp) | 3:56 |
 | 48 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T \(Wanna Hold U Tight\)](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 90 | [colors](https://open.spotify.com/track/0pFpRWGfYcyls9K43l0rYo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [the asia tour: blooming season ep](https://open.spotify.com/album/5QPN39fT4yD5joAeXKWQam) | 2:01 |
 | 91 | [would you be mine?](https://open.spotify.com/track/4JXFK04oMgM5HPKOQnUWuK) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [would you be mine?](https://open.spotify.com/album/14JDs9VWM6IhPYn11VmZjp) | 3:10 |
 | 92 | [Black Tie](https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Black Tie](https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY) | 2:47 |
-| 93 | [Snacks & Wine](https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Snacks & Wine](https://open.spotify.com/album/67bKkiZdLSR4w0wJA3EsHI) | 3:30 |
-| 94 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
-| 95 | [One And Only](https://open.spotify.com/track/4hHVepJBDOxpQaamW15Cc3) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say \(and more\)](https://open.spotify.com/album/5C4nJlq9vET3ikxu5u4ZxD) | 3:03 |
-| 96 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
-| 97 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 |
-| 98 | [Before i leave](https://open.spotify.com/track/2IeZiPqF5dW3Ar0Stn0Las) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Before i leave](https://open.spotify.com/album/7mawlJhUwLI7JyjI5xbeo7) | 3:23 |
-| 99 | [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [BACK 2 YOU](https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh) | 3:41 |
+| 93 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
+| 94 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
+| 95 | [Snacks & Wine](https://open.spotify.com/track/5YZR3UQJQ8OLWYjhieJ6hn) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Snacks & Wine](https://open.spotify.com/album/67bKkiZdLSR4w0wJA3EsHI) | 3:30 |
+| 96 | [One And Only](https://open.spotify.com/track/4hHVepJBDOxpQaamW15Cc3) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Everything I've Wanted To Say \(and more\)](https://open.spotify.com/album/5C4nJlq9vET3ikxu5u4ZxD) | 3:03 |
+| 97 | [Ohaguro](https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Ohaguro](https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI) | 3:08 |
+| 98 | [Fuzzy Feeling](https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Fuzzy Feeling](https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst) | 2:56 |
+| 99 | [Before i leave](https://open.spotify.com/track/2IeZiPqF5dW3Ar0Stn0Las) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [Before i leave](https://open.spotify.com/album/7mawlJhUwLI7JyjI5xbeo7) | 3:23 |
 | 100 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
 
 Snapshot ID: `AAAAANiwL9l6nZMdDXlJfvqnEXdugPVn`

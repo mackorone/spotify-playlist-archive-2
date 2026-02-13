@@ -2,7 +2,7 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: The Quiett\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: Roh Yun Ha\)
 
 1,777 songs - 3 day 23 hr 13 min
 

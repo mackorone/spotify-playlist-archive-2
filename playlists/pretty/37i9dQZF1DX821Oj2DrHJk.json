@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 31528,
+  "num_followers": 31525,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 159346,
-      "name": "Breakfast In America - Remastered 2010",
-      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Dire Straits",
         "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 348760,
       "name": "Sultans of Swing",
       "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 159346,
+      "name": "Breakfast In America - Remastered 2010",
+      "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
+        "name": "Communiqu\u00e9",
+        "url": "https://open.spotify.com/album/2xQBCPq2gQ7l8thLUUZSKu"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Lady Writer",
+      "url": "https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
         "name": "Band On The Run",
         "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 313026,
       "name": "Band On The Run - 2010 Remaster",
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
-        "name": "Communiqu\u00e9",
-        "url": "https://open.spotify.com/album/2xQBCPq2gQ7l8thLUUZSKu"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Lady Writer",
-      "url": "https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "10cc",
-        "url": "https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 318853,
-      "name": "Rubber Bullets",
-      "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Rumours",
         "url": "https://open.spotify.com/album/63k57x0qOkUWEMR0dkMivh"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 192133,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/4SXU3lUZ1eb4JWWbkQw43Y"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "10cc",
+        "url": "https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 318853,
+      "name": "Rubber Bullets",
+      "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
     },
     {
       "added_at": "2024-07-12 14:53:15",

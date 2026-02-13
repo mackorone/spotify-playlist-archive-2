@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 
 > good vibes, all day every day
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,182 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,243 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 24 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
 | 25 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 |
 | 26 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
-| 27 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
+| 27 | [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 |
 | 28 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 |
-| 29 | [Life Will Be](https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:18 |
+| 29 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 | 30 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
 | 31 | [Mona Lisa](https://open.spotify.com/track/71DSaeKtXQaMAqnvMT7Uoc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:06 |
 | 32 | [Stars](https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:21 |
@@ -86,14 +86,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURugcFfOfEH.md) - [plain]
 | 76 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
 | 77 | [Naked And Alive](https://open.spotify.com/track/5ivyL3WEFCo0IfivYC0FOF) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Naked And Alive](https://open.spotify.com/album/6mPCKnNWmqzIhuLAwuCfQe) | 3:27 |
 | 78 | [Early](https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Early](https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9) | 3:13 |
-| 79 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
-| 80 | [Self Sabotage](https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Self Sabotage](https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v) | 2:25 |
+| 79 | [Self Sabotage](https://open.spotify.com/track/7yYur6YhUetXZj6b2CnWrE) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Self Sabotage](https://open.spotify.com/album/1xL7LvJtJlAjWPrtA7Aj0v) | 2:25 |
+| 80 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
 | 81 | [Kinky](https://open.spotify.com/track/2kIDECuRDbagrRqLOY3Mnm) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [1](https://open.spotify.com/album/76OFhgPO6W6WMwm6KlKX0Y) | 2:14 |
 | 82 | [MAMA'S EYES](https://open.spotify.com/track/3FSOP0KUsO3hv96E92CHsp) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MAMA'S EYES](https://open.spotify.com/album/6PsMjqA7kETWWJ2OJJRbkA) | 3:20 |
 | 83 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 |
 | 84 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
-| 85 | [Fucking Wizardry](https://open.spotify.com/track/2vcv0Aagjdd3mxkYDSqWXq) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Prioritise Pleasure](https://open.spotify.com/album/6Q4b8zTe5hFiDaUxNOiBih) | 3:52 |
-| 86 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 |
+| 85 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 |
+| 86 | [Fucking Wizardry](https://open.spotify.com/track/2vcv0Aagjdd3mxkYDSqWXq) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Prioritise Pleasure](https://open.spotify.com/album/6Q4b8zTe5hFiDaUxNOiBih) | 3:52 |
 | 87 | [All I Need](https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All I Need](https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk) | 3:36 |
 | 88 | [Happiness \(Dance Floor Edit\)](https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Happiness](https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8) | 3:55 |
 | 89 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 |

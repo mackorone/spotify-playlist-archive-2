@@ -2959,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "Al Final del D\u00eda",
+        "url": "https://open.spotify.com/album/59yx8ngDCtq6YATujXGQyg"
+      },
+      "artists": [
+        {
+          "name": "Xolo Music",
+          "url": "https://open.spotify.com/artist/23ZEJoIVfvwkBAe022VUZ6"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224374,
+      "name": "Al Final del D\u00eda",
+      "url": "https://open.spotify.com/track/5fnuvDHHkPdcnCbi675PSF"
+    },
+    {
+      "album": {
         "name": "Al Final Del D\u00eda",
         "url": "https://open.spotify.com/album/4EZsD3FUx5hUvSELDX6C3M"
       },
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 224374,
       "name": "Al Final Del D\u00eda",
       "url": "https://open.spotify.com/track/6r9czfSZp4moVpP1NUlWub"
@@ -14002,7 +14020,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 167664,
       "name": "Confiesaselo (feat. Kbp)",
       "url": "https://open.spotify.com/track/3qJwuExs27hIYLkwUX1BF9"
@@ -28400,7 +28418,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 238560,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/5IXk34xSm6rxNgXkCveC3r"
@@ -28418,7 +28436,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 238733,
       "name": "Here Without You",
       "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
@@ -36262,6 +36280,24 @@
       "duration_ms": 229381,
       "name": "LO QUE LE PAS\u00d3 A HAWAii",
       "url": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
+    },
+    {
+      "album": {
+        "name": "Lo Que Necesito (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6FIxGOG4opDK7PZAeOvdim"
+      },
+      "artists": [
+        {
+          "name": "Enoc Parra",
+          "url": "https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444461,
+      "name": "Lo Que Necesito - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4VINif5cOM9x4DPYdGj9TH"
     },
     {
       "album": {
@@ -45804,7 +45840,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 256199,
       "name": "No Me Debes Nada",
       "url": "https://open.spotify.com/track/3PW8d0bzitfiyeNwsG1MQb"
@@ -64492,7 +64528,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 307199,
       "name": "Te quiero en secreto",
       "url": "https://open.spotify.com/track/3sWwlCVpPjL6OTGLDRfVgH"
@@ -72578,7 +72614,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

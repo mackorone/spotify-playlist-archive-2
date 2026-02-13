@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,273 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,270 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 32 | [Lollipop](https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp), [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [2NE1 1st Mini Album](https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba) | 3:08 |
 | 33 | [What Is Right](https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Tonight](https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj) | 3:44 |
 | 34 | [We belong together](https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BigBang First Single](https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K) | 3:58 |
-| 35 | [Ain't No Fun \(재미없어\)](https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 |
-| 36 | [Fool](https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Hot Issue](https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC) | 3:45 |
+| 35 | [Fool](https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Hot Issue](https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC) | 3:45 |
+| 36 | [Ain't No Fun \(재미없어\)](https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:42 |
 | 37 | [Beautiful Hangover](https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Radar de Éxitos: K\-Pop](https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi) | 3:43 |
 | 38 | [Always](https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Always](https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei) | 3:53 |
 | 39 | [Ego](https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 49 | [Lollipop Part.2](https://open.spotify.com/track/7jJnHoPel2hxKFlcLgTmoJ) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Lollipop Pt.2](https://open.spotify.com/album/4VPoZSOEnpfUu36fILrqA1) | 3:20 |
 | 50 | [Dirty Cash](https://open.spotify.com/track/0yZKieKXhoehUMVpYiGwWj) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Vol.1](https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV) | 3:14 |
 
-Snapshot ID: `aYp1AAAAAAA09rOZyuEzJBtzsKpN16/C`
+Snapshot ID: `aYvGgAAAAAAvec9a0awNfRGKcMf9wMKU`

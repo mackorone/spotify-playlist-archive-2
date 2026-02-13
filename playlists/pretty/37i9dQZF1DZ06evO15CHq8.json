@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 670635,
+  "num_followers": 670711,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAABNzUuFTucTVRkYLfdEBG02",
+  "snapshot_id": "aYvGgAAAAADvcJFBSDP0sAUy45j/Gxsd",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New World Depression",
+        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 268474,
+      "name": "Burgundy",
+      "url": "https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GERM HAS A DEATHWISH",
         "url": "https://open.spotify.com/album/5eWTQHm7yXnuxlHpG9Lf23"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 109898,
       "name": "AWKWARD CAR DRIVE",
       "url": "https://open.spotify.com/track/3aEDTqPcVXDiuKXaedAZgx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New World Depression",
-        "url": "https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 268474,
-      "name": "Burgundy",
-      "url": "https://open.spotify.com/track/22YmmVRHfFX49G6HY5NV3T"
     },
     {
       "added_at": null,

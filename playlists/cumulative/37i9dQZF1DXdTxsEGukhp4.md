@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: ONE OR EIGHT
 
-565 songs - 1 day 8 hr 12 min
+567 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,7 @@
 | [だけど僕は](https://open.spotify.com/track/3kenAyozcSKh83nRsaGqru) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [猟奇的なキスを私にして](https://open.spotify.com/album/5Qy4KEySDLkh5xnRK325D5) | 3:07 | 2025-06-26 |  |
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2023-01-26 | 2023-06-23 |
 | [つよがるガール](https://open.spotify.com/track/3GxZpsOr0vFZfU30PYULgU) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo), [もっさ](https://open.spotify.com/artist/7a7uhcdZvYg4IGcD9tUB3g) | [つよがるガール](https://open.spotify.com/album/2udxqBTrnKaqPzRLzC5w9K) | 3:09 | 2024-08-01 | 2024-09-02 |
-| [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 | 2025-12-29 |  |
+| [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 | 2025-12-29 | 2026-02-13 |
 | [どうでもいい話がしたい](https://open.spotify.com/track/2XSRtBSiJK1MpJrIGizsBF) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [どうでもいい話がしたい](https://open.spotify.com/album/4eLTAkwR2aCbADYfSRBwlS) | 3:21 | 2024-04-18 | 2024-04-26 |
 | [どうでもいい話がしたい](https://open.spotify.com/track/5neukhTvTU38FpGUjpjW6q) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [愛の産声、哀の鳴き声](https://open.spotify.com/album/2v3t0YRjdNqjO1yXJ0bhuk) | 3:23 | 2025-05-01 | 2025-06-02 |
 | [ないものねだり](https://open.spotify.com/track/1dsh4buvcBs2u7YtHy29c7) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [僕がCDを出したら](https://open.spotify.com/album/3SKxJng83DxoCi3CuHfaLU) | 4:22 | 2023-04-03 | 2023-05-02 |
@@ -383,7 +383,7 @@
 | [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 | 2024-07-01 | 2024-12-02 |
 | [ぴぽぴぽ](https://open.spotify.com/track/7GxUPZNxNPvDToM4FkXE6G) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:22 | 2023-11-09 | 2024-01-12 |
 | [ふたりの映画](https://open.spotify.com/track/0pcf8NBtfYsNYiGI4jonYf) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ふたりの映画](https://open.spotify.com/album/2yRaD5QzVFRFXu3XRj5wII) | 3:27 | 2024-09-04 | 2024-10-02 |
-| [ぷんぷん](https://open.spotify.com/track/1ZQjslTPziwyz9BioIBBSI) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [サマラブ](https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq) | 3:16 | 2025-05-15 |  |
+| [ぷんぷん](https://open.spotify.com/track/1ZQjslTPziwyz9BioIBBSI) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [サマラブ](https://open.spotify.com/album/7eUgZkOJL1L3N8mxKC9XOq) | 3:16 | 2025-05-15 | 2026-02-13 |
 | [ぼくのてんし](https://open.spotify.com/track/2vOdEYqxSzIvZdo7IYISmY) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [20](https://open.spotify.com/album/2E6evRJYZ8yknwWA65ICDO) | 3:14 | 2024-06-03 | 2024-10-18 |
 | [まぶた](https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [まぶた](https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP) | 4:16 | 2023-01-26 | 2023-02-10 |
 | [もういいよ](https://open.spotify.com/track/3uTffiZnTs9Zwfg0uIQ4Zw) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [もういいよ](https://open.spotify.com/album/2O6Ndu8lo4d1Ov7wz7bNGO) | 2:57 | 2024-11-01 | 2025-07-11 |
@@ -493,7 +493,9 @@
 | [合法的トビ方ノススメ](https://open.spotify.com/track/1YjB7JgaWxUSOAsuCBOQEM) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [たりないふたり](https://open.spotify.com/album/31hLSqnLaBag5p2BmvCnOs) | 3:58 | 2024-11-21 | 2026-02-03 |
 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 | 2023-02-16 | 2023-07-14 |
 | [名前は片想い](https://open.spotify.com/track/1qwE94iwDll2rydJWHTm3I) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [哀愁演劇](https://open.spotify.com/album/1wB0GF3mOb21xgSTuHBZ80) | 3:36 | 2024-05-09 | 2025-08-22 |
+| [君がおじいちゃんあたしがおばあちゃん](https://open.spotify.com/track/1SgwiPVpQ6tV3UnWGPlv5H) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [日々愛々](https://open.spotify.com/album/7A82mHia7alj13QXGc6MDQ) | 3:41 | 2026-02-12 |  |
 | [君のそば](https://open.spotify.com/track/3ENZ9t8yvPfD1fNK4T3Lli) | [東京、君がいない街](https://open.spotify.com/artist/2f6Qo8o3wF0ZEpHaMt6Cal) | [23春](https://open.spotify.com/album/1KGEUbiIrHnuN18SQ9LKOF) | 2:50 | 2024-04-18 | 2025-03-07 |
+| [君の恋人になったら](https://open.spotify.com/track/0k4KaqElLVjdR6sVHPTS6h) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ハッピーエンド](https://open.spotify.com/album/756KBTfY0YiHQNkg3UJhR6) | 4:04 | 2026-02-12 |  |
 | [君の恋人になれますように](https://open.spotify.com/track/4ULgTE9WJkJbUIagN5XG55) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [昨日を生きない私達へ](https://open.spotify.com/album/3fDeb5QQJMOKktMep53Zc4) | 4:17 | 2025-09-18 |  |
 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/6Ovj4KMDE0X326qnynqQSO) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 3:36 | 2023-04-13 | 2023-06-30 |
 | [君は運命の人](https://open.spotify.com/track/34T7ddHko0iSH1J3XHASNk) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [君は運命の人](https://open.spotify.com/album/28UEl2mjOzs43Gg0TYHjcm) | 3:36 | 2024-04-18 | 2024-05-10 |

@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33863,
+  "num_followers": 33864,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-01-29 23:00:30",
       "album": {
+        "name": "A Beautiful Life",
+        "url": "https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 196304,
+      "name": "A Beautiful Life",
+      "url": "https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ"
+    },
+    {
+      "added_at": "2026-01-29 23:00:30",
+      "album": {
         "name": "The Machine (Radio Edit)",
         "url": "https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3"
       },
@@ -479,18 +495,22 @@
     {
       "added_at": "2026-01-29 23:00:30",
       "album": {
-        "name": "A Beautiful Life",
-        "url": "https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8"
+        "name": "BP Love",
+        "url": "https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "Jessica Allossery",
+          "url": "https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob"
+        },
+        {
+          "name": "The Butterfly Room",
+          "url": "https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA"
         }
       ],
-      "duration_ms": 196304,
-      "name": "A Beautiful Life",
-      "url": "https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ"
+      "duration_ms": 126750,
+      "name": "BP Love",
+      "url": "https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy"
     },
     {
       "added_at": "2026-01-29 23:00:30",
@@ -527,26 +547,6 @@
       "duration_ms": 233262,
       "name": "Every Town",
       "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
-    },
-    {
-      "added_at": "2026-01-29 23:00:30",
-      "album": {
-        "name": "BP Love",
-        "url": "https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2"
-      },
-      "artists": [
-        {
-          "name": "Jessica Allossery",
-          "url": "https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob"
-        },
-        {
-          "name": "The Butterfly Room",
-          "url": "https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA"
-        }
-      ],
-      "duration_ms": 126750,
-      "name": "BP Love",
-      "url": "https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy"
     },
     {
       "added_at": "2026-01-29 23:00:30",

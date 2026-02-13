@@ -4,7 +4,7 @@
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Marte in cover.
 
-210 songs - 9 hr 58 min
+211 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [On Time For Her](https://open.spotify.com/track/4NBziq4rWXCDDzBYIBDKb1) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/3Y2eQzXDS2MaiRIIPbnXb2) | 3:38 | 2022-08-31 | 2022-10-17 |
 | [On Time For Her](https://open.spotify.com/track/4Y5ew6TxDKSirbM8wHYbms) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [On Time For Her](https://open.spotify.com/album/2wjZrsSc136umDWRM6kMap) | 3:38 | 2022-08-31 | 2023-04-12 |
 | [Oracolo](https://open.spotify.com/track/33SLkWv2MYlUhtUiIyy6hH) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Oracolo](https://open.spotify.com/album/1aHsVu3iBZ3EWqm3U0R4Oy) | 3:17 | 2022-08-31 | 2023-04-12 |
+| [OVERSIZE](https://open.spotify.com/track/1DWdzegxzshILVfcdlKLsO) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [OVERSIZE](https://open.spotify.com/album/38rVKLQJl7LzrJ8yivSj7y) | 2:03 | 2026-02-12 |  |
 | [Paradiso & Inferno](https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Paradiso & Inferno](https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9) | 2:16 | 2022-08-31 | 2023-04-12 |
 | [Paranoia](https://open.spotify.com/track/3yHmVCjg1ed4BrPJIwj2DL) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Moquette](https://open.spotify.com/album/0oST0heRwy4pEVmiMTTqz7) | 3:21 | 2022-08-31 | 2023-04-12 |
 | [Particelle \(feat\. Laila Al Habash\)](https://open.spotify.com/track/2w75dcKrvv4GRShZ4JEsFx) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Particelle \(feat\. Laila Al Habash\)](https://open.spotify.com/album/1vlzf9KjSJ3Bm8T6MoGbas) | 3:28 | 2022-08-31 | 2023-04-12 |

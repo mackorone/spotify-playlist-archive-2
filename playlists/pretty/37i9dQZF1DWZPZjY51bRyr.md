@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain](/playlists/plain/37i9dQZF1DWZPZjY51bRyr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZPZjY51bRyr)
 
-### [Wellness \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWZPZjY51bRyr)
+### [Wellness](https://open.spotify.com/playlist/37i9dQZF1DWZPZjY51bRyr)
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,553 likes - 207 songs - 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,585 likes - 207 songs - 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

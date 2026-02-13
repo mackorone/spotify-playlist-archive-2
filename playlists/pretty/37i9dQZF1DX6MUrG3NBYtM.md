@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > Hiqpy genomineerd voor Edison Pop 2026: Nieuwkomer en Rock 🔥🤟🏻
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,303 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,295 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Youman](https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Youman](https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv) | 3:36 |
-| 2 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
+| 2 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
 | 3 | [To The Sandals](https://open.spotify.com/track/0o1TOuRqbAP2RspbKZmq7P) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:08 |
-| 4 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 |
+| 4 | [12 to 12](https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [12 to 12](https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV) | 4:02 |
 | 5 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
 | 6 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 |
 | 7 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 | 9 | [Bad Things](https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 |
 | 10 | [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 |
 | 11 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
-| 12 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
-| 13 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 |
+| 12 | [Zombie](https://open.spotify.com/track/7DQotDUGnJkXgNJv363GXF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Zombie](https://open.spotify.com/album/2VjTqSwV1IY3a4kFdurCVv) | 4:06 |
+| 13 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
 | 14 | [The Banjo Song](https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [The Banjo Song](https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn) | 3:49 |
 | 15 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 |
 | 16 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 |

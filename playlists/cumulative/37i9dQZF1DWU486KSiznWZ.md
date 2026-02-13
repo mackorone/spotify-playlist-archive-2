@@ -4,7 +4,7 @@
 
 > نخبة الأغاني الخليجية\. الغلاف: عايض
 
-228 songs - 16 hr 24 min
+229 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [ضاق الغمام](https://open.spotify.com/track/3HRvfEMnAwmaoC0dhfYUiL) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:23 | 2023-12-20 | 2024-04-19 |
 | [ضعت منك](https://open.spotify.com/track/5KKjRWEIqWQ1nygHT9lf3j) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [ضعت منك](https://open.spotify.com/album/6nAqcqeaZWMW29hldi7dta) | 3:56 | 2024-09-23 | 2025-07-01 |
 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 | 2022-12-08 | 2023-05-07 |
+| [قدر](https://open.spotify.com/track/1xpTXUnluk3BIKY1JLnk5D) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [بلقيس 2012](https://open.spotify.com/album/2whHmhixMEgcKNj7G5b4Ht) | 6:37 | 2026-02-12 |  |
 | [قيام](https://open.spotify.com/track/1ej0zKc17Qpnrz3BjQzvXD) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [مرحبا](https://open.spotify.com/album/6F34uPWLURxhVHvOUzxNiQ) | 4:04 | 2023-05-16 | 2024-04-19 |
 | [كل أحبك](https://open.spotify.com/track/0X4e6WZ901ycwRO0iCee8s) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [فؤاد عبدالواحد ٢٠٢٤](https://open.spotify.com/album/5N2NALxsk5s6Mr6bVezMm3) | 4:20 | 2024-01-03 | 2024-04-19 |
 | [كل ما بغيت](https://open.spotify.com/track/1aKoHSI8NrQ6oxG5aoO98J) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [كل ما بغيت](https://open.spotify.com/album/3RpdGoFAU2TsKvdz3bnGNr) | 3:20 | 2025-08-08 | 2025-10-16 |

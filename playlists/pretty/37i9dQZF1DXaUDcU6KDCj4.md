@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Gia Margaret
 
-[Spotify](https://open.spotify.com/user/spotify) - 868,581 likes - 175 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 868,614 likes - 175 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

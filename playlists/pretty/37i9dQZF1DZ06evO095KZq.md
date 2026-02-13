@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,452 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,442 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 41 | [Chalito \- En Vivo](https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Chalito \(En Vivo\)](https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu) | 2:37 |
 | 42 | [Equipo RR](https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Equipo RR](https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5) | 2:39 |
 | 43 | [Enseñanza De Los Viejos](https://open.spotify.com/track/05Lnoy1GuU0GNzVIthSYBo) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Enseñanza De Los Viejos](https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH) | 3:06 |
-| 44 | [Tus Desprecios](https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 2:23 |
-| 45 | [Seguimos Sumando](https://open.spotify.com/track/2QOhH1uxG4ZsHUZfPZB5vv) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Seguimos Sumando](https://open.spotify.com/album/22OgLlKNrhXYtIKdoqDW99) | 2:44 |
+| 44 | [Seguimos Sumando](https://open.spotify.com/track/2QOhH1uxG4ZsHUZfPZB5vv) | [Grupo Aztteca](https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Seguimos Sumando](https://open.spotify.com/album/22OgLlKNrhXYtIKdoqDW99) | 2:44 |
+| 45 | [Tus Desprecios](https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 2:23 |
 | 46 | [El Fue Arturo \- En Vivo](https://open.spotify.com/track/6B9VpihRaveXPH0awrkIBG) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 3:05 |
 | 47 | [El Selectivo](https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Selectivo](https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s) | 3:07 |
 | 48 | [Soy de Durango](https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:21 |
 | 49 | [Las Bendiciones](https://open.spotify.com/track/2wiTP6kEXPjnNNWNwzYTMH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 3:02 |
 | 50 | [Caballo Robado](https://open.spotify.com/track/5SP9kvtRzmncffawYpAk0P) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Caballo Robado](https://open.spotify.com/album/39AOvTcyx0LVuOJMf8peQB) | 1:58 |
 
-Snapshot ID: `aYp1AAAAAADw0JybU+23rYaruQMOlCjq`
+Snapshot ID: `aYvGgAAAAAAbTA089EezxXkajqT+TraH`

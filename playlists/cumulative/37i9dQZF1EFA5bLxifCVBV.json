@@ -2261,6 +2261,28 @@
     },
     {
       "album": {
+        "name": "Ella & Friends",
+        "url": "https://open.spotify.com/album/5Yg69Xqv5HepYlX4HetiuL"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "The Delta Rhythm Boys",
+          "url": "https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "It's Only A Paper Moon",
+      "url": "https://open.spotify.com/track/365qEBJbnBDdsvvFE1GTf7"
+    },
+    {
+      "album": {
         "name": "Ella: The Legendary Decca Recordings",
         "url": "https://open.spotify.com/album/0G5ZHFj5VmvIWEAuF8NEIT"
       },
@@ -2276,7 +2298,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 156933,
       "name": "It's Only A Paper Moon",
       "url": "https://open.spotify.com/track/3YpOZnAr1JE4WondXbGTMv"

@@ -2,9 +2,9 @@
 
 ### [pop fm](https://open.spotify.com/playlist/37i9dQZF1DX10Mbn4IUmhR)
 
-> Your frequency for today's hottest pop tracks via ZA\. Cover: Harry Styles
+> Your frequency for today's hottest pop tracks via ZA\. Cover: Booshle G
 
-755 songs - 1 day 16 hr 2 min
+759 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [7 in the club](https://open.spotify.com/track/1qqKKdqTQlOFiDYDxVlem3) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [7 in the club](https://open.spotify.com/album/78rtOqcMLFCvPPrswgcm6h) | 2:10 | 2025-08-14 | 2025-08-22 |
 | [99 \(feat\. Daecolm\)](https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [99 \(feat\. Daecolm\)](https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv) | 4:08 | 2025-06-12 | 2025-06-21 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-07-11 | 2024-11-16 |
+| [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 | 2026-02-13 |  |
 | [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 | 2025-08-07 | 2025-12-28 |
 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 | 2025-04-04 | 2025-05-30 |
 | [a thousand years](https://open.spotify.com/track/1QUpqu8865jfasDr8M3IKN) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:45 | 2025-04-24 | 2025-05-30 |
@@ -75,6 +76,7 @@
 | [be a bitch](https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [be a bitch](https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl) | 3:04 | 2025-07-24 | 2025-08-01 |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2025-04-17 | 2026-01-24 |
 | [Be Alright](https://open.spotify.com/track/5T5AS42m32tKpFLfibRSqy) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Be Alright](https://open.spotify.com/album/2cQaAt8RZtWYFSaPLGXaBF) | 2:35 | 2024-11-15 | 2024-12-06 |
+| [Be Like You](https://open.spotify.com/track/6FzeypIDYavtPv3gLPU7Vx) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [](https://open.spotify.com/album/null) | 2:26 | 2026-02-13 |  |
 | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/track/3Tdih47Fm5lGlwc4qsqFGr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/album/7J74ZcCS99ZyNUHB6E6Ntn) | 2:37 | 2025-07-24 | 2025-08-15 |
 | [Beautiful Strangers](https://open.spotify.com/track/6IYvOX6K6tbBmj00JRU5Rw) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Star Chapter: TOGETHER](https://open.spotify.com/album/1FwFdMp4ewxTlLSudNzlyG) | 2:18 | 2025-07-24 | 2025-08-01 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-06-27 | 2026-01-24 |
@@ -253,6 +255,7 @@
 | [Get Ready \(For Christmas\)](https://open.spotify.com/track/6q3W9mK8tb08saD5y87P8y) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Get Ready \(For Christmas\)](https://open.spotify.com/album/7kcCIAyWCSCVFIVIVDt2VN) | 3:12 | 2024-11-21 | 2025-01-24 |
 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 | 2025-06-26 | 2025-08-15 |
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-07-11 | 2025-01-24 |
+| [Give It To Me](https://open.spotify.com/track/4SxNIsYJVeKx7crMsMNjf8) | [Jada Faith](https://open.spotify.com/artist/1Y1heq4pqZt7bF5lKZCDfL), [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet) | [Give It To Me](https://open.spotify.com/album/0Muk4t1czK2RNtrisFJ4sV) | 2:28 | 2026-02-13 |  |
 | [Give Me Everything](https://open.spotify.com/track/0dOpKW6fWTbtaLhEgU4z0d) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Give Me Everything](https://open.spotify.com/album/5IDiQ1qqaYBjVxtjEJNawa) | 2:56 | 2024-07-18 | 2024-08-10 |
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-04 | 2025-04-30 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-06 | 2025-10-24 |
@@ -451,6 +454,7 @@
 | [MWA! \- English Version](https://open.spotify.com/track/5vnDIS4pm26ZoRDVlDjbNu) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 | 2025-06-12 | 2025-06-16 |
 | [My Calling](https://open.spotify.com/track/5aIqSdUGrgkpmx4IY99g4p) | [SONIQUE](https://open.spotify.com/artist/4aEmFQl0nUAtz6Rb0QreCB) | [My Calling](https://open.spotify.com/album/4ZtGUVXuRQv5Q9d2L9OLzB) | 3:31 | 2025-03-13 | 2025-03-21 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2026-01-23 |  |
+| [My Sweet Lullaby](https://open.spotify.com/track/3BDgGxMhSXgN09ZoePXBp4) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [My Sweet Lullaby](https://open.spotify.com/album/2ajFNHtrid9V6L7xpJArQ5) | 3:25 | 2026-02-13 |  |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-24 | 2026-01-24 |
 | [Nauseous](https://open.spotify.com/track/0u1jUuJRzQfsfukx9Jvc9G) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/6xg3zSgRcJDnPagx8cmXeA) | 3:43 | 2025-08-21 | 2025-09-27 |
 | [Nectarines](https://open.spotify.com/track/6jziuXsD78INluNGcWaQr4) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Love the Texture, Hate the Taste](https://open.spotify.com/album/0yi9fsU4FqykS6JN7VRjVU) | 4:37 | 2024-08-09 | 2024-08-24 |

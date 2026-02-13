@@ -870,10 +870,28 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 292853,
       "name": "Break",
       "url": "https://open.spotify.com/track/4s5LJh2Rkmi66GWeZm0cOx"
+    },
+    {
+      "album": {
+        "name": "Due Voci",
+        "url": "https://open.spotify.com/album/1KpnjRvkZzJwvBF2R4c1iU"
+      },
+      "artists": [
+        {
+          "name": "Due Voci",
+          "url": "https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292853,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/6Vn7OIy5Smrumr9j2XgLTH"
     },
     {
       "album": {
@@ -1250,6 +1268,24 @@
     {
       "album": {
         "name": "Due Voci",
+        "url": "https://open.spotify.com/album/1KpnjRvkZzJwvBF2R4c1iU"
+      },
+      "artists": [
+        {
+          "name": "Due Voci",
+          "url": "https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278386,
+      "name": "Catch My Breath",
+      "url": "https://open.spotify.com/track/0csk1tla6zPm7SDGKsNRpD"
+    },
+    {
+      "album": {
+        "name": "Due Voci",
         "url": "https://open.spotify.com/album/0Wj7tuC2Xi0e612FxmBdVz"
       },
       "artists": [
@@ -1260,7 +1296,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 278386,
       "name": "Catch My Breath",
       "url": "https://open.spotify.com/track/2OtFe3xMV2Pa9XEM5LhYJh"
@@ -11830,6 +11866,24 @@
     {
       "album": {
         "name": "Due Voci",
+        "url": "https://open.spotify.com/album/1KpnjRvkZzJwvBF2R4c1iU"
+      },
+      "artists": [
+        {
+          "name": "Due Voci",
+          "url": "https://open.spotify.com/artist/5oBk7hgCa5NzzvprFSPwqO"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228560,
+      "name": "Would I Know",
+      "url": "https://open.spotify.com/track/3WDuersikf49NSxFlNI0b6"
+    },
+    {
+      "album": {
+        "name": "Due Voci",
         "url": "https://open.spotify.com/album/0Wj7tuC2Xi0e612FxmBdVz"
       },
       "artists": [
@@ -11840,7 +11894,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 228560,
       "name": "Would I Know",
       "url": "https://open.spotify.com/track/73ejE2UWxwhLT2zmjSvdBX"

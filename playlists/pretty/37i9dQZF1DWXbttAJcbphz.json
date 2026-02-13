@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Summer Walker",
-  "num_followers": 1778577,
+  "num_followers": 1778757,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
@@ -461,20 +461,24 @@
       "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
+      "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "I Told You",
-        "url": "https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4"
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
       "artists": [
         {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 237786,
-      "name": "Say It",
-      "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
+      "duration_ms": 295920,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -497,24 +501,20 @@
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
+      "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+        "name": "I Told You",
+        "url": "https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
         }
       ],
-      "duration_ms": 295920,
-      "name": "All I Want Is You (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+      "duration_ms": 237786,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "King Of Hearts (Deluxe)",
-        "url": "https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx"
-      },
-      "artists": [
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Lay It Down",
-      "url": "https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "Drunk",
@@ -1183,6 +1167,22 @@
       "duration_ms": 188453,
       "name": "Them Changes",
       "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "King Of Hearts (Deluxe)",
+        "url": "https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Lay It Down",
+      "url": "https://open.spotify.com/track/0npGoOENjn7vVvIMmvWekQ"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/4h6ViRoztTBpWcJ1zFT9Zg"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "Sonder Son",
-        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 204841,
-      "name": "Gang Over Luv",
-      "url": "https://open.spotify.com/track/7LaI3mRTJu66r9HKdv7iBx"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Lemonade",
@@ -1267,6 +1251,22 @@
       "duration_ms": 206080,
       "name": "Formation",
       "url": "https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Sonder Son",
+        "url": "https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 204841,
+      "name": "Gang Over Luv",
+      "url": "https://open.spotify.com/track/7LaI3mRTJu66r9HKdv7iBx"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
     },
     {
-      "added_at": "2025-05-30 15:45:04",
-      "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/5TIMTrEuwMp8siTWFIlYLd"
-      },
-      "artists": [
-        {
-          "name": "Heavy Weight",
-          "url": "https://open.spotify.com/artist/5a93v7K0tRAdG6e0qGz38J"
-        }
-      ],
-      "duration_ms": 236591,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/0ByMEtOAATIdWkuYMIYnTv"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "Unapologetic (Deluxe)",
@@ -1357,20 +1341,20 @@
       "url": "https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
+      "added_at": "2025-05-30 15:45:04",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5TIMTrEuwMp8siTWFIlYLd"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+          "name": "Heavy Weight",
+          "url": "https://open.spotify.com/artist/5a93v7K0tRAdG6e0qGz38J"
         }
       ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+      "duration_ms": 236591,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/0ByMEtOAATIdWkuYMIYnTv"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1387,6 +1371,22 @@
       "duration_ms": 239341,
       "name": "Boo'd Up",
       "url": "https://open.spotify.com/track/4squZv12LD9M8ooJfoVgZS"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "The Morning",
-      "url": "https://open.spotify.com/track/6u0dQik0aif7FQlrhycG1L"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "READY",
         "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 256063,
       "name": "Boo'd Up",
       "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "Trilogy",
+        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "The Morning",
+      "url": "https://open.spotify.com/track/6u0dQik0aif7FQlrhycG1L"
     },
     {
       "added_at": "2022-08-21 23:21:50",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/0wY9rA9fJkuESyYm9uzVK5"
     },
     {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 200140,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
-    },
-    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "Time",
@@ -1559,6 +1543,22 @@
       "duration_ms": 264097,
       "name": "She Don't (feat. Ty Dolla $Ign)",
       "url": "https://open.spotify.com/track/01JPQ87UHeGysPVwTqMJHK"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 200140,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
     },
     {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 160172,
-      "name": "Every Kind Of Way",
-      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
-    },
-    {
       "added_at": "2020-10-02 17:39:19",
       "album": {
         "name": "Ciara",
@@ -1639,6 +1623,22 @@
       "duration_ms": 234294,
       "name": "Body Party",
       "url": "https://open.spotify.com/track/0rFZaQ4crlGAzuCjWCQ2xu"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 160172,
+      "name": "Every Kind Of Way",
+      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
     },
     {
       "added_at": "2020-10-02 17:39:19",

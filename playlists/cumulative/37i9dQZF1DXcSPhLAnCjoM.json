@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"L'horizon\" de Pierre Garnier est le Grand Hit de la semaine.  ",
+  "description": "\"Virile\" de Suzane est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -2858,6 +2858,24 @@
       "duration_ms": 193866,
       "name": "La gloire de nos p\u00e8res",
       "url": "https://open.spotify.com/track/4TLTVC2ptKtrlUzkBSXq0A"
+    },
+    {
+      "album": {
+        "name": "La lune",
+        "url": "https://open.spotify.com/album/7Jb1IPLlgsMbIubX0UqeLf"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208963,
+      "name": "La lune",
+      "url": "https://open.spotify.com/track/4mNIlqifKuEfnf03MIFEOw"
     },
     {
       "album": {
@@ -5778,7 +5796,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 174893,
       "name": "Voulez-Vous",
       "url": "https://open.spotify.com/track/513s60DKMknigRNGVzSORD"

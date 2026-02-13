@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-527 songs - 1 day 2 hr 18 min
+530 songs - 1 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-10-10 | 2024-11-01 |
 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 | 2024-10-17 | 2024-11-01 |
 | [En gang til](https://open.spotify.com/track/1YPVF4YQNKWLI5X7zSUZNP) | [Capow x 2G](https://open.spotify.com/artist/1aNuhjKCoAQGBnIiyCGI3a) | [En gang til](https://open.spotify.com/album/3UFh1o0obc9nJKhsktca2j) | 2:14 | 2024-07-04 | 2024-07-12 |
+| [En million](https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [En million](https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu) | 2:26 | 2026-02-12 |  |
 | [En Vakker Dag](https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [En Vakker Dag](https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB) | 2:30 | 2025-06-26 |  |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-03 | 2025-11-28 |
 | [Enkelt \(feat\. Tomine Harket\)](https://open.spotify.com/track/5K64FL8BOgcCwaG6P4TbTE) | [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv), [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Enkelt \(feat\. Tomine Harket\)](https://open.spotify.com/album/4v9xjAwHV6KZhdqoh3dGVz) | 2:07 | 2024-10-31 | 2024-11-15 |
@@ -504,12 +505,14 @@
 | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [TÆT PÅ \(feat\. Delara\)](https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx) | 2:17 | 2025-05-08 |  |
 | [Undercover](https://open.spotify.com/track/29Lv5XXAl1cfPtCc7CKDKV) | [Hkeem](https://open.spotify.com/artist/46XcyK8FnyCJJlvYCUwVZH) | [Undercover](https://open.spotify.com/album/4ofArnxzGZ0dt0Q4U0Kv0L) | 2:29 | 2025-05-12 |  |
 | [Ung dum schpeller](https://open.spotify.com/track/2OvZgfjnx63iyO4x8Hdy2t) | [BLKSTA](https://open.spotify.com/artist/1durHwES7iW4UCtqeGtfFY) | [Ung dum schpeller](https://open.spotify.com/album/6k0zSikN7ALvylxeNfpcAl) | 2:31 | 2025-08-21 | 2025-11-28 |
+| [Ung for alltid](https://open.spotify.com/track/5LqAXeCGSP6ZRHlzb7ikwf) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Ung for alltid](https://open.spotify.com/album/3A4lGTODEzOrOyu0KQajip) | 2:41 | 2026-02-12 |  |
 | [Update](https://open.spotify.com/track/1ZedegcFMjMTyIngsQbXjb) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Update](https://open.spotify.com/album/4iPMVG9LtYQ2ENLIglSo7B) | 3:27 | 2025-02-20 | 2025-02-28 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-27 | 2025-05-01 |
 | [Valentines](https://open.spotify.com/track/1ane1ChBkbMgPL6mFkAFK5) | [Cezinando](https://open.spotify.com/artist/504cl42JQLRqlZddfZ3S4z) | [Sinekyre 3](https://open.spotify.com/album/6Ths4hYYkTUDcnVCBf78pc) | 4:06 | 2025-04-03 |  |
 | [Vant til det](https://open.spotify.com/track/6HQXqcM17N4d2KcP9kyjMH) | [Nossan](https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT) | [Vant til det](https://open.spotify.com/album/7ptjOgIv2FidOtmcAu7TNI) | 2:08 | 2025-05-22 |  |
 | [Verdens verste menneske](https://open.spotify.com/track/7iqugpBZ2xq1UV6esP18Lr) | [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Verdens verste menneske](https://open.spotify.com/album/6rxA8pKCd3AhFe0NWCPHJG) | 2:41 | 2025-06-26 |  |
 | [Vil Ikke Dele](https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Vil Ikke Dele](https://open.spotify.com/album/2F8IyxW4ddsPxLjYPFwGg3) | 2:15 | 2025-04-30 | 2025-05-23 |
+| [Voi Voi](https://open.spotify.com/track/4aKjwqQh7BgS3dWuUth0PY) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [OnklP](https://open.spotify.com/artist/7GUyb3aEJHskmBRrhckLa6), [Nora Brockstedt](https://open.spotify.com/artist/2qYLKeM0r1cFgpiFm4VtA1) | [Voi Voi](https://open.spotify.com/album/3xYkAZCLQvvOwCAtLpFf7X) | 2:24 | 2026-02-12 |  |
 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 | 2024-09-05 | 2025-05-01 |
 | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wait On It \(feat\. Bryson Tiller & Chris Brown\)](https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx) | 3:25 | 2024-07-18 | 2024-08-15 |
 | [Waiting For Love](https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Waiting For Love](https://open.spotify.com/album/5UmQZch97gF84AIdhkRBqI) | 4:29 | 2025-09-12 |  |

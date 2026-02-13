@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to women at full volume\. Co\-curated by Miss Kaninna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,497 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,492 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 69 | [need u worse](https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [need u worse](https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM) | 3:45 |
 | 70 | [Matisses Garden](https://open.spotify.com/track/0UrGBqyFGWd02fkVLfoJDJ) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Heavenly Hell of Mine](https://open.spotify.com/album/5wSbwauDyRLmuha5YxLuNR) | 2:55 |
 
-Snapshot ID: `AAAAAKsqoSIsxTiWVHqfEe7wtTLcTFSw`
+Snapshot ID: `AAAAAPCVQj0+IybIaVkX9RQhDuprqfcL`

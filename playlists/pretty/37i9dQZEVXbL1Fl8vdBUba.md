@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,154 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,163 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [Se Acabó](https://open.spotify.com/track/2T6BBNQW4t81x2ddqWrGzs) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Se Acabó](https://open.spotify.com/album/51DJQhb22aSZFsz6tTBY23) | 2:46 |
 | 50 | [Ya No Mi Amor](https://open.spotify.com/track/7qbPQqOYYMPdQqRqv7bNin) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Todo de Mi \(Vol\. 4\)](https://open.spotify.com/album/07PyHnjYzUmaQAjKK5WtCk) | 3:20 |
 
-Snapshot ID: `MR/pmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MSE7GAAAAAAAAAAAAAAAAAAAAAAAAGVu`

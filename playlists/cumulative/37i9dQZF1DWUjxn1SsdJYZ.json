@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: Dera Meelan, deadforest",
+  "description": "The best new AUS & NZ Rap. Cover: trials",
   "name": "Local Hype",
   "tracks": [
     {
@@ -2017,6 +2017,24 @@
     },
     {
       "album": {
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/1YmnEsbUpnNVqPPLFrflzu"
+      },
+      "artists": [
+        {
+          "name": "Mthirty2",
+          "url": "https://open.spotify.com/artist/0SbdFaZMg53j4wPSizNhOi"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/3XWhOtA0BA9XIvllqiAlys"
+    },
+    {
+      "album": {
         "name": "Badmind",
         "url": "https://open.spotify.com/album/4nd8q7HZwmxtfKUmBAEvWu"
       },
@@ -3104,7 +3122,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 229175,
       "name": "BLAK",
       "url": "https://open.spotify.com/track/2liTiTaaNaWC2XmNU7fo7d"
@@ -6227,6 +6245,28 @@
     },
     {
       "album": {
+        "name": "DIAMONDS",
+        "url": "https://open.spotify.com/album/5ZQpM5v2Z299RnaBqu0i6o"
+      },
+      "artists": [
+        {
+          "name": "DeeKay",
+          "url": "https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi"
+        },
+        {
+          "name": "Qrystral",
+          "url": "https://open.spotify.com/artist/35MyX3xFMNLf5BB73BXPmF"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134145,
+      "name": "DIAMONDS",
+      "url": "https://open.spotify.com/track/2IgeAzEPYReAtN6SCy2Jm9"
+    },
+    {
+      "album": {
         "name": "Die Young (Freestyle)",
         "url": "https://open.spotify.com/album/7vNXmSOmVFDo7GnsKNrU2z"
       },
@@ -9205,6 +9245,24 @@
     },
     {
       "album": {
+        "name": "FTF",
+        "url": "https://open.spotify.com/album/3rSY1ggsNqyRxqOy39eytW"
+      },
+      "artists": [
+        {
+          "name": "Urthboy",
+          "url": "https://open.spotify.com/artist/2j9Ronn6pPSxcsqnDbVGpZ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176128,
+      "name": "FTF",
+      "url": "https://open.spotify.com/track/6pvGnwY71pfsg5NADNiZfF"
+    },
+    {
+      "album": {
         "name": "Ftt",
         "url": "https://open.spotify.com/album/3Ow77aEwcuonrv8lnB6bOX"
       },
@@ -11349,6 +11407,24 @@
     },
     {
       "album": {
+        "name": "HIYA",
+        "url": "https://open.spotify.com/album/6E5uQyjOoX1MMZZACNoGBu"
+      },
+      "artists": [
+        {
+          "name": "Eco$ystem",
+          "url": "https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128978,
+      "name": "HIYA",
+      "url": "https://open.spotify.com/track/3gS8kc8bloDNOfHY0m9bHL"
+    },
+    {
+      "album": {
         "name": "HNL",
         "url": "https://open.spotify.com/album/7vsrshJJAAW5AQJDcRo6Jx"
       },
@@ -12626,7 +12702,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 156898,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/1qYalXlo1QlcuK2D2QCkMV"
@@ -13108,7 +13184,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 137551,
       "name": "JIMMY CHOO",
       "url": "https://open.spotify.com/track/0XOVfr5TugE8BXPjcx1twT"
@@ -14758,7 +14834,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 151698,
       "name": "LIKE THIS LIKE THAT",
       "url": "https://open.spotify.com/track/2yrfdCbkMEjP41qKoejhya"
@@ -15140,7 +15216,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 205778,
       "name": "Lost For Words",
       "url": "https://open.spotify.com/track/4H9YOgkf9tWbOWgyHT8pWf"
@@ -17514,7 +17590,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 115596,
       "name": "night in tokyo!",
       "url": "https://open.spotify.com/track/0enPdppIOTmn6gZGJbeJzS"
@@ -20626,6 +20702,24 @@
       "duration_ms": 185147,
       "name": "Purpose (feat. Mozzy)",
       "url": "https://open.spotify.com/track/1XaWTPtB35bNSAEDbcMy4Q"
+    },
+    {
+      "album": {
+        "name": "purr",
+        "url": "https://open.spotify.com/album/6BoSFktsADncIRfBD7vrAz"
+      },
+      "artists": [
+        {
+          "name": "leecerti",
+          "url": "https://open.spotify.com/artist/4GCBx9G31irWT77xXxWrSA"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117089,
+      "name": "purr",
+      "url": "https://open.spotify.com/track/5WKEBmDB1Fxgfrodra8MkI"
     },
     {
       "album": {
@@ -26407,6 +26501,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Stt Laurentt",
+          "url": "https://open.spotify.com/artist/3bK45aFdXNXZLb5c7ROQkw"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3xQO1amVMF5UBJR7YbkhSH"
+    },
+    {
+      "album": {
         "name": "Tracy Grimshaw",
         "url": "https://open.spotify.com/album/1ghL7G8aaYQytUHspjSEGA"
       },
@@ -26694,7 +26806,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 192008,
       "name": "Try Me",
       "url": "https://open.spotify.com/track/19z986PgphGLQvBEfYSrvU"
@@ -26868,7 +26980,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 128718,
       "name": "Two Lowkeyy",
       "url": "https://open.spotify.com/track/1AULDjBtD0cE7sHd1B0rFL"
@@ -27655,6 +27767,24 @@
     },
     {
       "album": {
+        "name": "Waist Up",
+        "url": "https://open.spotify.com/album/3TqRlRn2nBR9W0Zk4gedmJ"
+      },
+      "artists": [
+        {
+          "name": "Juiceboxx",
+          "url": "https://open.spotify.com/artist/63ogWsfipDtWKUz9IaiI33"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155723,
+      "name": "Waist Up",
+      "url": "https://open.spotify.com/track/1AHqfSNljYdDWucUYSkjx0"
+    },
+    {
+      "album": {
         "name": "Wake Me",
         "url": "https://open.spotify.com/album/6FtcifEcQr5sImoXIqrXPx"
       },
@@ -28374,6 +28504,24 @@
       "duration_ms": 157714,
       "name": "What We Saying?",
       "url": "https://open.spotify.com/track/4MkcARWzqjSsoLe7vUBoZt"
+    },
+    {
+      "album": {
+        "name": "what's the colour of love? / you could never hate me (like I do)",
+        "url": "https://open.spotify.com/album/3ndUyhFwl3GCJvCT6KU87V"
+      },
+      "artists": [
+        {
+          "name": "trials",
+          "url": "https://open.spotify.com/artist/3vDxmrKt8X4CQl0RmDLVai"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190173,
+      "name": "what's the colour of love?",
+      "url": "https://open.spotify.com/track/68Lr6H2MZE9R0TXL8xfrrQ"
     },
     {
       "album": {

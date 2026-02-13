@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6765\u65e5\u5e0c\u671b\uff01\u30e9\u30a4\u30d6\u3067\u89b3\u305f\u3044\u6ce8\u76ee\u306e\u6d77\u5916\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: Charlotte Day Wilson",
+  "description": "\u6765\u65e5\u5e0c\u671b\uff01\u30e9\u30a4\u30d6\u3067\u89b3\u305f\u3044\u6ce8\u76ee\u306e\u6d77\u5916\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: CA7RIEL & Paco Amoroso & Sting",
   "name": "The WISHLIST",
   "tracks": [
     {
@@ -626,6 +626,24 @@
       "duration_ms": 210338,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/14bmkoHIGDA4F3coRG6d2O"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183975,
+      "name": "Always Everywhere",
+      "url": "https://open.spotify.com/track/6fGapufucZHPva1kvCqceA"
     },
     {
       "album": {
@@ -2349,6 +2367,28 @@
     },
     {
       "album": {
+        "name": "Clay",
+        "url": "https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        },
+        {
+          "name": "ttoh",
+          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "Clay",
+      "url": "https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix"
+    },
+    {
+      "album": {
         "name": "Clean Heart",
         "url": "https://open.spotify.com/album/4PBjg8iIHZH283BSRNIszV"
       },
@@ -3114,7 +3154,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 206028,
       "name": "Death of Love",
       "url": "https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6"
@@ -5203,6 +5243,28 @@
     },
     {
       "album": {
+        "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
+        "url": "https://open.spotify.com/album/4rexjxUcUzdrbuXuc2H0LY"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195008,
+      "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
+      "url": "https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94"
+    },
+    {
+      "album": {
         "name": "Rockwood",
         "url": "https://open.spotify.com/album/3Kb9vAa1RBNXEQltJpPxwE"
       },
@@ -7012,7 +7074,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 218933,
       "name": "Kurayami",
       "url": "https://open.spotify.com/track/0Sxq0LWeaTFraveN6P8Vne"
@@ -7544,7 +7606,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
@@ -8052,7 +8114,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
@@ -11400,6 +11462,24 @@
       "duration_ms": 192573,
       "name": "Some Type Of Skin",
       "url": "https://open.spotify.com/track/5CguvtN2MvxSmtSR23UNOd"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "somebody you're supposed to love",
+      "url": "https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd"
     },
     {
       "album": {

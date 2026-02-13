@@ -994,7 +994,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 199830,
       "name": "Beneath My Skin",
       "url": "https://open.spotify.com/track/3YS9z1r7MUsI8RxhdnCFnI"
@@ -3216,7 +3216,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 172796,
       "name": "Cupkeek",
       "url": "https://open.spotify.com/track/400g9PdnTjF15IYy947Blq"
@@ -3428,7 +3428,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-01",
+      "date_removed": null,
       "duration_ms": 157613,
       "name": "De Tent Moet Op Z'n Kop",
       "url": "https://open.spotify.com/track/0mrH6rhI90NeoXXhI2xT6p"
@@ -4128,7 +4128,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 152380,
       "name": "Drankorgel",
       "url": "https://open.spotify.com/track/3IGaFZt7Ctu3d7QMkyhS5z"
@@ -5280,7 +5280,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 198449,
       "name": "Gebaore um te laeve",
       "url": "https://open.spotify.com/track/4vKcQVLkc29puSMCa8SI20"
@@ -6656,7 +6656,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 170625,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
@@ -7238,7 +7238,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 204821,
       "name": "Ik Wooj Nie Gaon",
       "url": "https://open.spotify.com/track/36xEkavf3iEhdjdy8fzcvZ"
@@ -9438,7 +9438,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 128014,
       "name": "Meisje",
       "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
@@ -10890,7 +10890,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Oeteldonk Met Jou",
       "url": "https://open.spotify.com/track/2Urevob1PzRlHazFLyCmaQ"
@@ -11254,7 +11254,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
@@ -13551,6 +13551,24 @@
     },
     {
       "album": {
+        "name": "Terug over de Maas",
+        "url": "https://open.spotify.com/album/3YQNpAoJVlZ1oIEAt1hxMb"
+      },
+      "artists": [
+        {
+          "name": "C.V. de Kapotte Kachels",
+          "url": "https://open.spotify.com/artist/0YqkHSocHDMPgmp7pGn9R8"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201183,
+      "name": "Terug over de Maas",
+      "url": "https://open.spotify.com/track/51CMEEvWkKz5jCtUHHDfQO"
+    },
+    {
+      "album": {
         "name": "That Acid",
         "url": "https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL"
       },
@@ -13584,7 +13602,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 181565,
       "name": "That's the Way It Is",
       "url": "https://open.spotify.com/track/3IN5K5LG1EGzFak9e0GNrC"
@@ -14206,7 +14224,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 121739,
       "name": "TIKI TIKI - Slowed",
       "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
@@ -14308,6 +14326,24 @@
       "duration_ms": 173373,
       "name": "Tirol - Remastered 2019",
       "url": "https://open.spotify.com/track/1ztXLrHOxpIF7mBJ3oTakZ"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "album": {

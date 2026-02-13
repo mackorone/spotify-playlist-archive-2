@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Homegrown emerging pop! Cover: Freya Skye",
+  "description": "Homegrown emerging pop! Cover: MEEK",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 301681,
       "name": "Belly Laugh",
       "url": "https://open.spotify.com/track/7bPOVdLWSE3ZLuLlnvS2F0"
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 212044,
       "name": "Blame Game",
       "url": "https://open.spotify.com/track/4qd83UB48FdKq1jcozeLXI"
@@ -2042,6 +2042,24 @@
     {
       "album": {
         "name": "Blue",
+        "url": "https://open.spotify.com/album/7dABaHFKjSJoVKRBHHpL9u"
+      },
+      "artists": [
+        {
+          "name": "Mae Stephens",
+          "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229087,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7jzAGxJ1mdurwfeWFZYi1B"
+    },
+    {
+      "album": {
+        "name": "Blue",
         "url": "https://open.spotify.com/album/3LyaOh01KBQsQ0dSBJhIYz"
       },
       "artists": [
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 154000,
       "name": "Blushing at the BP",
       "url": "https://open.spotify.com/track/0iNgtJmvz23Q77QZetusO1"
@@ -2866,7 +2884,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 171147,
       "name": "can't say no",
       "url": "https://open.spotify.com/track/5aahxne9UEjbACb9zViMRI"
@@ -4949,6 +4967,24 @@
     },
     {
       "album": {
+        "name": "DON\u2019T YOU SEE ME TRYING?",
+        "url": "https://open.spotify.com/album/45G45NGEm8UTHnv58OZry1"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213887,
+      "name": "DON\u2019T YOU SEE ME TRYING?",
+      "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
+    },
+    {
+      "album": {
         "name": "Double Edged Sword",
         "url": "https://open.spotify.com/album/10E3qrwPpiy3QXLrzARadz"
       },
@@ -5018,6 +5054,24 @@
       "duration_ms": 170299,
       "name": "DREAM",
       "url": "https://open.spotify.com/track/7xoYkkwDzXOqNSDXDebwsC"
+    },
+    {
+      "album": {
+        "name": "dream about u",
+        "url": "https://open.spotify.com/album/0xNICx56CgafxDR8sV6wiq"
+      },
+      "artists": [
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170172,
+      "name": "dream about u",
+      "url": "https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs"
     },
     {
       "album": {
@@ -6344,6 +6398,24 @@
       "duration_ms": 190699,
       "name": "Fool!",
       "url": "https://open.spotify.com/track/146kFAUiGb8ct4x8Mr0so1"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3EQO3rDWtGgMrVby1xtuCi"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154126,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/015oTZOFMNR1IhWEKOr1H1"
     },
     {
       "album": {
@@ -8242,7 +8314,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 171957,
       "name": "I Don't Know Me",
       "url": "https://open.spotify.com/track/6T0LlxJeSMgFHzKPWf4NfM"
@@ -10853,6 +10925,24 @@
     },
     {
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7C38anwH8iwBlqHfqZoQnq"
+      },
+      "artists": [
+        {
+          "name": "Ethan Holt",
+          "url": "https://open.spotify.com/artist/6oXVsRBjoHgCew4S8GZDkl"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182630,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2LGyAOcIjuvwoPczGgzOIY"
+    },
+    {
+      "album": {
         "name": "MIRROR",
         "url": "https://open.spotify.com/album/0sdGa2LVBJaOZIEEIeuleT"
       },
@@ -12070,7 +12160,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 189129,
       "name": "Original",
       "url": "https://open.spotify.com/track/0OpVvLqe7KImD3RXXDizTt"
@@ -12178,7 +12268,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 240229,
       "name": "Overkill",
       "url": "https://open.spotify.com/track/1PQdDXskvuR7wvPmotXC1d"
@@ -13256,6 +13346,24 @@
       "duration_ms": 199243,
       "name": "Really Boring",
       "url": "https://open.spotify.com/track/09Iem1QnKSMILt74M4q9Vw"
+    },
+    {
+      "album": {
+        "name": "Recreational",
+        "url": "https://open.spotify.com/album/5khEIs42VqkwaxRqPAUTOT"
+      },
+      "artists": [
+        {
+          "name": "Tsatsamis",
+          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193911,
+      "name": "Recreational",
+      "url": "https://open.spotify.com/track/5MrgJu81wrxihrWz6Q9uEk"
     },
     {
       "album": {
@@ -14877,6 +14985,24 @@
     },
     {
       "album": {
+        "name": "Blue Sky Mentality (Complete Edition)",
+        "url": "https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169880,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE"
+    },
+    {
+      "album": {
         "name": "Poppy",
         "url": "https://open.spotify.com/album/2TtI8fMyIhPwTtGc1xlLnv"
       },
@@ -15972,7 +16098,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 201400,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/1wrVX3ztn5FejxBlOUDclK"
@@ -16905,6 +17031,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/3euczvYqcbmi9UUnQUPHMQ"
+    },
+    {
+      "album": {
         "name": "trespass coat",
         "url": "https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1"
       },
@@ -16938,7 +17082,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 188000,
       "name": "Trophy",
       "url": "https://open.spotify.com/track/54r9LQzaIxObTwYrD6u5pk"
@@ -17612,6 +17756,24 @@
       "duration_ms": 197142,
       "name": "Who Was I To Want You?",
       "url": "https://open.spotify.com/track/4nxj9eOuViWebmLnJWZBk5"
+    },
+    {
+      "album": {
+        "name": "Who's That Girl?",
+        "url": "https://open.spotify.com/album/4bhFCWFEcXb1iXNzPy56Y2"
+      },
+      "artists": [
+        {
+          "name": "Libby Whitehouse",
+          "url": "https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173336,
+      "name": "Who's That Girl?",
+      "url": "https://open.spotify.com/track/1RpalsoRpOhj8sGHQcvgeV"
     },
     {
       "album": {

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTbGYZ9Pq4TH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTbGYZ9Pq4TH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWTbGYZ9Pq4TH)
 
-### [Canzoni d'amore italiane](https://open.spotify.com/playlist/37i9dQZF1DWTbGYZ9Pq4TH)
+### [San Valentino 2026](https://open.spotify.com/playlist/37i9dQZF1DWTbGYZ9Pq4TH)
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-261 songs - 16 hr 46 min
+262 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Inevitabile \(feat\. Eros Ramazzotti\)](https://open.spotify.com/track/2ZMNdZoaXrGjwPjSxRvw1H) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dietro Le Apparenze](https://open.spotify.com/album/2rOZXRaWqDzbGdISSDQXjC) | 3:54 | 2021-09-26 | 2025-06-25 |
 | [Infinito](https://open.spotify.com/track/713hKoyY39jOdW6aEfFd8A) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/7fTv0aFzQRR1LSta69B3N9) | 4:56 | 2021-09-26 | 2022-07-29 |
 | [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 | 2021-09-26 | 2024-04-03 |
+| [Ipernova](https://open.spotify.com/track/1TaSkLG2bXx84YuKmJvncw) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [Butterfly Effect](https://open.spotify.com/album/0y4WMwCamrMPOfqa470j4Y) | 2:57 | 2026-02-12 |  |
 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ) | 3:58 | 2021-09-26 | 2024-04-19 |
 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/5LGWbFTVLPEvuvkwy9nXiv) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/1vQfL4IdQZAaFpUX0Sxn3w) | 3:58 | 2021-09-26 | 2022-07-29 |
 | [L Ultimo Bacio](https://open.spotify.com/track/382GAiDqEcoSjbpMrhExs6) | [Carmen Consoli](https://open.spotify.com/artist/6C3OLzdOvBI9yCOCf7iC4E) | [Stato Di Necessita](https://open.spotify.com/album/3nCPg2QVfSLwOOiQgja32o) | 3:24 | 2021-09-26 | 2022-07-18 |
@@ -131,7 +132,7 @@
 | [La prima cosa bella](https://open.spotify.com/track/4VbK4kLSKzJ5sgsdZWmAJ9) | [Malika Ayane](https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5) | [Grovigli](https://open.spotify.com/album/2n64YwFYEsVx4cmKmFFDZW) | 3:37 | 2021-09-26 | 2022-07-29 |
 | [La Prima Volta](https://open.spotify.com/track/1Kfzmp5K4glWRKzsyQL9pI) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Amore Che Torni](https://open.spotify.com/album/1K4sRqrwNiPf51cjIDjc8J) | 3:58 | 2024-02-13 | 2024-04-03 |
 | [La prima volta](https://open.spotify.com/track/3kIxACxR2tDPtKCWWa16lq) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Amore che torni](https://open.spotify.com/album/3tG9l5R3MTk4hWUEHoPCYc) | 3:58 | 2021-09-26 | 2022-07-29 |
-| [La ragazza con il cuore di latta](https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Giovani per sempre](https://open.spotify.com/album/3zV92qqfkqOO30bMkyoiKE) | 3:42 | 2024-02-13 |  |
+| [La ragazza con il cuore di latta](https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Giovani per sempre](https://open.spotify.com/album/3zV92qqfkqOO30bMkyoiKE) | 3:42 | 2024-02-13 | 2026-02-13 |
 | [La stessa](https://open.spotify.com/track/0x7pHyBX8Ph2j4knBp1he9) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [La stessa](https://open.spotify.com/album/6CSM8IX1E61Sfh9uX6J5iU) | 3:45 | 2021-09-26 | 2022-06-29 |
 | [La storia infinita](https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:27 | 2021-09-26 |  |
 | [La tua canzone](https://open.spotify.com/track/17ctLiAYSfZkL8ksjtSchO) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/5IMzuX8ITydV8NBq10xG2T) | 3:12 | 2025-05-28 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Matylda/\u0141ukasiewicz",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Kuba Kara\u015b",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Ania",
+        "url": "https://open.spotify.com/album/2f8jxVtiBGmS8oAFsMwLNG"
+      },
+      "artists": [
+        {
+          "name": "Ralph Kaminski",
+          "url": "https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327056,
+      "name": "Ania",
+      "url": "https://open.spotify.com/track/0VCF9pfUVC5dsP8MkVkaQx"
+    },
+    {
+      "album": {
         "name": "Wosk & Z\u0142oto",
         "url": "https://open.spotify.com/album/7hilFQg2Dt9K19npEpQpyQ"
       },
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 170256,
       "name": "Ba\u0142aganiara",
       "url": "https://open.spotify.com/track/7xM5ProCo7fjxnKMR8j82n"
@@ -5378,7 +5396,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 233833,
       "name": "D\u017awi\u0119czno\u015b\u0107",
       "url": "https://open.spotify.com/track/0sSyWoZA19MhqtdBwqHFGm"
@@ -5414,7 +5432,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 260475,
       "name": "Echo jego krok\u00f3w",
       "url": "https://open.spotify.com/track/3RBgH0TbwfDoGD8qx8Bth4"
@@ -5623,6 +5641,28 @@
     },
     {
       "album": {
+        "name": "Etiuda nr4 O.S.T.R.",
+        "url": "https://open.spotify.com/album/0zZX4PfRbWgkF9z7axKfjg"
+      },
+      "artists": [
+        {
+          "name": "JIMEK",
+          "url": "https://open.spotify.com/artist/0ij2PQYebfZF0UuitRTeyh"
+        },
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366004,
+      "name": "Etiuda nr4 O.S.T.R.",
+      "url": "https://open.spotify.com/track/3R1arpF9KPIsxu4yaQhumP"
+    },
+    {
+      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/0DgOhmSqyWoxpSKFmDJFvZ"
       },
@@ -5692,7 +5732,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 182068,
       "name": "Eyes wide open",
       "url": "https://open.spotify.com/track/1OM5jb3rUGHM1GqTSkX6Jc"
@@ -8746,7 +8786,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 201234,
       "name": "Kocham Polsk\u0119",
       "url": "https://open.spotify.com/track/6foZ6NuVctp0lOSzWgbWEM"
@@ -8974,7 +9014,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 227071,
       "name": "Koniec Mi\u0142o\u015bci",
       "url": "https://open.spotify.com/track/0u4u0BbacuC7Zc5dWF9toK"
@@ -13202,7 +13242,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 171707,
       "name": "NIC PI\u0118KNEGO (toxic)",
       "url": "https://open.spotify.com/track/3kD1RxoqMGagDRxGK3Qgin"
@@ -13678,6 +13718,28 @@
       "duration_ms": 186551,
       "name": "Nie mog\u0119 Ci\u0119 pozna\u0107",
       "url": "https://open.spotify.com/track/68crcVC3Nt2qYM2BAVQVnk"
+    },
+    {
+      "album": {
+        "name": "Nie mo\u017cesz teraz odej\u015b\u0107",
+        "url": "https://open.spotify.com/album/6A5gCbv9wOQ3cvsvBdRUBY"
+      },
+      "artists": [
+        {
+          "name": "AJLA",
+          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
+        },
+        {
+          "name": "2K88",
+          "url": "https://open.spotify.com/artist/1U1CwZeD8SU65TWHjLoPFY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200347,
+      "name": "Nie mo\u017cesz teraz odej\u015b\u0107",
+      "url": "https://open.spotify.com/track/1J8gF267PesNe2tS1mdldL"
     },
     {
       "album": {
@@ -14348,7 +14410,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 236249,
       "name": "Nienawidzisz",
       "url": "https://open.spotify.com/track/3hZY4ACHC3uSFZo4h8DWp8"
@@ -14922,6 +14984,24 @@
       "duration_ms": 123926,
       "name": "Obcy",
       "url": "https://open.spotify.com/track/7uTy7WDCGtdnakxx77BfbS"
+    },
+    {
+      "album": {
+        "name": "OBEJMIJ MNIE",
+        "url": "https://open.spotify.com/album/6GEiEU87XLNvFL0Nyh9qMa"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kara\u015b",
+          "url": "https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "OBEJMIJ MNIE",
+      "url": "https://open.spotify.com/track/7ii4ALWWkeu51XArlxB9LP"
     },
     {
       "album": {
@@ -16693,6 +16773,24 @@
     },
     {
       "album": {
+        "name": "Po por\u0119czy",
+        "url": "https://open.spotify.com/album/6Rkb9BJhGcE3zptWifiHdh"
+      },
+      "artists": [
+        {
+          "name": "Ganczarska",
+          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Po por\u0119czy",
+      "url": "https://open.spotify.com/track/2CQA17w6FLYWYnubcTQgov"
+    },
+    {
+      "album": {
         "name": "Po prostu to powiedz",
         "url": "https://open.spotify.com/album/2bXf395T93fXboKkiBMqRD"
       },
@@ -17774,7 +17872,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 260704,
       "name": "Pyszny",
       "url": "https://open.spotify.com/track/62HzWhYc6gFKFxw65riAvt"
@@ -19011,6 +19109,28 @@
     },
     {
       "album": {
+        "name": "SENSU K\u0118S (Piosenka z filmu PSOTY)",
+        "url": "https://open.spotify.com/album/3bZzAj9dotp3ygbBoyY7bx"
+      },
+      "artists": [
+        {
+          "name": "Maria Peszek",
+          "url": "https://open.spotify.com/artist/2bJ904AqmK8LRH9fGShlQM"
+        },
+        {
+          "name": "Smolik",
+          "url": "https://open.spotify.com/artist/3QyqTTQgSUaa449m8u6vpR"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204285,
+      "name": "SENSU K\u0118S (Piosenka z filmu PSOTY)",
+      "url": "https://open.spotify.com/track/5nNYKLmbu4NcGHqzr9UXia"
+    },
+    {
+      "album": {
         "name": "Sentimental Value",
         "url": "https://open.spotify.com/album/4AZsAwLC2BoPWw9sZYuJfi"
       },
@@ -19956,6 +20076,24 @@
       "duration_ms": 197303,
       "name": "Sta\u0142y l\u0105d",
       "url": "https://open.spotify.com/track/4u3HZaqbIzWxmDXOsiF3rC"
+    },
+    {
+      "album": {
+        "name": "STILO",
+        "url": "https://open.spotify.com/album/3BYxShsgOuq8gZIz1LhM4f"
+      },
+      "artists": [
+        {
+          "name": "Reni Jusis",
+          "url": "https://open.spotify.com/artist/5tV1Vm3Zn8D0tmPHohokmC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233193,
+      "name": "STILO",
+      "url": "https://open.spotify.com/track/2NQJnwnihKcuwRkMilmQa5"
     },
     {
       "album": {
@@ -21208,6 +21346,24 @@
       "duration_ms": 185862,
       "name": "Tematy Rodzinne",
       "url": "https://open.spotify.com/track/0VixvaukgF0geEyZC5pUP3"
+    },
+    {
+      "album": {
+        "name": "Ten sam film",
+        "url": "https://open.spotify.com/album/2ddM9dE15FAXt36wHSc8za"
+      },
+      "artists": [
+        {
+          "name": "Sonbird",
+          "url": "https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241082,
+      "name": "Ten sam film",
+      "url": "https://open.spotify.com/track/6XGfy00MfHsHuTfxPXUBC2"
     },
     {
       "album": {
@@ -23157,6 +23313,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230669,
+      "name": "Walczyk",
+      "url": "https://open.spotify.com/track/29edwTF4pFcJWpmCDAkJiV"
+    },
+    {
+      "album": {
         "name": "Wanna",
         "url": "https://open.spotify.com/album/5tphz89Bda8hkU3DR2DH2h"
       },
@@ -24734,7 +24908,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 161519,
       "name": "Za kulisami",
       "url": "https://open.spotify.com/track/1tlywl3igNTLsJGdZ1pTJf"
@@ -26784,6 +26958,24 @@
       "duration_ms": 167389,
       "name": "\u017byczenie",
       "url": "https://open.spotify.com/track/1fQHKxZhGY3uZRVlPqZelN"
+    },
+    {
+      "album": {
+        "name": "\u017byczenie o mi\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/50OLOJIpuCRiJ5FtR90KpP"
+      },
+      "artists": [
+        {
+          "name": "PAULA ROMA",
+          "url": "https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185322,
+      "name": "\u017byczenie o mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/4KNc5NUnABAVCRBpwTzPyu"
     },
     {
       "album": {

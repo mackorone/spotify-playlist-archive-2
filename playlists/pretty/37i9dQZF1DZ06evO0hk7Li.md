@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,164 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,166 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 |
 | 50 | [Home](https://open.spotify.com/track/3mVAVmOOPfix072ec37bNe) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:28 |
 
-Snapshot ID: `aYp1AAAAAAC9pt26wVkUid6tTPmTelxH`
+Snapshot ID: `aYvGgAAAAADXGtX8SLEWkaWKKkZ/hwh2`

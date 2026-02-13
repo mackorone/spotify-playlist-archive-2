@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 45469,
+  "num_followers": 45471,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAZ0b3mBX8LZ0PXZs5amKfe",
+  "snapshot_id": "aYvGgAAAAADzAy6ZVznnsFsdB23Jakbi",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 285439,
-      "name": "Broken Together",
-      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Next Thing",
         "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 271146,
       "name": "Loving My Jesus",
       "url": "https://open.spotify.com/track/0qZXAGI1FPTn0IM7tvyqrJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 285439,
+      "name": "Broken Together",
+      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 244067,
-      "name": "All You've Ever Wanted",
-      "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Altar and The Door",
         "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 170520,
       "name": "Prayer For A Friend",
       "url": "https://open.spotify.com/track/5Z3bMmjkkSmTE4JxlF0W6i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 244067,
+      "name": "All You've Ever Wanted",
+      "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
     },
     {
       "added_at": null,

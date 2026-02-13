@@ -4,7 +4,7 @@
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-296 songs - 17 hr 47 min
+297 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [もう一度](https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [もう一度](https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey) | 4:10 | 2024-03-19 |  |
 | [ら、のはなし](https://open.spotify.com/track/2tgWF9EZzqiq4Qzdzeow1A) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞬間的シックスセンス](https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA) | 3:01 | 2024-10-01 |  |
 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 | 2023-11-23 |  |
+| [アクション](https://open.spotify.com/track/1Dp1j8ohcjGTJhswwYWl5u) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [アクション](https://open.spotify.com/album/40d2UkPaT4bv8edR0RFiSx) | 2:53 | 2026-02-03 |  |
 | [イオ](https://open.spotify.com/track/39VPDfAqvjOhiA4EmikYeD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [イオ](https://open.spotify.com/album/4xNg6oWMihtDxAg6zttebV) | 3:03 | 2025-09-02 | 2025-11-19 |
 | [インスタントナイト](https://open.spotify.com/track/1EIrS41eC3e5siU3AwaavQ) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [インスタントナイト](https://open.spotify.com/album/4l1utK1rQkadl8fqFXUTFe) | 3:00 | 2026-02-03 |  |
 | [オッドアイ](https://open.spotify.com/track/4dW5jPBXRv5Hjm2qkjix5O) | [OSHIKIKEIGO](https://open.spotify.com/artist/1Ez9f0zAhT2srrAYEXDMSw) | [オッドアイ](https://open.spotify.com/album/14OG7nNP5lSoE5Ct7fmwg5) | 3:03 | 2025-05-13 | 2025-08-20 |
@@ -266,7 +267,7 @@
 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 | 2023-11-23 | 2024-02-21 |
 | [有象無象](https://open.spotify.com/track/2PqafwLuRumuEedFw5en3T) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [有象無象](https://open.spotify.com/album/1TcnlwPALhNvklfk5430zq) | 2:40 | 2024-02-20 | 2024-11-06 |
 | [本屋の](https://open.spotify.com/track/64bC8F3bJllEuQnpCqv9mu) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [こんなところに居たのかやっと見つけたよ](https://open.spotify.com/album/3FZSKRPIEk31tqpdnZLZCa) | 3:28 | 2024-12-03 | 2025-02-26 |
-| [本当なんてぶっ飛ばしてよ](https://open.spotify.com/track/7wHtfzKFqvr6fUkKzhMr1c) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [本当なんてぶっ飛ばしてよ](https://open.spotify.com/album/7wORMIt9AD7HhN5FJTV9tG) | 3:16 | 2025-11-18 |  |
+| [本当なんてぶっ飛ばしてよ](https://open.spotify.com/track/7wHtfzKFqvr6fUkKzhMr1c) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [本当なんてぶっ飛ばしてよ](https://open.spotify.com/album/7wORMIt9AD7HhN5FJTV9tG) | 3:16 | 2025-11-18 | 2026-02-13 |
 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 | 2024-03-19 |  |
 | [東京ゴッドストリートボーイズ](https://open.spotify.com/track/2nXJEs0KZQeNbPBNq9LFuJ) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [THE GOLDEN PROTOTYPE.](https://open.spotify.com/album/6bSIAAgutYicD50L9Bt2yl) | 3:50 | 2026-01-20 |  |
 | [欲望に満ちた青年団](https://open.spotify.com/track/6D6Pybzey0shI8U9ttRAPx) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [ゼイタクビョウ](https://open.spotify.com/album/46tj8YcIiWYdrkS8QcDNrP) | 3:22 | 2024-03-19 | 2026-01-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 > This is Danny Ocean\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,068 likes - 46 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,209 likes - 46 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 37 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 |
 | 38 | [Tú no me conoces](https://open.spotify.com/track/0JzUsZUR6ZySpPNrWRvcL3) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:29 |
 | 39 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
-| 40 | [YELIANA \- Cap\. 3 \- ZHA](https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [YELIANA\-Cap.3\-ZHA](https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H) | 2:20 |
-| 41 | [EIVISSA](https://open.spotify.com/track/3kcj2zzabr8qnR4MnMeWv2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:20 |
+| 40 | [EIVISSA](https://open.spotify.com/track/3kcj2zzabr8qnR4MnMeWv2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:20 |
+| 41 | [YELIANA \- Cap\. 3 \- ZHA](https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [YELIANA\-Cap.3\-ZHA](https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H) | 2:20 |
 | 42 | [Istanbul](https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:28 |
 | 43 | [No te enamores de él](https://open.spotify.com/track/4HHmfquDNTjYSnj6BHTNjg) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:17 |
 | 44 | [por la pequeña Venecia](https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:02 |
 | 45 | [Alma Llanera / Venezuela \- Live from Nobel Peace Prize 2025](https://open.spotify.com/track/2pvoBWRbXGXQrGgQF6swxn) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Alma Llanera / Venezuela \(Live from Nobel Peace Prize 2025\)](https://open.spotify.com/album/1ZlHS1USF0HZtjBngdLwu1) | 3:58 |
 | 46 | [Pa' Qué Te Quedas](https://open.spotify.com/track/5JB3jzYaeT2TqgoPnSkgcM) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Lo Que Puede Pasar](https://open.spotify.com/album/7cxK8DbJ1Sk5xvAyf9pbHC) | 3:53 |
 
-Snapshot ID: `aYp1AAAAAACFwViAKutdkFraas5AqUYw`
+Snapshot ID: `aYvGgAAAAAABYqIzBhI5nQAcrexNZwDA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,622 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,627 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 35 | [Yuyo Verde](https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 3:25 |
 | 36 | [Muñeca Brava](https://open.spotify.com/track/52e64XTYEcYdbe6RmTr6a7) | [Alberto Castillo](https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD) | [Los Cien Barrios Porteños](https://open.spotify.com/album/5mfNbUxufnu0rKy61i3Qzq) | 2:50 |
 | 37 | [Flor de lino \- Live](https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc) | [Horacio Molina](https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs) | [A Pedido](https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9) | 3:31 |
-| 38 | [Si Sos Brujo](https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX) | [Alfredo Gobbi](https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7) | [Si Sos Brujo](https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh) | 3:29 |
-| 39 | [Volvio Una Noche](https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF) | [Hugo Díaz](https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp) | [Tangos](https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow) | 2:57 |
+| 38 | [Volvio Una Noche](https://open.spotify.com/track/68THpR3S0feDgxYWfqbOrF) | [Hugo Díaz](https://open.spotify.com/artist/45sN1U4xtrQEyzIaOUmavp) | [Tangos](https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow) | 2:57 |
+| 39 | [Si Sos Brujo](https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX) | [Alfredo Gobbi](https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7) | [Si Sos Brujo](https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh) | 3:29 |
 | 40 | [Romance de barrio](https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Manzi, caminos de barro y pampa](https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG) | 3:36 |
 | 41 | [El Corazón al Sur](https://open.spotify.com/track/1sht3HgBWK4yOybGHEGqRE) | [Ines Cuello](https://open.spotify.com/artist/2oSavI1BxsBaEPeMCUfgiW), [Ramón Maschio](https://open.spotify.com/artist/31IEd3TrZZ2wGU94gvGVNh) | [Canciones del Sur](https://open.spotify.com/album/1ZuMiZAxMUM7Q5p3FCKZRy) | 3:25 |
 | 42 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 |

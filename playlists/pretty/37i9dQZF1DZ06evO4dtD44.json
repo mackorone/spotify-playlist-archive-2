@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 62649,
+  "num_followers": 62656,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADOxgycAE3cgqIQLpC6zRZ3",
+  "snapshot_id": "aYvGgAAAAABDlkf3GTDkRb8FV1QdF/sN",
   "tracks": [
     {
       "added_at": null,
@@ -151,8 +151,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bossa Nova Caf\u00e9",
-        "url": "https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz"
+        "name": "Chega de saudade de Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
       },
       "artists": [
         {
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 72671,
-      "name": "Bim Bom",
-      "url": "https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M"
+      "duration_ms": 118120,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/4nzYyJpRLCDY1m7kV5eHQE"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de saudade de Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
+        "name": "Bossa Nova Caf\u00e9",
+        "url": "https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 118120,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/4nzYyJpRLCDY1m7kV5eHQE"
+      "duration_ms": 72671,
+      "name": "Bim Bom",
+      "url": "https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M"
     },
     {
       "added_at": null,
@@ -712,41 +712,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 171253,
-      "name": "Um Abraco No Bonfa - Live At Carnegie Hall/1964",
-      "url": "https://open.spotify.com/track/7liJC6YxpvOly4zq6X5JJg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chega de Saudade",
-        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 119200,
-      "name": "\u00c9 Luxo S\u00f3 - Ultimate Mix",
-      "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jo\u00e3o Voz E Viol\u00e3o",
-        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "Nao Vou Pra Casa",
-      "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
+      "duration_ms": 129720,
+      "name": "Bim Bom - Live At Carnegie Hall/1964",
+      "url": "https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1"
     },
     {
       "added_at": null,
@@ -767,6 +735,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jo\u00e3o Voz E Viol\u00e3o",
+        "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "Nao Vou Pra Casa",
+      "url": "https://open.spotify.com/track/4sw0RHCif9pADb47PxGDMk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chega de Saudade",
+        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 119200,
+      "name": "\u00c9 Luxo S\u00f3 - Ultimate Mix",
+      "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz/Gilberto #2",
         "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
       },
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 129720,
-      "name": "Bim Bom - Live At Carnegie Hall/1964",
-      "url": "https://open.spotify.com/track/09DlYtkNWHPwbLjM3VBlR1"
+      "duration_ms": 171253,
+      "name": "Um Abraco No Bonfa - Live At Carnegie Hall/1964",
+      "url": "https://open.spotify.com/track/7liJC6YxpvOly4zq6X5JJg"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coisa Mais Linda",
+        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 149882,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/4zbKBVEs2nE80kDoGTx079"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz / Gilberto \u201876",
         "url": "https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 345851,
       "name": "Aguas de Mar\u00e7o",
       "url": "https://open.spotify.com/track/7yJUX5pmBnJ53YCGkJWLHN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coisa Mais Linda",
-        "url": "https://open.spotify.com/album/5BMFtsnspzFaIevSlyNaeX"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 149882,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/4zbKBVEs2nE80kDoGTx079"
     },
     {
       "added_at": null,

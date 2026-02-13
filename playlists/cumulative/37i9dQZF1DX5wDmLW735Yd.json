@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: S.P.Y",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Skepsis",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 202758,
       "name": "Body Bags",
       "url": "https://open.spotify.com/track/1RlZkdmdRztVfaixVFFzEE"
@@ -4060,7 +4060,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 175172,
       "name": "Check In\u200b",
       "url": "https://open.spotify.com/track/5Rv5N5UpZjtj7T2LD6WJ6G"
@@ -4755,6 +4755,28 @@
     },
     {
       "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/5Uea7eTkedUd4xxj4jS6tb"
+      },
+      "artists": [
+        {
+          "name": "Breakage",
+          "url": "https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187575,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/5GI2QctsuiQejkyfxtg6Xi"
+    },
+    {
+      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/4yzoYL0O0VSACgnOytIqS5"
       },
@@ -5160,6 +5182,28 @@
       "duration_ms": 230539,
       "name": "Dead In The Eye",
       "url": "https://open.spotify.com/track/6e2EhzcXi6ZME0PLitbGD4"
+    },
+    {
+      "album": {
+        "name": "DECISION",
+        "url": "https://open.spotify.com/album/3lZxQ5d18JTOV3mTuEWgqj"
+      },
+      "artists": [
+        {
+          "name": "BSEARL",
+          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
+        },
+        {
+          "name": "Limmz",
+          "url": "https://open.spotify.com/artist/4cm0e6rUO2nxaJjkbNqNwf"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "DECISION",
+      "url": "https://open.spotify.com/track/0xcVvOOLPgx7kbrLdGOZuL"
     },
     {
       "album": {
@@ -6665,6 +6709,28 @@
     },
     {
       "album": {
+        "name": "Everything But U",
+        "url": "https://open.spotify.com/album/26fT409CjzKBwZRROKfjBn"
+      },
+      "artists": [
+        {
+          "name": "Harriet Jaxxon",
+          "url": "https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu"
+        },
+        {
+          "name": "Jolie P",
+          "url": "https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "Everything But U",
+      "url": "https://open.spotify.com/track/4jCsnuVEiEDXuRcx5E4Pdk"
+    },
+    {
+      "album": {
         "name": "Everything But You (feat. A7S) [Luude Remix]",
         "url": "https://open.spotify.com/album/1XyCLTDOttUiwgb9CXk4OM"
       },
@@ -6736,6 +6802,24 @@
       "duration_ms": 263314,
       "name": "Exorcist",
       "url": "https://open.spotify.com/track/2SN5zbgLlQMBD72Vd26O8F"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173448,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/0EZApStXhKzC0LrHbmcLJO"
     },
     {
       "album": {
@@ -7554,7 +7638,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 251379,
       "name": "Flamethrower",
       "url": "https://open.spotify.com/track/0jyNWv3M0TGvVS4QD77uO7"
@@ -10028,6 +10112,28 @@
       "duration_ms": 268965,
       "name": "Hold up your Hands",
       "url": "https://open.spotify.com/track/6puuJ6GcrvxxKxvDsC28bj"
+    },
+    {
+      "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/5yr30MXPOisMh6o4EXKFn6"
+      },
+      "artists": [
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        },
+        {
+          "name": "Sam Harper",
+          "url": "https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/1yIGvFZxmJ2nJmCzSensSH"
     },
     {
       "album": {
@@ -15464,7 +15570,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 279069,
       "name": "On Your Feet",
       "url": "https://open.spotify.com/track/75KWXVroEfF79xQPDOG9js"
@@ -16132,6 +16238,28 @@
       "duration_ms": 154403,
       "name": "Oxide & Neutrino",
       "url": "https://open.spotify.com/track/0Yr728sBhXc6nxKNesJYV4"
+    },
+    {
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/5pHvYGk98I55GJrP9FcUJo"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        },
+        {
+          "name": "Adalaide Adams",
+          "url": "https://open.spotify.com/artist/2DPd9FRFSPPDdESOqZvWoC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/0BY1815gBUbRkcRGJWDOaC"
     },
     {
       "album": {
@@ -17848,7 +17976,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 246857,
       "name": "RIDE OR DIE",
       "url": "https://open.spotify.com/track/1C8IbiaB9p6Z15qmW6Wrfb"
@@ -20266,7 +20394,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 358500,
       "name": "Star & Shadow",
       "url": "https://open.spotify.com/track/59MibE2EdJrQXaPHmRWe7G"
@@ -20420,7 +20548,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 206996,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/4OyDiydPAu3q6rNcLp313U"
@@ -22393,6 +22521,24 @@
     },
     {
       "album": {
+        "name": "TRAP",
+        "url": "https://open.spotify.com/album/5CBStb9nkLWPkglNasrOvI"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "TRAP",
+      "url": "https://open.spotify.com/track/1CvskjThJcfXmxbLbW7Lzc"
+    },
+    {
+      "album": {
         "name": "Trapline",
         "url": "https://open.spotify.com/album/5L1DycaGYjBgR5coLUHR1m"
       },
@@ -22612,7 +22758,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 212413,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/285TbH6EqB5foL8GuD3tVh"
@@ -24038,6 +24184,24 @@
       "duration_ms": 187401,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh"
+    },
+    {
+      "album": {
+        "name": "Who Dis",
+        "url": "https://open.spotify.com/album/3E84ZqbUFzobpdhFQPzyWC"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213942,
+      "name": "Who Dis",
+      "url": "https://open.spotify.com/track/6ZsiQHwVQkMw0tBVBpQxq8"
     },
     {
       "album": {

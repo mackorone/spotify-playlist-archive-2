@@ -2,9 +2,9 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí\. Foto: céro.
+> El futuro ya está aquí\. Foto: Julieta.
 
-306 songs - 14 hr 50 min
+307 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [canción de amor](https://open.spotify.com/track/75eyMHltJQARx2mxQTN81J) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:57 | 2022-09-16 | 2022-12-22 |
 | [Cari](https://open.spotify.com/track/51YXhOh8taqRam8XVga4uc) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cari](https://open.spotify.com/album/2ALeu54Vl6DOORM3v0lbZx) | 2:10 | 2025-03-03 |  |
 | [Caímos las dos](https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 2:45 | 2023-02-07 | 2024-02-07 |
+| [CENT PER CENT](https://open.spotify.com/track/4DN7qIOgFue3K9mH6sJs6Y) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [CENT PER CENT](https://open.spotify.com/album/773bcOMkLxhlik2epGoXXH) | 3:12 | 2026-02-12 |  |
 | [Chamaquita](https://open.spotify.com/track/667CH2wRxXnQOfPD1NrlLJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Juseph](https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0) | [Chamaquita](https://open.spotify.com/album/1WuBqKxkSxFeAgnYaQd8We) | 2:50 | 2022-04-13 | 2022-09-17 |
 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 | 2022-09-08 | 2023-09-16 |
 | [Chocolate Axe](https://open.spotify.com/track/2X14jja86h3IoHY6wE9KAf) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Chocolate Axe](https://open.spotify.com/album/3PpLVrADF3KkZKKDbmdmim) | 2:47 | 2025-06-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 
 > you look so cool\. Cover: The 1975
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,653 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,676 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 22 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 |
 | 23 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 24 | [Ultraviolence](https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 4:11 |
-| 25 | [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 |
-| 26 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 25 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
+| 26 | [Beauty And A Beat](https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe \(Deluxe Edition\)](https://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9) | 3:47 |
 | 27 | [Teen Idle](https://open.spotify.com/track/5B8N5rPOmTVVGpuBMK2Vby) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 4:14 |
 | 28 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 |
 | 29 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 46 | [Knee Socks](https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:17 |
 | 47 | [Dog Days Are Over](https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 4:11 |
 | 48 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 |
-| 49 | [Dollhouse](https://open.spotify.com/track/6wNeKPXF0RDKyvfKfri5hf) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:51 |
-| 50 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
+| 49 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 |
+| 50 | [Dollhouse](https://open.spotify.com/track/6wNeKPXF0RDKyvfKfri5hf) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:51 |
 | 51 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
 | 52 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 |
 | 53 | [Come a Little Closer](https://open.spotify.com/track/4sebUbjqbcgDSwG6PbSGI0) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:49 |
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 56 | [idfc](https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 4:05 |
 | 57 | [Bad Girls](https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Matangi](https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR) | 3:47 |
 | 58 | [Gasoline](https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:19 |
-| 59 | [Soap](https://open.spotify.com/track/03f7xZmt2wHCIDJBFPK8G4) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:29 |
-| 60 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
-| 61 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 |
-| 62 | [The Heart Wants What It Wants](https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [The Heart Wants What It Wants](https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI) | 3:47 |
+| 59 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 |
+| 60 | [Soap](https://open.spotify.com/track/03f7xZmt2wHCIDJBFPK8G4) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:29 |
+| 61 | [The Heart Wants What It Wants](https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [The Heart Wants What It Wants](https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI) | 3:47 |
+| 62 | [Boulevard of Broken Dreams](https://open.spotify.com/track/5GorCbAP4aL0EJ16frG2hd) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 4:22 |
 | 63 | [Heavydirtysoul](https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:54 |
 | 64 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 |
 | 65 | [Using You](https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [Using You](https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo) | 3:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593 likes - 276 songs - 16 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 595 likes - 276 songs - 16 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -168,8 +168,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 158 | [Shake It For Me \- feat\. 2 Chainz](https://open.spotify.com/track/4SgBlpKCcda9D53mWod31y) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [For Me + You](https://open.spotify.com/album/485tVv2Eq2LvU2AzsZALgc) | 3:54 |
 | 159 | [PUSH](https://open.spotify.com/track/0otHgzhkaFOS5ueD70Rc8N) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [VALEDICTORIAN](https://open.spotify.com/album/2ZD1qbIxA3CaYNSOj049bj) | 2:03 |
 | 160 | [Insecure](https://open.spotify.com/track/4dL40OAYdBas4TeDwSldp6) | [Amara La Negra](https://open.spotify.com/artist/6cdcTRFv0nFBQZPmTLWhRh) | [Unstoppable](https://open.spotify.com/album/3rH58guWMYywyTs5E8V6WE) | 3:11 |
-| 161 | [It Was Fun While It Lasted](https://open.spotify.com/track/3PJHh96odWrdnVLwMiJNDy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:04 |
-| 162 | [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 |
+| 161 | [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 |
+| 162 | [It Was Fun While It Lasted](https://open.spotify.com/track/3PJHh96odWrdnVLwMiJNDy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:04 |
 | 163 | [JUMP \(feat\. Coast Contra\)](https://open.spotify.com/track/0jhHcbmT968hzexqI7RQnu) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [JUMP \(feat\. Coast Contra\)](https://open.spotify.com/album/0hdrRndfUAbhclktwo6wOA) | 3:26 |
 | 164 | [Lucky Me](https://open.spotify.com/track/0C5H6V1zp6rdH5AoVttoLt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Graffiti \(Expanded Edition\)](https://open.spotify.com/album/20aDO05QIgZMY7BcKKI44D) | 5:10 |
 | 165 | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 |
@@ -211,8 +211,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 201 | [So Blue](https://open.spotify.com/track/1zvPwMSHBbqqrbUhRySxJH) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 4:23 |
 | 202 | [Something Like A Party](https://open.spotify.com/track/4eK6USiH1iymBHWevSZtkH) | [School Gyrls](https://open.spotify.com/artist/4zfTcqK4VudzZgd0T8g1Fi) | [School Gyrls](https://open.spotify.com/album/0RPhaTlFP3JfmAQGKgqo24) | 4:19 |
 | 203 | [Over](https://open.spotify.com/track/78FHi3kc3BbaCXIjyti0vX) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Stay On My Side Tonight](https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj) | 3:46 |
-| 204 | [Broadway](https://open.spotify.com/track/1dUDMgtBlvKZODeSIqOjIA) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:57 |
-| 205 | [Time Will Tell](https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Time Will Tell](https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB) | 2:58 |
+| 204 | [Time Will Tell](https://open.spotify.com/track/5Wc1eKzbECfRnCIwNmPr5y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Time Will Tell](https://open.spotify.com/album/4hjnguQ5l9tn9tY0syzBmB) | 2:58 |
+| 205 | [Broadway](https://open.spotify.com/track/1dUDMgtBlvKZODeSIqOjIA) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:57 |
 | 206 | [Pledge Of Allegiance \(feat\. Wiz Khalifa, Planet VI & B.O.B.\)](https://open.spotify.com/track/4bLK4Em3uqrVCG8eU3EzpM) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Quality Street Music](https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm) | 4:30 |
 | 207 | [Again](https://open.spotify.com/track/2Lz435VjV3fHJXcw2J3qzR) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:54 |
 | 208 | [Fall Back](https://open.spotify.com/track/2TNxirQmwPQyrOC3ofIXRH) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Fall Back](https://open.spotify.com/album/3kTehGJUbjM0GrzuZptZEl) | 3:34 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 275 | [Awhoa \(Aye Daddy\)](https://open.spotify.com/track/4S4aJTbb3h1cCQN7nFBfQm) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/6ZVGYPPJQqplR9ip9Y8F2a) | 2:32 |
 | 276 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
 
-Snapshot ID: `AcJaoAAAAABupbnh78W/UbTyAcE4/Swo`
+Snapshot ID: `AcJgQAAAAACzVFXGG0nC2A+qPazUR3PT`

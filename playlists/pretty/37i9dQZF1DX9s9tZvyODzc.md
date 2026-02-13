@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 
 > Dale play y dejá que la música te lleve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,199 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,405 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 61 | [El amor después del amor](https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 5:11 |
 | 62 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
 | 63 | [Nos Siguen Pegando Abajo](https://open.spotify.com/track/4VikOud5ZmdmHH6h7uQeDB) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Clics Modernos](https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H) | 3:26 |
-| 64 | [Deja Vu](https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:24 |
+| 64 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
 | 65 | [Pronta Entrega](https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe) | [Virus](https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV) | [Locura](https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r) | 4:33 |
 | 66 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 |
 | 67 | [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 70 | [Por Primera Vez](https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:02 |
 | 71 | [Lunes Por La Madrugada](https://open.spotify.com/track/6VPIaZNNJFOY9U17geQz1o) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Himno De Mi Corazon](https://open.spotify.com/album/2oo9stWQLNM4eb5JCSoXGC) | 3:14 |
 | 72 | [Bonsai](https://open.spotify.com/track/072yPZOZLx9HmR3pdEhNwn) | [Alan Sutton y las criaturitas de la ansiedad](https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV) | [Algo Tiene Que Cambiar](https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi) | 3:08 |
-| 73 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 |
+| 73 | [Deja Vu](https://open.spotify.com/track/6WgUNHiMwJazeG4kWPAH1m) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fuerza Natural](https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8) | 3:24 |
 | 74 | [Karma Chameleon](https://open.spotify.com/track/4NH4xiPQ7TqNGqj6pZV4ki) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [The Best Of Culture Club](https://open.spotify.com/album/1gL7IEAcSnVOAoJnxq2MTG) | 4:02 |
 | 75 | [¿Qué Ves?](https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [La Era De La Boludez](https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx) | 5:13 |
 | 76 | [Manuel Santillán, el León \(Versión Reggae\) \- Remasterizado 2008](https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [El León](https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H) | 3:57 |
 | 77 | [Al lado del camino](https://open.spotify.com/track/4Ft15s9T7pcG7O85VbdxVl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 5:26 |
-| 78 | [Demoliendo Hoteles](https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/17utekM9a95MchXbkbh47k) | 2:15 |
-| 79 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 |
+| 78 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 |
+| 79 | [Demoliendo Hoteles](https://open.spotify.com/track/29iIRrSuANyjnwag69PHOJ) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/17utekM9a95MchXbkbh47k) | 2:15 |
 | 80 | [Prohibido](https://open.spotify.com/track/5kfg05FFAsnW4ikMqSfI3g) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Rocanroles Sin Destino](https://open.spotify.com/album/3fyFk4hNkdXZK7eIuAvkyz) | 3:30 |
 | 81 | [Crímenes perfectos](https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:24 |
 | 82 | [Homero](https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Especial](https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E) | 4:23 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9s9tZvyODzc.md) - [plain]
 | 92 | [Rayando el Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Rayando el Sol \(feat\. Pablo Alborán\)](https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8) | 4:18 |
 | 93 | [Andate](https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [NAFTA II](https://open.spotify.com/album/4B2sJdUM5lyuiGv7KYi8It) | 2:58 |
 | 94 | [Los Tontos](https://open.spotify.com/track/4DoEHKWh8k6vYDleECQkJx) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:12 |
-| 95 | [The Best \- Edit](https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 4:15 |
-| 96 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/1UvTPXlImVd4jcucK4qJwb) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [LOVE](https://open.spotify.com/album/7KRJ8x3IpetRApZ8LGS2Pi) | 4:49 |
+| 95 | [\(I've Had\) The Time of My Life \- From "Dirty Dancing" Soundtrack](https://open.spotify.com/track/1UvTPXlImVd4jcucK4qJwb) | [Bill Medley](https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [LOVE](https://open.spotify.com/album/7KRJ8x3IpetRApZ8LGS2Pi) | 4:49 |
+| 96 | [The Best \- Edit](https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Simply the Best](https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4) | 4:15 |
 | 97 | [Lo Que Hoy Quieras](https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Que Hoy Quieras](https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR) | 2:55 |
 | 98 | [ADIÓS \(Live Version\)](https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [ADIÓS \(Live Version\)](https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282) | 2:44 |
 | 99 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 |
 | 100 | [Mariposa Traicionera](https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mariposa Traicionera](https://open.spotify.com/album/5AjpfcQlEOux0UIPtiYwlt) | 4:03 |
 
-Snapshot ID: `AAAAAAfgwkvoFIOOuNFtR3LZj+P9+FWT`
+Snapshot ID: `AAAAANhnjAi3KkHdlyhFZG+RNm2N//Yf`

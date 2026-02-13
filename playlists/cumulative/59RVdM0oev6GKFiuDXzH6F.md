@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-1,086 songs - 2 day 7 hr 52 min
+1,087 songs - 2 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,6 +548,7 @@
 | [Loca](https://open.spotify.com/track/0jc0HD1yuMR6BIbVY6FveV) | [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU), [OMERGY](https://open.spotify.com/artist/32Y9uYyaQUetwzraaVE1SU) | [Loca](https://open.spotify.com/album/1IEU0EbjOdcYHSN6GniG0L) | 3:00 | 2023-11-10 | 2025-01-09 |
 | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p) | 2:48 | 2026-01-22 |  |
 | [Loco](https://open.spotify.com/track/3ffZNmgZvGavz9xlgCkjrX) | [AnnicK](https://open.spotify.com/artist/2J8TklMXojpcXK0PsN9sU6) | [Loco](https://open.spotify.com/album/470XXqVPBxgjeoguFF4W3b) | 2:23 | 2023-02-12 | 2023-04-13 |
+| [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 | 2026-02-12 |  |
 | [Lookin 4 Me \(feat\. Hadar Adora\)](https://open.spotify.com/track/5sMhmV8BcwefJWLXY1adVf) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w) | [Lookin 4 Me \(feat\. Hadar Adora\)](https://open.spotify.com/album/2At1LoYQie7a3GT6ulZM1d) | 2:38 | 2023-11-24 | 2024-10-11 |
 | [Lookout \(feat\. Joel Stewart\)](https://open.spotify.com/track/2RqNnUkZNe1MnpvBEZRs8B) | [Sanzach](https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD), [Joel Stewart](https://open.spotify.com/artist/7qrGrDelmmUat3cPpHtUW0) | [Lookout \(feat\. Joel Stewart\)](https://open.spotify.com/album/377g0zHAMSndrswhFpQwZh) | 4:06 | 2024-12-05 | 2025-03-14 |
 | [Lose Control](https://open.spotify.com/track/5MgOtVHvhWIJyAvn8un0GO) | [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw) | [Lose Control](https://open.spotify.com/album/0WuGaUV2cutdCvYjtjBjr8) | 3:07 | 2023-06-23 | 2023-07-14 |

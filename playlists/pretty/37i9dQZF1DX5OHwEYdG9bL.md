@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OHwEYdG9bL.md) - [plain]
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: ATEEZ\) \(Enjoy a playlist of songs that support music video features!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,516 likes - 139 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,515 likes - 139 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Karnamereka, Ndarboy Genk
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Northsle
 
-574 songs - 2 day 0 hr 7 min
+576 songs - 2 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Kusuma Nala](https://open.spotify.com/track/0zmQTTdb4du9W5AYltC1FW) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kusuma Nala](https://open.spotify.com/album/3Ya3nTreVzuhYFowsZRyrB) | 4:39 | 2025-11-27 |  |
 | [KUSUMA WIJAYA](https://open.spotify.com/track/7h0nQqI84EJY26MHLcxmJo) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [KUSUMA WIJAYA](https://open.spotify.com/album/7DVQMP1SL0rPn2t8xyRFqa) | 4:28 | 2025-07-10 |  |
 | [Kusuma Wijaya](https://open.spotify.com/track/7MxbEurwntwBuKkrB6NWhP) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8), [Rendra Kemana](https://open.spotify.com/artist/4eFgg8WNsB2mmjYmWEPFok) | [Kusuma Wijaya](https://open.spotify.com/album/6IVXAj9J4rbHmD5QQL6wqc) | 4:31 | 2025-11-21 |  |
+| [Kusumaning Ati](https://open.spotify.com/track/2aQi2odiCf1QsVeIvJIpcr) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Kusumaning Ati](https://open.spotify.com/album/4NIMe0DgA7VAuLEFxV5U6p) | 6:18 | 2026-02-12 |  |
 | [Lagu Galau](https://open.spotify.com/track/3czrfH9M8dT34boJCL6iwV) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Lagu Galau](https://open.spotify.com/album/2ssc0LBXdKKmPoQSKivKIy) | 4:15 | 2023-02-16 | 2023-08-11 |
 | [Lalekno \- New Version](https://open.spotify.com/track/5zPtFLKtxS9fhIIjnKX95F) | [Imogiri Boys](https://open.spotify.com/artist/53RErsdDMlGlugJZyYvae3), [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD), [GMLT](https://open.spotify.com/artist/1ZzwhODUHoaPl3Xt3d9xx6) | [Lalekno \(New Version\)](https://open.spotify.com/album/3cqSmz3sVPPgKWT9d6WVxR) | 4:00 | 2025-09-12 |  |
 | [Lali Rasane Tresno](https://open.spotify.com/track/0xIPbN7eQjyZzBwAiheDJ9) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Lali Rasane Tresno](https://open.spotify.com/album/62M6nuhMQ6M3unu0T2ct85) | 6:10 | 2024-03-08 | 2024-08-30 |
@@ -270,6 +271,7 @@
 | [Loro Ati Sejak Dini](https://open.spotify.com/track/0oUVBZrnc8S6qJEA8uH1On) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Loro Ati Sejak Dini](https://open.spotify.com/album/69mI0XVoKizAkiULAx4FLj) | 4:44 | 2023-06-01 | 2023-08-11 |
 | [Los Dol](https://open.spotify.com/track/4CQdZW0qvq4MqvilSGScEk) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Los Dol](https://open.spotify.com/album/0w5TDBNCSj2aasUNDFbhPv) | 4:48 | 2022-05-26 |  |
 | [Los Dol](https://open.spotify.com/track/420e2V7exkWfl6TIrFP7fi) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Los Dol](https://open.spotify.com/album/0Sg05P78e8r27lQ9Veyubx) | 5:10 | 2024-10-11 |  |
+| [LUMRAH \( LUMPUKE SING WES BUBRAH \)](https://open.spotify.com/track/0ozx2AJmjxX5AiKgxUGJQP) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu) | [LUMRAH \( LUMPUKE SING WES BUBRAH \)](https://open.spotify.com/album/5g78qje8jSCJSSngM7xxDT) | 5:48 | 2026-02-12 |  |
 | [Lungaku](https://open.spotify.com/track/5laQzcP5GJcT0lF5R7HpBr) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Lungaku](https://open.spotify.com/album/13eXr1lmUyXeJtUEGHoBP6) | 5:59 | 2022-05-26 | 2023-07-14 |
 | [Macak Kelaran](https://open.spotify.com/track/7sgv1XJLRqYNl4ss02o93d) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY), [Radit Fasolla](https://open.spotify.com/artist/135t3ftsP9hvglGlUtsElh) | [Macak Kelaran](https://open.spotify.com/album/7q5BOzYZK99mCNRubljO8e) | 5:17 | 2024-09-20 | 2025-01-03 |
 | [Madiun Ngawi](https://open.spotify.com/track/1cYFdtA6Ikt6L3nx17HidL) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Madiun Ngawi](https://open.spotify.com/album/28PUMtZizCE3nKxO1Fi9bA) | 5:43 | 2023-05-19 | 2024-05-17 |

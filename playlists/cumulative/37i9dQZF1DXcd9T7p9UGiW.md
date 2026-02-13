@@ -2,9 +2,9 @@
 
 ### [Gone Abroad ](https://open.spotify.com/playlist/37i9dQZF1DXcd9T7p9UGiW)
 
-> Catching flights and going global\. Cover: Rvssian, Moliy, Tyga, & Ayetian
+> Catching flights and going global\. Cover: Don Toliver and Rema
 
-775 songs - 1 day 17 hr 0 min
+776 songs - 1 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 | 2024-07-06 |
 | [Hide & Seek \- Rema Remix](https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Hide & Seek \(Rema Remix\)](https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY) | 3:48 | 2023-02-23 | 2024-07-19 |
 | [Higher \(feat\. JKING & Billymaree\)](https://open.spotify.com/track/577o8dF3FtOvCMiN56ilmz) | [DJ Discretion](https://open.spotify.com/artist/08CmTveAFjDqu36A2pKe1A), [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp), [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [Higher \(feat\. JKING & Billymaree\)](https://open.spotify.com/album/1PrLMFlEKDhPXANZVOYn45) | 3:47 | 2022-03-11 | 2022-05-20 |
-| [Higher Consciousness](https://open.spotify.com/track/4RZJ4xsVuq20lNS9eDe4ly) | [BIGBIRD KUTI](https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [BIGBIRD & THA VIPER](https://open.spotify.com/album/06avYXeBI5Df4cvkeTfJmS) | 3:05 | 2025-09-19 |  |
+| [Higher Consciousness](https://open.spotify.com/track/4RZJ4xsVuq20lNS9eDe4ly) | [BIGBIRD KUTI](https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [BIGBIRD & THA VIPER](https://open.spotify.com/album/06avYXeBI5Df4cvkeTfJmS) | 3:05 | 2025-09-19 | 2026-02-13 |
 | [HIM \(feat\. Gunna\)](https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HIM](https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV) | 3:22 | 2025-10-24 |  |
 | [Hmmm \(feat\. Davido\)](https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 2:56 | 2024-04-19 |  |
 | [Hold Me](https://open.spotify.com/track/1Jk54APscblRSShOVjrYxS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Rave & Roses](https://open.spotify.com/album/71S4BwV5E6Pwwz0ASZB7th) | 4:09 | 2022-03-24 | 2022-06-03 |
@@ -584,6 +584,7 @@
 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 | 2023-04-20 | 2024-08-09 |
 | [Scary](https://open.spotify.com/track/2zlCpQNLCXi3Vtg0ViPoCu) | [DJ Semtex](https://open.spotify.com/artist/3xhX0nrkThoOaGZZoFnCAt), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Scary](https://open.spotify.com/album/5LLwIc70eeUjHynOpd1CH9) | 2:41 | 2022-10-28 | 2022-12-10 |
 | [Scrrr Up Riddim](https://open.spotify.com/track/4TI3zvC6Yc8SU2jDa4PUaU) | [4Rain](https://open.spotify.com/artist/7mgeWKf0QP5WtjDreBuNME), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [KLY](https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3) | [Scrrr Up Riddim](https://open.spotify.com/album/2EFASg2b57SCtbo3YtiG7m) | 3:09 | 2021-11-18 | 2022-01-21 |
+| [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 | 2026-02-13 |  |
 | [Secret Lover](https://open.spotify.com/track/2aZluo5suMJzbl0EdZ7H2S) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [5th Dimension](https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb) | 3:50 | 2023-04-27 | 2024-02-09 |
 | [See Me yah](https://open.spotify.com/track/5ta3DW7XdUPYtlZNCUVGHc) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [MUSE](https://open.spotify.com/album/7fZfHGgmDkyMDOTYFS5lfz) | 2:38 | 2025-03-21 | 2025-05-23 |
 | [See The World](https://open.spotify.com/track/2yshwj5n7EqOz6JGXxWaX0) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [THR3E](https://open.spotify.com/album/7hkCpOuo8RtnhTHHkVgMcv) | 2:22 | 2024-10-04 | 2024-11-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,176 songs - 2 day 18 hr 50 min
+[𝓁𝒾𝒶¹²](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,179 songs - 2 day 19 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1184,5 +1184,8 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1174 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 |
 | 1175 | [THANK GOD](https://open.spotify.com/track/2klHZg6eTLcImaGyzDQukM) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 3:38 |
 | 1176 | [MAYBE I'M WRONG](https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 3:22 |
+| 1177 | [Drag Me Down](https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:12 |
+| 1178 | [They Don't Know About Us](https://open.spotify.com/track/6M31fPFCYB8Job3MCjjrDV) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 3:20 |
+| 1179 | [I Should Have Kissed You](https://open.spotify.com/track/4yVPaA6DOfwbqZIQNv4G5U) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Up All Night](https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq) | 3:35 |
 
-Snapshot ID: `AAAH5anDmNE18r3XlC9XivhyabdK0vdY`
+Snapshot ID: `AAAH6JjE55d2vrlY3YmXJS/ygDalSdAw`

@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la privada con Luis R Conriquez, Neton Vega, Rey Quinto & the hottest corridos in the U.S.",
-  "num_followers": 334843,
+  "num_followers": 334958,
   "original_name": "La Privada",
   "owner": {
     "name": "Spotify",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-02-06 23:41:06",
       "album": {
-        "name": "Los Collares",
-        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 148793,
-      "name": "Los Collares",
-      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
-    },
-    {
-      "added_at": "2026-02-06 23:41:06",
-      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 208117,
       "name": "Recordando a Manuel",
       "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
+    },
+    {
+      "added_at": "2026-02-06 23:41:06",
+      "album": {
+        "name": "Los Collares",
+        "url": "https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 148793,
+      "name": "Los Collares",
+      "url": "https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW"
     },
     {
       "added_at": "2026-02-06 23:41:06",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-02-06 23:41:06",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 177621,
-      "name": "Lo Pude Lograr",
-      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "added_at": "2026-02-06 23:41:06",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-02-06 23:41:06",
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
-    },
-    {
-      "added_at": "2026-02-06 23:41:06",
-      "album": {
         "name": "Poco A Poco",
         "url": "https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
+    },
+    {
+      "added_at": "2026-02-06 23:41:06",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/1QKvOGwTQKKmz5fiaStHxl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 177621,
+      "name": "Lo Pude Lograr",
+      "url": "https://open.spotify.com/track/37QXxWqoyJLoWOo2SuO8q6"
     },
     {
       "added_at": "2026-02-06 23:41:06",
@@ -1503,22 +1503,6 @@
       "duration_ms": 198976,
       "name": "La Suma",
       "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
-    },
-    {
-      "added_at": "2026-02-06 23:41:06",
-      "album": {
-        "name": "Hoy Todo Cambio",
-        "url": "https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 203885,
-      "name": "Hoy Todo Cambio",
-      "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
     },
     {
       "added_at": "2026-02-06 23:41:06",
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2026-02-06 23:41:06",
       "album": {
+        "name": "La Capi",
+        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 189075,
+      "name": "La Capi",
+      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+    },
+    {
+      "added_at": "2026-02-06 23:41:06",
+      "album": {
         "name": "Me Acostumbre A Lo Bueno II",
         "url": "https://open.spotify.com/album/2aPfDcYuz5bJQbVGSYgFkT"
       },
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2026-02-06 23:41:06",
       "album": {
-        "name": "La Capi",
-        "url": "https://open.spotify.com/album/55pTCyi6i0JmvmiIA1yGl2"
+        "name": "Hoy Todo Cambio",
+        "url": "https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy"
       },
       "artists": [
         {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 189075,
-      "name": "La Capi",
-      "url": "https://open.spotify.com/track/2jMAtQFsAhG5Fo9tVH3xfK"
+      "duration_ms": 203885,
+      "name": "Hoy Todo Cambio",
+      "url": "https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa"
     },
     {
       "added_at": "2026-02-06 23:41:06",
@@ -1647,26 +1647,6 @@
       "duration_ms": 169317,
       "name": "Supreme",
       "url": "https://open.spotify.com/track/3g9t4SqzzMf7hEtJRS3wsy"
-    },
-    {
-      "added_at": "2026-02-06 23:41:06",
-      "album": {
-        "name": "Puro Campe\u00f3n",
-        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Puro Campe\u00f3n",
-      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
     },
     {
       "added_at": "2026-02-06 23:41:06",
@@ -1719,6 +1699,26 @@
       "duration_ms": 191320,
       "name": "PAJUELAZO",
       "url": "https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI"
+    },
+    {
+      "added_at": "2026-02-06 23:41:06",
+      "album": {
+        "name": "Puro Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Puro Campe\u00f3n",
+      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
     },
     {
       "added_at": "2026-02-06 23:41:06",
@@ -1827,18 +1827,38 @@
     {
       "added_at": "2026-02-06 23:41:06",
       "album": {
-        "name": "Ni Que Fuera",
-        "url": "https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO"
+        "name": "El Cuadrito",
+        "url": "https://open.spotify.com/album/19X5PMlS8A7H1cGQUQ1XJ5"
       },
       "artists": [
         {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 163800,
-      "name": "Ni Que Fuera",
-      "url": "https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF"
+      "duration_ms": 166954,
+      "name": "El Cuadrito",
+      "url": "https://open.spotify.com/track/75kjqC5yfd9ugvL93TF6vY"
+    },
+    {
+      "added_at": "2026-02-06 23:41:06",
+      "album": {
+        "name": "Hasta Enfrente",
+        "url": "https://open.spotify.com/album/20zNcltZ7WdS62Eg8MF4JD"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 164565,
+      "name": "Hasta Enfrente",
+      "url": "https://open.spotify.com/track/0fW4FpPnw94ZTSClsgn8uN"
     },
     {
       "added_at": "2026-02-06 23:41:06",
@@ -1859,22 +1879,6 @@
       "duration_ms": 164991,
       "name": "PRIMO",
       "url": "https://open.spotify.com/track/1RkkjNnU8I4PDrzkZHECWf"
-    },
-    {
-      "added_at": "2026-02-06 23:41:06",
-      "album": {
-        "name": "El Cuadrito",
-        "url": "https://open.spotify.com/album/19X5PMlS8A7H1cGQUQ1XJ5"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 166954,
-      "name": "El Cuadrito",
-      "url": "https://open.spotify.com/track/75kjqC5yfd9ugvL93TF6vY"
     }
   ],
   "unique_name": "La Privada",

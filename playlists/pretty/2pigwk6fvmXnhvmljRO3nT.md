@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,191 songs - 20 day 19 hr 47 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,193 songs - 20 day 19 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8199,5 +8199,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8189 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 |
 | 8190 | [テイオーテイオーテイテイオー](https://open.spotify.com/track/0BFhu2pdmR4GGOt11RCnMK) | [トウカイテイオー \(CV\. Machico\)](https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O) | [『ウマ娘 プリティーダービー』WINNING LIVE 06](https://open.spotify.com/album/4yUrE4BXP4DE1Z4PxMXOPI) | 0:30 |
 | 8191 | [はちみーのうた](https://open.spotify.com/track/46eZEjr6MVjL8l87FkNZr4) | [トウカイテイオー \(CV\. Machico\)](https://open.spotify.com/artist/4iZfTlw1wAe7i8If4Bku1O) | [TVアニメ『ウマ娘 プリティーダービー』ANIMATION DERBY Season 2 vol.3 Original Sound Track](https://open.spotify.com/album/5180jjuPAfurbc3HTGFP0n) | 0:30 |
+| 8192 | [ケセラセラ](https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:32 |
+| 8193 | [群青讃歌](https://open.spotify.com/track/1pj6zUNWoX9pP4rrL91M9o) | [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt), [花里みのり](https://open.spotify.com/artist/0PNaamnT0FCz53QxNeDQVo), [小豆沢こはね](https://open.spotify.com/artist/5afq7P9YZtGvtUjBxaQzIp), [天馬司](https://open.spotify.com/artist/6O6RrJYIuvZEIzv6tNG85i), [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク テーマソング・アニバーサリーソングアルバム](https://open.spotify.com/album/2pwXaxMlSCDporwOtHLQ2X) | 4:36 |
 
-Snapshot ID: `AAAKli9WUQahhbrZJlSxQme5Ww03fqUW`
+Snapshot ID: `AAAKmI0c8esdX2q/QFCijKj1QlfAvI5I`

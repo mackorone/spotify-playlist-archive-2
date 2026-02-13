@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > Music that makes you feel like you're levitating.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554,720 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,555,169 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 16 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 |
 | 17 | [Like a Tattoo](https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:38 |
 | 18 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 |
-| 19 | [Breathe \(In the Air\)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 2:49 |
+| 19 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 | 20 | [Girl With The Tattoo Enter.lewd](https://open.spotify.com/track/1eUGmzzvahJjOSWgDHuRlv) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 1:42 |
-| 21 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
+| 21 | [Breathe \(In the Air\)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 2:49 |
 | 22 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 23 | [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 |
 | 24 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 |
@@ -85,17 +85,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 75 | [Summer Madness](https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Light Of Worlds](https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo) | 4:17 |
 | 76 | [When I Get There](https://open.spotify.com/track/7nYClzzNY6f3EcfeDFNqhS) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Invincible EP](https://open.spotify.com/album/78ROcR5rkK56FnSYxBo40L) | 3:40 |
 | 77 | [Spin Me Around](https://open.spotify.com/track/3WOZcIibmurJult4Z7Wfce) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 2:26 |
-| 78 | [NIGHTS LIKE THIS PT 2](https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:46 |
-| 79 | [Pretend Lovers](https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:13 |
+| 78 | [Pretend Lovers](https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:13 |
+| 79 | [NIGHTS LIKE THIS PT 2](https://open.spotify.com/track/57G4kEAuP7muC8UzZXtcVi) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:46 |
 | 80 | [Kyle \(i found you\)](https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:16 |
 | 81 | [1950](https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [1950](https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN) | 3:45 |
 | 82 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 |
-| 83 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 |
-| 84 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
-| 85 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 |
-| 86 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
-| 87 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 |
-| 88 | [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 |
+| 83 | [love you more than me](https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [love you more than me](https://open.spotify.com/album/5iA8uhhLMIfh8CUu6sJWd6) | 2:21 |
+| 84 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 |
+| 85 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
+| 86 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 |
+| 87 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
+| 88 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 |
 | 89 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 |
 | 90 | [Solitude \- Felsmann + Tiley Reinterpretation](https://open.spotify.com/track/5SOA0gaKMMp9cgwn3nuwk7) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz), [Felsmann + Tiley](https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P) | [Solitude \(Felsmann + Tiley Reinterpretation\)](https://open.spotify.com/album/7mCzA6gqtv4ZtfInpJXm52) | 3:42 |
 | 91 | [Slip](https://open.spotify.com/track/15N3zfcJSyUEMn5KgY99ua) | [Elliot Moss](https://open.spotify.com/artist/2xGCGoulmU85qYdpb2Z4xx) | [Highspeeds](https://open.spotify.com/album/5Ae9tQRJDX86FnozLpyY1k) | 4:58 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 95 | [Really Love](https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 5:44 |
 | 96 | [You & Me \- Flume Remix](https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(The Remixes\)](https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB) | 4:42 |
 | 97 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 |
-| 98 | [Fame is a Gun \- triple j Like A Version](https://open.spotify.com/track/3pvo1AGd8ZyL8wSxLS4Wtm) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Fame is a Gun \(triple j Like A Version\)](https://open.spotify.com/album/0BYultK82Rtok4YRsAiic3) | 3:37 |
-| 99 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
-| 100 | [Distance](https://open.spotify.com/track/1SsUx7lHTfuiSSB1KfRMdE) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Dawn](https://open.spotify.com/album/3CogjJSvRqbIQuNJVR2JcP) | 4:15 |
+| 98 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
+| 99 | [Fame is a Gun \- triple j Like A Version](https://open.spotify.com/track/3pvo1AGd8ZyL8wSxLS4Wtm) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Fame is a Gun \(triple j Like A Version\)](https://open.spotify.com/album/0BYultK82Rtok4YRsAiic3) | 3:37 |
+| 100 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 |
 
-Snapshot ID: `AAAAAKczbpObgvMvL2lQpBbKhuEglw1o`
+Snapshot ID: `AAAAANtrLnV14T0wLurKkn/J7c79cBWu`

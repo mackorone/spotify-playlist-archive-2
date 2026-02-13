@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlkPQJ1PlTQ.md) - [plain]
 
 > The best podcast episodes released this month, curated by Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,876 likes - 5 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,874 likes - 5 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,4 +14,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlkPQJ1PlTQ.md) - [plain]
 | 4 | [Ep\. 175 \- Examining The Suspicious Death Of 19\-Year\-Old Tanner Ward](https://open.spotify.com/episode/4zGY9H6G5WO82qSLSPkUxb) | [CreepTime The Podcast](https://open.spotify.com/show/2ETo1REWYsqJgebv5jx5Uy) | [CreepTime The Podcast](https://open.spotify.com/album/2ETo1REWYsqJgebv5jx5Uy) | 1:26:26 |
 | 5 | [Lady London on Intelligence, Industry Politics, and Staying True to Herself](https://open.spotify.com/episode/4TpUndWtZhM7D67fiZZFKg) | [Funky Friday with Cam Newton](https://open.spotify.com/show/6oxukxp2ioyyCFtIAFE7AO) | [Funky Friday with Cam Newton](https://open.spotify.com/album/6oxukxp2ioyyCFtIAFE7AO) | 59:13 |
 
-Snapshot ID: `AAAAAODYHG0uD9VnGHPidSLIR+IKF25A`
+Snapshot ID: `AAAAAJiA3xq/oUAYIiIU2G2KN3HflzTO`

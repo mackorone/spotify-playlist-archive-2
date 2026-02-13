@@ -4,7 +4,7 @@
 
 > My enemy nah sapa
 
-817 songs - 1 day 14 hr 53 min
+819 songs - 1 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [Ginger](https://open.spotify.com/track/3bBVesR6p4ItmBsAK2A4zS) | [T DOLLAR](https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc) | [No Stress](https://open.spotify.com/album/6aw16ejuQ5mvvuvGbEMjo2) | 2:19 | 2025-02-21 | 2025-03-22 |
 | [Giveaway](https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [BlownBoy RU](https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz) | 3:00 | 2025-03-28 |  |
 | [Global](https://open.spotify.com/track/0nzvmtSTuPAHcJ7wziVoto) | [Romi](https://open.spotify.com/artist/5kZWwJkGR6YrQt0xh3W3Vo) | [LIVEWIRE](https://open.spotify.com/album/2hHDsKmdxoqsJElis5rM3G) | 2:21 | 2025-03-28 | 2025-04-01 |
-| [Glory](https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Glory](https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ) | 2:38 | 2025-06-20 |  |
+| [Glory](https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Glory](https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ) | 2:38 | 2025-06-20 | 2026-02-13 |
 | [Glory II \(with Fridayy\)](https://open.spotify.com/track/0NCw0Nx9qn6Mqya3PN5RIg) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Glory II \(with Fridayy\)](https://open.spotify.com/album/5KNIe8ATKowEk9Xvzo753f) | 2:55 | 2025-07-18 | 2025-11-07 |
 | [Go Hard](https://open.spotify.com/track/0MQ5OfIujoBV1D6MmQkTUp) | [Mo'Gunz](https://open.spotify.com/artist/51uO29xURTztKkoKSG1fA7), [IDVH](https://open.spotify.com/artist/2qcqlQCkD2OXhCIKEGQRja) | [Go Hard](https://open.spotify.com/album/0qtfszOOxWhtQlfXR7jESB) | 3:28 | 2022-08-12 | 2022-09-24 |
 | [Go Harder](https://open.spotify.com/track/1Yiiy90LfO31UDfE5SpU2a) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Go Harder](https://open.spotify.com/album/3s7mMPvH9b5JPEIWw4esUj) | 2:20 | 2024-06-07 | 2024-06-15 |
@@ -655,7 +655,7 @@
 | [Rondo](https://open.spotify.com/track/7wEa29TQeoOyuFUw7Ln05h) | [Kojo Trip](https://open.spotify.com/artist/30YL6ZmUsHXN07Z6Y9SrHT) | [Rondo](https://open.spotify.com/album/59oAX0gpDhft5eugwPiqlb) | 3:04 | 2024-03-08 | 2024-03-22 |
 | [Royal Rumble](https://open.spotify.com/track/2If4yVXLFbGksTtbn260Se) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [Royal Rumble](https://open.spotify.com/album/1UnGYefcAvZXmFSmOBNiFL) | 2:44 | 2022-07-22 | 2022-08-13 |
 | [RULER](https://open.spotify.com/track/3fbn0D0RFJeQv5jKkvOd6u) | [Kiiwii](https://open.spotify.com/artist/7yncXxUXkPHEawRyKM6Gr7) | [Freestyle pack](https://open.spotify.com/album/3jkrKmRXpEfW5jF0t2GPPs) | 2:47 | 2023-12-08 | 2024-01-26 |
-| [Rules Of Life](https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Never Fold](https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq) | 2:50 | 2026-01-14 |  |
+| [Rules Of Life](https://open.spotify.com/track/5EKmhnRn3MTuj6eT8xj2xD) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Never Fold](https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq) | 2:50 | 2026-01-14 | 2026-02-13 |
 | [Running](https://open.spotify.com/track/21MSFhrfJzZOYUnKqNdkQr) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Haeven](https://open.spotify.com/artist/5JTZ0MKURW6cUUT2y18w5H) | [Running](https://open.spotify.com/album/1EbYyDICzqwkKP79qtnERw) | 3:12 | 2023-10-13 | 2023-11-09 |
 | [Running](https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Running](https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP) | 3:34 | 2021-10-22 | 2024-01-19 |
 | [Sa Me](https://open.spotify.com/track/0BJBJ6hwuRhdjLwLPn5Usa) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/3oUyfdqXsO6o81sEHeiPtU) | 2:48 | 2024-03-08 | 2024-03-22 |
@@ -765,6 +765,7 @@
 | [Under Pressure](https://open.spotify.com/track/1SAlQUPK58CCDoVf90s77q) | [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Under Pressure](https://open.spotify.com/album/4bdcWdYSzrgqpsUlNNaVeT) | 3:41 | 2025-08-22 | 2025-09-26 |
 | [Under The Canopy](https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Under The Canopy](https://open.spotify.com/album/7c6oqqAN19VuIGt7KsKf9t) | 2:51 | 2024-05-31 | 2024-10-13 |
 | [Up and Active](https://open.spotify.com/track/2jMAfXYAD29fhKPhoIOHuq) | [Olahiman](https://open.spotify.com/artist/401aSLickqnbze4b70aouW) | [Up and Active](https://open.spotify.com/album/4Q01XwYG4yWeA7tSl1KDar) | 2:21 | 2025-11-07 | 2025-11-14 |
+| [Uzo Ano](https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Uzo Ano](https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL) | 3:38 | 2026-02-13 |  |
 | [Valley Of Trappers \(feat\. Sarkodie\) \- Remix](https://open.spotify.com/track/3wbTj2CQdppIyUTn69wInH) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Juiczx](https://open.spotify.com/artist/6NlTIdfjzOUvzb0uhRUO4e) | [Valley Of Trappers \(feat\. Sarkodie\) \[Remix\]](https://open.spotify.com/album/4w0ZEXI1OL7ocnC4EYmh8d) | 2:22 | 2024-07-19 | 2024-10-19 |
 | [Van Dijk](https://open.spotify.com/track/5uMdyf3DpUoqMAmgDg291j) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Van Dijk](https://open.spotify.com/album/00w0QmFIi9JPxWqFH3d3cq) | 2:38 | 2023-12-01 | 2023-12-08 |
 | [Vanilla](https://open.spotify.com/track/5CFIAgBLBm53lMElR7oaVJ) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [A Wonderful Time](https://open.spotify.com/album/0qbHtNyI6S1uDvIi3alx6N) | 1:33 | 2023-11-10 | 2023-11-17 |
@@ -802,6 +803,7 @@
 | [Win](https://open.spotify.com/track/6oCXQ7IW3eH3YpImlzAs1Q) | [Mophy](https://open.spotify.com/artist/0j4cqN1kRFE3fLRUxsYzlX) | [Win](https://open.spotify.com/album/1olHtLGdRNuEigWCBSOlvy) | 2:18 | 2023-09-09 | 2023-09-15 |
 | [WINNER](https://open.spotify.com/track/547GwDxeORsW7GVuZEvEHo) | [Dannyboi HNR](https://open.spotify.com/artist/2hPw3tGniuMH8KWAnbETYg), [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [WINNER](https://open.spotify.com/album/2cOin1UcbqiNtTePFciIUH) | 2:36 | 2025-08-01 | 2025-09-05 |
 | [Winner](https://open.spotify.com/track/759sfP7h2s5b3DSixkSAeD) | [Olabayo](https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC) | [What Matters](https://open.spotify.com/album/5YseCNQS2NjJ60eIfn1dKv) | 2:06 | 2022-09-09 | 2022-09-24 |
+| [Wins & Losses](https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c) | [Wins & Losses](https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk) | 2:59 | 2026-02-13 |  |
 | [Wire](https://open.spotify.com/track/2XNaMlHROxvkKGohcQHQZV) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Wire](https://open.spotify.com/album/7sp3pOTSG2BO3VWKcRWJH8) | 2:24 | 2023-04-20 | 2023-11-03 |
 | [Wise](https://open.spotify.com/track/1Tzwk4CitwcfIB1n5S08O1) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Rybeena](https://open.spotify.com/album/4dfSUw2ylJzL3cAr6d2bWe) | 2:34 | 2023-11-24 | 2024-06-21 |
 | [WO WO](https://open.spotify.com/track/2D1D9hmwCBApc1JHEA7WaB) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [WO WO](https://open.spotify.com/album/5dZm2HzDYT22UmJzG9qfXT) | 2:35 | 2022-11-18 | 2024-03-22 |

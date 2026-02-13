@@ -4,7 +4,7 @@
 
 > Let's go! 💪
 
-164 songs - 7 hr 27 min
+165 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [LIGHTWAVES](https://open.spotify.com/track/46JbXTR6VNrnnoJJAsn6gN) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LIGHTWAVES](https://open.spotify.com/album/1JhkARu8eNtzhsxCNwjnte) | 2:21 | 2023-09-01 | 2023-10-07 |
 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 | 2023-09-01 | 2025-10-24 |
 | [Little Do You Know \- Techno Version](https://open.spotify.com/track/2PUVc5dzb7xkgE1Ld6UhF5) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Little Do You Know \(Techno Version\)](https://open.spotify.com/album/0sHpgapkIb1yv4DJmAW1hR) | 2:01 | 2024-08-22 | 2024-11-21 |
+| [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/track/55oaId1IHZV9XfvHB3P7PJ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Locked In \(feat\. Trippie Redd\)](https://open.spotify.com/album/2fG4Abi890K7fZ9MnEsq9p) | 2:48 | 2026-02-12 |  |
 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 | 2023-11-10 | 2024-08-14 |
 | [Lose You \- Felix Jaehn Remix](https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Lose You \(Felix Jaehn Remix\)](https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu) | 2:36 | 2023-09-01 | 2024-02-26 |
 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-08-14 |  |
@@ -116,7 +117,7 @@
 | [Out Of My Head](https://open.spotify.com/track/0zXG0VKmfDyi8M5oEu1dhU) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [y\_x](https://open.spotify.com/artist/1mntvQYpOHDTcAlSG8bmqM) | [Out Of My Head](https://open.spotify.com/album/7w8CQIN6ISThd9apQmVcSe) | 2:52 | 2023-11-28 | 2023-12-01 |
 | [Out Of My Head](https://open.spotify.com/track/3B2SIeekeNUDeszphD3deS) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [y\_x](https://open.spotify.com/artist/1mntvQYpOHDTcAlSG8bmqM) | [Out Of My Head](https://open.spotify.com/album/35SgzMPyciNuNT0oK6NtdB) | 2:52 | 2023-11-28 | 2024-04-06 |
 | [Peace Of Mind](https://open.spotify.com/track/1Ju9Tb5R1vsUu1Ir8sO6vX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8) | [Peace Of Mind](https://open.spotify.com/album/22V3MT04FxMnr8RxzhbIve) | 2:28 | 2025-07-03 | 2025-09-01 |
-| [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 | 2024-02-08 |  |
+| [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 | 2024-02-08 | 2026-02-13 |
 | [Prada](https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Prada](https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc) | 2:12 | 2023-10-06 |  |
 | [Pump It Up](https://open.spotify.com/track/0qmua4YsDzfz9svXRNtOgb) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [The Black & White Brothers](https://open.spotify.com/artist/6xaKognesdbX04PEXszfcv) | [Pump It Up](https://open.spotify.com/album/25iABixZchqQ3DC7dFdR6v) | 2:47 | 2023-09-01 | 2023-09-14 |
 | [Pump Up The Jam](https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [Pump Up The Jam](https://open.spotify.com/album/5VehHhrEHz67LAT5hLFq8x) | 2:36 | 2023-12-22 | 2024-02-17 |

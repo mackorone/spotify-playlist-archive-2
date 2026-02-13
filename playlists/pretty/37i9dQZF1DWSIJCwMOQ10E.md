@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Karen Lizarazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,765 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,786 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 12 | [Tusa](https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Tusa](https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F) | 3:20 |
 | 13 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 |
 | 14 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
-| 15 | [Una Noche Más](https://open.spotify.com/track/0hm6AjreMiuTmSVHA2yxQL) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Una Noche Más](https://open.spotify.com/album/5pmu24zVnh7HyBh1TGsaep) | 2:41 |
-| 16 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
+| 15 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
+| 16 | [Una Noche Más](https://open.spotify.com/track/0hm6AjreMiuTmSVHA2yxQL) | [Cobuz & Bustta](https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Una Noche Más](https://open.spotify.com/album/5pmu24zVnh7HyBh1TGsaep) | 2:41 |
 | 17 | [Créeme](https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Créeme](https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG) | 3:32 |
 | 18 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
 | 19 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 47 | [Fiesta](https://open.spotify.com/track/1atYmd4arC3jqNuKyYWQ0t) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta](https://open.spotify.com/album/3kZvskU8KnmX8ZMJnSKJj4) | 3:54 |
 | 48 | [Eso es mondar](https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [DJ Marimonda](https://open.spotify.com/artist/3w3qzXCQjVBeNLQJPC7QEl), [El Elvis Cienaguero](https://open.spotify.com/artist/5Gh9uPYIT29qh7L6BAaorA) | [Eso es mondar](https://open.spotify.com/album/4Ord2xIq0FaILVSt4bNBGa) | 3:53 |
 | 49 | [La Noche](https://open.spotify.com/track/15DUcGdD7BnGEJW6cZmtbd) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 4:23 |
-| 50 | [No Damos Pa Olvidarnos](https://open.spotify.com/track/2mhBxoWPpyp3vVofruuOCA) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K) | [No Damos Pa Olvidarnos](https://open.spotify.com/album/6i0qg72tOuzobyy8TWNnjE) | 3:36 |
+| 50 | [Tres Perlas](https://open.spotify.com/track/3VFxQ09UP5ttUyRRDLG2qB) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Legendarios](https://open.spotify.com/album/7K1Z4XJhJLPF2tBbrNCtEU) | 3:20 |
 
 Snapshot ID: `AAAAABrwzZgVL420rDryEtAj04Gone/+`

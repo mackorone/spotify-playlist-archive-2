@@ -4,7 +4,7 @@
 
 > ❄️❄️❄️
 
-302 songs - 15 hr 47 min
+304 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Det går bra](https://open.spotify.com/track/1a7vBJg7GDMy5ClHexkfvv) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Det går bra](https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF) | 3:17 | 2025-10-30 |  |
 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 | 2025-04-24 |  |
 | [Don’t Say You Love Me \(2025\)](https://open.spotify.com/track/4KcaUU9ZjQJK6bJsURDisB) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Don’t Say You Love Me \(2025\)](https://open.spotify.com/album/1CT2uUKc93QF0Ymj5cP5Y4) | 3:17 | 2025-04-10 | 2025-06-13 |
+| [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 | 2026-02-12 |  |
 | [Du ska få en dag i mårgå](https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Du ska få en dag i mårgå](https://open.spotify.com/album/4mAbJTCZceU9TDFjHmEr4u) | 3:26 | 2025-01-30 |  |
 | [Dum og lovende](https://open.spotify.com/track/5xKfbK1rSRZVaxRSgkGrey) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 3:07 | 2024-10-31 | 2024-12-11 |
 | [Dårlig idé](https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Dårlig idé](https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx) | 2:12 | 2024-06-27 | 2025-12-14 |
@@ -210,7 +211,7 @@
 | [Nå har du meg](https://open.spotify.com/track/33coicso7oegceR6nB7Srl) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Nå har du meg](https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy) | 3:41 | 2024-06-27 |  |
 | [Oh Love \- Acoustic](https://open.spotify.com/track/1eJJfaTChNekT1pudPc2Ur) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Oh Love \(Acoustic\)](https://open.spotify.com/album/2LYicowoYBTLSr5vRw0zOZ) | 3:21 | 2024-10-03 |  |
 | [ok](https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [ok](https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov) | 2:29 | 2024-06-27 | 2025-05-03 |
-| [Ole Lukkøye](https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ole Lukkøye](https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ) | 4:25 | 2025-01-30 |  |
+| [Ole Lukkøye](https://open.spotify.com/track/03MTSWFmsqzh7lch0AlPAJ) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Ole Lukkøye](https://open.spotify.com/album/6KmalLGuo1RnLKTloNsiAQ) | 4:25 | 2025-01-30 | 2026-02-13 |
 | [Om du tror på oss](https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3), [Erlend Ropstad](https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t) | [Om du tror på oss](https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6) | 3:50 | 2024-09-05 | 2025-08-28 |
 | [Om hundre år](https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Om hundre år](https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9) | 2:35 | 2024-06-27 | 2025-09-26 |
 | [Oppe på månen](https://open.spotify.com/track/4PtFehKH1ric4In2Mc5Asg) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Oppe på månen](https://open.spotify.com/album/2D2Q25zXzCo9uu8OydjVyl) | 3:35 | 2025-09-18 |  |
@@ -220,7 +221,7 @@
 | [People Come And Go](https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [People Come And Go](https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN) | 2:34 | 2024-06-27 | 2025-01-12 |
 | [Peter Pan](https://open.spotify.com/track/3RjdGUE2Dpu8NjiHqnO0ca) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Erik Og Kriss](https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR) | [Peter Pan](https://open.spotify.com/album/70DAZvZQlwYnJxsGTRZdHn) | 2:49 | 2024-06-27 | 2024-10-25 |
 | [Piya Piya Calling \(feat\. The Quick Style\)](https://open.spotify.com/track/1K0d6cMvNwiAhQWJjqYJDu) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN), [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg), [The Quick Style](https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC) | [Piya Piya Calling \(feat\. The Quick Style\)](https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R) | 4:46 | 2024-06-27 | 2025-04-11 |
-| [Pornography](https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Pornography](https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK) | 3:46 | 2024-10-24 |  |
+| [Pornography](https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Pornography](https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK) | 3:46 | 2024-10-24 | 2026-02-13 |
 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 | 2025-04-10 |  |
 | [Propaganda](https://open.spotify.com/track/5zGu3uII70nzOzgPbPZcfZ) | [Briskeby](https://open.spotify.com/artist/0vwcghB4GeosdKQs0SOizP), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Propaganda](https://open.spotify.com/album/5NDlSfC0GVT5DRBSJkNX6b) | 3:13 | 2025-09-25 |  |
 | [På besøk](https://open.spotify.com/track/0uoq8SgOPFuT6uq5WtlXFi) | [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Vendepunkt](https://open.spotify.com/album/3eU4aCZuPIq8hL2dSoibWI) | 3:17 | 2024-10-10 | 2026-01-15 |
@@ -237,6 +238,7 @@
 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-27 | 2025-06-02 |
 | [Sirens](https://open.spotify.com/track/4mPmG1qvK98PXeNhLVFMVB) | [Kristina Moe Hals](https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj) | [Sirens](https://open.spotify.com/album/3tffwNpUA42EvmJ2O2NLGl) | 2:37 | 2025-12-04 | 2025-12-12 |
 | [Siste første dans](https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bedre dager](https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4) | 3:40 | 2026-02-05 |  |
+| [Sjelen](https://open.spotify.com/track/6Azklj5eui0iZ4ikG0L47g) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Sjelen](https://open.spotify.com/album/1MPznXnULu0vA6rNA6O32L) | 2:48 | 2026-02-12 |  |
 | [Sjå på oss nå](https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Sjå på oss nå](https://open.spotify.com/album/7EROkbDNF25Kr9Ncnc24CQ) | 3:15 | 2024-06-27 | 2024-09-30 |
 | [SKJORTE & SLIPS](https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SKJORTE & SLIPS](https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM) | 3:02 | 2025-05-29 |  |
 | [Skyfri himmel](https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Skyfri himmel](https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN) | 3:45 | 2024-07-11 |  |

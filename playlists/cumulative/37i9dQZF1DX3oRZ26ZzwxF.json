@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Black K",
+  "description": "Le meilleur du rap africain francophone. Photo : L'Oiseau Rare",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "AFRO-N-TCHAM 2",
+        "url": "https://open.spotify.com/album/0aTEIBSkouiQnHANZUekbg"
+      },
+      "artists": [
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        },
+        {
+          "name": "Bol\u00e9mvn",
+          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
+        },
+        {
+          "name": "Zrai",
+          "url": "https://open.spotify.com/artist/46t0xFZDeHqK8Btzcf6qU7"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184309,
+      "name": "10",
+      "url": "https://open.spotify.com/track/1pciAPsOnZALtJAJx3RhjD"
+    },
+    {
+      "album": {
         "name": "13500 Volts",
         "url": "https://open.spotify.com/album/1ChdvOyWF5BAS5DEwGHkXT"
       },
@@ -34,7 +60,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 210050,
       "name": "13500 Volts",
       "url": "https://open.spotify.com/track/0WMSn16DmB8Jr62YrtJjqX"
@@ -906,7 +932,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 162491,
       "name": "CAMERA",
       "url": "https://open.spotify.com/track/5g6KbDdqijAIhBoaCEsljr"
@@ -1314,6 +1340,24 @@
       "duration_ms": 200221,
       "name": "C\u2019PAS MM CHOSE",
       "url": "https://open.spotify.com/track/0rIE652lQqE7NK6sHR5ive"
+    },
+    {
+      "album": {
+        "name": "Daishi Drill",
+        "url": "https://open.spotify.com/album/5pDjtnyf7Do0GjIsfZimzz"
+      },
+      "artists": [
+        {
+          "name": "Tchaikabo",
+          "url": "https://open.spotify.com/artist/0eoxmEcWThjtuMeK7sVSw3"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157514,
+      "name": "Daishi Drill",
+      "url": "https://open.spotify.com/track/3bfDcnm4XmGBPOwxGlaDOh"
     },
     {
       "album": {
@@ -2177,6 +2221,28 @@
     },
     {
       "album": {
+        "name": "BABYLONE BR\u00dbLE",
+        "url": "https://open.spotify.com/album/7BAVu8l09EW1vaLyQkghmy"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lion",
+          "url": "https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb"
+        },
+        {
+          "name": "Suspect95",
+          "url": "https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "GARBA 13K",
+      "url": "https://open.spotify.com/track/2MNH7y7Q5MgwX7YyQNU3uN"
+    },
+    {
+      "album": {
         "name": "Gar\u00e7on",
         "url": "https://open.spotify.com/album/7DmIq6xQeYUVCWgM4DiDc1"
       },
@@ -2722,7 +2788,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 188256,
       "name": "La Botte",
       "url": "https://open.spotify.com/track/1CzrD0hMyfVVdGPZM675om"
@@ -3368,7 +3434,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 150792,
       "name": "Moula",
       "url": "https://open.spotify.com/track/3jqJzlVb2sJYxDncn52mDo"
@@ -3488,7 +3554,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 160645,
       "name": "Ngoze Sisia",
       "url": "https://open.spotify.com/track/2TNGpZ3E3j4b70dbYztg5d"
@@ -3684,10 +3750,44 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 112315,
       "name": "NYAMIEN SON NO FALL",
       "url": "https://open.spotify.com/track/1HT0W65VKtVBG9wodAVqVo"
+    },
+    {
+      "album": {
+        "name": "N\u00c9GRIER",
+        "url": "https://open.spotify.com/album/3JDNDBjFdODGxHUw1fwWo5"
+      },
+      "artists": [
+        {
+          "name": "The Alone",
+          "url": "https://open.spotify.com/artist/2T1HPiXlPPtIZwcYovhQIO"
+        },
+        {
+          "name": "M6",
+          "url": "https://open.spotify.com/artist/1WziWnAar3iwF97Rf9BrtW"
+        },
+        {
+          "name": "Manu V",
+          "url": "https://open.spotify.com/artist/1hj8aXWcs3vSqUDYG6gG5w"
+        },
+        {
+          "name": "AKM",
+          "url": "https://open.spotify.com/artist/24tinpIkS6DnqqDNCDAN6Q"
+        },
+        {
+          "name": "YNGsaff313",
+          "url": "https://open.spotify.com/artist/366GQgfNv6XtKG0Wn0Nkp0"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245019,
+      "name": "N\u00c9GRIER",
+      "url": "https://open.spotify.com/track/5JPlVpxQGBM6g2bSep7vr2"
     },
     {
       "album": {
@@ -3789,6 +3889,28 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Miedjia",
+          "url": "https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "OPPS",
+      "url": "https://open.spotify.com/track/4F4uhw5w3awax9gr6oiw37"
+    },
+    {
+      "album": {
         "name": "Oulala",
         "url": "https://open.spotify.com/album/04a4hx64YQGoVHKAwPZVzQ"
       },
@@ -3869,6 +3991,24 @@
     },
     {
       "album": {
+        "name": "Papito",
+        "url": "https://open.spotify.com/album/1x5RDG2ZZCtSqYJMToGXpE"
+      },
+      "artists": [
+        {
+          "name": "Shapat",
+          "url": "https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188734,
+      "name": "Papito",
+      "url": "https://open.spotify.com/track/421gugauN1h8pMGYNFQdne"
+    },
+    {
+      "album": {
         "name": "PARTIR",
         "url": "https://open.spotify.com/album/3AqWYIt6vRoPkPHl4ww7qe"
       },
@@ -3906,6 +4046,24 @@
       "duration_ms": 188960,
       "name": "Pas Toucher (feat. Fanicko)",
       "url": "https://open.spotify.com/track/0bRW67DKXwALmPn6KWJ45u"
+    },
+    {
+      "album": {
+        "name": "Pein\u00e9",
+        "url": "https://open.spotify.com/album/5gNX81xKh4tVuKyshQyCzu"
+      },
+      "artists": [
+        {
+          "name": "Sindika",
+          "url": "https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201980,
+      "name": "Pein\u00e9",
+      "url": "https://open.spotify.com/track/6XbRYqWGuc93IvNO0itIav"
     },
     {
       "album": {
@@ -5062,7 +5220,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 116619,
       "name": "Voil\u00e0 \u00e7a",
       "url": "https://open.spotify.com/track/6dDI4QZ66y36EPsgMT1fiO"

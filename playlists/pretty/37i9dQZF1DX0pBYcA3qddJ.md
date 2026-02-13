@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,809 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,807 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 47 | [In A Little While \- Demo](https://open.spotify.com/track/73sJljiFxi5YSWwwRvJ3CB) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [In A Little While \(Demo\)](https://open.spotify.com/album/6VzzPEvpsNCZghrphVDOAu) | 4:05 |
 | 48 | [Sadko: Hindu Song \(arr\. N\. Mercz\): Hindu Song from the Opera 'Sadko'](https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC) | [Nora Mercz](https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb), [Nikolai Rimsky\-Korsakov](https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs), [Janos Balint](https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6) | [Flute and Harp](https://open.spotify.com/album/33MNfDsswl60MN5B526hI2) | 3:32 |
 | 49 | [QUIET SPACE FOR QUIET LIFE, Pt.3](https://open.spotify.com/track/7LUxmRn3m9Y7Bpiak546Qt) | [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi), [畳野彩加](https://open.spotify.com/artist/04y7KDVl7fo1YNHCzeRfW4) | [QUIET SPACE FOR QUIET LIFE, Pt.3&4](https://open.spotify.com/album/1pwQGSXQWBJUNHMhGaNP9j) | 14:59 |
-| 50 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
+| 50 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
 | 51 | [Memory Sketches](https://open.spotify.com/track/5JQMan7GM7qVZDlIqsVcgc) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Memory Sketches](https://open.spotify.com/album/5la7iDphAuUuUjv8TSeKd3) | 3:59 |
 | 52 | [fallen leaves](https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [fallen leaves](https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW) | 2:31 |
 | 53 | [where everything flows](https://open.spotify.com/track/538R9PAQnL8X0HYXI5qkwL) | [soma](https://open.spotify.com/artist/6dNAZOcDVPSzljRFMIwwE0) | [where everything flows](https://open.spotify.com/album/5yRbFKcUudsp4arLIbwlfP) | 2:48 |
-| 54 | [Laudate Dominum \(from Vespers, K\. 339\) \(Arr\. Víkingur Ólafsson\) \- Upright Piano](https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [From Afar](https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll) | 4:57 |
-| 55 | [Experience \- Solo Piano](https://open.spotify.com/track/6VqrZ2xkdpTVPbKmBRGiCq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Undiscovered Vol.2](https://open.spotify.com/album/6wj5CvFjtpFIk6AjAYfOcG) | 5:06 |
+| 54 | [Experience \- Solo Piano](https://open.spotify.com/track/6VqrZ2xkdpTVPbKmBRGiCq) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Undiscovered Vol.2](https://open.spotify.com/album/6wj5CvFjtpFIk6AjAYfOcG) | 5:06 |
+| 55 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 | 56 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 |
 | 57 | [雪解けの朝](https://open.spotify.com/track/4V9PhPpzQ00RJjJaqRkgpq) | [荒井桃子](https://open.spotify.com/artist/6ZLhlVDG7KglxlYkMuLwvr) | [雪解けの朝](https://open.spotify.com/album/0gvr1J3aClpX0holnRIFbp) | 3:42 |
 | 58 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 |

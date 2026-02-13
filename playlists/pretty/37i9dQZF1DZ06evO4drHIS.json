@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 19084,
+  "num_followers": 19087,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAz9YHCuR9Su+5msoiCWtfU",
+  "snapshot_id": "aYvGgAAAAADmod/P7c0ODhACE9RJSOAX",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Pu\u00f1o De Tierra",
-        "url": "https://open.spotify.com/album/1a409Jfx8qZCYvza4afRjb"
+        "name": "Luna Azul",
+        "url": "https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP"
       },
       "artists": [
         {
@@ -324,13 +324,13 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         },
         {
-          "name": "Antonio Aguilar Hijo",
-          "url": "https://open.spotify.com/artist/0IdKtkahT8e9Kt7xjxKfTT"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 170400,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/6aCH4XhrhW0AG7NVZghJad"
+      "duration_ms": 188466,
+      "name": "Luna Azul",
+      "url": "https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ"
     },
     {
       "added_at": null,
@@ -367,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Pu\u00f1o De Tierra",
+        "url": "https://open.spotify.com/album/1a409Jfx8qZCYvza4afRjb"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Antonio Aguilar Hijo",
+          "url": "https://open.spotify.com/artist/0IdKtkahT8e9Kt7xjxKfTT"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6aCH4XhrhW0AG7NVZghJad"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico Mi Amor",
         "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
@@ -379,26 +399,6 @@
       "duration_ms": 281560,
       "name": "Cucurrucuc\u00fa Paloma",
       "url": "https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luna Azul",
-        "url": "https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "Luna Azul",
-      "url": "https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ"
     },
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Sonido De Tu Voz",
+        "url": "https://open.spotify.com/album/2VEl4SYSktKfN8eu1avFzJ"
+      },
+      "artists": [
+        {
+          "name": "Chetes",
+          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "El Sonido De Tu Voz",
+      "url": "https://open.spotify.com/track/5aUiMBbZIQq6Zf8A8Njabo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico Mi Amor",
         "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 172653,
       "name": "Gaviota Traidora",
       "url": "https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Sonido De Tu Voz",
-        "url": "https://open.spotify.com/album/2VEl4SYSktKfN8eu1avFzJ"
-      },
-      "artists": [
-        {
-          "name": "Chetes",
-          "url": "https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "El Sonido De Tu Voz",
-      "url": "https://open.spotify.com/track/5aUiMBbZIQq6Zf8A8Njabo"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
-        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 199973,
-      "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Herencia, Mi Sangre",
         "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
       },
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Buena Ranchera",
-        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
       },
       "artists": [
         {
@@ -652,9 +636,25 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 203813,
+      "duration_ms": 199973,
+      "name": "\u00c9chame A M\u00ed La Culpa - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 203653,
       "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
+      "url": "https://open.spotify.com/track/2vrW4HjF6g5x0Jf9ibLCJG"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As\u00ed Son Las Cosas",
-        "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 171529,
-      "name": "As\u00ed Son Las Cosas",
-      "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9jame Vivir",
         "url": "https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 209440,
       "name": "D\u00e9jame Vivir",
       "url": "https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As\u00ed Son Las Cosas",
+        "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 171529,
+      "name": "As\u00ed Son Las Cosas",
+      "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
     },
     {
       "added_at": null,

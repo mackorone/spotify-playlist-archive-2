@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-459 songs - 1 day 3 hr 21 min
+460 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Elastico](https://open.spotify.com/track/2jFFHNAorMKhsupMXN3EmB) | [Blu Samu](https://open.spotify.com/artist/6RcPiWIVptnyi8y3EIbDLB) | [7](https://open.spotify.com/album/0J4tJMg8IXQ5ZQQw17Jj0Y) | 3:07 | 2022-09-09 | 2025-02-07 |
 | [Electric](https://open.spotify.com/track/5HAdfADPJE797O73yUHJMf) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Floyd Fuji](https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD) | [Electric](https://open.spotify.com/album/2xD74v93mGgP188mldE96h) | 4:11 | 2022-09-09 | 2025-02-07 |
 | [Electrical \- Edit](https://open.spotify.com/track/3Sg8iGG91zPVfcbue1vRDm) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB), [Marlena Dae](https://open.spotify.com/artist/0y3I7EmLSzmzJXZNAKSdH8) | [Electrical](https://open.spotify.com/album/1Ed7MyGpONa5yjRLZ6tRW2) | 4:21 | 2025-02-08 |  |
-| [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 | 2024-06-20 |  |
+| [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 | 2024-06-20 | 2026-02-13 |
 | [Energy \(Blue Lab Beats Remix\)](https://open.spotify.com/track/3KeuZQanYEoK46b7k9MkS7) | [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Energy \(Blue Lab Beats Remix\)](https://open.spotify.com/album/4mf7XyxJ3RjydbumEnfwbJ) | 4:54 | 2022-09-09 | 2024-08-30 |
 | [Eva](https://open.spotify.com/track/06WWnCfoJveGUvYQWK7nGf) | [Robson Jorge](https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM), [Lincoln Olivetti](https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E) | [Robson Jorge e Lincoln Olivetti](https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM) | 5:46 | 2022-10-30 | 2025-02-07 |
 | [Everything For You](https://open.spotify.com/track/5XMZSjx1fi2tx2GFTTaPCZ) | [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [Everything For You](https://open.spotify.com/album/1a77Gt9vG7vSwy9iueCJqM) | 2:47 | 2025-11-20 |  |
@@ -192,6 +192,7 @@
 | [If I Stay](https://open.spotify.com/track/09Ib2XztcUmNGD2iNPiQTg) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [If I Stay](https://open.spotify.com/album/1MJRA5NaQMs0KQs81sz4hX) | 3:28 | 2024-10-10 |  |
 | [In Search of Yang](https://open.spotify.com/track/6FR6o5mqPEVRffn9Jxsnqr) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Yatta!](https://open.spotify.com/album/14miHHQBXPPlt61Ax0SK2W) | 4:31 | 2026-01-22 |  |
 | [In The Moment](https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [In The Moment](https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH) | 3:53 | 2025-06-19 |  |
+| [IN THE MOOD](https://open.spotify.com/track/70a5DOAwTeMjHBjvJdj6H2) | [Sedric Perry](https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw), [Josh Cade](https://open.spotify.com/artist/6I002beltKQ6yfbP1xHN5r) | [IN THE MOOD](https://open.spotify.com/album/2yqXQoPy4jAsKnB3TrWVtf) | 3:12 | 2026-02-12 |  |
 | [In Touch \(feat\. Daul\)](https://open.spotify.com/track/6XPY03nLWtiZOIkTs2IBjN) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Charli Taft](https://open.spotify.com/artist/1SLtuLzX7bWXs78mRvEsM1), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [In Touch \(feat\. Daul\)](https://open.spotify.com/album/5ewjsi9Fd4yMPsdaUus5VY) | 3:41 | 2022-09-09 | 2022-09-16 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-09-09 | 2023-10-05 |
 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/1jWMrfsKLOj0wn3hIdXyg4) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [It's Been a Little Heavy Lately](https://open.spotify.com/album/4rOoyuOxlnVmlRVT3vcHVz) | 3:41 | 2022-10-12 | 2023-01-17 |

@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "About A Girl - Live",
       "url": "https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 223373,
       "name": "Because the Night - Live Unplugged",
       "url": "https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 339960,
       "name": "Black - Kaufman Astoria Studios - MTV Unplugged - New York, NY 3/16/1992",
       "url": "https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m"
@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337546,
+      "name": "B\u00e9same Mucho - Live",
+      "url": "https://open.spotify.com/track/04YCoK8SspDy9Gv52aUrz8"
+    },
+    {
+      "album": {
         "name": "Shakira MTV Unplugged",
         "url": "https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe"
       },
@@ -200,10 +218,28 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 249733,
       "name": "Ciega, Sordomuda - En Vivo",
       "url": "https://open.spotify.com/track/1qlWPsawt6eo7L4wvzwRBv"
+    },
+    {
+      "album": {
+        "name": "Panda MTV Unplugged (Live)",
+        "url": "https://open.spotify.com/album/1vtmvP6HpYWljDR2vplT3b"
+      },
+      "artists": [
+        {
+          "name": "PXNDX",
+          "url": "https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236769,
+      "name": "Cita En El Quir\u00f3fano - MTV Unplugged",
+      "url": "https://open.spotify.com/track/7pxQFizSwS8IN39T0dlc2W"
     },
     {
       "album": {
@@ -276,7 +312,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 275333,
       "name": "Dog Days Are Over - MTV Unplugged, 2012 / Live",
       "url": "https://open.spotify.com/track/3pRRYcXy3Z0PsAa8griSoF"
@@ -439,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295866,
+      "name": "Es Por Ti - MTV Unplugged",
+      "url": "https://open.spotify.com/track/3f5vubhmEGPL8JoVi49hm4"
+    },
+    {
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
       },
@@ -508,7 +562,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 278066,
       "name": "He Barrido el Sol - Unplugged Version",
       "url": "https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz"
@@ -692,7 +746,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 225986,
       "name": "La Camisa Negra - MTV Unplugged",
       "url": "https://open.spotify.com/track/6dHy6CvAKt5JBslhjDhlaF"
@@ -948,7 +1002,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 295093,
       "name": "Linger",
       "url": "https://open.spotify.com/track/1P6p83zUu3kQoOktOcMpfh"
@@ -988,6 +1042,24 @@
       "duration_ms": 295866,
       "name": "Linger - Acoustic Version",
       "url": "https://open.spotify.com/track/4oGuHZ966kmCmt3DRVxjXw"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366109,
+      "name": "Llueve Sobre la Ciudad - MTV Unplugged",
+      "url": "https://open.spotify.com/track/11wdpfVtZZLimMAnHM5pTj"
     },
     {
       "album": {
@@ -1060,7 +1132,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 292146,
       "name": "Magic - Live at the Enmore Theatre, Sydney",
       "url": "https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY"
@@ -1078,7 +1150,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 255133,
       "name": "Mar\u00eda - Unplugged",
       "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
@@ -1154,7 +1226,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 226320,
       "name": "Misery - Acoustic Version",
       "url": "https://open.spotify.com/track/7ieV1TBSMyf5sFiPh9X2ai"
@@ -1266,7 +1338,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 266104,
       "name": "Pasos de cero - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
@@ -1464,7 +1536,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 288200,
       "name": "Rezo Por Vos - Live",
       "url": "https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2"
@@ -1500,7 +1572,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 237653,
       "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
@@ -1540,6 +1612,28 @@
       "duration_ms": 324773,
       "name": "Si t\u00fa no vuelves - MTV Unplugged",
       "url": "https://open.spotify.com/track/0L5sYIDHdhnwtJE0xB0JKV"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294760,
+      "name": "Siempre en Mi Mente (En Vivo)",
+      "url": "https://open.spotify.com/track/1nu8Er6v4gGAqtGRYguxnk"
     },
     {
       "album": {
@@ -1867,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Unbreakable - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
+      "url": "https://open.spotify.com/track/2DRcaAO76feWOoWCWP1cPp"
+    },
+    {
+      "album": {
         "name": "Los Bunkers (MTV Unplugged)",
         "url": "https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj"
       },
@@ -1972,10 +2084,28 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 331293,
       "name": "Wind of Change (with Morten Harket) - MTV Unplugged",
       "url": "https://open.spotify.com/track/4iKTbuGckmJaWQAyKDR7Q7"
+    },
+    {
+      "album": {
+        "name": "Y solo se me ocurre amarte (Unplugged) - video",
+        "url": "https://open.spotify.com/album/2mSEhXAn73acIZWlx94mS8"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264234,
+      "name": "Y s\u00f3lo se me ocurre amarte",
+      "url": "https://open.spotify.com/track/5mj44pCWLmC6KVBQjGFngi"
     },
     {
       "album": {
@@ -1990,7 +2120,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 261973,
       "name": "You Learn - Live / Unplugged",
       "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
@@ -2008,7 +2138,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 231874,
       "name": "\u00daltimos D\u00edas - En Vivo",
       "url": "https://open.spotify.com/track/47NLimerGALH038upaVAwD"

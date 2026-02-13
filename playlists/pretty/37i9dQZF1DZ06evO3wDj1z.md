@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 
 > This is Sergio Vega "El Shaka"\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,396 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,433 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 34 | [Zapatos Nuevos](https://open.spotify.com/track/7BcdzFXBXCaHVmOmoUXCmo) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 3:01 |
 | 35 | [Pase Y Pase \- En Vivo](https://open.spotify.com/track/6JddtBLhOsODAOVxRQWeFi) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [A Mi Gente...Mis Canciones En Vivo \(Live At Teatro Del Pueblo Hermosillo, Sonora/2010\)](https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy) | 2:53 |
 | 36 | [Ya No Me Preguntes](https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Millonario De Amor](https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ) | 2:48 |
-| 37 | [Dos Botellas De Mezcal](https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 2:51 |
+| 37 | [Muñequita \- Balada Version](https://open.spotify.com/track/2CHAuszySE0bVoNGhA3xD6) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Necesito Dueña](https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY) | 3:25 |
 | 38 | [Loco](https://open.spotify.com/track/2W5YzZvhA7SOsGAvk8e9Ke) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Cuando El Sol Salga Al Revés](https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa) | 4:04 |
-| 39 | [Muñequita \- Balada Version](https://open.spotify.com/track/2CHAuszySE0bVoNGhA3xD6) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Necesito Dueña](https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY) | 3:25 |
+| 39 | [Dos Botellas De Mezcal](https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Más Exitos Con El Shaka](https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO) | 2:51 |
 | 40 | [Cosas del Amor](https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Me Gusta Estar Contigo](https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG) | 3:19 |
 | 41 | [Silueta De Cristal \- En Vivo](https://open.spotify.com/track/1SjQxDn3wDuXejZrAP1PCT) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [A Mi Gente...Mis Canciones En Vivo \(Live At Teatro Del Pueblo Hermosillo, Sonora/2010\)](https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy) | 4:05 |
 | 42 | [La Maestra \- Ranchera Version](https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Recordando A El Shaka](https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wDj1z.md) - [plain]
 | 49 | [El Santo De La Palma](https://open.spotify.com/track/3W9AG3MZIN1EwBijFfpt91) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [El Jefe De Las Plazas](https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN) | 3:14 |
 | 50 | [Sepa Dios](https://open.spotify.com/track/6kqJnZAi3g4oH3NsxBPvtl) | [Sergio Vega "El Shaka"](https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L) | [Desde El Cielo](https://open.spotify.com/album/73Pq9VKUdTh4gVUwvxCzQd) | 2:38 |
 
-Snapshot ID: `aYp1AAAAAABCK+Xe04P8XoU9NR0Ilzle`
+Snapshot ID: `aYvGgAAAAABnTxlDw3UFfy2s+JGLgZC4`

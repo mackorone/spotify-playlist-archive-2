@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Jo\u00e9 Dw\u00e8t Fil\u00e9",
   "name": "R&Bae",
   "tracks": [
     {
@@ -216,6 +216,24 @@
       "duration_ms": 191900,
       "name": "Aime encore",
       "url": "https://open.spotify.com/track/7cdZLWUqqx3bbLBl0HUCCM"
+    },
+    {
+      "album": {
+        "name": "Aime-moi, m\u00eame..",
+        "url": "https://open.spotify.com/album/2Si3nMgXlcPmDeKlOb4v3d"
+      },
+      "artists": [
+        {
+          "name": "Asma",
+          "url": "https://open.spotify.com/artist/0GAbpRBkxeFvT9d5yjOMrB"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158930,
+      "name": "Aime-moi, m\u00eame..",
+      "url": "https://open.spotify.com/track/6fyPNAUQ6Hb78xEKwzdZ5b"
     },
     {
       "album": {
@@ -615,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Avec Toi",
+        "url": "https://open.spotify.com/album/7dDITCMm5RIOovZXTk4sSv"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163573,
+      "name": "Avec Toi",
+      "url": "https://open.spotify.com/track/0SRQ16wkyqjvwMCaIr6nCJ"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY"
       },
@@ -932,6 +968,24 @@
       "duration_ms": 164170,
       "name": "Best life",
       "url": "https://open.spotify.com/track/3pI61vYUF9X8sutyoPv8IB"
+    },
+    {
+      "album": {
+        "name": "BISOUS",
+        "url": "https://open.spotify.com/album/5O9qz0QqRtfVCjzG4ckm4r"
+      },
+      "artists": [
+        {
+          "name": "Yardenn",
+          "url": "https://open.spotify.com/artist/28Ne64DUH2VrQ6WrvPuzpv"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "BISOUS",
+      "url": "https://open.spotify.com/track/1ezI3EwAdJEmSxlfwdLzli"
     },
     {
       "album": {
@@ -1304,7 +1358,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 130140,
       "name": "Busy Boi",
       "url": "https://open.spotify.com/track/3qBUIqr8PYumMyhv4xIQ03"
@@ -1578,7 +1632,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 250280,
       "name": "Cash",
       "url": "https://open.spotify.com/track/2cjFC5JLBSwAx5iHiJ71HI"
@@ -2763,6 +2817,46 @@
     },
     {
       "album": {
+        "name": "Derniers mots",
+        "url": "https://open.spotify.com/album/4C5Cfjw3xduutdtarcXZfy"
+      },
+      "artists": [
+        {
+          "name": "Shey",
+          "url": "https://open.spotify.com/artist/3xkPuTZqgHUOu9gbReSYnj"
+        },
+        {
+          "name": "clubb29",
+          "url": "https://open.spotify.com/artist/0K7keeoOzJy1x8eQPVdgNg"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157441,
+      "name": "Derniers mots",
+      "url": "https://open.spotify.com/track/1uWdCgaUMyzqwdCfYED5IF"
+    },
+    {
+      "album": {
+        "name": "Derni\u00e8re fois",
+        "url": "https://open.spotify.com/album/3Qgp2kcNdMsoVMWNvTi8aq"
+      },
+      "artists": [
+        {
+          "name": "Neyda",
+          "url": "https://open.spotify.com/artist/1YNtvynvmeKZHpO2WHGLu3"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147960,
+      "name": "Derni\u00e8re fois",
+      "url": "https://open.spotify.com/track/12TulxfqcEEAE6EfPPARCy"
+    },
+    {
+      "album": {
         "name": "Train de vie",
         "url": "https://open.spotify.com/album/1vgaVtoq7sXwucDWv9I7Ez"
       },
@@ -3884,7 +3978,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 133069,
       "name": "FIRST DATE",
       "url": "https://open.spotify.com/track/1hl3P1lMBTvAy484nf20t2"
@@ -4598,7 +4692,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 220490,
       "name": "Il s'appelait Tayc",
       "url": "https://open.spotify.com/track/2BXseQq9ypAA6Bp1urAbM4"
@@ -6120,6 +6214,28 @@
       "duration_ms": 309907,
       "name": "Love Therapy",
       "url": "https://open.spotify.com/track/4okJMwSKCekj9NdAYZnAAt"
+    },
+    {
+      "album": {
+        "name": "Lover dose",
+        "url": "https://open.spotify.com/album/28TjJHChEPS0DK3woifaxT"
+      },
+      "artists": [
+        {
+          "name": "Bizzy",
+          "url": "https://open.spotify.com/artist/3tsgXW0J2AhnaKh9hTnT3W"
+        },
+        {
+          "name": "Skay",
+          "url": "https://open.spotify.com/artist/4BzEB3WGlsF0UksuB8IYIr"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161951,
+      "name": "Lover dose",
+      "url": "https://open.spotify.com/track/7iMzJHGiB93zZlDfhgIZVB"
     },
     {
       "album": {
@@ -7697,6 +7813,24 @@
     },
     {
       "album": {
+        "name": "N\u00c9ON ROUGE",
+        "url": "https://open.spotify.com/album/4Jbxa1c5GFMLQRQ9jquw6t"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149613,
+      "name": "N\u00c9ON ROUGE",
+      "url": "https://open.spotify.com/track/0z7mcN9vpUG9CWLY7QnWIK"
+    },
+    {
+      "album": {
         "name": "Odjo",
         "url": "https://open.spotify.com/album/4ULOaqdIcArvKcU0sP64D3"
       },
@@ -8634,7 +8768,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 183293,
       "name": "Please",
       "url": "https://open.spotify.com/track/1JxkfYFfPb8vZDncVbQien"
@@ -9148,7 +9282,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 154405,
       "name": "Que tu m'aimes",
       "url": "https://open.spotify.com/track/36YCjb2EaQZXidmTy5bkpI"
@@ -10380,7 +10514,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 190434,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6Yoxcu3q5HJf0Vt0cO9JZ7"
@@ -11562,7 +11696,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 170802,
       "name": "TU PLEURES",
       "url": "https://open.spotify.com/track/1KvhshQSvAtL9YXSBcQvWQ"

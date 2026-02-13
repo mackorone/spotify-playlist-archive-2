@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,515 likes - 100 songs - 5 hr 36 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,515 likes - 102 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 98 | [Wake Up Calling](https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Wake Up Calling](https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L) | 3:49 |
 | 99 | [Eat My Dust!](https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Eat My Dust!](https://open.spotify.com/album/4E8nAMLXCyRiaVP3sPgmUf) | 2:59 |
 | 100 | [Eat My Dust!](https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Eat My Dust!](https://open.spotify.com/album/4E8nAMLXCyRiaVP3sPgmUf) | 2:59 |
+| 101 | [You Got to Lose](https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [You Got to Lose](https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1) | 3:17 |
+| 102 | [Au Revoir Reservoir](https://open.spotify.com/track/4FuFWcilYbfBCe7peW45Ag) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Tenterhooks](https://open.spotify.com/album/71wJ2hxdQJExW1DwxIZ5Sr) | 3:21 |
 
-Snapshot ID: `AAAHxSdqO4V0YUdkuKEGmUK0dVKLQPZ4`
+Snapshot ID: `AAAHx5WEr7hRHingOXJv0FFfI0h8h8QD`

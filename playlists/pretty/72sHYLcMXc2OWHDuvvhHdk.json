@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAJmkZwR93FJdfv+nn9qn2TwtiB1PK5",
+  "snapshot_id": "AAAJnvZwpUiqbYfrfEPUBjzsi+lh5IGt",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -38319,6 +38319,70 @@
       "duration_ms": 441053,
       "name": "Gleichsein - Extended Version",
       "url": "https://open.spotify.com/track/1vnMCjKEUsQW7uuWMZPDlJ"
+    },
+    {
+      "added_at": "2026-02-12 22:38:08",
+      "album": {
+        "name": "After The Signal",
+        "url": "https://open.spotify.com/album/0yzVaccOr0T3cKBinuZwhs"
+      },
+      "artists": [
+        {
+          "name": "Vetus",
+          "url": "https://open.spotify.com/artist/5ttgYDG4whP6U4pLIp0a0f"
+        }
+      ],
+      "duration_ms": 214959,
+      "name": "Live With The Day",
+      "url": "https://open.spotify.com/track/4ijTymS7wcVeaGsAJRmwPa"
+    },
+    {
+      "added_at": "2026-02-12 22:45:26",
+      "album": {
+        "name": "JUA NAKUPENDA",
+        "url": "https://open.spotify.com/album/5biFSCoMErFP6zEaGwb4q0"
+      },
+      "artists": [
+        {
+          "name": "MARK OVIN",
+          "url": "https://open.spotify.com/artist/7AuFoZQgb2ekBCPLnY0Mfz"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "JUA NAKUPENDA",
+      "url": "https://open.spotify.com/track/3P3B5WfMGFwtROsOu0mtb6"
+    },
+    {
+      "added_at": "2026-02-12 22:46:46",
+      "album": {
+        "name": "Tomorrow Is The Future",
+        "url": "https://open.spotify.com/album/5tiAe9vkPgvOzNZ7muVBLb"
+      },
+      "artists": [
+        {
+          "name": "Riot Hype",
+          "url": "https://open.spotify.com/artist/6AkTxR6fyVtmtsXJ6IBMeK"
+        }
+      ],
+      "duration_ms": 154030,
+      "name": "Shattered Pieces - Remastered 2026",
+      "url": "https://open.spotify.com/track/0GsmUiID1NhxGPrlBGGxk5"
+    },
+    {
+      "added_at": "2026-02-12 22:48:42",
+      "album": {
+        "name": "Dirty Lines Through Indigo Minds",
+        "url": "https://open.spotify.com/album/5VGOfHz3KrBSynttgQ48J7"
+      },
+      "artists": [
+        {
+          "name": "Vann's Nebula",
+          "url": "https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM"
+        }
+      ],
+      "duration_ms": 113987,
+      "name": "Windborne",
+      "url": "https://open.spotify.com/track/0O9NDl3eK2OvQREtczZ6kD"
     }
   ],
   "unique_name": "Cruise Music",

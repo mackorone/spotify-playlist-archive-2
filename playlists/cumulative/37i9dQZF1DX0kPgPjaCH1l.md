@@ -2,9 +2,9 @@
 
 ### [afro adura ](https://open.spotify.com/playlist/37i9dQZF1DX0kPgPjaCH1l)
 
-> Baba God, run am 🙏\. <br/>Cover:  Priesst
+> Baba God, run am 🙏\. <br/>Cover:  Phyno
 
-124 songs - 5 hr 48 min
+126 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Blessings \(Kura\)](https://open.spotify.com/track/7L9MFfcZGJhANKgZ6s4cjw) | [Dapper](https://open.spotify.com/artist/4IKVSEkZ9IT013SNvUaMlq), [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Blessings \(Kura\)](https://open.spotify.com/album/4ynej0qVlWtRvP3db58hVT) | 2:39 | 2025-08-29 | 2025-10-10 |
 | [Born Winner](https://open.spotify.com/track/5AlqRvqPdsn3KYnDwcgZMI) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:49 | 2025-07-11 |  |
 | [Buga Won](https://open.spotify.com/track/0YwXiAaMSFt9XN5a2T26ZM) | [Dammye](https://open.spotify.com/artist/14cgLDAWHeu4vnHl6p8drF), [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Buga Won](https://open.spotify.com/album/19EmQRRM4aUj8prMyGNzvP) | 2:58 | 2025-08-15 | 2025-08-30 |
-| [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 | 2025-06-20 |  |
+| [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 | 2025-06-20 | 2026-02-13 |
 | [Cana](https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:20 | 2026-01-14 | 2026-02-07 |
 | [Casablanca](https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Casablanca](https://open.spotify.com/album/1PrAQba9MMtVlUGtjxnf1b) | 2:43 | 2025-06-20 |  |
 | [Comforter](https://open.spotify.com/track/12uJDbjH0gwh0fs4gFgDhQ) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:18 | 2025-06-20 | 2026-01-23 |
@@ -66,7 +66,7 @@
 | [Id.Me](https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Id.Me](https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt) | 2:49 | 2025-06-20 |  |
 | [Imagine](https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Intergalactic Dreams](https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S) | 2:04 | 2025-06-20 |  |
 | [Imperfect](https://open.spotify.com/track/7J1qawxA1ewz7syweC0FqK) | [Obedo PF](https://open.spotify.com/artist/7k101dkUO2zeS4BDohLMvm) | [Hope for Ghetto Youth](https://open.spotify.com/album/40B4uYQBcRNEPGxwMFuSH9) | 2:25 | 2025-08-22 |  |
-| [Info \(feat\. DJ Kas\)](https://open.spotify.com/track/716WIhl6r5SBE1BMyAhfVd) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS), [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb), [DJ Kas](https://open.spotify.com/artist/4L8CheDFALlOzgUygvWblJ) | [SISU](https://open.spotify.com/album/7m080doGEza8nSfpQVihr2) | 2:51 | 2026-01-30 |  |
+| [Info \(feat\. DJ Kas\)](https://open.spotify.com/track/716WIhl6r5SBE1BMyAhfVd) | [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS), [Bahd Man Niko](https://open.spotify.com/artist/2wzUPRXpsHccu7ZxIlqJsb), [DJ Kas](https://open.spotify.com/artist/4L8CheDFALlOzgUygvWblJ) | [SISU](https://open.spotify.com/album/7m080doGEza8nSfpQVihr2) | 2:51 | 2026-01-30 | 2026-02-13 |
 | [Instagram](https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Instagram](https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S) | 2:20 | 2025-06-20 |  |
 | [Introduction](https://open.spotify.com/track/18Dqu7gVORIPeijXiugQnk) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Introduction](https://open.spotify.com/album/3rhPZe2525Jd9SO1A4FIFR) | 2:25 | 2025-06-20 | 2026-01-15 |
 | [IQ](https://open.spotify.com/track/1rWP1UqheRM5iBaCZfqCGz) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby 2.0](https://open.spotify.com/album/0nXjP0DNJ8Cwd0e5ytg81G) | 3:16 | 2025-09-19 | 2026-01-15 |
@@ -89,6 +89,7 @@
 | [My Father My father](https://open.spotify.com/track/2pJc9s2R4zwfexvsAmwq2N) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [My Father My father](https://open.spotify.com/album/5z28zMGx9Hf4dH1uWkzH9Q) | 2:38 | 2026-01-14 | 2026-01-25 |
 | [My Way](https://open.spotify.com/track/3yLREZjJFnYLAN4aOUqqP6) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [My Way](https://open.spotify.com/album/5ew8bhyjYFzX6wgoMdEn4i) | 2:34 | 2025-06-20 |  |
 | [Nigga](https://open.spotify.com/track/0voiVxfuDYLdwVTmE4bErO) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [El\-Chapo](https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ) | 3:05 | 2025-11-28 | 2026-01-15 |
+| [No Pressure](https://open.spotify.com/track/0hwVl39bgk9x2Uo4RkMNd9) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd), [Kellylivinglarge](https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo) | [No Pressure](https://open.spotify.com/album/7lA8y9H22siEQyFgJLADkC) | 2:40 | 2026-02-13 |  |
 | [Nzaza](https://open.spotify.com/track/0VjzaXw81JQJM61pzWwP8b) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 3:03 | 2025-06-20 |  |
 | [Oblee](https://open.spotify.com/track/6dSmpNvpSWZy88ZOyZSLVr) | [Tolibian](https://open.spotify.com/artist/44eqhSM6GJCasxu26ruT3j) | [Oblee](https://open.spotify.com/album/5xIATxfcsyTr21fMTSmplp) | 2:37 | 2025-06-20 | 2025-07-26 |
 | [OBT \(feat\. BhadBoi OML\)](https://open.spotify.com/track/7hc0ewHtET7bp7yBQphhex) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [OBT \(feat\. BhadBoi OML\)](https://open.spotify.com/album/2PhhHwEPTxu0OwhcKQb8b5) | 2:50 | 2026-02-06 |  |
@@ -124,6 +125,7 @@
 | [Try \(feat\. Young Jonn\)](https://open.spotify.com/track/12Mel6t7zZlfn1CpmwL96L) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Ecstasy](https://open.spotify.com/album/7yURZkIZfXifDmWOT48TT9) | 3:34 | 2025-06-20 |  |
 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 | 2026-01-23 |  |
 | [Upgrade](https://open.spotify.com/track/4B8slHZUcFHu8ikY7EIvDt) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension](https://open.spotify.com/album/2tHeMvMbLAJnUWanq02jUV) | 2:59 | 2025-06-20 |  |
+| [Uzo Ano](https://open.spotify.com/track/70Y5c9SimCfgEiO4koOPIo) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Uzo Ano](https://open.spotify.com/album/5ZxsefAXL0pCtv9E0pkXYL) | 3:38 | 2026-02-13 |  |
 | [Vision 2020](https://open.spotify.com/track/19qcOFIW6mYHwKYSfY2HWo) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension](https://open.spotify.com/album/2tHeMvMbLAJnUWanq02jUV) | 3:41 | 2025-06-20 | 2026-02-06 |
 | [Waka](https://open.spotify.com/track/0mCBtZyqiep9yhdaGngqkf) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a), [Jvxn](https://open.spotify.com/artist/525r48qbJRGBtA06GeM0Uk), [Deeno](https://open.spotify.com/artist/38mP0nGEm785AE0rWJeFWj) | [Waka](https://open.spotify.com/album/2pdWKhHyzwc6gO9703TRrA) | 3:02 | 2025-11-07 |  |
 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 | 2025-06-20 |  |

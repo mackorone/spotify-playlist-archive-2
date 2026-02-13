@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Original Koffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,162,358 likes - 110 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,162,184 likes - 110 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 39 | [Three Little Birds \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Three Little Birds \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u) | 4:01 |
 | 40 | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [He Loves Us Both \(feat\. H.E.R.\)](https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5) | 3:41 |
 | 41 | [Hail H.I.M \- 2002 Remastered Version](https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Hail H.I.M](https://open.spotify.com/album/1bSUHJjoGnNvkDUjlD79Bg) | 4:15 |
-| 42 | [Kingston Town](https://open.spotify.com/track/3yDxEMaxtUATqs22VgqzTu) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love I & II](https://open.spotify.com/album/5Rl7hIIz0a2O6qQNEeHBV3) | 3:51 |
-| 43 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
+| 42 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
+| 43 | [Kingston Town](https://open.spotify.com/track/3yDxEMaxtUATqs22VgqzTu) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love I & II](https://open.spotify.com/album/5Rl7hIIz0a2O6qQNEeHBV3) | 3:51 |
 | 44 | [Natty Rebel \- Remaster 1990](https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Natty Rebel \(Extra Version\)](https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ) | 3:31 |
 | 45 | [Do To Me](https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Do To Me](https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg) | 3:45 |
 | 46 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted: The Best of King Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 98 | [Mountain Top](https://open.spotify.com/track/6hqpa3TiYUz8RYZZf1drrR) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Mountain Top](https://open.spotify.com/album/0KM7iPKWcc9rUeXV0mmdVg) | 2:20 |
 | 99 | [Dash Wata](https://open.spotify.com/track/31Qgsts9pDVcocBJRS7lVl) | [Raging Fyah](https://open.spotify.com/artist/5FhMGuqdjkRUojGPm8542N) | [Everlasting](https://open.spotify.com/album/37HnYAB2wsNldbGHpOGkwi) | 3:53 |
 | 100 | [Light My Way](https://open.spotify.com/track/6lbN9JJcWYCq0KrpHXqQ9d) | [Royal Blu](https://open.spotify.com/artist/5GZOZpWXKPAMPZQrcrnyzx), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [The Autos](https://open.spotify.com/artist/0UJa2HnlrNe3QueQ7MWTR0) | [Light My Way](https://open.spotify.com/album/4ebYOwCdrhNktMPMv8zrcZ) | 3:19 |
-| 101 | [Look Deep](https://open.spotify.com/track/2kfNmluPa17SRaKtjFpQ2x) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Look Deep](https://open.spotify.com/album/4k5gEubeYKoHDOyVjxn8ex) | 2:57 |
-| 102 | [Gunman](https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Gunman](https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR) | 3:53 |
+| 101 | [Gunman](https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Gunman](https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR) | 3:53 |
+| 102 | [Look Deep](https://open.spotify.com/track/2kfNmluPa17SRaKtjFpQ2x) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Look Deep](https://open.spotify.com/album/4k5gEubeYKoHDOyVjxn8ex) | 2:57 |
 | 103 | [Good Ol' Days \(featuring Cedella Marley\)](https://open.spotify.com/track/28Q2F391hseaFE88B3jki4) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:17 |
 | 104 | [Sweet Inspiration](https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Sweet Inspiration](https://open.spotify.com/album/0kYYdZN5cSgmcBCcA8KmcE) | 3:36 |
 | 105 | [Africa Must Wake Up](https://open.spotify.com/track/2TjwK8EkwVUBty7eBUPCYD) | [Nas & Damian "Jr\. Gong" Marley](https://open.spotify.com/artist/3w2WYNyPCPkZFoC1EqfCMe), [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Distant Relatives](https://open.spotify.com/album/6Cj4gSdavyZCIhmeoCcrI6) | 6:40 |

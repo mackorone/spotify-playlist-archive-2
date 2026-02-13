@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,645,528 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,645,521 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 71 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
 | 72 | [Alice's Restaurant Massacree](https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 18:36 |
 | 73 | [When I'm Gone](https://open.spotify.com/track/0yQ9vnsC7CyPMwAQ3BlWcJ) | [Phil Ochs](https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo) | [There But For Fortune](https://open.spotify.com/album/5uhYaHfiH4leO4tbdEOZJe) | 4:13 |
-| 74 | [Sing a Song for You](https://open.spotify.com/track/01o6YGrdvMrUAFmWgwoDCb) | [Tim Buckley](https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr) | [Happy Sad](https://open.spotify.com/album/20CYfxjKvqXkCXBhAgOE39) | 2:41 |
-| 75 | [Older Chests](https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
+| 74 | [Older Chests](https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:46 |
+| 75 | [Sing a Song for You](https://open.spotify.com/track/01o6YGrdvMrUAFmWgwoDCb) | [Tim Buckley](https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr) | [Happy Sad](https://open.spotify.com/album/20CYfxjKvqXkCXBhAgOE39) | 2:41 |
 | 76 | [Universal Soldier](https://open.spotify.com/track/4MCI71gpCGwHsK2rv7c8pv) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [It's My Way](https://open.spotify.com/album/3xqpKfDsGJYbCdMndvxZmd) | 2:20 |
 | 77 | [Reason to Believe](https://open.spotify.com/track/1RcKqJ28uiE8EHPfg7Mg2J) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [1966](https://open.spotify.com/album/1K7tpapZGd6Ax1YA2vXNEA) | 2:24 |
 | 78 | [Not Alone](https://open.spotify.com/track/2SXtIzmLn2a8WHDbxAt6Ai) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Living With Ghosts](https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF) | 4:32 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 85 | [Great Day](https://open.spotify.com/track/6QP9DFKvDjegtwz2HQZFL7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Funny People \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zrPKpcz1dKsWWqQGICVrg) | 2:08 |
 | 86 | [You Don't Mess Around With Jim \- 50th Anniversary Edition](https://open.spotify.com/track/6dLhYVpNuZ8v5JjvDM9mrZ) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Demo Tapes \(50th Anniversary Edition\)](https://open.spotify.com/album/5HHuoMwMyFQ2hf95VyLWuk) | 2:45 |
 | 87 | [Woman Soul](https://open.spotify.com/track/7mnR1m62Ynkqgm9HiziFH8) | [Dory Previn](https://open.spotify.com/artist/4x3O97skvSMH61NkaKrZq8) | [We're Children Of Coincidence And Harpo Marx](https://open.spotify.com/album/2Z4PxWel0AXEpfy0rSLhXK) | 3:43 |
-| 88 | [Turn, Turn, Turn \(To Everything There Is a Season\) \- Live in Munich, Germany \- April 1969](https://open.spotify.com/track/3RfmRk00qn35rvO6CXdnxb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Black Gold \(Expanded Edition\)](https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H) | 4:34 |
-| 89 | [Back to Bed In California](https://open.spotify.com/track/62lTgvo168FYxDpu6VPNLe) | [Simon Linsteadt](https://open.spotify.com/artist/0vmdDdgcMsM2yWhq7kFXrr) | [Simon Linsteadt](https://open.spotify.com/album/4ouxaHFhnih4OmbKNNmEMZ) | 1:17 |
+| 88 | [Back to Bed In California](https://open.spotify.com/track/62lTgvo168FYxDpu6VPNLe) | [Simon Linsteadt](https://open.spotify.com/artist/0vmdDdgcMsM2yWhq7kFXrr) | [Simon Linsteadt](https://open.spotify.com/album/4ouxaHFhnih4OmbKNNmEMZ) | 1:17 |
+| 89 | [Turn, Turn, Turn \(To Everything There Is a Season\) \- Live in Munich, Germany \- April 1969](https://open.spotify.com/track/3RfmRk00qn35rvO6CXdnxb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Black Gold \(Expanded Edition\)](https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H) | 4:34 |
 | 90 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 |
 | 91 | [Operator \- 50th Anniversary Edition](https://open.spotify.com/track/6H5GZTHuR8mZ752VLSNBsB) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Demo Tapes \(50th Anniversary Edition\)](https://open.spotify.com/album/3jLng533M56YEr2abSeEoW) | 3:45 |
 | 92 | [Tears in Heaven \- Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster](https://open.spotify.com/track/612VcBshQcy4mpB2utGc3H) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\)](https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg) | 4:40 |

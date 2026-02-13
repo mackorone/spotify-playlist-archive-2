@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,529 songs - 3 day 12 hr 18 min
+1,530 songs - 3 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -878,7 +878,7 @@
 | [Modélame](https://open.spotify.com/track/6pFRC8BRu88aXYHoKMyOPX) | [Giuliano Yankees](https://open.spotify.com/artist/684u8s013RfmUxevD9PK3B), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK) | [Lo Que Valgo Es Caro \(Parte 1\)](https://open.spotify.com/album/5ppdsdLjz1GB8ISiY9huJ8) | 3:25 | 2024-02-07 | 2024-02-11 |
 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 | 2023-07-01 | 2023-08-31 |
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2021-11-24 | 2022-03-26 |
-| [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-14 |  |
+| [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-14 | 2026-02-13 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2021-10-13 | 2021-11-06 |
 | [MONEYMAN \(feat\. Galee Galee & ITHAN NY\)](https://open.spotify.com/track/40xJTwBKb5x3wjlLOeycaL) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [MONEYMAN \(feat\. Galee Galee & ITHAN NY\)](https://open.spotify.com/album/61eCWJwRCTUDmtbkNxc3tU) | 5:10 | 2021-12-05 | 2022-05-08 |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-21 | 2023-02-16 |
@@ -1510,6 +1510,7 @@
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-09-22 | 2022-09-30 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-13 | 2024-01-22 |
 | [Yo No Soy Celoso](https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 | 2022-07-18 |
+| [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 | 2026-02-12 |  |
 | [Yo Quiero](https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Yo Quiero](https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528) | 3:29 | 2022-05-07 | 2022-07-30 |
 | [Yo sé](https://open.spotify.com/track/5DdLSEyKh8zgCrJq2hFj92) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [Yo sé](https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv) | 2:09 | 2025-03-28 | 2025-11-08 |
 | [Yo Tomo](https://open.spotify.com/track/2zFYPORmfypZsFPQGszAoN) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [El Campeón](https://open.spotify.com/album/2KQxOSZjEZF8iVbkTY0ZPe) | 3:20 | 2024-01-02 | 2026-01-04 |

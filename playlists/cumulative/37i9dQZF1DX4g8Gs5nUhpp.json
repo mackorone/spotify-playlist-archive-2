@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Hoa xu\u00e2n V-Pop n\u1edf tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: \u0111\u1ed1 bi\u1ebft",
+  "description": "Hoa xu\u00e2n V-Pop n\u1edf tr\u00ean nh\u1eefng kh\u00fac ca n\u00e0y. \u1ea2nh b\u00eca: Ho\u00e0ng D\u0169ng",
   "name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "tracks": [
     {
@@ -204,6 +204,28 @@
       "duration_ms": 240000,
       "name": "Ai M\u00e0 Bi\u1ebft \u0110\u01b0\u1ee3c (feat. tlinh)",
       "url": "https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83"
+    },
+    {
+      "album": {
+        "name": "Tri\u1ec7u (Phase 1 of 3)",
+        "url": "https://open.spotify.com/album/4P4Hymi1F14y3jj1wM9Zlo"
+      },
+      "artists": [
+        {
+          "name": "VSTRA",
+          "url": "https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59"
+        },
+        {
+          "name": "Tyronee",
+          "url": "https://open.spotify.com/artist/04xz9bIBYTIqEpmRvQkfvu"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Ai Ngo\u00e0i Anh",
+      "url": "https://open.spotify.com/track/6GM4ZOBDcDroldUxI8GZ2B"
     },
     {
       "album": {
@@ -1522,6 +1544,24 @@
       "duration_ms": 231497,
       "name": "C\u00f3 Ai Th\u01b0\u01a1ng Em Nh\u01b0 Anh",
       "url": "https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM"
+    },
+    {
+      "album": {
+        "name": "M\u1eaft Bi\u1ebfc (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6K7s4rXhpbHNHaDmpbBlD9"
+      },
+      "artists": [
+        {
+          "name": "Phan M\u1ea1nh Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/0aNyWetkjBvIdZvJY00yEa"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305786,
+      "name": "C\u00f3 Ch\u00e0ng Trai Vi\u1ebft L\u00ean C\u00e2y",
+      "url": "https://open.spotify.com/track/2NEzxeMKW0mk5pr7tcrvs2"
     },
     {
       "album": {
@@ -3297,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "H\u00f4m Nay T\u00f4i Bu\u1ed3n",
+        "url": "https://open.spotify.com/album/4W63RUOYIFeCQratqsU6HX"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
+          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275820,
+      "name": "H\u00f4m Nay T\u00f4i Bu\u1ed3n",
+      "url": "https://open.spotify.com/track/5SzJs9cwYXdSm9G3xcXuA2"
+    },
+    {
+      "album": {
         "name": "t\u00ecnh",
         "url": "https://open.spotify.com/album/3OHwEMy3p3ZczW3L62lZbv"
       },
@@ -3356,6 +3414,24 @@
       "duration_ms": 222000,
       "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
       "url": "https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n"
+    },
+    {
+      "album": {
+        "name": "H\u1eb9n L\u1ea7n Sau",
+        "url": "https://open.spotify.com/album/3y4BjuoJML2Cl4HQqqRxX0"
+      },
+      "artists": [
+        {
+          "name": "MAYDAYs",
+          "url": "https://open.spotify.com/artist/2iYUs3FoNodbZXKf4mkjGM"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219403,
+      "name": "H\u1eb9n L\u1ea7n Sau",
+      "url": "https://open.spotify.com/track/1r9gNSD1WUFscqTSA2Rcet"
     },
     {
       "album": {
@@ -3476,7 +3552,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 196753,
       "name": "Kho B\u00e1u",
       "url": "https://open.spotify.com/track/1enwoOU8CFAp9D3TY475sh"
@@ -5516,7 +5592,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 219321,
       "name": "N\u1eafng D\u01b0\u1edbi Ch\u00e2n M\u00e2y",
       "url": "https://open.spotify.com/track/0rpypmIyrvM4ORUt8SYSdP"
@@ -6090,7 +6166,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 250000,
       "name": "Sau L\u1eddi T\u1eeb Kh\u01b0\u1edbc",
       "url": "https://open.spotify.com/track/3LAoVv4NJ2DJAr2HZHjVi7"
@@ -6830,7 +6906,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-24",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Th\u1eb1ng \u0110i\u00ean",
       "url": "https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt"
@@ -7340,7 +7416,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 198879,
       "name": "T\u00ecnh Y\u00eau Gi\u1eefa M\u00f9a \u0110\u00f4ng",
       "url": "https://open.spotify.com/track/2vRVkMbH5quR47CYV3Dsyb"
@@ -7552,7 +7628,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 251696,
       "name": "t\u1eeb 1 s\u1ebd th\u00e0nh 2",
       "url": "https://open.spotify.com/track/02BHlLrO9jmkdCkP9V7722"
@@ -8628,6 +8704,24 @@
       "duration_ms": 223636,
       "name": "\u0110\u00e3 L\u00e2u R\u1ed3i",
       "url": "https://open.spotify.com/track/4sUbVbW9m7WVX1KOZ4zLc9"
+    },
+    {
+      "album": {
+        "name": "\u0110\u00e3 L\u1ee1 Y\u00eau Em Nhi\u1ec1u",
+        "url": "https://open.spotify.com/album/2iJcC4EmfOE36Z2gS5OiSp"
+      },
+      "artists": [
+        {
+          "name": "JustaTee",
+          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261105,
+      "name": "\u0110\u00e3 L\u1ee1 Y\u00eau Em Nhi\u1ec1u",
+      "url": "https://open.spotify.com/track/3J3nv18iIrOhca1ZWNeuyW"
     },
     {
       "album": {

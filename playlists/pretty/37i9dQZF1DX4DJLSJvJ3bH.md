@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,249 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,233 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 62 | [Do you hear what I hear](https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Do you hear what I hear](https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5) | 2:08 |
 | 63 | [The Christmas Song \- Cheery & Bright](https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [The Christmas Song](https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I) | 2:47 |
 | 64 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |
-| 65 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 |
-| 66 | [Misteltoe](https://open.spotify.com/track/6SJKiadklwqj969ihsTL06) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Misteltoe](https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K) | 2:22 |
+| 65 | [Misteltoe](https://open.spotify.com/track/6SJKiadklwqj969ihsTL06) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Misteltoe](https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K) | 2:22 |
+| 66 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 |
 | 67 | [Give love on christmas day](https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Give love on christmas day](https://open.spotify.com/album/5JcVL1T06yF9q8CoEsGBM4) | 3:21 |
 | 68 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/6YlfwPv17X9gr6K22dR3QY) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Silver Bells](https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq) | 3:20 |
 | 69 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |

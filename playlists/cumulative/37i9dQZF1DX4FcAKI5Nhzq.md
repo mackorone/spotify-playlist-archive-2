@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: BOYNEXTDOOR\)
+> Future K\-Pop hits! \(Cover: CHUNG HA\)
 
-1,587 songs - 3 day 13 hr 6 min
+1,589 songs - 3 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,6 +635,7 @@
 | [Hold On Tight](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hold On Tight](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) | 2:29 | 2023-04-13 | 2024-04-16 |
 | [Holiday Party](https://open.spotify.com/track/1oVEVmVaI590kt8bCZ90uU) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [Play Game : Holiday](https://open.spotify.com/album/1FDlvA1PdZujiEhbXihIPJ) | 3:09 | 2021-08-11 | 2021-09-18 |
 | [Hollywood Action](https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [The Action](https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD) | 2:28 | 2025-10-20 | 2025-11-26 |
+| [Home Sweet Home](https://open.spotify.com/track/5dCcaQuXndqZd5r6KICHAD) | [JEON JIWOO](https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj) | [JIWOO 1st EP '\(EX\)IST'](https://open.spotify.com/album/1BtEjWVuWfNpzBJIC4PoAm) | 3:14 | 2026-02-12 |  |
 | [HOME;RUN](https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:04 | 2020-10-19 | 2021-03-10 |
 | [Honest](https://open.spotify.com/track/1A9GiSTO5a6katWKUJfV4t) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC) | 3:15 | 2021-11-19 | 2022-01-13 |
 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-03-16 | 2022-07-30 |
@@ -898,7 +899,7 @@
 | [Memories](https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT) | 2:58 | 2023-11-15 | 2024-03-21 |
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-25 | 2023-11-19 |
 | [Memory](https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:03 | 2025-06-09 | 2025-07-17 |
-| [Memory Balloon](https://open.spotify.com/track/12r4rXFlvyDfJdJSixSQVz) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6), [Lee Jae Jin](https://open.spotify.com/artist/55bdywjqGi55xGRGiILz9P), [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Memory Balloon](https://open.spotify.com/album/7tmue4AI64zrN1v7D0p9fz) | 3:24 | 2025-12-15 |  |
+| [Memory Balloon](https://open.spotify.com/track/12r4rXFlvyDfJdJSixSQVz) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6), [Lee Jae Jin](https://open.spotify.com/artist/55bdywjqGi55xGRGiILz9P), [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Memory Balloon](https://open.spotify.com/album/7tmue4AI64zrN1v7D0p9fz) | 3:24 | 2025-12-15 | 2026-02-13 |
 | [MEOW](https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MEOW](https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5) | 2:52 | 2024-09-09 | 2025-04-09 |
 | [Mess](https://open.spotify.com/track/0Sccj6S9qYCEdxHudsQjbB) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Mess](https://open.spotify.com/album/61A7SvHGdA1o1gORuj01vx) | 2:33 | 2025-04-11 | 2025-06-10 |
 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-05 | 2024-10-25 |
@@ -1412,6 +1413,7 @@
 | [TROUBLE](https://open.spotify.com/track/6MSRu5wksC0Esn63XOgmI3) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [Target: ME](https://open.spotify.com/album/3zgfK7IBAPDcroAqxzzMOy) | 3:26 | 2023-09-27 | 2024-01-30 |
 | [Truman \(HAN & Felix\)](https://open.spotify.com/track/4DEbsCe0w8CrwdMm8WpdzO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : dominATE](https://open.spotify.com/album/6lGezrzEsfsCvwVn3PzxeP) | 3:15 | 2025-03-28 | 2025-05-29 |
 | [Trust Me \(MIDZY\)](https://open.spotify.com/track/1NXZyqdvqt6pXe9XPaOfp1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Trust Me \(MIDZY\)](https://open.spotify.com/album/4zs9WBFiKWmvRM7s1XNcdb) | 3:41 | 2021-03-22 | 2021-06-09 |
+| [Truth](https://open.spotify.com/track/0a4O30qpS18xaHGS5l1ZCT) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | [Truth](https://open.spotify.com/album/6eT4LKo7jWInz7LDS2Jky3) | 3:03 | 2026-02-12 |  |
 | [Trying to say good\-bye](https://open.spotify.com/track/1h0bZ8hfhmGM7AYT5M1zGA) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Trying to say good\-bye](https://open.spotify.com/album/3WgFwwCXgMNxz2bAqwl817) | 3:58 | 2022-03-28 | 2022-05-19 |
 | [TTYL](https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [TTYL](https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg) | 3:03 | 2024-09-05 | 2025-03-28 |
 | [TUNNEL VISION](https://open.spotify.com/track/5xCiLM4z1C40vHKM9r2xJ1) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [TUNNEL VISION](https://open.spotify.com/album/7CD7NdEDOMY5Owl9MEzgRw) | 3:05 | 2025-11-10 | 2026-01-04 |

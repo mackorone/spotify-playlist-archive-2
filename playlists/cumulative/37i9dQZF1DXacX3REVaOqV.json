@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 270468,
       "name": "Body Talk - DJ burgerhead Remix",
       "url": "https://open.spotify.com/track/312THy9peF2TUU4ECiurE9"
@@ -1964,7 +1964,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 139218,
       "name": "Cada Vez",
       "url": "https://open.spotify.com/track/3d2hvqd1TVKSXKW1Z13j6n"
@@ -5194,7 +5194,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 171576,
       "name": "Give U (All The Love)",
       "url": "https://open.spotify.com/track/10g3i4raFjBaSGTqhqvuoz"
@@ -5448,7 +5448,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 184130,
       "name": "Got The Funk",
       "url": "https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2"
@@ -7388,7 +7388,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 204375,
       "name": "Jazzin' The Way You Know - Francisco Allendes Remix",
       "url": "https://open.spotify.com/track/2VgMNEahVLNLzlQ9Mmlg4v"
@@ -7616,6 +7616,28 @@
       "duration_ms": 192937,
       "name": "Just Stay The Night",
       "url": "https://open.spotify.com/track/13oxbWMd3hJsV0VyOnyR5u"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
+      },
+      "artists": [
+        {
+          "name": "Milky",
+          "url": "https://open.spotify.com/artist/5AvCP5qzxTmk4cQmh0SUEw"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
     },
     {
       "album": {
@@ -8576,7 +8598,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 201238,
       "name": "Love Is All Around",
       "url": "https://open.spotify.com/track/52lxsvyCNPIjeL78GKBBLj"
@@ -12728,7 +12750,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 232195,
       "name": "Squire For Hire - Fouk Remix Edit",
       "url": "https://open.spotify.com/track/1nYNEbLHR6odSN9hHBCtil"

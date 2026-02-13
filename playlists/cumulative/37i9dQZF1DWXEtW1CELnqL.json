@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 225880,
       "name": "Anna Molly",
       "url": "https://open.spotify.com/track/0uLhNT7UIH3nZCCDZd3OBl"
@@ -298,6 +298,28 @@
       "duration_ms": 299866,
       "name": "Be Quiet and Drive (Far Away)",
       "url": "https://open.spotify.com/track/4Uiw0Sl9yskBaC6P4DcdVD"
+    },
+    {
+      "album": {
+        "name": "Bedroom Posters (feat. Good Charlotte)",
+        "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218635,
+      "name": "Bedroom Posters (feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
     },
     {
       "album": {
@@ -460,6 +482,24 @@
       "duration_ms": 216933,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe"
+    },
+    {
+      "album": {
+        "name": "California Rain",
+        "url": "https://open.spotify.com/album/2l5QjKl7UWkKr7sGkk4TXe"
+      },
+      "artists": [
+        {
+          "name": "James Marriott",
+          "url": "https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183517,
+      "name": "California Rain",
+      "url": "https://open.spotify.com/track/31jXrQbgx8DGcUh7NN4VY4"
     },
     {
       "album": {
@@ -1198,7 +1238,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 198386,
       "name": "First It Giveth",
       "url": "https://open.spotify.com/track/0UEMTz9APWfoJHdlXDeIzm"
@@ -1252,7 +1292,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 226106,
       "name": "Freak",
       "url": "https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0"
@@ -1288,7 +1328,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 199632,
       "name": "Get This",
       "url": "https://open.spotify.com/track/5El8KGV9xfrBctyTZp1n6R"
@@ -1476,7 +1516,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
@@ -1512,7 +1552,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 215040,
       "name": "Hayloft II",
       "url": "https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI"
@@ -1966,7 +2006,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 280466,
       "name": "Joker And The Thief",
       "url": "https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa"
@@ -2038,7 +2078,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
@@ -2110,7 +2150,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 208186,
       "name": "Lights And Sounds",
       "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
@@ -2438,7 +2478,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-23",
+      "date_removed": null,
       "duration_ms": 163226,
       "name": "No Cigar",
       "url": "https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk"
@@ -2856,7 +2896,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 185131,
       "name": "Shot In The Dark",
       "url": "https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz"
@@ -3054,7 +3094,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 185026,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95"

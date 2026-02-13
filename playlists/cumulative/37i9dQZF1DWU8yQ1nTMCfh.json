@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n de pollo",
+        "url": "https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS"
+      },
+      "artists": [
+        {
+          "name": "Estamos Perdidos",
+          "url": "https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203250,
+      "name": "Coraz\u00f3n de pollo",
+      "url": "https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n del Universo",
         "url": "https://open.spotify.com/album/2Ys2tKZJdONUJmOTubrmn5"
       },
@@ -4822,7 +4840,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 204403,
       "name": "RA",
       "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"

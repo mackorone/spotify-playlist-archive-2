@@ -1,6 +1,6 @@
 {
   "description": "soft and sweet",
-  "num_followers": 369586,
+  "num_followers": 369570,
   "original_name": "Chilled Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-01-30 00:00:08",
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 177212,
+      "name": "lacy",
+      "url": "https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W"
+    },
+    {
+      "added_at": "2026-01-30 00:00:08",
+      "album": {
         "name": "EYES CLOSED (with ZAYN)",
         "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 181375,
       "name": "EYES CLOSED (with ZAYN)",
       "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
-    },
-    {
-      "added_at": "2026-01-30 00:00:08",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 177212,
-      "name": "lacy",
-      "url": "https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W"
     },
     {
       "added_at": "2026-01-30 00:00:08",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-01-30 00:00:08",
       "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Nobody New",
+      "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
+    },
+    {
+      "added_at": "2026-01-30 00:00:08",
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
-    },
-    {
-      "added_at": "2026-01-30 00:00:08",
-      "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Nobody New",
-      "url": "https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg"
     },
     {
       "added_at": "2026-01-30 00:00:08",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-01-30 00:00:08",
       "album": {
-        "name": "Claw Marks",
-        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 155528,
-      "name": "Claw Marks",
-      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
-    },
-    {
-      "added_at": "2026-01-30 00:00:08",
-      "album": {
         "name": "Give Me All Your Love",
         "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 264124,
       "name": "Day To Night",
       "url": "https://open.spotify.com/track/7rkkFimrRc14aJLN6HMNqp"
+    },
+    {
+      "added_at": "2026-01-30 00:00:08",
+      "album": {
+        "name": "Claw Marks",
+        "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 155528,
+      "name": "Claw Marks",
+      "url": "https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di"
     },
     {
       "added_at": "2026-01-30 00:00:08",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2026-01-30 00:00:08",
       "album": {
-        "name": "Never Gunna Give You Up",
-        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
+        "name": "SINK NOW, SWIM LATER",
+        "url": "https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k"
       },
       "artists": [
         {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 165315,
-      "name": "Never Gunna Give You Up",
-      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
+      "duration_ms": 182000,
+      "name": "ORIGAMI",
+      "url": "https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ"
     },
     {
       "added_at": "2026-01-30 00:00:08",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-01-30 00:00:08",
       "album": {
-        "name": "SINK NOW, SWIM LATER",
-        "url": "https://open.spotify.com/album/3I4wGPLbEK018FP6jk124k"
+        "name": "Never Gunna Give You Up",
+        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
       },
       "artists": [
         {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
         }
       ],
-      "duration_ms": 182000,
-      "name": "ORIGAMI",
-      "url": "https://open.spotify.com/track/72NmXqiEP6N6eXBgEBzlWZ"
+      "duration_ms": 165315,
+      "name": "Never Gunna Give You Up",
+      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
     },
     {
       "added_at": "2026-01-30 00:00:08",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-01-30 00:00:08",
       "album": {
-        "name": "Platonic Romance",
-        "url": "https://open.spotify.com/album/0fOGZAml7Km4yrdvKgipLe"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 218522,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/526W1GLtLsmwoCPbfMFPkm"
-    },
-    {
-      "added_at": "2026-01-30 00:00:08",
-      "album": {
         "name": "Play (Extended Edition)",
         "url": "https://open.spotify.com/album/64QhljQEwTfoEt9z6jsyxl"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 237568,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2IdYSlDtu8FpGde4fwekuw"
+    },
+    {
+      "added_at": "2026-01-30 00:00:08",
+      "album": {
+        "name": "Platonic Romance",
+        "url": "https://open.spotify.com/album/0fOGZAml7Km4yrdvKgipLe"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 218522,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/526W1GLtLsmwoCPbfMFPkm"
     },
     {
       "added_at": "2026-01-30 00:00:08",

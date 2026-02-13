@@ -4,7 +4,7 @@
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-103 songs - 6 hr 40 min
+104 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,11 +16,12 @@
 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:16 | 2022-07-12 |  |
 | [Back Of My Hand](https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Back Of My Hand](https://open.spotify.com/album/1B5ulSel2ojBJKhm2YMelp) | 3:26 | 2025-11-13 | 2026-01-30 |
 | [Bad Dreams](https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Bad Dreams](https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL) | 3:28 | 2025-06-05 | 2025-07-25 |
+| [Beautiful Country](https://open.spotify.com/track/1W1hUUuDko94HVziWmaLUh) | [William Crighton](https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM) | [Beautiful Country](https://open.spotify.com/album/0FxmyJliJRVYem01DaFhdJ) | 4:07 | 2026-02-12 |  |
 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 | 2022-07-12 |  |
 | [Better Be Home Soon](https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Temple Of Low Men](https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m) | 3:07 | 2022-07-12 |  |
 | [Big Jet Plane](https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ) | 3:59 | 2022-07-12 | 2024-04-19 |
 | [Black Betty \- Edit](https://open.spotify.com/track/7uSsHbBFFAnkRQR1rDwP3L) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Tonight Alright](https://open.spotify.com/album/5WqHoLszhaCZHgtTebMx8X) | 3:25 | 2022-07-12 | 2024-04-19 |
-| [Blue Sky Mine \- 2011 Remaster](https://open.spotify.com/track/6z9ehfxE973fOlKJKNJL2x) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Blue Sky Mining \(Remastered\)](https://open.spotify.com/album/4C3raKL0dzfTitM3YtqN1S) | 4:15 | 2022-07-12 |  |
+| [Blue Sky Mine \- 2011 Remaster](https://open.spotify.com/track/6z9ehfxE973fOlKJKNJL2x) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Blue Sky Mining \(Remastered\)](https://open.spotify.com/album/4C3raKL0dzfTitM3YtqN1S) | 4:15 | 2022-07-12 | 2026-02-13 |
 | [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 | 2022-07-12 | 2024-04-19 |
 | [Brother](https://open.spotify.com/track/5KrdYQS4U1Emzer8QShBE7) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Into The Flame](https://open.spotify.com/album/51ET6cqHUpWJRtIHdJI20H) | 4:14 | 2022-07-12 |  |
 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 | 2022-07-12 | 2024-04-19 |
@@ -59,7 +60,7 @@
 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 | 2022-07-12 | 2024-04-19 |
 | [Khe Sanh \- 2011 Remastered](https://open.spotify.com/track/0frIZMaQwtdV4Ee8nhB1te) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [Cold Chisel](https://open.spotify.com/album/58LEKVWXpcYbeevCcl2boB) | 4:14 | 2022-07-12 |  |
 | [Knees](https://open.spotify.com/track/7fE9r2qOJmjgruk3TdW4MD) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:46 | 2022-07-12 | 2024-08-26 |
-| [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 | 2022-07-12 |  |
+| [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 | 2022-07-12 | 2026-02-13 |
 | [Let Me Down Easy](https://open.spotify.com/track/7DPQwyMQADl9Y8oSvSVpfg) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Go Farther In Lightness](https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab) | 5:19 | 2022-07-12 | 2025-08-15 |
 | [Light Up The Path](https://open.spotify.com/track/0fuvxtyhFjrWFJYxg6fFUq) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Light Up The Path](https://open.spotify.com/album/3yqg1fo5jnijZk6cm4k4oM) | 3:58 | 2024-10-10 | 2024-11-29 |
 | [Look What You've Done](https://open.spotify.com/track/0ZSmRnXnP5fdANtVlCok1g) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:50 | 2022-07-12 | 2024-11-29 |
@@ -106,7 +107,7 @@
 | [Weather With You](https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:44 | 2022-07-12 |  |
 | [Whateverrrr](https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [If That Makes Sense](https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn) | 2:58 | 2025-06-05 | 2025-10-23 |
 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 | 2025-09-18 |  |
-| [Why Won't You Make Up Your Mind?](https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 3:19 | 2022-07-12 | 2026-02-01 |
+| [Why Won't You Make Up Your Mind?](https://open.spotify.com/track/4SgcE7RxpK3ydWrjoAQH1K) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 3:19 | 2022-07-12 |  |
 | [Wish You Well](https://open.spotify.com/track/48xq0DnfAKtsFjK1L7GZx9) | [Bernard Fanning](https://open.spotify.com/artist/0afemm9P2Bb2LL99xHY32n) | [Tea & Sympathy](https://open.spotify.com/album/2OICen81GDKy8Mds7OdX4I) | 2:31 | 2022-07-12 |  |
 | [You Shook Me All Night Long](https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:30 | 2022-07-12 |  |
 | [You Were Right](https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p) | 3:59 | 2022-07-12 |  |

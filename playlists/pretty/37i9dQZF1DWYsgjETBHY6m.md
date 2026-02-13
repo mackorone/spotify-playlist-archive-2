@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 
 > 유저별 맞춤으로 추천되는 힙한 노래들을 즐겨보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,673 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,743 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYsgjETBHY6m.md) - [plain]
 | 24 | [SUPA DUPA LUV](https://open.spotify.com/track/5S0QxfYABBoLI4sMk2aCa2) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK) | 2:52 |
 | 25 | [Cinderella](https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 2:49 |
 | 26 | [Poetic Justice](https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:00 |
-| 27 | [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 |
-| 28 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
+| 27 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
+| 28 | [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 |
 | 29 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 |
 | 30 | [Wanna Be \(with Megan Thee Stallion\)](https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Ehhthang Ehhthang](https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI) | 2:36 |
 | 31 | [Oblivion](https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:11 |

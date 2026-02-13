@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,493 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,514 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 41 | [depois da meia noite](https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:50 |
 | 42 | [Geminiano](https://open.spotify.com/track/3EBnCczKBkV03uMqNtDMW1) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Heresia](https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os) | 2:55 |
 | 43 | [Eu](https://open.spotify.com/track/5laoKYySUeCOSwpuhFG5yV) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [NU](https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E) | 5:10 |
-| 44 | [bala fini](https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:29 |
+| 44 | [LADRÃO](https://open.spotify.com/track/1ACDmP969nKGRshzl47GjB) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa) | 4:22 |
 | 45 | [5 da manhã](https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:53 |
 | 46 | [Corre das Notas](https://open.spotify.com/track/038NYpCmR4VPu9fyZxHRju) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL) | [Heresia](https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os) | 3:38 |
-| 47 | [LADRÃO](https://open.spotify.com/track/1ACDmP969nKGRshzl47GjB) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa) | 4:22 |
+| 47 | [bala fini](https://open.spotify.com/track/1gnDVuH3uQnJH0cBLRSJKC) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:29 |
 | 48 | [ETERNO \- Remake](https://open.spotify.com/track/0WjWIeXZighu9xmR5D7fhs) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN) | 3:46 |
 | 49 | [valeu a batalha](https://open.spotify.com/track/4UKO2r8b4OnrwhZ7g2QXKq) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:17 |
 | 50 | [Esquimó](https://open.spotify.com/track/40b5YP1kX8xbWKvm0hFdZU) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Heresia](https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os) | 4:16 |
 
-Snapshot ID: `aYp1AAAAAAAxZlNG1gb7zWjLUFGfEAKp`
+Snapshot ID: `aYvGgAAAAACYMzJDmT+bQyGU7v6H7xJA`

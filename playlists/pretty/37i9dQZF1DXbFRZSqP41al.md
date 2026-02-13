@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,498,319 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,498,592 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 12 | [Comfortable Liar](https://open.spotify.com/track/412LyfktkgWKEn8kmKiyQe) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:43 |
 | 13 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 |
 | 14 | [Wake Up](https://open.spotify.com/track/2QiqwOVUctPRVggO9G1Zs5) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 6:03 |
-| 15 | [Static](https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Static](https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5) | 3:29 |
-| 16 | [Cochise](https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 3:42 |
+| 15 | [Cochise](https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 3:42 |
+| 16 | [Static](https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Static](https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5) | 3:29 |
 | 17 | [Welcome Home](https://open.spotify.com/track/42GP0xKtkolBnmqQRvSllO) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness](https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN) | 6:14 |
 | 18 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 |
 | 19 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 |

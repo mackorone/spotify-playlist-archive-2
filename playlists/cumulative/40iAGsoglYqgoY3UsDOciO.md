@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-485 songs - 23 hr 27 min
+486 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [becki \(my bae\)](https://open.spotify.com/track/6uicibXu786v7KFspHwvLN) | [LILBADDIETYRONE](https://open.spotify.com/artist/3Q9gITSqraeLAotKbn8Wsp) | [BURN\. EP](https://open.spotify.com/album/3PXH0n2oi7NBEzgKQN31Kv) | 3:14 | 2024-07-30 |  |
 | [Been in my blood since coretta](https://open.spotify.com/track/44ZAOKOjxUFonZFsS63jiQ) | [Que K](https://open.spotify.com/artist/7dcJm2exRKPpt1j6Pk91ML) | [Been in my blood since coretta](https://open.spotify.com/album/4l81sy3u6XlGsMjHOzslGm) | 2:16 | 2024-05-24 |  |
 | [Been Thru It](https://open.spotify.com/track/24nhpCxbmacM443N3S5oiG) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [Chris Mark Mickey](https://open.spotify.com/artist/1qfIzy7pywvM34nzOv6DA6), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [Prod\. MyKey](https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm) | [First Impressions EP](https://open.spotify.com/album/4EqscnksA4TLE1deM9S0UC) | 3:37 | 2024-12-20 |  |
+| [BENDER](https://open.spotify.com/track/4RdrLiRyx2GmM4lo43jeAY) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [BENDER](https://open.spotify.com/album/1940YocJzAsNQnBAr3ID7s) | 2:05 | 2026-02-12 |  |
 | [Bendición Mamá](https://open.spotify.com/track/3dReKieMvk38tGWN931gYk) | [Fer Capone](https://open.spotify.com/artist/0m7LKZHfJ9xZAXNZtAyn9k), [Dj Hype Box](https://open.spotify.com/artist/6TQaoQbgNK0GJxgo7Ax1RA) | [Bendición Mamá](https://open.spotify.com/album/31YccM9AE3ngx5tnfAHJXC) | 2:04 | 2025-11-15 |  |
 | [Bet It All Up](https://open.spotify.com/track/38S9hpsMmZxF9S6Km50Mbq) | [Dhavid](https://open.spotify.com/artist/4VtJMVAoZeR6IMJBMiTKZg) | [Bet It All Up](https://open.spotify.com/album/0EJRlfEMkNc2gIY5p6kptx) | 2:07 | 2023-07-26 |  |
 | [Better](https://open.spotify.com/track/2CYkeBq71jFlbEP8adjHFv) | [Kid Lowy](https://open.spotify.com/artist/3FxDbE6aUf8LGvcOXaq5Xr) | [Better](https://open.spotify.com/album/2XypF4HVYpYQE9uX3PlQx2) | 2:31 | 2024-07-23 |  |

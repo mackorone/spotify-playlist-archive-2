@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Lançamentos de rock que você precisa conhecer, AUMENTA O VOLUME! Foto: Lamb of God
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,737 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,652 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 14 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 |
 | 15 | [Dominate](https://open.spotify.com/track/5R0uszDwzrAEtxMgTwoIbt) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Dominate](https://open.spotify.com/album/17qRjBxoYcA3joNL4d6EzZ) | 3:14 |
 | 16 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 |
-| 17 | [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 |
+| 17 | [Glass Half Empty](https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 3:38 |
 | 18 | [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 |
 | 19 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 |
-| 20 | [Glass Half Empty](https://open.spotify.com/track/6rCQjBLxanBaAShpnNsmHh) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part I\)](https://open.spotify.com/album/0DGJyFVAhqx3DsnB0eonvA) | 3:38 |
+| 20 | [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 |
 | 21 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
 | 22 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 |
 | 23 | [Perfection](https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X’s For Eyes](https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi) | 3:18 |
@@ -56,12 +56,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 46 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 |
 | 47 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 |
 | 48 | [Carnivore](https://open.spotify.com/track/1WHwVpN07pJZ8UVPlB5isM) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Carnivore](https://open.spotify.com/album/304v3uVECkuBPw2SAwWE8x) | 3:11 |
-| 49 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 |
+| 49 | [Living A Lie](https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Living A Lie](https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg) | 4:33 |
 | 50 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 |
 | 51 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
 | 52 | [LIES WE TELL OURSELVES](https://open.spotify.com/track/6nHbQYZcPQSuzRVRmnKaCP) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [LIES WE TELL OURSELVES](https://open.spotify.com/album/51Es0l5zGcqniBBCfaP2u4) | 3:27 |
 | 53 | [Worst Is On It's Way \- Requiem Mass / Live](https://open.spotify.com/track/5rMcTEPWn87okDrckR7DmL) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Worst Is On Its Way \(Requiem Mass\)](https://open.spotify.com/album/3GTV3qGtYTQSfGfvjczByg) | 4:04 |
-| 54 | [Living A Lie](https://open.spotify.com/track/60m6nJnTF7AFOztDSmYqMh) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Living A Lie](https://open.spotify.com/album/5zkvA4NOwqPYSf0Tm5AEBg) | 4:33 |
+| 54 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 |
 | 55 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
 | 56 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 |
 | 57 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 |

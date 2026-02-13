@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Dillom, Airbag, Marilina Bertoldi y Juliana Gattas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,601 likes - 87 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,609 likes - 87 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 | 65 | [Mentes Vacías](https://open.spotify.com/track/4rGvXwiSQ0y27JTcY1bHIS) | [Estéreo Waves](https://open.spotify.com/artist/7oZNzBBlegejGPqSxiOS3v) | [Mentes Vacías](https://open.spotify.com/album/1HPqje7dTg0qaV2ftOBd2f) | 3:32 |
 | 66 | [El Río](https://open.spotify.com/track/5IulrtbklYxOCrDEtJPtNz) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [El Río](https://open.spotify.com/album/1CIxFgXEjuJB6NQz2OvsF9) | 3:37 |
 | 67 | [Nenu](https://open.spotify.com/track/3gZeUWq9SsPO090ti2As1A) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Nenu](https://open.spotify.com/album/2QOL5sA8SUCrzLVuTZbYgK) | 4:13 |
-| 68 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 |
+| 68 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/6OiBMIN8nDABlTUSSLGgVj), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 |
 | 69 | [MEDIA NOCHE](https://open.spotify.com/track/5jCWAarxFiYUE0DjCsAnWn) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [HÍPER](https://open.spotify.com/album/3qEvUejyOisLMmhsR7JwxL) | 3:28 |
 | 70 | [Vamos a destruir](https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a destruir](https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV) | 3:41 |
 | 71 | [La Cruz](https://open.spotify.com/track/2SkD8IhQRK1rlKAykIPmRO) | [Pønce](https://open.spotify.com/artist/0jlj70oquwYB21vxF107KT), [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [La Cruz](https://open.spotify.com/album/5rpzNrzCZktq6sFRXKH4xp) | 3:24 |

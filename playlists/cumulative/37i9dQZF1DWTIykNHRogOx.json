@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Solann",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Camille Yembe",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Charade",
+        "url": "https://open.spotify.com/album/6D5xf0IHzBNyfQU3otMLcn"
+      },
+      "artists": [
+        {
+          "name": "Nina Uzan",
+          "url": "https://open.spotify.com/artist/30iinzdRdXO3StiffBPiw9"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160267,
+      "name": "Charade",
+      "url": "https://open.spotify.com/track/2TXNsK2zjC72HSDA944rCv"
+    },
+    {
+      "album": {
         "name": "Chevaleresse",
         "url": "https://open.spotify.com/album/3c36IcRSFD58b9daUvhIXl"
       },
@@ -830,6 +848,24 @@
       "duration_ms": 207629,
       "name": "des excuses",
       "url": "https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp"
+    },
+    {
+      "album": {
+        "name": "Des Tonnes",
+        "url": "https://open.spotify.com/album/2fFj94ULcgV5PllgvnRnnv"
+      },
+      "artists": [
+        {
+          "name": "Marco Ferreira",
+          "url": "https://open.spotify.com/artist/2eeWkCArv4Bxqqb82b7ona"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "Des Tonnes",
+      "url": "https://open.spotify.com/track/4cyVElYmQIgyrloXUXR9dQ"
     },
     {
       "album": {
@@ -1108,7 +1144,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 187066,
       "name": "Fallait pas nous inviter",
       "url": "https://open.spotify.com/track/53DkhqZ9ErzTp68JNI2KEt"
@@ -2596,7 +2632,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 186146,
       "name": "Le printemps",
       "url": "https://open.spotify.com/track/4gfVA7TLcyZFXAZfIbOibg"
@@ -2766,7 +2802,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 117770,
       "name": "Le V\u0153u",
       "url": "https://open.spotify.com/track/41GX6q5XIhBslrEhzT8f8r"
@@ -3376,6 +3412,24 @@
       "duration_ms": 241880,
       "name": "Marcher droit",
       "url": "https://open.spotify.com/track/5QcbSS53QWUHTiKDYBHuHM"
+    },
+    {
+      "album": {
+        "name": "mayday",
+        "url": "https://open.spotify.com/album/0274OyqKfwGzUk4KNSXyH2"
+      },
+      "artists": [
+        {
+          "name": "Alo\u00efse Sauvage",
+          "url": "https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "mayday",
+      "url": "https://open.spotify.com/track/1b5t2zmmKtMUIecVdg61Vb"
     },
     {
       "album": {

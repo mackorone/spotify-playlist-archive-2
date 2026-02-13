@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-15",
-  "description": "Tulum szn",
+  "description": "Tulum szn. Cover: Sofia Kourtesis",
   "name": "Umami",
   "tracks": [
     {
@@ -5906,6 +5906,32 @@
       "duration_ms": 198661,
       "name": "Dollar $hort - Blank Sense Remix",
       "url": "https://open.spotify.com/track/7jivmDV4po63ctjWWbMqNa"
+    },
+    {
+      "album": {
+        "name": "DON'T KILL MY VIBE",
+        "url": "https://open.spotify.com/album/1CDLzqcftlU7kj8HGyA2TZ"
+      },
+      "artists": [
+        {
+          "name": "Adrian Fyrla",
+          "url": "https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij"
+        },
+        {
+          "name": "Palm Monkey",
+          "url": "https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G"
+        },
+        {
+          "name": "Am\u00e8",
+          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "DON'T KILL MY VIBE",
+      "url": "https://open.spotify.com/track/4c1CYN4v3wzH43Mpka8F86"
     },
     {
       "album": {
@@ -12929,6 +12955,28 @@
     },
     {
       "album": {
+        "name": "Los Poemas No Siempre Riman (DJ-Kicks)",
+        "url": "https://open.spotify.com/album/4d4QfJ0qQGdQe1SZVXDech"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275208,
+      "name": "Los Poemas No Siempre Riman (DJ-Kicks)",
+      "url": "https://open.spotify.com/track/3iDRa9vD0TunjvYzcVcRSC"
+    },
+    {
+      "album": {
         "name": "Lose Your Love",
         "url": "https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi"
       },
@@ -16338,6 +16386,24 @@
       "duration_ms": 158387,
       "name": "No Sleep (No Me Dejan Dormir)",
       "url": "https://open.spotify.com/track/1JwMrp7fkOKHQRimzi8tuL"
+    },
+    {
+      "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/7oSK5IEDIiIFG7vYWrf4Cu"
+      },
+      "artists": [
+        {
+          "name": "Anton Kling",
+          "url": "https://open.spotify.com/artist/1rDWJP3cmXGDYMtxps03Og"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179375,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/1THBkgdr9V8NIzVWF3YgZN"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15489,
+  "num_followers": 15490,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAD9u8KnTkPXn/Snxjvv01ai",
+  "snapshot_id": "aYvGgAAAAACJ57NvrgBdr5GdnkQSG2he",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who?",
+        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 342266,
+      "name": "Baby Doll",
+      "url": "https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
         "url": "https://open.spotify.com/album/4UZZzT8VtWr2WHafHraL4d"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 236124,
       "name": "Own Thang (feat. Tony! Toni! Ton\u00e9!)",
       "url": "https://open.spotify.com/track/45EtM1eyhsJV6d7PPaBxsg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who?",
-        "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 342266,
-      "name": "Baby Doll",
-      "url": "https://open.spotify.com/track/1ngKdyfldl9J65GryhAxrp"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Party II (I Don't Know What You Come To Do)",
-        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "House Party II (I Don't Know What You Come To Do) - Single Version",
-      "url": "https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who?",
         "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 337000,
       "name": "For The Love Of You",
       "url": "https://open.spotify.com/track/3ANSh2reDuVISVbT39FKMj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Party II (I Don't Know What You Come To Do)",
+        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "House Party II (I Don't Know What You Come To Do) - Single Version",
+      "url": "https://open.spotify.com/track/3VunH0kgoUEcR4Yq6ACgCH"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Party II (I Don't Know What You Come To Do)",
-        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 321800,
-      "name": "House Party II (I Don't Know What You Come To Do) - Radio Edit",
-      "url": "https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who?",
         "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 261706,
       "name": "Who's Lovin You",
       "url": "https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Party II (I Don't Know What You Come To Do)",
+        "url": "https://open.spotify.com/album/4SbpI46qdXCwKnbpjfYLLI"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 321800,
+      "name": "House Party II (I Don't Know What You Come To Do) - Radio Edit",
+      "url": "https://open.spotify.com/track/3IKx5lW7d4O91KgEn5grej"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 321760,
-      "name": "Weather 42",
-      "url": "https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who?",
         "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 285133,
       "name": "Born Not To Know",
       "url": "https://open.spotify.com/track/6Ix4EuZQQNQFUpXT8EQmM7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Vida Loca (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5iUlzIR3CeYjEqW7S8nIkA"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 321760,
+      "name": "Weather 42",
+      "url": "https://open.spotify.com/track/4PlbHumYdcw1Y8YPLQHb5I"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swing",
-        "url": "https://open.spotify.com/album/173zgLYUQJXLa3NXTKgvce"
-      },
-      "artists": [
-        {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
-        }
-      ],
-      "duration_ms": 188003,
-      "name": "It Feels Good",
-      "url": "https://open.spotify.com/track/1j9jJcfR7xK154OX6XTwFj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who?",
         "url": "https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 346226,
       "name": "Pain",
       "url": "https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/173zgLYUQJXLa3NXTKgvce"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "duration_ms": 188003,
+      "name": "It Feels Good",
+      "url": "https://open.spotify.com/track/1j9jJcfR7xK154OX6XTwFj"
     }
   ],
   "unique_name": "This Is Tony! Toni! Ton\u00e9!",

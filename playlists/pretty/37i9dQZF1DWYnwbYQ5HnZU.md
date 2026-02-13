@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > Spotify country fan favorites\. Cover: Brothers Osborne
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,210,329 likes - 95 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,210,279 likes - 95 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 41 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 42 | [What Ifs \(feat\. Lauren Alaina\)](https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:08 |
 | 43 | [Peter Pan](https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [The First Time](https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf) | 3:20 |
-| 44 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
-| 45 | [I'm Comin' Over](https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:17 |
+| 44 | [I'm Comin' Over](https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I'm Comin' Over](https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0) | 3:17 |
+| 45 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
 | 46 | [Picture \(feat\. Sheryl Crow\)](https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Cocky](https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r) | 4:58 |
 | 47 | [Record Year](https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Mr\. Misunderstood](https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao) | 2:59 |
 | 48 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |

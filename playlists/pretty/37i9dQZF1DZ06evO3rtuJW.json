@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35603,
+  "num_followers": 35608,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAACAgYYOookHRRsefQ4GXjCa",
+  "snapshot_id": "aYvGgAAAAAAgG7RoAl8Grl1Okp8abGPc",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "All On Me (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/3pxhs8CANAHUxndAVWAjvL"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 219767,
+      "name": "All On Me (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/0pVYhms1xQW1TFsyl1SDmH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shiesty Season - Spring Deluxe",
         "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 168648,
       "name": "Switch it Up (feat. G Herbo, No More Heroes)",
       "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All On Me (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/3pxhs8CANAHUxndAVWAjvL"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 219767,
-      "name": "All On Me (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/0pVYhms1xQW1TFsyl1SDmH"
     },
     {
       "added_at": null,
@@ -671,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not One Of Them",
+        "url": "https://open.spotify.com/album/1StgT8Y7STqeEdxy2ncqR6"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 196378,
+      "name": "Stone Cold (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/6i9DrvlluOrjSVe2JsZnKi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome to Fazoland (Anniversary Edition)",
         "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 190646,
       "name": "Longevity",
       "url": "https://open.spotify.com/track/1DoUK8xVHImACABHPSz7Vh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not One Of Them",
-        "url": "https://open.spotify.com/album/1StgT8Y7STqeEdxy2ncqR6"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 196378,
-      "name": "Stone Cold (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6i9DrvlluOrjSVe2JsZnKi"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 176981,
-      "name": "Influence",
-      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 196659,
       "name": "Cap Guns",
       "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 176981,
+      "name": "Influence",
+      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
     },
     {
       "added_at": null,
@@ -939,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 153329,
-      "name": "Still Dangerous",
-      "url": "https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -971,6 +955,26 @@
       "duration_ms": 162217,
       "name": "Real One",
       "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Childhood Trauma",
+        "url": "https://open.spotify.com/album/6X4iW38COAyXNqh2FgcYmH"
+      },
+      "artists": [
+        {
+          "name": "1up Tee",
+          "url": "https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "GooD KarMa (feat. G Herbo) (Remix)",
+      "url": "https://open.spotify.com/track/3ie6fPavn4ERaX0oTQCHbu"
     },
     {
       "added_at": null,

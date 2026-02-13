@@ -2,9 +2,9 @@
 
 ### [Women of Afro](https://open.spotify.com/playlist/37i9dQZF1DWSxnGhnykt9Y)
 
-> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Elestee
+> Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Yemi Alade
 
-212 songs - 9 hr 58 min
+213 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Feel](https://open.spotify.com/track/6QAh6o8F6oo587BIgdrUY6) | [Yaans](https://open.spotify.com/artist/2aBmsHCMYVxE84mbhFhj4k), [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Feel](https://open.spotify.com/album/4w5jLWFYcKrf1sCQda1oUV) | 3:25 | 2024-11-29 | 2025-05-30 |
 | [Feel Your Soul](https://open.spotify.com/track/6l70v6PAM2O99OBmcakjH1) | [Princess Ade](https://open.spotify.com/artist/0o3q4sHZujIMTR1Vjmt3YF) | [Feel Your Soul](https://open.spotify.com/album/2VKHky6WRk9DqIrJTVD3gm) | 2:32 | 2024-11-29 | 2025-10-10 |
 | [Feeling Alright](https://open.spotify.com/track/2gOBTGJTMUjr4p2CUlMW00) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:39 | 2025-01-31 | 2025-03-01 |
-| [Fighting](https://open.spotify.com/track/5eX60GNe5QZ5XedEtxwltc) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Fighting](https://open.spotify.com/album/72LClr9ud1tcJNajCT6xeZ) | 2:32 | 2026-01-09 |  |
+| [Fighting](https://open.spotify.com/track/5eX60GNe5QZ5XedEtxwltc) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Fighting](https://open.spotify.com/album/72LClr9ud1tcJNajCT6xeZ) | 2:32 | 2026-01-09 | 2026-02-13 |
 | [Fire Fire](https://open.spotify.com/track/00nr390tWv1armZMqkjJoq) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0), [Mix Master Garzy](https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX) | [Fire Fire](https://open.spotify.com/album/7vmOGi3QpKwa4vrGl7V92u) | 2:30 | 2025-06-20 | 2025-07-18 |
 | [First](https://open.spotify.com/track/6Ijr2FALEGiepGbWdPp5Qh) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:56 | 2025-11-28 |  |
 | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N) | 3:09 | 2025-01-21 |  |
@@ -133,6 +133,7 @@
 | [Ms Spender](https://open.spotify.com/track/4IYOmlcwhmWMyFN5DE2Dio) | [Rebecca Winter](https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5) | [Ms Spender](https://open.spotify.com/album/67xLcdLseC4qphYx865KeB) | 1:54 | 2024-11-29 | 2025-01-18 |
 | [Muhibu](https://open.spotify.com/track/5s8riorAHI0xfmgz6cTpM3) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Muhibu](https://open.spotify.com/album/20ZD3JWpTUb4VUPPVNkvvZ) | 3:13 | 2024-11-29 | 2025-11-07 |
 | [Murda](https://open.spotify.com/track/0gxt0HVcwztpRHgwKHtjg7) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [Murda](https://open.spotify.com/album/0U3lIx96r3jaV0PGe8W9cE) | 2:49 | 2024-11-29 | 2025-12-12 |
+| [My Bébé](https://open.spotify.com/track/1M4hppqYK76xSSI7qdNCkr) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [My Bébé](https://open.spotify.com/album/6cfApR6fX0ptSf8UjikmAn) | 2:23 | 2026-02-13 |  |
 | [My Head](https://open.spotify.com/track/5v9ZWzBcBZozh2Xy5D02Jp) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9) | [My Head](https://open.spotify.com/album/2Zbvg74iS66Au0WLHrDbfn) | 3:05 | 2025-01-17 | 2025-10-25 |
 | [My Padi](https://open.spotify.com/track/4v3r8Qo2urOchL0HVZbBQn) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [My Padi](https://open.spotify.com/album/1EH9dIlkJeLraZsLBx2oWw) | 2:34 | 2025-06-20 | 2025-09-05 |
 | [Nakupenda](https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Nakupenda](https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d) | 5:33 | 2025-12-12 |  |

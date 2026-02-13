@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 172320,
+  "num_followers": 172329,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAC/087MdD9Xrthnzt1LBHlc",
+  "snapshot_id": "aYvGgAAAAAB676A57OdSxVv3aqQvIxMI",
   "tracks": [
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+        "name": "Crystal Visions...The Very Best of Stevie Nicks",
+        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 251066,
-      "name": "If I Were You",
-      "url": "https://open.spotify.com/track/2NkL0jv87A9FrLp6weyyhQ"
+      "duration_ms": 421800,
+      "name": "Rhiannon - Live 2005",
+      "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crystal Visions...The Very Best of Stevie Nicks",
-        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 421800,
-      "name": "Rhiannon - Live 2005",
-      "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
+      "duration_ms": 251066,
+      "name": "If I Were You",
+      "url": "https://open.spotify.com/track/2NkL0jv87A9FrLp6weyyhQ"
     },
     {
       "added_at": null,
@@ -727,38 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Sister Honey",
-      "url": "https://open.spotify.com/track/4uVWZBNCAj5cDUjvvStpI0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Every Day",
-      "url": "https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pack Up The Plantation: Live!",
         "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
       },
@@ -779,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Karat Gold: Songs from the Vault",
-        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
       },
       "artists": [
         {
@@ -788,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 278138,
-      "name": "The Dealer",
-      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
+      "duration_ms": 216266,
+      "name": "Every Day",
+      "url": "https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho"
     },
     {
       "added_at": null,
@@ -804,9 +772,25 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 224773,
-      "name": "I Sing for Things",
-      "url": "https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq"
+      "duration_ms": 230600,
+      "name": "Sister Honey",
+      "url": "https://open.spotify.com/track/4uVWZBNCAj5cDUjvvStpI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24 Karat Gold: Songs from the Vault",
+        "url": "https://open.spotify.com/album/7jCfopf1GmfBfYJh63aW7R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 278138,
+      "name": "The Dealer",
+      "url": "https://open.spotify.com/track/3MhtDiOUmoL5Yw3uh9asB1"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
       "duration_ms": 195560,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/4ztowwWgYZtq0OOUxerZrv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "I Sing for Things",
+      "url": "https://open.spotify.com/track/3Dk4epAbgbSezElqPQCXvq"
     },
     {
       "added_at": null,

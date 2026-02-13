@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Delulu Pack",
+        "url": "https://open.spotify.com/album/09YZd8EhjQjGDJbc8EUuKq"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "404 (New Era)",
+      "url": "https://open.spotify.com/track/7Dgh6z47wLzI5wikmGsYC3"
+    },
+    {
+      "album": {
         "name": "67 Merry Rizzmas",
         "url": "https://open.spotify.com/album/3M9tJ9aUDvuhRPPdcGlFPd"
       },
@@ -432,7 +450,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 180705,
       "name": "ATM",
       "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
@@ -1210,7 +1228,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 173786,
       "name": "Cool for the Summer - Hardstyle",
       "url": "https://open.spotify.com/track/7qe4U5w24EnDIMao2uLZnc"
@@ -4449,6 +4467,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229381,
+      "name": "LO QUE LE PAS\u00d3 A HAWAii",
+      "url": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
+    },
+    {
+      "album": {
         "name": "Look Good",
         "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
       },
@@ -5004,6 +5040,24 @@
       "duration_ms": 130500,
       "name": "MON B\u00c9B\u00c9",
       "url": "https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "album": {
@@ -5798,7 +5852,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
@@ -6876,7 +6930,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"

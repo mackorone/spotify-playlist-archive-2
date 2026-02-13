@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 22117,
+  "num_followers": 22133,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "izi 1\uc9d1",
+        "url": "https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8"
+      },
+      "artists": [
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf"
+        }
+      ],
+      "duration_ms": 226548,
+      "name": "\uc751\uae09\uc2e4",
+      "url": "https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Princess Hours (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 275342,
       "name": "Perhaps Love",
       "url": "https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "izi 1\uc9d1",
-        "url": "https://open.spotify.com/album/1KTUBQHfKhX9F2X01sqEO8"
-      },
-      "artists": [
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/4PPkRMbw2jIs7flJkl4okf"
-        }
-      ],
-      "duration_ms": 226548,
-      "name": "\uc751\uae09\uc2e4",
-      "url": "https://open.spotify.com/track/5XVEx1pTUR4T7ABtXoGGxx"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "\uc601\ubbfc",
+        "url": "https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF"
+      },
+      "artists": [
+        {
+          "name": "Tim",
+          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
+        }
+      ],
+      "duration_ms": 228946,
+      "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
+      "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Difference",
         "url": "https://open.spotify.com/album/36HKeRjDoczel62iwy3z75"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 261630,
       "name": "\uc0ac\ub791\uc758 \ubc14\ubcf4",
       "url": "https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "\uc601\ubbfc",
-        "url": "https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF"
-      },
-      "artists": [
-        {
-          "name": "Tim",
-          "url": "https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY"
-        }
-      ],
-      "duration_ms": 228946,
-      "name": "\uc0ac\ub791\ud569\ub2c8\ub2e4...",
-      "url": "https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Exhibition",
-        "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
-      },
-      "artists": [
-        {
-          "name": "Exhibition",
-          "url": "https://open.spotify.com/artist/2oHNNPMZJYPoiP9Pmm76bJ"
-        }
-      ],
-      "duration_ms": 313106,
-      "name": "Etude of Memory",
-      "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "SOLISTA Part.2",
         "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 251689,
       "name": "Last Love",
       "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Exhibition",
+        "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
+      },
+      "artists": [
+        {
+          "name": "Exhibition",
+          "url": "https://open.spotify.com/artist/2oHNNPMZJYPoiP9Pmm76bJ"
+        }
+      ],
+      "duration_ms": 313106,
+      "name": "Etude of Memory",
+      "url": "https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Girls On Top",
-        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
+        "name": "With L.O.V.E Brown Eyed Girls",
+        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
       },
       "artists": [
         {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 218653,
-      "name": "Girls On Top",
-      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
+      "duration_ms": 217626,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1123,18 +1123,34 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "With L.O.V.E Brown Eyed Girls",
-        "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
+        "name": "Girls On Top",
+        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
       },
       "artists": [
         {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 217626,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
+      "duration_ms": 218653,
+      "name": "Girls On Top",
+      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "SOUL FOOD",
+        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
+        }
+      ],
+      "duration_ms": 284106,
+      "name": "When flowering spring comes",
+      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1159,8 +1175,8 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "It's Different",
-        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
+        "name": "Like Them",
+        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
       },
       "artists": [
         {
@@ -1168,41 +1184,9 @@
           "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
         }
       ],
-      "duration_ms": 271893,
-      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
-      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "SOUL FOOD",
-        "url": "https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q"
-      },
-      "artists": [
-        {
-          "name": "BMK",
-          "url": "https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O"
-        }
-      ],
-      "duration_ms": 284106,
-      "name": "When flowering spring comes",
-      "url": "https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Gugip: C.J.2002",
-        "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 260480,
-      "name": "Seulpun honjatmal",
-      "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
+      "duration_ms": 281800,
+      "name": "We Should've Been Friends",
+      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1219,6 +1203,22 @@
       "duration_ms": 329952,
       "name": "I LOVE YOU",
       "url": "https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Gugip: C.J.2002",
+        "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 260480,
+      "name": "Seulpun honjatmal",
+      "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Like Them",
-        "url": "https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek"
-      },
-      "artists": [
-        {
-          "name": "GUMMY",
-          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
-        }
-      ],
-      "duration_ms": 281800,
-      "name": "We Should've Been Friends",
-      "url": "https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 258973,
       "name": "\ud55c \ub0a8\uc790",
       "url": "https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "It's Different",
+        "url": "https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf"
+      },
+      "artists": [
+        {
+          "name": "GUMMY",
+          "url": "https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "\ub0a0 \uadf8\ub9cc \uc78a\uc5b4\uc694",
+      "url": "https://open.spotify.com/track/48019yKa8kJowllkqICDIi"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Longing",
-        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
-      },
-      "artists": [
-        {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "So Fresh",
         "url": "https://open.spotify.com/album/697XKzYvrKSG7K5G1kqYSi"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 244927,
       "name": "So Fresh",
       "url": "https://open.spotify.com/track/7h2JM9Sp1lAtXXyOpBiHMR"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
     },
     {
       "added_at": "2024-08-05 16:59:31",

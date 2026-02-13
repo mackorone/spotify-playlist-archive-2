@@ -4,7 +4,7 @@
 
 > Enjoy fantastic gameplay with k\-pop music! \(Cover: ENHYPEN\)
 
-341 songs - 17 hr 20 min
+343 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [5, 4, 3 \(Pretty woman\) \(feat\. Lay Bankz\)](https://open.spotify.com/track/4eTDkRxOmm4llv4Yr1bteq) | [CxM](https://open.spotify.com/artist/7kjuLdYbtTkWBToMu2ebZN), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [CxM 1st Mini Album ‘HYPE VIBES’](https://open.spotify.com/album/4PxPsw7YFuzBaJZ3dHUV55) | 2:46 | 2025-10-14 | 2025-12-15 |
 | [96ers](https://open.spotify.com/track/6AvxOYstG9cCD4RVQp4aJz) | [HxW](https://open.spotify.com/artist/1EReYiseDwE51FzGm7EK9n) | [HxW 1st Single Album 'BEAM'](https://open.spotify.com/album/4SOFnzIWYI2JU9ypuQX2E4) | 2:45 | 2025-03-14 | 2025-06-23 |
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-11-24 | 2025-06-14 |
-| [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-14 |  |
+| [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-14 | 2026-02-13 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-11-24 |  |
 | [Air](https://open.spotify.com/track/6HSns0qPQQfgekCrBF0Dkf) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [AIR](https://open.spotify.com/album/6sJnzoRI9pXUo0gZxIviUS) | 3:14 | 2025-03-14 | 2025-07-13 |
 | [Alcohol\-Free](https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Taste of Love](https://open.spotify.com/album/00vb6sViDbJLmLLchfbRh4) | 3:30 | 2022-11-24 | 2023-08-26 |
@@ -37,6 +37,7 @@
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-11-24 | 2025-05-01 |
 | [Bad Desire \(With or Without You\)](https://open.spotify.com/track/38pEX03GFZ0PfFDaOrpKOM) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DESIRE : UNLEASH](https://open.spotify.com/album/5nskZ8CFMrSNiOrceMHr4B) | 2:21 | 2025-06-13 |  |
 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-22 | 2025-02-08 |
+| [BANG BANG](https://open.spotify.com/track/4MII9R3syMugyhdDvB8G0u) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/5tBbxrd5aHP9Q8pv50pQgY) | 2:57 | 2026-02-12 |  |
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BATTER UP](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2024-01-31 |  |
 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 | 2022-11-24 | 2025-06-14 |
 | [Beat It Up](https://open.spotify.com/track/4UJwJG0Byki4e9MNTxo8aF) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up](https://open.spotify.com/album/7jd5hUsxFPUsM0dqfpRjmp) | 3:20 | 2025-11-21 |  |
@@ -111,7 +112,7 @@
 | [FINAL LOVE SONG](https://open.spotify.com/track/7uhvf8LckR9OYmmiJ53wJW) | [I\-LAND2 : N/a](https://open.spotify.com/artist/5wA7TzIKrDqmlnEFk6t1y4) | [I\-LAND2 : N/a Signal Song \(Applicants Version\)](https://open.spotify.com/album/34esSejdtngmSozv4mZCUR) | 3:17 | 2024-05-09 | 2024-07-27 |
 | [FIRE](https://open.spotify.com/track/7IkuRNVAjwXpZ2DheQHL4L) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [X](https://open.spotify.com/album/5DbZBWJtKZnwCKDkMvC45q) | 3:27 | 2022-11-24 | 2023-01-15 |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-08-25 | 2024-04-19 |
-| [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 | 2024-04-04 |  |
+| [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 | 2024-04-04 | 2026-02-13 |
 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 | 2025-11-14 |  |
 | [FOREVER](https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B) | 3:32 | 2024-07-25 | 2025-07-03 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-11-24 | 2023-09-16 |
@@ -214,6 +215,7 @@
 | [NERDY](https://open.spotify.com/track/6maRkcBnkwVL0uwjjGazFT) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [ERLU BLUE](https://open.spotify.com/album/1FCqBar1R2jOcwcR7TyVTS) | 3:12 | 2025-04-30 | 2025-06-14 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-09-02 |  |
 | [Next Level](https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Next Level](https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N) | 3:41 | 2022-11-24 | 2025-11-21 |
+| [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 | 2026-02-12 |  |
 | [NOBODY](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [NOBODY](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) | 2:41 | 2023-11-16 | 2024-05-04 |
 | [NOT CUTE ANYMORE](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt) | 2:11 | 2026-01-23 |  |
 | [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 | 2022-11-24 | 2024-04-19 |

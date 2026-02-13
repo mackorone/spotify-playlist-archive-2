@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66729,
+  "num_followers": 66727,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAACVGsnt5eVHXFjn4iC4AZBG",
+  "snapshot_id": "aYvGgAAAAAB/QnvCndfYmKfYcnxoV8Vz",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 335946,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 375838,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/6TY5sU1MtoQ3ghGdIMkF1N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ele Se Move",
         "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
       },
@@ -271,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 375838,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/6TY5sU1MtoQ3ghGdIMkF1N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vigor (Ao Vivo)",
         "url": "https://open.spotify.com/album/0LHji3FNJFBroXXzvlG8Kf"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 266320,
       "name": "Vigor (Ao Vivo)",
       "url": "https://open.spotify.com/track/4LSHbhqLF6fMu1fEngtmLP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 335946,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy"
     },
     {
       "added_at": null,
@@ -451,26 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Alma Abatida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Palavra Tocada",
-          "url": "https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo"
-        }
-      ],
-      "duration_ms": 276488,
-      "name": "A Alma Abatida - Ao Vivo",
-      "url": "https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 373933,
       "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
       "url": "https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Alma Abatida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Palavra Tocada",
+          "url": "https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo"
+        }
+      ],
+      "duration_ms": 276488,
+      "name": "A Alma Abatida - Ao Vivo",
+      "url": "https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ"
     },
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle + Milagre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Liz Lanne",
-          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
-        }
-      ],
-      "duration_ms": 301280,
-      "name": "Deus no Controle + Milagre (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terremoto",
         "url": "https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 266826,
       "name": "Quanto Amor (feat. Eyshila)",
       "url": "https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus no Controle + Milagre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Liz Lanne",
+          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
+        }
+      ],
+      "duration_ms": 301280,
+      "name": "Deus no Controle + Milagre (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Tanque de Betesda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 304280,
-      "name": "O Tanque de Betesda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },
@@ -659,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus dos Vales, Deus dos Montes (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1aYeIpqwkXbGEMBPauuf5b"
+        "name": "O Tanque de Betesda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
       },
       "artists": [
         {
@@ -668,25 +652,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 256640,
-      "name": "Deus dos Vales, Deus dos Montes + Tira-me do Vale (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6NKS2L2XXu6NV58fsmuKM3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Deus dos Vales, Deus dos Montes",
-      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
+      "duration_ms": 304280,
+      "name": "O Tanque de Betesda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
     },
     {
       "added_at": null,
@@ -707,6 +675,38 @@
       "duration_ms": 496640,
       "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
       "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Deus dos Vales, Deus dos Montes",
+      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus dos Vales, Deus dos Montes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1aYeIpqwkXbGEMBPauuf5b"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 256640,
+      "name": "Deus dos Vales, Deus dos Montes + Tira-me do Vale (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6NKS2L2XXu6NV58fsmuKM3"
     },
     {
       "added_at": null,
@@ -771,18 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casa de B\u00ean\u00e7\u00e3o + Lugar de Vida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0EQ6vU9CdBp2iNUycTSe55"
+        "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1RXUxLgHNop0heYVMfBZcB"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 335773,
-      "name": "Casa de B\u00ean\u00e7\u00e3o + Lugar de Vida (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6lgIywQlJlj8iA6LbddbJx"
+      "duration_ms": 484213,
+      "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4vOPMKqEAJnxLTYp304rLu"
     },
     {
       "added_at": null,
@@ -803,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1RXUxLgHNop0heYVMfBZcB"
+        "name": "Casa de B\u00ean\u00e7\u00e3o + Lugar de Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0EQ6vU9CdBp2iNUycTSe55"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
         }
       ],
-      "duration_ms": 484213,
-      "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4vOPMKqEAJnxLTYp304rLu"
+      "duration_ms": 335773,
+      "name": "Casa de B\u00ean\u00e7\u00e3o + Lugar de Vida (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6lgIywQlJlj8iA6LbddbJx"
     },
     {
       "added_at": null,

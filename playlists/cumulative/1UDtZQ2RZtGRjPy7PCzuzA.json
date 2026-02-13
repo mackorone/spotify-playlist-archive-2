@@ -5813,6 +5813,24 @@
     },
     {
       "album": {
+        "name": "Made In The A.M. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192112,
+      "name": "Drag Me Down",
+      "url": "https://open.spotify.com/track/2K87XMYnUMqLcX3zvtAF4G"
+    },
+    {
+      "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
@@ -9705,7 +9723,7 @@
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 221159,
+      "duration_ms": 221158,
       "name": "How Long?",
       "url": "https://open.spotify.com/track/3nOSvfxdOeIAaUYO0KMYox"
     },
@@ -10450,6 +10468,24 @@
       "duration_ms": 258948,
       "name": "I should hate you",
       "url": "https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7"
+    },
+    {
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215933,
+      "name": "I Should Have Kissed You",
+      "url": "https://open.spotify.com/track/4yVPaA6DOfwbqZIQNv4G5U"
     },
     {
       "album": {
@@ -22152,6 +22188,24 @@
       "duration_ms": 302191,
       "name": "The World Was Wide Enough",
       "url": "https://open.spotify.com/track/0P09TBGSKiQwfUsEh1UafT"
+    },
+    {
+      "album": {
+        "name": "Take Me Home (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200400,
+      "name": "They Don't Know About Us",
+      "url": "https://open.spotify.com/track/6M31fPFCYB8Job3MCjjrDV"
     },
     {
       "album": {

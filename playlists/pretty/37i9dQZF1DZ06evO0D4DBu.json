@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211364,
+  "num_followers": 211363,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAClbVQvn/ag0t+5nIofns0+",
+  "snapshot_id": "aYvGgAAAAAB6xs9tyrjfl7xsxKzGwcOI",
   "tracks": [
     {
       "added_at": null,
@@ -716,13 +716,17 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "Nate Fox",
-          "url": "https://open.spotify.com/artist/7xDiCwbxPFkL5mFgjirxpV"
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Lili K",
+          "url": "https://open.spotify.com/artist/7AguDSkWdr8NzTOvpTID4W"
         }
       ],
-      "duration_ms": 139406,
-      "name": "Pusha Man",
-      "url": "https://open.spotify.com/track/16Obfc7O9GZopmzkiVPT95"
+      "duration_ms": 239250,
+      "name": "Good Ass Intro",
+      "url": "https://open.spotify.com/track/7hcv7bhiStn7kMgERTEORQ"
     },
     {
       "added_at": null,
@@ -804,17 +808,13 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         },
         {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Lili K",
-          "url": "https://open.spotify.com/artist/7AguDSkWdr8NzTOvpTID4W"
+          "name": "Nate Fox",
+          "url": "https://open.spotify.com/artist/7xDiCwbxPFkL5mFgjirxpV"
         }
       ],
-      "duration_ms": 239250,
-      "name": "Good Ass Intro",
-      "url": "https://open.spotify.com/track/7hcv7bhiStn7kMgERTEORQ"
+      "duration_ms": 139406,
+      "name": "Pusha Man",
+      "url": "https://open.spotify.com/track/16Obfc7O9GZopmzkiVPT95"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Love Letter To You 4 (Deluxe)",
-        "url": "https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 229244,
-      "name": "I Love You (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 179200,
       "name": "Together",
       "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Love Letter To You 4 (Deluxe)",
+        "url": "https://open.spotify.com/album/6Qb3toNhi0XwcZG43ksJX9"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 229244,
+      "name": "I Love You (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/6qEbKsvhAQjV3GfSGn1A8K"
     },
     {
       "added_at": null,
@@ -1067,26 +1067,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broad Shoulders",
-        "url": "https://open.spotify.com/album/61KTKfjFX7exj2Od31ulYA"
+        "name": "The Man Who Has Everything",
+        "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
       },
       "artists": [
-        {
-          "name": "Taylor Bennett",
-          "url": "https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c"
-        },
-        {
-          "name": "Ludlow",
-          "url": "https://open.spotify.com/artist/1M53T7uktQTvgqM2ui1fui"
-        },
         {
           "name": "Chance the Rapper",
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 227263,
-      "name": "Broad Shoulders (feat. Chance the Rapper)",
-      "url": "https://open.spotify.com/track/6m3ZXs465Rt4Tc1iiLktXL"
+      "duration_ms": 218624,
+      "name": "The Man Who Has Everything",
+      "url": "https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN"
     }
   ],
   "unique_name": "This Is Chance the Rapper",

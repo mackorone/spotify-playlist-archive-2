@@ -2,9 +2,9 @@
 
 ### [K\-Webtoon/Anime OST \(K\-웹툰/애니메이션 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: 연애혁명 \(Love Revolution\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: 재혼 황후 \(The Remarried Empress\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-283 songs - 16 hr 55 min
+284 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [I haven't erased you even for a single day](https://open.spotify.com/track/6wgCtd1Z1hb4VndLPeb6bX) | [Joo Hyunmin](https://open.spotify.com/artist/7I4EANWzax0oiEtNrNmlx7) | [죽이고 싶은 나의 전복 왕자님 OST Part.12 \(Soundtrack\)](https://open.spotify.com/album/3t629Z1Tyz0XroCgoA9OF9) | 3:35 | 2024-06-24 | 2024-08-11 |
 | [I Like You, But Got Tired of Liking You](https://open.spotify.com/track/3zQBBTKaHLNp633PCHTHOQ) | [Oisobagi](https://open.spotify.com/artist/5VHe33YC6hsyT9QXtAHVB5) | [Naver webtoon 'Love Revolution' \(Original Soundtrack\)](https://open.spotify.com/album/097XnpiY8MwxhW7fpkONsh) | 4:16 | 2022-05-09 | 2026-01-28 |
 | [I miss you like crazy](https://open.spotify.com/track/4wioWVD9Ob0c4M0VTFh3XX) | [Lee Dong Yoon](https://open.spotify.com/artist/1lUg902ZVImCAZw029ZhVe) | [여기 보세요, 마왕님! OST Part.5 \(Soundtrack\)](https://open.spotify.com/album/5hrKQtOgXHD1IFA6H8d74J) | 3:49 | 2024-02-10 | 2024-08-11 |
+| [I Rise \(Webtoon ‘The Remarried Empress’\)](https://open.spotify.com/track/1zDVQYhoxBKlXkpUntu0Cr) | [BELLE](https://open.spotify.com/artist/6NsHyr1CcyPSYAiWmW1A1U) | [Webtoon ‘The Remarried Empress’ Part\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2cuObUnEFIJR8pEWrKDEux) | 3:34 | 2026-02-12 |  |
 | [I still miss you](https://open.spotify.com/track/707JA03fZSI9FJGSzenyMf) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [Coffee Fox Kim Sam Wol OST Part.1 \(Soundtrack\)](https://open.spotify.com/album/2E2XzUwbkkjeOkCVIScLmO) | 3:57 | 2022-10-18 | 2023-12-11 |
 | [I wait for you without knowing](https://open.spotify.com/track/1jqGHm9Yh5DsuY5cGL7NiU) | [Tae Hwa Yoon](https://open.spotify.com/artist/2D8TOjwm9HxmUClDQC7S5M) | [Coffee Fox Kim Sam Wol OST Part.10 \(Soundtrack\)](https://open.spotify.com/album/3wFlmLOdSwFf0hYlcVbiXM) | 3:43 | 2022-12-21 | 2024-08-11 |
 | [I will give you all](https://open.spotify.com/track/1LSixbz3eBJ6H71F3lCl6y) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF) | [The Legendary Moonlight Sculptor Webtoon OST Part.1](https://open.spotify.com/album/59qfAfD31VSn7lYtfqCh5K) | 3:43 | 2022-05-09 | 2023-12-11 |
@@ -144,7 +145,7 @@
 | [MAY LILY](https://open.spotify.com/track/3jFz8MinepMJRlKkW1QMnj) | [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8) | [I'm the Queen in This Life \(Original Soundtrack\) Part.1](https://open.spotify.com/album/6J2BUKL9hLJstdpnKBwDdl) | 3:01 | 2024-03-08 |  |
 | [Meeting \(The Moon during the Day\) \[2023 Remake\]](https://open.spotify.com/track/36f33KsYnm7t22yBhzqElq) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Meeting \(The Moon during the Day\) \[2023 Remake\]](https://open.spotify.com/album/6nJUKPcAwwAnogj2e4DW0g) | 4:15 | 2023-12-10 | 2025-04-22 |
 | [Melody](https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Melody \(Gongzza X Whee In\) \(Original Soundtrack\)](https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4) | 3:54 | 2022-06-09 |  |
-| [Midnight Sun](https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1](https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f) | 4:20 | 2022-11-03 |  |
+| [Midnight Sun](https://open.spotify.com/track/5siTrkr1YLJDHYYj67KhlK) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Webtoon 'The Broken Ring : This Marriage Will Fail Anyway' OST PART1](https://open.spotify.com/album/3Ilh5wp7VRAvL9cxE0uC0f) | 4:20 | 2022-11-03 | 2026-02-13 |
 | [minimal warm \(She is My Type♡ X CHANYEOL\)](https://open.spotify.com/track/1Lp1fMo9DyDVIv83q94cdy) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [minimal warm \(She is My Type♡ X CHANYEOL\)](https://open.spotify.com/album/5HkjTGtUKjCDLLGEnb1nl8) | 3:13 | 2024-08-10 |  |
 | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/track/0hItNTeDE4VYgm8lxxzlir) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Miss you.\. want to caress you \(Something Between Us X Monday Kiz\)](https://open.spotify.com/album/09KjzzpY8alpaYvkzI4fxX) | 4:02 | 2022-06-20 | 2024-08-11 |
 | [Missing You](https://open.spotify.com/track/69sTmIhdPhFSg6bhEQWuiu) | [ESDI](https://open.spotify.com/artist/6aESUF8JmhEzx3caQ0erOW) | [Missing You \(Original Webtoon Soundtrack from Naver Webtoon "Love Revolution Reminds"\)](https://open.spotify.com/album/1DGDbxPSrzvIf3tOgT4GTS) | 4:12 | 2026-02-06 |  |

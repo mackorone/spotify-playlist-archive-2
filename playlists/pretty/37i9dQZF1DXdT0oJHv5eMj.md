@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT0oJHv5eMj.md) - [plain]
 
 > Today's hit country music videos! Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,389 likes - 22 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,432 likes - 22 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT0oJHv5eMj.md) - [plain]
 | 21 | [Dirt Cheap](https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:59 |
 | 22 | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/track/6xOsGr1dhXhhdX6ingWN4v) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/album/6WV1OV7B6aMpbDgorCvnqd) | 3:14 |
 
-Snapshot ID: `AAAAAMcb7nEVoRwrjVEloGLbLCAJ7jMq`
+Snapshot ID: `AAAAAKwPEgE0/XwggJGTliI/s5uN/Wr8`

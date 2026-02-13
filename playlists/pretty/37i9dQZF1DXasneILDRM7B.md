@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,000,689 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,000,665 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 47 | [1985](https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF) | 3:13 |
 | 48 | [That's What You Get](https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:40 |
 | 49 | [Welcome to My Life](https://open.spotify.com/track/10rChmECwPcvTTj4w07hq4) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any...](https://open.spotify.com/album/6RSpKXfvVzCqtLi6VySxsU) | 3:26 |
-| 50 | [The Rock Show](https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 |
+| 50 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 |
 | 51 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
-| 52 | [Miss Murder](https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV) | 3:26 |
-| 53 | [crushcrushcrush](https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:09 |
-| 54 | [Monsters \(feat\. blackbear\)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:54 |
+| 52 | [The Rock Show](https://open.spotify.com/track/2ydUT1pFhuLDnouelIv4WH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:51 |
+| 53 | [Monsters \(feat\. blackbear\)](https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 2:54 |
+| 54 | [crushcrushcrush](https://open.spotify.com/track/3VA4sjTMSTTF02hFGmlpJh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:09 |
 | 55 | [Lifestyles of the Rich & Famous](https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 3:10 |
 | 56 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 |
 | 57 | [The Ballad of Mona Lisa](https://open.spotify.com/track/5rLi8B8qgk6qThwRnKHW2P) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:46 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 64 | [Know Your Enemy](https://open.spotify.com/track/5qtwzv99vOr5UTwnTixn7j) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 3:10 |
 | 65 | [The Hell Song](https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 3:18 |
 | 66 | [I Don't Care](https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K) | 3:34 |
-| 67 | [But It's Better If You Do](https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:25 |
+| 67 | [This Is Gospel](https://open.spotify.com/track/3yZQk5PC52CCmT4ZaTIKvv) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:07 |
 | 68 | [I'd Do Anything](https://open.spotify.com/track/4uVjbl6daCwjhDur7qLddu) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [No Pads, No Helmets...Just Balls \(15th Anniversary Tour Edition\)](https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS) | 3:17 |
 | 69 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
 | 70 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 |
 | 71 | [Still Breathing](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:44 |
-| 72 | [This Is Gospel](https://open.spotify.com/track/3yZQk5PC52CCmT4ZaTIKvv) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:07 |
+| 72 | [But It's Better If You Do](https://open.spotify.com/track/2ZqTtndqAZDRAWw2vgZwQK) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:25 |
 | 73 | [Girl All the Bad Guys Want](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 3:17 |
 | 74 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
 | 75 | [Savior](https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1) | 4:02 |

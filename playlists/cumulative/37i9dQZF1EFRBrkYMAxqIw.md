@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-186 songs - 9 hr 53 min
+187 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,8 +102,9 @@
 | [Like A Dream](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Like A Dream](https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp) | 4:13 | 2024-10-22 |  |
 | [Like I Love You](https://open.spotify.com/track/1o41lANxFtrJFG5FuTmHfQ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The NGHBRS](https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT) | [Alive And Feeling Fine](https://open.spotify.com/album/6NQRmMazNOKi0IiIXlNzGh) | 3:10 | 2024-10-14 |  |
 | [Like I Love You \(feat\. The NGHBRS\)](https://open.spotify.com/track/6sPi3kYHqqNDfbMtGDyfiZ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The NGHBRS](https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT) | [Alive and Feeling Fine](https://open.spotify.com/album/0NhWhLZutLeTq1cpqKfey7) | 3:10 | 2022-05-25 | 2024-10-15 |
+| [Lose This Feeling](https://open.spotify.com/track/2wvzL1GxggCK10iQh1hgmV) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Breathe In](https://open.spotify.com/album/7jT5OvGc48zmO5LHYMGh5A) | 2:26 | 2026-02-12 |  |
 | [Lose This Feeling](https://open.spotify.com/track/39D5kQQJUO4xPFXUSnFKBm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/3VYph5PjoXJW1xVW2hkpbu) | 2:26 | 2023-12-13 | 2024-01-15 |
-| [Lose This Feeling](https://open.spotify.com/track/4tV6C36fjDmz0kzlFIdx3o) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:26 | 2024-01-14 |  |
+| [Lose This Feeling](https://open.spotify.com/track/4tV6C36fjDmz0kzlFIdx3o) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:26 | 2024-01-14 | 2026-02-13 |
 | [Love And Appreciation](https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:03 | 2022-05-25 |  |
 | [LOVER](https://open.spotify.com/track/61UK8pJVvE6peUni27ZOcA) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [LOVER](https://open.spotify.com/album/57mcrQqIYUZWljpJ5rtkcs) | 3:09 | 2024-07-11 |  |
 | [LOVESONGS](https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:33 | 2026-01-25 |  |

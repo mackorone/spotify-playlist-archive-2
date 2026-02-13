@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 460008,
+  "num_followers": 460156,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAC81O3WeLQB56/dbgTl/RiI",
+  "snapshot_id": "aYvGgAAAAAD6RELs8y1/B5hV+5cTLJqe",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unlearning",
-        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 201879,
-      "name": "Blowin\u2019 Smoke",
-      "url": "https://open.spotify.com/track/5iYtyxrDC2apJoQUpoN7J7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 234090,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/0NckAiGfjwxWfRGaeC8eEB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unlearning",
+        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 201879,
+      "name": "Blowin\u2019 Smoke",
+      "url": "https://open.spotify.com/track/5iYtyxrDC2apJoQUpoN7J7"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Complete Edition)",
-        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 183034,
-      "name": "God Went Crazy",
-      "url": "https://open.spotify.com/track/69pKl8TvitgCaxkeGfiT9c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 147702,
       "name": "Are You Even Real (feat. Giv\u0113on)",
       "url": "https://open.spotify.com/track/7pDFd3sgEoPnka6k9IyBcH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 183034,
+      "name": "God Went Crazy",
+      "url": "https://open.spotify.com/track/69pKl8TvitgCaxkeGfiT9c"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 166890,
-      "name": "911",
-      "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 176424,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 166890,
+      "name": "911",
+      "url": "https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tough Love",
-        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 175017,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 175017,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You've Got Another Thing Coming (From the Netflix Series \"Nobody Wants This\" Season 2)",
         "url": "https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s"
       },
@@ -459,26 +459,6 @@
       "duration_ms": 179086,
       "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bed on Fire (with Ingrid Andress)",
-        "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 228507,
-      "name": "Bed on Fire (with Ingrid Andress)",
-      "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
     },
     {
       "added_at": null,
@@ -511,6 +491,26 @@
       "duration_ms": 159068,
       "name": "She Loves the Rain",
       "url": "https://open.spotify.com/track/6n6IzBGcMZA1p1zMln7n9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bed on Fire (with Ingrid Andress)",
+        "url": "https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 228507,
+      "name": "Bed on Fire (with Ingrid Andress)",
+      "url": "https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unlearning",
-        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 192491,
-      "name": "Somebody Should Kiss You",
-      "url": "https://open.spotify.com/track/5AfsHUyPD9gfSEUYV3i5Nw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 1.5)",
         "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 176225,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/3WyUluIcDGvi2sCAOpiJUH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unlearning",
+        "url": "https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 192491,
+      "name": "Somebody Should Kiss You",
+      "url": "https://open.spotify.com/track/5AfsHUyPD9gfSEUYV3i5Nw"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 215740,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/53LrdNXkfGaS6pdyWDype0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/0mHk41X0RRc6pqrcq1gQAr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 2)",
-        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 215740,
-      "name": "Northern Lights",
-      "url": "https://open.spotify.com/track/53LrdNXkfGaS6pdyWDype0"
     },
     {
       "added_at": null,

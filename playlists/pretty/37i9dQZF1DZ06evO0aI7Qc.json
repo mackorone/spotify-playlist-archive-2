@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 384029,
+  "num_followers": 384082,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAABeY91kN5ELu78ZwyI60wyp",
+  "snapshot_id": "aYvGgAAAAABRDKNBOWKltjgzg0iGr7qb",
   "tracks": [
     {
       "added_at": null,
@@ -271,30 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MI PROPIO JEFE",
-        "url": "https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "MI PROPIO JEFE",
-      "url": "https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triple Lavada (feat. Victor Mendivil) [Remix]",
         "url": "https://open.spotify.com/album/7y4nm8LYH9XRYAbdMh5SWH"
       },
@@ -323,6 +299,30 @@
       "duration_ms": 287679,
       "name": "Triple Lavada (feat. Victor Mendivil) - Remix",
       "url": "https://open.spotify.com/track/7DkOpEOBOwHg6VBj4blikS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MI PROPIO JEFE",
+        "url": "https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210923,
+      "name": "MI PROPIO JEFE",
+      "url": "https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz"
     },
     {
       "added_at": null,
@@ -435,26 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "Sin Tanto Royo",
-      "url": "https://open.spotify.com/track/2ieCamPuL76ipKH1cLH7tH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Scar",
         "url": "https://open.spotify.com/album/0RgDiqdXei2oHruyWLU7Ds"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 299381,
       "name": "Un Scar",
       "url": "https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "Sin Tanto Royo",
+      "url": "https://open.spotify.com/track/2ieCamPuL76ipKH1cLH7tH"
     },
     {
       "added_at": null,
@@ -667,6 +667,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Si Se Les Olvidaba (Remix)",
         "url": "https://open.spotify.com/album/4NjdyzK1R6zz6XDjHUtuKT"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 179657,
       "name": "Por Si Se Les Olvidaba - Remix",
       "url": "https://open.spotify.com/track/6zjOIxlIzfRwrGNueMSB49"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 215984,
-      "name": "Solita (En Vivo)",
-      "url": "https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
-        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 180731,
-      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
-      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mire Con Talento",
         "url": "https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9"
       },
@@ -947,22 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puro Campe\u00f3n",
-        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
           "name": "Luis R Conriquez",
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 196437,
-      "name": "Puro Campe\u00f3n",
-      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+      "duration_ms": 180731,
+      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
     },
     {
       "added_at": null,
@@ -987,6 +967,26 @@
       "duration_ms": 152932,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/26ffMA2QIHjbQZpBlv6GmA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puro Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Puro Campe\u00f3n",
+      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
     },
     {
       "added_at": null,

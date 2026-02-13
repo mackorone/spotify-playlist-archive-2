@@ -8820,7 +8820,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 201642,
       "name": "Jumping Machine (\u8df3\u697c\u673a)",
       "url": "https://open.spotify.com/track/1XZE0InCx3SdCnLpVsPpZl"
@@ -16269,6 +16269,24 @@
     },
     {
       "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/0O3NY0CUbznddhSaByYq6Y"
+      },
+      "artists": [
+        {
+          "name": "Nogun",
+          "url": "https://open.spotify.com/artist/1foQJuT18r5QCJ2Selswlr"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187979,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/2jz4XDB4Ruhc7vUCL0q6wD"
+    },
+    {
+      "album": {
         "name": "Queen of Tears (Original Television Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/79h63Z1mzFq1ssg3tCXyzF"
       },
@@ -18554,7 +18572,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
@@ -18710,7 +18728,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 243666,
       "name": "\u4e00\u500b\u4eba\u60f3\u8457\u4e00\u500b\u4eba",
       "url": "https://open.spotify.com/track/3n3zzFH7zzO0gJNaw4RKSm"
@@ -19524,7 +19542,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 232853,
       "name": "\u4eba\u8cea",
       "url": "https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb"
@@ -20124,7 +20142,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 177000,
       "name": "\u505a\u6211\u7684\u521d\u6200",
       "url": "https://open.spotify.com/track/4flk8ZgDFry6o2t0SdKsnB"
@@ -23106,7 +23124,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 215253,
       "name": "\u611b\u611b\u611b",
       "url": "https://open.spotify.com/track/59lBAMCis4C6NsPdUV35Vz"
@@ -23146,7 +23164,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 292666,
       "name": "\u611b\u6211\u9084\u662f\u4ed6",
       "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
@@ -24056,6 +24074,24 @@
       "duration_ms": 223125,
       "name": "\u62cc\u62cc\u54a7",
       "url": "https://open.spotify.com/track/7AXivyEfNAoz0m0Rfc0IXr"
+    },
+    {
+      "album": {
+        "name": "\u963f\u5bc6\u7279\u610f\u8b58\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/4YeGdpCYSpx4lcMFjLjx0z"
+      },
+      "artists": [
+        {
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237560,
+      "name": "\u6389\u4e86",
+      "url": "https://open.spotify.com/track/4yLirljV93Y0vIoERjeTv5"
     },
     {
       "album": {
@@ -27796,7 +27832,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 271493,
       "name": "\u958b\u59cb\u61c2\u4e86",
       "url": "https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: Omah Lay",
+  "description": "The tracks heating up the continent right now!  Cover: King Promise and Mr Eazi",
   "name": "African Heat",
   "tracks": [
     {
@@ -941,6 +941,32 @@
     },
     {
       "album": {
+        "name": "ANGELS",
+        "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
+      },
+      "artists": [
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184437,
+      "name": "ANGELS",
+      "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
+    },
+    {
+      "album": {
         "name": "ANGUKA NAYO",
         "url": "https://open.spotify.com/album/3HWqTYcW19gYAjNUUfhPwm"
       },
@@ -1396,7 +1422,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 164151,
       "name": "Baby (Is it a Crime)",
       "url": "https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u"
@@ -6144,7 +6170,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 188571,
       "name": "Joy Is Coming",
       "url": "https://open.spotify.com/track/1rDAxzBd3KhzIAZyTZylmX"
@@ -6308,6 +6334,24 @@
       "duration_ms": 175367,
       "name": "Kai!",
       "url": "https://open.spotify.com/track/0UKX2OlSnobdX77f0Y1jok"
+    },
+    {
+      "album": {
+        "name": "Kakalika",
+        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181581,
+      "name": "Kakalika",
+      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
     },
     {
       "album": {
@@ -8199,6 +8243,28 @@
     },
     {
       "album": {
+        "name": "MY HEALER",
+        "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157023,
+      "name": "MY HEALER",
+      "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
+    },
+    {
+      "album": {
         "name": "My Man",
         "url": "https://open.spotify.com/album/2P0BnbvscGJpuGBlCUEIUA"
       },
@@ -9692,7 +9758,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 165000,
       "name": "PITY THIS BOY (with Victony)",
       "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"

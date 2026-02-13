@@ -1,12 +1,12 @@
 {
   "description": "The perfect soundtrack recipe for a backyard barbecue!",
-  "num_followers": 768765,
+  "num_followers": 768855,
   "original_name": "Country Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOLuQZJY1XHkksZIl+pQ04hcvqFO",
+  "snapshot_id": "AAAAAA2AC2TGQ5h+PI/cSfdh3eY2fNfc",
   "tracks": [
     {
       "added_at": "2026-02-03 18:39:43",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/5aWJ4c7FZJ8r0G7lRzLTn4"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
+    },
+    {
+      "added_at": "2026-02-03 18:39:43",
+      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
-    },
-    {
-      "added_at": "2026-02-03 18:39:43",
-      "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/5aWJ4c7FZJ8r0G7lRzLTn4"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/7FudQLDIYCX6F7ruexVn2X"
     },
     {
       "added_at": "2026-02-03 18:39:43",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+    },
+    {
+      "added_at": "2026-02-03 18:39:43",
+      "album": {
         "name": "Old Dominion",
         "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 186240,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
-    },
-    {
-      "added_at": "2026-02-03 18:39:43",
-      "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 227426,
-      "name": "Die A Happy Man",
-      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
     },
     {
       "added_at": "2026-02-03 18:39:43",
@@ -591,22 +591,18 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
-        "name": "Backup Plan (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 181518,
-      "name": "Backup Plan (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
+      "duration_ms": 227426,
+      "name": "Die A Happy Man",
+      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
     },
     {
       "added_at": "2026-02-03 18:39:43",
@@ -627,6 +623,26 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
+        "name": "Backup Plan (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 181518,
+      "name": "Backup Plan (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
+    },
+    {
+      "added_at": "2026-02-03 18:39:43",
+      "album": {
         "name": "All The Way (feat. Bailey Zimmerman)",
         "url": "https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 165000,
       "name": "All The Way (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
-    },
-    {
-      "added_at": "2026-02-03 18:39:43",
-      "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2026-02-03 18:39:43",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
-        "name": "Always Never The Same",
-        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 219600,
-      "name": "Write This Down",
-      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
-    },
-    {
-      "added_at": "2026-02-03 18:39:43",
-      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 206106,
       "name": "She Had Me At Heads Carolina",
       "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+    },
+    {
+      "added_at": "2026-02-03 18:39:43",
+      "album": {
+        "name": "Always Never The Same",
+        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Write This Down",
+      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
     },
     {
       "added_at": "2026-02-03 18:39:43",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
-        "name": "Strait Out Of The Box",
-        "url": "https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW"
-      },
-      "artists": [
-        {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Check Yes Or No",
-      "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
-    },
-    {
-      "added_at": "2026-02-03 18:39:43",
-      "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
+        "name": "Strait Out Of The Box",
+        "url": "https://open.spotify.com/album/2j7URVIN8GPGqzb8xi2hYW"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Check Yes Or No",
+      "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
+    },
+    {
+      "added_at": "2026-02-03 18:39:43",
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
-    },
-    {
-      "added_at": "2026-02-03 18:39:43",
-      "album": {
         "name": "Down The Road I Go",
         "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 241533,
       "name": "It's A Great Day To Be Alive",
       "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
+    },
+    {
+      "added_at": "2026-02-03 18:39:43",
+      "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2026-02-03 18:39:43",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+        "name": "The Closer You Get...",
+        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
         }
       ],
-      "duration_ms": 262280,
-      "name": "Talladega",
-      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
+      "duration_ms": 325542,
+      "name": "Dixieland Delight",
+      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
     },
     {
       "added_at": "2026-02-03 18:39:43",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
-        "name": "The Closer You Get...",
-        "url": "https://open.spotify.com/album/0eMs6LyA1bTZm8Mx8FPshM"
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 325542,
-      "name": "Dixieland Delight",
-      "url": "https://open.spotify.com/track/0bM1z18RQpr61UuI1LemIK"
+      "duration_ms": 262280,
+      "name": "Talladega",
+      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
     },
     {
       "added_at": "2026-02-03 18:39:43",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
-        "name": "Copperhead Road",
-        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
-      },
-      "artists": [
-        {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Copperhead Road",
-      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
-    },
-    {
-      "added_at": "2026-02-03 18:39:43",
-      "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
-        "name": "Bar None",
-        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
+        "name": "Copperhead Road",
+        "url": "https://open.spotify.com/album/6IjDVtuYfRW1KjqQy2UzPJ"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
         }
       ],
-      "duration_ms": 173064,
-      "name": "Bar None",
-      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
+      "duration_ms": 269920,
+      "name": "Copperhead Road",
+      "url": "https://open.spotify.com/track/0VU5k3vCrpqDgUygMjiFYj"
     },
     {
       "added_at": "2026-02-03 18:39:43",
@@ -1223,6 +1207,22 @@
       "duration_ms": 188893,
       "name": "One Of Them Girls",
       "url": "https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL"
+    },
+    {
+      "added_at": "2026-02-03 18:39:43",
+      "album": {
+        "name": "Bar None",
+        "url": "https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 173064,
+      "name": "Bar None",
+      "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
     },
     {
       "added_at": "2026-02-03 18:39:43",
@@ -1427,8 +1427,8 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
       },
       "artists": [
         {
@@ -1436,9 +1436,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 193929,
-      "name": "Slow Dance In A Parking Lot",
-      "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
+      "duration_ms": 172853,
+      "name": "Tucson Too Late",
+      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
     },
     {
       "added_at": "2026-02-03 18:39:43",
@@ -1511,8 +1511,8 @@
     {
       "added_at": "2026-02-03 18:39:43",
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
       "artists": [
         {
@@ -1520,9 +1520,9 @@
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 172853,
-      "name": "Tucson Too Late",
-      "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
+      "duration_ms": 193929,
+      "name": "Slow Dance In A Parking Lot",
+      "url": "https://open.spotify.com/track/6MBUUSIWCzaXW4q58Ktrv9"
     },
     {
       "added_at": "2026-02-03 18:39:43",

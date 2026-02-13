@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547 likes - 128 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 548 likes - 128 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 4 | [Dead](https://open.spotify.com/track/330CwDQh6mZ9yAWnJ1svDL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [As She Pleases](https://open.spotify.com/album/3PYA0lKJUKoKhYkVSLDyDb) | 3:14 |
 | 5 | [Without Me](https://open.spotify.com/track/7MhNCT34oaLIxwAsZlZd67) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:48 |
 | 6 | [Breakfast](https://open.spotify.com/track/3v3cZP2dmnTtTL0CdZ2HOC) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:28 |
-| 7 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 |
-| 8 | [Siren sounds \(bonus\)](https://open.spotify.com/track/6A18pcBX8QZGwI8EkR7aIP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:03 |
+| 7 | [Siren sounds \(bonus\)](https://open.spotify.com/track/6A18pcBX8QZGwI8EkR7aIP) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:03 |
+| 8 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 |
 | 9 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 |
 | 10 | [WOW](https://open.spotify.com/track/7Hl6ugkpaxbkseHzSnqlxB) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 2:59 |
 | 11 | [City of Gods](https://open.spotify.com/track/6hu4zxEVl8vhbZwDlqNqK6) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:16 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 127 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 | 128 | [Bad Things](https://open.spotify.com/track/2vlcWSnTuFw57Kyc6D6LBi) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:10 |
 
-Snapshot ID: `AcJaoAAAAADxogU0rXvV3UqC2MTvmnlh`
+Snapshot ID: `AcJgLAAAAADQNicIbzB+hCWzMcKE/WOx`

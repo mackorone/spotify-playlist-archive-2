@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gor\u0105ce nowo\u015bci i przeboje od \u015bwiatowych gwiazd muzyki pop. Cover: ZAYN",
+  "description": "Gor\u0105ce nowo\u015bci i przeboje od \u015bwiatowych gwiazd muzyki pop. Cover: sombr",
   "name": "TOP POP 2026",
   "tracks": [
     {
@@ -326,6 +326,24 @@
       "duration_ms": 220779,
       "name": "Almost",
       "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183975,
+      "name": "Always Everywhere",
+      "url": "https://open.spotify.com/track/6fGapufucZHPva1kvCqceA"
     },
     {
       "album": {
@@ -690,7 +708,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 188802,
       "name": "bandaids",
       "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
@@ -860,7 +878,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 202795,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw"
@@ -940,7 +958,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 182055,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/20R5YwjmKubeva79prlvJq"
@@ -2424,7 +2442,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/4cCnCDJZDLGDIdnxRfOUBn"
@@ -2993,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Get In Girl",
+        "url": "https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Get In Girl",
+      "url": "https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ"
+    },
+    {
+      "album": {
         "name": "GET UP BITCH! shake ya ass (with Anitta)",
         "url": "https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV"
       },
@@ -3360,6 +3396,36 @@
       "duration_ms": 245435,
       "name": "Happy Mistake",
       "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
+    },
+    {
+      "album": {
+        "name": "Hard to be Humble",
+        "url": "https://open.spotify.com/album/06Cwt8gHKpIpKUlU3T3b1N"
+      },
+      "artists": [
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "MIKOLAS",
+          "url": "https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR"
+        },
+        {
+          "name": "Manene",
+          "url": "https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150428,
+      "name": "Hard to be Humble",
+      "url": "https://open.spotify.com/track/53tIbFSsEflxrSFASVlT2A"
     },
     {
       "album": {
@@ -4612,7 +4678,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -5142,6 +5208,24 @@
       "duration_ms": 198546,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
+    },
+    {
+      "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "album": {
@@ -6040,7 +6124,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 219087,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
@@ -6156,6 +6240,24 @@
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
+    },
+    {
+      "album": {
+        "name": "Opalite",
+        "url": "https://open.spotify.com/album/3QFoWoSKxCdj8Ad28kstOp"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359659,
+      "name": "Opalite",
+      "url": "https://open.spotify.com/track/3cWbxSR8DZS4Zu8cGwYlPT"
     },
     {
       "album": {
@@ -7546,7 +7648,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 191519,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/5M2ztfcb9GBGmZdUFkSzfQ"
@@ -8969,6 +9071,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
+    },
+    {
+      "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
@@ -9020,6 +9140,28 @@
       "duration_ms": 198320,
       "name": "twilight zone",
       "url": "https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "album": {
@@ -9618,7 +9760,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"

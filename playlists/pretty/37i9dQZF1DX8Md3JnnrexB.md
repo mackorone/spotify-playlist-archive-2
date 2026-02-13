@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,470 likes - 85 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,481 likes - 85 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 11 | [Is It You](https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Rit, Vol\. 1](https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR) | 4:29 |
 | 12 | [Where Is the Love](https://open.spotify.com/track/7l07ak5IWpISBsrUtwj4O4) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 2:46 |
 | 13 | [Rainy Night in Georgia](https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:14 |
-| 14 | [Until You Come Back To Me \- Acoustic Version](https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb) | [Hil St\. Soul](https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J) | [Soul Organic \(20th Anniversary Edition\)](https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI) | 3:08 |
-| 15 | [Lunch Money](https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Lunch Money](https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH) | 2:52 |
+| 14 | [Lunch Money](https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Lunch Money](https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH) | 2:52 |
+| 15 | [Until You Come Back To Me \- Acoustic Version](https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb) | [Hil St\. Soul](https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J) | [Soul Organic \(20th Anniversary Edition\)](https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI) | 3:08 |
 | 16 | [When She Was My Girl](https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Tonight](https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i) | 3:26 |
 | 17 | [Too Hot \- Single Version](https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 3:46 |
 | 18 | [A Warm Summer Night](https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 6:04 |

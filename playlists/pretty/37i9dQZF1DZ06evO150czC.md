@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,890 likes - 50 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,894 likes - 50 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jó \(Ao Vivo\)](https://open.spotify.com/track/4N6m4BK6sEseOK6eyMp8mp) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Jó \(Ao Vivo\)](https://open.spotify.com/album/3nZZSpcNqhIwai0i49Qcco) | 6:17 |
 | 2 | [Eu Creio \(Ao Vivo\)](https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Creio \(Ao Vivo\)](https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI) | 5:21 |
 | 3 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 |
-| 4 | [Prioridade](https://open.spotify.com/track/7aqbM1anoTfbbQKQqwMrER) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:11 |
-| 5 | [Medley \- Corinhos de Fogo \(Deus Forte Como Jeová / Divisa de Fogo / Vem Cá Vem Ver / Carros de Fogo / Jacó Segurou o Anjo / Desemborca o Vaso\) \(Ao Vivo\)](https://open.spotify.com/track/3qPTgsDCNya6OHY2jkgfQO) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Medley \- Corinhos de Fogo \(Deus Forte Como Jeová / Divisa de Fogo / Vem Cá Vem Ver / Carros de Fogo / Jacó Segurou o Anjo / Desemborca o Vaso\) \(Ao Vivo\)](https://open.spotify.com/album/5iBsuuS7BXz67ZCD8pBHwo) | 5:09 |
+| 4 | [Medley \- Corinhos de Fogo \(Deus Forte Como Jeová / Divisa de Fogo / Vem Cá Vem Ver / Carros de Fogo / Jacó Segurou o Anjo / Desemborca o Vaso\) \(Ao Vivo\)](https://open.spotify.com/track/3qPTgsDCNya6OHY2jkgfQO) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Medley \- Corinhos de Fogo \(Deus Forte Como Jeová / Divisa de Fogo / Vem Cá Vem Ver / Carros de Fogo / Jacó Segurou o Anjo / Desemborca o Vaso\) \(Ao Vivo\)](https://open.spotify.com/album/5iBsuuS7BXz67ZCD8pBHwo) | 5:09 |
+| 5 | [Prioridade](https://open.spotify.com/track/7aqbM1anoTfbbQKQqwMrER) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:11 |
 | 6 | [Brasa Viva \- Acústico](https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Único \(Acústico\)](https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195) | 6:52 |
 | 7 | [Todavia me Alegrarei \(Ao Vivo\)](https://open.spotify.com/track/77QWHvsIPyV6dkkrJyuxRG) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 5:52 |
 | 8 | [Jonas \(Ao Vivo\)](https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Jonas \(Ao Vivo\)](https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 49 | [Tú És Adorado](https://open.spotify.com/track/5N2Z60u0UjptyUCqyNshAW) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:25 |
 | 50 | [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 |
 
-Snapshot ID: `aYp1AAAAAACQZKfcxx2VyQ65SSGTkxL9`
+Snapshot ID: `aYvGgAAAAABEMG9QoTULkqUBYrmyD7nh`

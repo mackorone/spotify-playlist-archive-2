@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,054 songs - 5 day 0 hr 12 min
+2,058 songs - 5 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -916,6 +916,7 @@
 | [Joy](https://open.spotify.com/track/5eihoC4uwsZZHV0TtZgGXU) | [Hjörvar](https://open.spotify.com/artist/3mHZS0Enwpb4M0hNmLZOln) | [Joy](https://open.spotify.com/album/4tLbOHFqcRrouZznyr7V0v) | 3:37 | 2024-05-24 |  |
 | [Joyful Days](https://open.spotify.com/track/2ejqRknRaC6zC1WQLuUcTb) | [Mustafa Erhan](https://open.spotify.com/artist/7mve4x9DCP237Y8I1UC4TK) | [All in One](https://open.spotify.com/album/4tAYZAjdvpsskwRxDT3bXn) | 3:04 | 2025-11-29 |  |
 | [João de Barro](https://open.spotify.com/track/7i1yvWBMnmdOXkEawDf8gT) | [Sheila Alvez](https://open.spotify.com/artist/11PfBcGjglPQc4T2s5yPVT) | [João de Barro](https://open.spotify.com/album/6Irsgt8cw93eazef1h673K) | 4:17 | 2025-11-06 |  |
+| [JUA NAKUPENDA](https://open.spotify.com/track/3P3B5WfMGFwtROsOu0mtb6) | [MARK OVIN](https://open.spotify.com/artist/7AuFoZQgb2ekBCPLnY0Mfz) | [JUA NAKUPENDA](https://open.spotify.com/album/5biFSCoMErFP6zEaGwb4q0) | 3:18 | 2026-02-12 |  |
 | [Julia](https://open.spotify.com/track/3eYQhWAWY4Ps37cDB6hHzb) | [Eddy Willemsen](https://open.spotify.com/artist/66l6yInrt4qUcvAICPaR7t) | [The New Girl on 51st Street](https://open.spotify.com/album/4IM48hD53FHpjM92WH1MeV) | 3:47 | 2025-02-17 |  |
 | [Julia Roberts](https://open.spotify.com/track/7w8OBw2hHk0QfOb6sOr9bu) | [Danni Peace](https://open.spotify.com/artist/6gcqSvwVuGJrjAqMbdW0cY) | [Iridescent](https://open.spotify.com/album/768r5Yd2Rmjdk7rFp37fYk) | 2:32 | 2026-01-21 |  |
 | [Juliet Rose](https://open.spotify.com/track/50yepyKxIn7Imzn3iAbUFe) | [Grace Campbell](https://open.spotify.com/artist/1IEXc8HD8yrjW2seDlUdqx) | [Bloom](https://open.spotify.com/album/3G5ZHHZ3HSYwWAHYrIokMx) | 2:35 | 2025-02-21 |  |
@@ -1026,6 +1027,7 @@
 | [Little Boy in the Grass](https://open.spotify.com/track/1UStxRpRHGG2z349NsrLFB) | [Echoes of Maya](https://open.spotify.com/artist/2xGmkpZGjOxOJCA9Ft43a0) | [Little Boy in the Grass](https://open.spotify.com/album/5ZjaRFRiAYaF8YLpP5BW9e) | 3:46 | 2025-12-13 |  |
 | [Little Sunshine](https://open.spotify.com/track/6WL9H9ZfLXEcXM0bzT3juL) | [Wyatt Edmondson](https://open.spotify.com/artist/6w3Bf8RTkEEMvryxin7Mif) | [Little Sunshine](https://open.spotify.com/album/7mbWrPH8dXwyNWZNl7TvJ7) | 3:55 | 2025-08-04 |  |
 | [Live Free](https://open.spotify.com/track/5br3vfcMcnOfsCeuNHttdK) | [Timberline Travelers](https://open.spotify.com/artist/3HMEdzrn0v16NlLm7aNfjY) | [Carry On](https://open.spotify.com/album/7dm2dzvwyqfN4Y3dKzgSHI) | 3:43 | 2026-01-11 |  |
+| [Live With The Day](https://open.spotify.com/track/4ijTymS7wcVeaGsAJRmwPa) | [Vetus](https://open.spotify.com/artist/5ttgYDG4whP6U4pLIp0a0f) | [After The Signal](https://open.spotify.com/album/0yzVaccOr0T3cKBinuZwhs) | 3:34 | 2026-02-12 |  |
 | [Livin' For You](https://open.spotify.com/track/0Wrd9zC3TKhN0Bwc0kFrKp) | [Josh Alvarez](https://open.spotify.com/artist/656VKfLBOXoJtxUtaWEA3Y) | [Livin' For You](https://open.spotify.com/album/7bEjIcnxe41c2W2EHtv5YU) | 2:30 | 2025-08-14 |  |
 | [Living Fearless](https://open.spotify.com/track/3Rx8x2kD4LYChtb6JEWHCK) | [Chris Clark](https://open.spotify.com/artist/2UTOgpYFtcqNi0BKKwouLw) | [Living Fearless](https://open.spotify.com/album/26SPhMCvDLTwhtegtLDSOL) | 4:29 | 2024-05-31 |  |
 | [Living on Borrowed Time](https://open.spotify.com/track/4nkR7y3irU5tWSLCHLkyLJ) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Living on Borrowed Time](https://open.spotify.com/album/5Ec1463KlY75oNwmE5dROH) | 2:35 | 2025-08-16 |  |
@@ -1500,6 +1502,7 @@
 | [Shadow on the Wall](https://open.spotify.com/track/59Fvs3IRjHZBpluLeZTy9D) | [Jaro Lynx](https://open.spotify.com/artist/3XmMGe0vtkreQhTmE3f982) | [Shadow on the Wall](https://open.spotify.com/album/20oUJOXxuD2GzUQmZBLkzs) | 3:04 | 2026-02-11 |  |
 | [Shake the Ghost](https://open.spotify.com/track/1NgSNgyLprpVCKEYkV3aDG) | [The Standalones](https://open.spotify.com/artist/69RIKi290wO27FWiBZbe9l) | [Shake the Ghost](https://open.spotify.com/album/2X1znrFw9JPw5PQiaFRQmD) | 3:20 | 2025-05-30 |  |
 | [Shape Of The Moon](https://open.spotify.com/track/5jGgJ8oIEzI3yBXhGmX9av) | [Bas Phaff](https://open.spotify.com/artist/0MHkEC2S9HVtsseYqsqOLM) | [Shape Of The Moon](https://open.spotify.com/album/6x81aGFkV5UXADaGbA6M5E) | 4:56 | 2024-09-16 |  |
+| [Shattered Pieces \- Remastered 2026](https://open.spotify.com/track/0GsmUiID1NhxGPrlBGGxk5) | [Riot Hype](https://open.spotify.com/artist/6AkTxR6fyVtmtsXJ6IBMeK) | [Tomorrow Is The Future](https://open.spotify.com/album/5tiAe9vkPgvOzNZ7muVBLb) | 2:34 | 2026-02-12 |  |
 | [Shifting Patterns](https://open.spotify.com/track/6rDDsg8bQj07Fe4Gk5NCDm) | [OWOTIMI](https://open.spotify.com/artist/5ni7imvHrISA9owAnLlXBK) | [CHRISTIAN BREATHE](https://open.spotify.com/album/576WYFXeKGQ8ZMSOfrxzzF) | 9:02 | 2025-06-26 |  |
 | [Shifting sands](https://open.spotify.com/track/7ur1asyOxPAY05E8trf0wj) | [Indie Indie](https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa), [Erica van der meer](https://open.spotify.com/artist/0tGUuhbmVkVj3nU8olGAnN) | [Fading Silhouette](https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk) | 3:34 | 2026-01-07 |  |
 | [Shimmer](https://open.spotify.com/track/0qSH6ZyPsYOW03t9aRskuY) | [SHINE](https://open.spotify.com/artist/6A2NPUfmiDxT6Ujluf0BWS) | [The Final Hour / Shimmer](https://open.spotify.com/album/5rdIqDBjND90sHNKix1tSS) | 3:40 | 2025-06-30 |  |
@@ -1959,6 +1962,7 @@
 | [Wilhelm Scream](https://open.spotify.com/track/6utT15xnEIQAvvhtB4UTRv) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Pixels and Poetry](https://open.spotify.com/album/4uAPVQZQXh00bC51MVWLgq) | 3:26 | 2024-08-05 |  |
 | [Will Find My Way](https://open.spotify.com/track/637RFzbU8PA8ngFuI350Ty) | [Valentino Mucci](https://open.spotify.com/artist/6BdYcFxcefETjt1o4yzywo) | [Will Find My Way](https://open.spotify.com/album/1XlIfNV8TtK8jCvHqhaifO) | 3:12 | 2025-04-16 |  |
 | [William Stoner](https://open.spotify.com/track/0zdcakWQcIJ64MCHg203nD) | [Lennart Jönsson](https://open.spotify.com/artist/1eWofu1rYOoFqT2W1fr0iU), [Dan Patrick Cahill](https://open.spotify.com/artist/1LVfu2MwX5UTpuyguu32p1) | [William Stoner](https://open.spotify.com/album/0Ges3hv5RSFnUj6DLqHa6c) | 3:44 | 2025-08-06 |  |
+| [Windborne](https://open.spotify.com/track/0O9NDl3eK2OvQREtczZ6kD) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Dirty Lines Through Indigo Minds](https://open.spotify.com/album/5VGOfHz3KrBSynttgQ48J7) | 1:53 | 2026-02-12 |  |
 | [Winding Days](https://open.spotify.com/track/2rdXvJaAOyuCZyGiD5mNCa) | [t.d.g](https://open.spotify.com/artist/37gNMdgAhvOLH8jmkd4OcP) | [Winding Days](https://open.spotify.com/album/1FpwTQjqPv666X6Dsg978n) | 2:40 | 2025-08-19 |  |
 | [Windowpane](https://open.spotify.com/track/4e6XPUpt9wWCHTdCoLPHvX) | [Lorelai Paige](https://open.spotify.com/artist/3HVWZoxdlflhNpe04Np1tD), [Lounna](https://open.spotify.com/artist/7FB1k530hk44yaXPy0tWtf) | [Character Development](https://open.spotify.com/album/0Ep1nMzPAgphobpn5hclRS) | 4:40 | 2024-08-18 |  |
 | [Windshield](https://open.spotify.com/track/5YrS98ahRZBhMjPtb4QqAI) | [Henry Jack Toll](https://open.spotify.com/artist/6foNhmGLcjNIjDdNh1llMw) | [Windshield](https://open.spotify.com/album/0koBt3D00tNwelRyp57X5p) | 1:32 | 2025-06-13 |  |

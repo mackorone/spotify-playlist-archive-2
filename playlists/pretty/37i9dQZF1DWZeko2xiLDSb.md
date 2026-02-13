@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack long, dark days with warm favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,134 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,133 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 73 | [Atmosphere](https://open.spotify.com/track/2SfoxWr00HN0iYpxyVDMyQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:57 |
 | 74 | [Couch Party](https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Skipping Stones](https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35) | 3:07 |
 | 75 | [Everything That Rises](https://open.spotify.com/track/7fai4Q1FhzPPMLnooY7RM8) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:59 |
-| 76 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 |
-| 77 | [I Hope I Packed A Parachute \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 3:37 |
-| 78 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
-| 79 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 |
+| 76 | [I Hope I Packed A Parachute \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 3:37 |
+| 77 | [Ensemble](https://open.spotify.com/track/5z2bZJzUTK6s1lbxeR6vsU) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Ensemble](https://open.spotify.com/album/3a5KpqE788Z72Yj2UCdWaU) | 3:02 |
+| 78 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 |
+| 79 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
 | 80 | [Luther](https://open.spotify.com/track/6zv0lTlnSWeYdjCDIYPAeL) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Luther](https://open.spotify.com/album/1wfs4vGzWOLyeiLvHv7VUP) | 3:18 |
 | 81 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 | 82 | [The Magician](https://open.spotify.com/track/62x2pgvYu0cMP4gfNpbTP9) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE) | 3:51 |
@@ -98,12 +98,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 88 | [the view from my bathroom window \(feat\. guccihighwaters\)](https://open.spotify.com/track/4tFoX0vJIeVN082xbA6wCN) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [tell me your feelings and i won't tell you mine pt\. 2](https://open.spotify.com/album/0hdZmnYgJaxpmZ6rLXTtO2) | 2:37 |
 | 89 | [Blue Beard](https://open.spotify.com/track/2zjJ36a6rB7MI7jiHnaAJx) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 3:22 |
 | 90 | [Your Ex\-Lover Is Dead](https://open.spotify.com/track/43xk2HGO76L9CTsfmMO8Od) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire](https://open.spotify.com/album/7yMj4j66GYb00KkKHC7hAR) | 4:16 |
-| 91 | [Careful](https://open.spotify.com/track/5LSjtkkZfkaqA5PyreYhtO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Careful](https://open.spotify.com/album/6fnWoPcMyzC3C5ckmqZwHI) | 2:28 |
-| 92 | [Downtown](https://open.spotify.com/track/6FHdo5HsFJxkeS59sngpAq) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/18KIyhRKtEw2azZW2k9rOF) | 4:09 |
+| 91 | [Downtown](https://open.spotify.com/track/6FHdo5HsFJxkeS59sngpAq) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/18KIyhRKtEw2azZW2k9rOF) | 4:09 |
+| 92 | [Especially Me](https://open.spotify.com/track/2Hm71PK61Rh5g6ahFx96kH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Health](https://open.spotify.com/album/5dkO8KovHFmdfXAJHQ8BhB) | 4:15 |
 | 93 | [Grey Gardens](https://open.spotify.com/track/1GtXKifkH5YAWcXhP3fpZR) | [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [Later that day, the day before, or the day before that](https://open.spotify.com/album/6wDFz92HEpBsdQ23F0hmZe) | 3:10 |
-| 94 | [Especially Me](https://open.spotify.com/track/2Hm71PK61Rh5g6ahFx96kH) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Health](https://open.spotify.com/album/5dkO8KovHFmdfXAJHQ8BhB) | 4:15 |
-| 95 | [The Efferusphere](https://open.spotify.com/track/410Dyzp3pMS7ubsGugH5oC) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 2:48 |
-| 96 | [Somewhere in Chicago](https://open.spotify.com/track/30VJ9BJK3XcsjhCdpvqmvw) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 3:05 |
+| 94 | [The Efferusphere](https://open.spotify.com/track/410Dyzp3pMS7ubsGugH5oC) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 2:48 |
+| 95 | [Somewhere in Chicago](https://open.spotify.com/track/30VJ9BJK3XcsjhCdpvqmvw) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 3:05 |
+| 96 | [Careful](https://open.spotify.com/track/5LSjtkkZfkaqA5PyreYhtO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Careful](https://open.spotify.com/album/6fnWoPcMyzC3C5ckmqZwHI) | 2:28 |
 | 97 | [Airport](https://open.spotify.com/track/0jHuokxBzpv5m80H0VlvAD) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Airport & Only The Truth](https://open.spotify.com/album/2nN5fnuQxEFTCrlpJ5cDAa) | 3:32 |
 | 98 | [I'll Go Anywhere](https://open.spotify.com/track/1v10JNv4HwPALOeWH28R8M) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/45XoaObdMwc02uZjsuOfgq) | 2:34 |
 | 99 | [Dance](https://open.spotify.com/track/7yTVPPF2gLkV0jLl61MPdk) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Forever Overhead](https://open.spotify.com/album/3EQsbRsoo2okliGGLrnBZX) | 4:42 |

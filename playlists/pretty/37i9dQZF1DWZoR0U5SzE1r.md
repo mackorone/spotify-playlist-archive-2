@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Continue giving God praise with these classic worship songs! Cover: Martin Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,616 likes - 100 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,785 likes - 100 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,14 +81,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 | 71 | [Protector \- Live](https://open.spotify.com/track/458RO9dmBSI8dNIDypcvIV) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Protector \(Live\)](https://open.spotify.com/album/4lXyyq2joL8sk6H82j9Azu) | 6:48 |
 | 72 | [Because He Lives \(Amen\)](https://open.spotify.com/track/1kQRahBqpKWMAhsoqfEETp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/3fUDl6gGOYO988EtcQmwdi) | 3:20 |
 | 73 | [Way Maker](https://open.spotify.com/track/3f8HOaPL4LogzDsuMr9Nu4) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Way Maker](https://open.spotify.com/album/4KU1pPxzikIozkfEYR58Jx) | 4:02 |
-| 74 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
-| 75 | [Where The Spirit Of The Lord Is](https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Death Of Death](https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C) | 3:37 |
+| 74 | [Where The Spirit Of The Lord Is](https://open.spotify.com/track/7aEJ4hXCfjeWO2zq4tyCT9) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Death Of Death](https://open.spotify.com/album/1KFDY2EV313IlVsAiQJQ1C) | 3:37 |
+| 75 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
 | 76 | [How Deep The Father's Love For Us](https://open.spotify.com/track/3kCNLcSSrtevQDAQfaWcTO) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Deliver Me](https://open.spotify.com/album/47BVtVrvqiwEAOYYzeOcnk) | 3:24 |
 | 77 | [Awesome God](https://open.spotify.com/track/5niLKxgCj4UriedJmPtJld) | [Rich Mullins](https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps) | [Winds Of Heaven, Stuff Of Earth](https://open.spotify.com/album/7gMKbTLjTvHSxRJmdnRUZ5) | 3:03 |
 | 78 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 |
 | 79 | [YOUR NAME IS POWER](https://open.spotify.com/track/161pnfRpiTTMZC1NWmjwh4) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [YOUR NAME IS POWER](https://open.spotify.com/album/18yGXV5AlRfJV8HrsBXD2A) | 3:56 |
-| 80 | [Maker of the Moon](https://open.spotify.com/track/5Hvyj14VOaMUhxjXQ1Fy8X) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Maker of the Moon](https://open.spotify.com/album/48LUEsEwHdXe1NR2ChkInT) | 6:06 |
-| 81 | [You Reign \- Live](https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [You Reign \(Live\)](https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ) | 6:30 |
+| 80 | [You Reign \- Live](https://open.spotify.com/track/2uMA6jp7uJY2AZwyJzNGG1) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [You Reign \(Live\)](https://open.spotify.com/album/1NPThfEpelnJGUdWEx29qQ) | 6:30 |
+| 81 | [Maker of the Moon](https://open.spotify.com/track/5Hvyj14VOaMUhxjXQ1Fy8X) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Maker of the Moon](https://open.spotify.com/album/48LUEsEwHdXe1NR2ChkInT) | 6:06 |
 | 82 | [The Power of Your Name](https://open.spotify.com/track/6Y6s7XxfE0uHrh2V4hM8EF) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Power of Your Name](https://open.spotify.com/album/11ERH4AY90y6lkIn5HwJrb) | 6:35 |
 | 83 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 |
 | 84 | [El\-Shaddai](https://open.spotify.com/track/7rJlIt0X1SZXLyCNOerJWu) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Age To Age](https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53) | 4:08 |

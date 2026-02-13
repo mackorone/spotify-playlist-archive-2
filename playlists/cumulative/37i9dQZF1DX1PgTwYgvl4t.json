@@ -2689,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "I Live",
+        "url": "https://open.spotify.com/album/0cZteUtrDx3uIeTOVvVI8E"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560126,
+      "name": "I Live - Live",
+      "url": "https://open.spotify.com/track/122j35m29xC1Xbd8vTKvJP"
+    },
+    {
+      "album": {
         "name": "I Love You Lord",
         "url": "https://open.spotify.com/album/58qYSDYv7H7xsoT8rAi5F7"
       },
@@ -2784,7 +2802,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 846760,
       "name": "I SEE",
       "url": "https://open.spotify.com/track/39yICU1ZRe4y69Cm2wZJgU"
@@ -3946,7 +3964,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 212064,
       "name": "My Pillar",
       "url": "https://open.spotify.com/track/5K18ZkoykiQ3Uag98eolys"
@@ -4508,6 +4526,24 @@
       "duration_ms": 382058,
       "name": "Only Yeshua | Every Tongue | Take Over",
       "url": "https://open.spotify.com/track/2ypOAFsA9G8yO38nH4ep81"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/52CZ8Iey34gLpaCbLiiMzW"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231966,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/5g5LDdP02Rn9sD3xWeGnNk"
     },
     {
       "album": {
@@ -5408,7 +5444,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 582857,
       "name": "Water Into Wine",
       "url": "https://open.spotify.com/track/6IpGnGGovqChZSLlIKXvfk"
@@ -6060,6 +6096,24 @@
       "duration_ms": 396695,
       "name": "Your Love (Live)",
       "url": "https://open.spotify.com/track/6BSbPCb1xcQYrXUfU0B1TZ"
+    },
+    {
+      "album": {
+        "name": "Your Name",
+        "url": "https://open.spotify.com/album/5vZ1glLdICHePKn8MiX2HP"
+      },
+      "artists": [
+        {
+          "name": "Deborah Billyben",
+          "url": "https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165999,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/50HXgjl7Pso1GCsSYav8Mj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist qui sent le sapin pis la joie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,925 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,921 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 50 | [Mam pis Pap](https://open.spotify.com/track/40PopCi4jnQmuTWpDPKyyw) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Mam pis Pap](https://open.spotify.com/album/0pEfXJfb8TlMbGTaW12le9) | 3:17 |
 | 51 | [Le ciel était blanc](https://open.spotify.com/track/7gbD4p5u9NXeJWX919ZZOZ) | [Mirabelle](https://open.spotify.com/artist/7ccDEQF3klS28iA5TI3b6m), [Laurence Hélie](https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE) | [Le ciel était blanc / Ribbons](https://open.spotify.com/album/4eAw0GsaNZm3bGfgUUvzi1) | 4:26 |
 | 52 | [Six heures d'avion nous séparent](https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Six heures d'avion nous séparent](https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u) | 2:48 |
-| 53 | [Joyeux Noël](https://open.spotify.com/track/2tfT9JHn0MmI1hYwwk4hiv) | [Camille Cormier\-Morasse](https://open.spotify.com/artist/2wvsvqHPEfAHHxzPkyLcHB) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:26 |
+| 53 | [2 janvier](https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm) | [Thomé Young](https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk) | [2 janvier](https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk) | 2:47 |
 | 54 | [Noël blanc](https://open.spotify.com/track/7ykP6gzf7CJ8Lb4AEJWeqR) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK) | 3:50 |
 | 55 | [Le premier Noël de Jules](https://open.spotify.com/track/39oytpbeOyFiepAlTLONEP) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:15 |
-| 56 | [2 janvier](https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm) | [Thomé Young](https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk) | [2 janvier](https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk) | 2:47 |
+| 56 | [Joyeux Noël](https://open.spotify.com/track/2tfT9JHn0MmI1hYwwk4hiv) | [Camille Cormier\-Morasse](https://open.spotify.com/artist/2wvsvqHPEfAHHxzPkyLcHB) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:26 |
 | 57 | [C’est l’hiver](https://open.spotify.com/track/42GHVgnLWWNIh7eeZJsn4G) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:11 |
 | 58 | [Noël](https://open.spotify.com/track/5kME8UidheMP9OAQsqRvQG) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Les tubes de Noël, vol.4](https://open.spotify.com/album/3ipxucNMIaascnIUkANLe8) | 4:18 |
 | 59 | [Trois anges](https://open.spotify.com/track/0CEf5RUrI8lymsEXxQlMZG) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Trois anges](https://open.spotify.com/album/5v4av8x3cutGER7uiU69ZK) | 3:40 |

@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-815 songs - 1 day 14 hr 37 min
+816 songs - 1 day 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Amina](https://open.spotify.com/track/7oAWhox1NR7AvI12w8Wzlg) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Amina & The One](https://open.spotify.com/album/6bdIYShApOLxOuaIiJXShU) | 2:45 | 2023-04-20 | 2023-05-12 |
 | [Anabella](https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Anabella](https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV) | 2:04 | 2023-08-03 | 2024-06-28 |
 | [Angelina](https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Angelina](https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X) | 3:03 | 2025-04-11 | 2025-11-17 |
+| [ANGELS](https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og) | [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ANGELS](https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM) | 3:04 | 2026-02-13 |  |
 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 | 2022-06-09 | 2022-11-13 |
 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social \(feat\. Jeremih & Young Jonn\)](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 | 2023-08-10 | 2023-09-28 |
 | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 | 2025-05-16 |  |
@@ -760,7 +761,7 @@
 | [Touch Me](https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Touch Me](https://open.spotify.com/album/1yA8Hpl2gEc0WgLxuulnoN) | 2:25 | 2024-08-25 | 2024-09-20 |
 | [TOY GIRL \(with Juno & Valentino Rose\)](https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:52 | 2025-04-11 |  |
 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-11-28 | 2024-02-09 |
-| [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-03-31 |  |
+| [Trenches Luv](https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Trenches Luv](https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB) | 3:25 | 2025-03-31 | 2026-02-13 |
 | [Trending](https://open.spotify.com/track/4Xik88j0lef96PqxYFR66a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Muyeez \(Deluxe\)](https://open.spotify.com/album/3z5ScTzthtKvfOzxc2XBE0) | 2:34 | 2024-05-31 | 2024-12-07 |
 | [Try](https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS) | 2:13 | 2022-06-09 | 2023-02-10 |
 | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2) | 3:23 | 2024-05-17 | 2025-02-25 |

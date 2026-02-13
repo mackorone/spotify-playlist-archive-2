@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 
 > This is Doja Cat\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,091,236 likes - 47 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,091,271 likes - 47 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 46 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 |
 | 47 | [Demons](https://open.spotify.com/track/6vb4kCEIM7zrwuHlxFbfeB) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:15 |
 
-Snapshot ID: `aYp1AAAAAAA9cJSJ41ziGPRZa+f42ZUg`
+Snapshot ID: `aYvGgAAAAABt7Uk/O/h+We8xJVdrUIZz`

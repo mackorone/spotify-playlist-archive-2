@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Apergis",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Ioulia Karapataki",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Anypotakti",
+        "url": "https://open.spotify.com/album/40cTowUxShQoHX4IkCkUny"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Karapataki",
+          "url": "https://open.spotify.com/artist/6I62lkqyy7npSxNWgjQtwG"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125681,
+      "name": "Anypotakti",
+      "url": "https://open.spotify.com/track/2s7LbHAk3cFimpAUY6xRr8"
+    },
+    {
+      "album": {
         "name": "Apo Do Ki Oi Alles Pane",
         "url": "https://open.spotify.com/album/4Dzk7lQQv6k4pZqYYPVAFY"
       },
@@ -416,7 +434,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 250309,
       "name": "Apo Pou Ki Os Pou",
       "url": "https://open.spotify.com/track/1n515DffsN53KfmP0SFDIB"
@@ -560,7 +578,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 134201,
       "name": "Ayto Einai Sosto",
       "url": "https://open.spotify.com/track/4lO12DpKlLDEBVXN72V4JW"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 78165,
       "name": "Exeresi Esi",
       "url": "https://open.spotify.com/track/79x5VnzDkmzTYVNrvTeUsN"
@@ -1922,7 +1940,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 180571,
       "name": "Kataramena Feggaria - Live",
       "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"
@@ -2262,6 +2280,24 @@
       "duration_ms": 181894,
       "name": "Mavra Matia",
       "url": "https://open.spotify.com/track/3KpyeBandv07ri3WUu111o"
+    },
+    {
+      "album": {
+        "name": "Mazi Ston Paradiso",
+        "url": "https://open.spotify.com/album/2btQewZ4xhnBre6rq1FZHF"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232714,
+      "name": "Mazi Ston Paradiso",
+      "url": "https://open.spotify.com/track/4xNiQuW1nG0FHUfLL2tWZY"
     },
     {
       "album": {
@@ -4229,6 +4265,24 @@
     },
     {
       "album": {
+        "name": "Ti Paraggelneis",
+        "url": "https://open.spotify.com/album/5sh21uNCh6ylLzq8R48HCs"
+      },
+      "artists": [
+        {
+          "name": "Giannis Fakinos",
+          "url": "https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199565,
+      "name": "Ti Paraggelneis",
+      "url": "https://open.spotify.com/track/4kJf2mFsfM8ZVZKmnCvBAL"
+    },
+    {
+      "album": {
         "name": "Ti Perimeneis Apo 'Mena",
         "url": "https://open.spotify.com/album/4QBIHh9umK51T2EoBVEFSx"
       },
@@ -4494,6 +4548,24 @@
       "duration_ms": 174550,
       "name": "Trexe",
       "url": "https://open.spotify.com/track/1BOqkrm3T91AWJzAPiht2K"
+    },
+    {
+      "album": {
+        "name": "Vrexei",
+        "url": "https://open.spotify.com/album/5ftIw5ZnarnnZwtdYSSn2l"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173544,
+      "name": "Vrexei",
+      "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
     },
     {
       "album": {

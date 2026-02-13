@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,982 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,098 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 55 | [Montañas Oscuras](https://open.spotify.com/track/4uTtTT2d2zAzshVuAN4F9R) | [Jörgen](https://open.spotify.com/artist/5VyeEMMtjmwHLmbXj0T3uM) | [Montañas Oscuras](https://open.spotify.com/album/7dtJPsIFhyts6fIIEzLDvB) | 3:02 |
 | 56 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 |
 | 57 | [Cumbiambera](https://open.spotify.com/track/5vRg7h3qUSt9H8ziOuXN10) | [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum), [Los Gaiteros de Ovejas](https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd) | [Cumbiambera](https://open.spotify.com/album/15XBN6lvQ5oI6uYwOBxH26) | 3:26 |
-| 58 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K) | 2:37 |
-| 59 | [Pasilda](https://open.spotify.com/track/6VQDaTTTHeLUhKaHcDe2Bz) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI) | [Pasilda](https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc) | 3:21 |
+| 58 | [Pasilda](https://open.spotify.com/track/6VQDaTTTHeLUhKaHcDe2Bz) | [Afro Medusa](https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI) | [Pasilda](https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc) | 3:21 |
+| 59 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/7yif9yIhSCxhcPExFOktCp) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/album/6uanfipX4dnLaQ0PIvaj5K) | 2:37 |
 | 60 | [La Boca \(JP Garcia Remix\)](https://open.spotify.com/track/4DeD44PP33SfpIKvr8M9L0) | [DJ PJAY](https://open.spotify.com/artist/15vHTe6NYt3Mjy3b90SQLc), [JP Garcia](https://open.spotify.com/artist/7d2gR406GZNOBBawzSRjHL), [Fermo](https://open.spotify.com/artist/61oZjYAtQ3Bsmjaen7kFnn) | [La Boca \(JP Garcia Remix\)](https://open.spotify.com/album/31JP6lshNMGXh6hBKNQpv6) | 3:26 |
 | 61 | [Magalenha](https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Magalenha](https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e) | 2:54 |
 | 62 | [Frikitona](https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g) | 2:54 |

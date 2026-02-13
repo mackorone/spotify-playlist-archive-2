@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  Eliangel en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,934 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,938 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 51 | [Y Qué Hueva Me Da](https://open.spotify.com/track/1stmHuuFFDhqJmOPrbXsVC) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [ZERO](https://open.spotify.com/album/5F4nqGoeBHiduPkExqadBd) | 3:06 |
 | 52 | [Hey](https://open.spotify.com/track/5EbhWdGpMSUxF9al1r63Bp) | [Yus Acosta](https://open.spotify.com/artist/0c3B6I5ue2AYirn5n5Ywa2) | [Hey](https://open.spotify.com/album/5UPwvzS5dNec8FjkOpehPC) | 4:12 |
 | 53 | [Jaquemate](https://open.spotify.com/track/3SJY09C3rdl9RNS2TxIHpB) | [RUBAA](https://open.spotify.com/artist/0xsTJjdmYsynV98w3chUj6) | [Jaquemate](https://open.spotify.com/album/6U7AikeebdY7HSm7G7M0Tg) | 2:30 |
-| 54 | [No me veas así](https://open.spotify.com/track/4cBQQHyBxnKqKnUWnZqfFm) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [No me veas así](https://open.spotify.com/album/3AYLv5UWmFW4rAb1ld407Z) | 2:48 |
+| 54 | [no me veas así](https://open.spotify.com/track/4cBQQHyBxnKqKnUWnZqfFm) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [no me veas así](https://open.spotify.com/album/3AYLv5UWmFW4rAb1ld407Z) | 2:48 |
 | 55 | [q vas a apostar???](https://open.spotify.com/track/5Vajmakj5oaeEpWE03nacP) | [Reynold](https://open.spotify.com/artist/2JC1P32DYeRL76cJbgMZAS) | [q vas a apostar???](https://open.spotify.com/album/7BijzgIDOenp3XwMpsVXfK) | 3:05 |
 | 56 | [rorro pirrorro](https://open.spotify.com/track/4t0sdZoKGwFVfES0uZp53A) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Dack!](https://open.spotify.com/artist/5Ih0Czzc2QLN6ug98ROcEG) | [\#YOLO](https://open.spotify.com/album/2MroBCxP2Bt4mITDl6RuZx) | 1:14 |
 | 57 | [CULPABLE](https://open.spotify.com/track/20HZf9u8BXzpy8Y3vQGB4d) | [kor!](https://open.spotify.com/artist/1I20nipdKCbAY4mrnI78xK) | [CULPABLE](https://open.spotify.com/album/1TJnaMGMOCuIOiiiY6ZbzW) | 2:46 |

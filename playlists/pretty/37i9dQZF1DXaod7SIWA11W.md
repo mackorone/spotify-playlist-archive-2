@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Pharrell Williams & Voices of Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,436 likes - 69 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,454 likes - 69 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

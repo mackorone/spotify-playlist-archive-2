@@ -4,7 +4,7 @@
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-91 songs - 9 hr 30 min
+92 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,9 +75,10 @@
 | [Oh, Quão Lindo esse nome é / Só Tu és Santo / Pra Te adorar \- Live 2020](https://open.spotify.com/track/7ERFUQjK0xf7BvZlANUY5o) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Melhores Louvores Gabriela Rocha](https://open.spotify.com/album/5CG0LuTpuGVxXdCPQ6zxaJ) | 12:28 | 2025-03-03 | 2025-04-24 |
 | [Os Sonhos de Deus](https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Os Sonhos de Deus](https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b) | 4:27 | 2023-07-09 |  |
 | [Outro Na Fornalha](https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:26 | 2023-07-09 | 2025-11-06 |
+| [Palavras](https://open.spotify.com/track/690ypxquSmzDvvVB9eqhPc) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Palavras](https://open.spotify.com/album/6ItUOVRPgGEJYGNinSw625) | 5:17 | 2026-02-13 |  |
 | [Poderoso Deus \(Medley\)](https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Poderoso Deus \(Medley\)](https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl) | 7:35 | 2024-12-01 |  |
 | [Pra Onde Iremos? \(feat\. Felippe Valadão\) \- Ao Vivo](https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Felippe Valadão](https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:31 | 2023-07-09 |  |
-| [Santo Espírito Vem](https://open.spotify.com/track/3MtZ1l5loncthielYUMhAB) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 6:56 | 2023-07-09 |  |
+| [Santo Espírito Vem](https://open.spotify.com/track/3MtZ1l5loncthielYUMhAB) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 6:56 | 2023-07-09 | 2026-02-13 |
 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 | 2023-07-09 |  |
 | [Seu Nome É Amor](https://open.spotify.com/track/0VEvFNsfXVrDNRKmckGdRm) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Seu Nome É Amor](https://open.spotify.com/album/6TGF5PQBR0o6BdEetZWaFK) | 5:53 | 2023-07-09 | 2023-12-26 |
 | [Sião / Derrama \- Ao Vivo](https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Sião / Derrama \(Ao Vivo\)](https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9) | 8:28 | 2024-11-15 |  |

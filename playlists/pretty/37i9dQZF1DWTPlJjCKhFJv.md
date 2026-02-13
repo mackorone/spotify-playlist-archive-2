@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPlJjCKhFJv.md) - [plain]
 
 > Don't wait for spring to spruce things up
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,919 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,921 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPlJjCKhFJv.md) - [plain]
 | 48 | [You Make My Dreams \(Come True\)](https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 3:10 |
 | 49 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 50 | [Honey](https://open.spotify.com/track/0GMZYC6lcrpnwjDiEtDO8i) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:26 |
-| 51 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
-| 52 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 |
+| 51 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 |
+| 52 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 53 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
 | 54 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:17 |
 | 55 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTPlJjCKhFJv.md) - [plain]
 | 58 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
 | 59 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 60 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 |
-| 61 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 |
-| 62 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
+| 61 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
+| 62 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 |
 | 63 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 | 64 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 |
 | 65 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 |

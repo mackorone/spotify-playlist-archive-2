@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Dua Saleh, Bon Iver ",
+  "description": "Beyond titles, beyond genre. Cover: Frost Children",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 181000,
       "name": "Battered Chips",
       "url": "https://open.spotify.com/track/2bXownEKgIJMacJFDSfoXN"
@@ -4098,7 +4098,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 200484,
       "name": "False Prophet",
       "url": "https://open.spotify.com/track/5I0lXdyy9ozLUZbyWhU6t2"
@@ -6207,6 +6207,24 @@
     },
     {
       "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
+    },
+    {
+      "album": {
         "name": "I Imagine (with Hope Tala)",
         "url": "https://open.spotify.com/album/0piQOFAI3t9FjSP3re0Bp9"
       },
@@ -6914,7 +6932,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 151579,
       "name": "Jessica Mable",
       "url": "https://open.spotify.com/track/30DfcS756EjuOGTCYx1l71"
@@ -7597,6 +7615,28 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260879,
+      "name": "Lights Burn Dimmer",
+      "url": "https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ"
+    },
+    {
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -8108,6 +8148,24 @@
       "duration_ms": 234440,
       "name": "lowlight:slowlight",
       "url": "https://open.spotify.com/track/4vY2bBuBOQlFKwss06ZxwF"
+    },
+    {
+      "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
     },
     {
       "album": {
@@ -8668,6 +8726,28 @@
       "duration_ms": 128770,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/1HEYW4REh7DLbv5aE5vqkI"
+    },
+    {
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg"
+      },
+      "artists": [
+        {
+          "name": "Ms Ray",
+          "url": "https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224826,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60"
     },
     {
       "album": {
@@ -10580,7 +10660,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 208071,
       "name": "praxis",
       "url": "https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm"
@@ -11618,7 +11698,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 170877,
       "name": "See Through",
       "url": "https://open.spotify.com/track/4NjWqzNLY1E0OylkvAiLxH"
@@ -11926,6 +12006,28 @@
       "duration_ms": 242194,
       "name": "SilverCane",
       "url": "https://open.spotify.com/track/7KyIWRsQLKsSSqxjHJ33FO"
+    },
+    {
+      "album": {
+        "name": "Sisters (feat. Ninajirachi)",
+        "url": "https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Sisters (feat. Ninajirachi)",
+      "url": "https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ"
     },
     {
       "album": {
@@ -13811,6 +13913,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/3euczvYqcbmi9UUnQUPHMQ"
+    },
+    {
+      "album": {
         "name": "Traffic Lights (feat. Thom Yorke)",
         "url": "https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF"
       },
@@ -14770,7 +14890,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 180268,
       "name": "What Men Do",
       "url": "https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO"

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 440168,
+  "num_followers": 440300,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "Tears on My Pillow",
-      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 136626,
       "name": "Who's Sorry Now",
       "url": "https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "Tears on My Pillow",
+      "url": "https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Born to Late",
-        "url": "https://open.spotify.com/album/5TKfp7L2xIT6hRMaBlHM5y"
-      },
-      "artists": [
-        {
-          "name": "The Poni-Tails",
-          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Born Too Late",
-      "url": "https://open.spotify.com/track/3JebzygT2LJdcS24gfZ6ti"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 164413,
       "name": "You're Gonna Miss Me",
       "url": "https://open.spotify.com/track/1yLsZ8fuQJqk2cm1VDWTGb"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Born to Late",
+        "url": "https://open.spotify.com/album/5TKfp7L2xIT6hRMaBlHM5y"
+      },
+      "artists": [
+        {
+          "name": "The Poni-Tails",
+          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Born Too Late",
+      "url": "https://open.spotify.com/track/3JebzygT2LJdcS24gfZ6ti"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -955,18 +955,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "The Magic Of Malcolm Vaughan",
-        "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
+        "name": "Calamity Jane / The Pajama Game",
+        "url": "https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG"
       },
       "artists": [
         {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Paul Weston And His Orchestra",
+          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
         }
       ],
-      "duration_ms": 172133,
-      "name": "St Therese of the Roses",
-      "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
+      "duration_ms": 178933,
+      "name": "The Black Hills of Dakota (with Paul Weston & His Orchestra) - Version 1",
+      "url": "https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -987,22 +991,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Calamity Jane / The Pajama Game",
-        "url": "https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG"
+        "name": "The Magic Of Malcolm Vaughan",
+        "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Paul Weston And His Orchestra",
-          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
         }
       ],
-      "duration_ms": 178933,
-      "name": "The Black Hills of Dakota (with Paul Weston & His Orchestra) - Version 1",
-      "url": "https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR"
+      "duration_ms": 172133,
+      "name": "St Therese of the Roses",
+      "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "My Special\u00a0Angel",
-      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "Original Hits - 50s",
         "url": "https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 157360,
       "name": "The Great Pretender",
       "url": "https://open.spotify.com/track/2FkCjtQ1lYsf71s2FAS8hE"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "My Special\u00a0Angel",
+      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "True 50's love",
-        "url": "https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y"
-      },
-      "artists": [
-        {
-          "name": "Tommy Edwards",
-          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
-        }
-      ],
-      "duration_ms": 158053,
-      "name": "It's All In The Game",
-      "url": "https://open.spotify.com/track/65DHarvIY5nZ57ZcgTxx75"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
         "name": "The Platters Golden Hits",
         "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 154200,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/5K8vyssaOP8gltF0fGs8X1"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
+        "name": "True 50's love",
+        "url": "https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y"
+      },
+      "artists": [
+        {
+          "name": "Tommy Edwards",
+          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
+        }
+      ],
+      "duration_ms": 158053,
+      "name": "It's All In The Game",
+      "url": "https://open.spotify.com/track/65DHarvIY5nZ57ZcgTxx75"
     },
     {
       "added_at": "2022-05-30 12:59:00",

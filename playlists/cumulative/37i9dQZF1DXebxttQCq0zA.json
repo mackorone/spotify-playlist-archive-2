@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 187654,
       "name": "A Mirage of Dreams",
       "url": "https://open.spotify.com/track/292efoDUXa95umxcSEJLks"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 181395,
       "name": "Affixton",
       "url": "https://open.spotify.com/track/68rRajL5huefSNvCY11m4Q"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 193364,
       "name": "Alice the Flower",
       "url": "https://open.spotify.com/track/30FZIAhj6ujNdp8rUyDrpK"
@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Athruithe",
+        "url": "https://open.spotify.com/album/4Zrfef79OGRony76yPCRrd"
+      },
+      "artists": [
+        {
+          "name": "Coile\u00e1inn",
+          "url": "https://open.spotify.com/artist/5flYFtyT8qgB5GdW7SQsic"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152262,
+      "name": "Athruithe",
+      "url": "https://open.spotify.com/track/6DscQ3hr0XWa1rWsziHDnZ"
+    },
+    {
+      "album": {
         "name": "Lost Tales",
         "url": "https://open.spotify.com/album/1rSfn4Fgame8VjA4vb7HjX"
       },
@@ -982,6 +1000,24 @@
       "duration_ms": 180250,
       "name": "Aurore",
       "url": "https://open.spotify.com/track/0Qdj3Fw4Jn71PtIksAuEGD"
+    },
+    {
+      "album": {
+        "name": "Awakened Flow",
+        "url": "https://open.spotify.com/album/6AdHna2KofbPoXR9rahREj"
+      },
+      "artists": [
+        {
+          "name": "SKEN",
+          "url": "https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145641,
+      "name": "Awakened Flow",
+      "url": "https://open.spotify.com/track/2YeY5t5Z3QHkAUlXA2eKpP"
     },
     {
       "album": {
@@ -1709,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Carried by Stillness",
+        "url": "https://open.spotify.com/album/3wWpqpsxVC2dX8GlZzMHcm"
+      },
+      "artists": [
+        {
+          "name": "Manolakas",
+          "url": "https://open.spotify.com/artist/1I2mrOO7itWnvfrda514vi"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124696,
+      "name": "Carried by Stillness",
+      "url": "https://open.spotify.com/track/4xrFTpLjVmmAEhaOFr8lQ3"
+    },
+    {
+      "album": {
         "name": "Cauldron",
         "url": "https://open.spotify.com/album/7llAaxZQSd2n67s5f6PmhE"
       },
@@ -1738,7 +1792,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 206000,
       "name": "Chamomile",
       "url": "https://open.spotify.com/track/4Nh9Vldi1F7JUdeYAfE7jl"
@@ -2141,6 +2195,42 @@
     },
     {
       "album": {
+        "name": "Cosmic Orbit",
+        "url": "https://open.spotify.com/album/3ywi7Rao2Q9La7kSe2EIiw"
+      },
+      "artists": [
+        {
+          "name": "Veyrloom",
+          "url": "https://open.spotify.com/artist/1iusMgq6cU6KnCAdcMoKmf"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150607,
+      "name": "Cosmic Orbit",
+      "url": "https://open.spotify.com/track/6YcRfzjx8PcDC3HkOUbMLY"
+    },
+    {
+      "album": {
+        "name": "Cosmic Rise",
+        "url": "https://open.spotify.com/album/4GtawHIXhx96DoXx3H4AaV"
+      },
+      "artists": [
+        {
+          "name": "Marble Sky",
+          "url": "https://open.spotify.com/artist/2awMBCWxb7gBGkxyC4QTRI"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173773,
+      "name": "Cosmic Rise",
+      "url": "https://open.spotify.com/track/4tS7py187iLytc7RKZOjts"
+    },
+    {
+      "album": {
         "name": "Cosmogyral",
         "url": "https://open.spotify.com/album/0ZgO9uGL5SY607snj6pG5f"
       },
@@ -2530,7 +2620,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 168000,
       "name": "Divine Encounter",
       "url": "https://open.spotify.com/track/3Ih1DWsqmZKxEifZmq3Onv"
@@ -3034,7 +3124,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 191111,
       "name": "Eloudius",
       "url": "https://open.spotify.com/track/6Tl3O3dPqIdJWljoejNX0k"
@@ -3844,7 +3934,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 211200,
       "name": "Fragile Voices",
       "url": "https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO"
@@ -4841,6 +4931,24 @@
     },
     {
       "album": {
+        "name": "Idyllic Abode",
+        "url": "https://open.spotify.com/album/4lXQjwlJ9zWPeSzLAUSCpd"
+      },
+      "artists": [
+        {
+          "name": "Benny Dawn",
+          "url": "https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175609,
+      "name": "Idyllic Abode",
+      "url": "https://open.spotify.com/track/0tBRe7eiliuJyjoXjfbIhw"
+    },
+    {
+      "album": {
         "name": "String Of Light",
         "url": "https://open.spotify.com/album/5o9d8NHM20XsL6JMtLdrhR"
       },
@@ -5284,7 +5392,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 207565,
       "name": "Laomedeia",
       "url": "https://open.spotify.com/track/7Cp2aso3JhhnKnPRvU9LdK"
@@ -6696,6 +6804,24 @@
     {
       "album": {
         "name": "Nightfall",
+        "url": "https://open.spotify.com/album/1dnaVGYsHpisPycNnTUjl4"
+      },
+      "artists": [
+        {
+          "name": "Lunao Sol",
+          "url": "https://open.spotify.com/artist/4kuabxT28eAvWVknQUk6wx"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145352,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/3vhxFhZJUGTjrKTpoZ7qDk"
+    },
+    {
+      "album": {
+        "name": "Nightfall",
         "url": "https://open.spotify.com/album/6GniRMiPkWWL8YdSfHCrXY"
       },
       "artists": [
@@ -6778,7 +6904,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 158400,
       "name": "Nocturnal Glow",
       "url": "https://open.spotify.com/track/5HepyasUWkTg0n9RrIrGEy"
@@ -6796,7 +6922,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 180000,
       "name": "Nocturnal Mind",
       "url": "https://open.spotify.com/track/1yXmlT3kSTdDfR202aTWR6"
@@ -6940,7 +7066,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 189733,
       "name": "Oceanic Horizon",
       "url": "https://open.spotify.com/track/2vifLUOOMcTsgUMwIJ4bXf"
@@ -7984,7 +8110,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 174309,
       "name": "Quietness",
       "url": "https://open.spotify.com/track/27ZLSp1tyjQQpm4doIhFCY"
@@ -9082,7 +9208,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 177162,
       "name": "Silent Sky",
       "url": "https://open.spotify.com/track/6i7vOzj0olE2fkQ1RyLjM9"
@@ -9737,6 +9863,24 @@
     },
     {
       "album": {
+        "name": "Statera",
+        "url": "https://open.spotify.com/album/1tybPupQVskU1F9p0SJafA"
+      },
+      "artists": [
+        {
+          "name": "Nubilum Vespera",
+          "url": "https://open.spotify.com/artist/4hsviYm29ZjWspJ2deCk70"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Statera",
+      "url": "https://open.spotify.com/track/6lCHzj922tm5mK3Aff335M"
+    },
+    {
+      "album": {
         "name": "Stella",
         "url": "https://open.spotify.com/album/52JcE8PUN2E7x1rtjEHHmL"
       },
@@ -9899,6 +10043,24 @@
     },
     {
       "album": {
+        "name": "Subtle Comfort",
+        "url": "https://open.spotify.com/album/5mC3TqFEqeqK6nTfCNj0i2"
+      },
+      "artists": [
+        {
+          "name": "Atlantic Horizon",
+          "url": "https://open.spotify.com/artist/3SLHGw6mPRgN333BnW7VO0"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "Subtle Comfort",
+      "url": "https://open.spotify.com/track/1A3c3gK3iEJwT6Plh49tsY"
+    },
+    {
+      "album": {
         "name": "Sunflower Mist",
         "url": "https://open.spotify.com/album/6yTHl73NFfga2FIGcIHZ8X"
       },
@@ -9928,7 +10090,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 219574,
       "name": "Sunhalo",
       "url": "https://open.spotify.com/track/4JQihjauuYyS4CQ4l62odF"
@@ -10054,7 +10216,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 181400,
       "name": "S\u00f6mn",
       "url": "https://open.spotify.com/track/03QlFnQhyY20WHY08UAh6o"
@@ -10126,7 +10288,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 164916,
       "name": "Temporarily",
       "url": "https://open.spotify.com/track/2XT1NKLXF0y7WOnp3gCaN5"
@@ -10324,7 +10486,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 179541,
       "name": "Theophany",
       "url": "https://open.spotify.com/track/0ZX0LBKqhwc0G4E5w62Xfz"
@@ -10943,6 +11105,24 @@
     },
     {
       "album": {
+        "name": "Universale",
+        "url": "https://open.spotify.com/album/4VfhMrKDkKk6halQaZU1g7"
+      },
+      "artists": [
+        {
+          "name": "Vayden Shore",
+          "url": "https://open.spotify.com/artist/1RNhun1BnbVsgioEVaVc2T"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150967,
+      "name": "Universale",
+      "url": "https://open.spotify.com/track/2xVnxkmlmgw3hD5tBaMIJv"
+    },
+    {
+      "album": {
         "name": "Unspoken",
         "url": "https://open.spotify.com/album/79D2fTyz9Tcs7MRVNuy3AT"
       },
@@ -11062,7 +11242,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 218994,
       "name": "Velvet Visions",
       "url": "https://open.spotify.com/track/4q38Ccg8YfyoaebTjI7f0j"

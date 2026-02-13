@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,328 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,355 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 53 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
 | 54 | [Bones](https://open.spotify.com/track/1p3YBrdHnDTEZqm6TCfuP3) | [Josh Record](https://open.spotify.com/artist/6SX3hY3ksMNOUCvF7OI1nl) | [Pillars](https://open.spotify.com/album/4HUnfqen6kJ6tDaQPwmeNY) | 4:49 |
 | 55 | [Hunger of the Pine](https://open.spotify.com/track/57gf8TTzlk1BE5R4C7gfz6) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Hunger of the Pine](https://open.spotify.com/album/3DtuLo5Z9bQRaPv2qIBxXW) | 4:58 |
-| 56 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 |
-| 57 | [Fake Love](https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Fake Love](https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT) | 2:28 |
+| 56 | [Fake Love](https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Fake Love](https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT) | 2:28 |
+| 57 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 |
 | 58 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 |
 | 59 | [Hymnal](https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:26 |
 | 60 | [Until the Levee](https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Until the Levee](https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE) | 2:40 |
-| 61 | [Coming of Age \(demo\)](https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming of Age \(demo\)](https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz) | 4:11 |
-| 62 | [Hands](https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:22 |
+| 61 | [Hands](https://open.spotify.com/track/7cVNpJG6phyW7jF8GOswiY) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved In Shadow All Together](https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1) | 3:22 |
+| 62 | [Coming of Age \(demo\)](https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming of Age \(demo\)](https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz) | 4:11 |
 | 63 | [i was cruel \- demo take](https://open.spotify.com/track/5ZHjO3pSex3R92vw4KNlfP) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [i was cruel \- demo take](https://open.spotify.com/album/0WETCSVADsJc1Dh8XhD60k) | 3:04 |
 | 64 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 |
 | 65 | [Hush \- Theme From Turn](https://open.spotify.com/track/6gt6hUfAeCcdDJcmlsD06p) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Hush \(Theme From Turn\)](https://open.spotify.com/album/7Ktx3fXFQf0zvz3Hbd1DNl) | 3:17 |

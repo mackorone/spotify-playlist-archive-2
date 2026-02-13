@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-776 songs - 1 day 13 hr 2 min
+777 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Never Ending](https://open.spotify.com/track/3QWwHA9yV64KMcUUggOofL) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ) | [Never Ending](https://open.spotify.com/album/3UPmZcg6np0DqEo2SonSNu) | 2:38 | 2023-07-24 | 2024-04-12 |
 | [New Day](https://open.spotify.com/track/4GVP7re4mfKXWzfWxx5n9O) | [Dulla](https://open.spotify.com/artist/2zGP5dYW7vsTnCtjnhO8eo), [Shah Rehan](https://open.spotify.com/artist/2TFn1e5UTGZzzkt0TkGWPl), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq) | [New Day](https://open.spotify.com/album/3V1QeeArAAZr6GUSkx8Hcz) | 2:49 | 2025-04-17 |  |
 | [News](https://open.spotify.com/track/1CsargjBmDcE9gClrg6R5k) | [Malle Ala Guri](https://open.spotify.com/artist/3nYIKhNszei3o5IZAfVsWF), [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [News](https://open.spotify.com/album/0tbwwEB0xTSny4lUdq9rZQ) | 3:34 | 2024-02-20 | 2024-04-23 |
+| [Next Level](https://open.spotify.com/track/4xZYsldNZAd99Y1BIWhTqC) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Next Level](https://open.spotify.com/album/2bomEH2PhPB52axrVtb4YK) | 3:21 | 2026-02-12 |  |
 | [NH7](https://open.spotify.com/track/2loopFYh52aXLdtjN7477C) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [NH7](https://open.spotify.com/album/2a4nyc9fkABtmWBwKSIyoX) | 2:53 | 2023-10-23 | 2023-11-08 |
 | [Niri Agg](https://open.spotify.com/track/0paTaAAxGD66pPuabVXxNw) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Andy Grewal](https://open.spotify.com/artist/5PCB0eH1q1vRmI70ibdTeh) | [Niri Agg](https://open.spotify.com/album/3DTcSDnLLnyblffia3XOUW) | 2:53 | 2025-12-05 | 2026-01-15 |
 | [No Break](https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:44 | 2024-12-13 |  |
@@ -538,7 +539,7 @@
 | [Ok Reportaan](https://open.spotify.com/track/3N3mmADC87i2ekwBeTP54l) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [Ok Reportaan](https://open.spotify.com/album/3cd3OLaia7aYId42IPsg5C) | 3:18 | 2023-03-29 | 2024-06-22 |
 | [Okay](https://open.spotify.com/track/1QfmomQjeg37hIDyLqTABd) | [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Ishan](https://open.spotify.com/artist/5VUpMJVhsIjr7UshFyoWVu), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Okay](https://open.spotify.com/album/0UMoOBB3W3NyzpJx3MUrRu) | 2:40 | 2024-01-24 | 2024-02-06 |
 | [Old Money](https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Old Money](https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp) | 2:08 | 2024-08-09 | 2025-02-10 |
-| [Old Money](https://open.spotify.com/track/6R5LyPX1PTsaq8K9zCFd1l) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Old Money](https://open.spotify.com/album/425207ZDHo7DOp22qzIDmh) | 3:39 | 2026-01-20 |  |
+| [Old Money](https://open.spotify.com/track/6R5LyPX1PTsaq8K9zCFd1l) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Old Money](https://open.spotify.com/album/425207ZDHo7DOp22qzIDmh) | 3:39 | 2026-01-20 | 2026-02-13 |
 | [Old Sinner](https://open.spotify.com/track/6TDstCmfJF2ajZIPrtE0Lc) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Old Sinner](https://open.spotify.com/album/5skU07eyWYBg9qg7VFBwcT) | 2:50 | 2024-06-28 | 2024-07-09 |
 | [ON SIGHT](https://open.spotify.com/track/6hDVIKy4UjNEfNCc2Dkq8k) | [Bhambi2fly](https://open.spotify.com/artist/7x1g4pBJtNz1XxdlSzEDf2), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y) | [ON SIGHT](https://open.spotify.com/album/2lmOs6L6auAzJffIIFMPeC) | 2:23 | 2025-09-30 | 2025-10-16 |
 | [ON TOP 2](https://open.spotify.com/track/2G4GimpAMeWaZ6VkcQ1RT9) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [On Top 2](https://open.spotify.com/album/7Mu7sumZaG3bM4rAfs6S8p) | 3:01 | 2024-06-10 |  |

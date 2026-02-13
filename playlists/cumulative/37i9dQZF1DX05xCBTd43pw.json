@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Argyle",
+  "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
   "name": "Swiss Made",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 222312,
       "name": "1234",
       "url": "https://open.spotify.com/track/0p1ZnifLGxSMQB2j8cl6hS"
@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Blue Light",
+        "url": "https://open.spotify.com/album/58pqS362zuteaYeLitRL19"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206755,
+      "name": "Blue Light",
+      "url": "https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H"
+    },
+    {
+      "album": {
         "name": "Blueme",
         "url": "https://open.spotify.com/album/6Jxu6aoNf01lUI1yhFdIaw"
       },
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-14",
+      "date_removed": null,
       "duration_ms": 166982,
       "name": "closer somehow",
       "url": "https://open.spotify.com/track/68QCVINMRipIbGaqxhvPwo"
@@ -1754,6 +1772,24 @@
       "duration_ms": 256079,
       "name": "Derfi di hebe",
       "url": "https://open.spotify.com/track/0offCTctIys3XsX6YKkOWC"
+    },
+    {
+      "album": {
+        "name": "Des montagnes de toi",
+        "url": "https://open.spotify.com/album/2YgOkEKH4iJbGz4SOwHEAe"
+      },
+      "artists": [
+        {
+          "name": "Vendredi sur Mer",
+          "url": "https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Des montagnes de toi",
+      "url": "https://open.spotify.com/track/4SyrpjEFYjsYJKq2kNhzSs"
     },
     {
       "album": {
@@ -3428,7 +3464,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 165012,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/43Scac4qzfryzxi5kdIrJQ"
@@ -3624,6 +3660,24 @@
       "duration_ms": 208166,
       "name": "Human",
       "url": "https://open.spotify.com/track/23LdwA5JFwn6416UxOPfH8"
+    },
+    {
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/63obpfI1ml9lYY0MxFyvXI"
+      },
+      "artists": [
+        {
+          "name": "SOLEROY",
+          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181002,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/32J5dIL3ougXNls1bpxm0Y"
     },
     {
       "album": {
@@ -5912,7 +5966,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 206657,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/40zf2sEQMBu5R7foINartB"
@@ -6632,7 +6686,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 195840,
       "name": "Si t'\u00e9tais l\u00e0",
       "url": "https://open.spotify.com/track/70UInfx90vXZ1dJYeG02Yf"
@@ -6704,7 +6758,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-25",
+      "date_removed": null,
       "duration_ms": 144373,
       "name": "Since We Met",
       "url": "https://open.spotify.com/track/6fiGXtkvgTxU68tuhpTP6D"
@@ -6856,7 +6910,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 181900,
       "name": "Sombrero",
       "url": "https://open.spotify.com/track/6doSTHTFkrSa9o3gMDKFWN"
@@ -7170,7 +7224,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 162929,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
@@ -7950,6 +8004,28 @@
       "duration_ms": 241888,
       "name": "Unexplainable",
       "url": "https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB"
+    },
+    {
+      "album": {
+        "name": "Valse \u00e0 Demi",
+        "url": "https://open.spotify.com/album/5imqbp4UGgNwRUftlTjUIR"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        },
+        {
+          "name": "Stephan Eicher",
+          "url": "https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162835,
+      "name": "Valse \u00e0 Demi",
+      "url": "https://open.spotify.com/track/5gfb1OANgI7roumlmuYo0x"
     },
     {
       "album": {

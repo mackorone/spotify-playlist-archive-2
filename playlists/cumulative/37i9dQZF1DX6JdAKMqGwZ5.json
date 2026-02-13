@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Rebe & Amore.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Julieta.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 240000,
       "name": "A partir de ahora",
       "url": "https://open.spotify.com/track/5HSMsppVuiUt7iAQd4Uzzk"
+    },
+    {
+      "album": {
+        "name": "Aa Pap\u00e1",
+        "url": "https://open.spotify.com/album/1smYUIQKTVafP9OGGQY6a0"
+      },
+      "artists": [
+        {
+          "name": "GOMZ",
+          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179250,
+      "name": "Aa Pap\u00e1",
+      "url": "https://open.spotify.com/track/4c2T9u6bpauuENJwZjzPJA"
     },
     {
       "album": {
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 183226,
       "name": "Big, Big Love",
       "url": "https://open.spotify.com/track/63Ggi4XZrlY02rFSMAHS0N"
@@ -1601,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "Caen Imperios",
+        "url": "https://open.spotify.com/album/4q0NWJdIip4fAtIxHOWqQo"
+      },
+      "artists": [
+        {
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "Caen Imperios",
+      "url": "https://open.spotify.com/track/6wJk3x2eRy7Fo6stBr0N6z"
+    },
+    {
+      "album": {
         "name": "CAGARLA",
         "url": "https://open.spotify.com/album/5qM44bxIa2LLs3YdlE7UbW"
       },
@@ -1812,6 +1848,24 @@
       "duration_ms": 265046,
       "name": "Catro Cousas",
       "url": "https://open.spotify.com/track/0Q4LDISBQT1kkPhyrwvt3F"
+    },
+    {
+      "album": {
+        "name": "CENT PER CENT",
+        "url": "https://open.spotify.com/album/773bcOMkLxhlik2epGoXXH"
+      },
+      "artists": [
+        {
+          "name": "Julieta",
+          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192115,
+      "name": "CENT PER CENT",
+      "url": "https://open.spotify.com/track/4DN7qIOgFue3K9mH6sJs6Y"
     },
     {
       "album": {
@@ -2556,7 +2610,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 208502,
       "name": "dame + luz",
       "url": "https://open.spotify.com/track/4235GW7xYKOMFEKm4DtONz"
@@ -2617,6 +2671,24 @@
     },
     {
       "album": {
+        "name": "Dark Emo Cowboy Sexy Dream",
+        "url": "https://open.spotify.com/album/4pyoGM3Mpya5qdj7Q34VZT"
+      },
+      "artists": [
+        {
+          "name": "Lucas Jes\u00fas",
+          "url": "https://open.spotify.com/artist/4aOowso1Cyvob8i68vFQN1"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153496,
+      "name": "Dark Emo Cowboy Sexy Dream",
+      "url": "https://open.spotify.com/track/5VsUOzbiJwViH9LR67h1MC"
+    },
+    {
+      "album": {
         "name": "DE BAJ\u00d3N",
         "url": "https://open.spotify.com/album/1EafdZ6KB2ug86sxQWlWx5"
       },
@@ -2636,6 +2708,24 @@
       "duration_ms": 153929,
       "name": "De Baj\u00f3n",
       "url": "https://open.spotify.com/track/7wjwa7qvN5ZF1kL8Q3tirb"
+    },
+    {
+      "album": {
+        "name": "de ILEGALES",
+        "url": "https://open.spotify.com/album/1Bz1DiADhItwds8yO5L9Rw"
+      },
+      "artists": [
+        {
+          "name": "Vreno Yg",
+          "url": "https://open.spotify.com/artist/6kEIWEdO0AXB40OKkgjfMj"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153391,
+      "name": "de ILEGALES",
+      "url": "https://open.spotify.com/track/7bIS3xGQSMDdAw5ZBhFX51"
     },
     {
       "album": {
@@ -4909,6 +4999,28 @@
     },
     {
       "album": {
+        "name": "geniva",
+        "url": "https://open.spotify.com/album/7apMRYwOQopZFM7WHCxMN4"
+      },
+      "artists": [
+        {
+          "name": "Clutchill",
+          "url": "https://open.spotify.com/artist/0ONc371uQqOdKkCwsrcp9Z"
+        },
+        {
+          "name": "alberrrt",
+          "url": "https://open.spotify.com/artist/61XLUqvPBrCxGfczvrm4n3"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171831,
+      "name": "geniva",
+      "url": "https://open.spotify.com/track/4WbUKIgHQS5XZwYIIBMx67"
+    },
+    {
+      "album": {
         "name": "Gente Corriente",
         "url": "https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ"
       },
@@ -5090,7 +5202,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 211920,
       "name": "Harto de paredes",
       "url": "https://open.spotify.com/track/3tQ15rcOMSdjxyQJWUnfXe"
@@ -5344,7 +5456,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 229253,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/6aMm2SYEO1TQru1qk8iyzT"
@@ -5810,7 +5922,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 164257,
       "name": "Kryptonita",
       "url": "https://open.spotify.com/track/5aTCsxz1xrhHyKnWwIMgik"
@@ -7174,7 +7286,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 167303,
       "name": "Mao Enamorado Pilotando Un Mecha",
       "url": "https://open.spotify.com/track/2gd5JjjE0H0CWXeIUEhoJW"
@@ -8498,7 +8610,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 178666,
       "name": "No lo sabes",
       "url": "https://open.spotify.com/track/5oNerUYtB9Rc9GuT2h61gJ"
@@ -9312,7 +9424,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 263669,
       "name": "Otro Verano",
       "url": "https://open.spotify.com/track/1gaDKQPYU6yhbIuHCCxiwa"
@@ -11175,6 +11287,28 @@
     },
     {
       "album": {
+        "name": "Skol",
+        "url": "https://open.spotify.com/album/73fzO2bTDPFJZ8RbClCm9G"
+      },
+      "artists": [
+        {
+          "name": "Mala Gesti\u00f3n",
+          "url": "https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP"
+        },
+        {
+          "name": "Los Chivatos",
+          "url": "https://open.spotify.com/artist/1FrY0lSuDVQMmUFE3grB85"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168187,
+      "name": "Skol",
+      "url": "https://open.spotify.com/track/3AIxhYnWjxQZmcFeDx667S"
+    },
+    {
+      "album": {
         "name": "So payaso",
         "url": "https://open.spotify.com/album/1SJJG2C7MHBWA3FQyHrLXZ"
       },
@@ -11773,6 +11907,28 @@
     },
     {
       "album": {
+        "name": "that pretty girl",
+        "url": "https://open.spotify.com/album/02vxJ097UwadqlRBwRSpne"
+      },
+      "artists": [
+        {
+          "name": "diego vega",
+          "url": "https://open.spotify.com/artist/6ag0VsoRhre1BF6GBwWyU7"
+        },
+        {
+          "name": "Rotea",
+          "url": "https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194637,
+      "name": "that pretty girl",
+      "url": "https://open.spotify.com/track/2lOOuLJB5AmHH3ALxG9gKZ"
+    },
+    {
+      "album": {
         "name": "Los Telep\u00e1ticos",
         "url": "https://open.spotify.com/album/0v5ANQwTATWQSM4E5yCAze"
       },
@@ -12359,6 +12515,24 @@
     },
     {
       "album": {
+        "name": "Tus historias",
+        "url": "https://open.spotify.com/album/7l5TWa2oHNeDSqizilfuuR"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Luchando",
+          "url": "https://open.spotify.com/artist/32ssrEXNswpY4dF56WYYZl"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186901,
+      "name": "Tus historias",
+      "url": "https://open.spotify.com/track/1nyaEkhipIeZONNgSsDUbI"
+    },
+    {
+      "album": {
         "name": "Tutta La Notte (feat. Calcutta)",
         "url": "https://open.spotify.com/album/0SyYo03ajASK19eOCCcmgZ"
       },
@@ -12544,7 +12718,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 228797,
       "name": "un lugar para ti",
       "url": "https://open.spotify.com/track/0RfuDobFpjFc7KZZJSlptr"

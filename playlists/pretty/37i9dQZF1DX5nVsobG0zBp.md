@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Papillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,173 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,213 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 56 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 |
 | 57 | [Maçã](https://open.spotify.com/track/0eyTM1AjoPMdzfwCBfLIpO) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Maçã](https://open.spotify.com/album/7bLu4omqbTsFAfnvVFUSW8) | 3:39 |
 | 58 | [NUVENS](https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [NUVENS](https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb) | 2:37 |
-| 59 | [CABARET](https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [CABARET](https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah) | 2:15 |
-| 60 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
+| 59 | [STAY FLY](https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [STAY FLY](https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq) | 3:54 |
+| 60 | [CABARET](https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [CABARET](https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah) | 2:15 |
 | 61 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 62 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
 | 63 | [Laços](https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Laços](https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw) | 3:26 |
-| 64 | [DAKAR](https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [DAKAR](https://open.spotify.com/album/6a0RFiFtvOADiIpxS3SfVR) | 3:44 |
-| 65 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
+| 64 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
+| 65 | [DAKAR](https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [DAKAR](https://open.spotify.com/album/6a0RFiFtvOADiIpxS3SfVR) | 3:44 |
 | 66 | [Mo Boy](https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 3:52 |
 | 67 | [3,14](https://open.spotify.com/track/1OjAoIz5Gl36rzm9RKEQeG) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [3,14](https://open.spotify.com/album/6G62obmFgI2yyK36htUzOe) | 5:24 |
 | 68 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |

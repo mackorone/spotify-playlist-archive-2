@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: CHOSNG\(초승\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,244 songs - 3 day 3 hr 18 min
+1,246 songs - 3 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [Late Night Flaneur](https://open.spotify.com/track/1XvQjUHunvmYIMPgfg9Mul) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Late Night Flaneur](https://open.spotify.com/album/4EMrAEBQQEE9DY9Jb9B8fx) | 2:27 | 2024-11-29 | 2025-02-07 |
 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 | 2024-07-01 | 2024-12-07 |
 | [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 | 2021-12-21 | 2022-05-18 |
+| [Leaves](https://open.spotify.com/track/3k0RmMUC0DzqKIeVF8Tpwt) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Leaves](https://open.spotify.com/album/4WYPunihadZ0y8IRY96HZh) | 3:48 | 2026-02-12 |  |
 | [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/track/4l1kxi8BziQRbDmov4CXeh) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Left unsaid \(Feat\. BIG Naughty\)](https://open.spotify.com/album/4qL6T01dRe7p0EghSbfwsc) | 2:43 | 2025-07-10 | 2025-08-13 |
 | [Lego World](https://open.spotify.com/track/4Yc0l0eFYrcsCClR7TjzlX) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [B\-grade Media](https://open.spotify.com/album/393OXdx9w3DIlGDxYMTDIo) | 3:43 | 2025-08-08 | 2025-09-25 |
 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/4F9qxQqmkFnBjIvrpiQ7jV) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/album/4wMb27rPOFS7vQSNsnjQC7) | 3:07 | 2022-03-31 | 2022-04-14 |
@@ -616,7 +617,7 @@
 | [lost the love \(with\. KIM SU IN\)](https://open.spotify.com/track/73Y8wOmucnTu0lUgfR57xU) | [Chosunblues](https://open.spotify.com/artist/6mKicVKyt6CPmrvbGkge4G), [KIM SU IN](https://open.spotify.com/artist/1eD6xraivpnXUOr4eX9Rhj) | [lost the love](https://open.spotify.com/album/7tARiULOzmBxyYehOg0b6U) | 5:48 | 2023-09-26 | 2024-05-10 |
 | [Lotus](https://open.spotify.com/track/5o4b92ELtQ33pKyCyrtTaE) | [Noa Coast](https://open.spotify.com/artist/0XTepDq5q7tQj6Xg7UPWys) | [Lotus](https://open.spotify.com/album/0Vf2Lxm3zQ0EEDUZAh1lY8) | 3:50 | 2025-08-01 | 2025-09-06 |
 | [love and hatred](https://open.spotify.com/track/6RIhYubAexXYmq2LGqAGIa) | [OhYoon](https://open.spotify.com/artist/3E3GZJRleQR8QkRaFciIqV) | [love and hatred](https://open.spotify.com/album/6yEmEdDzRy3kUGOcIz6qzG) | 2:50 | 2024-11-06 | 2025-01-23 |
-| [Love Highway](https://open.spotify.com/track/6Es5m3mqOjmEgD0gBWXM8d) | [Blue Smile](https://open.spotify.com/artist/5rQwjCpFxybGzLiIBMGsXv) | [Love Highway](https://open.spotify.com/album/1XHWY0HUxW2T6RwbOyco2c) | 4:16 | 2026-01-14 |  |
+| [Love Highway](https://open.spotify.com/track/6Es5m3mqOjmEgD0gBWXM8d) | [Blue Smile](https://open.spotify.com/artist/5rQwjCpFxybGzLiIBMGsXv) | [Love Highway](https://open.spotify.com/album/1XHWY0HUxW2T6RwbOyco2c) | 4:16 | 2026-01-14 | 2026-02-13 |
 | [love in balcony](https://open.spotify.com/track/7BrlpynTrdHToVYs4uJSre) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 3:50 | 2023-02-01 | 2023-03-01 |
 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-03-31 | 2024-05-16 |
 | [Love Is Ever](https://open.spotify.com/track/0tToYcQCuNtUDBCyf8H24I) | [12BH](https://open.spotify.com/artist/2nAQJEx75OzTPM9MyBiORe) | [Learn to Love](https://open.spotify.com/album/478VPSPWwm0aOY82hVkttv) | 4:45 | 2025-05-30 | 2025-09-10 |
@@ -1049,6 +1050,7 @@
 | [The Possible\(feat\. Kim Sawol\)](https://open.spotify.com/track/7t7u9IY9HIKuRYWMqw0Uyd) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j), [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [The possible\(feat\. Kim Sawol\)](https://open.spotify.com/album/6eHpG7BEZPELIoItJoUUZF) | 3:09 | 2021-12-21 | 2022-05-23 |
 | [The Promise of Summer](https://open.spotify.com/track/4Gte5M0Oe0tNTlxjFf9lJb) | [Kim Ahyun](https://open.spotify.com/artist/6esTEzOF6SNHgbeSRr5hdy) | [Every you, in Every moment](https://open.spotify.com/album/0eahpcOKvJV4KqQLYT3yE2) | 4:29 | 2022-03-31 | 2022-04-19 |
 | [theme park](https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD) | [chilly](https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb) | [theme park](https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i) | 3:49 | 2022-07-27 | 2022-08-19 |
+| [There Was No One Left](https://open.spotify.com/track/0qzDOoGh8TywjSv88jUDrI) | [roku](https://open.spotify.com/artist/5cx5VCArG91qvnydhP3Zfl) | [Good News](https://open.spotify.com/album/587W3JingOxqIqGI0FAQvZ) | 4:10 | 2026-02-12 |  |
 | [There's no turning back even 1 second](https://open.spotify.com/track/0H84I0iW4KAd8dR9i1mvqR) | [MONNI](https://open.spotify.com/artist/3YBdWm4N53j49BHxJ8JnbG) | [Eternal Memories](https://open.spotify.com/album/3pRfgKJgV5AZbvIOkKmSTt) | 4:41 | 2024-03-08 | 2024-05-10 |
 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 | 2022-06-20 | 2022-07-05 |
 | [Thirsty](https://open.spotify.com/track/237XyNLeiI0MdnIRGpvlCt) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Thirsty](https://open.spotify.com/album/4UGWbAYWe4N1VawX01am5y) | 2:47 | 2021-12-21 | 2022-07-05 |
@@ -1150,7 +1152,7 @@
 | [Whatever u are](https://open.spotify.com/track/4Lv08yuwGs79fY9gTSmsZk) | [memethehouse](https://open.spotify.com/artist/2pmi3fj6A9vv7eksh6vE5s) | [Whatever u are](https://open.spotify.com/album/0cZyc7Nh5mhXj7ywWAZqtE) | 3:16 | 2023-02-08 | 2023-02-16 |
 | [When It Snows](https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [FROM : X](https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn) | 2:51 | 2021-12-21 | 2025-07-24 |
 | [When It Snows 눈이 오는 날](https://open.spotify.com/track/41mmblVBKV1QqzAsaq9ogD) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [When It Snows 눈이 오는 날](https://open.spotify.com/album/2tb5GVztnwrBcm2A9v0sro) | 4:13 | 2021-12-21 | 2022-05-25 |
-| [When We Were Us](https://open.spotify.com/track/09ecF04FnWqF83WPYPtkME) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [When We Were Us](https://open.spotify.com/album/3dZjUiGR0KNF3x0UMaV013) | 3:45 | 2025-12-02 |  |
+| [When We Were Us](https://open.spotify.com/track/09ecF04FnWqF83WPYPtkME) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [When We Were Us](https://open.spotify.com/album/3dZjUiGR0KNF3x0UMaV013) | 3:45 | 2025-12-02 | 2026-02-13 |
 | [When we were young](https://open.spotify.com/track/7KT7nJM98mzPpl4ETuLA2o) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z), [colin](https://open.spotify.com/artist/23ILHWqZRWApKJZMSCEdty) | [When we were young](https://open.spotify.com/album/2TwiLiC3cWI1Zu6z9dbvro) | 2:54 | 2025-06-27 | 2025-07-07 |
 | [Where Am I](https://open.spotify.com/track/0ZsgX7WDC1jnwFbHUdwTky) | [Mio Si](https://open.spotify.com/artist/4jQggyF869vBQbQl2Tewuj) | [Where Am I](https://open.spotify.com/album/6nvrZGRQVezq6C8VDHENfr) | 4:12 | 2022-03-31 | 2024-04-30 |
 | [Where are you](https://open.spotify.com/track/6j0CMk5tIEl57UuO9PrLpX) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Traveller, No.101](https://open.spotify.com/album/1h8ZiPrGqNQzyJVBSj6X7e) | 3:54 | 2021-12-21 | 2022-07-26 |

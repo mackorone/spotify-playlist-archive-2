@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,466,908 likes - 125 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,466,869 likes - 125 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 36 | [If You Ever Wanna Be In Love \- James Bay Spotify Session 2015](https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [James Bay Spotify Session 2015](https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf) | 3:56 |
 | 37 | [Amsterdam](https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:33 |
 | 38 | [This Town](https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [This Town](https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG) | 3:52 |
-| 39 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 |
+| 39 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
 | 40 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 |
 | 41 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 |
-| 42 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
+| 42 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 |
 | 43 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 |
 | 44 | [What Do You Mean? \- Acoustic](https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:23 |
 | 45 | [Thinking 'Bout Love](https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Songs to Break Up To](https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW) | 3:19 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 111 | [Old Friends](https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Old Friends](https://open.spotify.com/album/2zpHfAiut6wqmWNS3McrxI) | 3:33 |
 | 112 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 |
 | 113 | [Anaheim](https://open.spotify.com/track/0JhILyKbyQnhAo6FHSSIRA) | [Nicole Zefanya](https://open.spotify.com/artist/6Un2wMkT5JajGnF1hBLacG) | [Anaheim](https://open.spotify.com/album/0p6vQipvqvb85ghNzo7Mdp) | 4:18 |
-| 114 | [Chemicals \- Acoustic](https://open.spotify.com/track/6VwJchlkgjGbjU1SMyvwBN) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:54 |
-| 115 | [Craving \- Acoustic Version](https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Craving \(Acoustic\)](https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO) | 3:46 |
+| 114 | [Craving \- Acoustic Version](https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Craving \(Acoustic\)](https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO) | 3:46 |
+| 115 | [Chemicals \- Acoustic](https://open.spotify.com/track/6VwJchlkgjGbjU1SMyvwBN) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:54 |
 | 116 | [Lay It on Me \- Acoustic](https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Lay It on Me \(Acoustic\)](https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7) | 3:21 |
 | 117 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
 | 118 | [Fool For Waiting](https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n) | [Fool For Waiting](https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl) | 4:03 |

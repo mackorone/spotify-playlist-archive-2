@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Bruna Lipiani",
-  "num_followers": 483137,
+  "num_followers": 483159,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
-        "name": "Mo\u00e7a Do Vestido Preto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2BMNdpnrpjfTkTLi7eGHG5"
-      },
-      "artists": [
-        {
-          "name": "S\u00e2mi Rico",
-          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
-        }
-      ],
-      "duration_ms": 155496,
-      "name": "Mo\u00e7a Do Vestido Preto - Ao Vivo",
-      "url": "https://open.spotify.com/track/22RkZFkkQ6ysBPTD2wigY7"
-    },
-    {
-      "added_at": "2026-02-06 03:03:01",
-      "album": {
         "name": "Modo Bizay (Amor pra Recordar) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0y7UlTtgeCOdzRyXWMvzd9"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 168833,
       "name": "N\u00e3o Compensa (Deus Me Livre) - Ao Vivo",
       "url": "https://open.spotify.com/track/4FPhA46Sk698HaP1QP5mER"
+    },
+    {
+      "added_at": "2026-02-06 03:03:01",
+      "album": {
+        "name": "Mo\u00e7a Do Vestido Preto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2BMNdpnrpjfTkTLi7eGHG5"
+      },
+      "artists": [
+        {
+          "name": "S\u00e2mi Rico",
+          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
+        }
+      ],
+      "duration_ms": 155496,
+      "name": "Mo\u00e7a Do Vestido Preto - Ao Vivo",
+      "url": "https://open.spotify.com/track/22RkZFkkQ6ysBPTD2wigY7"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -247,22 +247,22 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
-        "name": "Muvuca",
-        "url": "https://open.spotify.com/album/4aby868jLOA6tA3mImwUWc"
+        "name": "Cad\u00ea Voc\u00ea?",
+        "url": "https://open.spotify.com/album/5jIBdBDr9BlCzDaU92CxuJ"
       },
       "artists": [
         {
-          "name": "Leo Balbinotti",
-          "url": "https://open.spotify.com/artist/4d6z6mxq6eHpFojPtbYIkx"
+          "name": "L\u00e9o e Gian",
+          "url": "https://open.spotify.com/artist/3fDm3CSdnifWUIUAG3N0kZ"
         },
         {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+          "name": "Rafael Quadros",
+          "url": "https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b"
         }
       ],
-      "duration_ms": 150051,
-      "name": "Muvuca - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cfKvCEkH7m4itg97Mg7T6"
+      "duration_ms": 150822,
+      "name": "Cad\u00ea Voc\u00ea?",
+      "url": "https://open.spotify.com/track/2XjtqFgZx18W8Mq9pdH60n"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -283,22 +283,22 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
-        "name": "Cad\u00ea Voc\u00ea?",
-        "url": "https://open.spotify.com/album/5jIBdBDr9BlCzDaU92CxuJ"
+        "name": "Muvuca",
+        "url": "https://open.spotify.com/album/4aby868jLOA6tA3mImwUWc"
       },
       "artists": [
         {
-          "name": "L\u00e9o e Gian",
-          "url": "https://open.spotify.com/artist/3fDm3CSdnifWUIUAG3N0kZ"
+          "name": "Leo Balbinotti",
+          "url": "https://open.spotify.com/artist/4d6z6mxq6eHpFojPtbYIkx"
         },
         {
-          "name": "Rafael Quadros",
-          "url": "https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b"
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
         }
       ],
-      "duration_ms": 150822,
-      "name": "Cad\u00ea Voc\u00ea?",
-      "url": "https://open.spotify.com/track/2XjtqFgZx18W8Mq9pdH60n"
+      "duration_ms": 150051,
+      "name": "Muvuca - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cfKvCEkH7m4itg97Mg7T6"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
+        "name": "Lugar de Fala",
+        "url": "https://open.spotify.com/album/1i9mp1c96dCLUwi4gBumfF"
+      },
+      "artists": [
+        {
+          "name": "Bianca e Beatriz",
+          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
+        }
+      ],
+      "duration_ms": 164465,
+      "name": "Lugar de Fala",
+      "url": "https://open.spotify.com/track/2rIYutqftz8iIrbrbizcDH"
+    },
+    {
+      "added_at": "2026-02-06 03:03:01",
+      "album": {
         "name": "Vou Ou N\u00e3o Vou",
         "url": "https://open.spotify.com/album/14eHYsCEWDXWxkcO0CjEmd"
       },
@@ -659,18 +675,18 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
-        "name": "Lugar de Fala",
-        "url": "https://open.spotify.com/album/1i9mp1c96dCLUwi4gBumfF"
+        "name": "Deus Aben\u00e7oe O Rol\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uco4T4OXg01iWM1FVoIt1"
       },
       "artists": [
         {
-          "name": "Bianca e Beatriz",
-          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
+          "name": "Renato & Giovanelli",
+          "url": "https://open.spotify.com/artist/3KpOZIbkmvt1ukNny0asEg"
         }
       ],
-      "duration_ms": 164465,
-      "name": "Lugar de Fala",
-      "url": "https://open.spotify.com/track/2rIYutqftz8iIrbrbizcDH"
+      "duration_ms": 193285,
+      "name": "Deus Aben\u00e7oe O Rol\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7qDNkqs9Jnj2GoD6uVcT69"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -695,18 +711,18 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
-        "name": "Deus Aben\u00e7oe O Rol\u00ea (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uco4T4OXg01iWM1FVoIt1"
+        "name": "Da Boca Pra Fora",
+        "url": "https://open.spotify.com/album/6HnNWhAj8UtVGeuldwh9qm"
       },
       "artists": [
         {
-          "name": "Renato & Giovanelli",
-          "url": "https://open.spotify.com/artist/3KpOZIbkmvt1ukNny0asEg"
+          "name": "Jennifer e Stephany",
+          "url": "https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP"
         }
       ],
-      "duration_ms": 193285,
-      "name": "Deus Aben\u00e7oe O Rol\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/7qDNkqs9Jnj2GoD6uVcT69"
+      "duration_ms": 201679,
+      "name": "Da Boca Pra Fora",
+      "url": "https://open.spotify.com/track/6N9jEV2oY4i7FTRsC9GFNw"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -727,22 +743,6 @@
       "duration_ms": 124581,
       "name": "Show de Solteiro",
       "url": "https://open.spotify.com/track/5Z1IcAAJ34h5Ha5kT2W9V8"
-    },
-    {
-      "added_at": "2026-02-06 03:03:01",
-      "album": {
-        "name": "Da Boca Pra Fora",
-        "url": "https://open.spotify.com/album/6HnNWhAj8UtVGeuldwh9qm"
-      },
-      "artists": [
-        {
-          "name": "Jennifer e Stephany",
-          "url": "https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP"
-        }
-      ],
-      "duration_ms": 201679,
-      "name": "Da Boca Pra Fora",
-      "url": "https://open.spotify.com/track/6N9jEV2oY4i7FTRsC9GFNw"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
+        "name": "Do Vinho ao Caf\u00e9",
+        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Pedro e Cristiano",
+          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
+        }
+      ],
+      "duration_ms": 174517,
+      "name": "Do Vinho ao Caf\u00e9",
+      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
+    },
+    {
+      "added_at": "2026-02-06 03:03:01",
+      "album": {
         "name": "Deu Onda (Ao Vivo)",
         "url": "https://open.spotify.com/album/20BAKOs1xejAt281sLhF31"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 172338,
       "name": "S\u00f3 Quero Sossego",
       "url": "https://open.spotify.com/track/6RuvcVpXzHriSfohWEANrv"
-    },
-    {
-      "added_at": "2026-02-06 03:03:01",
-      "album": {
-        "name": "Do Vinho ao Caf\u00e9",
-        "url": "https://open.spotify.com/album/0aTP82z3eE0QQJbR4ieeu3"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Pedro e Cristiano",
-          "url": "https://open.spotify.com/artist/2vOcwgiDuTXso9PMEJjk3n"
-        }
-      ],
-      "duration_ms": 174517,
-      "name": "Do Vinho ao Caf\u00e9",
-      "url": "https://open.spotify.com/track/1nRWHXuu8jH3eYGKAYwcKu"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
-        "name": "M\u00e3os Juntas",
-        "url": "https://open.spotify.com/album/7sckhZS1n1hp0ucF9muWTK"
-      },
-      "artists": [
-        {
-          "name": "S\u00e2mi Rico",
-          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
-        }
-      ],
-      "duration_ms": 214571,
-      "name": "M\u00e3os Juntas",
-      "url": "https://open.spotify.com/track/1cd046aQyr3pb0jzsOPkRE"
-    },
-    {
-      "added_at": "2026-02-06 03:03:01",
-      "album": {
         "name": "Sofrer De Boa (Ao Vivo)",
         "url": "https://open.spotify.com/album/4MzDK1qM9ATKVckhTF9Sr9"
       },
@@ -999,34 +983,18 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
-        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
-        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
+        "name": "M\u00e3os Juntas",
+        "url": "https://open.spotify.com/album/7sckhZS1n1hp0ucF9muWTK"
       },
       "artists": [
         {
-          "name": "Murilo e Romario",
-          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
+          "name": "S\u00e2mi Rico",
+          "url": "https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k"
         }
       ],
-      "duration_ms": 146613,
-      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
-      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
-    },
-    {
-      "added_at": "2026-02-06 03:03:01",
-      "album": {
-        "name": "Resenha Particular 2 (Ao Vivo / EP1)",
-        "url": "https://open.spotify.com/album/6xG5OZFTZBu1XjwjB06h0B"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Pedro e Fellipe",
-          "url": "https://open.spotify.com/artist/4HN8GLpL6Vie0xgKDEtpSN"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Coisas Exot\u00e9ricas / Me Apaixonei Pela Pessoa Errada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4EEojqHohgTIPlNo2lj4wh"
+      "duration_ms": 214571,
+      "name": "M\u00e3os Juntas",
+      "url": "https://open.spotify.com/track/1cd046aQyr3pb0jzsOPkRE"
     },
     {
       "added_at": "2026-02-06 03:03:01",
@@ -1055,6 +1023,22 @@
     {
       "added_at": "2026-02-06 03:03:01",
       "album": {
+        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
+        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
+      },
+      "artists": [
+        {
+          "name": "Murilo e Romario",
+          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
+        }
+      ],
+      "duration_ms": 146613,
+      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
+      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
+    },
+    {
+      "added_at": "2026-02-06 03:03:01",
+      "album": {
         "name": "P\u00e9ssimo Dia (Ao Vivo)",
         "url": "https://open.spotify.com/album/6qq4K0aWD8K5JYx5O3x1ZC"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 169340,
       "name": "P\u00e9ssimo Dia - Ao Vivo",
       "url": "https://open.spotify.com/track/38qFsp5MDV9xQ4BiYEZAYM"
+    },
+    {
+      "added_at": "2026-02-06 03:03:01",
+      "album": {
+        "name": "Resenha Particular 2 (Ao Vivo / EP1)",
+        "url": "https://open.spotify.com/album/6xG5OZFTZBu1XjwjB06h0B"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Pedro e Fellipe",
+          "url": "https://open.spotify.com/artist/4HN8GLpL6Vie0xgKDEtpSN"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Coisas Exot\u00e9ricas / Me Apaixonei Pela Pessoa Errada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4EEojqHohgTIPlNo2lj4wh"
     },
     {
       "added_at": "2026-02-06 03:03:01",

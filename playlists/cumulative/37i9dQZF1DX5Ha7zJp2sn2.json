@@ -695,6 +695,28 @@
     },
     {
       "album": {
+        "name": "Estamos a paz",
+        "url": "https://open.spotify.com/album/0JicAC7rdmaV86NlXNDjWl"
+      },
+      "artists": [
+        {
+          "name": "Annasofia",
+          "url": "https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180324,
+      "name": "Estamos a paz",
+      "url": "https://open.spotify.com/track/5O9PWGNhB8QScDHWCaU0QE"
+    },
+    {
+      "album": {
         "name": "Renacido",
         "url": "https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM"
       },
@@ -1028,7 +1050,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 236447,
       "name": "Lleg\u00f3 la primavera",
       "url": "https://open.spotify.com/track/4tyXNUOLWuDAN0HF3w3LAs"
@@ -1464,7 +1486,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 205023,
       "name": "Paz",
       "url": "https://open.spotify.com/track/28mhI37mVmow7pE4PGNIN6"
@@ -1504,6 +1526,24 @@
       "duration_ms": 254416,
       "name": "Plantas Naranjas",
       "url": "https://open.spotify.com/track/2fG1rZ8Vb9hNf9krZHMNrA"
+    },
+    {
+      "album": {
+        "name": "Plei",
+        "url": "https://open.spotify.com/album/7u8JjW7R4q2m2PPwOmC39J"
+      },
+      "artists": [
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Plei",
+      "url": "https://open.spotify.com/track/55eG80KfEzp2lFlyd3PuZA"
     },
     {
       "album": {
@@ -1663,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Elsa y Elmar (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236694,
+      "name": "Seguradetodo - Spotify Sessions",
+      "url": "https://open.spotify.com/track/4IcTF2Ojx7XbnuDbcwQmHC"
+    },
+    {
+      "album": {
         "name": "Ser\u00e9 Guitarra",
         "url": "https://open.spotify.com/album/2hhNWokFRsUeqDkQ3MOzv5"
       },
@@ -1776,7 +1834,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 185500,
       "name": "Suesca",
       "url": "https://open.spotify.com/track/0kypfp2rFu4yYj6VEcJ8np"
@@ -1885,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Todo da vueltas",
+        "url": "https://open.spotify.com/album/09NAW7bK0LpVannxBcgJjG"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3nica Giraldo",
+          "url": "https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193773,
+      "name": "Todo me lleva a t\u00ed",
+      "url": "https://open.spotify.com/track/38LYmvoSrr9QtzHIvG92UC"
+    },
+    {
+      "album": {
         "name": "TUMBA'",
         "url": "https://open.spotify.com/album/3OplKqs4WJ4oJSSBIOVkKu"
       },
@@ -1976,7 +2052,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 230447,
       "name": "Venezuela",
       "url": "https://open.spotify.com/track/0I2Uh0q80nrSCfGs3Xsujy"

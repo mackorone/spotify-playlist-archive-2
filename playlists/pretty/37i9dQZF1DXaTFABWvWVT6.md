@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,701 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,714 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 57 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 58 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
 | 59 | [Loud Places](https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:43 |
-| 60 | [Can't Do Without You](https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl) | 3:56 |
-| 61 | [Reckless \(2024\)](https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Reckless \(2024\)](https://open.spotify.com/album/5xMk0r8Jr3J66evlcUTMEi) | 2:10 |
+| 60 | [Reckless \(2024\)](https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Reckless \(2024\)](https://open.spotify.com/album/5xMk0r8Jr3J66evlcUTMEi) | 2:10 |
+| 61 | [Can't Do Without You](https://open.spotify.com/track/35p0Z5yZDogaXoWXhMVEv4) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/5ysMC5s4nOCDtPBYrTa5pl) | 3:56 |
 | 62 | [Mind Still \(feat\. blythe\)](https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [blythe](https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC) | [Mind Still \(feat\. blythe\)](https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ) | 2:36 |
 | 63 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 |
 | 64 | [My Head Is A Jungle \- MK Remix / Radio Edit](https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [My Head Is A Jungle \(MK Remix / Radio Edit\)](https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn) | 3:25 |

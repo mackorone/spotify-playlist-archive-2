@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,093 songs - 2 day 6 hr 30 min
+1,094 songs - 2 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Jumalat juhlivat öisin](https://open.spotify.com/track/1cTUxnoy0BqVpSs43J3mpV) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Jumalat juhlivat öisin](https://open.spotify.com/album/2oj7x1lNyktgT53TG3eJdv) | 2:53 | 2025-09-04 | 2025-09-26 |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-05-29 | 2025-09-26 |
 | [Järvi](https://open.spotify.com/track/1VU75DWLqlY0htSemLfXHL) | [Ellis](https://open.spotify.com/artist/77ErZnrAVkCSHMNTOjQwxu) | [Järvi](https://open.spotify.com/album/0kOrPGaGgTqMmQh8Et3IPG) | 3:01 | 2024-07-02 | 2024-08-23 |
+| [Jättebra \(feat\. SVANI\)](https://open.spotify.com/track/5hRMgkefRQTIlY5xdSGUUd) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra), [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Jättebra \(feat\. SVANI\)](https://open.spotify.com/album/0vWlkvSqfybQN4pqu6MVKV) | 2:20 | 2026-02-12 |  |
 | [Jää mun viereen](https://open.spotify.com/track/7I4B447EyCUwweN5BcMdZ7) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Jää mun viereen](https://open.spotify.com/album/25QooaLdcPOC8dAUAmn8pN) | 2:47 | 2025-06-26 | 2025-08-16 |
 | [Jääpähän](https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD) | 3:10 | 2025-10-02 |  |
 | [Jäävuorii](https://open.spotify.com/track/17KVNRBrEV9Y1l0l6jbr3t) | [RODEO](https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0) | [Jäävuorii](https://open.spotify.com/album/3LKRIasfmbfoFhFQJZ5a5O) | 4:05 | 2025-03-06 | 2025-04-25 |
@@ -473,7 +474,7 @@
 | [Kyyneliä](https://open.spotify.com/track/1A2yC2Opj4mwlEZcfk1K1g) | [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw) | [Kyyneliä](https://open.spotify.com/album/3LVzATV9bR7Gew8NeAMzua) | 2:58 | 2024-07-02 | 2024-07-27 |
 | [Kyyneliä kaulaliinaan](https://open.spotify.com/track/0DBzoxR8kYMKnEHXoRFrQZ) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Kyyneliä kaulaliinaan](https://open.spotify.com/album/4bt6rY5ycgP8rj3PVngHPh) | 2:55 | 2024-10-24 | 2024-11-15 |
 | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/track/6PWCKV8BtCneJCDOAlwyDr) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Kävi miten kävi \(feat\. emma & matilda\)](https://open.spotify.com/album/41JGibvkIPYPQheqaE8nhi) | 3:11 | 2025-06-06 | 2025-08-22 |
-| [Käännä Se Kovemmal](https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Käännä Se Kovemmal](https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx) | 3:03 | 2025-12-12 |  |
+| [Käännä Se Kovemmal](https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Käännä Se Kovemmal](https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx) | 3:03 | 2025-12-12 | 2026-02-13 |
 | [Käärmeen vuosi](https://open.spotify.com/track/7iJMiPzzvtKLcPSOn6hErj) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Käärmeen vuosi](https://open.spotify.com/album/1Wozr0j0P22bt2k4FMy9Qh) | 3:01 | 2026-01-01 | 2026-01-16 |
 | [Köyhä ja kipee \(feat\. BESS\)](https://open.spotify.com/track/4N1xl85zvCN21lRpz5aEZQ) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Nää pirut on mun kavereit](https://open.spotify.com/album/3qfGZ2Tk9Y3SmS0p7BPjO7) | 3:11 | 2025-09-04 | 2025-11-14 |
 | [L'Italiano](https://open.spotify.com/track/0wO9l8YepZra7cbmoPlevh) | [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Toto Cutugno](https://open.spotify.com/artist/6elIiwc8OyeqKxXe2rmPXZ) | [L'Italiano](https://open.spotify.com/album/4Et1q7i9BrPEIndMPzrrZW) | 2:17 | 2025-01-10 | 2025-02-27 |

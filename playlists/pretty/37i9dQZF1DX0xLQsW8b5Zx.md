@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,999 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,018 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 20 | [Rather Be Alone](https://open.spotify.com/track/5zAjGORs9r1VGXv9rrgCPw) | [The Rhythm Shakers](https://open.spotify.com/artist/6mlUdYWiqDyrAVDHwddCkQ) | [Voodoo](https://open.spotify.com/album/15AyjB0TYLriPym8G87vLI) | 2:24 |
 | 21 | [Goodbye Forever](https://open.spotify.com/track/24gCP3VKeK8aOdc01EBkVZ) | [Francine](https://open.spotify.com/artist/0SpWiyzKW4wSmiHlgZJywY) | [The Playmate](https://open.spotify.com/album/3p6EXaC1FsqKhCiMZ0poCb) | 3:54 |
 | 22 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:13 |
-| 23 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
+| 23 | [Bluejean Bop](https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 2:22 |
 | 24 | [Best Friend's Girlfriend](https://open.spotify.com/track/47xbYXGlRgknlC4wPPOaoW) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Best Friend's Girlfriend](https://open.spotify.com/album/7IMnrpb9gjWG5dRIh0c05C) | 3:09 |
 | 25 | [Depression](https://open.spotify.com/track/28vMuX0gRJMeIhGaW0cQPn) | [The Hillbilly Moon Explosion](https://open.spotify.com/artist/2osRW41mzIig6TuqQeNsJR) | [With Monsters and Gods](https://open.spotify.com/album/5ejGluFtTbkWyVTRY7LU5z) | 2:08 |
-| 26 | [Bluejean Bop](https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 2:22 |
+| 26 | [Everybody's Movin'](https://open.spotify.com/track/4NnJxkpRJzfKMJM1H3VlYt) | [Glen Glenn](https://open.spotify.com/artist/4HA1v7Kj8foWKczaOUbxQx) | [Glen Rocks](https://open.spotify.com/album/7lm2w3HxZcXE1V2tvscmBv) | 2:42 |
 | 27 | [Another Sunday Morning](https://open.spotify.com/track/2apLwonKTtSflF9U5SNuD0) | [Black Raven](https://open.spotify.com/artist/7LkWVc8qgKldq6Ja5WI784) | [Rock In Threes!](https://open.spotify.com/album/3Oz8GlDjzuPH777lTIOhyD) | 2:40 |
 | 28 | [Woo Hoo](https://open.spotify.com/track/6S9lcjREUTU4Yv5y7oMcv2) | [The 5.6.7.8's](https://open.spotify.com/artist/5MZqcO35TJh5QXaFmvXmUy) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 1:59 |
 | 29 | [Go Go Go](https://open.spotify.com/track/6ZKzfBr8vejFODLh8w2wTV) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS), [The Teen Kings](https://open.spotify.com/artist/6eZeDQei4hJnzUlGt4QATQ) | [Ooby Dooby / Go Go Go](https://open.spotify.com/album/0XoMFggtttMeiJtnBjoijY) | 2:06 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 35 | [Teased UP!](https://open.spotify.com/track/70b1gvXV3nWne0s9tyWoSP) | [AT's Roots & Ramblin'](https://open.spotify.com/artist/3FnRBegmzhj8yb0emWQq6O) | [Teased UP!](https://open.spotify.com/album/2n5vYkijDHBRHnxgygqp7a) | 2:05 |
 | 36 | [You Belong to Me](https://open.spotify.com/track/1yZj1ACstOv0jRgFuKolxI) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:18 |
 | 37 | [Let's Have A Party](https://open.spotify.com/track/4BdwYhbBITL4fytlFSwv9o) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Ultimate Collection](https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI) | 2:07 |
-| 38 | [Far Too Far Away](https://open.spotify.com/track/26LN2TRg48VT6qKVo5O7Wt) | [Cat Lee King & His Cocks](https://open.spotify.com/artist/0TW61xr4ymSp2KxgiBXRJT) | [Cock Tales](https://open.spotify.com/album/0R9uSz4xu1Vxqpxp5sK52O) | 2:37 |
-| 39 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
+| 38 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
+| 39 | [Far Too Far Away](https://open.spotify.com/track/26LN2TRg48VT6qKVo5O7Wt) | [Cat Lee King & His Cocks](https://open.spotify.com/artist/0TW61xr4ymSp2KxgiBXRJT) | [Cock Tales](https://open.spotify.com/album/0R9uSz4xu1Vxqpxp5sK52O) | 2:37 |
 | 40 | [Keep On Loving Me Baby \- The original live recordings](https://open.spotify.com/track/6sQjLATFOYyHE61ZW0xBkE) | [Bluebirds](https://open.spotify.com/artist/2tSCSRIiOya3O652PDmu3S) | [You Take My Blues Away \(The original live recordings\)](https://open.spotify.com/album/5OEyHOsTdKftIsSbzKl8Ci) | 3:38 |
 | 41 | [Hip Shakin' Baby](https://open.spotify.com/track/2UhkB6rKxTdWJj3wiYkcyx) | [The Go Getters](https://open.spotify.com/artist/5UR2Ohlvs9osiEwbJVQHiq) | [Rock & Roll Is Everywhere](https://open.spotify.com/album/74UQcWKIYIRoZHGjczEXvU) | 2:09 |
 | 42 | [Musta Notta Gotta Lotta](https://open.spotify.com/track/0MJiECmrhQvEggBvVfBSOj) | [Joe Ely](https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT) | [Musta Notta Gotta Lotta](https://open.spotify.com/album/0Og633EW0zPdlclAXI9TJg) | 2:35 |

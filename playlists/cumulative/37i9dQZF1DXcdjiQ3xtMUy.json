@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ellize",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Anastasia",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -1439,6 +1439,28 @@
     },
     {
       "album": {
+        "name": "EDO",
+        "url": "https://open.spotify.com/album/1q9XTRduM5wwv8ky12UDrC"
+      },
+      "artists": [
+        {
+          "name": "Leon of Athens",
+          "url": "https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0"
+        },
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211717,
+      "name": "EDO",
+      "url": "https://open.spotify.com/track/7wv6l1qAMRJywQtxZuhMIc"
+    },
+    {
+      "album": {
         "name": "Edo Ine Pou Gelame (Ha Ha Ha)",
         "url": "https://open.spotify.com/album/3peZF56AWhoLGRcw69eXBw"
       },
@@ -1596,6 +1618,24 @@
       "duration_ms": 222706,
       "name": "Ekdoxi",
       "url": "https://open.spotify.com/track/2YgXfudmeCpYNWwvpqDdz5"
+    },
+    {
+      "album": {
+        "name": "Ekeinos",
+        "url": "https://open.spotify.com/album/7I5lgVW7EKY6x322AEoATa"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Papadopoulos",
+          "url": "https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196975,
+      "name": "Ekeinos",
+      "url": "https://open.spotify.com/track/7vEFGoqbuVcLmyCkBKFDkQ"
     },
     {
       "album": {
@@ -1854,7 +1894,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 161025,
       "name": "Fainomeno",
       "url": "https://open.spotify.com/track/4oiw93wniQggi1ZFB7VQ8P"
@@ -1898,6 +1938,32 @@
       "duration_ms": 157845,
       "name": "Feggaria Kalokairina",
       "url": "https://open.spotify.com/track/2xOqLMz8ZKBaWYHy3s5Wyo"
+    },
+    {
+      "album": {
+        "name": "Femme Fatale (Remix)",
+        "url": "https://open.spotify.com/album/2Ol7aFetVRNJjJa2l1hcZx"
+      },
+      "artists": [
+        {
+          "name": "Katy Garbi",
+          "url": "https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Bobito",
+          "url": "https://open.spotify.com/artist/7Ktyjh9YMAD3YZYF7pyHdm"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Femme Fatale - Remix",
+      "url": "https://open.spotify.com/track/3K5NhnaUtG2pMWoFznWoNc"
     },
     {
       "album": {
@@ -4146,7 +4212,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 168886,
       "name": "SOMA DANEIKO",
       "url": "https://open.spotify.com/track/5x2vtiKQFl91hBYrebHwxU"
@@ -4402,7 +4468,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 180983,
       "name": "To Lathos Mou",
       "url": "https://open.spotify.com/track/0TUTYUToTHhykqAJK2SktL"
@@ -4544,7 +4610,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 198837,
       "name": "Trelane Mas",
       "url": "https://open.spotify.com/track/5CnaKQEtOPnY8jf1npotRQ"
@@ -4702,6 +4768,24 @@
       "duration_ms": 189622,
       "name": "Vorias",
       "url": "https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY"
+    },
+    {
+      "album": {
+        "name": "Vrexei",
+        "url": "https://open.spotify.com/album/5ftIw5ZnarnnZwtdYSSn2l"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173544,
+      "name": "Vrexei",
+      "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"
     },
     {
       "album": {

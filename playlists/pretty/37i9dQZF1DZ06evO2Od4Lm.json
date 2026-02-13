@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 130742,
+  "num_followers": 130754,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAA7hAq1MyYpZW3s2FTf95tu",
+  "snapshot_id": "aYvGgAAAAADr5HJGNmOQ6A4PeP6wccQv",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Yourself / With My Whole Heart",
         "url": "https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 103014,
       "name": "Love Yourself (Short Reprise)",
       "url": "https://open.spotify.com/track/6Su3tpwV9plA79jGtiL8rf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 254053,
-      "name": "All the Trees of the Field Will Clap Their Hands",
-      "url": "https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Greatest Gift",
         "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 244765,
       "name": "The Hidden River of My Life",
       "url": "https://open.spotify.com/track/4CQHuLMWDZaoCNyNmnJHVf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 254053,
+      "name": "All the Trees of the Field Will Clap Their Hands",
+      "url": "https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 134404,
+      "name": "City of Roses",
+      "url": "https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 222071,
       "name": "Lady Macbeth In Chains",
       "url": "https://open.spotify.com/track/0W2a7Ga9auLPDDPQp11iDO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Greatest Gift",
-        "url": "https://open.spotify.com/album/4UfROvC2nwNTssfJmlcYw2"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 134404,
-      "name": "City of Roses",
-      "url": "https://open.spotify.com/track/24WtCVcFJD2hWfYgrOBMhA"
     },
     {
       "added_at": null,

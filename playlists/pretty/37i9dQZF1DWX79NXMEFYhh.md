@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 
 > gusto ko lang naman ng kayakap
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,571 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,542 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 30 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 |
 | 31 | [OTW](https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OTW](https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI) | 4:23 |
 | 32 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 |
-| 33 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
-| 34 | [You'll Be Safe Here](https://open.spotify.com/track/0IuKNTVgn9vapnGU44natX) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [You'll Be Safe Here](https://open.spotify.com/album/5JqdmuqnCCp3ENI3IgdqDG) | 5:04 |
+| 33 | [You'll Be Safe Here](https://open.spotify.com/track/0IuKNTVgn9vapnGU44natX) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [You'll Be Safe Here](https://open.spotify.com/album/5JqdmuqnCCp3ENI3IgdqDG) | 5:04 |
+| 34 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
 | 35 | [Misteryoso](https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Misteryoso](https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a) | 3:41 |
 | 36 | [24/7, 365](https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [24/7, 365](https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG) | 2:47 |
 | 37 | [Baby Powder](https://open.spotify.com/track/4Nw7kywWurWS6ceinn1cHK) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:56 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX79NXMEFYhh.md) - [plain]
 | 41 | [NVMD](https://open.spotify.com/track/7ArVzlFsFsQXNseVXmdOyk) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [NVMD](https://open.spotify.com/album/7loTzM9oCoxuoHXWs3crbd) | 3:01 |
 | 42 | [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 |
 | 43 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 |
-| 44 | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ) | 2:21 |
-| 45 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
+| 44 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
+| 45 | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ) | 2:21 |
 | 46 | [Paradise](https://open.spotify.com/track/6xRiL9BVkWfZryQJmdHTmv) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Paradise \- EP](https://open.spotify.com/album/7p7vt3VZb5ORhePGbHAf8S) | 4:16 |
 | 47 | [Boyfriend](https://open.spotify.com/track/4067uAzJZUHJInwOo7X701) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Boyfriend](https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf) | 4:53 |
 | 48 | [A Piece of You](https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [A Piece of You](https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt) | 3:57 |

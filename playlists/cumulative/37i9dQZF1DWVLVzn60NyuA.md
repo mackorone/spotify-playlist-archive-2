@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-566 songs - 1 day 5 hr 38 min
+567 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 | 2022-03-25 | 2022-04-21 |
 | [La miss](https://open.spotify.com/track/6RXHipTclQenO0vKFeGZYi) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 4:01 | 2022-04-14 | 2022-05-16 |
 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 | 2025-05-22 |  |
-| [La Vida](https://open.spotify.com/track/5KfzlufnFri1aWcQZY2RY5) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [La Vida](https://open.spotify.com/album/5Dc3GyedlXR6CcBzFXCCa3) | 3:05 | 2025-05-12 |  |
+| [La Vida](https://open.spotify.com/track/5KfzlufnFri1aWcQZY2RY5) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo) | [La Vida](https://open.spotify.com/album/5Dc3GyedlXR6CcBzFXCCa3) | 3:05 | 2025-05-12 | 2026-02-13 |
 | [Lag'é Penetrá](https://open.spotify.com/track/1lDo1X8v3ua8gnC35tMECP) | [Da Ridlaz](https://open.spotify.com/artist/6pFfQlFLTkmSMes6mZysCj), [Hnly](https://open.spotify.com/artist/4CwqaspIyu13WLrhYbHLNJ) | [Lag'é Penetrá](https://open.spotify.com/album/4Mhd9TxfbM4uuCCIhpAxE5) | 3:54 | 2022-03-10 | 2022-04-15 |
 | [Lagrimas](https://open.spotify.com/track/6myPV2uNaOOvnMXJhHJqlI) | [Sarita Lorena](https://open.spotify.com/artist/5V9JsrZb5RjuvbzvJsA5gp) | [Lagrimas](https://open.spotify.com/album/5RxpXMJneQXaCAWXZwrxRa) | 2:10 | 2021-12-16 | 2023-04-07 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-13 | 2023-03-23 |
@@ -500,6 +500,7 @@
 | [Tetema \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/1rbQWXOpvpbf61fsFDQnru) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Tetema \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/5ByfebvDaiXgUQOleR14GK) | 2:32 | 2022-11-07 | 2022-11-14 |
 | [Tetema \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/50tFLjmKu1pftJONIbaljz) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Sound from Africa](https://open.spotify.com/album/5ku1S5rs8OsxdMeAxjZk9q) | 2:32 | 2022-07-28 | 2024-04-19 |
 | [Thank You Jah](https://open.spotify.com/track/3WNZ3EihNtt8Dwo69brHHa) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Thank You Jah](https://open.spotify.com/album/05lz6RiwYRFok4YeseviAZ) | 3:22 | 2022-05-12 | 2023-04-24 |
+| [That Way](https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [That Way](https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1) | 2:35 | 2026-02-12 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-04-13 |  |
 | [This Your Body](https://open.spotify.com/track/2cJesgQwggcf3ciGuD6Z1I) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [DaVido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [This Your Body](https://open.spotify.com/album/0Zfc7116wUQI37sJxIVPTI) | 3:32 | 2021-12-16 | 2022-01-26 |
 | [Tiempo](https://open.spotify.com/track/5H6SZcjJzBNsB2VzKW2Ivd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Tiempo](https://open.spotify.com/album/5wE1hFbC5twYBXK1KALpQQ) | 2:51 | 2021-12-16 |  |

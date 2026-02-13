@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,315 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,370 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 25 | [De Que Color Es La Suerte](https://open.spotify.com/track/2RhyI9fUK2bEn6blowOh9w) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Que Color Es La Suerte](https://open.spotify.com/album/7Luhi6dMH1sWR1KhrWrGOD) | 3:41 |
 | 26 | [Mi Pasado y Mi Presente \- En Vivo](https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Desde Houston \(En Vivo\)](https://open.spotify.com/album/7aWO3kNcUbNO7UlLqWlwOp) | 4:25 |
 | 27 | [NO VOLVERE \- En Vivo desde Los Ángeles](https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:33 |
-| 28 | [Hello Kitty](https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Hello Kitty](https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq) | 2:38 |
-| 29 | [Dos Banderas](https://open.spotify.com/track/7rQsXHsDTqqHtXS8qj8AQd) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Dos Banderas](https://open.spotify.com/album/5S1KTpUqsbol9Jv4BWh1dF) | 2:38 |
-| 30 | [Aliados del tiempo \- En Vivo](https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp) | 4:14 |
-| 31 | [Vencedor](https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Vencedor](https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV) | 3:03 |
+| 28 | [Vencedor](https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Vencedor](https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV) | 3:03 |
+| 29 | [Hello Kitty](https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Hello Kitty](https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq) | 2:38 |
+| 30 | [Dos Banderas](https://open.spotify.com/track/7rQsXHsDTqqHtXS8qj8AQd) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Dos Banderas](https://open.spotify.com/album/5S1KTpUqsbol9Jv4BWh1dF) | 2:38 |
+| 31 | [Aliados del tiempo \- En Vivo](https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp) | 4:14 |
 | 32 | [Te Regalo](https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Regalo](https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd) | 2:33 |
 | 33 | [Polvo Soy](https://open.spotify.com/track/7rzEV4j9gxblnC9DHN53iC) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Polvo Soy](https://open.spotify.com/album/3SWmKgWCz1IOYbkdPjqVc7) | 2:53 |
 | 34 | [Ebrio De Amor](https://open.spotify.com/track/6Tkg79X9NrpYwWyl4dspKU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [AMOR LIMOSNERO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/2YJP21RyT4UKKocPJQJGku) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 4:02 |
 | 50 | [Dueño De Ti](https://open.spotify.com/track/21k5A1NMuiqhFBSzLcuoOa) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Banda Los Populares Del Llano](https://open.spotify.com/artist/60NAmAuK8ApLhjIMwMIAfv) | [Dueño De Ti](https://open.spotify.com/album/3ctmLBJM30egURMmsMqH3b) | 3:33 |
 
-Snapshot ID: `aYp1AAAAAABk8r/ENO1HlYWT4lS2gURl`
+Snapshot ID: `aYvGgAAAAAAMEHUqkpn9Zr1TLPLk9MnQ`

@@ -5135,6 +5135,32 @@
     },
     {
       "album": {
+        "name": "SUPERLIMINAL",
+        "url": "https://open.spotify.com/album/0HinRdiZeARkfGnxeApv2f"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        },
+        {
+          "name": "Diggy-MO'",
+          "url": "https://open.spotify.com/artist/5GIMsbiSrVJB8dtSeCKY78"
+        },
+        {
+          "name": "\u3057\u306e\u3060\u308a\u3087\u3046\u3059\u3051",
+          "url": "https://open.spotify.com/artist/6cEpOToJhkqN19QXfk3i7p"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231960,
+      "name": "GateWay",
+      "url": "https://open.spotify.com/track/0ZbrPNzu1wzzrK5Kbm0epz"
+    },
+    {
+      "album": {
         "name": "GBP (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De"
       },
@@ -5476,6 +5502,24 @@
       "duration_ms": 216093,
       "name": "GOLD",
       "url": "https://open.spotify.com/track/1ZsZk1y1FF25JXT0ojTz2X"
+    },
+    {
+      "album": {
+        "name": "stardust",
+        "url": "https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197098,
+      "name": "golden boy",
+      "url": "https://open.spotify.com/track/2RlNVAciIcppSI1Iu10RDh"
     },
     {
       "album": {
@@ -6042,6 +6086,28 @@
       "duration_ms": 153016,
       "name": "Hass Hass",
       "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
+    },
+    {
+      "album": {
+        "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
+        "url": "https://open.spotify.com/album/4rexjxUcUzdrbuXuc2H0LY"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195008,
+      "name": "HASTA JES\u00daS TUVO UN MAL D\u00cdA",
+      "url": "https://open.spotify.com/track/02RwK46frDYJ2jrU2bxN94"
     },
     {
       "album": {
@@ -12100,7 +12166,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 304144,
       "name": "Sanitizer",
       "url": "https://open.spotify.com/track/4eCYeVfzGsS6jq8aX43yDr"
@@ -17718,7 +17784,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 243026,
       "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy"
@@ -18264,7 +18330,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 211633,
       "name": "\u30d6\u30eb\u30fc\u30e2\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ"
@@ -18462,7 +18528,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 177996,
       "name": "\u30e1\u30a4\u30e9\u30fc\u30c9",
       "url": "https://open.spotify.com/track/3hjHf4Y9N57hl8y0KluTff"
@@ -19780,6 +19846,24 @@
       "duration_ms": 179238,
       "name": "\u767e\u82b1\u7e5a\u4e71",
       "url": "https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O"
+    },
+    {
+      "album": {
+        "name": "\u56db\u306e\u4e94\u306e\u8a00\u308f\u305a\u98af(\u3055\u3063)\u3068\u5225\u308c\u3066\u3042\u3052\u305f/\u76db\u308c\uff01\u30df\u30fb\u30a2\u30e2\u30fc\u30ec",
+        "url": "https://open.spotify.com/album/7yeRvQODM1SvUxdeU2r8EV"
+      },
+      "artists": [
+        {
+          "name": "Juice=Juice",
+          "url": "https://open.spotify.com/artist/6ckfItpfxpSYKrZ0OIXUuh"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230483,
+      "name": "\u76db\u308c\uff01\u30df\u30fb\u30a2\u30e2\u30fc\u30ec",
+      "url": "https://open.spotify.com/track/1ycsBZlPqRPqf0ilosVhEl"
     },
     {
       "album": {

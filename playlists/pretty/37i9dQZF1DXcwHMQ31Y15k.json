@@ -1,13 +1,45 @@
 {
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Karnamereka, Ndarboy Genk",
-  "num_followers": 239796,
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Northsle",
+  "num_followers": 239925,
   "original_name": "Boso Jowo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAISFAwDhAAC+oa3tiHJZwe+arwHc",
+  "snapshot_id": "AAAAAJx5nG5vZ+d9VD5jD3dotXkzvtCU",
   "tracks": [
+    {
+      "added_at": "2026-02-12 17:48:17",
+      "album": {
+        "name": "LUMRAH ( LUMPUKE SING WES BUBRAH )",
+        "url": "https://open.spotify.com/album/5g78qje8jSCJSSngM7xxDT"
+      },
+      "artists": [
+        {
+          "name": "Northsle",
+          "url": "https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "LUMRAH ( LUMPUKE SING WES BUBRAH )",
+      "url": "https://open.spotify.com/track/0ozx2AJmjxX5AiKgxUGJQP"
+    },
+    {
+      "added_at": "2026-02-12 17:48:17",
+      "album": {
+        "name": "Kusumaning Ati",
+        "url": "https://open.spotify.com/album/4NIMe0DgA7VAuLEFxV5U6p"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "duration_ms": 378000,
+      "name": "Kusumaning Ati",
+      "url": "https://open.spotify.com/track/2aQi2odiCf1QsVeIvJIpcr"
+    },
     {
       "added_at": "2026-02-05 23:09:14",
       "album": {

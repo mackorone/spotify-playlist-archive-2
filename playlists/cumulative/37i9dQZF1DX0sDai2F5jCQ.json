@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Don Toliver",
+  "description": "Your shortcut to the best new Hip Hop. Cover: J. Cole",
   "name": "A1",
   "tracks": [
     {
@@ -158,7 +158,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 132765,
       "name": "2 Shots",
       "url": "https://open.spotify.com/track/6FyFlGgQe6gLMAJza9CGpF"
@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "Always Was",
+        "url": "https://open.spotify.com/album/4kLGsifJgXpx04RwfjQMZb"
+      },
+      "artists": [
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "Always Was",
+      "url": "https://open.spotify.com/track/7oeF9QZEmNiAtslGRYUNHd"
+    },
+    {
+      "album": {
         "name": "And We",
         "url": "https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W"
       },
@@ -1326,7 +1344,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 120784,
       "name": "Baddie Baddie",
       "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
@@ -1828,7 +1846,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 166532,
       "name": "Big Man Ting (feat. Stefflon Don & Egnever)",
       "url": "https://open.spotify.com/track/7ukzqIwvVUpwSeXMa0SJBk"
@@ -1872,6 +1890,32 @@
       "duration_ms": 126315,
       "name": "Billion Streams Freestyle",
       "url": "https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp"
+    },
+    {
+      "album": {
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155753,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
     },
     {
       "album": {
@@ -2279,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Slime Cry",
+        "url": "https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176294,
+      "name": "Bruce Wayne",
+      "url": "https://open.spotify.com/track/0Sy9PzIKNGbnoY3WWPBZAR"
+    },
+    {
+      "album": {
         "name": "Bubble Bath",
         "url": "https://open.spotify.com/album/4Jgkh361Fjh0ScarMZtASS"
       },
@@ -2294,6 +2356,32 @@
       "duration_ms": 131666,
       "name": "Bubble Bath",
       "url": "https://open.spotify.com/track/3bYJKHx28JSYDnCXbBXpY5"
+    },
+    {
+      "album": {
+        "name": "The Fall-Off",
+        "url": "https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310626,
+      "name": "Bunce Road Blues (with Future & Tems)",
+      "url": "https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR"
     },
     {
       "album": {
@@ -4074,7 +4162,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 238249,
       "name": "DUMBO",
       "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
@@ -5250,7 +5338,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 171000,
       "name": "FWU",
       "url": "https://open.spotify.com/track/1NpHJ96ljWvqdbjlyc9GtT"
@@ -5290,7 +5378,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 198609,
       "name": "Game Ain't Blind",
       "url": "https://open.spotify.com/track/0AxGcK88VGppBodGPk0Hyo"
@@ -6979,6 +7067,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN FREESTYLE",
+        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "ICEMAN FREESTYLE",
+      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
+    },
+    {
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -8002,7 +8108,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 202162,
       "name": "Let's Do It (feat. Playboi Carti & Skooly)",
       "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
@@ -8020,7 +8126,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 191053,
       "name": "LETTER TO MY YN",
       "url": "https://open.spotify.com/track/2BKojtQhgJSOoPVQgl8zgl"
@@ -11558,7 +11664,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 161095,
       "name": "Remontada (feat. Blanco)",
       "url": "https://open.spotify.com/track/362tD7hUEZ06izuWdVlRnP"
@@ -12526,7 +12632,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 292071,
       "name": "solo",
       "url": "https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY"
@@ -12906,7 +13012,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 133307,
       "name": "Stop Playing With Me",
       "url": "https://open.spotify.com/track/1IF3hx6HU46Pitm0dOdVJO"
@@ -12990,7 +13096,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
@@ -13994,7 +14100,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 138947,
       "name": "Tiramisu",
       "url": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
@@ -14236,6 +14342,24 @@
       "duration_ms": 194089,
       "name": "Toxic Trait",
       "url": "https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/34VAyoWVAe3jaucafhMCLa"
     },
     {
       "album": {
@@ -14498,7 +14622,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 128718,
       "name": "Two Lowkeyy",
       "url": "https://open.spotify.com/track/1AULDjBtD0cE7sHd1B0rFL"
@@ -14824,6 +14948,24 @@
       "duration_ms": 173440,
       "name": "Wake Up (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM"
+    },
+    {
+      "album": {
+        "name": "MADUMING TIMOG",
+        "url": "https://open.spotify.com/album/59iPWlAD2FMcmnPs5HLcOj"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204687,
+      "name": "WALANG HIYA",
+      "url": "https://open.spotify.com/track/1nBMosd9XZaJnpXTk5tHee"
     },
     {
       "album": {
@@ -15174,7 +15316,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 184440,
       "name": "wgft (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
@@ -15240,7 +15382,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 201306,
       "name": "WHAT'S HAPPENIN' (feat. Latto & Coupe)",
       "url": "https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz"
@@ -15364,7 +15506,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/1LVRE2ZRLNGdjCFmOa9kJa"

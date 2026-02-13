@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Más vivo que nunca, más nuestro que siempre 📸 No Te Va Gustar con Ciro & Los Persas
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,073 likes - 101 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,067 likes - 101 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 | 100 | [Semáforos](https://open.spotify.com/track/5PygqjBQXQEzmDVKzX9zLB) | [Terrores Nocturnos](https://open.spotify.com/artist/2Wy0l4828SAzHHGK6HEhw6), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Gente en la ventana](https://open.spotify.com/album/1n0QvQJB2suA5fO2fLkNTN) | 3:18 |
 | 101 | [Nos Pasa Lo Mismo](https://open.spotify.com/track/5gSDKJXKITtPcxnQJ8yNri) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Nos Pasa Lo Mismo](https://open.spotify.com/album/0S052giv0KheknU0PiEY5C) | 3:01 |
 
-Snapshot ID: `AAAAAKSnlucMSF08TmS277bt3LxjdCE+`
+Snapshot ID: `AAAAANBJHtxsYwPjkFN1sTSh6ltd29D7`

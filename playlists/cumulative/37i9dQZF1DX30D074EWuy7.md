@@ -4,7 +4,7 @@
 
 > La playlist del jazz italiano, passato e presente\. Cover: Calibro 35
 
-556 songs - 1 day 17 hr 33 min
+557 songs - 1 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Appuntamento al mare \- Remastered 2022](https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC) | [Riz Ortolani](https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG) | [Le ore nude \(Original Motion Picture Soundtrack / Remastered 2022\)](https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe) | 2:30 | 2024-03-28 |  |
 | [April In Parrish](https://open.spotify.com/track/1oTiRQQ0l7sNOJxNqDjFx0) | [Tommaso Cappellato](https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2), [Tony Martin](https://open.spotify.com/artist/5AHm2PdPYw9qsj1q1bhxj2), [Diego Gaeta](https://open.spotify.com/artist/5XFiZHkVQlRc9F1mFKoQuT) | [Explorare](https://open.spotify.com/album/2bISlKj86NDaG7oV1HBxFB) | 3:47 | 2024-03-28 | 2025-02-11 |
 | [Arcadia](https://open.spotify.com/track/5QWmbqon58o6kpTxQ01OiH) | [Phelan Burgoyne](https://open.spotify.com/artist/5SZUpJxXQhTlSAnLYQJx6O), [Emanuele Maniscalco](https://open.spotify.com/artist/5CHF5PlrmG7StHgJJQQybc) | [Divertimento](https://open.spotify.com/album/04JiqSrKjdTgMtxzNxlsVW) | 3:07 | 2023-09-17 | 2023-12-06 |
-| [Arise I](https://open.spotify.com/track/3UmcTDmRpuS2GuMeaFNNHH) | [Al Doum & The Faryds](https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5) | [Arise I](https://open.spotify.com/album/4MUmMs8ubQqlUkwuwwRmDV) | 3:16 | 2026-01-15 |  |
+| [Arise I](https://open.spotify.com/track/3UmcTDmRpuS2GuMeaFNNHH) | [Al Doum & The Faryds](https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5) | [Arise I](https://open.spotify.com/album/4MUmMs8ubQqlUkwuwwRmDV) | 3:16 | 2026-01-15 | 2026-02-13 |
 | [Aritmia](https://open.spotify.com/track/276WnVIGnv2dESsJ2Fakuw) | [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ), [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0) | [La Strada Invisibile](https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD) | 6:10 | 2023-01-30 | 2023-06-05 |
 | [Arpa e tamburo](https://open.spotify.com/track/1mu0gMpgqraGpXZh0wJf9f) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx) | [Arpa e tamburo](https://open.spotify.com/album/2IARHAh6n5Xfa5tHkbKVzu) | 3:58 | 2022-11-02 | 2022-11-29 |
 | [As praias desertas](https://open.spotify.com/track/738Da3DlBn2cBTg3L3xS5b) | [Daniele di Bonaventura](https://open.spotify.com/artist/2FfQ9VP66RZxG0lmiMAKT6), [Giovanni Ceccarelli](https://open.spotify.com/artist/2z9cZflQ6YSCzLx9E39HgG), [Camille Bertault](https://open.spotify.com/artist/7Dg9vuKpfUPSsWslQ4dm3n) | [Eu te amo \(The Music of Tom Jobim\)](https://open.spotify.com/album/6CSPFYEcaEzaC4OR2rQ6NE) | 4:44 | 2022-08-31 | 2022-10-01 |
@@ -378,6 +378,7 @@
 | [Norma: Casta diva \- Arr\. for Jazz Orchestra](https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x) | [Orchestra Jazz del Mediterraneo](https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Paolo Silvestri](https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO) | [Norma \(Arr\. for Jazz Orchestra\)](https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl) | 9:44 | 2024-03-28 |  |
 | [Normalmente](https://open.spotify.com/track/4wymTjjL8l8KOS70s7b6IX) | [Joe Barbieri](https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT) | [Maison Maravilha](https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj) | 5:10 | 2024-03-28 |  |
 | [Nothing To Lose](https://open.spotify.com/track/4dloclI8tlsFDjUTTSYuXY) | [Claudio Filippini](https://open.spotify.com/artist/26vqH4OquRRTf6lnRe4gbX), [Palle Danielsson](https://open.spotify.com/artist/7CyW7K2UrpjUNLVV698wvJ), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Facing North](https://open.spotify.com/album/7BG1DgkjLbJR5QQ2FBgswN) | 4:53 | 2022-08-31 | 2025-02-10 |
+| [notte brava](https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m) | [Dario Jacque](https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm) | [SANG](https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH) | 2:31 | 2026-02-05 |  |
 | [Notte di natale](https://open.spotify.com/track/2Fo3L82IGMVr27fgXTyo6g) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0) | [Ieri, oggi, domani \(Colonna sonora originale del film\)](https://open.spotify.com/album/6oBb7TeayuOCABidvvgtL7) | 1:37 | 2022-12-05 | 2023-02-01 |
 | [Notte di Natale](https://open.spotify.com/track/5uiR8HLCXEVfLP7ZLMUPKW) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Claudio Baglioni](https://open.spotify.com/album/2nOGASlmPgrVsMovbLqvQq) | 2:55 | 2022-12-05 | 2023-02-01 |
 | [Nuages](https://open.spotify.com/track/0B1leUvehVhbpqhG6svI85) | [Gabriele Mirabassi](https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE), [Dario Deidda](https://open.spotify.com/artist/0EMgsRy3q479f9pJAamUtM), [Fabio Zeppetella](https://open.spotify.com/artist/78mqfGBumNXzLs6ykpjXXo) | [Stones](https://open.spotify.com/album/5DbNG6ahMVqJ7VBGFPtICh) | 4:28 | 2022-08-31 | 2022-10-01 |

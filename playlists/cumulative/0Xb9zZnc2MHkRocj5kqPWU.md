@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0Xb9zZnc2MHkRocj5kqPWU.md) - cumulative - [plain](/playlists/plain/0Xb9zZnc2MHkRocj5kqPWU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/0Xb9zZnc2MHkRocj5kqPWU)
 
-### [Wellness](https://open.spotify.com/playlist/0Xb9zZnc2MHkRocj5kqPWU)
+### [Wellness \(2\)](https://open.spotify.com/playlist/0Xb9zZnc2MHkRocj5kqPWU)
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-150 songs - 8 hr 13 min
+151 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [June Is Bustin' Out All Over](https://open.spotify.com/track/35v2Do9CxST0n70iCTsCg9) | [Renée Fleming](https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8), ['Carousel' 2018 Broadway Cast](https://open.spotify.com/artist/44fYxkNmeiCghL4JfwfWJt) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 6:45 | 2024-07-26 |  |
 | [Kansas City](https://open.spotify.com/track/6gnfJ5EetG7MtU7Ra4Q9aM) | [Charlotte Greenwood](https://open.spotify.com/artist/1D67yo8KRNdrSM6GN7Ldev), [Gene Nelson](https://open.spotify.com/artist/76oAGFmD7Qs2MT3iqxiKN5), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 2:30 | 2024-07-26 |  |
 | [Lonely Room](https://open.spotify.com/track/5vtzs0BHkPsNSkVMtuOWm9) | [Patrick Vaill](https://open.spotify.com/artist/1cWKS6fpFeWUjlskPfZm1x) | [Oklahoma! \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP) | 2:56 | 2024-07-26 |  |
-| [Lover, Come Back To Me](https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:15 | 2024-07-26 |  |
+| [Lover, Come Back To Me](https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:15 | 2024-07-26 | 2026-02-13 |
+| [Lover, Come Back To Me](https://open.spotify.com/track/1CROrJx9hs1tXdd0H7RGcA) | [Billie Holiday](https://open.spotify.com/artist/3AlWwctV5pn3Wos12XSGub) | [Grandes del Jazz](https://open.spotify.com/album/5OptfFH9g91KXEh0T7n0zl) | 3:20 | 2026-02-12 |  |
 | [Many A New Day \- From "Oklahoma!" Soundtrack](https://open.spotify.com/track/37vZmkPWMYUnsFgykCqZsA) | [Shirley Jones](https://open.spotify.com/artist/5ho7ydLm2qjRD4oeva5Sok), [Darcy M\. Proper](https://open.spotify.com/artist/2LaIJDDpfnZ333bEuONwtJ) | [Oklahoma! \(Expanded Edition/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Wg4qjJy5oNbhJ2p5JC3P8) | 3:06 | 2024-07-26 |  |
 | [Maria](https://open.spotify.com/track/08uHhxF3b1tUi9mmUhKHZj) | [Evadne Baker](https://open.spotify.com/artist/3GtvxALXnbuxfxFIo26vC4), [Annalee](https://open.spotify.com/artist/4D7jbXC2Jdd9DXG5uZYCCr), [Portia Nelson](https://open.spotify.com/artist/4JdnsNbbYp5zo4xz5V38w9), [Marni Nixon](https://open.spotify.com/artist/2Npf96k0QoY8YYwqnELDmQ) | [The Sound Of Music \(Original Soundtrack Recording\)](https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R) | 3:19 | 2024-07-26 |  |
 | [Marianne](https://open.spotify.com/track/6A39Q26QakX06Dvm2ZFp9H) | [The New Moon 2004 Encores! Cast](https://open.spotify.com/artist/1srJvhTPmoCWA7GEJfS57B), [Rod Gilfry](https://open.spotify.com/artist/2TaPhgbWMrug5xZlMMOh6g), [Peter Benson](https://open.spotify.com/artist/7xaqgiIAALeK4AxEl5wsIR), [Christiane Noll](https://open.spotify.com/artist/2cIqRwRLQlceBErvh3CYcJ) | [The New Moon \(2004 Encores! Cast Recording\)](https://open.spotify.com/album/012P0Ti9u6DrVwhm0TNyuV) | 2:22 | 2024-07-26 |  |

@@ -14049,6 +14049,32 @@
     },
     {
       "album": {
+        "name": "FODE PRA KARALHO",
+        "url": "https://open.spotify.com/album/67p2bbPEwvrpk3X3bgyYHZ"
+      },
+      "artists": [
+        {
+          "name": "petrus.wav",
+          "url": "https://open.spotify.com/artist/0yvZFjUmr182h8ibQd1LrM"
+        },
+        {
+          "name": "DJ Rafinha Duarte",
+          "url": "https://open.spotify.com/artist/6FkdZL65sL243K1Wrfgzws"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "FODE PRA KARALHO",
+      "url": "https://open.spotify.com/track/38rXikWlOpWfwEz4tx1tep"
+    },
+    {
+      "album": {
         "name": "Counterfeit Arcade",
         "url": "https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux"
       },

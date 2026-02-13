@@ -2,9 +2,9 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Calvin Harris, Kasabian
+> The UK's biggest dance playlist! Cover: FISHER
 
-730 songs - 1 day 13 hr 58 min
+731 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-07 | 2022-04-29 |
 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 | 2023-02-17 | 2023-05-19 |
 | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/track/55Gic5of4nSRA78CCQLwSP) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [Dr Feel Right \(feat\. The Egyptian Lover & Rome Fortune\)](https://open.spotify.com/album/7h1UqQUGd3vtpPFZyg6tIH) | 2:26 | 2025-10-02 |  |
-| [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 | 2025-08-07 |  |
+| [Dream Night](https://open.spotify.com/track/2DewmibGFWxakcxvVyf2Tv) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dream Night](https://open.spotify.com/album/1sggIBo9jEoQFrX4ApjCD3) | 4:27 | 2025-08-07 | 2026-02-13 |
 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6oWmcKVK6atTCoWVYTdSg1) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5bDpP9ALCp0z2r0pPmIcbm) | 2:51 | 2025-02-21 | 2025-12-05 |
 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 | 2023-09-22 | 2024-06-15 |
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-08-25 | 2024-02-16 |
@@ -488,6 +488,7 @@
 | [OnlyL](https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl) | [OnlyL](https://open.spotify.com/album/0gwnvpScXK9zDPBxGfNQsG) | 3:47 | 2022-03-08 | 2022-03-10 |
 | [Oops](https://open.spotify.com/track/7fdGGQpQQxwDhgurhKDWVL) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Oops](https://open.spotify.com/album/7c019FtvgrH286V56ZX9jp) | 2:48 | 2023-01-27 | 2023-05-05 |
 | [Other Side of Love](https://open.spotify.com/track/1TXQh7R4ZaozkuFTRVZlYm) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Other Side of Love](https://open.spotify.com/album/6Qqp6dppcuLr0DTmKqDkPU) | 3:42 | 2022-07-21 | 2022-10-28 |
+| [Out of My Mind](https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Out of My Mind EP](https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa) | 3:24 | 2026-02-13 |  |
 | [Out Of Nowhere](https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [TeeDee](https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN) | [Out Of Nowhere](https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9) | 2:51 | 2022-11-18 | 2023-08-11 |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2021-11-03\* | 2024-03-09 |
 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 | 2024-06-01 |

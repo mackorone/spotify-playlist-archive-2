@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,139 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,221 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 7 | [Tropicana \(Morena Tropicana\)](https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [20 Grandes Sucessos De Alceu Valença](https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9) | 3:51 |
 | 8 | [Vem meu amor](https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 2:36 |
 | 9 | [Eu Quero É Botar Meu Bloco Na Rua](https://open.spotify.com/track/6yEBV6MlSODqJPXK6BilZo) | [Sérgio Sampaio](https://open.spotify.com/artist/0ttwBh6o5To3XujSD4x3uA) | [Eu Quero É Botar Meu Bloco Na Rua](https://open.spotify.com/album/221cRlERrYynaEGITG5LhE) | 4:40 |
-| 10 | [Margarida Perfumada \(Ao Vivo\)](https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Tribal Bahia](https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI) | 5:07 |
-| 11 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
+| 10 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
+| 11 | [Margarida Perfumada \(Ao Vivo\)](https://open.spotify.com/track/2XoeCdi8REPsSNmqeNXFQz) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Tribal Bahia](https://open.spotify.com/album/6VYGsl41yXhkEimis7ikqI) | 5:07 |
 | 12 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
 | 13 | [Raiz de Todo Bem \- Ao Vivo](https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Saulo Ao Vivo](https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk) | 3:25 |
 | 14 | [Deusa do amor \- Ao vivo](https://open.spotify.com/track/7c60MUlDMw6ZI1Ft4LxLBY) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 3:47 |
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 38 | [Chamego](https://open.spotify.com/track/6kReftEapjOZjVbFcqTIy2) | [Chiclete Com Banana](https://open.spotify.com/artist/1bhqpMFFgoa0NTz82BprgL) | [É Festa](https://open.spotify.com/album/3QUIw5JpCkGk4I7CoYo93N) | 3:40 |
 | 39 | [Atrás Do Trio Elétrico](https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 2:42 |
 | 40 | [Pedra De Responsa](https://open.spotify.com/track/6nNfJTbmDbFFEsc8yxBqxV) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Cuscuz Clã](https://open.spotify.com/album/5wPTwkTaWBJWnOGhhcPNAd) | 3:55 |
-| 41 | [Pegando Fogo](https://open.spotify.com/track/7DOeJ4e5iYaG53VBnKtwbR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 2:38 |
+| 41 | [Massa Real](https://open.spotify.com/track/6aiTiZ3CKpwVpusZpmjbLX) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Fantasia](https://open.spotify.com/album/7CnmrVFElrgMKUSuIvYqgE) | 2:46 |
 | 42 | [Zé Do Caroço](https://open.spotify.com/track/0zVtuNNT7kTeRhuq9DE1fb) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Raizes Do Samba](https://open.spotify.com/album/0VWK9vBkLWyAG0XlFQKPwF) | 3:26 |
 | 43 | [Nobre Vagabundo](https://open.spotify.com/track/2LUSX1OqewkHC3oCdxSZAF) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:53 |
 | 44 | [Noite Dos Mascarados \- Ao Vivo](https://open.spotify.com/track/3nPiFgKyT8C3D65DH1n4FT) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Chico Buarque & Maria Bethania](https://open.spotify.com/album/2ep81BixWok1HCvSfdmGNJ) | 2:11 |
-| 45 | [Portela Na Avenida](https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 3:45 |
-| 46 | [Massa Real](https://open.spotify.com/track/6aiTiZ3CKpwVpusZpmjbLX) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Fantasia](https://open.spotify.com/album/7CnmrVFElrgMKUSuIvYqgE) | 2:46 |
-| 47 | [Coisinha do Pai](https://open.spotify.com/track/1fgXabLYo7MiwLmnrNTk5B) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [O Carnaval de Beth Carvalho & Martinho Da Vila](https://open.spotify.com/album/4osoi2GFSTeHJQxnxWwOXf) | 2:53 |
+| 45 | [Coisinha do Pai](https://open.spotify.com/track/1fgXabLYo7MiwLmnrNTk5B) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [O Carnaval de Beth Carvalho & Martinho Da Vila](https://open.spotify.com/album/4osoi2GFSTeHJQxnxWwOXf) | 2:53 |
+| 46 | [Pegando Fogo](https://open.spotify.com/track/7DOeJ4e5iYaG53VBnKtwbR) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 2:38 |
+| 47 | [Portela Na Avenida](https://open.spotify.com/track/1zVuzDifwftaRGzj4AZCv2) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 3:45 |
 | 48 | [Quando o Carnaval Chegar](https://open.spotify.com/track/7KMIlBUmjF2UYlujrAjOur) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg), [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Quando o Carnaval Chegar](https://open.spotify.com/album/1eUwotxvak847jHpohSVig) | 2:32 |
 | 49 | [Taj Mahal](https://open.spotify.com/track/1aLapJuVyaunImwQiPxETz) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Jorge Ben Jor \- iCollection](https://open.spotify.com/album/3kqTi0mxbXfk9Bh3kx5fhk) | 4:56 |
 | 50 | [Pierrot Apaixonado / Ta Hi \(Pra Você Gostar de Mim\) / Quem Sabe Sabe / Aurora](https://open.spotify.com/track/5L5qxxSrbEo5qZFZPIvFBx) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Carnavalança](https://open.spotify.com/album/6vs0FIRgEMDjSgnrR38m8i) | 3:37 |

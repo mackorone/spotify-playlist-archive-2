@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 127803,
+  "num_followers": 127810,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADb7oFAfXhegICRmMhaXhh2",
+  "snapshot_id": "aYvGgAAAAAA1oJWBjJztBDCD18/Rfa1W",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 135253,
-      "name": "Just In Time - Remastered 1998",
-      "url": "https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv"
+      "duration_ms": 151533,
+      "name": "On An Evening In Roma (Sott'er Celo De Roma) - Remastered 1998",
+      "url": "https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Italian Love Songs",
-        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 151533,
-      "name": "On An Evening In Roma (Sott'er Celo De Roma) - Remastered 1998",
-      "url": "https://open.spotify.com/track/2pSSSjVhTbSxa5a9vbzWhK"
+      "duration_ms": 135253,
+      "name": "Just In Time - Remastered 1998",
+      "url": "https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Hit The Road To Dreamland",
+      "url": "https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dream with Dean",
         "url": "https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Hit The Road To Dreamland",
-      "url": "https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
         "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
       },
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Italian Love Songs",
-        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+        "name": "Cha Cha De Amor",
+        "url": "https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 146360,
-      "name": "Vieni Su (Say You Love Me, Too) - Remastered 1998",
-      "url": "https://open.spotify.com/track/0jH9nmgFuW8Ga7ewfYQgwX"
+      "duration_ms": 138106,
+      "name": "Cha Cha Cha d\u00b4Amour",
+      "url": "https://open.spotify.com/track/0GaVD2xG18kwPJpa8jfoeX"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cha Cha De Amor",
-        "url": "https://open.spotify.com/album/6mKemzOStdG7uywhz0RF7n"
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 138106,
-      "name": "Cha Cha Cha d\u00b4Amour",
-      "url": "https://open.spotify.com/track/0GaVD2xG18kwPJpa8jfoeX"
+      "duration_ms": 146360,
+      "name": "Vieni Su (Say You Love Me, Too) - Remastered 1998",
+      "url": "https://open.spotify.com/track/0jH9nmgFuW8Ga7ewfYQgwX"
     },
     {
       "added_at": null,

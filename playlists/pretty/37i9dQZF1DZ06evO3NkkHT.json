@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 76527,
+  "num_followers": 76589,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAxDiQ+OnIDCI2Jlns1jumk",
+  "snapshot_id": "aYvGgAAAAACe2GtxWiqmCGyUyaqqrRuw",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Holy Ground (feat. Jessie Murph)",
-      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
         "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 133124,
       "name": "Drink Don't Need No Mix (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Holy Ground (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
     },
     {
       "added_at": null,
@@ -243,26 +243,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter VI",
-        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+        "name": "I Hope You're Happy (Deluxe)",
+        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Jay Jones",
-          "url": "https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL"
         }
       ],
-      "duration_ms": 241335,
-      "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
-      "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
+      "duration_ms": 122266,
+      "name": "From The Bottom",
+      "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
     },
     {
       "added_at": null,
@@ -283,18 +275,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Deluxe)",
-        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
       },
       "artists": [
         {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jay Jones",
+          "url": "https://open.spotify.com/artist/2Oaq4UUJgqtQzPuuXTpiZL"
         }
       ],
-      "duration_ms": 122266,
-      "name": "From The Bottom",
-      "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
+      "duration_ms": 241335,
+      "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
+      "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Tried Everything But Therapy (Complete Edition)",
-        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 163314,
-      "name": "All Gas No Brakes (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Run It",
         "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 163626,
       "name": "Who Run It",
       "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I've Tried Everything But Therapy (Complete Edition)",
+        "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 163314,
+      "name": "All Gas No Brakes (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TAKE CARE",
+        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 108133,
+      "name": "Therapy Session",
+      "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boy",
         "url": "https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 132537,
       "name": "Boy",
       "url": "https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TAKE CARE",
-        "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 108133,
-      "name": "Therapy Session",
-      "url": "https://open.spotify.com/track/6jiSIF5SOpztZFYGeJvwZv"
     },
     {
       "added_at": null,

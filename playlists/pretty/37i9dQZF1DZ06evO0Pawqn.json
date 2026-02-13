@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10290,
+  "num_followers": 10291,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAC84cwd0CSjDfVZ51mKnf3L",
+  "snapshot_id": "aYvGgAAAAACrrK6uh88jByIC9AQSUOTn",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy A Pedirte Perd\u00f3n",
-        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
+        "name": "Invencibles",
+        "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
       },
       "artists": [
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 208480,
-      "name": "Vamos A Olvidarnos De Ella",
-      "url": "https://open.spotify.com/track/3epFeTILO3xEEfk7lSrsVe"
+      "duration_ms": 203373,
+      "name": "Que Se Junten Nuestros Brazos",
+      "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
     },
     {
       "added_at": null,
@@ -511,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invencibles",
-        "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
+        "name": "Voy A Pedirte Perd\u00f3n",
+        "url": "https://open.spotify.com/album/3aedPb0XrY7mikfdPjmCy6"
       },
       "artists": [
         {
           "name": "Los Tiranos Del Norte",
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Que Se Junten Nuestros Brazos",
-      "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
+      "duration_ms": 208480,
+      "name": "Vamos A Olvidarnos De Ella",
+      "url": "https://open.spotify.com/track/3epFeTILO3xEEfk7lSrsVe"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 169116,
-      "name": "En Tu Dia Mi Amor",
-      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
+      "duration_ms": 187663,
+      "name": "Cuando Sola Estes",
+      "url": "https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 187663,
-      "name": "Cuando Sola Estes",
-      "url": "https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv"
+      "duration_ms": 169116,
+      "name": "En Tu Dia Mi Amor",
+      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
     },
     {
       "added_at": null,

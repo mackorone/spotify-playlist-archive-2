@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > Your guide to R&B in Canada, with RAAHiiM from Brampton, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,928 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,025 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

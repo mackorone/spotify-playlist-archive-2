@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,259 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,344 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 40 | [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 |
 | 41 | [Times Like These](https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:29 |
 | 42 | [Hold on to Memories](https://open.spotify.com/track/7tDwiOA86rkQWR1E1TPpgD) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 5:03 |
-| 43 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 |
-| 44 | [All The Same](https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo) | [SICK PUPPIES](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Dressed Up As Life](https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC) | 4:18 |
+| 43 | [All The Same](https://open.spotify.com/track/3vIw7vxgUTPtppVwMfhcwo) | [SICK PUPPIES](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Dressed Up As Life](https://open.spotify.com/album/7zEvxcdeNWrFZCnWUnpDOC) | 4:18 |
+| 44 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 |
 | 45 | [Present Tense](https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:45 |
 | 46 | [Scars \- Acoustic Version](https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Scars](https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D) | 3:11 |
 | 47 | [Patience](https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Patience](https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo) | 4:13 |

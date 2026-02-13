@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,938 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,581 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 74 | [Dolor de Madre](https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:15 |
 | 75 | [Luna Misteriosa](https://open.spotify.com/track/2vcXBSX5oVbBm8V76aQkVL) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 5:59 |
 
-Snapshot ID: `AAAAAPybAlcHrCk/krCxrwU3XGuE5Py3`
+Snapshot ID: `AAAAACqYF+ixtVNbVk+voPld6DZHhCjs`

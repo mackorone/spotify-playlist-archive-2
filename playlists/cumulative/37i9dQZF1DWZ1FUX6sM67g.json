@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Carlos Vives",
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Elsa y Elmar ",
   "name": "Punto Tropical",
   "tracks": [
     {
@@ -2186,6 +2186,28 @@
       "duration_ms": 208604,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK"
+    },
+    {
+      "album": {
+        "name": "Elsa y Elmar (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287328,
+      "name": "Grecia - Spotify Sessions",
+      "url": "https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN"
     },
     {
       "album": {

@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 
 ### [Pura Salsa](https://open.spotify.com/playlist/37i9dQZF1DX1UHxedJfnRM)
 
-> Los temas más sabrosos del momento suenan aquí\. Foto: Gilberto Santa Rosa
+> Los temas más sabrosos del momento suenan aquí\. Foto: Elsa y Elmar
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,822 likes - 80 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,872 likes - 80 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
-| 2 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste](https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W) | 4:26 |
-| 3 | [Probablemente](https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP) | 5:00 |
-| 4 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 |
-| 5 | [El Mecánico](https://open.spotify.com/track/0a4YTcegjQPgpF2Xf0cCJK) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [El Mecánico](https://open.spotify.com/album/5aMyHMTri4C6hUMXk5RU6B) | 5:09 |
+| 1 | [Grecia \- Spotify Sessions](https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 4:47 |
+| 2 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
+| 3 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste](https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W) | 4:26 |
+| 4 | [Probablemente](https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP) | 5:00 |
+| 5 | [Eres Mi Sueño](https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v) | [Acarey Ya Llegó](https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3) | 5:00 |
 | 6 | [Por Ese Hombre](https://open.spotify.com/track/4lc937nnV8vRbIF7oJznNU) | [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK) | [Privilegio 2](https://open.spotify.com/album/1f4Sx32mc13J54vS8n1dIl) | 4:37 |
 | 7 | [Vacilando Rico Con Zaperoko](https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE) | [ZAPEROKO La Resistencia Salsera del Callao](https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif) | [Vacilando Rico Con Zaperoko](https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9) | 14:09 |
 | 8 | [Misterio](https://open.spotify.com/track/5ANnot1kusksXvuHlmwYYT) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mixteip](https://open.spotify.com/album/315R7c8EPwJiT11OS0t4Xk) | 3:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UHxedJfnRM.md) - [plain]
 | 79 | [Quiero Saber](https://open.spotify.com/track/6J9OXLfXFaf8QsUlvf7qx0) | [Bembe Orquesta](https://open.spotify.com/artist/6fsXrJHIeY3ukc4xVP23cP) | [Quiero Saber](https://open.spotify.com/album/2Qb6AD12DgSvnD8YHmG8Nv) | 4:07 |
 | 80 | [Ya No Me Llames Mas](https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM) | [Janco Janner](https://open.spotify.com/artist/35WCIgNwjL6uCOXb8MGWhn) | [Ya No Me Llames Mas](https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh) | 4:13 |
 
-Snapshot ID: `AAAAANRc6SclMiV1I+re9ghwA6jZohI/`
+Snapshot ID: `AAAAAPbj/D5xWyP1eu8PDPK1Qzq+Hg3l`

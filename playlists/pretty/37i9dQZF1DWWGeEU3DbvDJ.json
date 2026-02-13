@@ -1,6 +1,6 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85792,
+  "num_followers": 85795,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 186090,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/6m94NnMDxM5KM5Ut5vgfhR"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "NASHVILLE, TENNESSEE",
         "url": "https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 206146,
       "name": "Hangin\u2019 On (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 186090,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/6m94NnMDxM5KM5Ut5vgfhR"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 198748,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 198748,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY"
     },
     {
       "added_at": "2024-11-25 16:13:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Carla Franco and Sophia Frank
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,778 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,784 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 39 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
 | 40 | [Sonde](https://open.spotify.com/track/69kCUHXelaILbuKw8MbWcn) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Pretoria](https://open.spotify.com/album/6tUxIx5RMSyZhZjKBMWr66) | 4:12 |
 | 41 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
-| 42 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
-| 43 | [SKREE](https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SKREE](https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF) | 2:58 |
+| 42 | [SKREE](https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SKREE](https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF) | 2:58 |
+| 43 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
 | 44 | [Fire Sign](https://open.spotify.com/track/4jVcAoaUgre6U4Gf0KX4Uw) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Pink Hell \(Deluxe\)](https://open.spotify.com/album/6Qt5oL1K6Rbegs1Cy8Wmu5) | 3:05 |
-| 45 | [Foxglove](https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:29 |
-| 46 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
-| 47 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
+| 45 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
+| 46 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
+| 47 | [Foxglove](https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:29 |
 | 48 | [Victor Ludorum](https://open.spotify.com/track/76wCPsBOE0rxu5llJwOOMq) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Victor Ludorum](https://open.spotify.com/album/53bANzS97yzookNh9mNnm3) | 3:09 |
-| 49 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
-| 50 | [Kaya](https://open.spotify.com/track/3AuTu5VGS5AqbIbMJJjf38) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [TV TYD](https://open.spotify.com/album/45FgzSHsqjuC02qD71Ar6a) | 3:24 |
+| 49 | [Kaya](https://open.spotify.com/track/3AuTu5VGS5AqbIbMJJjf38) | [Henru](https://open.spotify.com/artist/5DnO62BUKruSHizebx8Vhk) | [TV TYD](https://open.spotify.com/album/45FgzSHsqjuC02qD71Ar6a) | 3:24 |
+| 50 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
 
 Snapshot ID: `AAAAAMuI5cica8NWtZECQkMxQ+MRi/yH`

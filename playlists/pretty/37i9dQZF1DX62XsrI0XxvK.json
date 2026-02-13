@@ -1,13 +1,89 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Canti",
-  "num_followers": 13869,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Dzulfahmi",
+  "num_followers": 13873,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIlbzXN+eTsFppQ8Dq0Wc0J5qEK+",
+  "snapshot_id": "AAAAAE8fbs7zsSbDxOB+ffe7zj3kZTgY",
   "tracks": [
+    {
+      "added_at": "2026-02-12 19:00:27",
+      "album": {
+        "name": "Lika & Liku",
+        "url": "https://open.spotify.com/album/7lOptYZ3jVvZ0mELGJJQ6v"
+      },
+      "artists": [
+        {
+          "name": "Dzulfahmi",
+          "url": "https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio"
+        },
+        {
+          "name": "Jebung",
+          "url": "https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Lika & Liku",
+      "url": "https://open.spotify.com/track/7bsAM9K5gI0eTqYOqVg0tq"
+    },
+    {
+      "added_at": "2026-02-12 19:00:27",
+      "album": {
+        "name": "FALL AGAIN",
+        "url": "https://open.spotify.com/album/5DLrerqf7OKlJskTZOAlYn"
+      },
+      "artists": [
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        }
+      ],
+      "duration_ms": 188745,
+      "name": "FALL AGAIN",
+      "url": "https://open.spotify.com/track/303TW5JcL5wE8nPhyb0XRV"
+    },
+    {
+      "added_at": "2026-02-12 19:00:27",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/1rabDiwDQqHHdtLpXVGCWI"
+      },
+      "artists": [
+        {
+          "name": "Wondrah",
+          "url": "https://open.spotify.com/artist/0l3fkpslJAMPZDPgT9KwDa"
+        },
+        {
+          "name": "Valentine",
+          "url": "https://open.spotify.com/artist/0b7yUYbKbidPYkoLNAN56k"
+        },
+        {
+          "name": "Reynard Silva",
+          "url": "https://open.spotify.com/artist/4Nxf1eWIJmgCAE7vgLrTfk"
+        }
+      ],
+      "duration_ms": 194389,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/3CVW3DouFC7yxwRsRPYVSw"
+    },
+    {
+      "added_at": "2026-02-12 19:00:27",
+      "album": {
+        "name": "Lancang",
+        "url": "https://open.spotify.com/album/2GvJs4N1g9Spr2zEpzVI23"
+      },
+      "artists": [
+        {
+          "name": "Andity",
+          "url": "https://open.spotify.com/artist/66P3FEL28QNJw9ylq00wRa"
+        }
+      ],
+      "duration_ms": 219115,
+      "name": "Lancang",
+      "url": "https://open.spotify.com/track/4EOEKMXnS6XW3ArVKIAvTe"
+    },
     {
       "added_at": "2026-01-22 18:00:10",
       "album": {
@@ -39,6 +115,22 @@
       "duration_ms": 178400,
       "name": "20 Weeks",
       "url": "https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr"
+    },
+    {
+      "added_at": "2026-02-12 19:00:27",
+      "album": {
+        "name": "Blueberry Pie",
+        "url": "https://open.spotify.com/album/364RXnlRcgtFki0T4FQEwI"
+      },
+      "artists": [
+        {
+          "name": "Thaviella",
+          "url": "https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Blueberry Pie",
+      "url": "https://open.spotify.com/track/3hzrqBqKYzH0DDcKQD2jzy"
     },
     {
       "added_at": "2026-02-05 19:00:06",
@@ -585,22 +677,6 @@
       "url": "https://open.spotify.com/track/1iLAa3zLXL64rHdqKHsWDo"
     },
     {
-      "added_at": "2025-11-13 17:30:27",
-      "album": {
-        "name": "Good Fellas",
-        "url": "https://open.spotify.com/album/3x0oNPgMi1nHkpKhJozTzr"
-      },
-      "artists": [
-        {
-          "name": "Zhizaa",
-          "url": "https://open.spotify.com/artist/1kjUmnL4PHjLmfVg9G4PyZ"
-        }
-      ],
-      "duration_ms": 278270,
-      "name": "Good Fellas",
-      "url": "https://open.spotify.com/track/2FmT90UyNwTNSWMHFzWBYq"
-    },
-    {
       "added_at": "2025-10-16 17:00:27",
       "album": {
         "name": "Forevermore",
@@ -773,30 +849,6 @@
       "url": "https://open.spotify.com/track/3uj8DR1LlANaJe0CixYzGc"
     },
     {
-      "added_at": "2025-10-16 17:00:27",
-      "album": {
-        "name": "HEARTBEAT",
-        "url": "https://open.spotify.com/album/3smNQChsiJorDMkJ9QDK4Q"
-      },
-      "artists": [
-        {
-          "name": "Y.A.W",
-          "url": "https://open.spotify.com/artist/56TdM0MqdC3okSgo6KPk96"
-        },
-        {
-          "name": "Febe Kiki",
-          "url": "https://open.spotify.com/artist/5tDn17VyLQh17MSVcOE6rf"
-        },
-        {
-          "name": "Widjoyono",
-          "url": "https://open.spotify.com/artist/4Sukcs9lbxwyYySC17O5x1"
-        }
-      ],
-      "duration_ms": 271764,
-      "name": "HEARTBEAT",
-      "url": "https://open.spotify.com/track/5StSU7EGlDLQnadRAJvCQN"
-    },
-    {
       "added_at": "2025-09-25 17:05:13",
       "album": {
         "name": "Untukmu",
@@ -815,22 +867,6 @@
       "duration_ms": 239984,
       "name": "Untukmu",
       "url": "https://open.spotify.com/track/4coSx2yoUpzrADZ42ThwxH"
-    },
-    {
-      "added_at": "2025-10-09 17:00:23",
-      "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/7jiLRF1NvlGC2Acr3d7okL"
-      },
-      "artists": [
-        {
-          "name": "The Skuy",
-          "url": "https://open.spotify.com/artist/2SunSofBVWqLykk0g7aQ1z"
-        }
-      ],
-      "duration_ms": 241480,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/5igPUqZAso9bMHVCpS5USI"
     },
     {
       "added_at": "2025-10-09 17:00:23",
@@ -947,22 +983,6 @@
       "duration_ms": 231893,
       "name": "Lagi Lagi Lagi",
       "url": "https://open.spotify.com/track/7Fzz5hweenr8sAJFiyckVI"
-    },
-    {
-      "added_at": "2025-08-28 20:00:28",
-      "album": {
-        "name": "Tak Secinta Itu",
-        "url": "https://open.spotify.com/album/6l4mo22pd6Mxxq2rViRGOQ"
-      },
-      "artists": [
-        {
-          "name": "Gery Gany",
-          "url": "https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e"
-        }
-      ],
-      "duration_ms": 241397,
-      "name": "Tak Secinta Itu",
-      "url": "https://open.spotify.com/track/4PR85M8Le8SBr4fU7CCadz"
     },
     {
       "added_at": "2025-08-21 19:00:33",
@@ -1147,22 +1167,6 @@
       "duration_ms": 204000,
       "name": "Sour Candy",
       "url": "https://open.spotify.com/track/4EnQxvppOihfeLqRQGgnDQ"
-    },
-    {
-      "added_at": "2025-07-03 19:00:29",
-      "album": {
-        "name": "Bachelor of Romance",
-        "url": "https://open.spotify.com/album/7vPFcG0IZ4tMKdB3lHQpCJ"
-      },
-      "artists": [
-        {
-          "name": "Mark Natama",
-          "url": "https://open.spotify.com/artist/6M3LQdDjNTANaCzV7wGqMi"
-        }
-      ],
-      "duration_ms": 230347,
-      "name": "lupa",
-      "url": "https://open.spotify.com/track/7B2T9lm0FeFnWRzUK20On9"
     },
     {
       "added_at": "2025-07-10 19:00:29",

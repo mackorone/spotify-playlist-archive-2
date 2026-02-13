@@ -889,6 +889,32 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2PErZB2USDV1fbqww2mJKJ"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172577,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4Yza7I7ds4vF1m1hi3Qg56"
+    },
+    {
+      "album": {
         "name": "Focus On Me (All The Sexy Girls In The Club)",
         "url": "https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N"
       },
@@ -1540,7 +1566,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 187351,
       "name": "Love",
       "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
@@ -1795,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "My B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/6cfApR6fX0ptSf8UjikmAn"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143288,
+      "name": "My B\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/1M4hppqYK76xSSI7qdNCkr"
+    },
+    {
+      "album": {
         "name": "My Darling",
         "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
       },
@@ -1888,7 +1932,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"

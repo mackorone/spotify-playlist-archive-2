@@ -1,6 +1,6 @@
 {
   "description": "quem entende o gosto das gostosa - n\u00edvel danzo e redicopa???",
-  "num_followers": 1412573,
+  "num_followers": 1412521,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2026-02-06 03:01:18",
       "album": {
+        "name": "AMAPIANO / FAZ-ME RIR (STUDIO#5)",
+        "url": "https://open.spotify.com/album/4x6mkukbghzHj652zlp8UY"
+      },
+      "artists": [
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "AMAPIANO",
+      "url": "https://open.spotify.com/track/4K07hWZWYWVGmlJKZAIYiT"
+    },
+    {
+      "added_at": "2026-02-06 03:01:18",
+      "album": {
         "name": "\u00c1rea de Risco",
         "url": "https://open.spotify.com/album/1GmwM4nchLSfQeXgGdyR9b"
       },
@@ -1459,30 +1479,6 @@
       "duration_ms": 158965,
       "name": "\u00c1rea de Risco",
       "url": "https://open.spotify.com/track/2sQALYsMKzAQkx1JWDkokz"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "Atemporal",
-        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
-      },
-      "artists": [
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "yollirum",
-          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
-        },
-        {
-          "name": "Zairon",
-          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
-        }
-      ],
-      "duration_ms": 133064,
-      "name": "Atemporal",
-      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
     },
     {
       "added_at": "2026-02-06 03:01:18",
@@ -1559,28 +1555,8 @@
     {
       "added_at": "2026-02-06 03:01:18",
       "album": {
-        "name": "Muleke Ruim X Ela Sarra",
-        "url": "https://open.spotify.com/album/1Kqe3awDWIu1b6CmpkBB4Q"
-      },
-      "artists": [
-        {
-          "name": "Zilio",
-          "url": "https://open.spotify.com/artist/0nrIgMMjyv2UyX7nnjjK5E"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 128260,
-      "name": "Muleke Ruim X Ela Sarra",
-      "url": "https://open.spotify.com/track/2g03pYpsxDw4owr6RpW5H4"
-    },
-    {
-      "added_at": "2026-02-06 03:01:18",
-      "album": {
-        "name": "AMAPIANO / FAZ-ME RIR (STUDIO#5)",
-        "url": "https://open.spotify.com/album/4x6mkukbghzHj652zlp8UY"
+        "name": "Atemporal",
+        "url": "https://open.spotify.com/album/4jVbhRMai46SmT4c9a33VD"
       },
       "artists": [
         {
@@ -1588,13 +1564,17 @@
           "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
         },
         {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+          "name": "yollirum",
+          "url": "https://open.spotify.com/artist/0F2vZlpAdReNx0BnLQslPq"
+        },
+        {
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
         }
       ],
-      "duration_ms": 140487,
-      "name": "AMAPIANO",
-      "url": "https://open.spotify.com/track/4K07hWZWYWVGmlJKZAIYiT"
+      "duration_ms": 133064,
+      "name": "Atemporal",
+      "url": "https://open.spotify.com/track/38AHdqDWceFNMeSuU0TxiE"
     },
     {
       "added_at": "2026-02-06 03:01:18",
@@ -1619,6 +1599,26 @@
       "duration_ms": 141627,
       "name": "Quase n\u00e3o d\u00e1 tempo de tirar",
       "url": "https://open.spotify.com/track/1TxNLfv5UQ5XtgdYRhymLc"
+    },
+    {
+      "added_at": "2026-02-06 03:01:18",
+      "album": {
+        "name": "Muleke Ruim X Ela Sarra",
+        "url": "https://open.spotify.com/album/1Kqe3awDWIu1b6CmpkBB4Q"
+      },
+      "artists": [
+        {
+          "name": "Zilio",
+          "url": "https://open.spotify.com/artist/0nrIgMMjyv2UyX7nnjjK5E"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 128260,
+      "name": "Muleke Ruim X Ela Sarra",
+      "url": "https://open.spotify.com/track/2g03pYpsxDw4owr6RpW5H4"
     }
   ],
   "unique_name": "creme",

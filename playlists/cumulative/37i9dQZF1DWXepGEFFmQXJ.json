@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Lane Pittman",
+  "description": "The cream of today's country crop. Cover: Koe Wetzel",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -1594,6 +1594,24 @@
       "duration_ms": 193534,
       "name": "Bartender In Destin - Acoustic",
       "url": "https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ"
+    },
+    {
+      "album": {
+        "name": "Be By You",
+        "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197655,
+      "name": "Be By You",
+      "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
     },
     {
       "album": {
@@ -6594,7 +6612,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 213897,
       "name": "Giving Her Away",
       "url": "https://open.spotify.com/track/4RFHH3exrleUOwgyLbEFvJ"
@@ -9052,7 +9070,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 130093,
       "name": "I Sit In Parks",
       "url": "https://open.spotify.com/track/35OvmPX96d7f1ElQMl8Pq2"
@@ -9306,6 +9324,24 @@
       "duration_ms": 185098,
       "name": "If Every Road Was a Backroad",
       "url": "https://open.spotify.com/track/0Ld1BI9wstpTjOjVLiuXU5"
+    },
+    {
+      "album": {
+        "name": "If I Didn't Know You",
+        "url": "https://open.spotify.com/album/1sNV3qzZJDjB9Hc7K5BsFp"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208167,
+      "name": "If I Didn't Know You",
+      "url": "https://open.spotify.com/track/6naFuQGWFBHThc3fppOjbT"
     },
     {
       "album": {
@@ -18119,6 +18155,24 @@
     },
     {
       "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
+    },
+    {
+      "album": {
         "name": "Those Kind Of Women",
         "url": "https://open.spotify.com/album/4YJcPufQPQIeRaVO59Fmj7"
       },
@@ -18848,7 +18902,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 159356,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/5m3lptQnLIvBiw4188J1Tu"

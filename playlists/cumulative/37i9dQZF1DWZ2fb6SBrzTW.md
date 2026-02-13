@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-525 songs - 1 day 2 hr 25 min
+526 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Apollo](https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Outlaw](https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w) | 2:50 | 2022-03-11 | 2024-04-19 |
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-03-11 | 2022-12-18 |
 | [Apotheke](https://open.spotify.com/track/4rijFxOY3GvhHopiWwHX71) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 4:34 | 2023-04-27 | 2023-11-03 |
-| [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 | 2023-04-28 |  |
+| [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 | 2023-04-28 | 2026-02-13 |
 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-10 | 2024-04-22 |
 | [As I Wake Up](https://open.spotify.com/track/2j6L2Mqm0HWLQWuw5Vythm) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [As I Wake Up](https://open.spotify.com/album/5T8xA88j50McKpbcK7RRP3) | 3:27 | 2023-08-03 | 2023-08-08 |
 | [Aso](https://open.spotify.com/track/5wHk6dHg0L0wf969TA1p9b) | [Skrilla Ghad](https://open.spotify.com/artist/0WkzfB1NFXWyYF2rDbtJ93) | [Aso](https://open.spotify.com/album/2lnTdMbJf9eNCzFrPL2web) | 1:46 | 2022-06-16 | 2022-07-25 |
@@ -475,6 +475,7 @@
 | [TOP MAMA](https://open.spotify.com/track/5PRGmpPJzsrOXijZdXalVK) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [TOP MAMA](https://open.spotify.com/album/4F5E31UIFV8bhpC6cLNvUl) | 3:28 | 2022-10-13 | 2022-12-03 |
 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 | 2023-04-27 | 2023-05-05 |
 | [Tossmitoss](https://open.spotify.com/track/5d5GWx48aGuO0A1ZYJPAr7) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [No Bad Boy, No Party](https://open.spotify.com/album/3haflscpuVSkTXo1yw3ghT) | 2:30 | 2023-06-02 | 2023-06-17 |
+| [TRU$T FUND](https://open.spotify.com/track/7fUD6s55nUdOWo4l7IzoFR) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Yosa](https://open.spotify.com/artist/4uOFhVdn1lnzqIe0H6MlVE), [Big Fish](https://open.spotify.com/artist/0KFRHkm4VoT1gpAjSUdzQa) | [TRU$T FUND](https://open.spotify.com/album/2IjvgyB9qg2znW2mX1JdNJ) | 3:07 | 2026-02-13 |  |
 | [Trump](https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv) | [Trump](https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS) | 2:40 | 2025-09-05 |  |
 | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2) | 3:23 | 2024-05-17 | 2025-08-26 |
 | [Tupac](https://open.spotify.com/track/2WA0ROd9Vxjb83hTFah5CK) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Tupac](https://open.spotify.com/album/1uLVlQFylIj6Fl2zi6r4Hs) | 3:34 | 2023-12-01 | 2023-12-08 |

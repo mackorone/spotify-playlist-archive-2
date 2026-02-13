@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "The hottest tracks with the freshest hits! Cover: PinkPantheress, Zara Larsson",
+  "description": "The hottest tracks with the freshest hits! Cover: sombr",
   "name": "Hot Hits Australia",
   "tracks": [
     {
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 147209,
       "name": "Blue Strips",
       "url": "https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y"
@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 176242,
       "name": "clich\u00e9",
       "url": "https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu"
@@ -2390,6 +2390,24 @@
       "duration_ms": 208253,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
       "album": {
@@ -4712,7 +4730,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 192640,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/7FHZxXpcJywdjbDEG51ACg"
@@ -5930,6 +5948,24 @@
       "duration_ms": 206870,
       "name": "Rage Against The Fatigue",
       "url": "https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/2RtKnWQ5EI32NJxfmjTor6"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1zB4PS1IM9J1bisacyxAUZ"
     },
     {
       "album": {
@@ -8062,6 +8098,24 @@
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
+    },
+    {
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "album": {

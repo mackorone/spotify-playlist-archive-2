@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,586 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,664 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 2 | [After The Rain](https://open.spotify.com/track/5VLNiOFRm9ZtMojrjS5faz) | [Edgar Finnegan](https://open.spotify.com/artist/15iw6gErDKXlPsa961xmHK) | [After The Rain](https://open.spotify.com/album/5IJekJTt2i6tL1BQDO3odQ) | 2:47 |
 | 3 | [In A Sentimental Mood](https://open.spotify.com/track/5TYsSSP6PIVJgFY91Pr8ZA) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [In A Sentimental Mood](https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y) | 2:42 |
 | 4 | [Etude](https://open.spotify.com/track/4qIluUXW2uoi0tafnAtQUb) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 2:27 |
-| 5 | [Backstage](https://open.spotify.com/track/5fkhwXNw3xWy7IrGDhBDB6) | [Daniel Monza](https://open.spotify.com/artist/4cM9QbsCEUCRRm7RocSczP) | [Backstage](https://open.spotify.com/album/6FIJRZtL0Sca4b93q4RJXv) | 2:27 |
+| 5 | [](https://open.spotify.com/track/5fkhwXNw3xWy7IrGDhBDB6) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6FIJRZtL0Sca4b93q4RJXv) | 0:00 |
 | 6 | [Haley's Comet](https://open.spotify.com/track/6l5ugDTNaJpzROfC1OLEIJ) | [Lukas Auer](https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu) | [Haley's Comet](https://open.spotify.com/album/6wVjnR2KDv2pzNKN3g7HTe) | 2:40 |
 | 7 | [Embrace](https://open.spotify.com/track/1gfNQ4y447h6OM7yIJWOd3) | [Serenity State of Mind](https://open.spotify.com/artist/4fyOziQW8idDGt8352pAEZ) | [Embrace](https://open.spotify.com/album/0gRl4YwIyEXtG8wo40Fm7G) | 2:30 |
 | 8 | [Down by the riverside](https://open.spotify.com/track/52jLngTSe3hZaI7Trl4DXX) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Down by the riverside](https://open.spotify.com/album/2gyTnIkpU9KKalqSP9PLz8) | 2:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 74 | [Bali](https://open.spotify.com/track/0gIQviarG5RlZbvCxfpHKL) | [Isato Nakagawa](https://open.spotify.com/artist/7H7kbnGiqnG8GYDtDALthl) | [Tree Circle](https://open.spotify.com/album/6scj26E3tVRTzcBkkx5qRB) | 5:48 |
 | 75 | [Floating Upstreams](https://open.spotify.com/track/5vhAoUrsxJZfiHQK8Tpx1y) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Autumn Skies](https://open.spotify.com/album/1kgfE8meNls51OZ8Tmv602) | 2:51 |
 
-Snapshot ID: `AAAAAJEL9v2bzHPx1YPj1v87YLI0JfKu`
+Snapshot ID: `AAAAAOCwtMyd8JnVD9YPXTBeM6iOGvUi`

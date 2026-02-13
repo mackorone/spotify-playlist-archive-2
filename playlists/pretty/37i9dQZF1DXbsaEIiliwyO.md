@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: UNISON SQUARE GARDEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,343 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,346 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 33 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 |
 | 34 | [廻廻奇譚](https://open.spotify.com/track/5MVjxslIF7mVtYo75Nk445) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [廻廻奇譚 / 蒼のワルツ](https://open.spotify.com/album/5AXzkXGoyKh4KU8paELFVu) | 3:41 |
 | 35 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 |
-| 36 | [Red Swan](https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX) | [YOSHIKI](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [Red Swan](https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL) | 4:23 |
-| 37 | [茜](https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [茜](https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL) | 3:45 |
+| 36 | [茜](https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [茜](https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL) | 3:45 |
+| 37 | [Red Swan](https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX) | [YOSHIKI](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [Red Swan](https://open.spotify.com/album/6I13Z2eInmybf3WZl4wduL) | 4:23 |
 | 38 | [FLASHBACK SYNDROME](https://open.spotify.com/track/0Vy313Gy9c3HdDwlQrrqqx) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [FLASHBACK SYNDROME](https://open.spotify.com/album/3EqjUi6XXqIXcsuIlpL7Mv) | 3:37 |
-| 39 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 |
-| 40 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
+| 39 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
+| 40 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 |
 | 41 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 |
 | 42 | [冬のはなし](https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [gift](https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr) | 3:28 |
 | 43 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 |

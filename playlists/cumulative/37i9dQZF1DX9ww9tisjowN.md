@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: ZUTOMAYO ずっと真夜中でいいのに。
 
-1,054 songs - 2 day 12 hr 24 min
+1,056 songs - 2 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Let It Go As If You Wander](https://open.spotify.com/track/3Dca6b2xmfjnesM2FVhY1k) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [89.7 Growl FM](https://open.spotify.com/album/2Cs6jLDR3NsHuzrRWRu7Gy) | 2:42 | 2023-09-20 | 2023-09-29 |
 | [Let me battle](https://open.spotify.com/track/0DQuB9Yygeh2yvQ03B8hUX) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [Let me battle](https://open.spotify.com/album/29UcJWKi5DuqL4bxBfhpCz) | 3:00 | 2024-04-18 | 2024-04-26 |
 | [LET'S JUST CRASH](https://open.spotify.com/track/759ghsR0JU5ykaiCDbB6li) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [LET'S JUST CRASH](https://open.spotify.com/album/0WWJ7uJzQaaPjFaDXBKKUD) | 3:15 | 2025-11-06 | 2026-02-06 |
+| [LET'S JUST CRASH](https://open.spotify.com/track/3sE2VokkeH68napilCny6J) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [DISASTERPIECE](https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk) | 3:16 | 2026-02-12 |  |
 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 | 2023-05-09 | 2023-06-09 |
 | [Little Bouquet](https://open.spotify.com/track/29Sb3j5voU0UKCeSO4Vami) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Little Bouquet](https://open.spotify.com/album/46ReMNAksbtI2HIfe0SDPm) | 4:11 | 2025-11-06 | 2025-11-28 |
 | [LIVE IT UP! \(feat\. Furui Riho\)](https://open.spotify.com/track/2UzNrRpOVm83g8CHCXY64P) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [LIVE IT UP! \(feat\. Furui Riho\)](https://open.spotify.com/album/7EhenG8cXC6o2jHnAUHemC) | 3:45 | 2025-04-24 | 2025-07-18 |
@@ -509,7 +510,7 @@
 | [SUPER PALE HORSE](https://open.spotify.com/track/3I48EGIIUz6xDE87NoYI5y) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PALEHELL](https://open.spotify.com/album/4RJm4nESvtZRn9MV3sOs9V) | 3:11 | 2024-02-20 | 2024-03-29 |
 | [SUPER PALE HORSE feat\. CVLTE](https://open.spotify.com/track/4Gg0ukD0TBFWNA1tOLnWo2) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PALEHELL](https://open.spotify.com/album/061Fln1SY6RputuFt6GP5N) | 3:11 | 2024-02-20 | 2024-02-22 |
 | [SUPERNOVA](https://open.spotify.com/track/6rYWQKiaIJ5UatZEgv5OmM) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [SUPERNOVA](https://open.spotify.com/album/11OlKLbFRb0CndndaqmRrO) | 3:27 | 2025-07-17 | 2025-08-22 |
-| [SWEET MAGIC](https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [SWEET MAGIC](https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX) | 3:13 | 2026-02-05 |  |
+| [SWEET MAGIC](https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [SWEET MAGIC](https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX) | 3:13 | 2026-02-05 | 2026-02-13 |
 | [SWISH DAT](https://open.spotify.com/track/6Y8Wcj1NS3dy3tk7NTyhvB) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb) | [SWISH DAT](https://open.spotify.com/album/3C9UtowLQZlhdJ6Ir99XS0) | 3:10 | 2025-10-23 | 2025-11-07 |
 | [Synchrome](https://open.spotify.com/track/6lo3Acm236fCFGiisraVdU) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [Whose Blue](https://open.spotify.com/album/3aNJMoH6q7vj0mMj3uVAdt) | 3:43 | 2025-05-02 | 2025-07-04 |
 | [TAIDADA](https://open.spotify.com/track/4cPwi7lcWxRQNEb4xC77fC) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [TAIDADA](https://open.spotify.com/album/5z6M8BvLoHYhVbZZOdLbn6) | 3:46 | 2024-10-03 | 2025-01-24 |
@@ -636,10 +637,11 @@
 | [すないぱー。](https://open.spotify.com/track/0taluMnYokviw9ujgOslXV) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [すないぱー。](https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp) | 3:25 | 2025-01-16 | 2025-02-07 |
 | [ずぎゅんぎゅんゆらり](https://open.spotify.com/track/7imHT2drWF3A1rnEh1hwjy) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [ずぎゅんぎゅんゆらり](https://open.spotify.com/album/07ak0gzMu1dVuyyfsGlB65) | 2:47 | 2023-05-30 | 2023-07-19 |
 | [ずっとラブソング](https://open.spotify.com/track/7slVPAiTi7H25Oxburz5Ky) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ずっとラブソング](https://open.spotify.com/album/6Nvzx5sB6BLuc9rrThucvq) | 3:32 | 2025-09-04 | 2025-10-10 |
+| [ずぶ濡れ魔法少女 阿比留ミズキ](https://open.spotify.com/track/5FUj8czH3mfrdTi6a4hNKY) | [Aiobahn +81](https://open.spotify.com/artist/3Uyka21MjsQuDzxoOFgizr), [Haruko Momoi](https://open.spotify.com/artist/2QEql0795irlepNvWlZUb9), [SAWTOWNE](https://open.spotify.com/artist/7FrCrchJaoLmKcn3jcGWoX) | [eau de parfum ～extended play～](https://open.spotify.com/album/6nqmShfRubaoJtLwSFw4h8) | 3:40 | 2026-02-12 |  |
 | [そこに在る、光。](https://open.spotify.com/track/50viqPbAvhYq8cednKv1a9) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [そこに在る、光。](https://open.spotify.com/album/7uo85jq6onSaMtXUuzm62E) | 3:14 | 2025-07-17 | 2025-09-16 |
 | [それしか言えない](https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [それしか言えない](https://open.spotify.com/album/479WTy9v0d0wWC960eTawU) | 4:24 | 2025-09-11 | 2025-10-03 |
 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 | 2023-11-16 | 2024-03-22 |
-| [ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ただ声一つ](https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t) | 2:41 | 2025-05-01 |  |
+| [ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ただ声一つ](https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t) | 2:41 | 2025-05-01 | 2026-02-13 |
 | [たまものまえ](https://open.spotify.com/track/20YYgPrAUUbunLW1db5Uws) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [たまものまえ](https://open.spotify.com/album/27D4StgCIHT3FNe7TYrmmL) | 3:39 | 2024-03-12 | 2024-03-18 |
 | [ちゅ、多様性。](https://open.spotify.com/track/2FN7qaJcXH3HQfGeeBinbZ) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [猫猫吐吐 \- 猫猫 \-](https://open.spotify.com/album/1BZ7jYbJGOBvNhwcv1w6Hj) | 3:08 | 2023-12-31 | 2024-03-22 |
 | [つくし](https://open.spotify.com/track/3fLHgcamKWZUG8qv6HrhoW) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [つくし](https://open.spotify.com/album/7C9g2DBFNVJ2drlDCzquCI) | 4:27 | 2025-02-27 | 2025-04-04 |

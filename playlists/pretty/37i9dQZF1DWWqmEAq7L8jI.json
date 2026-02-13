@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Indios",
-  "num_followers": 278896,
+  "num_followers": 278900,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-02-06 01:15:12",
       "album": {
-        "name": "Hyperdrama",
-        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Neverender",
-      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
-    },
-    {
-      "added_at": "2026-02-06 01:15:12",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2026-02-06 01:15:12",
+      "album": {
+        "name": "Hyperdrama",
+        "url": "https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86"
+      },
+      "artists": [
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "Neverender",
+      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
     },
     {
       "added_at": "2026-02-06 01:15:12",
@@ -575,46 +575,6 @@
     {
       "added_at": "2026-02-06 01:15:12",
       "album": {
-        "name": "Rebelde",
-        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
-    },
-    {
-      "added_at": "2026-02-06 01:15:12",
-      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
       },
@@ -663,6 +623,46 @@
     {
       "added_at": "2026-02-06 01:15:12",
       "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
+    },
+    {
+      "added_at": "2026-02-06 01:15:12",
+      "album": {
         "name": "Un Mundo Diferente",
         "url": "https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf"
       },
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-02-06 01:15:12",
       "album": {
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
+    },
+    {
+      "added_at": "2026-02-06 01:15:12",
+      "album": {
         "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
         "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 213480,
       "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
       "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
-    },
-    {
-      "added_at": "2026-02-06 01:15:12",
-      "album": {
-        "name": "el cielo",
-        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "el cielo",
-      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "added_at": "2026-02-06 01:15:12",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-06 01:15:12",
       "album": {
-        "name": "DPM (De Pxta Madre)",
-        "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 181684,
-      "name": "DPM (De Pxta Madre)",
-      "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
-    },
-    {
-      "added_at": "2026-02-06 01:15:12",
-      "album": {
         "name": "Empezar Desde Cero",
         "url": "https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ"
       },
@@ -1351,22 +1335,18 @@
     {
       "added_at": "2026-02-06 01:15:12",
       "album": {
-        "name": "Ojos Noche (feat. Carla Morrison)",
-        "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
+        "name": "DPM (De Pxta Madre)",
+        "url": "https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 254929,
-      "name": "Ojos Noche (feat. Carla Morrison)",
-      "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
+      "duration_ms": 181684,
+      "name": "DPM (De Pxta Madre)",
+      "url": "https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8"
     },
     {
       "added_at": "2026-02-06 01:15:12",
@@ -1387,6 +1367,26 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+    },
+    {
+      "added_at": "2026-02-06 01:15:12",
+      "album": {
+        "name": "Ojos Noche (feat. Carla Morrison)",
+        "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 254929,
+      "name": "Ojos Noche (feat. Carla Morrison)",
+      "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
     },
     {
       "added_at": "2026-02-06 01:15:12",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-02-06 01:15:12",
       "album": {
+        "name": "BAIL\u00c9 CON MI EX",
+        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 161867,
+      "name": "BAIL\u00c9 CON MI EX",
+      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
+    },
+    {
+      "added_at": "2026-02-06 01:15:12",
+      "album": {
         "name": "Un Poquito",
         "url": "https://open.spotify.com/album/4zeNVeRzsJVbr7grkRYuko"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 186842,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/5pH8g37XIkQej0AnlfQgNS"
-    },
-    {
-      "added_at": "2026-02-06 01:15:12",
-      "album": {
-        "name": "BAIL\u00c9 CON MI EX",
-        "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 161867,
-      "name": "BAIL\u00c9 CON MI EX",
-      "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
     },
     {
       "added_at": "2026-02-06 01:15:12",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2026-02-06 01:15:12",
       "album": {
+        "name": "No Hay M\u00e1s Que Hablar",
+        "url": "https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "No Hay M\u00e1s Que Hablar",
+      "url": "https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq"
+    },
+    {
+      "added_at": "2026-02-06 01:15:12",
+      "album": {
         "name": "Hotel Miranda!",
         "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 188501,
       "name": "Enamorada",
       "url": "https://open.spotify.com/track/7j2KGu5tIRjWfOb2LxPoFR"
-    },
-    {
-      "added_at": "2026-02-06 01:15:12",
-      "album": {
-        "name": "No Hay M\u00e1s Que Hablar",
-        "url": "https://open.spotify.com/album/7ujTeoR2BX09yMsOVPzwGe"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "No Hay M\u00e1s Que Hablar",
-      "url": "https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq"
     },
     {
       "added_at": "2026-02-06 01:15:12",
@@ -1867,22 +1867,22 @@
     {
       "added_at": "2026-02-06 01:15:12",
       "album": {
-        "name": "Abraz\u00e1ndonos",
-        "url": "https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf"
+        "name": "Uno los Dos",
+        "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
       "artists": [
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         },
         {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 195431,
-      "name": "Abraz\u00e1ndonos",
-      "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
+      "duration_ms": 215426,
+      "name": "Uno los Dos",
+      "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
     }
   ],
   "unique_name": "Radio Pop",

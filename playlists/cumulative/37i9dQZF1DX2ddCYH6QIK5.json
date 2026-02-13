@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: COSM\u00d3, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: tosha, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1895,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "ausgeschlafen",
+        "url": "https://open.spotify.com/album/6YDo464kj7ALSWzNcYdYmP"
+      },
+      "artists": [
+        {
+          "name": "outofhere",
+          "url": "https://open.spotify.com/artist/5Tfwoxw3tFQX7FWxTcX2Rf"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130370,
+      "name": "ausgeschlafen",
+      "url": "https://open.spotify.com/track/7BHyl5cu3eMiBTcez6MNDb"
+    },
+    {
+      "album": {
         "name": "AVATAR",
         "url": "https://open.spotify.com/album/3f3tHyaXj51XPINmeWvWxR"
       },
@@ -3178,7 +3196,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 223720,
       "name": "Blender",
       "url": "https://open.spotify.com/track/4LiUA4331fYy6TcZPKYVq2"
@@ -4095,6 +4113,24 @@
     },
     {
       "album": {
+        "name": "Cadillac",
+        "url": "https://open.spotify.com/album/5Yj0wiqJAFQx8Of1ztNB37"
+      },
+      "artists": [
+        {
+          "name": "Pen Pal",
+          "url": "https://open.spotify.com/artist/6YP4RBzZ0vNSQzbZTF6QJx"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257088,
+      "name": "Cadillac",
+      "url": "https://open.spotify.com/track/703RwHGxQagegHUB83HuAW"
+    },
+    {
+      "album": {
         "name": "Call It",
         "url": "https://open.spotify.com/album/1j7UI9cv7TYz0JMK7SoL8G"
       },
@@ -4652,7 +4688,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 163064,
       "name": "Ciao Bella",
       "url": "https://open.spotify.com/track/3YuS6dimQP3vEYaaDPMZCT"
@@ -5662,7 +5698,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 174339,
       "name": "dear abby",
       "url": "https://open.spotify.com/track/1oFvzpFDJOiHjtkcJVkQ3K"
@@ -6020,7 +6056,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 114440,
       "name": "Der Mensch",
       "url": "https://open.spotify.com/track/6jWuE3gxYPHHCJOAbQcnW5"
@@ -8391,6 +8427,24 @@
     },
     {
       "album": {
+        "name": "Fassade",
+        "url": "https://open.spotify.com/album/5nhjJQNu3FBV0ePQvehfYq"
+      },
+      "artists": [
+        {
+          "name": "Angelina",
+          "url": "https://open.spotify.com/artist/3MUuMOEdNvxfw2bGxRjVYP"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141950,
+      "name": "Fassade",
+      "url": "https://open.spotify.com/track/0v5zo1sbZU6Cu6L6NcQI72"
+    },
+    {
+      "album": {
         "name": "Fear Of Failing",
         "url": "https://open.spotify.com/album/3nTUlXG8vbU4CSefdXpjsG"
       },
@@ -8406,6 +8460,24 @@
       "duration_ms": 362680,
       "name": "Fear Of Failing",
       "url": "https://open.spotify.com/track/7qTPFUNyS7BOIXbkHfQQz4"
+    },
+    {
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/7gFxESOukJcENEoH8kuE4W"
+      },
+      "artists": [
+        {
+          "name": "KCE",
+          "url": "https://open.spotify.com/artist/2cBEKV8ZS4PnGEW5FJGvD7"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5BOgK9BkIZ4otm3sbHN5yP"
     },
     {
       "album": {
@@ -9176,6 +9248,24 @@
       "duration_ms": 188995,
       "name": "FUCK AUF DIE BOYS",
       "url": "https://open.spotify.com/track/5HIzuWID4IdKpdAcqNP7O8"
+    },
+    {
+      "album": {
+        "name": "fuck it up",
+        "url": "https://open.spotify.com/album/5RTOyuYtTMptoOqHd0aZPU"
+      },
+      "artists": [
+        {
+          "name": "WYNGS",
+          "url": "https://open.spotify.com/artist/70xjuAULNiA2MVAUsaBAam"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "fuck it up",
+      "url": "https://open.spotify.com/track/3q6wlbhirqQDUhm99FXqln"
     },
     {
       "album": {
@@ -11468,7 +11558,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 178936,
       "name": "High Performer",
       "url": "https://open.spotify.com/track/15EcrhVEc5zpWPgG5m7u5k"
@@ -14010,6 +14100,24 @@
       "duration_ms": 144000,
       "name": "keine zeit",
       "url": "https://open.spotify.com/track/7vw280SWXk1JiFhosY3f3V"
+    },
+    {
+      "album": {
+        "name": "Keiner Wei\u00df",
+        "url": "https://open.spotify.com/album/7d5GVUJB0LeSOY8Or9gCpk"
+      },
+      "artists": [
+        {
+          "name": "tosha",
+          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Keiner Wei\u00df",
+      "url": "https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O"
     },
     {
       "album": {
@@ -19924,7 +20032,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 158750,
       "name": "Psychodrama",
       "url": "https://open.spotify.com/track/71K46r9F26eu2Uhu3GkrFE"

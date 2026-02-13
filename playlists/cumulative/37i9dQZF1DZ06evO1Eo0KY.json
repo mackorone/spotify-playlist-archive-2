@@ -571,7 +571,7 @@
         },
         {
           "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/5kwsNJFbDmWUpst7JVmEei"
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
           "name": "Young Chris",
@@ -580,7 +580,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 270604,
       "name": "COLLECTION PLATES (feat. Young Chris)",
       "url": "https://open.spotify.com/track/2yMsHFOcZy9m7Tcjc0gaer"
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 186181,
       "name": "Fully Smack",
       "url": "https://open.spotify.com/track/7dgxqusmqgW1OYBN8CFBvX"
@@ -1880,7 +1880,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 193136,
       "name": "Mr. Quaker Oats",
       "url": "https://open.spotify.com/track/0AaQu9DCyTlT0RkTaGSytT"
@@ -2082,6 +2082,32 @@
       "duration_ms": 149787,
       "name": "Notre Dame",
       "url": "https://open.spotify.com/track/5pEa8zLhRTC1jqSFxK7hU7"
+    },
+    {
+      "album": {
+        "name": "OFFERINGS",
+        "url": "https://open.spotify.com/album/2kgwGxKuLxEHBQjKXs9qo7"
+      },
+      "artists": [
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "OFFERINGS",
+      "url": "https://open.spotify.com/track/19n32jI1QJiXMr3KXFRCfk"
     },
     {
       "album": {

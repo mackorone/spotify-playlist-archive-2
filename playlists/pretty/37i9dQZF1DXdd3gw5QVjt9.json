@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1090225,
+  "num_followers": 1090129,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Eleven Songs",
-        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 119372,
       "name": "Optimism",
       "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Eleven Songs",
+        "url": "https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Asylum",
         "url": "https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 155431,
       "name": "baby, get your ticket",
       "url": "https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2024-08-23 14:59:54",

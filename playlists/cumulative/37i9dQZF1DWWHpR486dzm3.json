@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Suomi-indien tuoreimpia helmi\u00e4. Kannessa Aksel Kankaanranta.",
+  "description": "Suomi-indien tuoreimpia helmi\u00e4. ",
   "name": "Suomi-indie t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -4319,6 +4319,24 @@
     },
     {
       "album": {
+        "name": "Hengit\u00e4",
+        "url": "https://open.spotify.com/album/2vX3YfA8yV19e2EJsQ7C6B"
+      },
+      "artists": [
+        {
+          "name": "Risto",
+          "url": "https://open.spotify.com/artist/0EYsqhRnTOHHV222MPpn4H"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230219,
+      "name": "Hengit\u00e4",
+      "url": "https://open.spotify.com/track/3rFMlVrHiKHR0Py6BXTBYc"
+    },
+    {
+      "album": {
         "name": "Her Voice",
         "url": "https://open.spotify.com/album/4NrhvEYDBdvuc7IxEs1N9J"
       },
@@ -6632,6 +6650,24 @@
       "duration_ms": 284013,
       "name": "Kaikki mit\u00e4 on, on juuri niin kuin olin kuvitellutkin",
       "url": "https://open.spotify.com/track/258AhNE9rysgqoMQ0RoSx8"
+    },
+    {
+      "album": {
+        "name": "Kaikumaa",
+        "url": "https://open.spotify.com/album/1ftL74LDZtSPe2TET7fM9a"
+      },
+      "artists": [
+        {
+          "name": "Kai Nuu",
+          "url": "https://open.spotify.com/artist/1nM46vhERU1vkuD7Obhxol"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179875,
+      "name": "Kaikumaa",
+      "url": "https://open.spotify.com/track/6bBbMmu6mlKlhOT33cE8AS"
     },
     {
       "album": {
@@ -10933,6 +10969,24 @@
     },
     {
       "album": {
+        "name": "Muscle Memory",
+        "url": "https://open.spotify.com/album/7saW8LCty5iMpFZdFpjUHc"
+      },
+      "artists": [
+        {
+          "name": "Telephone Romeo",
+          "url": "https://open.spotify.com/artist/2kQq9VtfaWtB8OFJn6ta1G"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265621,
+      "name": "Muscle Memory",
+      "url": "https://open.spotify.com/track/7AF9JOHWmE1u1zjzwruDI9"
+    },
+    {
+      "album": {
         "name": "Musta ja painava taivas",
         "url": "https://open.spotify.com/album/1TS1AVv5ZNfbUBe4IBNClZ"
       },
@@ -11848,6 +11902,28 @@
       "duration_ms": 164269,
       "name": "Oikeus el\u00e4\u00e4",
       "url": "https://open.spotify.com/track/7hb784MpJM9MZwgALWwXQQ"
+    },
+    {
+      "album": {
+        "name": "OK (feat. ANI)",
+        "url": "https://open.spotify.com/album/2g6fLu9kfMCuv59elnWu73"
+      },
+      "artists": [
+        {
+          "name": "Lage",
+          "url": "https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c"
+        },
+        {
+          "name": "ANI",
+          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149750,
+      "name": "OK (feat. ANI)",
+      "url": "https://open.spotify.com/track/3nOafOYJ5ix2TuUDXFet2k"
     },
     {
       "album": {
@@ -16628,6 +16704,24 @@
       "duration_ms": 138620,
       "name": "Tanssi",
       "url": "https://open.spotify.com/track/6IBhsOWLN5bElT0BmmPfln"
+    },
+    {
+      "album": {
+        "name": "High School Drama",
+        "url": "https://open.spotify.com/album/5Cl0C9tNhVM9R6H9QtGCcp"
+      },
+      "artists": [
+        {
+          "name": "Michael Bleu",
+          "url": "https://open.spotify.com/artist/6C81vSMobAZUiEdCytgolI"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164413,
+      "name": "Tanssilattialla",
+      "url": "https://open.spotify.com/track/7wr5g0mCt4rPZ3LLywCtJ9"
     },
     {
       "album": {

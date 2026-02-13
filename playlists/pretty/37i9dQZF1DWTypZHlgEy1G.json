@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 534035,
+  "num_followers": 534022,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -107,18 +107,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Love Me Please Love Me",
-        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
+        "name": "Niagara",
+        "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
       },
       "artists": [
         {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
         }
       ],
-      "duration_ms": 260666,
-      "name": "Love Me, Please Love Me",
-      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
+      "duration_ms": 214173,
+      "name": "Ce n'est rien",
+      "url": "https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -139,18 +139,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Niagara",
-        "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
       },
       "artists": [
         {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
         }
       ],
-      "duration_ms": 214173,
-      "name": "Ce n'est rien",
-      "url": "https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT"
+      "duration_ms": 260666,
+      "name": "Love Me, Please Love Me",
+      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
         }
       ],
-      "duration_ms": 186973,
-      "name": "La vie en rose",
-      "url": "https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw"
+      "duration_ms": 178840,
+      "name": "La foule",
+      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
         }
       ],
-      "duration_ms": 178840,
-      "name": "La foule",
-      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
+      "duration_ms": 186973,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Infiniment",
+        "url": "https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Vesoul",
+      "url": "https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Midnight in Paris - French Classics",
         "url": "https://open.spotify.com/album/0kP8oCXy88fxa0hRhS1oV0"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "100 Tubes 70s",
-        "url": "https://open.spotify.com/album/2zs6pEnk6jffcqakWih5lW"
-      },
-      "artists": [
-        {
-          "name": "G\u00e9rard Lenorman",
-          "url": "https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "La Ballade Des Gens Heureux",
-      "url": "https://open.spotify.com/track/3f1kUjxpiIf6cqOn71acN9"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Platinum Charles Aznavour",
         "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 245533,
       "name": "La boh\u00e8me",
       "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "100 Tubes 70s",
+        "url": "https://open.spotify.com/album/2zs6pEnk6jffcqakWih5lW"
+      },
+      "artists": [
+        {
+          "name": "G\u00e9rard Lenorman",
+          "url": "https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "La Ballade Des Gens Heureux",
+      "url": "https://open.spotify.com/track/3f1kUjxpiIf6cqOn71acN9"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Infiniment",
-        "url": "https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Vesoul",
-      "url": "https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Platinum Charles Aznavour",
         "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "France Gall CD Story",
-        "url": "https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 153480,
-      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
-      "url": "https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Infiniment",
         "url": "https://open.spotify.com/album/4d9l1TbzJDhwKylJLwJixn"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 251666,
       "name": "Ne Me Quitte Pas",
       "url": "https://open.spotify.com/track/0B2mpfbg0an33QEYfKGChy"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "France Gall CD Story",
+        "url": "https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 153480,
+      "name": "Poup\u00e9e de cire, poup\u00e9e de son",
+      "url": "https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN"
     },
     {
       "added_at": "2024-07-25 13:22:22",

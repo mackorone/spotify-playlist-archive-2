@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 429208,
+  "num_followers": 429215,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -573,7 +573,7 @@
         },
         {
           "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
+          "url": "https://open.spotify.com/artist/67SuQAHDkpIOcOLy9WiyhE"
         }
       ],
       "duration_ms": 261815,
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
+        "name": "Bailar Contigo",
+        "url": "https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 220720,
+      "name": "Bailar Contigo",
+      "url": "https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14"
+    },
+    {
+      "added_at": "2026-02-11 18:50:14",
+      "album": {
         "name": "Destilar",
         "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 260523,
       "name": "La Luna de Neuqu\u00e9n",
       "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
-    },
-    {
-      "added_at": "2026-02-11 18:50:14",
-      "album": {
-        "name": "Bailar Contigo",
-        "url": "https://open.spotify.com/album/5zi55pxYWY1hsKLZk4XWAf"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 220720,
-      "name": "Bailar Contigo",
-      "url": "https://open.spotify.com/track/29iNhnoFkQBvOlUKn2io14"
     },
     {
       "added_at": "2026-02-11 18:50:14",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 174680,
+      "name": "Sensei",
+      "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
+    },
+    {
+      "added_at": "2026-02-11 18:50:14",
+      "album": {
         "name": "No me Arrepiento de este Amor",
         "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 181500,
       "name": "No me Arrepiento de este Amor",
       "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
-    },
-    {
-      "added_at": "2026-02-11 18:50:14",
-      "album": {
-        "name": "Sensei",
-        "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 174680,
-      "name": "Sensei",
-      "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
     },
     {
       "added_at": "2026-02-11 18:50:14",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
-        "name": "b\u00fascame otra vez",
-        "url": "https://open.spotify.com/album/6cCUaGJQagrD3mwnVhRJax"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 298226,
-      "name": "b\u00fascame otra vez",
-      "url": "https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv"
-    },
-    {
-      "added_at": "2026-02-11 18:50:14",
-      "album": {
         "name": "Mar de Coral",
         "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 178630,
       "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
       "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
+    },
+    {
+      "added_at": "2026-02-11 18:50:14",
+      "album": {
+        "name": "b\u00fascame otra vez",
+        "url": "https://open.spotify.com/album/6cCUaGJQagrD3mwnVhRJax"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 298226,
+      "name": "b\u00fascame otra vez",
+      "url": "https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv"
     },
     {
       "added_at": "2026-02-11 18:50:14",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 238128,
-      "name": "Los Paisajes",
-      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
-    },
-    {
-      "added_at": "2026-02-11 18:50:14",
-      "album": {
         "name": "Artificio",
         "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
       },
@@ -1451,18 +1435,18 @@
     {
       "added_at": "2026-02-11 18:50:14",
       "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
       },
       "artists": [
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
+      "duration_ms": 238128,
+      "name": "Los Paisajes",
+      "url": "https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn"
     },
     {
       "added_at": "2026-02-11 18:50:14",
@@ -1479,6 +1463,22 @@
       "duration_ms": 222395,
       "name": "Isita Querida De Un Lado",
       "url": "https://open.spotify.com/track/7oAoABwJ6uaxf4PMpbFcc1"
+    },
+    {
+      "added_at": "2026-02-11 18:50:14",
+      "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2026-02-11 18:50:14",

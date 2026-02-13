@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 193393,
+  "num_followers": 193412,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Strange to Explain",
-        "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
-      },
-      "artists": [
-        {
-          "name": "Woods",
-          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
-        }
-      ],
-      "duration_ms": 351725,
-      "name": "Where Do You Go When You Dream",
-      "url": "https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Acid Tongue",
         "url": "https://open.spotify.com/album/7qri8zA09EXNsQU7eBgCae"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 226933,
       "name": "Pretty Bird",
       "url": "https://open.spotify.com/track/3e2dTtSpfuDA8iXnRCxCov"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Strange to Explain",
+        "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
+      },
+      "artists": [
+        {
+          "name": "Woods",
+          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
+        }
+      ],
+      "duration_ms": 351725,
+      "name": "Where Do You Go When You Dream",
+      "url": "https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX"
     },
     {
       "added_at": "2024-07-05 19:49:15",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
-        "name": "Existential Beast",
-        "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lee Richards",
-          "url": "https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc"
-        }
-      ],
-      "duration_ms": 367480,
-      "name": "Golden Gate",
-      "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
         "name": "Just Like Me",
         "url": "https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 184270,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
+        "name": "Existential Beast",
+        "url": "https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lee Richards",
+          "url": "https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc"
+        }
+      ],
+      "duration_ms": 367480,
+      "name": "Golden Gate",
+      "url": "https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp"
     },
     {
       "added_at": "2024-07-05 19:49:15",

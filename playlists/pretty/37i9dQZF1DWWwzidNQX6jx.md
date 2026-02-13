@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 
 > These songs rocked the 70s\. Cover: Meat Loaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,139,820 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,139,870 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 33 | [Layla](https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 7:03 |
 | 34 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 |
 | 35 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 |
-| 36 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
-| 37 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
+| 36 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
+| 37 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 |
 | 38 | [Don't Bring Me Down](https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:03 |
 | 39 | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/track/2d4e45fmUnguxh6yqC7gNT) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 3:52 |
 | 40 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 |
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwzidNQX6jx.md) - [plain]
 | 44 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 |
 | 45 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 |
 | 46 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 |
-| 47 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
-| 48 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:19 |
+| 47 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:19 |
+| 48 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
 | 49 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 |
 | 50 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
-| 51 | [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 3:31 |
-| 52 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
+| 51 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 |
+| 52 | [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 3:31 |
 | 53 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 |
 | 54 | [Iron Man \- 2012 \- Remaster](https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 5:55 |
 | 55 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |

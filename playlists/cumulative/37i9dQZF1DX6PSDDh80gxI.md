@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> supernova è il nuovo album di mobrici che è qua su indie italia ☄️
+> La fine della guerra è il nuovo album di svegliaginevra, ed è qua su indie italia 🍭
 
-467 songs - 1 day 0 hr 59 min
+468 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [AIR \(feat\. Venerus & Ele A\)](https://open.spotify.com/track/0vty6zPguCSs4wiWpFYxO4) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:49 | 2025-09-04 | 2025-09-26 |
 | [Aiuto](https://open.spotify.com/track/0Mu6W8dVtwdXdQf1UIbBGh) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Aiuto](https://open.spotify.com/album/0KB9RktfD3H7la1lnVEhCT) | 4:07 | 2025-05-08 | 2025-05-30 |
 | [Al cuore gentile](https://open.spotify.com/track/2KdngEV1IO0FvXW7rliNTw) | [Niccolò Fabi](https://open.spotify.com/artist/2pboyZFylWoAL86o6E1gDo) | [Al cuore gentile](https://open.spotify.com/album/75bc7Z3Qz01u318JDYAg1h) | 2:32 | 2025-05-15 | 2025-06-13 |
+| [Al suo riposo](https://open.spotify.com/track/47AEJ7ZhJvcJYbcKIgLIPb) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [Al suo riposo, In luce](https://open.spotify.com/album/36s9HaLZdbHhAj9p5cVUUz) | 4:37 | 2026-02-12 |  |
 | [Alaska](https://open.spotify.com/track/2rUvFkePq1K0WbW9uZ64oY) | [M.E.R.L.O.T](https://open.spotify.com/artist/061DeTQNd4aDwb6VqHq8O1) | [Alaska](https://open.spotify.com/album/2I5DAwuxdzjCaTI1gvdtWH) | 2:26 | 2024-11-07 | 2025-01-24 |
 | [All'Acqua Ghiacciata](https://open.spotify.com/track/3N9wkuvjwnlS6tWO6XpSXG) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [All'Acqua Ghiacciata](https://open.spotify.com/album/5e3aisU48dK0bZvjPJUFzW) | 3:47 | 2025-11-06 | 2026-01-30 |
 | [Allucinazione](https://open.spotify.com/track/6s42fEwCHQsW2KbTb58abU) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Allucinazione](https://open.spotify.com/album/54CcbtH5Kq625vyy8V27XQ) | 2:52 | 2025-06-26 |  |
@@ -289,7 +290,7 @@
 | [O.M.G.](https://open.spotify.com/track/1WugTfVDv3gHJaZStet6IF) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [O.M.G.](https://open.spotify.com/album/7HzVLPuJnwGmKc7CTv25cf) | 2:34 | 2025-01-14 | 2025-05-02 |
 | [Occhi Blu](https://open.spotify.com/track/324rbmmKBqubCFX3PCY2xf) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Occhi Blu](https://open.spotify.com/album/5cdWqN1USAxqaenqenOs65) | 3:04 | 2024-06-27 | 2024-09-06 |
 | [Occhi da gangster \(feat\. Frah Quintale\)](https://open.spotify.com/track/5ASwFYU1BsLv7UvkE5JShM) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Joanita](https://open.spotify.com/album/20AueqAoZgtm23rhWo0FKx) | 3:43 | 2025-02-20 | 2025-04-25 |
-| [Occhi diamanti \(feat\. Joan Thiele\)](https://open.spotify.com/track/7r63nk6dEDZzZZ5BUoDcup) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Amor Proprio](https://open.spotify.com/album/2g4FPbzrHL94RwOnPNGe7u) | 3:58 | 2025-10-09 |  |
+| [Occhi diamanti \(feat\. Joan Thiele\)](https://open.spotify.com/track/7r63nk6dEDZzZZ5BUoDcup) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Amor Proprio](https://open.spotify.com/album/2g4FPbzrHL94RwOnPNGe7u) | 3:58 | 2025-10-09 | 2026-02-13 |
 | [OCCHIAIE](https://open.spotify.com/track/1raoPjIsysUxxINP4QB2ZA) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK) | [OCCHIAIE](https://open.spotify.com/album/46IQNcVUpKaKW25X6CL5fN) | 2:53 | 2025-10-23 | 2025-12-05 |
 | [occhisalsadisoia](https://open.spotify.com/track/5GGONR3S3gJtarebmj2ISa) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [occhisalsadisoia](https://open.spotify.com/album/45vBnHTbeRody869Dgz3hH) | 2:34 | 2024-12-05 | 2025-01-24 |
 | [Oh No \(feat\. Lamante\)](https://open.spotify.com/track/37uonfB3PWieMnGtySRZIo) | [Delicatoni](https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq), [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Delicatronic](https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7) | 2:43 | 2024-12-19 | 2024-12-29 |

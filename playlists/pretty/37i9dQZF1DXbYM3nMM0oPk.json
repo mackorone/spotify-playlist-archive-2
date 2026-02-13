@@ -1,6 +1,6 @@
 {
   "description": "A mega mix of 75 favorites from the last few years! ",
-  "num_followers": 8416571,
+  "num_followers": 8419237,
   "original_name": "Mega Hit Mix",
   "owner": {
     "name": "Spotify",
@@ -197,22 +197,6 @@
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
-      "added_at": "2023-11-07 15:29:23",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
-    },
-    {
       "added_at": "2025-03-04 21:00:58",
       "album": {
         "name": "Short n' Sweet",
@@ -227,6 +211,22 @@
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+    },
+    {
+      "added_at": "2023-11-07 15:29:23",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "added_at": "2023-11-07 15:29:23",
@@ -277,22 +277,6 @@
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
-      "added_at": "2023-11-07 15:29:23",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 207139,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
-    },
-    {
       "added_at": "2025-04-28 22:22:42",
       "album": {
         "name": "Short n' Sweet",
@@ -307,6 +291,22 @@
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "added_at": "2023-11-07 15:29:23",
+      "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 207139,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
     },
     {
       "added_at": "2023-11-07 15:29:23",
@@ -919,26 +919,6 @@
     {
       "added_at": "2023-11-07 15:29:23",
       "album": {
-        "name": "death bed (coffee for your head)",
-        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "death bed (coffee for your head)",
-      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
-    },
-    {
-      "added_at": "2023-11-07 15:29:23",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "added_at": "2023-11-07 15:29:23",
+      "album": {
+        "name": "death bed (coffee for your head)",
+        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "death bed (coffee for your head)",
+      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
     },
     {
       "added_at": "2023-11-07 15:29:23",
@@ -1085,24 +1085,20 @@
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2025-04-28 22:22:42",
+      "added_at": "2023-11-07 15:29:23",
       "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
         }
       ],
-      "duration_ms": 178205,
-      "name": "I Had Some Help (Feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
       "added_at": "2023-11-07 15:29:23",
@@ -1121,20 +1117,24 @@
       "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
-      "added_at": "2023-11-07 15:29:23",
+      "added_at": "2025-04-28 22:22:42",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj"
       },
       "artists": [
         {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+      "duration_ms": 178205,
+      "name": "I Had Some Help (Feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
       "added_at": "2023-11-07 15:29:23",

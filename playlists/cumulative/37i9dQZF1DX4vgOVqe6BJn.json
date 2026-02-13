@@ -3277,6 +3277,28 @@
     },
     {
       "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/2glAiy9pJLk6x42sYeQlOi"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129986,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/0QDpFGGK0vPADxypanLHVz"
+    },
+    {
+      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },

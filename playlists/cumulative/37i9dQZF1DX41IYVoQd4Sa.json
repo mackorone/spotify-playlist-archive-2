@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05e1\u05e3 \u05d0\u05de\u05d3\u05d5\u05e8\u05e1\u05e7\u05d9 ",
+  "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d4\u05d9\u05dc\u05d4 \u05e8\u05d5\u05d7",
   "name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "tracks": [
     {
@@ -2522,7 +2522,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 175000,
       "name": "\u05d0\u05d9\u05e4\u05d4 \u05d4\u05d9\u05d0 \u05e2\u05db\u05e9\u05d9\u05d5",
       "url": "https://open.spotify.com/track/7K9y2obuveRTOJb2BnmHn0"
@@ -4333,6 +4333,28 @@
     },
     {
       "album": {
+        "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
+        "url": "https://open.spotify.com/album/2BLA8UylBQBMEYUve5sK2Z"
+      },
+      "artists": [
+        {
+          "name": "Girafot",
+          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
+        },
+        {
+          "name": "\u05dc\u05d9\u05e2\u05dd \u05d7\u05db\u05de\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/73WXnxFFw9slGZoWweDFPh"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176018,
+      "name": "\u05d8\u05d0\u05dd \u05d8\u05d0\u05dd",
+      "url": "https://open.spotify.com/track/5psxA79JSFx9e05NXsWGP2"
+    },
+    {
+      "album": {
         "name": "\u05d8\u05d1\u05e2",
         "url": "https://open.spotify.com/album/0MJ1EgY7SOK9RTON6y6DHc"
       },
@@ -5303,6 +5325,28 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d9\u05e9\u05d5\u05df \u05dc\u05d1\u05d3",
+        "url": "https://open.spotify.com/album/3WkCfk3FdHU45de7UrXju3"
+      },
+      "artists": [
+        {
+          "name": "\u05e0\u05e9\u05de\u05d4",
+          "url": "https://open.spotify.com/artist/5sbDy7V3VZdRGv4F8z5Yu5"
+        },
+        {
+          "name": "Yael Selinger",
+          "url": "https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189360,
+      "name": "\u05dc\u05d9\u05e9\u05d5\u05df \u05dc\u05d1\u05d3",
+      "url": "https://open.spotify.com/track/6rH3mlKrrFogxYazppQREM"
+    },
+    {
+      "album": {
         "name": "\u05dc\u05dc\u05db\u05ea \u05dc\u05d0\u05d9\u05d1\u05d5\u05d3",
         "url": "https://open.spotify.com/album/35sbZooqCHBEmHmxamIw50"
       },
@@ -5537,6 +5581,24 @@
     },
     {
       "album": {
+        "name": "\u05d0\u05d9",
+        "url": "https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194040,
+      "name": "\u05de\u05d7\u05d1\u05e8\u05ea \u05db\u05d0\u05d1",
+      "url": "https://open.spotify.com/track/6jA9Ad86Jqk8buxx6hIV4j"
+    },
+    {
+      "album": {
         "name": "\u05de\u05d9\u05dc\u05d9\u05dd \u05d0\u05d4\u05d1\u05d4 \u05d5\u05d9\u05d9\u05df",
         "url": "https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ"
       },
@@ -5588,7 +5650,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 159665,
       "name": "\u05de\u05e0\u05d2\u05d1 \u05dc\u05da \u05d0\u05ea \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
       "url": "https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV"
@@ -6278,7 +6340,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 188896,
       "name": "\u05e2\u05d5\u05d3 \u05d9\u05d5\u05dd",
       "url": "https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i"

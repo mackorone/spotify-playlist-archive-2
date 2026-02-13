@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 396063,
+  "num_followers": 396082,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 214817,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "- (Deluxe)",
         "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 209267,
       "name": "Colourblind",
       "url": "https://open.spotify.com/track/290x9rCh2EWcJ9YKpfiI9z"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 214817,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Thorns",
         "url": "https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 200441,
       "name": "Thorns",
       "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Calling Out",
-        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
-      },
-      "artists": [
-        {
-          "name": "Solar State",
-          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
-        }
-      ],
-      "duration_ms": 150904,
-      "name": "Calling Out",
-      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Old Summers",
         "url": "https://open.spotify.com/album/3tRCgORe1F5ilqUzRPKudV"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
+        "name": "Calling Out",
+        "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
+      },
+      "artists": [
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
+        }
+      ],
+      "duration_ms": 150904,
+      "name": "Calling Out",
+      "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
         "name": "Muscle Shoals",
         "url": "https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt"
       },
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
       },
       "artists": [
         {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
         }
       ],
-      "duration_ms": 237545,
-      "name": "Uncharted - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
+      "duration_ms": 184424,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -695,18 +695,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq"
       },
       "artists": [
         {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
         }
       ],
-      "duration_ms": 184424,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
+      "duration_ms": 237545,
+      "name": "Uncharted - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Brotherhood",
         "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 236394,
       "name": "Brotherhood",
       "url": "https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "That's What I Love",
-        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
+        "name": "Apple Tree",
+        "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
         }
       ],
-      "duration_ms": 226440,
-      "name": "That's What I Love",
-      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
+      "duration_ms": 178336,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1271,34 +1271,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Apple Tree",
-        "url": "https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx"
+        "name": "That's What I Love",
+        "url": "https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93"
       },
       "artists": [
         {
-          "name": "Niels Geusebroek",
-          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 178336,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "Last Night In The Bittersweet",
-        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 291706,
-      "name": "Julianne",
-      "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
+      "duration_ms": 226440,
+      "name": "That's What I Love",
+      "url": "https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1315,6 +1299,22 @@
       "duration_ms": 229347,
       "name": "Grow Up",
       "url": "https://open.spotify.com/track/7psTEEC1PZAtb74MPBqMh4"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Last Night In The Bittersweet",
+        "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "Julianne",
+      "url": "https://open.spotify.com/track/67xn8VjUQtGD0ptoKKSfIZ"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
         "name": "Better Tomorrow",
         "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
-      },
-      "artists": [
-        {
-          "name": "Jim Gardner",
-          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
         "name": "Never Fall In Love Again",
         "url": "https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o"
       },
@@ -1415,38 +1415,6 @@
       "duration_ms": 168991,
       "name": "Never Fall In Love Again",
       "url": "https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "Bend",
-        "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 236801,
-      "name": "Bend",
-      "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
-    },
-    {
-      "added_at": "2026-02-06 08:55:44",
-      "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
-      },
-      "artists": [
-        {
-          "name": "Nambyar",
-          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
-        }
-      ],
-      "duration_ms": 206453,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1467,18 +1435,18 @@
     {
       "added_at": "2026-02-06 08:55:44",
       "album": {
-        "name": "seasons",
-        "url": "https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE"
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT"
       },
       "artists": [
         {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
         }
       ],
-      "duration_ms": 220621,
-      "name": "seasons",
-      "url": "https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f"
+      "duration_ms": 236801,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX"
     },
     {
       "added_at": "2026-02-06 08:55:44",
@@ -1495,6 +1463,38 @@
       "duration_ms": 245562,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "seasons",
+        "url": "https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 220621,
+      "name": "seasons",
+      "url": "https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f"
+    },
+    {
+      "added_at": "2026-02-06 08:55:44",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
+      },
+      "artists": [
+        {
+          "name": "Nambyar",
+          "url": "https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9"
+        }
+      ],
+      "duration_ms": 206453,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
     },
     {
       "added_at": "2026-02-06 08:55:44",

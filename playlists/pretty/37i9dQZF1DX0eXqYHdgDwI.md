@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 
 > 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,094 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,113 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 61 | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Get You The Moon \(feat\. Snøw\)](https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8) | 2:59 |
 | 62 | [this is me trying](https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:15 |
 | 63 | [Heal](https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:13 |
-| 64 | [I Found](https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:33 |
-| 65 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
+| 64 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
+| 65 | [I Found](https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:33 |
 | 66 | [changes](https://open.spotify.com/track/7AFASza1mXqntmGtbxXprO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:01 |
 | 67 | [Unsteady](https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:13 |
 | 68 | [Cornelia Street](https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 99 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
 | 100 | [The A Team](https://open.spotify.com/track/1XpYodsD36XN7ygcdF7mJJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 4:18 |
 
-Snapshot ID: `AAAAAKDAigh7Ldkhl9xl6zLlJ2lrqQm5`
+Snapshot ID: `AAAAAHw4usw+dfM5ozMhK1gkM3dRdj4E`

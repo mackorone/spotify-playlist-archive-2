@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 
 > melancholic dreaming… or my go\-to plane playlist
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 346 songs - 22 hr 12 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 347 songs - 22 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -354,5 +354,6 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 344 | [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 |
 | 345 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
 | 346 | [Past Won't Leave My Bed](https://open.spotify.com/track/3J44gxX4AcRApFyympWPIB) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:46 |
+| 347 | [Francis Forever](https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:29 |
 
-Snapshot ID: `AAAENh8Zgoglku9LVSD492/Je+ON6Pfz`
+Snapshot ID: `AAAEN7TflO6PtKaxd+8OXqV+0HwK24Fa`

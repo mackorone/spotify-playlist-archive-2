@@ -1,12 +1,12 @@
 {
   "description": "Try a little tenderness. Cover: Durand Jones & The Indications",
-  "num_followers": 53513,
+  "num_followers": 53515,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFyB9aEbkgVMamg57JQP1h5r69yE",
+  "snapshot_id": "AAAAAEjcyo/YwxLgbM2ps0svn/GR8vlo",
   "tracks": [
     {
       "added_at": "2026-01-23 01:47:43",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 314075,
+      "name": "Nikes",
+      "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
         "name": "Hiding in Plain Sight",
         "url": "https://open.spotify.com/album/3tNWFiq09LavrJA0s108QE"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 189466,
       "name": "Pictures of You",
       "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 314075,
-      "name": "Nikes",
-      "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "Chapter 1",
-        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
       },
       "artists": [
         {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
         }
       ],
-      "duration_ms": 246036,
-      "name": "Good Things Will Come After the Pressure",
-      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -539,18 +539,18 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe"
       },
       "artists": [
         {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 226052,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
+      "duration_ms": 246036,
+      "name": "Good Things Will Come After the Pressure",
+      "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
+        "name": "Never Be Yours",
+        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 196025,
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
         "name": "Love Me JeJe",
         "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 209160,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Never Be Yours",
-        "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 196025,
-      "name": "Never Be Yours",
-      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
+        "name": "Low End Love Songs",
+        "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 227095,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/6ZQucKTplXdpBJlnnpqQHI"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
         "name": "So...How's Your Girl?",
         "url": "https://open.spotify.com/album/11xrdpHkh2KUuxPGEfQZKG"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 337200,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Low End Love Songs",
-        "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 227095,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/6ZQucKTplXdpBJlnnpqQHI"
     },
     {
       "added_at": "2026-01-23 01:47:43",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-01-23 01:47:43",
       "album": {
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Thank You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
+    },
+    {
+      "added_at": "2026-01-23 01:47:43",
+      "album": {
         "name": "What It Gave Me",
         "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 164605,
       "name": "What It Gave Me",
       "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"
-    },
-    {
-      "added_at": "2026-01-23 01:47:43",
-      "album": {
-        "name": "Bonnie Raitt (2008 Remaster)",
-        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Thank You - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
     },
     {
       "added_at": "2026-01-23 01:47:43",

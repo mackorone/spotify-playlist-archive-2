@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 252146,
+  "num_followers": 252138,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-01-23 15:33:14",
       "album": {
-        "name": "Born a Loser",
-        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 207373,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y"
-    },
-    {
-      "added_at": "2026-01-23 15:33:14",
-      "album": {
         "name": "Both Of Us",
         "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2026-01-23 15:33:14",
+      "album": {
+        "name": "Born a Loser",
+        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 207373,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y"
     },
     {
       "added_at": "2026-01-23 15:33:14",
@@ -740,7 +740,7 @@
           "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
         }
       ],
-      "duration_ms": 289471,
+      "duration_ms": 287440,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-01-23 15:33:14",
       "album": {
-        "name": "Rah That's A Mad Question",
-        "url": "https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3JGwr1JkfpKcDfSONcGSgo"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Lazare",
+          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
         }
       ],
-      "duration_ms": 227123,
-      "name": "Rah That's A Mad Question",
-      "url": "https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU"
+      "duration_ms": 150374,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6hCB3wpkp9IDPYVG9OVerH"
     },
     {
       "added_at": "2026-01-23 15:33:14",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2026-01-23 15:33:14",
       "album": {
-        "name": "Waiting So Long",
-        "url": "https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h"
+        "name": "Rah That's A Mad Question",
+        "url": "https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI"
       },
       "artists": [
         {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        },
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 234140,
-      "name": "Waiting So Long",
-      "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
+      "duration_ms": 227123,
+      "name": "Rah That's A Mad Question",
+      "url": "https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU"
     },
     {
       "added_at": "2026-01-23 15:33:14",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2026-01-23 15:33:14",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3JGwr1JkfpKcDfSONcGSgo"
+        "name": "Waiting So Long",
+        "url": "https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h"
       },
       "artists": [
         {
-          "name": "Lazare",
-          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        },
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
         }
       ],
-      "duration_ms": 150374,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/6hCB3wpkp9IDPYVG9OVerH"
+      "duration_ms": 234140,
+      "name": "Waiting So Long",
+      "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
     },
     {
       "added_at": "2026-01-23 15:33:14",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-01-23 15:33:14",
       "album": {
-        "name": "Leave My Home",
-        "url": "https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 221772,
-      "name": "Leave My Home",
-      "url": "https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM"
-    },
-    {
-      "added_at": "2026-01-23 15:33:14",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 367362,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
+    },
+    {
+      "added_at": "2026-01-23 15:33:14",
+      "album": {
+        "name": "Leave My Home",
+        "url": "https://open.spotify.com/album/30YHSDjlRRnxAdIbDXgbdX"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 221772,
+      "name": "Leave My Home",
+      "url": "https://open.spotify.com/track/769CRTJKBxN0UiVYkHFoCM"
     },
     {
       "added_at": "2026-01-23 15:33:14",

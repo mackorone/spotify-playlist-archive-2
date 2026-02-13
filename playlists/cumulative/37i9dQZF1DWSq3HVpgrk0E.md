@@ -2,9 +2,9 @@
 
 ### [No Cap \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWSq3HVpgrk0E)
 
-> The whole truth\. Cover: Don Toliver
+> The whole truth\. Cover: Central Cee
 
-63 songs - 3 hr 9 min
+64 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [GOT DAMN](https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [GOT DAMN](https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec) | 2:36 | 2025-10-17 |  |
 | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/track/3yKgOMlm0LFpm9T2AhGWJJ) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [GUILT TRIPPIN \(feat\. Sexyy Red\)](https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h) | 2:33 | 2025-10-17 |  |
 | [Hello Miss Johnson](https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Hello Miss Johnson](https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy) | 2:44 | 2025-10-17 |  |
+| [ICEMAN FREESTYLE](https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [ICEMAN FREESTYLE](https://open.spotify.com/album/2WffTc00muxCNZhwopltsi) | 3:06 | 2026-02-13 |  |
 | [J.O.W.Y.H \(JUMP OUT\)](https://open.spotify.com/track/6FOoyzZj7sT0JvD7yOT9tk) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:51 | 2025-12-12 | 2026-01-31 |
 | [just say dat](https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:03 | 2025-10-17 |  |
 | [Late Checkout \(feat\. Hunxho\)](https://open.spotify.com/track/5sHs8IfRosyygVKi2V2WLn) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 3:45 | 2025-10-17 |  |
@@ -58,7 +59,7 @@
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-10-17 |  |
 | [SHOW ME LOVE \(feat\. Tory Lanez\)](https://open.spotify.com/track/37og4liez5wLRo5Rfe0ygo) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [SHOW ME LOVE \(feat\. Tory Lanez\)](https://open.spotify.com/album/4jZicC7cLLn9dQt4vGvtNh) | 2:07 | 2025-10-17 | 2025-12-01 |
 | [Summertime](https://open.spotify.com/track/2uMkradY7AwoycLaupIpNP) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6) | [Summertime](https://open.spotify.com/album/2Ne4WxL1YgJMf6r16br4mk) | 1:49 | 2025-10-17 | 2025-12-06 |
-| [Tartan](https://open.spotify.com/track/0rMZlyruR3etQ2F6baXc8S) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Reekz MB](https://open.spotify.com/artist/4LZBcaTrA5ou6aW2OJzFza) | [Tartan](https://open.spotify.com/album/7lUojGh0Vop8CmHF69H7Ig) | 1:49 | 2025-10-17 |  |
+| [Tartan](https://open.spotify.com/track/0rMZlyruR3etQ2F6baXc8S) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du), [Reekz MB](https://open.spotify.com/artist/4LZBcaTrA5ou6aW2OJzFza) | [Tartan](https://open.spotify.com/album/7lUojGh0Vop8CmHF69H7Ig) | 1:49 | 2025-10-17 | 2026-02-13 |
 | [They Want To Be You \(feat\. Future\)](https://open.spotify.com/track/2SDKEjkjZQxxSt8e9ZiqKx) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Deep Thoughts](https://open.spotify.com/album/1P7Zt5WwMMY6cwts6WkY1M) | 2:47 | 2025-10-17 |  |
 | [Tiramisu](https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Tiramisu](https://open.spotify.com/album/20CiqvzgoerVOQraNJT7t3) | 2:18 | 2025-10-17 |  |
 | [TOURMALINE](https://open.spotify.com/track/7sam5WsFimXgFOCuEOc90x) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:53 | 2025-10-17 |  |

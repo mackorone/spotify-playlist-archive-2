@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 30551,
+  "num_followers": 30562,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Juve The Great",
-        "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
-      },
-      "artists": [
-        {
-          "name": "JUVENILE",
-          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
-        },
-        {
-          "name": "Soulja Slim",
-          "url": "https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "The Neptunes Present... Clones",
         "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 236506,
       "name": "Frontin' (feat. JAY-Z) - Club Mix",
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "Juve The Great",
+        "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Soulja Slim",
+          "url": "https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
     },
     {
       "added_at": "2022-10-01 16:13:28",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
-      },
-      "artists": [
-        {
-          "name": "Sunshine Anderson",
-          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
-        }
-      ],
-      "duration_ms": 295826,
-      "name": "Heard It All Before",
-      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
         "name": "Thank Me Later",
         "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 210360,
       "name": "Show Me A Good Time",
       "url": "https://open.spotify.com/track/7v0hKO3RYhEXt2EPXf4AOS"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Anderson",
+          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Heard It All Before",
+      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
     },
     {
       "added_at": "2022-10-01 16:13:28",

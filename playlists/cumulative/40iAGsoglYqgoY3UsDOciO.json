@@ -807,6 +807,24 @@
     },
     {
       "album": {
+        "name": "BENDER",
+        "url": "https://open.spotify.com/album/1940YocJzAsNQnBAr3ID7s"
+      },
+      "artists": [
+        {
+          "name": "808 Corari",
+          "url": "https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125459,
+      "name": "BENDER",
+      "url": "https://open.spotify.com/track/4RdrLiRyx2GmM4lo43jeAY"
+    },
+    {
+      "album": {
         "name": "Bendici\u00f3n Mam\u00e1",
         "url": "https://open.spotify.com/album/31YccM9AE3ngx5tnfAHJXC"
       },

@@ -4,7 +4,7 @@
 
 > 50 nejžhavějších hitů v České republice\. Cover: Ben Cristovao
 
-196 songs - 9 hr 33 min
+197 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-07-07 |  |
 | [Já už vidím](https://open.spotify.com/track/5MASkrYZha9TxRywbo0CzS) | [BUKA](https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI) | [Já, mé druhé já a Kristýna](https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg) | 2:00 | 2025-11-24 |  |
 | [KARTÁČEK](https://open.spotify.com/track/2ybp61FAvNxmAe8XvmYWqW) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [SPEKTRUM](https://open.spotify.com/album/7aCWUL2zlwAftKiOE93Khv) | 2:15 | 2024-10-14 | 2025-05-13 |
+| [Kdo??](https://open.spotify.com/track/7v26hAmRxygMsg2SYKibzF) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh), [BUKA](https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI) | [Majitel](https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL) | 2:49 | 2026-02-12 |  |
 | [KICKIN’ DOORS](https://open.spotify.com/track/0Fdlt45ZC5yioKm90ERE86) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [KICKIN’ DOORS](https://open.spotify.com/album/4DGtuOnJ6ghDx0hKHIAxOb) | 2:57 | 2024-07-01 | 2024-12-31 |
 | [Kiki](https://open.spotify.com/track/4zBNmCPinwFF4mGgN8WqfN) | [Trabo](https://open.spotify.com/artist/19HPN1TcUQ4L5gPdRIELlr) | [Kiki](https://open.spotify.com/album/6jnEQrCjjByCACb1Q7Gx7y) | 2:53 | 2024-11-12 | 2025-02-11 |
 | [Klenot](https://open.spotify.com/track/07w0b0rg01V4K4V81bv17X) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Můj sport / Klenot](https://open.spotify.com/album/1lawAF7gDuMHRLjj7IMPf3) | 2:55 | 2026-01-19 |  |
@@ -169,7 +170,7 @@
 | [Suave](https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:01 | 2024-07-01 | 2025-10-21 |
 | [Sunset](https://open.spotify.com/track/4URDQWhb7ylkhuTY2W6hfG) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [Jerry Lee](https://open.spotify.com/artist/5TUkb2q1sX3DiWtwBPHErg), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Sunset](https://open.spotify.com/album/3UhqPWwNPWA6uAB6eVUYOd) | 2:35 | 2024-07-01 | 2025-04-15 |
 | [Swagsucks](https://open.spotify.com/track/3kGZG7KKmJmJV85JtDAUwn) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 2:42 | 2025-04-07 | 2025-05-13 |
-| [Syndrom](https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 2:46 | 2024-11-18 |  |
+| [Syndrom](https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 2:46 | 2024-11-18 | 2026-02-13 |
 | [Talk2me](https://open.spotify.com/track/0CwxocC7t7mjqvswm7TuQp) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Talk2me](https://open.spotify.com/album/62Z3vJCF0GS2kNZ4ZMKzDe) | 2:43 | 2025-04-18 |  |
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-09-10 | 2025-09-30 |
 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 | 2024-07-01 | 2024-09-24 |

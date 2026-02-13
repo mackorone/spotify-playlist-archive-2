@@ -3320,10 +3320,32 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 241600,
       "name": "Oh, Lady Be Good",
       "url": "https://open.spotify.com/track/0NR8vZH2fmIG0HDqYnYMpS"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald - First Lady Of Song",
+        "url": "https://open.spotify.com/album/7n5UUn75pwadVsF2nujN0V"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243826,
+      "name": "Oh, Lady Be Good - Live At The Shrine Auditorium,1957",
+      "url": "https://open.spotify.com/track/4KfMW9ppoYGyOxSNJT14hV"
     },
     {
       "album": {

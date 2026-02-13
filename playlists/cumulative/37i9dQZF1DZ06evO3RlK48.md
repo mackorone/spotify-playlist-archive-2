@@ -4,7 +4,7 @@
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 49 min
+46 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Bodies](https://open.spotify.com/track/2xeIWTt1cWvRa8R31RPOip) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:29 | 2024-09-15 |  |
 | [Bodies](https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Bodies](https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS) | 3:29 | 2023-03-17 | 2024-09-15 |
 | [Crying On The Bathroom Floor](https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:15 | 2023-03-17 |  |
-| [Empathy \- MUNA Remix](https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Empathy \(MUNA Remix\)](https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG) | 3:08 | 2023-03-17 |  |
+| [Dancing On The Wall](https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS) | 4:03 | 2026-02-13 |  |
+| [Empathy \- MUNA Remix](https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Empathy \(MUNA Remix\)](https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG) | 3:08 | 2023-03-17 | 2026-02-13 |
 | [End of Desire](https://open.spotify.com/track/6G4gszrXhZI5lmRvrAZrzg) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:05 | 2024-07-07 | 2024-07-24 |
 | [Everything](https://open.spotify.com/track/7amhPuxeGqyhpSuBfkx9lO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:06 | 2023-03-17 |  |
 | [Everything \- Live at The Greek Theatre in Los Angeles](https://open.spotify.com/track/2gkcER3TrQbRACJM8Yd7wZ) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Live at The Greek Theatre in Los Angeles](https://open.spotify.com/album/1tpRaW0oobL8NV7gZTJ4fS) | 4:51 | 2024-07-06 | 2024-08-06 |

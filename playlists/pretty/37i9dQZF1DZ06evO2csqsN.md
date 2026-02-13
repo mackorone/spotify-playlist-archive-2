@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,465 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,478 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 36 | [Muwop \(feat\. Gucci Mane\)](https://open.spotify.com/track/231WYcXWUxYSx79tuPtzBk) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 3:20 |
 | 37 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 |
 | 38 | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Do It \(feat\. Doja Cat, City Girls & Mulatto\) \[Remix\]](https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa) | 4:15 |
-| 39 | [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 |
-| 40 | [FINE AS CAN BE \(feat\. Latto\)](https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:32 |
+| 39 | [FINE AS CAN BE \(feat\. Latto\)](https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:32 |
+| 40 | [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 |
 | 41 | [Sunshine \(feat\. Lil Wayne & Childish Gambino\)](https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 3:26 |
 | 42 | [5'5 \(feat\. Latto\)](https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Thank You For Believing](https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB) | 2:48 |
 | 43 | [Don't Play With It \(feat\. Latto & Yung Miami\) \- Remix](https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Don't Play With It \(feat\. Latto & Yung Miami\) \[Remix\]](https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 |
 | 50 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 
-Snapshot ID: `aYp1AAAAAAB5gy/8voeHmuzMUhSQQp70`
+Snapshot ID: `aYvGgAAAAAC9LugCOfpRu3JUFTc7j6id`

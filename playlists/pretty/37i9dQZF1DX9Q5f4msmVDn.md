@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,226 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,228 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 26 | [Got It All](https://open.spotify.com/track/5sHVIQEzTg8qcEstqlIig1) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:39 |
 | 27 | [Sleepless Nights \(feat\. Phoelix\)](https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r) | 2:59 |
 | 28 | [I Don't Stress](https://open.spotify.com/track/2FJnGx6mOQh7bB1dKj4IpI) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Slauson Boy 2](https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02) | 4:21 |
-| 29 | [Replace Me \(feat\. Big Sean & Don Toliver\)](https://open.spotify.com/track/1uJ5X7MrxTr21lG5ssm5fT) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King's Disease](https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi) | 2:50 |
-| 30 | [Scoring](https://open.spotify.com/track/5DuSL6z9KIv58xWCBly9qG) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [TwoFr 2](https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK) | 3:05 |
+| 29 | [Scoring](https://open.spotify.com/track/5DuSL6z9KIv58xWCBly9qG) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [TwoFr 2](https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK) | 3:05 |
+| 30 | [Replace Me \(feat\. Big Sean & Don Toliver\)](https://open.spotify.com/track/1uJ5X7MrxTr21lG5ssm5fT) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King's Disease](https://open.spotify.com/album/5ZQjqg9obFzyGuxGj0mjSi) | 2:50 |
 | 31 | [Stars Align](https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 3:21 |
 | 32 | [FEAR.](https://open.spotify.com/track/28J8MZFrSMvd5gWxAGRBq1) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN\. COLLECTORS EDITION.](https://open.spotify.com/album/4alcGHjstaALJHHiljfy3H) | 7:40 |
 | 33 | [Fight For You \- From the Original Motion Picture "Judas and the Black Messiah"](https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Judas and the Black Messiah](https://open.spotify.com/artist/33eHnoVi12zOWe8MdqRYsR) | [Fight For You \(From the Original Motion Picture "Judas and the Black Messiah"\)](https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP) | 4:30 |

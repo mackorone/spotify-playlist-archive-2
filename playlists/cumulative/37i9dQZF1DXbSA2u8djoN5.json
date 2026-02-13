@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: DZWS, Vali Miron ",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: M.G.L, Erika Isac",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 160000,
       "name": "Acasa",
       "url": "https://open.spotify.com/track/7xfAwfLFy8ObH0oHkxZ7hV"
@@ -530,6 +530,28 @@
       "duration_ms": 126580,
       "name": "Au gust buzele",
       "url": "https://open.spotify.com/track/2z6ogbVIPgC9gS0QiPN7BA"
+    },
+    {
+      "album": {
+        "name": "BACCARAT",
+        "url": "https://open.spotify.com/album/2b0dgpmvwk93LZiJE3SMO2"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "BACCARAT",
+      "url": "https://open.spotify.com/track/68obAyvZSu6s9EzwpyaEkz"
     },
     {
       "album": {
@@ -1761,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "DUP\u0102 FAIM\u0102 DEVII NA\u0218PA",
+        "url": "https://open.spotify.com/album/4Z9peZjxxJXovjzYrtdb5R"
+      },
+      "artists": [
+        {
+          "name": "NANE",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "FAM.",
+      "url": "https://open.spotify.com/track/3wZoC2EWRgxoQt97yyREMe"
+    },
+    {
+      "album": {
         "name": "Faruri",
         "url": "https://open.spotify.com/album/4thVbOF7oQWm7CNkSRWelg"
       },
@@ -1874,7 +1914,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 269268,
       "name": "FREESTYLE P\u00c2N\u0102 LA D.F.D.N.",
       "url": "https://open.spotify.com/track/7HZP8qPQPCZiQdh2ptePLZ"
@@ -3358,7 +3398,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 146526,
       "name": "PESTE TOT",
       "url": "https://open.spotify.com/track/2akD1C98hzYuUnqslTor11"
@@ -3614,6 +3654,28 @@
       "duration_ms": 195254,
       "name": "REGELE S-A \u00ceNTORS",
       "url": "https://open.spotify.com/track/6xCiEdYc7mOoxO3c9K3Cp1"
+    },
+    {
+      "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5mJbP3TyeakQSrKgaQiFp9"
+      },
+      "artists": [
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        },
+        {
+          "name": "Maria Brasil",
+          "url": "https://open.spotify.com/artist/4EZparNGyFEDiWn83XaieN"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157021,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
     },
     {
       "album": {
@@ -4281,6 +4343,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/6zQXHOW4bTbpnn9yg7znLU"
+    },
+    {
+      "album": {
         "name": "Transportin' (Remix)",
         "url": "https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN"
       },
@@ -4770,7 +4850,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 197500,
       "name": "\u00ceMI LIPSE\u0218TI",
       "url": "https://open.spotify.com/track/2QCwBSqZThIJ6lGNipjjMd"

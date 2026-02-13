@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 
 > Risk\. Reward\. Repeat\. Listen to the music from Industry, now streaming on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,898 likes - 166 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,926 likes - 166 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 | 101 | [Youth](https://open.spotify.com/track/3bfZPCm4UrEEmrayPyxtbU) | [Ben Khan](https://open.spotify.com/artist/2YwPMfgNYeDjbkGI7PwZ3K) | [1992 EP](https://open.spotify.com/album/6NebCuedf30wTZqRTGprn2) | 3:17 |
 | 102 | [Jewel Box](https://open.spotify.com/track/7o0rbnny7h2pGkFeGPQ5Ly) | [Tom Hillock](https://open.spotify.com/artist/1Re5xtFuUVCij5MVwK9aYY) | [La nuit minimale](https://open.spotify.com/album/6JQxTukJFHB2d7OT3LD90q) | 3:26 |
 | 103 | [Bring It Up](https://open.spotify.com/track/69hESgAOaRAfX41jASh0Rk) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [Incidental Music](https://open.spotify.com/album/5Lco0BgRQR6A8koweo3SN4) | 4:06 |
-| 104 | [Letters \(Capital\) \- Jeremy Olander Remix](https://open.spotify.com/track/2JZ5v61ewoKEi2csUbn9yd) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx), [Eekkoo](https://open.spotify.com/artist/5EqWm8g2vcGLqOkiHFU86V), [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [LETTERS \(REMIXES\)](https://open.spotify.com/album/2nx8Xf8rpoDzl5vWvydlTA) | 8:58 |
+| 104 | [Letters \(Capital\) \- Jeremy Olander Remix](https://open.spotify.com/track/2JZ5v61ewoKEi2csUbn9yd) | [Sailor & I](https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx), [Eekkoo](https://open.spotify.com/artist/7rrIsAhYzNSgjIJiamaIkV), [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [LETTERS \(REMIXES\)](https://open.spotify.com/album/2nx8Xf8rpoDzl5vWvydlTA) | 8:58 |
 | 105 | [Do It Without You](https://open.spotify.com/track/0G4JbmcDdxERktnzz9ndrF) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Dawn Chorus](https://open.spotify.com/album/3fDOKKGXHv4CsGCOTv4W3z) | 3:32 |
 | 106 | [Second Death of My Face](https://open.spotify.com/track/0W9ilEPHvgT81GhxwqaIop) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [Incidental Music](https://open.spotify.com/album/5Lco0BgRQR6A8koweo3SN4) | 5:32 |
 | 107 | [Figure Me Out](https://open.spotify.com/track/5nzA3c9GeOKEat4FcaTdTz) | [Tia Carys](https://open.spotify.com/artist/6G5nZjv6YmdialJA071tD3) | [Figure Me Out](https://open.spotify.com/album/7GYdaHZ968xyTUxC3sa9Op) | 2:13 |

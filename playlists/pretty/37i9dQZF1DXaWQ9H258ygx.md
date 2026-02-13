@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/keithpowers/">Keith Powers</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,599 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,615 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWQ9H258ygx.md) - [plain]
 | 15 | [Session 32](https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Session 32](https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh) | 1:38 |
 | 16 | [Used To](https://open.spotify.com/track/0WZFN4E8HrmGUU0EMyKQ8c) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:56 |
 | 17 | [JACKIE BROWN](https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:49 |
-| 18 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 |
+| 18 | [Replay](https://open.spotify.com/track/2dFqK2ZkYB9Xc47gr3xXWl) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 2:59 |
 | 19 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 |
 | 20 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 |
-| 21 | [Replay](https://open.spotify.com/track/2dFqK2ZkYB9Xc47gr3xXWl) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 2:59 |
+| 21 | [Time Moves Slow](https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Samuel T\. Herring](https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:33 |
 | 22 | [Let Me Explain](https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Let Me Explain](https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq) | 3:43 |
 | 23 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 |
 | 24 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 |

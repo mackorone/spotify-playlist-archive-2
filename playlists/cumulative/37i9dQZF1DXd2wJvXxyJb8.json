@@ -316,7 +316,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 215520,
       "name": "A Sina De Of\u00e9lia",
       "url": "https://open.spotify.com/track/5kJKsy6I3CMkDIVtzZylW0"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 162580,
       "name": "Ama Um Maloqueiro",
       "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 138000,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
@@ -3626,7 +3626,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-24",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -7932,7 +7932,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 183235,
       "name": "MTG SOZINHA NESSA TORRE SINA DE OFELIA",
       "url": "https://open.spotify.com/track/5K5MdbU5vAIM8gvcrZgWfW"
@@ -8664,7 +8664,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 189380,
       "name": "N\u00e3o Sirvo",
       "url": "https://open.spotify.com/track/6pscx2XMC2ZcE13WOQ082K"
@@ -9599,6 +9599,36 @@
     },
     {
       "album": {
+        "name": "PEGA A MALDADE DA BANDIDA",
+        "url": "https://open.spotify.com/album/3Car77d25w5IcvDwDhYKMc"
+      },
+      "artists": [
+        {
+          "name": "Dj Luan Gomes",
+          "url": "https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS"
+        },
+        {
+          "name": "Mc Ws da leste",
+          "url": "https://open.spotify.com/artist/5Rs4gTYf15iES8jXZqhx2L"
+        },
+        {
+          "name": "Delleon",
+          "url": "https://open.spotify.com/artist/5qfEsHuNWVkGs5diuRf5OK"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "PEGA A MALDADE DA BANDIDA",
+      "url": "https://open.spotify.com/track/588PdhJdtsuypJdUb4ms4K"
+    },
+    {
+      "album": {
         "name": "Pega o Guanabara",
         "url": "https://open.spotify.com/album/1hpgbFf4Kzomnp0hMHMzrL"
       },
@@ -9802,6 +9832,36 @@
       "duration_ms": 194022,
       "name": "Pipoco",
       "url": "https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk"
+    },
+    {
+      "album": {
+        "name": "Pique Anos 80",
+        "url": "https://open.spotify.com/album/1NnQabuzqHfICeVw2wL6Ax"
+      },
+      "artists": [
+        {
+          "name": "Kaue Mc",
+          "url": "https://open.spotify.com/artist/4Amq40B1awicYgOZlACbU7"
+        },
+        {
+          "name": "WR Original",
+          "url": "https://open.spotify.com/artist/3i6ctIgUbjQQpqrDVlxvtx"
+        },
+        {
+          "name": "DJ CLEBER",
+          "url": "https://open.spotify.com/artist/1Hd0OkFbOEllOnmQj6nurm"
+        },
+        {
+          "name": "DJ LP Malvad\u00e3o",
+          "url": "https://open.spotify.com/artist/2u5PN9VIp4WFd6PeHp7eJ5"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "Pique Anos 80",
+      "url": "https://open.spotify.com/track/4m3nNqcqRDefROgesL4rAG"
     },
     {
       "album": {
@@ -10349,6 +10409,36 @@
     },
     {
       "album": {
+        "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
+        "url": "https://open.spotify.com/album/0fCdf2W6IcPdWaFceqJMLo"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Ryuchi",
+          "url": "https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
+      "url": "https://open.spotify.com/track/4YQ37NPJlIUMFo8Kq51heS"
+    },
+    {
+      "album": {
         "name": "QUE EU VOU TE BOTAR",
         "url": "https://open.spotify.com/album/5fUkvbwQFcdsOHtEd1IkC3"
       },
@@ -10488,6 +10578,24 @@
       "duration_ms": 107076,
       "name": "Rabet\u00e3o De Terremoto",
       "url": "https://open.spotify.com/track/4swtnATsndB7VJVq0n4EQE"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
+        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
+      },
+      "artists": [
+        {
+          "name": "Filho do Piseiro",
+          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136333,
+      "name": "Raparigas",
+      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
     },
     {
       "album": {

@@ -4,12 +4,13 @@
 
 > De beste tunes op repeat\. Cover: CHO
 
-111 songs - 5 hr 17 min
+112 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 BOTTLES](https://open.spotify.com/track/3VAke2ytnjRHsOymqBfhbr) | [SFB](https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Priceless](https://open.spotify.com/artist/2408j875K0AESndCiOw5UO), [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI) | [Reset The Levels IV](https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE) | 3:16 | 2025-07-17 |  |
 | [180](https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [180](https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj) | 3:31 | 2025-07-17 |  |
+| [Afterparty](https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Afterparty](https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU) | 2:35 | 2026-02-12 |  |
 | [AH TXE TXE](https://open.spotify.com/track/79wWpQPAcfqEeYCDjqGOVY) | [GIANT](https://open.spotify.com/artist/2YPBmmwBWiFzpoae8JQXIR), [TYSON](https://open.spotify.com/artist/4AMWsRQg1bTvWflaYNq713), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [AH TXE TXE](https://open.spotify.com/album/295XHZuwcQXO0iKMEdeiio) | 2:16 | 2025-07-17 | 2025-12-11 |
 | [Alsjeblieft](https://open.spotify.com/track/6EqWfORn8udIwOBx6NSktf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Alsjeblieft](https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr) | 3:20 | 2025-07-17 |  |
 | [Amazin' \- Remix](https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Amazin’ \(Remix\)](https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h) | 2:55 | 2025-07-17 | 2026-01-30 |
@@ -74,7 +75,7 @@
 | [Niet Verstandig](https://open.spotify.com/track/35BKAvxM6Thb2lN5dvqnfF) | [Kleine John](https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M) | [Niet Verstandig](https://open.spotify.com/album/3oxxu47TjP2Krk6iz1dQ4B) | 2:22 | 2025-07-17 |  |
 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 | 2025-07-17 |  |
 | [No Wahala \- Remix](https://open.spotify.com/track/4yaPPFIafaVaMRHZ5IHkbA) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [No Wahala \(Remix\)](https://open.spotify.com/album/1CuCITWTEr6lE2q3MraOSG) | 2:58 | 2025-07-17 |  |
-| [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-12-10 |  |
+| [NOKIA](https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 4:01 | 2025-12-10 | 2026-02-13 |
 | [Noncha](https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Noncha](https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ) | 3:18 | 2025-07-17 |  |
 | [Nu Meteen \(Slide\)](https://open.spotify.com/track/73epTVTwGh2rSnMkrKmgJS) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Nu Meteen \(Slide\)](https://open.spotify.com/album/0nbuaqiqyG3lN2wfOHgypg) | 2:33 | 2025-07-17 |  |
 | [OHMA TOKITA](https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [OHMA TOKITA](https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ) | 2:15 | 2025-07-17 |  |

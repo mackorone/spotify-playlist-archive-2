@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 596057,
+  "num_followers": 596117,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAABCvECQcsQ2ejy27JzPrvLR",
+  "snapshot_id": "aYvGgAAAAADBjB91qiQHFzQlAkScoc25",
   "tracks": [
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss Me Kiss Me Kiss Me (Remastered 2006)",
-        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Why Can't I Be You? - Remastered 2006",
-      "url": "https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL"
+      "duration_ms": 218960,
+      "name": "Play For Today",
+      "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+        "name": "Kiss Me Kiss Me Kiss Me (Remastered 2006)",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 218960,
-      "name": "Play For Today",
-      "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
+      "duration_ms": 193200,
+      "name": "Why Can't I Be You? - Remastered 2006",
+      "url": "https://open.spotify.com/track/5hRhmOl7l5FrpxZJQQp9WL"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 209666,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
+      "duration_ms": 183426,
+      "name": "M",
+      "url": "https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56"
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 183426,
-      "name": "M",
-      "url": "https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32"
+      "duration_ms": 209666,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys Don\u2019t Cry (86 Mix)",
-        "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 134421,
-      "name": "Plastic Passion - 79 Mix / 2026 Remaster",
-      "url": "https://open.spotify.com/track/3mY0emITFckDU59zoXOZx2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Head on the Door (Deluxed Edition)",
         "url": "https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 198506,
       "name": "Six Different Ways - 2006 Remaster",
       "url": "https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys Don\u2019t Cry (86 Mix)",
+        "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 134421,
+      "name": "Plastic Passion - 79 Mix / 2026 Remaster",
+      "url": "https://open.spotify.com/track/3mY0emITFckDU59zoXOZx2"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys Don\u2019t Cry (86 Mix)",
-        "url": "https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 159734,
-      "name": "Do The Hansa - 86 Mix / 2026 Remaster",
-      "url": "https://open.spotify.com/track/3jTgYv61FVyyR6gGOmJxFK"
+      "duration_ms": 261959,
+      "name": "Doing The Unstuck",
+      "url": "https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o"
     }
   ],
   "unique_name": "This Is The Cure",

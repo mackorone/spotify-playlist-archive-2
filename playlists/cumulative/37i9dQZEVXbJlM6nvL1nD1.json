@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 207296,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
@@ -7034,7 +7034,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -7078,7 +7078,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -10150,7 +10150,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/7ns16ylM6sbxo9ZWIwyE5d"
@@ -15708,7 +15708,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 309120,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
@@ -16438,7 +16438,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 240964,
       "name": "ori\u00f3N",
       "url": "https://open.spotify.com/track/4feh4Ak3ZJfC6ibxkNzlkE"
@@ -20208,7 +20208,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 295176,
       "name": "Safaera",
       "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
@@ -21262,7 +21262,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 170971,
       "name": "Si Veo a Tu Mam\u00e1",
       "url": "https://open.spotify.com/track/41wtwzCZkXwpnakmwJ239F"
@@ -24400,7 +24400,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 172426,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH"
@@ -25872,6 +25872,24 @@
       "duration_ms": 259853,
       "name": "Yo No S\u00e9 Ma\u00f1ana",
       "url": "https://open.spotify.com/track/54uBpRpdpMx96JAk1OyHez"
+    },
+    {
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "album": {

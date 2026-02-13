@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-393 songs - 21 hr 24 min
+394 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Counting My Blessings](https://open.spotify.com/track/25so4J9mQGZ4PWpPlUfjUe) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t), [Don Iko](https://open.spotify.com/artist/0v8SYPtnsz0VJNU1qmA2yU) | [Coconut Girl](https://open.spotify.com/album/6KohWNMUynz1OcxilOEFrh) | 3:06 | 2022-08-18 | 2022-10-05 |
 | [Criminal Wine](https://open.spotify.com/track/5RbUFQRc01KmiJJsWOSqnA) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng), [Millbeatz](https://open.spotify.com/artist/7j4HRg7osKitCRai9a4HJh), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Criminal Wine](https://open.spotify.com/album/47QripZKouFnkYCzvnLKZ1) | 3:46 | 2023-02-21 | 2023-05-16 |
 | [Crocodile](https://open.spotify.com/track/5mLuvQ7HZqBxe6R2SU5GKn) | [Problem Child](https://open.spotify.com/artist/1lE1SGLNabSpBbJB9A9qtU) | [Crocodile](https://open.spotify.com/album/58dFumYH9rF8pfqGb3sqa5) | 4:16 | 2022-02-24 | 2022-08-19 |
+| [Cyah Behave](https://open.spotify.com/track/5XrReM1qnTTG04tLjfKg7c) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Cyah Behave](https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G) | 2:41 | 2026-02-12 |  |
 | [D N A](https://open.spotify.com/track/6n9lFQTIv6pWvFXXQzPjws) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [D N A](https://open.spotify.com/album/1GTcyA5SDYdffWpYUwX1Q8) | 3:26 | 2024-07-24 |  |
 | [Dance with Me](https://open.spotify.com/track/09Buf6SCL2n6k4xKgIU3aT) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/0WmujWq72Kz6Wftq3lZJwT) | 3:25 | 2022-08-18 | 2023-02-22 |
 | [Dance with Me](https://open.spotify.com/track/2LJA95AIJcynB3lgM6VzXj) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Coconut Girl](https://open.spotify.com/album/6KohWNMUynz1OcxilOEFrh) | 3:25 | 2022-08-18 | 2022-10-05 |
@@ -148,7 +149,7 @@
 | [Give It to Ya](https://open.spotify.com/track/75jyBlvlVkSgjXiQDTWUeS) | [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [Give It to Ya](https://open.spotify.com/album/0iopXsva2XNBdBJgUcE5Vc) | 2:52 | 2023-05-15 | 2025-06-06 |
 | [Going Under](https://open.spotify.com/track/4tOUf7lkkYruBFzUk9Hd48) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [The Walé Project](https://open.spotify.com/album/0ISnwh4dunq4gUPT9TsmMq) | 3:17 | 2022-02-24 | 2022-08-19 |
 | [Good Morning](https://open.spotify.com/track/6tYdPcVJ1tBjRj3gy7ffXa) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Good Morning](https://open.spotify.com/album/4RhfVTbVSJjSvUOyry5q7R) | 3:35 | 2023-07-28 | 2024-07-25 |
-| [Good Spirits](https://open.spotify.com/track/4d5wU16s66y4En0zB56MWS) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Big Links Riddim](https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi) | 3:20 | 2025-02-06 |  |
+| [Good Spirits](https://open.spotify.com/track/4d5wU16s66y4En0zB56MWS) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Big Links Riddim](https://open.spotify.com/album/6MR9ljY1pMxGDJYjkasUPi) | 3:20 | 2025-02-06 | 2026-02-13 |
 | [Guh Down](https://open.spotify.com/track/4gNXjJOrIn7UUX2SJhs27J) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2011](https://open.spotify.com/album/7mbrzf6XMjrp3WAcy9uwX0) | 3:07 | 2023-07-11 | 2024-07-25 |
 | [Gyal Owner](https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Tight Squeeze Riddim](https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3) | 3:23 | 2023-02-21 |  |
 | [Gyal You a Party Animal](https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Gyal You a Party Animal](https://open.spotify.com/album/0AuidICCpJQTwjMajndF4h) | 3:34 | 2023-05-15 | 2023-07-12 |

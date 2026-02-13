@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 894573,
+  "num_followers": 894708,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,34 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
+        "name": "Amazone Project",
+        "url": "https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64"
+      },
+      "artists": [
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        },
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 230322,
+      "name": "Raiz Brasileira",
+      "url": "https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
         "name": "Objetos enterrados",
         "url": "https://open.spotify.com/album/6bzxe3foKkJVAuZsFkPdRk"
       },
@@ -435,30 +463,22 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Amazone Project",
-        "url": "https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64"
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj"
       },
       "artists": [
         {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
         },
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Carlinhos Brown",
-          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
-        },
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+          "name": "Koba Brown",
+          "url": "https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75"
         }
       ],
-      "duration_ms": 230322,
-      "name": "Raiz Brasileira",
-      "url": "https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3"
+      "duration_ms": 180021,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -495,26 +515,6 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Marathon",
-        "url": "https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Koba Brown",
-          "url": "https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75"
-        }
-      ],
-      "duration_ms": 180021,
-      "name": "Marathon",
-      "url": "https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
         "name": "I See The Sun",
         "url": "https://open.spotify.com/album/4etM1UCLaOIDvemwbX1x3w"
       },
@@ -539,26 +539,22 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Under The Sun (Part One)",
-        "url": "https://open.spotify.com/album/7kkAq9kErGaqUJSfC4qGu4"
+        "name": "Salaam",
+        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
       },
       "artists": [
         {
-          "name": "Sun-El Musician",
-          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
         },
         {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Skye Wanda",
-          "url": "https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1"
+          "name": "Hiya",
+          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
         }
       ],
-      "duration_ms": 291274,
-      "name": "Umlungu Wami",
-      "url": "https://open.spotify.com/track/0Z63ASshEjLPyOxguKGYve"
+      "duration_ms": 286829,
+      "name": "Salaam",
+      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -579,6 +575,30 @@
       "duration_ms": 210500,
       "name": "Amado",
       "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Under The Sun (Part One)",
+        "url": "https://open.spotify.com/album/7kkAq9kErGaqUJSfC4qGu4"
+      },
+      "artists": [
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Skye Wanda",
+          "url": "https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1"
+        }
+      ],
+      "duration_ms": 291274,
+      "name": "Umlungu Wami",
+      "url": "https://open.spotify.com/track/0Z63ASshEjLPyOxguKGYve"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -731,6 +751,22 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+      },
+      "artists": [
+        {
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+        }
+      ],
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
         "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
         "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
       },
@@ -751,18 +787,18 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
       },
       "artists": [
         {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
         }
       ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -783,42 +819,6 @@
       "duration_ms": 152975,
       "name": "Kamwana",
       "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
-      },
-      "artists": [
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Salaam",
-        "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        },
-        {
-          "name": "Hiya",
-          "url": "https://open.spotify.com/artist/3QUG7OWwyrFEc2AwGKyVUH"
-        }
-      ],
-      "duration_ms": 286829,
-      "name": "Salaam",
-      "url": "https://open.spotify.com/track/2I66wEXbWczezAQKSVoyQg"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Boho",
-        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Boho",
-      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
         "name": "I'm Here",
         "url": "https://open.spotify.com/album/3D52eLwtMbO0OLr0aloAI0"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 205864,
       "name": "I'm Here",
       "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Boho",
+        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Boho",
+      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
+        "name": "Hidden Garden",
+        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 297802,
+      "name": "Hidden Garden",
+      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
         "name": "6 Years of Underyourskin Records",
         "url": "https://open.spotify.com/album/0lzBCZ4jYzWAnprP4UidiJ"
       },
@@ -1047,18 +1063,22 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Hidden Garden",
-        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
+        "name": "The Landing",
+        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
       "artists": [
         {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+          "name": "JPattersson",
+          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
+        },
+        {
+          "name": "Nadav Dagon",
+          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
         }
       ],
-      "duration_ms": 297802,
-      "name": "Hidden Garden",
-      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
+      "duration_ms": 435466,
+      "name": "The Landing - Nadav Dagon & JPattersson",
+      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1079,26 +1099,6 @@
       "duration_ms": 285148,
       "name": "Casablanca",
       "url": "https://open.spotify.com/track/1Am4yQgjawTWCy3dZsNWpJ"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "The Landing",
-        "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
-      },
-      "artists": [
-        {
-          "name": "JPattersson",
-          "url": "https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK"
-        },
-        {
-          "name": "Nadav Dagon",
-          "url": "https://open.spotify.com/artist/0KEW5NLCT0ZXGrwgWJxaQU"
-        }
-      ],
-      "duration_ms": 435466,
-      "name": "The Landing - Nadav Dagon & JPattersson",
-      "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
-        "name": "Paradis",
-        "url": "https://open.spotify.com/album/6RVedVs3jFjdloOXtUj6g1"
-      },
-      "artists": [
-        {
-          "name": "Lilya Mandre",
-          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
-        },
-        {
-          "name": "Dennis Louvra",
-          "url": "https://open.spotify.com/artist/1bnuItr7MYlCFolYYSi3fC"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Paradis",
-      "url": "https://open.spotify.com/track/4Mr5dysZrv8trW5xOPpaws"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/1tfKXKwMc6sIxja3j9dJbM"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 416014,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/6RVedVs3jFjdloOXtUj6g1"
+      },
+      "artists": [
+        {
+          "name": "Lilya Mandre",
+          "url": "https://open.spotify.com/artist/463i9LIHaALBtaNMxiNffW"
+        },
+        {
+          "name": "Dennis Louvra",
+          "url": "https://open.spotify.com/artist/1bnuItr7MYlCFolYYSi3fC"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/4Mr5dysZrv8trW5xOPpaws"
     },
     {
       "added_at": "2026-02-06 14:35:03",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-02-06 14:35:03",
       "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG"
+    },
+    {
+      "added_at": "2026-02-06 14:35:03",
+      "album": {
         "name": "Show Me",
         "url": "https://open.spotify.com/album/5Ta8jERROmZgTiCGAt6Mkn"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 170324,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/7rPKSjPgwWDc8S9toczFgV"
-    },
-    {
-      "added_at": "2026-02-06 14:35:03",
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7c03ElAhoOu0EorNLA2chE"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3Al39i3wHuZ2fH1dKgHmYG"
     },
     {
       "added_at": "2026-02-06 14:35:03",

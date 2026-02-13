@@ -1,6 +1,6 @@
 {
   "description": "Daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2615",
-  "num_followers": 342081,
+  "num_followers": 342064,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 209733,
-      "name": "Prizefighter",
-      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
         "name": "W to mi graj",
         "url": "https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 189520,
       "name": "W to mi graj",
       "url": "https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 209733,
+      "name": "Prizefighter",
+      "url": "https://open.spotify.com/track/2cS7Mx24vjZQAPnWd2BwGK"
     },
     {
       "added_at": "2026-01-30 10:09:05",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
-        "name": "City Walls",
-        "url": "https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8"
-      },
-      "artists": [
-        {
-          "name": "Archive",
-          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
-        }
-      ],
-      "duration_ms": 311960,
-      "name": "City Walls",
-      "url": "https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
         "name": "Sentimental Value",
         "url": "https://open.spotify.com/album/5OoZ2XvZIxa511ZkAmm3cO"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 197672,
       "name": "Riksarkivet",
       "url": "https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
+        "name": "City Walls",
+        "url": "https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8"
+      },
+      "artists": [
+        {
+          "name": "Archive",
+          "url": "https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk"
+        }
+      ],
+      "duration_ms": 311960,
+      "name": "City Walls",
+      "url": "https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4"
     },
     {
       "added_at": "2026-01-30 10:09:05",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
-        "name": "Dream Of Mine",
-        "url": "https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8"
-      },
-      "artists": [
-        {
-          "name": "Ellur",
-          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
-        }
-      ],
-      "duration_ms": 243570,
-      "name": "Dream Of Mine",
-      "url": "https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
         "name": "Wczorajszy tlen",
         "url": "https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 180679,
       "name": "Wczorajszy tlen",
       "url": "https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
+        "name": "Dream Of Mine",
+        "url": "https://open.spotify.com/album/74HhRzwMgHcWuDLsMF2Ow8"
+      },
+      "artists": [
+        {
+          "name": "Ellur",
+          "url": "https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7"
+        }
+      ],
+      "duration_ms": 243570,
+      "name": "Dream Of Mine",
+      "url": "https://open.spotify.com/track/1TP9UU4b0wV3hgiLi0SeoB"
     },
     {
       "added_at": "2026-01-30 10:09:05",
@@ -1041,6 +1041,38 @@
       "url": "https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs"
     },
     {
+      "added_at": "2026-01-30 10:12:40",
+      "album": {
+        "name": "Mo\u017ce wolniej",
+        "url": "https://open.spotify.com/album/51gwYmWzH81RaKsDL5KXfa"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "duration_ms": 145134,
+      "name": "Mo\u017ce wolniej",
+      "url": "https://open.spotify.com/track/6PM2WnI82OpoQAN3eWqTMi"
+    },
+    {
+      "added_at": "2026-01-30 10:09:05",
+      "album": {
+        "name": "B\u0119d\u0119 twoj\u0105 Sylvi\u0105 Plath",
+        "url": "https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y"
+      },
+      "artists": [
+        {
+          "name": "Pola Maj",
+          "url": "https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T"
+        }
+      ],
+      "duration_ms": 190655,
+      "name": "B\u0119d\u0119 twoj\u0105 Sylvi\u0105 Plath",
+      "url": "https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs"
+    },
+    {
       "added_at": "2026-01-30 10:09:05",
       "album": {
         "name": "Ramen",
@@ -1071,18 +1103,22 @@
     {
       "added_at": "2026-01-30 10:09:05",
       "album": {
-        "name": "B\u0119d\u0119 twoj\u0105 Sylvi\u0105 Plath",
-        "url": "https://open.spotify.com/album/3mPq4OEZQGcqtDe6lYHX3y"
+        "name": "GODSPEED",
+        "url": "https://open.spotify.com/album/4V8nHlud02hz69Cqwoah2q"
       },
       "artists": [
         {
-          "name": "Pola Maj",
-          "url": "https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T"
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        },
+        {
+          "name": "Richie Quake",
+          "url": "https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6"
         }
       ],
-      "duration_ms": 190655,
-      "name": "B\u0119d\u0119 twoj\u0105 Sylvi\u0105 Plath",
-      "url": "https://open.spotify.com/track/0Bfe03aAJYC2avYUkyljxs"
+      "duration_ms": 193273,
+      "name": "GODSPEED",
+      "url": "https://open.spotify.com/track/4cYDTIDr19K7eHfVD9zMJA"
     },
     {
       "added_at": "2026-01-30 10:09:05",
@@ -1101,22 +1137,6 @@
       "url": "https://open.spotify.com/track/5JGNvqBlOUb256Wa587RQr"
     },
     {
-      "added_at": "2026-01-30 10:12:40",
-      "album": {
-        "name": "Mo\u017ce wolniej",
-        "url": "https://open.spotify.com/album/51gwYmWzH81RaKsDL5KXfa"
-      },
-      "artists": [
-        {
-          "name": "Dominik Dudek",
-          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
-        }
-      ],
-      "duration_ms": 145134,
-      "name": "Mo\u017ce wolniej",
-      "url": "https://open.spotify.com/track/6PM2WnI82OpoQAN3eWqTMi"
-    },
-    {
       "added_at": "2026-01-30 10:09:05",
       "album": {
         "name": "PRZEPRASZAM",
@@ -1131,26 +1151,6 @@
       "duration_ms": 157974,
       "name": "PRZEPRASZAM",
       "url": "https://open.spotify.com/track/4SjKuoNNQY5KDX63ryLNPF"
-    },
-    {
-      "added_at": "2026-01-30 10:09:05",
-      "album": {
-        "name": "GODSPEED",
-        "url": "https://open.spotify.com/album/4V8nHlud02hz69Cqwoah2q"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        },
-        {
-          "name": "Richie Quake",
-          "url": "https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6"
-        }
-      ],
-      "duration_ms": 193273,
-      "name": "GODSPEED",
-      "url": "https://open.spotify.com/track/4cYDTIDr19K7eHfVD9zMJA"
     },
     {
       "added_at": "2026-01-30 10:09:05",

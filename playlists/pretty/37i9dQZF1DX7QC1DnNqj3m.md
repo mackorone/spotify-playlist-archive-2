@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 
 > Bask in the sound of soul, old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,031 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,019 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 21 | [Me and Mrs\. Jones](https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [360 Degrees of Billy Paul \(Expanded Edition\)](https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a) | 4:44 |
 | 22 | [Good Vibrations](https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Good Vibrations](https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF) | 3:49 |
 | 23 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 |
-| 24 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
-| 25 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
+| 24 | [Tears Dry On Their Own](https://open.spotify.com/track/6yLX8QnxlnEqZfs3YKCfjF) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:05 |
+| 25 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 |
 | 26 | [I Wish I Knew How It Would Feel to Be Free](https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 3:08 |
 | 27 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 |
 | 28 | [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 77 | [Can't Get Out Of This Mood](https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 3:42 |
 | 78 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
 | 79 | [This body](https://open.spotify.com/track/1OMgq21kzpvXOJzE8Cufnx) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Do you feel the same?](https://open.spotify.com/album/5yWWc7zmTtLFxB9aqFWA0N) | 4:20 |
-| 80 | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Waiting In Vain \(Feat\. Tiwa Savage\)](https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN) | 4:03 |
+| 80 | [Shoulda Woulda Coulda](https://open.spotify.com/track/60klOfI3BgFCTWrnve4TAH) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk) | [Who I Am](https://open.spotify.com/album/0aQ68gBcrnVrsjXFIJzKLR) | 3:32 |
 
 Snapshot ID: `AAAAAGMz/1qMInZ6sb1tPPYYmDllKV9e`

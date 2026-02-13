@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest EA SPORTS FC tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,068 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,077 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 23 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 |
 | 24 | [Machu Picchu](https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:29 |
 | 25 | [Tighten Up](https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:31 |
-| 26 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
-| 27 | [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 |
+| 26 | [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 |
+| 27 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
 | 28 | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Dimension \(feat\. Skepta & Rema\)](https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF) | 3:54 |
 | 29 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 |
 | 30 | [Soy Yo](https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 2:39 |

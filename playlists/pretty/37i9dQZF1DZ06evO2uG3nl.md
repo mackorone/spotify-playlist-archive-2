@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uG3nl.md) - [plain]
 
 > This is Addison Rae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,253 likes - 14 songs - 38 min 18 sec
+[Spotify](https://open.spotify.com/user/spotify) - 9,260 likes - 14 songs - 38 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uG3nl.md) - [plain]
 | 8 | [Aquamarine / Arcamarine](https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Aquamarine / Arcamarine](https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN) | 3:14 |
 | 9 | [Headphones On](https://open.spotify.com/track/3H6xZgwRZx8McVUJzmMxWe) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 4:00 |
 | 10 | [Nothing On \(But The Radio\)](https://open.spotify.com/track/58q4iIjSd6zueicG8F65GW) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:29 |
-| 11 | [New York](https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:32 |
+| 11 | [High Fashion](https://open.spotify.com/track/7KwPWmB1gA9zRubseJ7OB2) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:18 |
 | 12 | [it could’ve been u](https://open.spotify.com/track/4kUs9LuptVXtLqm2CK9JA7) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:15 |
-| 13 | [High Fashion](https://open.spotify.com/track/7KwPWmB1gA9zRubseJ7OB2) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:18 |
+| 13 | [New York](https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:32 |
 | 14 | [Money is Everything](https://open.spotify.com/track/0yKuz6SU0TN3ViDaydV9ti) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 2:02 |
 
-Snapshot ID: `aYp1AAAAAAByq74QnkDPvA1CKIhpz67V`
+Snapshot ID: `aYvGgAAAAADbFFgrrVyyU9w7GFgfbB6x`

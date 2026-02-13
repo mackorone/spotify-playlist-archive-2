@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,502 likes - 47 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,523 likes - 47 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 14 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 |
 | 15 | [Robbed You \(with Mariah the Scientist\)](https://open.spotify.com/track/4hpV1Xrh2HbyMovybPJdTS) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 3:18 |
 | 16 | [Tonight](https://open.spotify.com/track/1qC6px1TOZgQFoTSOFUaBr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:56 |
-| 17 | [Take Me Out This Club](https://open.spotify.com/track/6B9oDwfKNa4IzMAxadTPeQ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 2:45 |
-| 18 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
+| 17 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
+| 18 | [Take Me Out This Club](https://open.spotify.com/track/6B9oDwfKNa4IzMAxadTPeQ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 2:45 |
 | 19 | [Baby \(with Chris Brown\)](https://open.spotify.com/track/1LxGpGxyFmIwYPP61Tzaho) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:28 |
 | 20 | [Come Thru \(with Usher\)](https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:01 |
 | 21 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 46 | [Shower Tears \(feat\. Summer Walker\)](https://open.spotify.com/track/5g8frSfNnBYjSpLkLtFnCd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:27 |
 | 47 | [D & G \(feat\. Summer Walker\)](https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 2:52 |
 
-Snapshot ID: `aYp1AAAAAACm8Iw2n9ikiIti6No/wvmF`
+Snapshot ID: `aYvGgAAAAAA9010dgnrbSNw1flXsdfXz`

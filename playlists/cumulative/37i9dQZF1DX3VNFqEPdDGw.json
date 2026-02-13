@@ -174,7 +174,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 199024,
       "name": "3 Saal",
       "url": "https://open.spotify.com/track/79h8qs80gWctemxJ4m1WvC"
@@ -4585,6 +4585,28 @@
     },
     {
       "album": {
+        "name": "Kharra",
+        "url": "https://open.spotify.com/album/5ankPEU43F7Ci2zrg0fm0Z"
+      },
+      "artists": [
+        {
+          "name": "Sammi Nagra",
+          "url": "https://open.spotify.com/artist/7ugkHQE1DEP0i3LXjVqpey"
+        },
+        {
+          "name": "Mamta Rani",
+          "url": "https://open.spotify.com/artist/7u69PGmS4mYcnoISdzdCEH"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165651,
+      "name": "Kharra",
+      "url": "https://open.spotify.com/track/39l36BIPnlTeildioRKMOA"
+    },
+    {
+      "album": {
         "name": "Mankirt Aulakh Vol. 1",
         "url": "https://open.spotify.com/album/1LzjSBsrxFGlhHTjvTNtP8"
       },
@@ -5290,7 +5312,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 212432,
       "name": "Matha Mittran Nu Tek",
       "url": "https://open.spotify.com/track/36aujBIehAcftH7m76N0cN"
@@ -6350,7 +6372,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Poonian",
       "url": "https://open.spotify.com/track/7HOB9THwRvVSozGYuycMSR"

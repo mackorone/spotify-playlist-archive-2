@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Beyond The Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,292 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 818,319 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Cradle To The Grave](https://open.spotify.com/track/0jVsMpF6RFUECMzYoiYiW7) | [Simone Simons](https://open.spotify.com/artist/5Mbm3otSC2eWtbfbwOBgw4), [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt), [Alissa White\-Gluz](https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg) | [Vermillion](https://open.spotify.com/album/18SzJd75guEOuFZ1KCNIz9) | 3:59 |
 | 80 | [Armada](https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Armada](https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr) | 4:03 |
 | 81 | [Son of Vengeance](https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT) | [Rhapsody Of Fire](https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1) | [Glory for Salvation](https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i) | 5:46 |
-| 82 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
-| 83 | [Morphine Waltz](https://open.spotify.com/track/4q7tTzUdao2IOKTCz17ym0) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [Opera](https://open.spotify.com/album/1dDS9EG35qdgeshBzEP2ja) | 3:36 |
+| 82 | [Morphine Waltz](https://open.spotify.com/track/4q7tTzUdao2IOKTCz17ym0) | [Fleshgod Apocalypse](https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML) | [Opera](https://open.spotify.com/album/1dDS9EG35qdgeshBzEP2ja) | 3:36 |
+| 83 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
 | 84 | [Childhood](https://open.spotify.com/track/1CznPeF4zp76HqUmZk26dp) | [Dawn of Destiny](https://open.spotify.com/artist/6AOHVA5mVwHahUw5H4Fa45), [Chris Harms](https://open.spotify.com/artist/4iBB0ZxqxKEsGo6xbMuYVD) | [Of Silence](https://open.spotify.com/album/1dR6oYAK5YRVstm9q6AtA1) | 3:50 |
 | 85 | [Light And Shadow](https://open.spotify.com/track/1ZNNG5R3vubOwrUNuLRhmL) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Light And Shadow](https://open.spotify.com/album/6IGSMlmG6IsidEUEetpfwp) | 4:18 |
 | 86 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 |

@@ -922,7 +922,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 229106,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT"
@@ -1034,6 +1034,24 @@
       "duration_ms": 377600,
       "name": "If There Is Light, It Will Find You",
       "url": "https://open.spotify.com/track/2ycUYO0JIm5vQtCyy4OpDV"
+    },
+    {
+      "album": {
+        "name": "In Your Absence",
+        "url": "https://open.spotify.com/album/0G1Vh5fbYFSznBHoBXuIEc"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200300,
+      "name": "In Your Absence",
+      "url": "https://open.spotify.com/track/09c4HIWuuBBm5F2M7YGMe1"
     },
     {
       "album": {

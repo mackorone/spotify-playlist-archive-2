@@ -317,6 +317,28 @@
     },
     {
       "album": {
+        "name": "All The People",
+        "url": "https://open.spotify.com/album/5sQ1g96oYDps5PpKiLQGRz"
+      },
+      "artists": [
+        {
+          "name": "Micky More & Andy Tee",
+          "url": "https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN"
+        },
+        {
+          "name": "Fatimah Provillon",
+          "url": "https://open.spotify.com/artist/7xLl7CSuCmdhv3HiQbyL4O"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222479,
+      "name": "All The People - Edit",
+      "url": "https://open.spotify.com/track/2otayexp9IovjIulGLksjq"
+    },
+    {
+      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/29oPN3u6CiGP1Lw0Q4qiZG"
       },
@@ -388,7 +410,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 271735,
       "name": "As If You Read My Mind - Spotify Radio Mix",
       "url": "https://open.spotify.com/track/75GaPDbeRWvPWhP0bMFXwN"
@@ -2674,7 +2696,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-15",
+      "date_removed": null,
       "duration_ms": 493658,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4scBie3GmexE62QpfQ7cEY"
@@ -3066,7 +3088,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 376565,
       "name": "Good Inside",
       "url": "https://open.spotify.com/track/4Wg5xrNoixLwpVtghEDczg"
@@ -3664,7 +3686,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 268780,
       "name": "Home - Emmaculate Remix Edit",
       "url": "https://open.spotify.com/track/543H1vQW3TPhmQQPpnKYNp"
@@ -5088,7 +5110,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 595000,
       "name": "Love Affair (Phunk Farmers Music Vocal Mix) [the Adlib]",
       "url": "https://open.spotify.com/track/7gOS1uKFHNQnH0AAM8QPum"
@@ -5424,7 +5446,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 166874,
       "name": "Make A Way - Radio Mix",
       "url": "https://open.spotify.com/track/3uVlZFHNyOw65Q5flFIwTY"
@@ -5708,6 +5730,32 @@
       "duration_ms": 203325,
       "name": "Moving In Time",
       "url": "https://open.spotify.com/track/0jRo4xFtmRNJMqVmPdiiY6"
+    },
+    {
+      "album": {
+        "name": "Mr. Melody (The Coflo Remix)",
+        "url": "https://open.spotify.com/album/6zdQZopjtxnX8zehUT4OhB"
+      },
+      "artists": [
+        {
+          "name": "Sheila Ford",
+          "url": "https://open.spotify.com/artist/0dNWEWyezbiAnep7vIiRB4"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Coflo",
+          "url": "https://open.spotify.com/artist/5cyFgv39M8BX9gjW2czyMk"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362926,
+      "name": "Mr. Melody - Coflo Remix",
+      "url": "https://open.spotify.com/track/47C8efVCzwCmlxnqd3WEQ3"
     },
     {
       "album": {
@@ -6344,7 +6392,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 180000,
       "name": "Power in Harmony - Original Edit",
       "url": "https://open.spotify.com/track/3tV6MB2SQR5Wbg8Ngn6OTi"
@@ -6660,6 +6708,24 @@
       "duration_ms": 280000,
       "name": "Rise - Black Sonix & Sean McCabe Radio Edit",
       "url": "https://open.spotify.com/track/5xR3h1iRZm6Vt4rS5slWOq"
+    },
+    {
+      "album": {
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/6p6lyaRb5q137KwAwcq9QT"
+      },
+      "artists": [
+        {
+          "name": "Jordi Cabrera",
+          "url": "https://open.spotify.com/artist/6MIVnJ66ZhwXvPqxrTHQME"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369677,
+      "name": "Rise Again - Original Mix",
+      "url": "https://open.spotify.com/track/7fOxa0igq6duNKLFGOKtSM"
     },
     {
       "album": {
@@ -7688,7 +7754,7 @@
       ],
       "date_added": "2025-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 423736,
       "name": "The Way - RBL Edit",
       "url": "https://open.spotify.com/track/14lAZzxyO8VhjZLBLmzSv6"
@@ -8766,7 +8832,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 208906,
       "name": "You Bring Joy - Radio Edit",
       "url": "https://open.spotify.com/track/10z9yFjjary6BlvgFaujhP"

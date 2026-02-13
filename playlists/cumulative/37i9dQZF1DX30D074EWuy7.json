@@ -832,7 +832,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 196240,
       "name": "Arise I",
       "url": "https://open.spotify.com/track/3UmcTDmRpuS2GuMeaFNNHH"
@@ -7998,6 +7998,24 @@
       "duration_ms": 293866,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/4dloclI8tlsFDjUTTSYuXY"
+    },
+    {
+      "album": {
+        "name": "SANG",
+        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
+      },
+      "artists": [
+        {
+          "name": "Dario Jacque",
+          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
+        }
+      ],
+      "date_added": "2026-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "notte brava",
+      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
     },
     {
       "album": {

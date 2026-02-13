@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 180073,
+  "num_followers": 180088,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
-        "url": "https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
-      "url": "https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa"
-    },
-    {
-      "added_at": "2026-02-03 15:00:11",
-      "album": {
         "name": "DAILY BOP",
         "url": "https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 145384,
       "name": "\u30a8\u30e2\u3081\u306e\u590f",
       "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
+    },
+    {
+      "added_at": "2026-02-03 15:00:11",
+      "album": {
+        "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
+        "url": "https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa"
     },
     {
       "added_at": "2026-02-03 15:00:11",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "\u767d\u7121\u57a2",
-        "url": "https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "\u767d\u7121\u57a2",
-      "url": "https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo"
-    },
-    {
-      "added_at": "2026-02-03 15:00:11",
-      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 254929,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC"
+    },
+    {
+      "added_at": "2026-02-03 15:00:11",
+      "album": {
+        "name": "\u767d\u7121\u57a2",
+        "url": "https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "\u767d\u7121\u57a2",
+      "url": "https://open.spotify.com/track/2QzJWdpJOGKwAIyA4anrbo"
     },
     {
       "added_at": "2026-02-03 15:00:11",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
+        "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "url": "https://open.spotify.com/album/08V4DnfoV2GJEhipLhUyrD"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "duration_ms": 195900,
+      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/4u9vXoi6e2SRaCQNicDg3B"
+    },
+    {
+      "added_at": "2026-02-03 15:00:11",
+      "album": {
         "name": "NEW GRAVITY",
         "url": "https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
-        "url": "https://open.spotify.com/album/08V4DnfoV2GJEhipLhUyrD"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 195900,
-      "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
-      "url": "https://open.spotify.com/track/4u9vXoi6e2SRaCQNicDg3B"
-    },
-    {
-      "added_at": "2026-02-03 15:00:11",
-      "album": {
         "name": "\u30ab \u30df \u30ca \u30ea",
         "url": "https://open.spotify.com/album/2zqIBWA4EAuPPNqeznO68y"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "4:00 A.M. (2025 Re-edit Version)",
-        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
-      },
-      "artists": [
-        {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
-        }
-      ],
-      "duration_ms": 283854,
-      "name": "4:00 A.M. (2025 Re-edit Version)",
-      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
-    },
-    {
-      "added_at": "2026-02-03 15:00:11",
-      "album": {
         "name": "HONDA",
         "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 239746,
       "name": "HONDA",
       "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
+    },
+    {
+      "added_at": "2026-02-03 15:00:11",
+      "album": {
+        "name": "4:00 A.M. (2025 Re-edit Version)",
+        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 283854,
+      "name": "4:00 A.M. (2025 Re-edit Version)",
+      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
     },
     {
       "added_at": "2026-02-03 15:00:11",
@@ -1371,8 +1371,8 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "CYM",
-        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
+        "name": "Torie",
+        "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
       },
       "artists": [
         {
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 249090,
-      "name": "CYM",
-      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
+      "duration_ms": 234380,
+      "name": "Torie",
+      "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
     },
     {
       "added_at": "2026-02-03 15:00:11",
@@ -1439,32 +1439,28 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "Scramble City (feat. \u8ca1\u6d25\u30de\u30a4)",
-        "url": "https://open.spotify.com/album/2HAWZ7SXN2JyDi9Dvy2M9V"
+        "name": "Peppermint Time \uff5e20th Anniversary Best\uff5e",
+        "url": "https://open.spotify.com/album/7meBtgpFcPhXVRtwytboHl"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
         },
         {
-          "name": "\u8ca1\u6d25\u30de\u30a4",
-          "url": "https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3"
-        },
-        {
-          "name": "KiBi",
-          "url": "https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm"
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
         }
       ],
-      "duration_ms": 230181,
-      "name": "Scramble City (feat. \u8ca1\u6d25\u30de\u30a4)",
-      "url": "https://open.spotify.com/track/0cSuhEqdlu88AT9lh1Sp2b"
+      "duration_ms": 251266,
+      "name": "\u7f8e\u3057\u3044\u9854 - with \u793c\u8cdb",
+      "url": "https://open.spotify.com/track/2SwIWPeV9dvmFF4O5d0nUc"
     },
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "Torie",
-        "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
+        "name": "CYM",
+        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
       },
       "artists": [
         {
@@ -1472,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 234380,
-      "name": "Torie",
-      "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
+      "duration_ms": 249090,
+      "name": "CYM",
+      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
     },
     {
       "added_at": "2026-02-03 15:00:11",
@@ -1511,22 +1507,26 @@
     {
       "added_at": "2026-02-03 15:00:11",
       "album": {
-        "name": "Peppermint Time \uff5e20th Anniversary Best\uff5e",
-        "url": "https://open.spotify.com/album/7meBtgpFcPhXVRtwytboHl"
+        "name": "Scramble City (feat. \u8ca1\u6d25\u30de\u30a4)",
+        "url": "https://open.spotify.com/album/2HAWZ7SXN2JyDi9Dvy2M9V"
       },
       "artists": [
         {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
         },
         {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+          "name": "\u8ca1\u6d25\u30de\u30a4",
+          "url": "https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3"
+        },
+        {
+          "name": "KiBi",
+          "url": "https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm"
         }
       ],
-      "duration_ms": 251266,
-      "name": "\u7f8e\u3057\u3044\u9854 - with \u793c\u8cdb",
-      "url": "https://open.spotify.com/track/2SwIWPeV9dvmFF4O5d0nUc"
+      "duration_ms": 230181,
+      "name": "Scramble City (feat. \u8ca1\u6d25\u30de\u30a4)",
+      "url": "https://open.spotify.com/track/0cSuhEqdlu88AT9lh1Sp2b"
     },
     {
       "added_at": "2026-02-03 15:00:11",

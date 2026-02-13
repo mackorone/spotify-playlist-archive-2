@@ -263,6 +263,28 @@
     },
     {
       "album": {
+        "name": "No me fui porque quise",
+        "url": "https://open.spotify.com/album/0pbChddIjWWBWwEcI0CvB5"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Ensamble B11",
+          "url": "https://open.spotify.com/artist/1GHTrN7LBr8Vb7juk5Jdaz"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181285,
+      "name": "aguafresca",
+      "url": "https://open.spotify.com/track/1FxJnpAlznk2pmgrZAQdkS"
+    },
+    {
+      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -477,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/1yMMSrLIM3D497KmhcbWrT"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Tellier",
+          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191053,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2TekScsqJyCJ6TO9Y32X09"
+    },
+    {
+      "album": {
         "name": "Past Lives (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2JwAMKpwk4IolH2KhF6nPn"
       },
@@ -554,6 +598,24 @@
       "duration_ms": 193187,
       "name": "Anestesia",
       "url": "https://open.spotify.com/track/2EQKYVMpnpvyUaHZL2VQlU"
+    },
+    {
+      "album": {
+        "name": "Angeles",
+        "url": "https://open.spotify.com/album/1vad0gJkkmtHw3j57nrrSj"
+      },
+      "artists": [
+        {
+          "name": "City of the Sun",
+          "url": "https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/1WRwNkPolcW0a6sveTUBY8"
     },
     {
       "album": {
@@ -3649,6 +3711,28 @@
     },
     {
       "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/6GBLknvNaAb9NOn6R3EKWO"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        },
+        {
+          "name": "Odezenne",
+          "url": "https://open.spotify.com/artist/1FiWBzw15KbR9amOb1Xnxp"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450080,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/5PJdNG477BnSSs3bDAsHX9"
+    },
+    {
+      "album": {
         "name": "Maestra Vida",
         "url": "https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25"
       },
@@ -4100,6 +4184,24 @@
       "duration_ms": 212626,
       "name": "It's In Our Hands",
       "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
+    },
+    {
+      "album": {
+        "name": "Its All Your Fault",
+        "url": "https://open.spotify.com/album/0ZAulOULwegPyCFNUkA3mV"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250259,
+      "name": "Its All Your Fault",
+      "url": "https://open.spotify.com/track/7rfgQPSBVwmAeEn0LIY51d"
     },
     {
       "album": {
@@ -5842,7 +5944,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 119745,
       "name": "Not the Same",
       "url": "https://open.spotify.com/track/5F46tSpX8QXCSX22UUcveS"
@@ -6790,7 +6892,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 334625,
       "name": "Rapid Fire",
       "url": "https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU"
@@ -7316,7 +7418,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 200476,
       "name": "Season Finale",
       "url": "https://open.spotify.com/track/3LSAVMvco9SOlZgOePCwYz"
@@ -8346,7 +8448,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 280200,
       "name": "The Precision Of Infinity",
       "url": "https://open.spotify.com/track/2rS9zMcdBiskXD4Sosc7mb"
@@ -9316,7 +9418,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 139490,
       "name": "When And Why",
       "url": "https://open.spotify.com/track/6sbw9uWJCn7L0smSuOkcdf"

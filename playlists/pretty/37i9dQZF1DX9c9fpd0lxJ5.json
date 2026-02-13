@@ -183,22 +183,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "El Renacimiento",
-        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 197853,
-      "name": "Diamantes",
-      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Flores Robadas",
         "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
       },
@@ -235,6 +219,22 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
+        "name": "El Renacimiento",
+        "url": "https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 197853,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
         "name": "God Said No",
         "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
       },
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Puro Teatro",
-        "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Provincia",
-      "url": "https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/7r6vkoLXv4y7aCJOns15NG"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 250178,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/7ns39yx54DOHmmqWetPV6v"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Puro Teatro",
+        "url": "https://open.spotify.com/album/0omCx2FvDNSj9i6J0KHp3P"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Provincia",
+      "url": "https://open.spotify.com/track/5L0h6EbHsxXJG8YLrknKqY"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 214573,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Miss Colombia",
         "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Lucero",
-        "url": "https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A"
-      },
-      "artists": [
-        {
-          "name": "Vicente Cifuentes",
-          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
-        }
-      ],
-      "duration_ms": 226697,
-      "name": "Lucero",
-      "url": "https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Puente",
         "url": "https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 180746,
       "name": "Puente",
       "url": "https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Lucero",
+        "url": "https://open.spotify.com/album/3S8BSzmo1AQcShRuxJgN6A"
+      },
+      "artists": [
+        {
+          "name": "Vicente Cifuentes",
+          "url": "https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG"
+        }
+      ],
+      "duration_ms": 226697,
+      "name": "Lucero",
+      "url": "https://open.spotify.com/track/0PZEQTuukLN5d5VhFOXML5"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -912,7 +912,7 @@
           "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
         }
       ],
-      "duration_ms": 156623,
+      "duration_ms": 156624,
       "name": "Santo Domingo",
       "url": "https://open.spotify.com/track/0iLN9FL8qQNsd13N5TVPAX"
     },
@@ -931,6 +931,22 @@
       "duration_ms": 148229,
       "name": "Hasta M\u00e1laga",
       "url": "https://open.spotify.com/track/6F9FBd4ZTKlhCuvxzJWcZf"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -955,18 +971,22 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+        "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
+        "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
+      "duration_ms": 167753,
+      "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
+      "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -991,26 +1011,6 @@
       "duration_ms": 167726,
       "name": "Acto de Fe - A & B Remix",
       "url": "https://open.spotify.com/track/7qd8tiws4kLMsxfSNXiiUk"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
-        "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
-        "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 167753,
-      "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
-      "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "El Sol De Las 3",
-        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Intr\u00e9pida",
-      "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 279840,
       "name": "Libre",
       "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "El Sol De Las 3",
+        "url": "https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA"
+      },
+      "artists": [
+        {
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Intr\u00e9pida",
+      "url": "https://open.spotify.com/track/0qpfalTdyhy33HjUUunwYn"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
+        "name": "qu\u00e9 bueno!",
+        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 157394,
+      "name": "qu\u00e9 bueno!",
+      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
         "name": "El Ride",
         "url": "https://open.spotify.com/album/2gn2Y3RAxuMjGvbQNl9IKw"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 164444,
       "name": "El Ride",
       "url": "https://open.spotify.com/track/6QZCS1tO3dL3gm9ZHWL4d0"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
-        "name": "qu\u00e9 bueno!",
-        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 157394,
-      "name": "qu\u00e9 bueno!",
-      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
     },
     {
       "added_at": "2025-10-24 04:00:24",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Fuma",
-        "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Fuma",
-      "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "me perdono",
         "url": "https://open.spotify.com/album/4TR5qYz8iLFlQLy1NUDn1V"
       },
@@ -1695,6 +1675,26 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
+        "name": "Fuma",
+        "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Fuma",
+      "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
         "name": "Perd\u00f3n por lo que dije",
         "url": "https://open.spotify.com/album/0bQiEyTwxJF5zxmacklfKc"
       },
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-10-24 04:00:24",
       "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/12ZTthAi7mA6pZqvafJip2"
-      },
-      "artists": [
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 166757,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/2COIPWPW4VmT9FKiNx1xry"
-    },
-    {
-      "added_at": "2025-10-24 04:00:24",
-      "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 153000,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV"
+    },
+    {
+      "added_at": "2025-10-24 04:00:24",
+      "album": {
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/12ZTthAi7mA6pZqvafJip2"
+      },
+      "artists": [
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 166757,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/2COIPWPW4VmT9FKiNx1xry"
     }
   ],
   "unique_name": "indie feliz",

@@ -2111,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Cyah Behave",
+        "url": "https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161736,
+      "name": "Cyah Behave",
+      "url": "https://open.spotify.com/track/5XrReM1qnTTG04tLjfKg7c"
+    },
+    {
+      "album": {
         "name": "Cyah Pick",
         "url": "https://open.spotify.com/album/1FPz4Lm59MpRThF6HIyZv8"
       },
@@ -2184,7 +2202,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 125160,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/6Do4bqBjIN6ZlAXsBY5050"

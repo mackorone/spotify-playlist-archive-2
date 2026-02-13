@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,210 songs - 3 day 2 hr 23 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,211 songs - 3 day 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1218,5 +1218,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1208 | [SAFETY](https://open.spotify.com/track/3sJLoIc9y1b4gKAP8ZNsR9) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:18 |
 | 1209 | [Run A Train \(with Future\)](https://open.spotify.com/track/4pPJQ2p8jIsBuvxEIW2R99) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:02 |
 | 1210 | [Bunce Road Blues \(with Future & Tems\)](https://open.spotify.com/track/6jtqO14L18plBtpDTtUkFR) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:10 |
+| 1211 | [Legacy \(with PJ\)](https://open.spotify.com/track/7oSdhQFfq5ScVjRkVcj4Ua) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 3:55 |
 
-Snapshot ID: `AAAJs669UEMvEbe1qYrLiggLXLqIhDDx`
+Snapshot ID: `AAAJtCz4lqTEAXeiU7ptqz+FtD06wEdJ`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-247 songs - 18 hr 43 min
+248 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [Oh Lawd, I'm on My Way](https://open.spotify.com/track/4Hpj72WvRBn2015EZUh73X) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Golden Star Collection Vol\. 1](https://open.spotify.com/album/7iMlhQfk9HhYdOqHu0tPDq) | 2:58 | 2024-07-24 |  |
 | [Oh the Train Is at the Station](https://open.spotify.com/track/5zJs9aamF3W922XtZaLxqo) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:47 | 2025-09-10 |  |
 | [Oh, Doctor Jesus](https://open.spotify.com/track/52spbvBOV8l4lSit4YmkHs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 1:59 | 2024-07-24 |  |
-| [Oh, Lady Be Good](https://open.spotify.com/track/0NR8vZH2fmIG0HDqYnYMpS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 4:01 | 2025-12-19 |  |
+| [Oh, Lady Be Good](https://open.spotify.com/track/0NR8vZH2fmIG0HDqYnYMpS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 4:01 | 2025-12-19 | 2026-02-13 |
+| [Oh, Lady Be Good \- Live At The Shrine Auditorium,1957](https://open.spotify.com/track/4KfMW9ppoYGyOxSNJT14hV) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Ella Fitzgerald \- First Lady Of Song](https://open.spotify.com/album/7n5UUn75pwadVsF2nujN0V) | 4:03 | 2026-02-12 |  |
 | [On The Double](https://open.spotify.com/track/5DgvQdgGwYLqG4yK8owSRr) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [H.F.M\. 2 \(Hunger For More 2\)](https://open.spotify.com/album/0h8gzYOChHoUjn3xt4mDsS) | 2:49 | 2024-07-24 |  |
 | [Once](https://open.spotify.com/track/2jCjGgisq1fAGPhLXqCm5U) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Verve Jazz Masters 22: Billy Eckstine](https://open.spotify.com/album/4HU6gci1rDGzzra6JGTi5y) | 2:51 | 2025-01-09 | 2025-04-12 |
 | [One Man](https://open.spotify.com/track/0geL00mBChQvKJlGoYWvFl) | [Martin Martini](https://open.spotify.com/artist/2mH3j2sF6WavBC62cQKfkX) | [Vienna 1913](https://open.spotify.com/album/0Vt2ZoSK5RGvKb8YGsxurA) | 1:19 | 2025-01-09 | 2025-04-12 |

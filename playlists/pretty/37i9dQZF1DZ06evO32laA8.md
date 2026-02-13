@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32laA8.md) - [plain]
 
 > This is Isabel LaRosa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,684 likes - 31 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,687 likes - 31 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32laA8.md) - [plain]
 | 24 | [16 Candles](https://open.spotify.com/track/7qvB5smqDwXVlMQ86W6XeJ) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [16 Candles](https://open.spotify.com/album/5vUGgKV0bpOQ645bszOfZq) | 2:28 |
 | 25 | [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 |
 | 26 | [i don't forgive you](https://open.spotify.com/track/6D2HY29PYcdXCicrs55Icx) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:44 |
-| 27 | [Good Girl](https://open.spotify.com/track/5JC4XWf0j1mc86I5vpaViE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:05 |
+| 27 | [Destroy Myself For You](https://open.spotify.com/track/2ORzVBlYsxSlFL6moTxxxy) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:23 |
 | 28 | [Therapy](https://open.spotify.com/track/4KyTnzwdUOh7Tyr4oVhCdg) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Therapy](https://open.spotify.com/album/5j1y9v7z07RcLBUyTvMvUx) | 2:18 |
 | 29 | [praying](https://open.spotify.com/track/2nPOaOSY7HAitNxGGhM0cR) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:46 |
-| 30 | [Destroy Myself For You](https://open.spotify.com/track/2ORzVBlYsxSlFL6moTxxxy) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:23 |
+| 30 | [Good Girl](https://open.spotify.com/track/5JC4XWf0j1mc86I5vpaViE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:05 |
 | 31 | [Girl Of Your Dreams](https://open.spotify.com/track/57VTWm2rMYF5MP1H5Cw0qW) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Raven](https://open.spotify.com/album/012dJutTI1nox9KAK5ER31) | 2:31 |
 
-Snapshot ID: `aYp1AAAAAAAp0B6KXqe5LT7ipX6+xB/U`
+Snapshot ID: `aYvGgAAAAACHOTQaRvDccbaThtJfjokD`

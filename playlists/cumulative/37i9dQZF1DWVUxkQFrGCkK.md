@@ -2,9 +2,9 @@
 
 ### [Umami](https://open.spotify.com/playlist/37i9dQZF1DWVUxkQFrGCkK)
 
-> Tulum szn
+> Tulum szn\. Cover: Sofia Kourtesis
 
-1,178 songs - 3 day 10 hr 1 min
+1,181 songs - 3 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Doin Ya Thang](https://open.spotify.com/track/2KnMG7ROpc76hMKobBiocK) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin Ya Thang](https://open.spotify.com/album/4EMuJFBM5Cx9R5SaX4ZcuI) | 6:55 | 2023-06-01 | 2023-12-21 |
 | [Doin' Ya Thang](https://open.spotify.com/track/3j8xObsGOilqWptFLy8ngi) | [Oliver Dollar](https://open.spotify.com/artist/38Z7dMMVB0YYbKn4fDYNz3) | [Doin' Ya Thang](https://open.spotify.com/album/69WKtxNECUvG0G6mbSfLEg) | 6:55 | 2023-12-14 | 2024-04-19 |
 | [Dollar $hort \- Blank Sense Remix](https://open.spotify.com/track/7jivmDV4po63ctjWWbMqNa) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Blank Sense](https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw), [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM) | [Dollar $hort \(Remixes\)](https://open.spotify.com/album/6cJqDVDPXmcGVKenYEXDev) | 3:18 | 2024-02-15 | 2024-03-15 |
+| [DON'T KILL MY VIBE](https://open.spotify.com/track/4c1CYN4v3wzH43Mpka8F86) | [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G), [Amè](https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD) | [DON'T KILL MY VIBE](https://open.spotify.com/album/1CDLzqcftlU7kj8HGyA2TZ) | 2:26 | 2026-02-12 |  |
 | [Don't Let Go](https://open.spotify.com/track/4s3xXkjGYSwI01zTp5f1by) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Don't Let Go](https://open.spotify.com/album/7g83bQ1Gic6MRsrIPuzuga) | 4:29 | 2023-04-13 | 2024-01-05 |
 | [Don't Let Me Down](https://open.spotify.com/track/3fAnnlaTKtnq5F87jbwmUh) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Ridges](https://open.spotify.com/artist/199tThI1DV4Y9yQT49z5Rt) | [Don't Let Me Down](https://open.spotify.com/album/6EbIpYfCkF33KKuhFo7b53) | 2:18 | 2025-06-05 |  |
 | [Don't Truss ft\. Caitlyn Scarlett](https://open.spotify.com/track/3JO36unveXPBt4aeE8ezN7) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Caitlyn Scarlett](https://open.spotify.com/artist/1Bztk1lPSvwiBJCujObyxU) | [Don't Truss](https://open.spotify.com/album/1zfhDwtp0cUIpkIalHpCCG) | 3:45 | 2023-09-28 | 2025-01-10 |
@@ -590,6 +591,7 @@
 | [Long Train Running](https://open.spotify.com/track/4pbh0GGWVn9RlunpD1wBoI) | [Ghostbusterz](https://open.spotify.com/artist/62afOPRPMMS388Upk1nZP4) | [Long Train Running](https://open.spotify.com/album/6eTt8VGehn4iQ8bKfpQqAH) | 4:40 | 2024-05-03 | 2025-08-01 |
 | [Looking For Love](https://open.spotify.com/track/08z1Wf8QxqDcVcxux3DvGx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 4:50 | 2023-07-31 | 2025-01-10 |
 | [Loosen Up](https://open.spotify.com/track/2jWZ9NZotZb2hN5obKx2FA) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [Loosen Up](https://open.spotify.com/album/0zVdQCWZh8j3FARvnNr6sZ) | 3:00 | 2025-06-26 |  |
+| [Los Poemas No Siempre Riman \(DJ\-Kicks\)](https://open.spotify.com/track/3iDRa9vD0TunjvYzcVcRSC) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Los Poemas No Siempre Riman \(DJ\-Kicks\)](https://open.spotify.com/album/4d4QfJ0qQGdQe1SZVXDech) | 4:35 | 2026-02-12 |  |
 | [Lose Your Love](https://open.spotify.com/track/0MbWTn0MTwqvW3OItPMaOX) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Lose Your Love](https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi) | 3:12 | 2024-03-07 | 2024-04-05 |
 | [Lost & Found](https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Lost & Found](https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG) | 3:59 | 2023-06-29 | 2023-08-02 |
 | [Lost In The Desert](https://open.spotify.com/track/2RNrddOJ8ABDSNIyqCwg25) | [Chambord](https://open.spotify.com/artist/5S5jGEkiJMWHt6XYasZOLJ), [Solidmind](https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF) | [Lost In The Desert](https://open.spotify.com/album/3Dl447qI0KgKOwhVMagDQC) | 4:24 | 2024-10-03 | 2025-08-01 |
@@ -740,6 +742,7 @@
 | [No Pasa Nada](https://open.spotify.com/track/7L1ewhWgKxi51Zfwzs62YJ) | [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Michi](https://open.spotify.com/artist/46sq2wqjj1guydEdGwXba2) | [No Pasa Nada](https://open.spotify.com/album/5b2QLeRpkcWZFZErjZuhoX) | 1:41 | 2025-02-27 |  |
 | [No Reason \- O'Flynn Remix](https://open.spotify.com/track/2LAkYom1gp2DYGO4JVOB9h) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [No Reason \(O’Flynn Remix\)](https://open.spotify.com/album/6jvA1gzmx6p6aaIXZ5iHk9) | 3:47 | 2023-05-18 | 2023-08-02 |
 | [No Sleep \(No Me Dejan Dormir\)](https://open.spotify.com/track/1JwMrp7fkOKHQRimzi8tuL) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [No Sleep \(No Me Dejan Dormir\)](https://open.spotify.com/album/2wdqTB5LqyomeohvBYjVaH) | 2:38 | 2025-02-13 |  |
+| [No Te Vayas](https://open.spotify.com/track/1THBkgdr9V8NIzVWF3YgZN) | [Anton Kling](https://open.spotify.com/artist/1rDWJP3cmXGDYMtxps03Og) | [No Te Vayas](https://open.spotify.com/album/7oSK5IEDIiIFG7vYWrf4Cu) | 2:59 | 2026-02-12 |  |
 | [No Title Yet](https://open.spotify.com/track/0lP2AR9s4THJxLsjgYBmar) | [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [No Title Yet](https://open.spotify.com/album/433ALMp1xUMlXSUPTW69Ah) | 8:08 | 2025-01-23 |  |
 | [No Way Out](https://open.spotify.com/track/7Cl5ITyEbFN7f2Y3YzfGTY) | [OSFUR](https://open.spotify.com/artist/6qrKiEKVVelbXJa8HwchwO), [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [The Scripture](https://open.spotify.com/artist/7nGeoIGnJVQTHcDIAqCStR) | [No Way Out](https://open.spotify.com/album/42UGCuosGzHkMVsk2SbUHb) | 3:40 | 2025-06-19 |  |
 | [Not Going Home](https://open.spotify.com/track/0IZVjZNdDhjb1pXydPA6AU) | [Rex The Dog](https://open.spotify.com/artist/5zbQoW1WWTzvITE8w4ckoC) | [Not Going Home](https://open.spotify.com/album/5xmMohRmdN6r1DnOcnqNFC) | 3:29 | 2025-03-14 |  |

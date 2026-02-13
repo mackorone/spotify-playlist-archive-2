@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5728,
+  "num_followers": 5729,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAXUfhViwOzE3JIkLo0SfJs",
+  "snapshot_id": "aYvGgAAAAACWVuafb3aeqQVG/fjyTIB5",
   "tracks": [
     {
       "added_at": null,
@@ -795,50 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
-        "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Kamaiyah",
-          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "YMTK",
-          "url": "https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
-      "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -887,6 +843,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
+        "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "YMTK",
+          "url": "https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
+      "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stone Cold: DELUXE EDITION",
         "url": "https://open.spotify.com/album/3n0uYyyL4ONNrl6RwbZ2ql"
       },
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Going To Work - Single",
+        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 197187,
+      "name": "Going To Work",
+      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For The Soil",
         "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 217710,
       "name": "Suede",
       "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Going To Work - Single",
-        "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 197187,
-      "name": "Going To Work",
-      "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
     },
     {
       "added_at": null,
@@ -991,22 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Type Beat",
-      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Should Know",
         "url": "https://open.spotify.com/album/3L5OWAmBC0sIaTcLf35vrr"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 177000,
       "name": "Mack",
       "url": "https://open.spotify.com/track/1lv6YHO3cxqQ8o2tG9xTAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Type Beat",
+      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     },
     {
       "added_at": null,
@@ -1075,6 +1075,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 175354,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SHINE",
         "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 182926,
       "name": "Luh U",
       "url": "https://open.spotify.com/track/4eDRjjFdu1g6Q4Z4i9Dvjm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEMONADE FREESTYLE (Remix)",
-        "url": "https://open.spotify.com/album/2tnu3sjltkTWvLZ6R1meLT"
-      },
-      "artists": [
-        {
-          "name": "Darrell Medellin",
-          "url": "https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 142654,
-      "name": "LEMONADE FREESTYLE - Remix",
-      "url": "https://open.spotify.com/track/0XyaOS7RzOSqvcdRmpa7em"
     }
   ],
   "unique_name": "This Is P-Lo",

@@ -1,6 +1,6 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 19789,
+  "num_followers": 19788,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-07-25 04:00:38",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2025-07-25 04:00:38",
-      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2025-07-25 04:00:38",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "added_at": "2025-07-25 04:00:38",
@@ -947,18 +947,26 @@
     {
       "added_at": "2025-07-25 04:00:38",
       "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 156825,
-      "name": "PUSH 2 START",
-      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+      "duration_ms": 253390,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
     },
     {
       "added_at": "2025-07-25 04:00:38",
@@ -975,6 +983,38 @@
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2025-07-25 04:00:38",
+      "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+    },
+    {
+      "added_at": "2025-07-25 04:00:38",
+      "album": {
+        "name": "Jananto",
+        "url": "https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 181445,
+      "name": "Jananto",
+      "url": "https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM"
     },
     {
       "added_at": "2025-07-25 04:00:38",
@@ -1007,38 +1047,6 @@
     {
       "added_at": "2025-07-25 04:00:38",
       "album": {
-        "name": "Jananto",
-        "url": "https://open.spotify.com/album/2CQgwTs4d2wtPVpQsYn7tU"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 181445,
-      "name": "Jananto",
-      "url": "https://open.spotify.com/track/2y6nmfpAadpzXaDyhOEEHM"
-    },
-    {
-      "added_at": "2025-07-25 04:00:38",
-      "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186612,
-      "name": "Busy Woman",
-      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
-    },
-    {
-      "added_at": "2025-07-25 04:00:38",
-      "album": {
         "name": "Dixque d'art",
         "url": "https://open.spotify.com/album/5fvUcupi73B843UBlMcRxS"
       },
@@ -1059,26 +1067,18 @@
     {
       "added_at": "2025-07-25 04:00:38",
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
       },
       "artists": [
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 253390,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+      "duration_ms": 186612,
+      "name": "Busy Woman",
+      "url": "https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP"
     },
     {
       "added_at": "2025-07-25 04:00:38",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2025-07-25 04:00:38",
       "album": {
+        "name": "D\u00c1KITI",
+        "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "D\u00c1KITI",
+      "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
+    },
+    {
+      "added_at": "2025-07-25 04:00:38",
+      "album": {
         "name": "undressed",
         "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
       },
@@ -1207,22 +1227,6 @@
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2025-07-25 04:00:38",
-      "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": "2025-07-25 04:00:38",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2025-07-25 04:00:38",
       "album": {
-        "name": "D\u00c1KITI",
-        "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 205090,
-      "name": "D\u00c1KITI",
-      "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": "2025-07-25 04:00:38",

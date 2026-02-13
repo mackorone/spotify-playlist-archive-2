@@ -4,7 +4,7 @@
 
 > feel the magic with the gems in r&b right now
 
-704 songs - 1 day 12 hr 15 min
+705 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Bubble](https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Bubble](https://open.spotify.com/album/3HOhTyKfISCPdz1cdhWuye) | 3:15 | 2023-01-12 | 2023-09-01 |
 | [Burn](https://open.spotify.com/track/3RnSyeEzR2AU7ZQN2poS6Z) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Burn](https://open.spotify.com/album/2lHJ0k2PbqwVJXy6dRyakY) | 3:21 | 2024-04-02 | 2025-02-06 |
 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 | 2024-06-06 | 2025-03-08 |
-| [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 | 2025-04-03 |  |
+| [BUTTERFLIES](https://open.spotify.com/track/0quwQM9YgpwBsNnCyZ8aaA) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [LUCKY ME](https://open.spotify.com/album/5vmtaTVrBuTpRnRgLWKcCP) | 2:43 | 2025-04-03 | 2026-02-13 |
 | [Butterflies](https://open.spotify.com/track/3HPS8Nh23hatP7iZ3E7qEz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 3:17 | 2022-07-22 | 2023-01-13 |
 | [Butterflies](https://open.spotify.com/track/1OJgQzXu7j0gNgNO1zTJxG) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Cold Cozy Winter](https://open.spotify.com/album/076sIwGvnwVKqIr2QIzysG) | 3:18 | 2022-10-27 | 2022-11-14 |
 | [Butterflies](https://open.spotify.com/track/5XGJj8eIm5tSdxkIm6GBal) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Butterflies](https://open.spotify.com/album/5pzzVGspnxIYiGqqYyxstR) | 3:18 | 2021-12-16 | 2022-07-29 |
@@ -136,7 +136,7 @@
 | [Clueless](https://open.spotify.com/track/5jNiwsjNcve1qqpEaubXfe) | [AKA Block](https://open.spotify.com/artist/3znfzjYazV5OBop5w9Fa2B) | [Clueless](https://open.spotify.com/album/3i0ahzjchFHOA34HA6uMWp) | 3:10 | 2023-11-16 | 2024-11-22 |
 | [Comfortable](https://open.spotify.com/track/7GZCvyXbdMq9mRhf5lNQgI) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Comfortable](https://open.spotify.com/album/2tJSVkMzgZxqP4GXHljomJ) | 2:29 | 2021-12-16 | 2022-01-21 |
 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 | 2024-09-27 | 2025-04-12 |
-| [Complicit](https://open.spotify.com/track/3MafQbJ6au0CsZAD0ftcwk) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [Complicit](https://open.spotify.com/album/77FzzNEtt65KNobFAasmfM) | 2:37 | 2025-11-11 |  |
+| [Complicit](https://open.spotify.com/track/3MafQbJ6au0CsZAD0ftcwk) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [Mitchell Yard](https://open.spotify.com/artist/6uBNJwADs2esWMFezi5Eb2) | [Complicit](https://open.spotify.com/album/77FzzNEtt65KNobFAasmfM) | 2:37 | 2025-11-11 | 2026-02-13 |
 | [Connexion](https://open.spotify.com/track/5euRP53moGQyGCsq8aNjvo) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 3:16 | 2021-12-16 | 2023-05-13 |
 | [Control](https://open.spotify.com/track/049pAILMAf9ZLsESoBTpSV) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Control](https://open.spotify.com/album/7u17k9ZpKOlttpdfR49Hh0) | 2:55 | 2024-11-21 | 2025-08-15 |
 | [Control](https://open.spotify.com/track/73dizJioW3V6zacAOr1tg3) | [Paul Eckert](https://open.spotify.com/artist/1eoWfFa4fgWTTv212vn78R) | [Covers](https://open.spotify.com/album/3uuBQUwNStdBuJs2Xoidbs) | 4:01 | 2021-12-16 | 2023-01-13 |
@@ -199,7 +199,7 @@
 | [feelings 4 u](https://open.spotify.com/track/0bJymL5VTkMpiaZWw5048W) | [Colette Lush](https://open.spotify.com/artist/6cPaKxbdmfSTmt1wKh4GcX) | [feelings 4 u](https://open.spotify.com/album/18Q7p6s4Va4TVe7OqA5yoe) | 2:24 | 2023-08-31 | 2023-10-13 |
 | [Fierce](https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Fierce](https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY) | 2:22 | 2023-11-16 | 2024-03-02 |
 | [Find Me Again](https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB) | [1STVIRGINIA](https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW), [SRNO](https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5) | [Find Me Again](https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI) | 2:47 | 2023-10-09 | 2024-07-23 |
-| [Find My Lover](https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Find My Lover](https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA) | 2:09 | 2025-04-11 | 2026-02-08 |
+| [Find My Lover](https://open.spotify.com/track/6Q4odYdfamczWhVntWnYBH) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Find My Lover](https://open.spotify.com/album/2XVNA3BJlk6nDRQRC3amkA) | 2:09 | 2025-04-11 |  |
 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 | 2021-12-16 | 2023-01-13 |
 | [Fire](https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE/HATE Pt\. 2](https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG) | 3:12 | 2024-09-19 | 2025-06-19 |
 | [FIRST PLACE](https://open.spotify.com/track/0eOyi2vAmX9ZxXhZ1aAEMy) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [FIRST PLACE](https://open.spotify.com/album/2WqRCYXLCzsxMNLM5gYuAo) | 2:01 | 2023-09-28 | 2024-10-05 |
@@ -216,6 +216,7 @@
 | [Forever Yours](https://open.spotify.com/track/2JqkpMe2eJToJNHEqkJeCu) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 1:36 | 2023-11-01 | 2023-11-10 |
 | [Forgot How To Love Me](https://open.spotify.com/track/484aU8wGt1mHA8ymmDGtPQ) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos \(Special Edition\)](https://open.spotify.com/album/7rID19h03gYHYAwUMsuKWh) | 3:41 | 2021-12-16 | 2023-01-13 |
 | [Free Mind](https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 4:07 | 2023-01-18 | 2023-09-01 |
+| [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 | 2026-02-12 |  |
 | [From A Distance](https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [From A Distance](https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG) | 3:03 | 2025-07-17 |  |
 | [Frozen](https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Frozen](https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH) | 2:58 | 2023-03-02 | 2023-11-10 |
 | [FTU](https://open.spotify.com/track/2qpLQjX4rSnNJyUJMdHnSA) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [FTU](https://open.spotify.com/album/2jVFeHlGtvJKQE5dLmCFOu) | 2:24 | 2023-01-12 | 2023-10-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie from black artists driving the current\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,586 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,589 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 34 | [Even \(with Cat Burns\)](https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Even \(with Cat Burns\)](https://open.spotify.com/album/6uxqYbEgP9HE4twJFCZCIQ) | 2:31 |
 | 35 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 |
 | 36 | [Let Me Be Wrong](https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 2:36 |
-| 37 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 |
-| 38 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
+| 37 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
+| 38 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 |
 | 39 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
 | 40 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 |
 | 41 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |

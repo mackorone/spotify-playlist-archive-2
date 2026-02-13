@@ -4,7 +4,7 @@
 
 > This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 27 min
+103 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Tómbola](https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Tómbola](https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g) | 2:45 | 2023-03-10 | 2025-05-15 |
 | [Tú A Mí No Me Hundes](https://open.spotify.com/track/4buqIpLCvctlto6dYluSTn) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:38 | 2023-09-21 | 2024-07-23 |
 | [Un Beso a Medias](https://open.spotify.com/track/4uxoOEL8pPgCIQrkjq3INi) | [Vicente Fernández Jr.](https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Un Beso a Medias](https://open.spotify.com/album/1T9k6mzm5RZ4w0scLghdMc) | 3:53 | 2023-03-10 |  |
-| [Un Montón De Estrellas](https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 3:23 | 2023-03-10 |  |
+| [Un Montón De Estrellas](https://open.spotify.com/track/2vrW4HjF6g5x0Jf9ibLCJG) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:23 | 2026-02-13 |  |
+| [Un Montón De Estrellas](https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 3:23 | 2023-03-10 | 2026-02-13 |
 | [Un Puño De Tierra](https://open.spotify.com/track/6aCH4XhrhW0AG7NVZghJad) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Antonio Aguilar Hijo](https://open.spotify.com/artist/0IdKtkahT8e9Kt7xjxKfTT) | [Un Puño De Tierra](https://open.spotify.com/album/1a409Jfx8qZCYvza4afRjb) | 2:50 | 2023-06-10 |  |
 | [Un Ratito](https://open.spotify.com/track/39cA436fWZHRxdNaYDQL1p) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Soy](https://open.spotify.com/album/7JIaT4KIRis6bQJWpxSNXN) | 2:23 | 2023-03-10 | 2023-11-11 |
 | [Veracruz](https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [José Carrillo](https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz) | [Veracruz](https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5) | 3:42 | 2025-09-16 | 2025-12-19 |

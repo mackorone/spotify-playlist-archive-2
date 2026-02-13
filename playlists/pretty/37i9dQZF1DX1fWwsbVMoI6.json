@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 130151,
+  "num_followers": 130176,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-01-23 04:59:11",
       "album": {
+        "name": "VOL.1",
+        "url": "https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Ca\u00f1a Brava",
+          "url": "https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM"
+        }
+      ],
+      "duration_ms": 329280,
+      "name": "El Casorio",
+      "url": "https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6"
+    },
+    {
+      "added_at": "2026-01-23 04:59:11",
+      "album": {
         "name": "Me extra\u00f1ar\u00e1s",
         "url": "https://open.spotify.com/album/3mLRImJ2z7aqjyyfkXCS0O"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 262440,
       "name": "Me extra\u00f1ar\u00e1s",
       "url": "https://open.spotify.com/track/71Dj6EXOnAVJEPDoxHuSOf"
-    },
-    {
-      "added_at": "2026-01-23 04:59:11",
-      "album": {
-        "name": "VOL.1",
-        "url": "https://open.spotify.com/album/6dIEZrlyaHc0KGhBVi7IBg"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Ca\u00f1a Brava",
-          "url": "https://open.spotify.com/artist/3DLny21nx7cmXJ1NHSvwyM"
-        }
-      ],
-      "duration_ms": 329280,
-      "name": "El Casorio",
-      "url": "https://open.spotify.com/track/0Tpvw6qsSGxHuKqYlbAyC6"
     },
     {
       "added_at": "2026-01-23 04:59:11",

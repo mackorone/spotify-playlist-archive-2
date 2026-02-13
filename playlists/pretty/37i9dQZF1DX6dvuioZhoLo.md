@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Melissa Carper & Theo Lawrence
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,067 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,073 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 53 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
 | 54 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
 | 55 | [This Masquerade](https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [This Masquerade](https://open.spotify.com/album/1otvDymvVShCQLgSWp869e) | 3:12 |
-| 56 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 |
-| 57 | [Mr\. Jukebox](https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Mr\. Jukebox](https://open.spotify.com/album/7Fai0BvZT8jsAviCXysERs) | 3:16 |
+| 56 | [Mr\. Jukebox](https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Mr\. Jukebox](https://open.spotify.com/album/7Fai0BvZT8jsAviCXysERs) | 3:16 |
+| 57 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 |
 | 58 | [Black & Blue](https://open.spotify.com/track/529y37n9VZXubT1KlWM78i) | [Zephaniah OHora](https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY) | [Listening to the Music](https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO) | 3:10 |
 | 59 | [I Thought You Were Somebody Else](https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:16 |
 | 60 | [From What I Recall](https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Ramblin' Soul](https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA) | 4:13 |
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 65 | [Femme Fatale](https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS) | [Skylar Gudasz](https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ) | [Cinema](https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w) | 4:46 |
 | 66 | [Fuck With Sad Girls](https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV) | [Bonnie Whitmore](https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9) | [Fuck With Sad Girls](https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni) | 4:38 |
 | 67 | [Playing Old Games](https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6), [Pete Lindberg](https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6) | [Playing Old Games](https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP) | 3:29 |
-| 68 | [Goodbye San Antonio, Hello Amsterdam](https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM) | [Garrett T\. Capps](https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv) | [En Los Shadows de San Antone](https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056) | 3:05 |
-| 69 | [Yellow Room](https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:19 |
+| 68 | [Yellow Room](https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:19 |
+| 69 | [Goodbye San Antonio, Hello Amsterdam](https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM) | [Garrett T\. Capps](https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv) | [En Los Shadows de San Antone](https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056) | 3:05 |
 | 70 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Love All Night \(Work All Day\)](https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt) | 3:33 |
 | 71 | [Margo](https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [Margo](https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk) | 3:40 |
 | 72 | [Nothing Wrong with Texas](https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:19 |
 | 73 | [True Love's Face](https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd) | [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [True Love's Face](https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK) | 3:20 |
 | 74 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
-| 75 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 |
-| 76 | [That's How I Feel](https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Every Single Star](https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2) | 2:43 |
+| 75 | [That's How I Feel](https://open.spotify.com/track/0184cc4SRW7zVafrYR8I7U) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Every Single Star](https://open.spotify.com/album/3nrtejgwleUGvNPWXMymV2) | 2:43 |
+| 76 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 |
 | 77 | [Trouble Me Anytime](https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:43 |
 | 78 | [You Don't Own Me](https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [You Don't Own Me](https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe) | 2:48 |
 | 79 | [Ice Cream and Liquor](https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO) | [The Reckless Electric](https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM) | [Comeback](https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb) | 3:26 |

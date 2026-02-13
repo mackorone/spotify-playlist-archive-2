@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 183913,
       "name": "...being mad bad sad (DSM-5)",
       "url": "https://open.spotify.com/track/2u2WAcPmcpZ1WwtqSI2K0x"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-09",
+      "date_removed": null,
       "duration_ms": 167050,
       "name": "...fifteen",
       "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 217000,
       "name": "02:30",
       "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 132500,
       "name": "24/7",
       "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 194240,
       "name": "Aa visst",
       "url": "https://open.spotify.com/track/1ZvwwEWpuxDVWFnkP6cVGm"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 173759,
       "name": "airbnb",
       "url": "https://open.spotify.com/track/0jI4rRanywrjRGZ11kCH6A"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 166234,
       "name": "Alla Ska D\u00f6",
       "url": "https://open.spotify.com/track/42JjxAcdxkqNOkx1HpPizt"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 226124,
       "name": "Andarna",
       "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 242895,
       "name": "Andra Sidan",
       "url": "https://open.spotify.com/track/2gnMvGyvaq5729qTsXObn6"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 207349,
       "name": "Bl\u00e5ljus",
       "url": "https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 163320,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
@@ -1182,6 +1182,24 @@
       "duration_ms": 159764,
       "name": "Born a Riot",
       "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
+    },
+    {
+      "album": {
+        "name": "Bromsa",
+        "url": "https://open.spotify.com/album/3e2kgtMoLJcnlHGoFPQqRN"
+      },
+      "artists": [
+        {
+          "name": "Joel Nordenberg",
+          "url": "https://open.spotify.com/artist/1gA3JTuDyNLoU0KwrrQVZW"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Bromsa",
+      "url": "https://open.spotify.com/track/32gncbuJvn6yVNwDrarGgT"
     },
     {
       "album": {
@@ -1250,7 +1268,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 193026,
       "name": "Byta efternamn",
       "url": "https://open.spotify.com/track/0l6xmLvm4tXgTkD362vj0E"
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 114000,
       "name": "Camels",
       "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
@@ -1500,6 +1518,24 @@
       "duration_ms": 159754,
       "name": "change",
       "url": "https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd"
+    },
+    {
+      "album": {
+        "name": "cherry flip",
+        "url": "https://open.spotify.com/album/7rUD0Vje4bYqjrlI2jfGpR"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Witt",
+          "url": "https://open.spotify.com/artist/5fAZGONvu0rIhfhz7oqLSf"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209767,
+      "name": "cherry flip",
+      "url": "https://open.spotify.com/track/6lXI82PJUgsMjJCtKP79Jc"
     },
     {
       "album": {
@@ -1676,7 +1712,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 127250,
       "name": "Dansa med mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
@@ -1928,7 +1964,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 160601,
       "name": "Dominos",
       "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
@@ -2214,7 +2250,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 170500,
       "name": "ett minne i taget",
       "url": "https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj"
@@ -2286,7 +2322,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 166120,
       "name": "Faller f\u00f6r dig",
       "url": "https://open.spotify.com/track/3YJx3c9LSgPWX22gfCFVrr"
@@ -2430,7 +2466,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 158117,
       "name": "Fel",
       "url": "https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV"
@@ -2812,7 +2848,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 145568,
       "name": "Fr\u00e5n & med nu",
       "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
@@ -2960,7 +2996,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 186666,
       "name": "Genom Eld & Vatten",
       "url": "https://open.spotify.com/track/0B3iaqZELtRBnVdIHnikK7"
@@ -3277,6 +3313,28 @@
     },
     {
       "album": {
+        "name": "Hall\u00e5",
+        "url": "https://open.spotify.com/album/5VLtN2flNziTYXdKwXoBq3"
+      },
+      "artists": [
+        {
+          "name": "Emma Winther",
+          "url": "https://open.spotify.com/artist/2ekgiJGJ8TQVbMSaWNIzbv"
+        },
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195671,
+      "name": "Hall\u00e5",
+      "url": "https://open.spotify.com/track/0iPHUj2pjSEwNXVGYh3hKK"
+    },
+    {
+      "album": {
         "name": "HALL\u00c5 (finns det n\u00e5gon h\u00e4r som h\u00f6r mig?)",
         "url": "https://open.spotify.com/album/5HKd0f7dQO7dEMZ5a0i5cE"
       },
@@ -3578,7 +3636,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 95217,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/00KapgrQdKRGWUFZm74STy"
@@ -3618,6 +3676,24 @@
       "duration_ms": 167479,
       "name": "HON SA",
       "url": "https://open.spotify.com/track/7Fm1A727O2wgbWcGyp15p8"
+    },
+    {
+      "album": {
+        "name": "Honor",
+        "url": "https://open.spotify.com/album/2fzhx6hqryu0YH1lLoWPPN"
+      },
+      "artists": [
+        {
+          "name": "Cimberly",
+          "url": "https://open.spotify.com/artist/3Hkf2U4n32v1n6o6MLVXCD"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Honor",
+      "url": "https://open.spotify.com/track/1o8aY6qCQY3IcvplR3lGW5"
     },
     {
       "album": {
@@ -3906,7 +3982,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 165998,
       "name": "I want you to be happy",
       "url": "https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn"
@@ -4151,6 +4227,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/2UsJ8YR59WddA1m4PWsTG1"
+      },
+      "artists": [
+        {
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221653,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5OCuFqx1Y8KUdMcJjb5nqA"
+    },
+    {
+      "album": {
         "name": "In Terms Of You",
         "url": "https://open.spotify.com/album/44pH3AvjzGzScsr3WJBjmW"
       },
@@ -4328,7 +4422,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 182133,
       "name": "Is It Love?",
       "url": "https://open.spotify.com/track/1Fk3ebdShXVtWlZCi41oh1"
@@ -4476,7 +4570,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 195500,
       "name": "Jag m\u00e5ste v\u00e4lja",
       "url": "https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz"
@@ -4530,7 +4624,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 135769,
       "name": "Josephine",
       "url": "https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ"
@@ -4840,7 +4934,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 179368,
       "name": "l.o.v.e",
       "url": "https://open.spotify.com/track/5rl8Now7Z3N2uR4nRqi7h6"
@@ -5036,7 +5130,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 267559,
       "name": "lotion",
       "url": "https://open.spotify.com/track/2YtrzcmB4rF3efcgx3CQeT"
@@ -5224,7 +5318,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-30",
+      "date_removed": null,
       "duration_ms": 168947,
       "name": "Lover's Rock",
       "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
@@ -5354,7 +5448,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 134254,
       "name": "Madame",
       "url": "https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB"
@@ -5690,7 +5784,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 170918,
       "name": "Mitt hj\u00e4rta av guld",
       "url": "https://open.spotify.com/track/7Ma4xWMBilJP90yLC5H3ZY"
@@ -5708,7 +5802,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 160817,
       "name": "Mjukt ljus",
       "url": "https://open.spotify.com/track/2NaFkhr86MXCLgmxcJSYNS"
@@ -5942,7 +6036,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -6054,7 +6148,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 164869,
       "name": "N\u00e5gon annan \u00e4n dig",
       "url": "https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d"
@@ -6598,7 +6692,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "RING MIG 112!!?",
       "url": "https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH"
@@ -6728,7 +6822,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 157034,
       "name": "Sakte Film",
       "url": "https://open.spotify.com/track/3UPjsBEaPTGE82x9Gqe3JG"
@@ -7082,7 +7176,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 185624,
       "name": "Skyddar mig fr\u00e5n dig",
       "url": "https://open.spotify.com/track/6PdHWKjgo6lGmI84OJfJOg"
@@ -7248,7 +7342,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-02",
+      "date_removed": null,
       "duration_ms": 161597,
       "name": "Solros",
       "url": "https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5"
@@ -7338,7 +7432,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 111971,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3AYNFdQ9itV8zWFVJqfLTd"
@@ -7562,7 +7656,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 160465,
       "name": "Stockholm City",
       "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
@@ -7782,7 +7876,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 179616,
       "name": "Sv\u00e5rt",
       "url": "https://open.spotify.com/track/40TOlWGgY4Yjwbx6cXeE5P"
@@ -8734,7 +8828,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 166003,
       "name": "Waiting For A Star To Fall",
       "url": "https://open.spotify.com/track/5aC3iodGKBkpvw1V72crkD"
@@ -8842,7 +8936,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 180632,
       "name": "Where It Hurts",
       "url": "https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr"
@@ -8864,6 +8958,24 @@
       "duration_ms": 236747,
       "name": "Where's My Mind",
       "url": "https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu"
+    },
+    {
+      "album": {
+        "name": "Who's That Calling?",
+        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196156,
+      "name": "Who's That Calling?",
+      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
     },
     {
       "album": {
@@ -8932,7 +9044,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 162113,
       "name": "You You You",
       "url": "https://open.spotify.com/track/1mAyIS5bC2xrRjsJ6xM86h"

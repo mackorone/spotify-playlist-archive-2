@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,919 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,984 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 13 | [Kindness](https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Kindness](https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV) | 2:36 |
 | 14 | [Sais](https://open.spotify.com/track/5aTseUS5Gk4hnmllDliXBu) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Shadows](https://open.spotify.com/album/3OwECAJvSnWASzC4HZpvHL) | 8:03 |
 | 15 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
-| 16 | [Good Night Baby](https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Good Night Baby](https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4) | 4:21 |
+| 16 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |
 | 17 | [20:17](https://open.spotify.com/track/7vbCfkJf89i4s745KbELgr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Trance Frendz](https://open.spotify.com/album/5yulSZK48ArdLPXWur0qik) | 5:54 |
-| 18 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |
+| 18 | [Good Night Baby](https://open.spotify.com/track/1z6yilqnpti2GGdKzQgKMB) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Good Night Baby](https://open.spotify.com/album/0iErsEaQiVVJCLhsNpBeo4) | 4:21 |
 | 19 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
 | 20 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 21 | [Sleep Sound](https://open.spotify.com/track/4aNm6woQfV9XRkCmk51GSX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Girl/Sleep Sound](https://open.spotify.com/album/6ORIBhcatSSgmL3vhvhRYB) | 6:23 |
@@ -61,16 +61,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 51 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
 | 52 | [Before I Move Off](https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl) | [Crooks & Lovers](https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr) | 4:10 |
 | 53 | [Shadows](https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT) | [Wagon Christ](https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy) | [Sorry I Make You Lush](https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR) | 4:26 |
-| 54 | [While You Doooo](https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:31 |
-| 55 | [I Let Go](https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Light Shines Through](https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k) | 4:18 |
-| 56 | [THE PARK // 6:42AM](https://open.spotify.com/track/4Vtg7EGZTQdIvOXWxn8lf0) | [Mokado](https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw) | [WHERE DOES THE NIGHT GO?](https://open.spotify.com/album/3Zs6evwQuF7WUsciJIsbGN) | 4:20 |
-| 57 | [As Much as Possible](https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 5:40 |
+| 54 | [I Let Go](https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Light Shines Through](https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k) | 4:18 |
+| 55 | [While You Doooo](https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:31 |
+| 56 | [As Much as Possible](https://open.spotify.com/track/21M3Nfmqw8AZnLgFWHtskL) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA) | 5:40 |
+| 57 | [THE PARK // 6:42AM](https://open.spotify.com/track/4Vtg7EGZTQdIvOXWxn8lf0) | [Mokado](https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw) | [WHERE DOES THE NIGHT GO?](https://open.spotify.com/album/3Zs6evwQuF7WUsciJIsbGN) | 4:20 |
 | 58 | [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 |
 | 59 | [Passing By \- 2019 remaster](https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 6:37 |
 | 60 | [So Far South](https://open.spotify.com/track/5WV7YLYSsle4BYQwz613L2) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [So Far South](https://open.spotify.com/album/351KmID7SmIWJOw8YmlSZj) | 3:41 |
 | 61 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
-| 62 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
-| 63 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
+| 62 | [Lonely Romance](https://open.spotify.com/track/31SXKJBLm38BkGB3I2nVsZ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:42 |
+| 63 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
 | 64 | [the place](https://open.spotify.com/track/2c8Y5b2FEAYOvQEai48xjN) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 3:41 |
 | 65 | [The stars vs creatures](https://open.spotify.com/track/7rIYrgxKZKebDRozcULAL4) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 |
 | 66 | [Walking Flames](https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:10 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 93 | [Saw You for the First Time](https://open.spotify.com/track/3lrNU0pvwTaXsgDqa55A8j) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/4bOmpYAT4xXVEEQRL9QNVk) | 6:44 |
 | 94 | [Call](https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO) | [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [Call](https://open.spotify.com/album/0BtlgWzegBTP0xtKgLteJP) | 3:56 |
 | 95 | [Way Ur Touchin Me](https://open.spotify.com/track/1W3rvLtqwYDp8nSzo4sWmp) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Save Me](https://open.spotify.com/album/6jXBdpKxjafHCAmo9nBvqk) | 4:59 |
-| 96 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
-| 97 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
-| 98 | [An Ending, a Beginning](https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 2:08 |
-| 99 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
-| 100 | [Immunity](https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35) | 9:56 |
+| 96 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
+| 97 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
+| 98 | [Places](https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn) | 5:02 |
+| 99 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
+| 100 | [An Ending, a Beginning](https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 2:08 |
 
 Snapshot ID: `AAAAAGDDqo2pGIjcTXlB9O9RxkM4fiSr`

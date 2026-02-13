@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,079 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,093 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 41 | [Nervos de Aço \- Ao Vivo](https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Loucura: Adriana Calcanhotto Canta Lupicínio Rodrigues \(Ao Vivo\)](https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2) | 2:00 |
 | 42 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 | 43 | [Histórias Pra Ninar Gente Grande](https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 2:37 |
-| 44 | [Dança Da Solidão](https://open.spotify.com/track/6FK317bMkj5Zd1Yl3GRYPw) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bis \- Paulinho Da Viola](https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo) | 2:29 |
-| 45 | [Do It Yourself \- New Bossa Remix](https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo) | [Markko Mendes](https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Do It Yourself \(New Bossa Remix\)](https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF) | 4:12 |
+| 44 | [Do It Yourself \- New Bossa Remix](https://open.spotify.com/track/0UlhNzWYxoid17dChHoFPo) | [Markko Mendes](https://open.spotify.com/artist/3PbBjz1cgZBSBjvdse8cfG), [DJ Hum](https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf) | [Do It Yourself \(New Bossa Remix\)](https://open.spotify.com/album/19uU6Yn5TPvtxKbCLLzpiF) | 4:12 |
+| 45 | [Dança Da Solidão](https://open.spotify.com/track/6FK317bMkj5Zd1Yl3GRYPw) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Bis \- Paulinho Da Viola](https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo) | 2:29 |
 | 46 | [Santo Toque](https://open.spotify.com/track/1owJVm7Cbq3Fv68LPMON0v) | [Sambaiana](https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a), [Marília Sodré](https://open.spotify.com/artist/4vFvo1osQ1NCjyKnFD6hVh), [Ju Moraes](https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ), [Rayra Mayara](https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb), [Lalá Evangelista](https://open.spotify.com/artist/5wTHY9NhwtH1Q84hJcwJHr), [Grace Profeta](https://open.spotify.com/artist/6UvvBk4jun0UH6IiMAZCko), [Marcinha BB](https://open.spotify.com/artist/4KGopYW2G8P41kyEXlYLU7) | [Santo Toque](https://open.spotify.com/album/3BeLqGYy2LVtNpE9KuhHuy) | 3:22 |
 | 47 | [Feitio De Oração/Para Me Livrar Do Mal/Estrela Da Manhã](https://open.spotify.com/track/4kdm6VxhYYSrqWQnQHK3mb) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [O Pai Da Alegria](https://open.spotify.com/album/4yTMLxojFOA6BYEsQzvx1T) | 4:12 |
 | 48 | [LONGE LONGE DE MIM](https://open.spotify.com/track/6p69ERue7tvSXy4Eisa3jI) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [NEKTAR](https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg) | 3:26 |

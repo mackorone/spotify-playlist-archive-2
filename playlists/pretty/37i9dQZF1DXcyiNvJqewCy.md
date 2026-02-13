@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 
 > \~ have a lovely time \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,231 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,274 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 21 | [Mystery of Love](https://open.spotify.com/track/5GbVzc6Ex5LYlLJqzRQhuy) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love](https://open.spotify.com/album/4wB3cRpb4YfnNyJORQe3Om) | 4:08 |
 | 22 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:17 |
 | 23 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
-| 24 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
+| 24 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
 | 25 | [6pm](https://open.spotify.com/track/7089sv3SdB56MofZo1Qsas) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [6pm](https://open.spotify.com/album/0fz0GoHiBaSN5W7zLJK5PF) | 2:01 |
-| 26 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
+| 26 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
 | 27 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 |
 | 28 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay \(Mono\)](https://open.spotify.com/album/03HMOcANauhLD0WNrMkmLU) | 2:43 |
 | 29 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 64 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 |
 | 65 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
 | 66 | [Cherry Wine \- Live](https://open.spotify.com/track/4Q66chx9WzqWcLItXoZ5r4) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:00 |
-| 67 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
-| 68 | [How Sweet It Is \(To Be Loved By You\) \- 2019 Remaster](https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 3:36 |
+| 67 | [How Sweet It Is \(To Be Loved By You\) \- 2019 Remaster](https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla \(2019 Remaster\)](https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny) | 3:36 |
+| 68 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
 | 69 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 |
 | 70 | [Don't Worry Baby \- Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1) | 2:49 |
 | 71 | [Heart of Gold \- 2009 Remaster](https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 3:07 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 87 | [See The Light](https://open.spotify.com/track/5nsFJfYtAFZmL9PbtYKYcA) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 3:00 |
 | 88 | [1234](https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:03 |
 | 89 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
-| 90 | [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 |
-| 91 | [Bye Bye Baby](https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Once Upon A Star](https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl) | 2:50 |
+| 90 | [Bye Bye Baby](https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Once Upon A Star](https://open.spotify.com/album/2nZfNhrDCbTNnZEc4iuCcl) | 2:50 |
+| 91 | [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 |
 | 92 | [You Make Me Feel Like Dancing](https://open.spotify.com/track/2wnx10JlIHANnWlvcMqpZE) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Endless Flight](https://open.spotify.com/album/1dwBwg4BjtCAoi1mxr26OG) | 3:40 |
 | 93 | [Me & My Dog](https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:26 |
 | 94 | [We Don't Have to Be Alone](https://open.spotify.com/track/6hRESIERR8gWu6CERwi2Zm) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [We Don't Have to Be Alone](https://open.spotify.com/album/0wcfCbz30o9L3neEu5L7Cz) | 2:46 |

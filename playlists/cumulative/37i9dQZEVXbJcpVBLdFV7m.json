@@ -10508,10 +10508,28 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 72519,
       "name": "EFN",
       "url": "https://open.spotify.com/track/3w1VYZ5dyKSKLRldAtHpsb"
+    },
+    {
+      "album": {
+        "name": "EFN/ERN",
+        "url": "https://open.spotify.com/album/59lJXlwXq0zC9nO0kM4yQy"
+      },
+      "artists": [
+        {
+          "name": "Kirkified lordus ultrasus 67",
+          "url": "https://open.spotify.com/artist/3VfeCzXPfs0ldbXk9qd918"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72568,
+      "name": "EFN",
+      "url": "https://open.spotify.com/track/1KI286qUlsIJbOWekbsulg"
     },
     {
       "album": {
@@ -17314,7 +17332,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 188079,
       "name": "It's La Vida Loca",
       "url": "https://open.spotify.com/track/0ZcitQC78lqMjm8T6XQEvw"
@@ -25726,7 +25744,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 189700,
       "name": "N\u00e2n",
       "url": "https://open.spotify.com/track/40vsOMljwhHCibpToRULGo"
@@ -26611,6 +26629,24 @@
     },
     {
       "album": {
+        "name": "PAID TO EXIST",
+        "url": "https://open.spotify.com/album/0xJlKcY4pUiLt6w5ui14ST"
+      },
+      "artists": [
+        {
+          "name": "DRDVIX",
+          "url": "https://open.spotify.com/artist/09avmjEW545jjgavFVa0JD"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192399,
+      "name": "PAID TO EXIST",
+      "url": "https://open.spotify.com/track/67XDv0KTHnOLXOavKdsXM5"
+    },
+    {
+      "album": {
         "name": "Lesser Man EP",
         "url": "https://open.spotify.com/album/3A0q6JgJ9jky4VRJnCDxC3"
       },
@@ -26758,7 +26794,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
@@ -27652,7 +27688,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 173382,
       "name": "Povoda si ti",
       "url": "https://open.spotify.com/track/7qKTriyjf8zZAJrxL1jb63"

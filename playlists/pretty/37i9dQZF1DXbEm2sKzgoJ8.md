@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,236,192 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,236,673 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 39 | [Bathroom](https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:28 |
 | 40 | [The Party & The After Party](https://open.spotify.com/track/0GROiXm03OrMC5ltXLhGIu) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 7:39 |
 | 41 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
-| 42 | [Love Me](https://open.spotify.com/track/28sawWzfucjbahooUtyrZx) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Love Me](https://open.spotify.com/album/02tubQtNLj4cT2U3LakK6A) | 4:33 |
-| 43 | [Congratulations \(feat\. Bilal\)](https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:16 |
+| 42 | [Congratulations \(feat\. Bilal\)](https://open.spotify.com/track/1OubIZ0ARYCUq5kceYUQiO) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 4:16 |
+| 43 | [Love Me](https://open.spotify.com/track/28sawWzfucjbahooUtyrZx) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Love Me](https://open.spotify.com/album/02tubQtNLj4cT2U3LakK6A) | 4:33 |
 | 44 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 45 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 |
 | 46 | [Feel Good](https://open.spotify.com/track/4E2j6b0NrYXnlypn9sMiOu) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Good Mourning](https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU) | 3:32 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 59 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 |
 | 60 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
 | 61 | [Body](https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:13 |
-| 62 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
-| 63 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 |
-| 64 | [GO BABY](https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:14 |
-| 65 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 |
+| 62 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 |
+| 63 | [GO BABY](https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:14 |
+| 64 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 |
+| 65 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
 | 66 | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/track/1yX9gy5fK02j6nBnGJ1S3k) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sweet Dreams \(feat\. Miguel\)](https://open.spotify.com/album/4H4x8kTfCCb9SOZJfzUeNI) | 2:52 |
 | 67 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
 | 68 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 |

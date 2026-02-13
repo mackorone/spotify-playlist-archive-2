@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-369 songs - 23 hr 38 min
+370 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [I'm on your team](https://open.spotify.com/track/6vHmrQXC2dACfRAQ4jivTF) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [I'm on your team](https://open.spotify.com/album/1e7jZCaYQ6UyyrENaP4VOT) | 3:47 | 2024-10-25 | 2025-01-18 |
 | [I'm Your Boy](https://open.spotify.com/track/5y1sm9olHyBlGQzxZ3GvyR) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1ls9QyYWFw9Y35jThBvGKa) | 3:19 | 2025-03-21 | 2025-06-12 |
 | [If](https://open.spotify.com/track/2tOvXXicPq04q6Pk28O47m) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:15 | 2022-05-06 | 2023-09-16 |
+| [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 | 2026-02-06 |  |
 | [If Only](https://open.spotify.com/track/4jyU03J2YOhRxgOHit2auK) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [If Only](https://open.spotify.com/album/3uXIOaZWXwkW3CYVwcIxLy) | 3:21 | 2021-08-18 | 2023-04-29 |
 | [IMY](https://open.spotify.com/track/3rc73DSLZDbJoa371fK6P4) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [FOR THE BOY IN ME](https://open.spotify.com/album/4ljESylaJog8Mc5VAWHEB3) | 2:56 | 2024-10-04 | 2024-10-19 |
 | [In Limbo](https://open.spotify.com/track/0ehGcL48kQnjyvhe8P49pq) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Ironsides](https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U) | [In Limbo](https://open.spotify.com/album/4VsRC2WqckvyyMSKu4ulYu) | 3:15 | 2024-04-17 |  |
@@ -355,7 +356,7 @@
 | [Violet](https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 7:18 | 2023-11-09 | 2024-06-20 |
 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2023-09-15 | 2024-03-23 |
 | [WalkOnBy \(feat\. Earl Sweatshirt & Rae Khalil\)](https://open.spotify.com/track/5mUHnwhs4N0bLhidpub3FC) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [WalkOnBy \(feat\. Earl Sweatshirt & Rae Khalil\)](https://open.spotify.com/album/7fh5OBZUItvGL20l3MLEnV) | 3:47 | 2024-06-14 | 2024-07-27 |
-| [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 | 2025-08-29 |  |
+| [wASH U AWAY](https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 3:13 | 2025-08-29 | 2026-02-13 |
 | [waste](https://open.spotify.com/track/6OCLjcVFg7npOoUoWOom3n) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [二](https://open.spotify.com/album/05YuNQ3xZ412yoUnwNsRxO) | 4:03 | 2025-10-04 | 2025-10-25 |
 | [Waves](https://open.spotify.com/track/0wAWaCKgzxVZiVkiV0m0oS) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Waves](https://open.spotify.com/album/23BFEWAlfaVx0sZu91XE6B) | 3:53 | 2024-06-28 | 2024-07-19 |
 | [Weak](https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:51 | 2023-01-14 |  |

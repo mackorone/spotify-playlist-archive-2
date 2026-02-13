@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "L'horizon" de Pierre Garnier est le Grand Hit de la semaine.
+> "Virile" de Suzane est le Grand Hit de la semaine.
 
-312 songs - 16 hr 0 min
+313 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [La Camisa Negra](https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN) | [Elliott](https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC) | [La Camisa Negra](https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE) | 2:39 | 2026-01-15 |  |
 | [La Différence \- Single Version](https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [La Différence](https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX) | 3:36 | 2025-01-16 | 2025-10-10 |
 | [La gloire de nos pères](https://open.spotify.com/track/4TLTVC2ptKtrlUzkBSXq0A) | [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq) | [La gloire de nos pères](https://open.spotify.com/album/7wlEAb5jCOgYZ1Zk6t6sPn) | 3:13 | 2024-12-05 | 2025-02-28 |
+| [La lune](https://open.spotify.com/track/4mNIlqifKuEfnf03MIFEOw) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z) | [La lune](https://open.spotify.com/album/7Jb1IPLlgsMbIubX0UqeLf) | 3:28 | 2026-02-12 |  |
 | [la maison](https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [grandir](https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7) | 2:34 | 2025-10-23 |  |
 | [la pluie](https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [la pluie](https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd) | 2:41 | 2024-07-04 | 2025-03-21 |
 | [La recette](https://open.spotify.com/track/3KJtQJVParlVJopsz3JMnB) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [Oxygène](https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ) | 3:02 | 2026-02-05 |  |
@@ -313,7 +314,7 @@
 | [Virile](https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Millénium](https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot) | 2:38 | 2025-12-11 |  |
 | [Vivre](https://open.spotify.com/track/7lnokq12Q0MzqcrA6GN62q) | [Grégoire](https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E) | [Vivre](https://open.spotify.com/album/6jDC7d54esC2NZaTtvEOcR) | 2:26 | 2023-09-28 | 2024-02-16 |
 | [Vivre](https://open.spotify.com/track/2Vtq22cAI0Q6VuzYYsvLHV) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Vivre](https://open.spotify.com/album/3UsNSZZNOMGY1tav0ncHzW) | 3:56 | 2024-01-04 | 2024-01-26 |
-| [Voulez\-Vous](https://open.spotify.com/track/513s60DKMknigRNGVzSORD) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Voulez\-Vous](https://open.spotify.com/album/6xtTdZetVGXbfCcWmItlIn) | 2:54 | 2025-11-13 |  |
+| [Voulez\-Vous](https://open.spotify.com/track/513s60DKMknigRNGVzSORD) | [Star Academy](https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy) | [Voulez\-Vous](https://open.spotify.com/album/6xtTdZetVGXbfCcWmItlIn) | 2:54 | 2025-11-13 | 2026-02-13 |
 | [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-09-28 | 2024-02-02 |
 | [À force](https://open.spotify.com/track/6JitZ8llxZ6d8XXzP0lMc2) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [À force / Charlotte](https://open.spotify.com/album/037C6V7kBMy2TrkqZKeC2w) | 3:17 | 2024-01-25 | 2024-03-01 |
 | [À qui le tour](https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf), [Carla](https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr) | [À qui le tour](https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG) | 2:42 | 2025-08-07 | 2026-02-06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Karun",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Bridget Blue",
   "name": "NairoBae",
   "tracks": [
     {
@@ -960,6 +960,24 @@
       "duration_ms": 197391,
       "name": "DON'T CALL ME (Live)",
       "url": "https://open.spotify.com/track/7pXrvCW8LkIqdqQGYZx6la"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna Lose You (From Kito the Soundtrack)",
+        "url": "https://open.spotify.com/album/1dcRWf7n33BMslTRIONwO0"
+      },
+      "artists": [
+        {
+          "name": "Watendawili",
+          "url": "https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196162,
+      "name": "Don't Wanna Lose You (From Kito the Soundtrack)",
+      "url": "https://open.spotify.com/track/7ktsnwhy3hVAIzR4ItrS5q"
     },
     {
       "album": {
@@ -3224,7 +3242,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 189890,
       "name": "Mbuzi",
       "url": "https://open.spotify.com/track/6jmELmAu5xIfRAaaOsyDat"
@@ -3887,6 +3905,24 @@
     },
     {
       "album": {
+        "name": "Niwewe",
+        "url": "https://open.spotify.com/album/4hsuH36mKQFWr0d1gIePEM"
+      },
+      "artists": [
+        {
+          "name": "Bridget Blue",
+          "url": "https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Niwewe",
+      "url": "https://open.spotify.com/track/6EQ7pGilvbOhMNwo9UbN3J"
+    },
+    {
+      "album": {
         "name": "nobody knows",
         "url": "https://open.spotify.com/album/3tur9lSjtET194Kd5AZOfe"
       },
@@ -4402,7 +4438,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 159143,
       "name": "Pumua",
       "url": "https://open.spotify.com/track/2Py1BuxAHgOH0bA9w0imQE"
@@ -5574,7 +5610,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 192132,
       "name": "Tuwe Pamoja",
       "url": "https://open.spotify.com/track/0OWLsy79RwA9oU8HXOabwv"

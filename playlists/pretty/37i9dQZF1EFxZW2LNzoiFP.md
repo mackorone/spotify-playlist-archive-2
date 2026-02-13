@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 280 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 130 likes - 280 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 12 | [The Wave](https://open.spotify.com/track/2IbQBVzWkT4CF9aEUWek2o) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Heathen](https://open.spotify.com/album/273GjRsq1JgB5lu7ptz6HQ) | 4:18 |
 | 13 | [Five Star Hotels\. \(feat\. Mahalia\)](https://open.spotify.com/track/0MI4U8nhdfJ1FPRAgYhXxC) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:24 |
 | 14 | [Can Ghosts Be Gay?](https://open.spotify.com/track/0CN9ZaGJjFCFa5H3CyEJzm) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:21 |
-| 15 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
-| 16 | [Bad Things](https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 |
+| 15 | [Bad Things](https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 |
+| 16 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
 | 17 | [Back To You](https://open.spotify.com/track/47rCs1JJXC6AG20WKbyOUR) | [Not for Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Melt](https://open.spotify.com/album/4Arf0rqtYsnJ5hhscuqCLB) | 4:35 |
 | 18 | [Come Down When You're Ready](https://open.spotify.com/track/78j4KQrXCx87awJOSFGHnr) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Come Down When You're Ready](https://open.spotify.com/album/1XaCrNZW12toGk7bpCYAsS) | 4:11 |
 | 19 | [DEAR MISS HOLLOWAY](https://open.spotify.com/track/43dRlKQJNxYVY8Sa2XiQNx) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 3:29 |
@@ -289,4 +289,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 279 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 | 280 | [Moving On](https://open.spotify.com/track/2WFd4EE5LLW0hqwyMTS7iS) | [R E N](https://open.spotify.com/artist/1uUI6SnnLWwpurgqePyxRv) | [Moving On](https://open.spotify.com/album/0aSBgOE9wpT7qw00WXjzWL) | 4:08 |
 
-Snapshot ID: `AcJajAAAAAA8rHGiPe811LVl0TvrWJv2`
+Snapshot ID: `AcJgNgAAAACQh73LerUlgSARpkrJcUPF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 
 > ¡A almorzar con sabrosura pop y tropical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,962 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,961 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 | 31 | [Cuando el Amor se Daña](https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:21 |
 | 32 | [La Ciguapa](https://open.spotify.com/track/6Fu5E5nuKfVOecwBmWLi7O) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:35 |
 | 33 | [Lo Mejor Para Los Dos \(Todo de Cabeza\) \- Version Guitarra \- En Vivo](https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH) | [Kaleth Morales En Guitarras](https://open.spotify.com/album/6WEgrW9kNfKtQQQWqefD7Y) | 4:11 |
-| 34 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
-| 35 | [La Foto de los Dos](https://open.spotify.com/track/2VL0W9x83RwQOBGbfphBqW) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 4:09 |
+| 34 | [La Foto de los Dos](https://open.spotify.com/track/2VL0W9x83RwQOBGbfphBqW) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 4:09 |
+| 35 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
 | 36 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 |
 | 37 | [Ni Tu Ni Yo](https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Mi Propuesta 1996](https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT) | 4:39 |
 | 38 | [Pegame Tu Vicio](https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Vida](https://open.spotify.com/album/29eoBGwO0kyHR7Vu5NiyO9) | 5:01 |

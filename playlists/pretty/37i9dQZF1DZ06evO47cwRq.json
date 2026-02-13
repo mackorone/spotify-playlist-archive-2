@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 3111177,
+  "num_followers": 3111608,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADiX3omELNJ3oK/Z/mPTpsE",
+  "snapshot_id": "aYvGgAAAAACWmdxLqgEs09nYsaTzC+yR",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "One More Light",
-        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
       },
       "artists": [
         {
           "name": "Linkin Park",
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        },
-        {
-          "name": "Kiiara",
-          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Heavy (feat. Kiiara)",
-      "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
+      "duration_ms": 201428,
+      "name": "Fighting Myself",
+      "url": "https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH"
     },
     {
       "added_at": null,
@@ -579,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meteora 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
+        "name": "One More Light",
+        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
       },
       "artists": [
         {
           "name": "Linkin Park",
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        },
+        {
+          "name": "Kiiara",
+          "url": "https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP"
         }
       ],
-      "duration_ms": 201428,
-      "name": "Fighting Myself",
-      "url": "https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH"
+      "duration_ms": 169800,
+      "name": "Heavy (feat. Kiiara)",
+      "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
     },
     {
       "added_at": null,

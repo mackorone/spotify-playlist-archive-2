@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 117287,
+  "num_followers": 117296,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAABUPWFekc81nEunw6nT86Q6",
+  "snapshot_id": "aYvGgAAAAAA5DAsQRyv6XFEmXVo9XGgA",
   "tracks": [
     {
       "added_at": null,
@@ -399,26 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alumno Y Maestro",
-        "url": "https://open.spotify.com/album/3G37quZRXG46KePSj4uMat"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 179786,
-      "name": "Alumno Y Maestro",
-      "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Borracho",
         "url": "https://open.spotify.com/album/3SEZaNsO6qhifPCLyaQgkU"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 177500,
       "name": "Borracho",
       "url": "https://open.spotify.com/track/0B9tQdZqaVy9RyDuvGz0eD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alumno Y Maestro",
+        "url": "https://open.spotify.com/album/3G37quZRXG46KePSj4uMat"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 179786,
+      "name": "Alumno Y Maestro",
+      "url": "https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Puedo Con Esto",
+        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 149951,
+      "name": "Ya No Puedo Con Esto",
+      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Matitas Verdes (En Vivo)",
         "url": "https://open.spotify.com/album/6dFaDaCDQqEKfdcELahkAt"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 161906,
       "name": "Matitas Verdes (En Vivo)",
       "url": "https://open.spotify.com/track/6602oDHS6ArzmjCXUz1DeS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Puedo Con Esto",
-        "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 149951,
-      "name": "Ya No Puedo Con Esto",
-      "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
     },
     {
       "added_at": null,

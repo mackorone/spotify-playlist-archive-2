@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: waterbaby",
-  "num_followers": 67159,
+  "num_followers": 67234,
   "original_name": "Editors' Picks: Best Songs of January",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Folded (Live) - Spotify Live Room",
-        "url": "https://open.spotify.com/album/64AUAPx8kVRTuBO16NDUWN"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 242151,
-      "name": "Folded (Live) - Spotify Live Room",
-      "url": "https://open.spotify.com/track/7wokbzrXvMh3dJvSjkuW73"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "LIT EFFECT [Feat. Bktherula & LAZER DIM 700]",
         "url": "https://open.spotify.com/album/5v8hMYYnZgU0xx8y2ALGnZ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 207079,
       "name": "LIT EFFECT [Feat. Bktherula & LAZER DIM 700]",
       "url": "https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Folded (Live) - Spotify Live Room",
+        "url": "https://open.spotify.com/album/64AUAPx8kVRTuBO16NDUWN"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 242151,
+      "name": "Folded (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/7wokbzrXvMh3dJvSjkuW73"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "The Old Law",
-        "url": "https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 281988,
-      "name": "The Old Law",
-      "url": "https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Speakers Blowing",
         "url": "https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 196700,
       "name": "cul-de-sac",
       "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "The Old Law",
+        "url": "https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 281988,
+      "name": "The Old Law",
+      "url": "https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Death Wish",
-        "url": "https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 205238,
-      "name": "Death Wish",
-      "url": "https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Lay Your Heartache Onto Mine [Songs From and Inspired by the Paramount+ Original Series Landman (Volume II)]",
         "url": "https://open.spotify.com/album/5g2F6CcSyH7sY4gLVFRMlf"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 198125,
       "name": "Lay Your Heartache Onto Mine - Songs From and Inspired by the Paramount+ Original Series Landman (Volume II)",
       "url": "https://open.spotify.com/track/76gz4QAPcJnftDIjgmK65h"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Death Wish",
+        "url": "https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 205238,
+      "name": "Death Wish",
+      "url": "https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
+        "name": "Smoke Screen",
+        "url": "https://open.spotify.com/album/4xd4aT1oZmwvRcIMLHcYOE"
+      },
+      "artists": [
+        {
+          "name": "CQ Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 260978,
+      "name": "Smoke Screen",
+      "url": "https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
         "name": "tenk(e)i",
         "url": "https://open.spotify.com/album/5y0dNiCxiZ4l3x8BWbJMjq"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 296403,
       "name": "tenk(e)i",
       "url": "https://open.spotify.com/track/4ZxjpVTJfPfPr40IqbCOPj"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
-        "name": "Smoke Screen",
-        "url": "https://open.spotify.com/album/4xd4aT1oZmwvRcIMLHcYOE"
-      },
-      "artists": [
-        {
-          "name": "CQ Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 260978,
-      "name": "Smoke Screen",
-      "url": "https://open.spotify.com/track/6VBMKUDAS86YIsQXlVo8Ej"
     },
     {
       "added_at": "2026-02-04 14:20:34",
@@ -959,26 +959,6 @@
     {
       "added_at": "2026-02-04 14:20:34",
       "album": {
-        "name": "Lean",
-        "url": "https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 233486,
-      "name": "Lean",
-      "url": "https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum"
-    },
-    {
-      "added_at": "2026-02-04 14:20:34",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/3btgZUct7DeyXYAXeFYipy"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 239119,
       "name": "Heart",
       "url": "https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu"
+    },
+    {
+      "added_at": "2026-02-04 14:20:34",
+      "album": {
+        "name": "Lean",
+        "url": "https://open.spotify.com/album/4ZSeWq8VN8I5h7ROmEGxRD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 233486,
+      "name": "Lean",
+      "url": "https://open.spotify.com/track/12VmXa5TPb0eFDJYPhELum"
     },
     {
       "added_at": "2026-02-04 14:20:34",

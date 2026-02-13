@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 260742,
+  "num_followers": 260833,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "Pvta Luna",
-        "url": "https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Pvta Luna",
-      "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 241648,
       "name": "COQUETA",
       "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
+        "name": "Pvta Luna",
+        "url": "https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Pvta Luna",
+      "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "111XPANTIA",
-        "url": "https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 184173,
-      "name": "Marlboro Rojo",
-      "url": "https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
         "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
       },
@@ -351,22 +335,34 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "Better Late Than Never",
-        "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 243070,
-      "name": "Dardos",
-      "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
+      "duration_ms": 226035,
+      "name": "MIENTRAS DUERMES",
+      "url": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
+        "name": "111XPANTIA",
+        "url": "https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 184173,
+      "name": "Marlboro Rojo",
+      "url": "https://open.spotify.com/track/3hpm0fTeSqlhJbnqAgaLZs"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -407,18 +403,22 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "$AD BOYZ 4 LIFE II",
-        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/2Kw4Hh3xAkcROBNPuKnh4t"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 226035,
-      "name": "MIENTRAS DUERMES",
-      "url": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
+      "duration_ms": 243070,
+      "name": "Dardos",
+      "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 177590,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
         "name": "Babylon Club",
         "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
       },
@@ -1215,42 +1199,18 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "Chula Vente",
-        "url": "https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS"
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 241564,
-      "name": "Chula Vente",
-      "url": "https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
-        "name": "Soy Favela",
-        "url": "https://open.spotify.com/album/1S3ANUh7napknhM3pqConG"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Soy Favela",
-      "url": "https://open.spotify.com/track/3TfRpsYPQSXqqramSoWlNg"
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -1283,6 +1243,46 @@
       "duration_ms": 182256,
       "name": "/Turistico",
       "url": "https://open.spotify.com/track/2vzf4z67gX8v7MntugFLXx"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
+        "name": "Soy Favela",
+        "url": "https://open.spotify.com/album/1S3ANUh7napknhM3pqConG"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Soy Favela",
+      "url": "https://open.spotify.com/track/3TfRpsYPQSXqqramSoWlNg"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
+        "name": "Chula Vente",
+        "url": "https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 241564,
+      "name": "Chula Vente",
+      "url": "https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -2271,26 +2271,6 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "CHUOS",
-        "url": "https://open.spotify.com/album/7mkZqBEmspGK2WFJv5Awym"
-      },
-      "artists": [
-        {
-          "name": "Juseph",
-          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 223128,
-      "name": "CHUOS",
-      "url": "https://open.spotify.com/track/479Hw7BEaM1cqOOlHtJtvj"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
         "name": "Qu\u00e9 Pasar\u00eda...",
         "url": "https://open.spotify.com/album/0uuqkIU29zH9mpChddc5Tn"
       },
@@ -2307,6 +2287,26 @@
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0OxKf18dUo2G5dFOQYCvBN"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
+        "name": "CHUOS",
+        "url": "https://open.spotify.com/album/7mkZqBEmspGK2WFJv5Awym"
+      },
+      "artists": [
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 223128,
+      "name": "CHUOS",
+      "url": "https://open.spotify.com/track/479Hw7BEaM1cqOOlHtJtvj"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -2387,26 +2387,18 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "CUPIDOxX",
-        "url": "https://open.spotify.com/album/2sUSOrqJo2ivs5vdROMPfD"
+        "name": "Me Promet\u00ed",
+        "url": "https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4"
       },
       "artists": [
         {
-          "name": "Juseph",
-          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
-        },
-        {
-          "name": "La Pantera",
-          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
-        },
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 216470,
-      "name": "CUPIDOxX",
-      "url": "https://open.spotify.com/track/65pAD5JQJAgqpcnSzHGbrP"
+      "duration_ms": 171788,
+      "name": "Me Promet\u00ed",
+      "url": "https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -2431,22 +2423,6 @@
       "duration_ms": 182282,
       "name": "blackout \ud83e\uddca",
       "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
-        "name": "Me Promet\u00ed",
-        "url": "https://open.spotify.com/album/3uitW0pQMa3sZi80pjMNU4"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 171788,
-      "name": "Me Promet\u00ed",
-      "url": "https://open.spotify.com/track/5uXL0CN1mQxHJSJRHN44Od"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -2491,6 +2467,30 @@
       "duration_ms": 188887,
       "name": "Hasta Aqu\u00ed Llegu\u00e9",
       "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
+        "name": "CUPIDOxX",
+        "url": "https://open.spotify.com/album/2sUSOrqJo2ivs5vdROMPfD"
+      },
+      "artists": [
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 216470,
+      "name": "CUPIDOxX",
+      "url": "https://open.spotify.com/track/65pAD5JQJAgqpcnSzHGbrP"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -2763,26 +2763,6 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "ESTA ES TU CASA NENA",
-        "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 209616,
-      "name": "ESTA ES TU CASA NENA",
-      "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
         "name": "Coraz\u00f3n Puro",
         "url": "https://open.spotify.com/album/65iRoPfxzGd1gNJo8bHIPc"
       },
@@ -2803,6 +2783,26 @@
       "duration_ms": 226285,
       "name": "Coraz\u00f3n Puro",
       "url": "https://open.spotify.com/track/072uRZ2a6okV4m0fyjY4sb"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
+        "name": "ESTA ES TU CASA NENA",
+        "url": "https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 209616,
+      "name": "ESTA ES TU CASA NENA",
+      "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -2927,22 +2927,26 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "Tengo Un Plan (Remix)",
-        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
+        "name": "Portate Bonito",
+        "url": "https://open.spotify.com/album/2guCMLk57vsbqr0jQbY0Zm"
       },
       "artists": [
         {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 215448,
-      "name": "Tengo Un Plan - Remix",
-      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
+      "duration_ms": 209541,
+      "name": "Portate Bonito",
+      "url": "https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi"
     }
   ],
   "unique_name": "Beast Mode Latin",

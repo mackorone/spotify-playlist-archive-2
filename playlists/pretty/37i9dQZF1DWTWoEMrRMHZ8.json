@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberta Campos",
-  "num_followers": 355541,
+  "num_followers": 355552,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
-        "name": "LA MIA STORIA TRA LE DITA / All Versions",
-        "url": "https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 315733,
-      "name": "QUEM DE N\u00d3S DOIS (solo version)",
-      "url": "https://open.spotify.com/track/2aZ4R7KQqJ3yNH2DoXQl7i"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
         "name": "Nosso Caso",
         "url": "https://open.spotify.com/album/0AXxBy1IF6U6myBm3EyZ3u"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 211699,
       "name": "Nosso Caso",
       "url": "https://open.spotify.com/track/0EAKZbRpwDUVdr8wxUtazd"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
+        "name": "LA MIA STORIA TRA LE DITA / All Versions",
+        "url": "https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 315733,
+      "name": "QUEM DE N\u00d3S DOIS (solo version)",
+      "url": "https://open.spotify.com/track/2aZ4R7KQqJ3yNH2DoXQl7i"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -651,30 +651,18 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
-        "name": "\u00c2nima",
-        "url": "https://open.spotify.com/album/3MnVyMkVVuIw3oXUGsQCMh"
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        },
-        {
-          "name": "Dora Morelenbaum",
-          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
-        },
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 191281,
-      "name": "\u00c2nima",
-      "url": "https://open.spotify.com/track/32729XuPuPb5aYlhFgfeje"
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -699,18 +687,30 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+        "name": "\u00c2nima",
+        "url": "https://open.spotify.com/album/3MnVyMkVVuIw3oXUGsQCMh"
       },
       "artists": [
         {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        },
+        {
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        },
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
         }
       ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+      "duration_ms": 191281,
+      "name": "\u00c2nima",
+      "url": "https://open.spotify.com/track/32729XuPuPb5aYlhFgfeje"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
+        "name": "Mares E Desertos",
+        "url": "https://open.spotify.com/album/04QCA0sevXuUw7bxhRv9Dg"
+      },
+      "artists": [
+        {
+          "name": "Almir Sater",
+          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
+        }
+      ],
+      "duration_ms": 221483,
+      "name": "Mares E Desertos",
+      "url": "https://open.spotify.com/track/05Z0DbEJquaV7AJTkMIRA5"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
         "name": "Se Acaso Voc\u00ea Chegasse",
         "url": "https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 186278,
       "name": "Beija-me",
       "url": "https://open.spotify.com/track/5Jmolq9XN50Zv1Qc7g3Pbr"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
-        "name": "Mares E Desertos",
-        "url": "https://open.spotify.com/album/04QCA0sevXuUw7bxhRv9Dg"
-      },
-      "artists": [
-        {
-          "name": "Almir Sater",
-          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
-        }
-      ],
-      "duration_ms": 221483,
-      "name": "Mares E Desertos",
-      "url": "https://open.spotify.com/track/05Z0DbEJquaV7AJTkMIRA5"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
+        "name": "S\u00f3 Tenho Um",
+        "url": "https://open.spotify.com/album/2xbuoODikHZ0DU0rOKROwt"
+      },
+      "artists": [
+        {
+          "name": "Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/6arRXoJBfebp5a9VKlEATa"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        }
+      ],
+      "duration_ms": 225890,
+      "name": "S\u00f3 Tenho Um",
+      "url": "https://open.spotify.com/track/5iNbCINGOch9j2lVKgPyPn"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
         "name": "Mandinga",
         "url": "https://open.spotify.com/album/4guK13IUP7UcWIneUgqbt3"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 240301,
       "name": "O Que Ser\u00e1 N\u00f3s Dois - Ao Vivo",
       "url": "https://open.spotify.com/track/5rbRRSmZVA0SyduyHyltJt"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
-        "name": "S\u00f3 Tenho Um",
-        "url": "https://open.spotify.com/album/2xbuoODikHZ0DU0rOKROwt"
-      },
-      "artists": [
-        {
-          "name": "Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/6arRXoJBfebp5a9VKlEATa"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        }
-      ],
-      "duration_ms": 225890,
-      "name": "S\u00f3 Tenho Um",
-      "url": "https://open.spotify.com/track/5iNbCINGOch9j2lVKgPyPn"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
-        "name": "Pensei Que Fosse o C\u00e9u (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
-      },
-      "artists": [
-        {
-          "name": "Vander Lee",
-          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
-        }
-      ],
-      "duration_ms": 247847,
-      "name": "Onde Deus possa me ouvir - Ao vivo",
-      "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
         "name": "Sonhando o Futuro",
         "url": "https://open.spotify.com/album/3zMVuA9xdKA7KKaqy1crSy"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 261043,
       "name": "Sonhando o Futuro",
       "url": "https://open.spotify.com/track/351MxF9HAAqxb33O6SCiRl"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
+        "name": "Pensei Que Fosse o C\u00e9u (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
+      },
+      "artists": [
+        {
+          "name": "Vander Lee",
+          "url": "https://open.spotify.com/artist/61BsnDVXUUSASD04kvzMs1"
+        }
+      ],
+      "duration_ms": 247847,
+      "name": "Onde Deus possa me ouvir - Ao vivo",
+      "url": "https://open.spotify.com/track/1SRwGa2dBqPeo8tbtMSAyG"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
-        "name": "A hist\u00f3ria da nossa l\u00edngua",
-        "url": "https://open.spotify.com/album/62n6upnCeTwn0P1n77kAIm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 286869,
-      "name": "A hist\u00f3ria da nossa l\u00edngua",
-      "url": "https://open.spotify.com/track/5Lw3gwWGtaZ2mHbdKL8kbF"
-    },
-    {
-      "added_at": "2026-02-06 03:01:17",
-      "album": {
         "name": "Abre Alas",
         "url": "https://open.spotify.com/album/5QbIpuG7a3X9d3ItR53zT5"
       },
@@ -1519,18 +1499,22 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
-        "name": "Te Vejo em Tudo",
-        "url": "https://open.spotify.com/album/1NeoXuny6sxG6zc4l3jmVA"
+        "name": "A hist\u00f3ria da nossa l\u00edngua",
+        "url": "https://open.spotify.com/album/62n6upnCeTwn0P1n77kAIm"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 181845,
-      "name": "Te Vejo em Tudo",
-      "url": "https://open.spotify.com/track/5fiCjbjORjKuz0AB5KA9QB"
+      "duration_ms": 286869,
+      "name": "A hist\u00f3ria da nossa l\u00edngua",
+      "url": "https://open.spotify.com/track/5Lw3gwWGtaZ2mHbdKL8kbF"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1555,22 +1539,18 @@
     {
       "added_at": "2026-02-06 03:01:17",
       "album": {
-        "name": "Cartas de Amor - Vol 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kdArHM1ssoWk6mNKsgP9Z"
+        "name": "Te Vejo em Tudo",
+        "url": "https://open.spotify.com/album/1NeoXuny6sxG6zc4l3jmVA"
       },
       "artists": [
         {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        },
-        {
-          "name": "Bona",
-          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
         }
       ],
-      "duration_ms": 169668,
-      "name": "A Noite do Meu Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/3kwREOYVZ8vbrwKHkQJeoh"
+      "duration_ms": 181845,
+      "name": "Te Vejo em Tudo",
+      "url": "https://open.spotify.com/track/5fiCjbjORjKuz0AB5KA9QB"
     },
     {
       "added_at": "2026-02-06 03:01:17",
@@ -1591,6 +1571,26 @@
       "duration_ms": 190000,
       "name": "Fico a Fim",
       "url": "https://open.spotify.com/track/2skXQTeaAMYZdI3JHFX2Jc"
+    },
+    {
+      "added_at": "2026-02-06 03:01:17",
+      "album": {
+        "name": "Cartas de Amor - Vol 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kdArHM1ssoWk6mNKsgP9Z"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        },
+        {
+          "name": "Bona",
+          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
+        }
+      ],
+      "duration_ms": 169668,
+      "name": "A Noite do Meu Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/3kwREOYVZ8vbrwKHkQJeoh"
     },
     {
       "added_at": "2026-02-06 03:01:17",

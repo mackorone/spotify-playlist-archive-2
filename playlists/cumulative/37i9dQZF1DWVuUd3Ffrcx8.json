@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\uc9c0\uae08 \uad6d\ub0b4\uc5d0\uc11c \ub5a0\uc624\ub974\uace0 \uc788\ub294 \ud31d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (\ucee4\ubc84: ZAYN)",
+  "description": "\uc9c0\uae08 \uad6d\ub0b4\uc5d0\uc11c \ub5a0\uc624\ub974\uace0 \uc788\ub294 \ud31d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (\ucee4\ubc84: Meghan Trainor)",
   "name": "Pop Rising Korea",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 171764,
       "name": "..FEISTY",
       "url": "https://open.spotify.com/track/0rn8BcTBTPGWb4NRCBST0k"
@@ -740,6 +740,24 @@
       "duration_ms": 220779,
       "name": "Almost",
       "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183975,
+      "name": "Always Everywhere",
+      "url": "https://open.spotify.com/track/6fGapufucZHPva1kvCqceA"
     },
     {
       "album": {
@@ -4365,6 +4383,24 @@
     },
     {
       "album": {
+        "name": "Get In Girl",
+        "url": "https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Get In Girl",
+      "url": "https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ"
+    },
+    {
+      "album": {
         "name": "Get Over Him",
         "url": "https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA"
       },
@@ -6082,7 +6118,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 232000,
       "name": "I'LL NEVER KNOW WHY",
       "url": "https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx"
@@ -6104,6 +6140,24 @@
       "duration_ms": 156255,
       "name": "I'm The Drama",
       "url": "https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG"
+    },
+    {
+      "album": {
+        "name": "ICEMAN FREESTYLE",
+        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "ICEMAN FREESTYLE",
+      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
     },
     {
       "album": {
@@ -7229,6 +7283,28 @@
     },
     {
       "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Jamie T",
+          "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260879,
+      "name": "Lights Burn Dimmer",
+      "url": "https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ"
+    },
+    {
+      "album": {
         "name": "like JENNIE",
         "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
       },
@@ -8150,7 +8226,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 172330,
       "name": "Middle of the Summer",
       "url": "https://open.spotify.com/track/7himplrwuuYlKAFwipmvmP"
@@ -11002,7 +11078,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 161069,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q"
@@ -12486,7 +12562,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 220500,
       "name": "The Girl in the Bubble",
       "url": "https://open.spotify.com/track/6Wxn79EwKPQvYerlctheGx"
@@ -13354,6 +13430,28 @@
       "duration_ms": 183584,
       "name": "Two Faced",
       "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "album": {

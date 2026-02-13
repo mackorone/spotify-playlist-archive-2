@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 
 > This is Stan Getz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,361 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,371 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 37 | [O Morro Nao Tem Vez](https://open.spotify.com/track/1Rs9fhY6wmDNVodvMPhdWN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 6:53 |
 | 38 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 5:17 |
 | 39 | [I Didn't Know What Time It Was](https://open.spotify.com/track/1ZO96LBkBu7BCO2xF5twWo) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Stan Getz And Gerry Mulligan/Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4Q0U8YpUSIcQ8cl08SbYkf) | 9:02 |
-| 40 | [Sweet Rain](https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sweet Rain](https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip) | 7:09 |
-| 41 | [Ballad](https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi \(Expanded Edition\)](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 5:46 |
+| 40 | [Ballad](https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi \(Expanded Edition\)](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 5:46 |
+| 41 | [Sweet Rain](https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Sweet Rain](https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip) | 7:09 |
 | 42 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 |
 | 43 | [Intoit](https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Conception](https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe) | 3:19 |
 | 44 | [Bahia](https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0kFbAA.md) - [plain]
 | 49 | [Stars Fell On Alabama](https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz Plays](https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw) | 3:22 |
 | 50 | [Chega De Saudade](https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Big Band Bossa Nova](https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY) | 4:11 |
 
-Snapshot ID: `aYp1AAAAAAB7QpzybomH8uIik2GxLCst`
+Snapshot ID: `aYvGgAAAAACeYhJM6NeEoDerxrqtyFQu`

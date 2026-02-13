@@ -4,7 +4,7 @@
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-126 songs - 7 hr 9 min
+127 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,13 +57,14 @@
 | [Handguns and Second Chances](https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 2:21 | 2022-10-25 |  |
 | [Hell is in Your Head](https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:03 | 2022-10-25 | 2025-04-15 |
 | [Holy Mountain](https://open.spotify.com/track/3LvK2Plt07xaxLS2DaE1S9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 3:49 | 2023-03-07 | 2023-12-14 |
-| [Holy Mountain](https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:49 | 2023-12-13 |  |
+| [Holy Mountain](https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:49 | 2023-12-13 | 2026-02-13 |
 | [I Am Error](https://open.spotify.com/track/6dedec4UcACJV9MlQwydqK) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:52 | 2022-10-25 | 2024-12-13 |
 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/373GdfW6KshUwMjxk4JtKp) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [I'm Sorry I'm Leaving](https://open.spotify.com/album/7K1AZt6c0aXqLiS7S4qCYi) | 3:12 | 2022-10-25 | 2022-11-15 |
 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/3Jfeb0s8slLKVt9GQop2jL) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:12 | 2022-11-14 | 2025-04-21 |
 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/72nAyk2uMbRcix2oI2oEM5) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw) | 3:12 | 2025-05-07 |  |
 | [If There is Light, It Will Find You](https://open.spotify.com/track/2129CLYgR1NmJrW1Iszn3l) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 6:17 | 2022-10-25 | 2025-04-26 |
 | [If There Is Light, It Will Find You](https://open.spotify.com/track/2ycUYO0JIm5vQtCyy4OpDV) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 6:17 | 2025-04-26 |  |
+| [In Your Absence](https://open.spotify.com/track/09c4HIWuuBBm5F2M7YGMe1) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [In Your Absence](https://open.spotify.com/album/0G1Vh5fbYFSznBHoBXuIEc) | 3:20 | 2026-02-13 |  |
 | [In Your Absence](https://open.spotify.com/track/7ougGsLXXBTJU13WFOE6W7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [In Your Absence](https://open.spotify.com/album/3UirsR8nqi8bDfjDzFUUR8) | 3:20 | 2024-05-02 | 2024-05-25 |
 | [Institutionalized](https://open.spotify.com/track/2Uwx8PL1UYzZNwd7sZFa05) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You \(Deluxe Edition\)](https://open.spotify.com/album/3SXWylZI0AVFYAKNjCVHvN) | 3:49 | 2023-12-13 |  |
 | [Institutionalized](https://open.spotify.com/track/7onCRN2Y3up2FNeGUnEoDd) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You \(Deluxe Edition\)](https://open.spotify.com/album/6Blw6RRPD0RAjpYsa0CMFd) | 3:49 | 2022-10-25 | 2023-12-14 |

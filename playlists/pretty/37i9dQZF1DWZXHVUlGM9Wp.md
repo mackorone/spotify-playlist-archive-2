@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 
 > For skating and grooving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,910 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,988 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 50 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 |
 | 51 | [Every 1's a Winner \- Single Version](https://open.spotify.com/track/5MXXbGYNmRHR7ULMvZYo5R) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Every 1's a Winner](https://open.spotify.com/album/2MdCe2CS9EcdJ9V20TKzxo) | 4:49 |
 | 52 | [Feel so Good](https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 3:23 |
-| 53 | [The Rhythm of the Night](https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 4:24 |
-| 54 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
-| 55 | [You'll Never Find Another Love Like Mine](https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:26 |
+| 53 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
+| 54 | [You'll Never Find Another Love Like Mine](https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 4:26 |
+| 55 | [The Rhythm of the Night](https://open.spotify.com/track/0ofMkI3jzmGCElAOgOLeo3) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 4:24 |
 | 56 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 |
 | 57 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 |
 | 58 | [My Boo \- Hitman's Club Mix](https://open.spotify.com/track/4c0rkFPszqQTyC753tsCMU) | [Ghost Town DJs](https://open.spotify.com/artist/4JbmXqez7WvTggoxn3UpVT) | [My Boo \(Hitman's Club Mix\)](https://open.spotify.com/album/5EvpbZ6QczJlnMX3kbxKYi) | 5:46 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZXHVUlGM9Wp.md) - [plain]
 | 67 | [Love Come Down](https://open.spotify.com/track/17EVu5b0l5uo2gErSfqEt1) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Get Loose](https://open.spotify.com/album/67OkPxOp2elK66KdSwIyse) | 6:05 |
 | 68 | [All Night \(feat\. Knox Fortune\)](https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Knox Fortune](https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 2:21 |
 | 69 | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Beat Goes On \(Rhythm to the Brain\)](https://open.spotify.com/album/3kzNiWgiBTQMD48QbWYSRn) | 2:13 |
-| 70 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
-| 71 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
+| 70 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
+| 71 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
 | 72 | [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 |
 | 73 | [Juicy \- 2007 Remaster](https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 5:01 |
 | 74 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |

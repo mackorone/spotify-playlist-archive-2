@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,581 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,639 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 69 | [Ace of Hearts](https://open.spotify.com/track/72wERbZ4yx2cNaoEj5jYnl) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [The Works](https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn) | 4:30 |
 | 70 | [Feel You Now](https://open.spotify.com/track/4DvepM4TNDah4107ZPVHP6) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [The Autumn Defense](https://open.spotify.com/album/3FFHH9ui7Hoit4dBEFdMyc) | 4:33 |
 | 71 | [Do It Again](https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 5:56 |
-| 72 | [Lowdown](https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 5:15 |
-| 73 | [Reminiscing \- Remastered](https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1) | 4:13 |
+| 72 | [Reminiscing \- Remastered](https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1) | 4:13 |
+| 73 | [Lowdown](https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 5:15 |
 | 74 | [How Long](https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F) | 3:24 |
 | 75 | [Key Largo](https://open.spotify.com/track/41v56RunWqxgqTD4H2cwOD) | [Bertie Higgins](https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq) | [The Essential Playlist](https://open.spotify.com/album/1oTKUovzcvwQUihOnE9MZq) | 3:18 |
 | 76 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |

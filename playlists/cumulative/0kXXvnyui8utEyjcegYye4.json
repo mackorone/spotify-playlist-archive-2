@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263786,
+      "name": "Adventure of a Lifetime",
+      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
+    },
+    {
+      "album": {
         "name": "After Hours (Deluxe)",
         "url": "https://open.spotify.com/album/742eAldb4AJKLoPgJhGRE7"
       },

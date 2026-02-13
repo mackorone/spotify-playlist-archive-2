@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,048 likes - 110 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,076 likes - 110 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 74 | [Home](https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Home](https://open.spotify.com/album/7HJujLCjpNW735tY2vhgmc) | 3:32 |
 | 75 | [It's Too Late](https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Again / It's Too Late](https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc) | 3:17 |
 | 76 | [Slip Slidin' Away](https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Rita Wilson Now & Forever: Duets](https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0) | 4:53 |
-| 77 | [Dreams \- Lanie's Version](https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(Lanie's Version\)](https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb) | 4:20 |
-| 78 | [The Way You Make Me Feel](https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [The Way You Make Me Feel](https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp) | 3:52 |
-| 79 | [Everybody Hurts](https://open.spotify.com/track/2sH21Xbvh4rbOJeNQzr8yY) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Liz Vice](https://open.spotify.com/artist/6kY5bg7eFoD8SnPvZdzen2) | [Everybody Hurts](https://open.spotify.com/album/6hmmWaGSqZQTkKRReMgeDe) | 4:53 |
+| 77 | [The Way You Make Me Feel](https://open.spotify.com/track/5d7TnPB7XplPTFV919uXYv) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [The Way You Make Me Feel](https://open.spotify.com/album/5tI48knArncrNzkCFFxoLp) | 3:52 |
+| 78 | [Everybody Hurts](https://open.spotify.com/track/2sH21Xbvh4rbOJeNQzr8yY) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Liz Vice](https://open.spotify.com/artist/6kY5bg7eFoD8SnPvZdzen2) | [Everybody Hurts](https://open.spotify.com/album/6hmmWaGSqZQTkKRReMgeDe) | 4:53 |
+| 79 | [Dreams \- Lanie's Version](https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(Lanie's Version\)](https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb) | 4:20 |
 | 80 | [I Won't Back Down](https://open.spotify.com/track/0ty4f4slQKbXZnPrcHWHsu) | [Anthony D'Amato](https://open.spotify.com/artist/1oplL2hHYq7CQykvSbd6gy) | [Won't You Be My Neighbor? \(A Benefit For Refugee Aid\)](https://open.spotify.com/album/7mr65EthWJRSzJ6AvoIj3S) | 3:12 |
 | 81 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl) | 3:10 |
 | 82 | [My Valentine \(with Paul McCartney\)](https://open.spotify.com/track/5ieWsEv2u9vMHWB3uV3R5Z) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [My Valentine \(with Paul McCartney\)](https://open.spotify.com/album/7opVxBLRbaAq1q7aMSLeHo) | 4:18 |

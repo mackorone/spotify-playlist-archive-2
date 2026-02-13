@@ -2729,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "Al Final del D\u00eda",
+        "url": "https://open.spotify.com/album/59yx8ngDCtq6YATujXGQyg"
+      },
+      "artists": [
+        {
+          "name": "Xolo Music",
+          "url": "https://open.spotify.com/artist/23ZEJoIVfvwkBAe022VUZ6"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224374,
+      "name": "Al Final del D\u00eda",
+      "url": "https://open.spotify.com/track/5fnuvDHHkPdcnCbi675PSF"
+    },
+    {
+      "album": {
         "name": "Al Final Del D\u00eda",
         "url": "https://open.spotify.com/album/4EZsD3FUx5hUvSELDX6C3M"
       },
@@ -2740,7 +2758,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 224374,
       "name": "Al Final Del D\u00eda",
       "url": "https://open.spotify.com/track/6r9czfSZp4moVpP1NUlWub"
@@ -8972,7 +8990,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-23",
+      "date_removed": null,
       "duration_ms": 221904,
       "name": "Bonita Bonita - 1950's Soul Jazz",
       "url": "https://open.spotify.com/track/6T8rd4DtgOXFNhPjkfwEH1"
@@ -18906,7 +18924,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 185326,
       "name": "dopamina",
       "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
@@ -44482,7 +44500,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 213512,
       "name": "ni\u00f1a de CASA",
       "url": "https://open.spotify.com/track/5opUKcXwkwqbeMdMmrmnOu"
@@ -51429,6 +51447,24 @@
     },
     {
       "album": {
+        "name": "Por Hollywood",
+        "url": "https://open.spotify.com/album/1ZPSeayvQULfD7qWzacJXO"
+      },
+      "artists": [
+        {
+          "name": "Mano Orula",
+          "url": "https://open.spotify.com/artist/5CGkrvybFb7Bw2lqKwzmI0"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162541,
+      "name": "Por Hollywood",
+      "url": "https://open.spotify.com/track/5hH1MqxQG7FQdeu2W5G9x4"
+    },
+    {
+      "album": {
         "name": "Por La Familia",
         "url": "https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T"
       },
@@ -52700,7 +52736,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 198058,
       "name": "Pvta Luna",
       "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
@@ -62128,6 +62164,24 @@
       "duration_ms": 184218,
       "name": "Tarot",
       "url": "https://open.spotify.com/track/4TzDoPgZyO9SJLkaxVlvUQ"
+    },
+    {
+      "album": {
+        "name": "Tartas V4",
+        "url": "https://open.spotify.com/album/4KT8X6t8dXRchfXsT9oqUo"
+      },
+      "artists": [
+        {
+          "name": "Fabruuhh",
+          "url": "https://open.spotify.com/artist/0XwY9iCWcb5Ayv6f75DWGE"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82430,
+      "name": "Tartas V4",
+      "url": "https://open.spotify.com/track/5at6bvf4xUvTkmj9PEQieV"
     },
     {
       "album": {

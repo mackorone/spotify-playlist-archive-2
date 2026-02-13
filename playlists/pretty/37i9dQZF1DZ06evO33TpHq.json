@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 61925,
+  "num_followers": 61957,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAEZIkA4ZPuszZssD0EnqEI",
+  "snapshot_id": "aYvGgAAAAAAFeAiXGCNw0aOc9JANPNMt",
   "tracks": [
     {
       "added_at": null,
@@ -359,8 +359,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
-        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
+        "name": "Living Hope",
+        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 323384,
-      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
-      "url": "https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW"
+      "duration_ms": 290133,
+      "name": "Great Things",
+      "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living Hope",
-        "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
+        "name": "I BELIEVE \u2022 HOMETOWN VERSION",
+        "url": "https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 290133,
-      "name": "Great Things",
-      "url": "https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg"
+      "duration_ms": 323384,
+      "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
+      "url": "https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW"
     },
     {
       "added_at": null,

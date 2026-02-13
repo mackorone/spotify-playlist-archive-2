@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: Theodora",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: KeBlack",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 159543,
       "name": "2K225 (feat Didi B, Bolemvn)",
       "url": "https://open.spotify.com/track/3WKMbWc1UEqtDXaSRc098g"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 153520,
       "name": "4H Du Mat (feat. Singuila)",
       "url": "https://open.spotify.com/track/6CLmCxIte8oAGHtvCwhGOm"
@@ -3897,6 +3897,24 @@
     },
     {
       "album": {
+        "name": "Comment faire",
+        "url": "https://open.spotify.com/album/6j1HTQ19MZq9KzNY5KyfKG"
+      },
+      "artists": [
+        {
+          "name": "Maud Elka",
+          "url": "https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Comment faire",
+      "url": "https://open.spotify.com/track/0om4QY2l97Cdju4zBlbTVl"
+    },
+    {
+      "album": {
         "name": "Comment \u00e7a va ?",
         "url": "https://open.spotify.com/album/6Yk3rXs1IdnLYxODCBJNPu"
       },
@@ -5154,6 +5172,24 @@
       "duration_ms": 185500,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
+    },
+    {
+      "album": {
+        "name": "DON'T LOVE ME",
+        "url": "https://open.spotify.com/album/6ko11fruKOL5nq8WiQH6L9"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181942,
+      "name": "DON'T LOVE ME",
+      "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
     },
     {
       "album": {
@@ -7700,7 +7736,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 127949,
       "name": "Hypocrite (deux visages)",
       "url": "https://open.spotify.com/track/3Nvs1x1Vr7tNngGj71AyjV"
@@ -10485,6 +10521,24 @@
     },
     {
       "album": {
+        "name": "Maman",
+        "url": "https://open.spotify.com/album/6FtXO4BecwBSH3WQFbFOxa"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134173,
+      "name": "Maman",
+      "url": "https://open.spotify.com/track/0Jb2FpuE5OfuUzwkkd6hSo"
+    },
+    {
+      "album": {
         "name": "Mambella",
         "url": "https://open.spotify.com/album/0qZsbYAhTYHpu5y5sjF46B"
       },
@@ -10744,7 +10798,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 159183,
       "name": "MENU",
       "url": "https://open.spotify.com/track/7gPfcWLq41GtuvwHNWGnZe"
@@ -10854,7 +10908,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 164360,
       "name": "Miami",
       "url": "https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8"
@@ -10876,7 +10930,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 146333,
       "name": "Miel (feat. Lisandro Cuxi)",
       "url": "https://open.spotify.com/track/5s0A1dh578tudMzR8mNnfU"
@@ -11044,6 +11098,24 @@
       "duration_ms": 219628,
       "name": "MMS",
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
+      "album": {
+        "name": "Mode Avion",
+        "url": "https://open.spotify.com/album/1cORx4mYsAQarJb9aoCHLJ"
+      },
+      "artists": [
+        {
+          "name": "Lynda",
+          "url": "https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142012,
+      "name": "Mode Avion",
+      "url": "https://open.spotify.com/track/49CGlc4laVFyI6VTcHioal"
     },
     {
       "album": {
@@ -12017,6 +12089,24 @@
     },
     {
       "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138247,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1"
+    },
+    {
+      "album": {
         "name": "Glish",
         "url": "https://open.spotify.com/album/28jxOZWNxs8VARM7kTp6Ln"
       },
@@ -12640,6 +12730,24 @@
       "duration_ms": 189520,
       "name": "One Time",
       "url": "https://open.spotify.com/track/0PCyd8O4CkIBcJxmDafTxX"
+    },
+    {
+      "album": {
+        "name": "ONE TRACK MIND",
+        "url": "https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200640,
+      "name": "ONE TRACK MIND",
+      "url": "https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K"
     },
     {
       "album": {
@@ -14355,6 +14463,32 @@
     },
     {
       "album": {
+        "name": "Remise En Question",
+        "url": "https://open.spotify.com/album/2cnHnXcToWxLuO2U2zUjG3"
+      },
+      "artists": [
+        {
+          "name": "Serge Ibaka",
+          "url": "https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        },
+        {
+          "name": "Dany Synth\u00e9",
+          "url": "https://open.spotify.com/artist/2zTuJejwDNORTLRCkQPbHy"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183132,
+      "name": "Remise En Question",
+      "url": "https://open.spotify.com/track/3gAwPBCKggT7RxPetHdb6J"
+    },
+    {
+      "album": {
         "name": "Reviens jamais",
         "url": "https://open.spotify.com/album/746WkKV7QPnIwwupgfGDaU"
       },
@@ -16018,7 +16152,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 181333,
       "name": "S\u00c9CURIT\u00c9 (feat. Aya Nakamura)",
       "url": "https://open.spotify.com/track/58MQ1HSuo7ZPsvUkWuUNMP"
@@ -16416,6 +16550,24 @@
       "duration_ms": 134972,
       "name": "THIS YEAR (Blessings) - French Remix",
       "url": "https://open.spotify.com/track/4cVnXm3iHSlOYRtHZcEEbj"
+    },
+    {
+      "album": {
+        "name": "Ti B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/2SpriWSRlBrj43RAxdeiES"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173546,
+      "name": "Ti B\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/7EvY12qA3o3rkoQV07IW4P"
     },
     {
       "album": {
@@ -17380,7 +17532,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 145492,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"

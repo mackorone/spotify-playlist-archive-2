@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 228079,
+  "num_followers": 228084,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADC7LmmK65H1h0km/wj6BkF",
+  "snapshot_id": "aYvGgAAAAAAuv3vkWAGftUZtW6TZrs4Q",
   "tracks": [
     {
       "added_at": null,
@@ -412,7 +412,7 @@
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 268124,
+      "duration_ms": 268125,
       "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
       "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
     },
@@ -451,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+        "name": "Round 2 (feat. MC Davo) - Single",
+        "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
       },
       "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 180053,
-      "name": "Debes de saber",
-      "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
+      "duration_ms": 201000,
+      "name": "Round 2",
+      "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
     },
     {
       "added_at": null,
@@ -499,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Round 2 (feat. MC Davo) - Single",
-        "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
       },
       "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Round 2",
-      "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
+      "duration_ms": 180053,
+      "name": "Debes de saber",
+      "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Acostumbraste",
+        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Te Acostumbraste",
+      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Le Pido a la Noche",
         "url": "https://open.spotify.com/album/5A2O82embthnUakFLo7US1"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 241656,
       "name": "Le Pido a la Noche",
       "url": "https://open.spotify.com/track/1qb2uXjDs1Oms1RLJkJP4q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Acostumbraste",
-        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        }
-      ],
-      "duration_ms": 182168,
-      "name": "Te Acostumbraste",
-      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
     },
     {
       "added_at": null,

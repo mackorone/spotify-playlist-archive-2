@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAANQqoXEyGfanzK/TYhrsZB",
+  "snapshot_id": "aYvGgAAAAAD8Xel5Gi6sf3qVp3Ho4lry",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 200240,
-      "name": "Hey Hey Tu",
-      "url": "https://open.spotify.com/track/1BgH0sooCdisYKC9om3MGD"
+      "duration_ms": 197706,
+      "name": "El Pulpo",
+      "url": "https://open.spotify.com/track/15xfPAgrDU5YAJL6wPzpAN"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 197706,
-      "name": "El Pulpo",
-      "url": "https://open.spotify.com/track/15xfPAgrDU5YAJL6wPzpAN"
+      "duration_ms": 200240,
+      "name": "Hey Hey Tu",
+      "url": "https://open.spotify.com/track/1BgH0sooCdisYKC9om3MGD"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA GORDA",
-        "url": "https://open.spotify.com/album/26sbSnTr3SZ9gU2auO78Ha"
+        "name": "Pura Pachanga",
+        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 206000,
-      "name": "LA GORDA",
-      "url": "https://open.spotify.com/track/0G9moVihw52g3agFXan7Mu"
+      "duration_ms": 149493,
+      "name": "El Loco Bailar\u00edn",
+      "url": "https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LA GORDA",
+        "url": "https://open.spotify.com/album/26sbSnTr3SZ9gU2auO78Ha"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "LA GORDA",
+      "url": "https://open.spotify.com/track/0G9moVihw52g3agFXan7Mu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LA PLEBADA",
         "url": "https://open.spotify.com/album/4vP24qYsJChHCHPUvjFM5T"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 189240,
       "name": "LA PLEBADA",
       "url": "https://open.spotify.com/track/6cfapE2grWZmKGwEZm2eYX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Pachanga",
-        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 149493,
-      "name": "El Loco Bailar\u00edn",
-      "url": "https://open.spotify.com/track/2r2DOim3Av355zPCaeTHmx"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Muevelo Bien",
-      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
+      "duration_ms": 171346,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 169520,
-      "name": "El Sancudito",
-      "url": "https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu"
+      "duration_ms": 181293,
+      "name": "Muevelo Bien",
+      "url": "https://open.spotify.com/track/2pI4bZrrzlTWT8Xze5IDWD"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piensa en Mi",
-        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
+        "name": "Mas Caliente Que Nunca",
+        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 200760,
-      "name": "Que Bonita Te Ves",
-      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
+      "duration_ms": 169520,
+      "name": "El Sancudito",
+      "url": "https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Caliente Que Nunca",
-        "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
+        "name": "Piensa en Mi",
+        "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 171346,
-      "name": "Playa Sola",
-      "url": "https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL"
+      "duration_ms": 200760,
+      "name": "Que Bonita Te Ves",
+      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
     },
     {
       "added_at": null,

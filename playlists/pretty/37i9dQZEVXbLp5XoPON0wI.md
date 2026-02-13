@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,088 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,171 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 43 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
 | 44 | [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 |
 | 45 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
-| 46 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
+| 46 | [505](https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 4:13 |
 | 47 | [Excavator](https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:31 |
 | 48 | [Manchild](https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:33 |
 | 49 | [No Pole](https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick \(Deluxe\)](https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht) | 3:07 |
 | 50 | [VOY A LLeVARTE PA PR](https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 2:36 |
 
-Snapshot ID: `MR/pmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MSE7GAAAAAAAAAAAAAAAAAAAAAAAAGVu`

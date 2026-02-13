@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : LauCarr\u00e9",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Dysto",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -258,6 +258,24 @@
       "duration_ms": 273539,
       "name": "7 VIES (feat. Sofiane Pamart) - Bonus",
       "url": "https://open.spotify.com/track/3Hh3hbbgmDnSbr8kYuvx98"
+    },
+    {
+      "album": {
+        "name": "92100",
+        "url": "https://open.spotify.com/album/0H0LNxF1OwWdFVYcF7UvzE"
+      },
+      "artists": [
+        {
+          "name": "Martin Gal",
+          "url": "https://open.spotify.com/artist/07fDecYuCwczS0zr5RCHje"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159996,
+      "name": "92100",
+      "url": "https://open.spotify.com/track/1MPIIufKDHyPSg7tfYOVUa"
     },
     {
       "album": {
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 201346,
       "name": "Darrin Baker",
       "url": "https://open.spotify.com/track/05F4Ya4H4Bf1vZj5bk4g1z"
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 208000,
       "name": "La Froideur d'un corps",
       "url": "https://open.spotify.com/track/6QrZXUpKcM9KSYkFAEVsss"
@@ -4939,6 +4957,42 @@
     },
     {
       "album": {
+        "name": "LE MARATHON",
+        "url": "https://open.spotify.com/album/6mFhlo5n7wV1q5oc0QLbKw"
+      },
+      "artists": [
+        {
+          "name": "N3MS",
+          "url": "https://open.spotify.com/artist/0bKdSFonchjcyDrS1HNy6J"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120840,
+      "name": "NANI",
+      "url": "https://open.spotify.com/track/6xnFCb313mPiBAZ9MiNNDF"
+    },
+    {
+      "album": {
+        "name": "NAPALM",
+        "url": "https://open.spotify.com/album/3YqfbzUlNLrL7lmZe6DEPH"
+      },
+      "artists": [
+        {
+          "name": "2Paname",
+          "url": "https://open.spotify.com/artist/1114YJqVjUDwOGSC42DGFF"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177391,
+      "name": "NAPALM",
+      "url": "https://open.spotify.com/track/6w3Sn7CAirceTJMUNMoEGh"
+    },
+    {
+      "album": {
         "name": "LA HAUTEUR DE LA LUNE",
         "url": "https://open.spotify.com/album/6rv2HuS4hmqDktFV04TeBU"
       },
@@ -5986,7 +6040,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 118298,
       "name": "R.A.S",
       "url": "https://open.spotify.com/track/0eEfnX1aGAvnjyeQhXufUi"
@@ -6030,6 +6084,36 @@
       "duration_ms": 145013,
       "name": "Rebellion",
       "url": "https://open.spotify.com/track/1JtOe5JDDjASnbcNsiPlD0"
+    },
+    {
+      "album": {
+        "name": "Reflets",
+        "url": "https://open.spotify.com/album/7sjn7TFlA5peV87S2VMUn5"
+      },
+      "artists": [
+        {
+          "name": "Sentin\u2019l",
+          "url": "https://open.spotify.com/artist/49eWq2JOL6lBj9ELT70IWi"
+        },
+        {
+          "name": "Swift Guad",
+          "url": "https://open.spotify.com/artist/7MqaRBgnaFIndVIYwC43AP"
+        },
+        {
+          "name": "Melan",
+          "url": "https://open.spotify.com/artist/5TwGksCe3pSfpBcV96k6sS"
+        },
+        {
+          "name": "YAMOY",
+          "url": "https://open.spotify.com/artist/72WmDLmRy7zIGFLedTxErq"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268604,
+      "name": "Reflets",
+      "url": "https://open.spotify.com/track/11h4ENTtCnwKd8pDGdKbtE"
     },
     {
       "album": {
@@ -7340,7 +7424,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 233528,
       "name": "ZUSHILEAKS",
       "url": "https://open.spotify.com/track/355udD8YFn3mFf5Tkru8J2"

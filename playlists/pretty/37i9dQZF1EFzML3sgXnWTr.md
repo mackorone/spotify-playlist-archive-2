@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,887 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,887 likes - 86 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 19 | [Musica Italiana](https://open.spotify.com/track/1DHkzrjQ9Knz4zmRifZMM1) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [RAGAZZO DI GIÙ](https://open.spotify.com/album/6mb62aOsgJ2yItwqViACbE) | 3:03 |
 | 20 | [hype](https://open.spotify.com/track/4DWCjOAFbhfjZzcvKkleIx) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz) | 2:53 |
 | 21 | [DI CAPRIO \(feat\. Niky Savage\)](https://open.spotify.com/track/34IZ1Uu91IxjGbGRtW4c63) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [DI CAPRIO \(feat\. Niky Savage\)](https://open.spotify.com/album/1Bc0ufj4QsSISl1gApoJCa) | 2:28 |
-| 22 | [RAGAZZI FUORI](https://open.spotify.com/track/6fJcbngwZoGyhpO1JOHI2R) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 2:56 |
-| 23 | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se) | 2:56 |
+| 22 | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/track/2znPPkwAfVVD7BJtqDSZqQ) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [ALLUCINAZIONE COLLETTIVA](https://open.spotify.com/album/5wY53ViB7NBbvztuRDP7se) | 2:56 |
+| 23 | [RAGAZZI FUORI](https://open.spotify.com/track/6fJcbngwZoGyhpO1JOHI2R) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 2:56 |
 | 24 | [Maranza](https://open.spotify.com/track/6Ybc2KTvfEiJeHSneaak7o) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [Fabio Rovazzi](https://open.spotify.com/artist/35orQw8LgQn7KOFjzCyY7E) | [FOMO](https://open.spotify.com/album/54ya3twstlGFMzEtsETqpl) | 3:00 |
 | 25 | [NERO GOTICO](https://open.spotify.com/track/1KZKtIn6ul3F68mY4YY0cg) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 3:04 |
 | 26 | [raggi gamma](https://open.spotify.com/track/6UEPZv9ZGcoZRxnkCq5C2p) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [sangiovanni](https://open.spotify.com/album/7oMyjqYnpRhVYQKwjHrnFd) | 3:15 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 30 | [Ancora in due](https://open.spotify.com/track/70rhDfMyFQBSshpXUovMEh) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 3:02 |
 | 31 | [NIENTE DI MALE](https://open.spotify.com/track/5GrGU0oH8iGkPIdEAjXdGb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:37 |
 | 32 | [CON\(TORTA\)...](https://open.spotify.com/track/1DJZ3oXntTxMIeqQKodeX0) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Con\(torta\)](https://open.spotify.com/album/4XTcBZhbAcDSLO8blO4RBd) | 3:16 |
-| 33 | [Guardare giù](https://open.spotify.com/track/0nZzbRLYgvdkQB6EKjWfAL) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Guardare giù](https://open.spotify.com/album/7sjHSwxgGeW1VhT8mBKluB) | 2:48 |
-| 34 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
+| 33 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
+| 34 | [Guardare giù](https://open.spotify.com/track/0nZzbRLYgvdkQB6EKjWfAL) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Guardare giù](https://open.spotify.com/album/7sjHSwxgGeW1VhT8mBKluB) | 2:48 |
 | 35 | [Non sono io](https://open.spotify.com/track/56G2D39tC1YMt6H6htjsSI) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Nostalgia](https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1) | 2:52 |
 | 36 | [RANDAGI](https://open.spotify.com/track/0UFNkuBGeda7Rx2JTidBcu) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [RANDAGI](https://open.spotify.com/album/5oRlxAHKgPHEO5cwSOk8U3) | 3:17 |
 | 37 | [6 PM](https://open.spotify.com/track/5Lh0AgBMU1xRNLZ8iPW4bS) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [6 PM](https://open.spotify.com/album/7hrXbPpSWQ4xd1uuOnAuT5) | 3:08 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 65 | [La Storia Più Bella Di Sempre](https://open.spotify.com/track/5Dwi8UxcZkZ74C7tYzRqGv) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Manchester](https://open.spotify.com/album/1fzL3WefoCP6F7sEzlU8mg) | 2:49 |
 | 66 | [CORALLO \(feat\. chiamamifaro\)](https://open.spotify.com/track/4Ug7Xin5w20S5iI8lH2a1R) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [CHIAMO](https://open.spotify.com/album/4Kfp3DudUiFoQamrhT4c44) | 3:23 |
 | 67 | [parolacce](https://open.spotify.com/track/61zba7lHT4kUUXrGXLWjjj) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:02 |
-| 68 | [La Meglio Gioventù](https://open.spotify.com/track/1KRTSDtOVwd4oTZ1gfzluB) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [La Meglio Gioventù](https://open.spotify.com/album/27YISdUuV8GRGMRuAvMdVz) | 3:10 |
-| 69 | [Io non sarei](https://open.spotify.com/track/3Us1mpXpaXUlKf5R24dx3Z) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [IO NON SAREI](https://open.spotify.com/album/0P9qazKQ3HfvXcEcHfxZ3b) | 3:02 |
+| 68 | [Io non sarei](https://open.spotify.com/track/3Us1mpXpaXUlKf5R24dx3Z) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [IO NON SAREI](https://open.spotify.com/album/0P9qazKQ3HfvXcEcHfxZ3b) | 3:02 |
+| 69 | [La Meglio Gioventù](https://open.spotify.com/track/1KRTSDtOVwd4oTZ1gfzluB) | [Margherita Vicario](https://open.spotify.com/artist/2UUqj8yIpJGSjEJgkL4IIY) | [La Meglio Gioventù](https://open.spotify.com/album/27YISdUuV8GRGMRuAvMdVz) | 3:10 |
 | 70 | [Qué es](https://open.spotify.com/track/4GKGNCzRNLVyiImJ0kRXiN) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:20 |
 | 71 | [Cuore Nero](https://open.spotify.com/track/2z8cpZ3TEe2jsUQUF3tcSC) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [MI AMI MI ODI](https://open.spotify.com/album/0grqDgwk7yAw6j4PxjHECP) | 2:33 |
 | 72 | [SOLDI, AMORE](https://open.spotify.com/track/6J2IPT5QmI6hcjf6zf7iMI) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 2:57 |
@@ -93,5 +93,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 83 | [Luna](https://open.spotify.com/track/2zyiYftVAL1eKQZtMxG1IZ) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Donna sulla Luna](https://open.spotify.com/album/5zWZQPpSRsDwx6AwmkMZmD) | 3:31 |
 | 84 | [Fili Del Tram](https://open.spotify.com/track/5jJnKCA8bSdNtSGa1VL5jY) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Crisalide](https://open.spotify.com/album/5291vGtKdgVQco8wobFIAA) | 2:52 |
 | 85 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
+| 86 | [Mi Fido Di Te](https://open.spotify.com/track/3YKmi0tPQL4mpcDIvXQbUV) | [Riccardo Stimolo](https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW) | [Mi Fido Di Te](https://open.spotify.com/album/2jgeoZfOlI6KCyBPvPApxz) | 3:09 |
 
-Snapshot ID: `AcJaoAAAAAAIv3qX0DXBhH+d/RpoH+y1`
+Snapshot ID: `AcJgQAAAAABPJe6VFU/63jZ8xB2LFfg5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMwmF30ppw50.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- United Kingdom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,734 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,820 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMwmF30ppw50.md) - [plain]
 | 49 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 |
 | 50 | [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 |
 
-Snapshot ID: `MR/pmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MSE7GAAAAAAAAAAAAAAAAAAAAAAAAGVu`

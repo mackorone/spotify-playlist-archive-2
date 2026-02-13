@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: sombr",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Jamala",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 166317,
       "name": "DVD",
       "url": "https://open.spotify.com/track/5DOUS7y3JEvH5w7ZPlZU6m"
@@ -2645,6 +2645,24 @@
     },
     {
       "album": {
+        "name": "Lucky Again",
+        "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181550,
+      "name": "Lucky Again",
+      "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -2970,7 +2988,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 165676,
       "name": "Next Summer",
       "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 218508,
       "name": "Nothing Breaks Like a Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
@@ -3664,7 +3682,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 180156,
       "name": "Shades Of Gray",
       "url": "https://open.spotify.com/track/5jakKyB7OiOSPyTrbypdpm"
@@ -3776,7 +3794,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 280800,
       "name": "Smoking Cherry",
       "url": "https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY"
@@ -3942,7 +3960,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 171176,
       "name": "Stomach Butterflies",
       "url": "https://open.spotify.com/track/3ODfNdDz9b9VmABFncYmPG"
@@ -3964,6 +3982,28 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
+        "name": "STRUM",
+        "url": "https://open.spotify.com/album/0rD15Yb9swH4JhryQoCR4z"
+      },
+      "artists": [
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        },
+        {
+          "name": "PROBASS \u2206 HARDI",
+          "url": "https://open.spotify.com/artist/4w8RbPbs4n3ceag62qvMl2"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179908,
+      "name": "STRUM",
+      "url": "https://open.spotify.com/track/0kNi9wIBSE4duxq3qUsMBQ"
     },
     {
       "album": {
@@ -5133,6 +5173,24 @@
     },
     {
       "album": {
+        "name": "\u0410\u043b\u043b\u043e",
+        "url": "https://open.spotify.com/album/4ReuKmiVFTHhxcPw4rs4Us"
+      },
+      "artists": [
+        {
+          "name": "Assia Ahhatt",
+          "url": "https://open.spotify.com/artist/0L2AfX5NQ5Qe62hQNNeMMx"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "\u0410\u043b\u043b\u043e",
+      "url": "https://open.spotify.com/track/0u0D1DG6uvSsH4nhVq9WoO"
+    },
+    {
+      "album": {
         "name": "\u0410\u041b\u041b\u041e, \u041f\u0406\u0414\u0422\u0420\u0418\u041c\u041a\u0410!",
         "url": "https://open.spotify.com/album/4v1c1k6Bwbi90X7E4Zqlzr"
       },
@@ -5926,7 +5984,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 152076,
       "name": "\u0414\u043e\u0434\u0430\u0439\u0442\u0435 \u0441\u0432\u0456\u0442\u043b\u0430",
       "url": "https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY"
@@ -7617,6 +7675,24 @@
     },
     {
       "album": {
+        "name": "\u041e\u0431\u0456\u0439\u043c\u0430\u0439",
+        "url": "https://open.spotify.com/album/2akoNOOHiDiSOdhC79uRV0"
+      },
+      "artists": [
+        {
+          "name": "Jamala",
+          "url": "https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167841,
+      "name": "\u041e\u0431\u0456\u0439\u043c\u0430\u0439",
+      "url": "https://open.spotify.com/track/1MhXxwj0Eu1CHCCo2BP3kY"
+    },
+    {
+      "album": {
         "name": "\u043e\u0434\u043d\u0430 \u043d\u0430 \u043c\u0456\u043b\u044c\u0439\u043e\u043d",
         "url": "https://open.spotify.com/album/0PMBM2qi2ViFot9MlMBTjx"
       },
@@ -7820,7 +7896,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 118983,
       "name": "\u041f\u043e\u0431\u0430\u0447\u0435\u043d\u043d\u044f",
       "url": "https://open.spotify.com/track/1avWHX5Dy3Th7gz54MjFPL"

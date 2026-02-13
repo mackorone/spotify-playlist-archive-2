@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 199877,
       "name": "Amor",
       "url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk"
@@ -7346,7 +7346,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 215213,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
@@ -8118,7 +8118,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -8190,7 +8190,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -26727,6 +26727,24 @@
     },
     {
       "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
+    },
+    {
+      "album": {
         "name": "Yo s\u00e9",
         "url": "https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv"
       },
@@ -27064,7 +27082,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 216506,
       "name": "\u2060LUCES DE COLORES",
       "url": "https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe"

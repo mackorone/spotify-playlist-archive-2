@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-769 songs - 1 day 8 hr 52 min
+770 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,6 +490,7 @@
 | [pancakes](https://open.spotify.com/track/4G31kkmfsLvCopH02jTZFV) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [pancakes](https://open.spotify.com/album/6zaBrTwjJZvew0BHy5krdx) | 1:55 | 2026-01-30 |  |
 | [Panther Attack](https://open.spotify.com/track/0M9JsZCgApoA6GqEIwf6ah) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [Zephyr Avalon](https://open.spotify.com/artist/1zTFIyWUniB8SiSdcTLa9O), [George Silva](https://open.spotify.com/artist/7BpMl247jFhdq3CW1AtTsi) | [Panther Attack](https://open.spotify.com/album/1WPXMg2iktNcwH5OUpdy52) | 3:46 | 2024-01-26 | 2024-09-02 |
 | [Paper Planes](https://open.spotify.com/track/1HcbPmeokxD8x87M4Gg23x) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7), [okinami](https://open.spotify.com/artist/5SulT12uH9qQMQsGCBMzoH) | [Paper Planes](https://open.spotify.com/album/0yWx9GV1HrXnbZ0x3n5WZw) | 1:50 | 2025-09-26 | 2025-10-17 |
+| [Parallels](https://open.spotify.com/track/5mgHn7Ek4U49yaxlZwCKye) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Parallels](https://open.spotify.com/album/6AZpUpCVQjXK5NN97rViEa) | 1:59 | 2026-02-06 |  |
 | [parandrus](https://open.spotify.com/track/3ZGQDdB9ihULtXlwRnrzIP) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [parandrus](https://open.spotify.com/album/5C0MZpkOVSOzVetfNg5WGC) | 2:06 | 2025-05-09 | 2025-06-07 |
 | [Parc Mercier](https://open.spotify.com/track/4W35aBRFyjBsfxJg12iSxY) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Parc Mercier](https://open.spotify.com/album/0gq5Gp8HA0CkzEFn1w8By5) | 2:13 | 2025-07-18 | 2026-01-21 |
 | [Parcels](https://open.spotify.com/track/3XH6VLP67eaWY8WE5zpcUW) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Parcels](https://open.spotify.com/album/60H62b6Ew5algY7SLyOMT9) | 1:46 | 2025-02-14 | 2025-05-28 |
@@ -622,7 +623,7 @@
 | [Stuntin](https://open.spotify.com/track/6UK5UFLbPcuD5fR5coYJDc) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Stuntin](https://open.spotify.com/album/5CMN6lCBhH85DPqHtRPtUL) | 2:20 | 2024-09-06 | 2025-09-13 |
 | [Subdivisão](https://open.spotify.com/track/3I5VB6Zfemby4tyyXIHpmP) | [Thomas Asselman](https://open.spotify.com/artist/7vHr6L8xUxkObnyHhjqfzU) | [Subdivisão](https://open.spotify.com/album/2WaviSBDrps4BxMTdog2ql) | 2:44 | 2024-01-26 | 2025-05-17 |
 | [Subside](https://open.spotify.com/track/5Y05MijWM2CxVjJkQheRpv) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Subside](https://open.spotify.com/album/5xX9sW4B4YwEYkurhooseO) | 2:06 | 2025-12-12 |  |
-| [sugar](https://open.spotify.com/track/3Xn9tjmpfJtOYTv5B2fbs4) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [sugar](https://open.spotify.com/album/4purhPKkZ2Wpl2HCV5BoL7) | 1:52 | 2025-11-14 |  |
+| [sugar](https://open.spotify.com/track/3Xn9tjmpfJtOYTv5B2fbs4) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [sugar](https://open.spotify.com/album/4purhPKkZ2Wpl2HCV5BoL7) | 1:52 | 2025-11-14 | 2026-02-13 |
 | [Sultry](https://open.spotify.com/track/6ZUhnFzIxYcDX8wfJVLyn0) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Hilaria](https://open.spotify.com/artist/3wSSMiYpzOTY4DOCrTmycP), [Imperial Sax](https://open.spotify.com/artist/3Br54UjOUik54bV82AUdLa) | [Sultry](https://open.spotify.com/album/05mvyTGHSOo7rleio6zJT6) | 2:09 | 2024-10-25 |  |
 | [Summer Breeze](https://open.spotify.com/track/2AZtvnYqO0bexZrp3Lu6gp) | [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt), [Malosax](https://open.spotify.com/artist/0RjbPhOQ4dRFYxKx5aIddb), [Jo la Tige](https://open.spotify.com/artist/3ZHYjcXUk7fXYqDEf2C4nt) | [Summer Breeze](https://open.spotify.com/album/6MB0brb3vIdsw5KQFG0a04) | 2:22 | 2026-01-24 |  |
 | [Summer in the City](https://open.spotify.com/track/2VM8QaUVpwrVCjWh0bNYwf) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Summer in the City](https://open.spotify.com/album/06ahpWeq75UuU5nFnAMoAv) | 2:54 | 2025-07-11 | 2025-07-26 |

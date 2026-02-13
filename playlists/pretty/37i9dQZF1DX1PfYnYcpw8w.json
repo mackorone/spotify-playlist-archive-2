@@ -1,29 +1,13 @@
 {
   "description": "The essential tracks, all in one playlist.",
-  "num_followers": 3785535,
+  "num_followers": 3785739,
   "original_name": "This Is Ariana Grande",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALiD8GK7hdgpAelMmXphRPyH4NF+",
+  "snapshot_id": "AAAAAA4g4v7EyeNO7GnkcxzSHcBKHXu9",
   "tracks": [
-    {
-      "added_at": "2025-03-30 22:25:31",
-      "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "twilight zone",
-      "url": "https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM"
-    },
     {
       "added_at": "2025-03-30 22:25:31",
       "album": {
@@ -39,38 +23,6 @@
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
-    },
-    {
-      "added_at": "2025-03-30 22:25:31",
-      "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 215834,
-      "name": "past life",
-      "url": "https://open.spotify.com/track/2MIpkAQVJqQIDf9k4YWoHR"
-    },
-    {
-      "added_at": "2025-03-30 22:25:31",
-      "album": {
-        "name": "Wicked: The Soundtrack",
-        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 241501,
-      "name": "Popular",
-      "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
     },
     {
       "added_at": "2025-03-30 22:25:31",
@@ -111,22 +63,6 @@
     {
       "added_at": "2025-03-30 22:25:31",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 163381,
-      "name": "supernatural",
-      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
-    },
-    {
-      "added_at": "2025-03-30 22:25:31",
-      "album": {
         "name": "yes, and?",
         "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
@@ -139,22 +75,6 @@
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
-    },
-    {
-      "added_at": "2025-03-30 22:25:31",
-      "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 201905,
-      "name": "warm",
-      "url": "https://open.spotify.com/track/0BeR2fJmYnKNn7IORw3GR9"
     },
     {
       "added_at": "2025-03-30 22:25:31",
@@ -175,22 +95,6 @@
     {
       "added_at": "2025-03-30 22:25:31",
       "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 216264,
-      "name": "Hampstead",
-      "url": "https://open.spotify.com/track/4D2DFuqs2PwLiHbcf6CX47"
-    },
-    {
-      "added_at": "2025-03-30 22:25:31",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -200,9 +104,41 @@
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 164927,
-      "name": "bye",
-      "url": "https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl"
+      "duration_ms": 163381,
+      "name": "supernatural",
+      "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 241501,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "twilight zone",
+      "url": "https://open.spotify.com/track/1YRbAonLvmuUILvQso0gUM"
     },
     {
       "added_at": "2025-03-30 22:25:31",
@@ -255,6 +191,22 @@
     {
       "added_at": "2025-03-30 22:25:31",
       "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 215834,
+      "name": "past life",
+      "url": "https://open.spotify.com/track/2MIpkAQVJqQIDf9k4YWoHR"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -267,22 +219,6 @@
       "duration_ms": 172324,
       "name": "positions",
       "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
-    },
-    {
-      "added_at": "2025-03-30 22:25:31",
-      "album": {
-        "name": "eternal sunshine deluxe: brighter days ahead",
-        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204815,
-      "name": "dandelion",
-      "url": "https://open.spotify.com/track/6wZOZ0votPhc8qdg4UFPtH"
     },
     {
       "added_at": "2025-03-30 22:25:31",
@@ -339,6 +275,22 @@
     {
       "added_at": "2025-03-30 22:25:31",
       "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "needy",
+      "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -387,6 +339,38 @@
       "duration_ms": 92400,
       "name": "intro (end of the world)",
       "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 201905,
+      "name": "warm",
+      "url": "https://open.spotify.com/track/0BeR2fJmYnKNn7IORw3GR9"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 164927,
+      "name": "bye",
+      "url": "https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl"
     },
     {
       "added_at": "2025-03-30 22:25:31",
@@ -475,6 +459,22 @@
       "duration_ms": 201882,
       "name": "pov",
       "url": "https://open.spotify.com/track/1bj8x3ERN9gSc2NfJIpc76"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 216264,
+      "name": "Hampstead",
+      "url": "https://open.spotify.com/track/4D2DFuqs2PwLiHbcf6CX47"
     },
     {
       "added_at": "2025-03-30 22:25:31",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-03-30 22:25:31",
       "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204815,
+      "name": "dandelion",
+      "url": "https://open.spotify.com/track/6wZOZ0votPhc8qdg4UFPtH"
+    },
+    {
+      "added_at": "2025-03-30 22:25:31",
+      "album": {
         "name": "My Everything (Deluxe)",
         "url": "https://open.spotify.com/album/5AMOKSM1ftb3opIbGT2d4q"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 179293,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/6f5TuB9WtbA1g49A4DcMQ4"
-    },
-    {
-      "added_at": "2025-03-30 22:25:31",
-      "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "needy",
-      "url": "https://open.spotify.com/track/1TEL6MlSSVLSdhOSddidlJ"
     },
     {
       "added_at": "2025-03-30 22:25:31",

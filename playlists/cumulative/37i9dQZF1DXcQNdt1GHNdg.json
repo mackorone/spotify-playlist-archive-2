@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "12 Vajde",
+        "url": "https://open.spotify.com/album/0ZHBJzPSGcdY2hZtd8TEPx"
+      },
+      "artists": [
+        {
+          "name": "Sohal Y",
+          "url": "https://open.spotify.com/artist/4hzpfKWl3sNab2m0CE4aQA"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155769,
+      "name": "12 Vajde",
+      "url": "https://open.spotify.com/track/7BqkqK5ZrqePJKUxxCI7Nd"
+    },
+    {
+      "album": {
         "name": "2 DUNI 4",
         "url": "https://open.spotify.com/album/7lnZBuZ4OFMvVXhTFFDBKm"
       },
@@ -827,6 +845,32 @@
     },
     {
       "album": {
+        "name": "Bachke",
+        "url": "https://open.spotify.com/album/6C8gnjNGOfsvKvKC9a0QlF"
+      },
+      "artists": [
+        {
+          "name": "Kulwinder Sohi",
+          "url": "https://open.spotify.com/artist/4ZuPcTmzv64QazoSJizaxe"
+        },
+        {
+          "name": "Husan Galwatti",
+          "url": "https://open.spotify.com/artist/6QYK5wmqsrKJc9NRkDkEq2"
+        },
+        {
+          "name": "Hukam",
+          "url": "https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Bachke",
+      "url": "https://open.spotify.com/track/229FUpVb3cYVARYoOzPoVU"
+    },
+    {
+      "album": {
         "name": "BACKLASH",
         "url": "https://open.spotify.com/album/2RkPZfb697jIKJlwWXEiMM"
       },
@@ -868,6 +912,28 @@
       "duration_ms": 188202,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/30zRC8Lm6rXgCauxTnazbc"
+    },
+    {
+      "album": {
+        "name": "Badmash (From \"Dsp Dev 2\")",
+        "url": "https://open.spotify.com/album/0rGtX0aiBfOahc0VDJhkPQ"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Rass",
+          "url": "https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "Badmash - From \"Dsp Dev 2\"",
+      "url": "https://open.spotify.com/track/2A2vDULe18wwg8E7AmYU0o"
     },
     {
       "album": {
@@ -996,7 +1062,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 172826,
       "name": "Ban",
       "url": "https://open.spotify.com/track/79izTfIMSynG9BkQfbYlXh"
@@ -1114,7 +1180,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 125106,
       "name": "Bhau Flow",
       "url": "https://open.spotify.com/track/0CfXLJr9A4qrcRkABEJM04"
@@ -3806,7 +3872,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 166009,
       "name": "KALA JADOO",
       "url": "https://open.spotify.com/track/5zDZ4Yzo38pFeyfMS1Oo98"

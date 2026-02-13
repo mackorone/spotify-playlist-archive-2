@@ -3635,6 +3635,24 @@
     },
     {
       "album": {
+        "name": "\u0628\u0644\u0642\u064a\u0633 2012",
+        "url": "https://open.spotify.com/album/2whHmhixMEgcKNj7G5b4Ht"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397363,
+      "name": "\u0642\u062f\u0631",
+      "url": "https://open.spotify.com/track/1xpTXUnluk3BIKY1JLnk5D"
+    },
+    {
+      "album": {
         "name": "\u0645\u0631\u062d\u0628\u0627",
         "url": "https://open.spotify.com/album/6F34uPWLURxhVHvOUzxNiQ"
       },

@@ -2,7 +2,7 @@
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Recent hits and new songs from your fave artists\. Cover: Jessie Ware
+> Recent hits and new songs from your fave artists\. Cover: ZAYN
 
 2,407 songs - 5 day 12 hr 36 min
 

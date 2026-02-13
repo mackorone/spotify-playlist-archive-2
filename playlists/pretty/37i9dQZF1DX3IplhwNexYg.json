@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Phantastic Ferniture",
-  "num_followers": 114238,
+  "num_followers": 114233,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -383,8 +383,8 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe"
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU"
+      "duration_ms": 193182,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -495,8 +495,8 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Fall Back",
-        "url": "https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l"
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
         }
       ],
-      "duration_ms": 193182,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"
+      "duration_ms": 200053,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0"
-      },
-      "artists": [
-        {
-          "name": "Basht.",
-          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Dancing Shoes",
         "url": "https://open.spotify.com/album/3YFxLOJQhY5voCBsEQ1kCt"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 224287,
       "name": "Kneel",
       "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/3n5sboJ3wcVFlTFyKQdPv0"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "duration_ms": 237586,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0mihCpyBVzu79KXizfhtg5"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Shut You Out",
-        "url": "https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE"
-      },
-      "artists": [
-        {
-          "name": "The Rions",
-          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
-        }
-      ],
-      "duration_ms": 234715,
-      "name": "Shut You Out",
-      "url": "https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Blushing",
         "url": "https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 247000,
       "name": "Blushing",
       "url": "https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Shut You Out",
+        "url": "https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "duration_ms": 234715,
+      "name": "Shut You Out",
+      "url": "https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "Love & Money",
+        "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 229656,
+      "name": "Love & Money",
+      "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "What Do We Ever Really Know?",
         "url": "https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 187351,
       "name": "This Is Real",
       "url": "https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "Love & Money",
-        "url": "https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 229656,
-      "name": "Love & Money",
-      "url": "https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "It's a Mirror",
-        "url": "https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz"
+        "name": "drains",
+        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
       },
       "artists": [
         {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
         }
       ],
-      "duration_ms": 212320,
-      "name": "It's a Mirror",
-      "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
+      "duration_ms": 228999,
+      "name": "drains",
+      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "drains",
-        "url": "https://open.spotify.com/album/29Zc1IOVFcFA3uBq0ykR4Q"
+        "name": "It's a Mirror",
+        "url": "https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz"
       },
       "artists": [
         {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
         }
       ],
-      "duration_ms": 228999,
-      "name": "drains",
-      "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
+      "duration_ms": 212320,
+      "name": "It's a Mirror",
+      "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
+        "name": "this is my california",
+        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "this is my california",
+      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
         "name": "Tacklebox",
         "url": "https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ"
       },
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "this is my california",
-        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "this is my california",
-      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW"
       },
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Little Chaos",
-        "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
+        "name": "Skullcrusher",
+        "url": "https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
         }
       ],
-      "duration_ms": 174893,
-      "name": "Little Chaos",
-      "url": "https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif"
+      "duration_ms": 127500,
+      "name": "Skullcrusher",
+      "url": "https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1419,22 +1419,6 @@
       "duration_ms": 214008,
       "name": "A Cowboy Song",
       "url": "https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
-        "name": "Skullcrusher",
-        "url": "https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Skullcrusher",
-      "url": "https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1467,6 +1451,22 @@
       "duration_ms": 288841,
       "name": "Open Wide",
       "url": "https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Little Chaos",
+        "url": "https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "Little Chaos",
+      "url": "https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif"
     },
     {
       "added_at": "2025-09-01 14:27:56",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-09-01 14:27:56",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 221412,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
-    },
-    {
-      "added_at": "2025-09-01 14:27:56",
-      "album": {
         "name": "Vain",
         "url": "https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 156106,
       "name": "Vain",
       "url": "https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ"
+    },
+    {
+      "added_at": "2025-09-01 14:27:56",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 221412,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
     },
     {
       "added_at": "2025-09-01 14:27:56",

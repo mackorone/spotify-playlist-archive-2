@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,763 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,785 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 18 | [Serenata Rap](https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:27 |
 | 19 | [Me Voy a Poner Bien Loco](https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:23 |
 | 20 | [VNDO](https://open.spotify.com/track/62lcIAirqahXFb9EM2gNjP) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [VNDO](https://open.spotify.com/album/6IMVC2fXSxKfLJ8FI2rYp3) | 3:51 |
-| 21 | [Borracho Gacho \(feat\. Dharius\)](https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 2:45 |
+| 21 | [Ve Como Ando](https://open.spotify.com/track/40PRueUeMTIsPHvJs2dUFz) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ve Como Ando](https://open.spotify.com/album/41CDstL6US0TQ9hVrIJJBL) | 3:14 |
 | 22 | [Estilo Malandro](https://open.spotify.com/track/5wLF7rGxYDi8qy4ch1IKGh) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:32 |
 | 23 | [Mala Fama, Buena Vidha](https://open.spotify.com/track/6Ov2J0ExzEMhj6hVirzpWt) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:30 |
-| 24 | [Ve Como Ando](https://open.spotify.com/track/40PRueUeMTIsPHvJs2dUFz) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Ve Como Ando](https://open.spotify.com/album/41CDstL6US0TQ9hVrIJJBL) | 3:14 |
+| 24 | [Borracho Gacho \(feat\. Dharius\)](https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 2:45 |
 | 25 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 |
 | 26 | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/track/1HfHDbNHzafjjxnLoAobRA) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Estrafalario](https://open.spotify.com/album/7lO0gX1rSWXYO9gnUqpY1p) | 2:40 |
 | 27 | [Te Gustan Malos](https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 49 | [Qué Buen Fiestón](https://open.spotify.com/track/4wunXNPvuNXmqY6NzT1CIC) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 2:49 |
 | 50 | [Inhala](https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Yayo](https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ) | [Inhala](https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS) | 4:05 |
 
-Snapshot ID: `aYp1AAAAAAA5l6vniDs5DtY3dqwR3bEC`
+Snapshot ID: `aYvGgAAAAAAMG2NPOdSz7mSGPsP6Ub/I`

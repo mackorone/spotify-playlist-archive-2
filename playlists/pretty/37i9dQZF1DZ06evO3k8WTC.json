@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAABC4gmXC7HLZr7UCha2Lw/A",
+  "snapshot_id": "aYvGgAAAAAAmaOG1bngY6tvOgDuWiF2+",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 244093,
-      "name": "198d",
-      "url": "https://open.spotify.com/track/4YvaVYEOZdrpwd6HlalDXO"
+      "duration_ms": 201066,
+      "name": "Rascuache",
+      "url": "https://open.spotify.com/track/2VzLvjB0nNqqiVVWKFDV0n"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 201066,
-      "name": "Rascuache",
-      "url": "https://open.spotify.com/track/2VzLvjB0nNqqiVVWKFDV0n"
+      "duration_ms": 244093,
+      "name": "198d",
+      "url": "https://open.spotify.com/track/4YvaVYEOZdrpwd6HlalDXO"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "in\u2022ter a\u2022li\u2022a",
-        "url": "https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X"
+        "name": "Acrobatic Tenement",
+        "url": "https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 206893,
-      "name": "Incurably Innocent",
-      "url": "https://open.spotify.com/track/5APGgRWycMTYvDa61oKBGp"
+      "duration_ms": 206639,
+      "name": "Initiation",
+      "url": "https://open.spotify.com/track/5R2mTACdp1umG0oEAF4HOg"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acrobatic Tenement",
-        "url": "https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip"
+        "name": "in\u2022ter a\u2022li\u2022a",
+        "url": "https://open.spotify.com/album/0WVX9vbT6mcYkMP3yL260X"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 206639,
-      "name": "Initiation",
-      "url": "https://open.spotify.com/track/5R2mTACdp1umG0oEAF4HOg"
+      "duration_ms": 206893,
+      "name": "Incurably Innocent",
+      "url": "https://open.spotify.com/track/5APGgRWycMTYvDa61oKBGp"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 219013,
-      "name": "No Wolf Like The Present",
-      "url": "https://open.spotify.com/track/0LbD8kPWxh8kyce8RoC4T7"
+      "duration_ms": 221120,
+      "name": "Pendulum In A Peasant Dress",
+      "url": "https://open.spotify.com/track/2Io9R14w2r1ZkrZJSAw9T6"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
         }
       ],
-      "duration_ms": 221120,
-      "name": "Pendulum In A Peasant Dress",
-      "url": "https://open.spotify.com/track/2Io9R14w2r1ZkrZJSAw9T6"
+      "duration_ms": 219013,
+      "name": "No Wolf Like The Present",
+      "url": "https://open.spotify.com/track/0LbD8kPWxh8kyce8RoC4T7"
     },
     {
       "added_at": null,

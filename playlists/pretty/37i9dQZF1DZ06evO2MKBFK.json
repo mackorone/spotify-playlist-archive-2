@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 634273,
+  "num_followers": 634270,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAA09rOZyuEzJBtzsKpN16/C",
+  "snapshot_id": "aYvGgAAAAAAvec9a0awNfRGKcMf9wMKU",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 222186,
-      "name": "Ain't No Fun (\uc7ac\ubbf8\uc5c6\uc5b4)",
-      "url": "https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hot Issue",
         "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 225666,
       "name": "Fool",
       "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 222186,
+      "name": "Ain't No Fun (\uc7ac\ubbf8\uc5c6\uc5b4)",
+      "url": "https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ"
     },
     {
       "added_at": null,

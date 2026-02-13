@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Power Snatch",
+  "description": "The UK's biggest rock playlist. Cover: Cardinals",
   "name": "The Rock List",
   "tracks": [
     {
@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 172018,
       "name": "Company Hunting",
       "url": "https://open.spotify.com/track/05ZZoNpRrlq50z5rNQ2EQU"
@@ -5763,6 +5763,24 @@
     },
     {
       "album": {
+        "name": "Eat You Alive",
+        "url": "https://open.spotify.com/album/4hRbLo7BrpBh462vErwNuk"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187319,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/6Ovon17zVIzfrM1yocYFCq"
+    },
+    {
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu"
       },
@@ -7108,7 +7126,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 177816,
       "name": "Freakshow",
       "url": "https://open.spotify.com/track/5fJzd6nziOPpfyMJti37SI"
@@ -7567,6 +7585,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Demob Happy",
+          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362757,
+      "name": "Give It All To Me",
+      "url": "https://open.spotify.com/track/3Oz6wOhpcpI9UtcantF7Kz"
+    },
+    {
+      "album": {
         "name": "Somebody's Child",
         "url": "https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8"
       },
@@ -7842,6 +7878,28 @@
       "duration_ms": 145207,
       "name": "God Save The Queens",
       "url": "https://open.spotify.com/track/5gYbg3Tj7FwPGTljJ6oWEb"
+    },
+    {
+      "album": {
+        "name": "God\u2019s Lonely Man",
+        "url": "https://open.spotify.com/album/0QYw1Mqw3tJgdiIfnPTIt7"
+      },
+      "artists": [
+        {
+          "name": "Anna Calvi",
+          "url": "https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "God's Lonely Man",
+      "url": "https://open.spotify.com/track/3U80KdOoVGGekiTv2hQAk2"
     },
     {
       "album": {
@@ -8874,7 +8932,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 175392,
       "name": "Hit Me When I'm Sore",
       "url": "https://open.spotify.com/track/2MMYTFtU63AnpdNpFJsYKk"
@@ -8928,7 +8986,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 189166,
       "name": "Hold Onto Me",
       "url": "https://open.spotify.com/track/1bpiC1yM4P1O6LFjRRdk3A"
@@ -9592,7 +9650,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 254372,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/1F3M1n8k9AzmqqPiJVyZju"
@@ -11171,6 +11229,24 @@
     },
     {
       "album": {
+        "name": "Online 24/7",
+        "url": "https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Lapdog",
+      "url": "https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ"
+    },
+    {
+      "album": {
         "name": "Lawn Tennis",
         "url": "https://open.spotify.com/album/5hqZp53v4abJUoZLRAkCSx"
       },
@@ -11254,7 +11330,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 233737,
       "name": "Left For Good",
       "url": "https://open.spotify.com/track/4pjSe7n2609YnMWnrJ3OVJ"
@@ -11294,6 +11370,24 @@
       "duration_ms": 204631,
       "name": "Legalize Living",
       "url": "https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT"
+    },
+    {
+      "album": {
+        "name": "Legs In A Snare",
+        "url": "https://open.spotify.com/album/10WMBdbJZ3ZH61tKza4Y9H"
+      },
+      "artists": [
+        {
+          "name": "Lip Critic",
+          "url": "https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194538,
+      "name": "Legs In A Snare",
+      "url": "https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq"
     },
     {
       "album": {
@@ -12106,6 +12200,24 @@
       "duration_ms": 192729,
       "name": "MAGNETIC",
       "url": "https://open.spotify.com/track/784C7AyqUuTQNvJxigMZTS"
+    },
+    {
+      "album": {
+        "name": "Magnificent Seven",
+        "url": "https://open.spotify.com/album/5sHMsGf22ASJYjV7XC9mO8"
+      },
+      "artists": [
+        {
+          "name": "The Clockworks",
+          "url": "https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "Magnificent Seven",
+      "url": "https://open.spotify.com/track/0RUvT91RC8FCmueE2xTYxj"
     },
     {
       "album": {
@@ -14578,7 +14690,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 392098,
       "name": "One of the Greats",
       "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
@@ -15479,6 +15591,24 @@
     },
     {
       "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/6f6TCcTF2vjS2GxKlT7SBq"
+      },
+      "artists": [
+        {
+          "name": "VILLANELLE",
+          "url": "https://open.spotify.com/artist/3J9QwmRJDdn9Oq1fB6mfcF"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290086,
+      "name": "Placebo",
+      "url": "https://open.spotify.com/track/6T4hTXGDgINTwLJCE0iv14"
+    },
+    {
+      "album": {
         "name": "PLAINTIVE NATIVE",
         "url": "https://open.spotify.com/album/3o7SM2cImToqXzVwWrfloL"
       },
@@ -15894,7 +16024,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 189633,
       "name": "Pull Like a Dog",
       "url": "https://open.spotify.com/track/70zu9D0jl2JivONuazwrcM"
@@ -18345,6 +18475,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129938,
+      "name": "St. Agnes",
+      "url": "https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5"
+    },
+    {
+      "album": {
         "name": "St. Charles Square",
         "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
       },
@@ -18374,7 +18522,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 211574,
       "name": "STACK UP THE REASONS",
       "url": "https://open.spotify.com/track/4WcGDz2rLPLzkHSy66T7LZ"
@@ -20087,6 +20235,24 @@
     },
     {
       "album": {
+        "name": "The Thing",
+        "url": "https://open.spotify.com/album/3SSzzh89odIPakG2srLHHf"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122218,
+      "name": "The Thing",
+      "url": "https://open.spotify.com/track/0OhmOdaq3BtgcBeE3eOYYR"
+    },
+    {
+      "album": {
         "name": "People Watching (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
       },
@@ -20574,6 +20740,24 @@
       "duration_ms": 238442,
       "name": "Tomorrow Is Closed",
       "url": "https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS"
+    },
+    {
+      "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/577XDhAIhJ0K2KCZDJTNUf"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148072,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh"
     },
     {
       "album": {
@@ -21384,7 +21568,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 251626,
       "name": "Video Game",
       "url": "https://open.spotify.com/track/5ooRkehNy78cEq1IvPBuxr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,846 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,906 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,18 +68,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 58 | [Laurita Garza](https://open.spotify.com/track/0j46E9gFXDQND4AY4az8V3) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [20 Corridos Bien Perrones](https://open.spotify.com/album/75Ko8jNzPDAYwY7PPHwjic) | 3:10 |
 | 59 | [Misa De Cuerpo Presente](https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Misa De Cuerpo Presente](https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU) | 2:48 |
 | 60 | [El Penal De La Loma](https://open.spotify.com/track/5Nf9M4uFmcQQqhcaWeX0TT) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [A Las Damas También Les Gustan Los Corridos](https://open.spotify.com/album/11qoNS56p2qkACwivdfIVv) | 2:55 |
-| 61 | [Los Dos Amigos](https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 2:58 |
+| 61 | [El Ultimo Contrabando](https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [20 Exitos](https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL) | 3:14 |
 | 62 | [El Corrido De La Amapola](https://open.spotify.com/track/3h1RRFYvik2RmsA1UNxHMo) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:09 |
-| 63 | [El Ultimo Contrabando](https://open.spotify.com/track/06hDJt1VHCJbIAjEsOxziU) | [Beto Quintanilla](https://open.spotify.com/artist/2L54fWLv9EgJu76ELlfV2J) | [20 Exitos](https://open.spotify.com/album/6mZX641phI5c1OSACBqmYL) | 3:14 |
-| 64 | [Corrido de Domingo Corrales](https://open.spotify.com/track/1ndfTgmbawerzlQvbfvxrM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 2: Corridos y Rancheras](https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9) | 2:56 |
+| 63 | [Corrido de Domingo Corrales](https://open.spotify.com/track/1ndfTgmbawerzlQvbfvxrM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 2: Corridos y Rancheras](https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9) | 2:56 |
+| 64 | [Los Dos Amigos](https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 2:58 |
 | 65 | [Corrido de Chito Cano](https://open.spotify.com/track/4jKUq8Q2ME0g3cukpQJE7X) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [CORRIDOS FAMOSOS VOL\. 2 \(Grabación Original Remasterizada\)](https://open.spotify.com/album/4HHc12osVCVVYZgJ8JYLd7) | 3:27 |
 | 66 | [Regalo Caro](https://open.spotify.com/track/07EjPAkty1dVRwSx3P1Hf7) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [El Cartel de Los Cielos](https://open.spotify.com/album/1SsbPJiv3kPz69cRfGxI7b) | 3:58 |
 | 67 | [Arboles De La Barranca](https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Más Pegadas](https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y) | 2:21 |
 | 68 | [Sonora Y Sus Ojos Negros](https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Historia](https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e) | 2:57 |
 | 69 | [Domingo Corrales](https://open.spotify.com/track/2YhF4zGkvmoxMKfTDXN19n) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/1lbo0iXFRYTxv5RVFEDEvv) | 2:42 |
-| 70 | [Las Tres Tumbas](https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 3:03 |
+| 70 | [No Se La Van Acabar](https://open.spotify.com/track/2axPsgKQouhRvodneN6K3Z) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Más Completa Colección \(Disc 1\)](https://open.spotify.com/album/7qgar3nxo2RpNGPn7Ilf54) | 3:12 |
 | 71 | [Corrido de los Pérez](https://open.spotify.com/track/7rCFnAMjSx3NHJRTR4PijK) | [Los Viejones De Linares](https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW) | [Corridos Famosos](https://open.spotify.com/album/4ATvggsNK4AaZNpare9Tjd) | 3:58 |
-| 72 | [No Se La Van Acabar](https://open.spotify.com/track/2axPsgKQouhRvodneN6K3Z) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Más Completa Colección \(Disc 1\)](https://open.spotify.com/album/7qgar3nxo2RpNGPn7Ilf54) | 3:12 |
+| 72 | [Las Tres Tumbas](https://open.spotify.com/track/4mcG6SlICWy1KPphstFiWz) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [12 Kilates Puros Corridos](https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4) | 3:03 |
 | 73 | [Kilómetro 1160](https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [20 Corridos Valientes](https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE) | 3:12 |
 | 74 | [Simón Blanco](https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Corazón Norteño](https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb) | 4:14 |
 | 75 | [El Deportado](https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [El Deportado \(Grabación Original Remasterizada\)](https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq) | 2:48 |

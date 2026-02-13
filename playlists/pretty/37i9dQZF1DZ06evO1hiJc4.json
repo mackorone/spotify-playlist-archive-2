@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 153415,
+  "num_followers": 153416,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAABuPZG/tljTeSzknNf/jyks",
+  "snapshot_id": "aYvGgAAAAACtuvJa8Mskh/fzGu6BIrV9",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 171049,
-      "name": "WTF Are We Talking For (From \"Euphoria: Season 1\" Soundtrack)",
-      "url": "https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yeh I Fuckin' Did It (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 171049,
+      "name": "WTF Are We Talking For (From \"Euphoria: Season 1\" Soundtrack)",
+      "url": "https://open.spotify.com/track/096eU6V7NOWbfgIz7r153d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COSMIC OPERA ACT I",
         "url": "https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 200656,
       "name": "IMPLOSION",
       "url": "https://open.spotify.com/track/5v69y5vJhDy8YJ2blZoO1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MARBLE ZONE (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4MrxvRXDmRFSfHwsz5PWX7"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 159186,
-      "name": "MARBLE ZONE - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ExEyYveJq0222GvTrWMGb"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
       "duration_ms": 240960,
       "name": "To Be Human (feat. Labrinth)",
       "url": "https://open.spotify.com/track/1ZZBpYcE6uw4vsZwhXGv0e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MARBLE ZONE (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4MrxvRXDmRFSfHwsz5PWX7"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 159186,
+      "name": "MARBLE ZONE - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ExEyYveJq0222GvTrWMGb"
     },
     {
       "added_at": null,

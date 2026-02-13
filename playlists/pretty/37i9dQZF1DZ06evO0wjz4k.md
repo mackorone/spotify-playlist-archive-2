@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 
 > This is Parker McCollum\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,370 likes - 47 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,385 likes - 47 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 6 | [Hell of a Year](https://open.spotify.com/track/0kz85nFVQ3JzZo0CRG5SQc) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 3:52 |
 | 7 | [Young Man's Blues](https://open.spotify.com/track/6ywiHcxaHBR39gRhud37XK) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Young Man's Blues](https://open.spotify.com/album/5ix6PvaO7elQgjgLsxcb0j) | 3:26 |
 | 8 | [Killin’ Me](https://open.spotify.com/track/2IRSpYsVphI0rZz93eqjrL) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:17 |
-| 9 | [To Be Loved By You](https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:19 |
+| 9 | [Big Ole Fancy House](https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Big Ole Fancy House](https://open.spotify.com/album/0T1po3gtIUONgzpdM2BRYG) | 4:03 |
 | 10 | [I Can't Breathe](https://open.spotify.com/track/02ZvAl0VJLTMa4cfvjtCwB) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 4:17 |
-| 11 | [Big Ole Fancy House](https://open.spotify.com/track/2O6518EoFdYebARB4PCEjH) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Big Ole Fancy House](https://open.spotify.com/album/0T1po3gtIUONgzpdM2BRYG) | 4:03 |
+| 11 | [To Be Loved By You](https://open.spotify.com/track/2pUQX4d3Cjh3umGkVz0XyI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy](https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu) | 3:19 |
 | 12 | [Solid Country Gold](https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Parker McCollum](https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA) | 3:28 |
 | 13 | [Meet You in the Middle](https://open.spotify.com/track/392YwrshH8yjvHKvNyChD5) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 3:30 |
 | 14 | [Like A Cowboy](https://open.spotify.com/track/13bXmY0acm51KkgEdhCm1n) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Like A Cowboy](https://open.spotify.com/album/6orV3KooroY8VkXv7YyZrU) | 3:46 |
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wjz4k.md) - [plain]
 | 35 | [Happy New Year](https://open.spotify.com/track/1fOzume25bwRCzghPIWm2i) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 3:59 |
 | 36 | [Blanco County Rain \- Special Edition Track](https://open.spotify.com/track/633WOcoZ6guzsSOtqE2EAc) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Gold Chain Cowboy \(Special Edition\)](https://open.spotify.com/album/3OUUrRZtEpwfScVgNVNKx0) | 3:38 |
 | 37 | [She'll Dance For Whiskey \- Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)](https://open.spotify.com/track/5zxhqSzYH5P0ECHP5UzgtL) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [She'll Dance For Whiskey \[Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume I\)\]](https://open.spotify.com/album/7gQRSCEwEUpimIawyBcBvG) | 4:47 |
-| 38 | [Learn to Fly](https://open.spotify.com/track/0B2kWR9V7Z4JZOtXgWG8Qr) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 3:30 |
+| 38 | [South of the City Lights](https://open.spotify.com/track/1zf5HO14cdCxaCNXlhwvbV) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 4:13 |
 | 39 | [Galveston Bay](https://open.spotify.com/track/7a2hpT1sCwzcRyLl5pCTUI) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 4:06 |
-| 40 | [Hallie Ray Light](https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:41 |
-| 41 | [Shallow](https://open.spotify.com/track/5faEa8OZmHnxRbBAYC2gWZ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:27 |
-| 42 | [South of the City Lights](https://open.spotify.com/track/1zf5HO14cdCxaCNXlhwvbV) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 4:13 |
+| 40 | [Shallow](https://open.spotify.com/track/5faEa8OZmHnxRbBAYC2gWZ) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:27 |
+| 41 | [Hallie Ray Light](https://open.spotify.com/track/3jSe4YNN2wloL5eI6j1yty) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hollywood Gold](https://open.spotify.com/album/5n7F9Q6XIZM4JCdWBVISV4) | 3:41 |
+| 42 | [Learn to Fly](https://open.spotify.com/track/0B2kWR9V7Z4JZOtXgWG8Qr) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Probably Wrong](https://open.spotify.com/album/3G3zeMAjvhy88MFOlgv6ci) | 3:30 |
 | 43 | [All Day](https://open.spotify.com/track/3RA49JwahNc3mWkvnpnHjX) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/2kAU2XG75F3QLzSQrlHo2P) | 3:46 |
 | 44 | [Paper Umbrellas](https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Paper Umbrellas](https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz) | 3:29 |
 | 45 | [Perfectly Lonely](https://open.spotify.com/track/0c3pzxjufIrG4oVwF99eqs) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Perfectly Lonely](https://open.spotify.com/album/6G4Z9dLR84a2xBEPBP4uMH) | 4:30 |
 | 46 | [Carrying Your Love With Me \- Spotify Singles](https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Carrying Your Love With Me \(Spotify Singles\)](https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8) | 4:03 |
 | 47 | [Speed](https://open.spotify.com/track/60BoWg2kyax4s2Pyjgaqsi) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Speed](https://open.spotify.com/album/2hdi5HXVz9vF7b7gUXJ3E4) | 4:30 |
 
-Snapshot ID: `aYp1AAAAAAB5QIbFHPJqHmxBGz9PdTwV`
+Snapshot ID: `aYvGgAAAAADU9yMNjtYiHE9eDEn9pWgm`

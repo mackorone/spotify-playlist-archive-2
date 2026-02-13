@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Es tu oportunidad! <a href=\"https://pegao.vercel.app/\">Dinos aqu\u00ed qu\u00e9 tema te gustar\u00eda ver en PEGAO.</a>\nFeat. W Sound, Myke Towers, Ovy On The Drums",
+  "description": "Gracias por las sugerencias, a\u00f1adidos los temas m\u00e1s pedidos.\nFeat. W Sound, Myke Towers, Ovy On The Drums",
   "name": "PEGAO",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 235613,
       "name": "1204",
       "url": "https://open.spotify.com/track/0n5av7q5DWBdWrF4cjZ5km"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 299325,
       "name": "444 - Remix",
       "url": "https://open.spotify.com/track/5AK6QqM8aUXXTk6oY00ZRh"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 158740,
       "name": "AV\u00cdSAME",
       "url": "https://open.spotify.com/track/5sJENjW2kNuzIFxDSuid44"
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 195731,
       "name": "BAJO LA LUNA",
       "url": "https://open.spotify.com/track/0ZvOVala8uRK6cVmp5p5qx"
@@ -3171,6 +3171,28 @@
     },
     {
       "album": {
+        "name": "Choque",
+        "url": "https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199456,
+      "name": "Choque",
+      "url": "https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt"
+    },
+    {
+      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -4072,7 +4094,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 174500,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/6wJYTLDpkF1HdVsN53Dl63"
@@ -6029,6 +6051,32 @@
     },
     {
       "album": {
+        "name": "EL PLUGGG 3 OVA 2",
+        "url": "https://open.spotify.com/album/0c6D3rRgLwIoV00tdf84wx"
+      },
+      "artists": [
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Xiyo",
+          "url": "https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ"
+        },
+        {
+          "name": "Fernandezz",
+          "url": "https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "EN EL BARRIO DE LAS FLORES",
+      "url": "https://open.spotify.com/track/2dq4b2x87XYMl8EY7fT12G"
+    },
+    {
+      "album": {
         "name": "En La De Ella",
         "url": "https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH"
       },
@@ -6284,6 +6332,24 @@
       "duration_ms": 182863,
       "name": "Envolver Remix",
       "url": "https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu"
+    },
+    {
+      "album": {
+        "name": "Enzaciao",
+        "url": "https://open.spotify.com/album/4CanKyDA2vwG2SftsOUvb1"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Enzaciao",
+      "url": "https://open.spotify.com/track/0h0mWHM5SkpS9rcmGyBoox"
     },
     {
       "album": {
@@ -6760,7 +6826,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 217965,
       "name": "FAYA",
       "url": "https://open.spotify.com/track/4w9Lbv2E3kuXF1zMz71xh7"
@@ -7370,6 +7436,28 @@
       "duration_ms": 176645,
       "name": "GANGTEL",
       "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
+    },
+    {
+      "album": {
+        "name": "Gary Payton",
+        "url": "https://open.spotify.com/album/32i3xxHsb07azCgU6h6TUN"
+      },
+      "artists": [
+        {
+          "name": "Vgomez",
+          "url": "https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156250,
+      "name": "Gary Payton",
+      "url": "https://open.spotify.com/track/0vbEkT0zYYw7HipMwwh8w3"
     },
     {
       "album": {
@@ -9070,7 +9158,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 234512,
       "name": "LA FAVORITA DE DIOS",
       "url": "https://open.spotify.com/track/4M3I01LZqJDFJxs4veb7jt"
@@ -9656,6 +9744,36 @@
       "duration_ms": 150000,
       "name": "LA REINA",
       "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
+    },
+    {
+      "album": {
+        "name": "LA SACAPUNTAS",
+        "url": "https://open.spotify.com/album/6l4aL8DKTlieY2SLuC4WC1"
+      },
+      "artists": [
+        {
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+        },
+        {
+          "name": "Zeno El Fara\u00f3n",
+          "url": "https://open.spotify.com/artist/1K15TdvUep1VIcFo0B6C1C"
+        },
+        {
+          "name": "l0rna",
+          "url": "https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS"
+        },
+        {
+          "name": "Kristina",
+          "url": "https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235812,
+      "name": "LA SACAPUNTAS",
+      "url": "https://open.spotify.com/track/7mjWqfMjappj2v1Iw3rXeR"
     },
     {
       "album": {
@@ -10492,7 +10610,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 172800,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/3YmFH8V7TUtLAYhnlswkdQ"
@@ -10888,6 +11006,24 @@
       "duration_ms": 226088,
       "name": "MAMIII",
       "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "album": {
+        "name": "Manhattan II",
+        "url": "https://open.spotify.com/album/2Se1qWIRcHDKlX8F1rfYS0"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135019,
+      "name": "Manhattan II",
+      "url": "https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY"
     },
     {
       "album": {
@@ -11945,6 +12081,32 @@
     },
     {
       "album": {
+        "name": "MURAKAMI",
+        "url": "https://open.spotify.com/album/5hmKsvbURF6ny5eSfEm8Zz"
+      },
+      "artists": [
+        {
+          "name": "OMAY",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        },
+        {
+          "name": "SokeThugPro",
+          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
+        },
+        {
+          "name": "Neverknwn",
+          "url": "https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156888,
+      "name": "MURAKAMI",
+      "url": "https://open.spotify.com/track/5JVUhvcanHXMOL6y3HsvNN"
+    },
+    {
+      "album": {
         "name": "TRAP CAKE VOL. 2",
         "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
       },
@@ -12066,6 +12228,28 @@
       "duration_ms": 242306,
       "name": "M\u00c1S QUE ALGO",
       "url": "https://open.spotify.com/track/3Ob9NJaBlOGDvndnG6G2PW"
+    },
+    {
+      "album": {
+        "name": "M\u00edrame Baby",
+        "url": "https://open.spotify.com/album/64Pzm1AlNSImt1DcCUuR3d"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239628,
+      "name": "M\u00edrame Baby",
+      "url": "https://open.spotify.com/track/0BTrUnm5ssK7MbC29xdIl1"
     },
     {
       "album": {
@@ -12270,6 +12454,24 @@
       "duration_ms": 245217,
       "name": "Nena Sad Remix",
       "url": "https://open.spotify.com/track/3MDaMg89kr21WgU0ZFFHX7"
+    },
+    {
+      "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
     },
     {
       "album": {
@@ -14456,7 +14658,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 202912,
       "name": "Problema (with Luar La L)",
       "url": "https://open.spotify.com/track/37H9cf57o6BcExHB06N2OU"
@@ -14744,6 +14946,24 @@
       "duration_ms": 123351,
       "name": "QUE CHIMBA DE VIDA",
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "album": {
+        "name": "Escrito en la M-30",
+        "url": "https://open.spotify.com/album/7q7uLuyeYwAXZkMtoTKwkV"
+      },
+      "artists": [
+        {
+          "name": "GRECAS",
+          "url": "https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126335,
+      "name": "Que culpa tiene el lunes de no ser un sabado",
+      "url": "https://open.spotify.com/track/5bDRGw4njjPCO5ZYvSgRXr"
     },
     {
       "album": {
@@ -17850,7 +18070,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 175681,
       "name": "TOCATE SOLA",
       "url": "https://open.spotify.com/track/1ouj0AkMXny8V1su2tuoci"

@@ -4,7 +4,7 @@
 
 > Hand\-picked releases from the new wave in soul\. Cover: EASY FREAK
 
-621 songs - 1 day 11 hr 55 min
+622 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 | 2024-10-25 | 2025-07-05 |
 | [Appetizers](https://open.spotify.com/track/3L5C901twUu9wlv3J0yhO8) | [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Appetizers](https://open.spotify.com/album/5J6A3C8tve2lfP0k7JqEYy) | 3:10 | 2025-01-17 | 2025-09-02 |
 | [April](https://open.spotify.com/track/5vRkKwUx1PPZZqv87vydn9) | [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Martha Eve](https://open.spotify.com/artist/2egCe1m3RU0NT2joC2mZus) | [April](https://open.spotify.com/album/1Ld8d5JMr8xXOh5TvEuYNv) | 3:08 | 2024-04-25 | 2025-02-28 |
+| [Architect](https://open.spotify.com/track/6Teu1T4BtzKENkseup5Fle) | [Felix Hien](https://open.spotify.com/artist/5pHGZpAY7Pm0EBDnBJtoZQ), [TOS](https://open.spotify.com/artist/3o7iDFUagDPxmiEL8FEqMX) | [Architect](https://open.spotify.com/album/75NONw8p9atqr5UJ5GC92D) | 2:20 | 2026-02-12 |  |
 | [Are U Still](https://open.spotify.com/track/6LOgCq1V3zLzNrqV2azE2q) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Are U Still](https://open.spotify.com/album/1DuUEqsNu7nHsTmc6cfoeR) | 3:50 | 2025-02-27 | 2025-10-09 |
 | [As You Are \- A COLORS SHOW](https://open.spotify.com/track/6tDTnxaq8fHXZ63uiseNRH) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [As You Are \- A COLORS SHOW](https://open.spotify.com/album/0J876nXHrxOSvr895nSLlc) | 3:41 | 2023-08-31 | 2024-07-02 |
 | [Ascension](https://open.spotify.com/track/6BnkcVCFZX3HCU9csLS6UR) | [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85), [Oliver Night](https://open.spotify.com/artist/6n2LDOKxdPlYU0Awxu53Z9) | [Birdhouse](https://open.spotify.com/album/1gCav3gJyQL0ShBQ2BLYMJ) | 3:49 | 2022-02-24 | 2023-03-03 |
@@ -496,7 +497,7 @@
 | [somewhere in the world](https://open.spotify.com/track/3HnnRFYdAqC6lRQZx07fxu) | [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [ijan](https://open.spotify.com/album/46w2hjL3YXuL9BYMRoo5p1) | 3:32 | 2026-02-06 |  |
 | [Somewhere You Can Fly](https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Archives Mixtape](https://open.spotify.com/album/0PZn9YuIkbAEj4iJQOt6ni) | 2:37 | 2025-06-06 |  |
 | [Sonder](https://open.spotify.com/track/4kU5O6r6BlGpcELBNj2SEA) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Poetry In Motion](https://open.spotify.com/album/4Z5bdwjILIWCBWpqTpdcRY) | 3:09 | 2021-12-16 | 2022-10-29 |
-| [Sorry Not Sorry \(feat\. Braxton Cook & Tallulah Rose\)](https://open.spotify.com/track/29x4dI3F48pWHQvPKNZLVk) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Tallulah Rose](https://open.spotify.com/artist/52K2wI1tA5kaRyQUKVhOaJ) | [Sorry Not Sorry \(feat\. Braxton Cook & Tallulah Rose\)](https://open.spotify.com/album/60DViyBah1sE2vXa53Ljrg) | 3:01 | 2025-11-11 |  |
+| [Sorry Not Sorry \(feat\. Braxton Cook & Tallulah Rose\)](https://open.spotify.com/track/29x4dI3F48pWHQvPKNZLVk) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Tallulah Rose](https://open.spotify.com/artist/52K2wI1tA5kaRyQUKVhOaJ) | [Sorry Not Sorry \(feat\. Braxton Cook & Tallulah Rose\)](https://open.spotify.com/album/60DViyBah1sE2vXa53Ljrg) | 3:12 | 2025-11-11 |  |
 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 | 2025-07-04 |  |
 | [Space](https://open.spotify.com/track/1pyICTBf3mMbtiuZxGyEWi) | [Kaiit](https://open.spotify.com/artist/1lEiFY8tYuckyd67eGiaF1) | [Space](https://open.spotify.com/album/5bOeYTfl6WokPMJj3454O4) | 3:27 | 2024-05-02 | 2025-02-28 |
 | [Space](https://open.spotify.com/track/5SLvWGcGM2aQ1FHAkQRsGD) | [Morgan Munroe](https://open.spotify.com/artist/41K03x2QpJG4rJJ84LceST) | [Space](https://open.spotify.com/album/3KpYADcTT3HW1S0yjNIkEG) | 2:26 | 2022-06-16 | 2022-10-15 |

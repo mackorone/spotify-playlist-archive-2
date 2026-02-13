@@ -1,12 +1,12 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 30538,
+  "num_followers": 30541,
   "original_name": "LA LLISTA DE FLAIXBAC (08/02/2026)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "AABATaHk+LfO8s8m2HVUuYX2s6Y8iwjV",
+  "snapshot_id": "AABATsisAI7M6t5iGPv8nOANoudnLfx+",
   "tracks": [
     {
       "added_at": "2026-01-21 12:58:07",
@@ -795,6 +795,22 @@
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2026-02-12 09:03:07",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 257480,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
     }
   ],
   "unique_name": "LA LLISTA DE FLAIXBAC (08/02/2026)",

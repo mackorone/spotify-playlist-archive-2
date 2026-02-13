@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcJUwMZo8Ss1.md) - [plain]
 
 > The hottest tracks in the UAE\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,356 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,371 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcJUwMZo8Ss1.md) - [plain]
 | 49 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 |
 | 50 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
 
-Snapshot ID: `AAAAAEwfOBrPyqrFZT18Q8PpEioJo6xm`
+Snapshot ID: `AAAAAGHc1MRL/tfPDtf0Bd2r0rzcrNQG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,235 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,374 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 43 | [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Coal Miner's Daughter](https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr) | 3:00 |
 | 44 | [If Drinkin' Don't Kill Me \(Her Memory Will\)](https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [I Am What I Am \(Expanded Edition\)](https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF) | 3:09 |
 | 45 | [Lord, I Hope This Day Is Good \- Single Version](https://open.spotify.com/track/7ySh3j4kcq2mtxfjshPJSG) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [Lord I Hope This Day Is Good](https://open.spotify.com/album/602qOPthGmBSYnvrSrLgKk) | 4:09 |
-| 46 | [Guitars, Cadillacs](https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO) | 3:05 |
+| 46 | [Baby's Gotten Good At Goodbye](https://open.spotify.com/track/1zDdz9Ob7uSia00uUfm8O3) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Beyond The Blue Neon](https://open.spotify.com/album/3wD2jmspAMaerzfETvT3ZU) | 3:30 |
 | 47 | [Rockin' With The Rhythm Of The Rain](https://open.spotify.com/track/0uEuAQ0c5yittMpxJ3l5iR) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Rockin' With The Rhythm](https://open.spotify.com/album/5sUOntUxlMmGEND5wboCTq) | 2:40 |
-| 48 | [Baby's Gotten Good At Goodbye](https://open.spotify.com/track/1zDdz9Ob7uSia00uUfm8O3) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Beyond The Blue Neon](https://open.spotify.com/album/3wD2jmspAMaerzfETvT3ZU) | 3:30 |
+| 48 | [Guitars, Cadillacs](https://open.spotify.com/track/3HtCJiLV8GH87AViMtUKhO) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Guitars, Cadillacs, Etc., Etc.](https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO) | 3:05 |
 | 49 | [Old Flames Can't Hold a Candle to You](https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Dolly Dolly Dolly](https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186) | 3:23 |
 | 50 | [Whoever's In New England](https://open.spotify.com/track/6uDbVmj2b9QIrWddvadvoM) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Whoever's In New England](https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr) | 3:23 |
 | 51 | [Pancho and Lefty](https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Merle Haggard: The Epic Years](https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb) | 4:47 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 108 | [I Told You So](https://open.spotify.com/track/4HNj7TkT9VnfVjtV2HRlpl) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:39 |
 | 109 | [80's Ladies](https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [80s Ladies](https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT) | 4:11 |
 | 110 | [Do You Wanna Go to Heaven](https://open.spotify.com/track/27QrAETf4eB2J533ktttTw) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Super Hits](https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu) | 3:10 |
-| 111 | [The Bluest Eyes In Texas](https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Big Dreams In A Small Town](https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz) | 4:47 |
-| 112 | [Sunday In the South](https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 4:01 |
+| 111 | [Sunday In the South](https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 4:01 |
+| 112 | [The Bluest Eyes In Texas](https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Big Dreams In A Small Town](https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz) | 4:47 |
 | 113 | [The Conversation \(with Hank Williams Jr.\)](https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 3:50 |
 | 114 | [Old Hippie](https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 4:05 |
 | 115 | [Only One You](https://open.spotify.com/track/36V6Cb9DjnxlVNqqgD5piw) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Super Hits](https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu) | 3:22 |

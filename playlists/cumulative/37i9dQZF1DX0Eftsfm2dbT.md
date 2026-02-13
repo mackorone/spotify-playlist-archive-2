@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Kohjiya \*毎週更新
 
-2,259 songs - 4 day 17 hr 54 min
+2,260 songs - 4 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1960,6 +1960,7 @@
 | [Weight!](https://open.spotify.com/track/3YRNF86VFQUiWAnDAEIymP) | [FARMHOUSE](https://open.spotify.com/artist/30zptKpJ1amp2A00OOx3DM) | [Weight!](https://open.spotify.com/album/0meVPEyLl1L7cijmY0txSL) | 1:44 | 2026-01-15 | 2026-01-28 |
 | [Welcome 2 Wakayama](https://open.spotify.com/track/3GSwU5rhAcgbo3v2aSX5id) | [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [Welcome 2 Wakayama](https://open.spotify.com/album/18XwjrIqp95TsYbRNnjcDd) | 2:50 | 2024-05-07 | 2024-05-09 |
 | [Welcome To TOKYO SEKAI](https://open.spotify.com/track/77CNoHj00Fgrd7vP5Zl79r) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [Welcome To TOKYO SEKAI](https://open.spotify.com/album/65DWTvguJFh62qVbheYYEl) | 3:12 | 2025-02-06 | 2025-02-26 |
+| [WEONGO \(feat\. Yatt, Gypsy Well & JNKMN\)](https://open.spotify.com/track/0arbUBDJT2Hr54WKdgujyh) | [illrain](https://open.spotify.com/artist/5hKqsv6CY9THdbxdhwTdIS), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken), [Gypsy Well](https://open.spotify.com/artist/1VsvKeGxliar6b9Ps7MqGO), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L) | [WEONGO \(feat\. Yatt, Gypsy Well & JNKMN\)](https://open.spotify.com/album/0YIPfuRiHjilMS4WIVfyHG) | 4:18 | 2026-02-10 |  |
 | [Werewolf](https://open.spotify.com/track/2iY4MmfEyJOG6HqM96GWR6) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [Werewolf](https://open.spotify.com/album/5pCvYlMmhOSjCrQ0KYEPDL) | 3:23 | 2024-03-26 | 2024-03-28 |
 | [Werewolf](https://open.spotify.com/track/4vioTNB97lD9LzoALX5RTI) | [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [Werewolf](https://open.spotify.com/album/5XnnNCdUccsfujYYCKG3bE) | 3:23 | 2024-03-27 | 2024-04-03 |
 | [Wet Wallet \(feat\. STACK THE PINK\)](https://open.spotify.com/track/6N5csJ9YZYnpEors4jgCDQ) | [JETG](https://open.spotify.com/artist/6FaSoiqFCltldCA2mhk5cr), [STACK THE PINK](https://open.spotify.com/artist/3NoSLTyqIc9Zonh4V7JtXt) | [Another Me](https://open.spotify.com/album/6PzBL1GgUMOoWjfoshi3Ow) | 1:54 | 2025-05-08 | 2025-06-04 |

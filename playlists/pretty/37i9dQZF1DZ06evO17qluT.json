@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 100165,
+  "num_followers": 100220,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAB18ebxu9yOELKmVjzydMlW",
+  "snapshot_id": "aYvGgAAAAABFGADZAJdP0K620cDaQuc2",
   "tracks": [
     {
       "added_at": null,
@@ -559,26 +559,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Sol Tamb\u00e9m Chora",
-        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
+        "name": "Pir\u00e2mide Perdida, Vol. 7",
+        "url": "https://open.spotify.com/album/1qLUIhTnDRJCY5ZzSacLuj"
       },
       "artists": [
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        },
+        {
+          "name": "Bril",
+          "url": "https://open.spotify.com/artist/6wOMdAwX6mgYpadxSKU65a"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Pir\u00e2mide Perdida",
+          "url": "https://open.spotify.com/artist/4lJ000HqAKrfAehIP2XENM"
         }
       ],
-      "duration_ms": 145749,
-      "name": "Rei da Noite",
-      "url": "https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08"
+      "duration_ms": 201190,
+      "name": "Dispiei",
+      "url": "https://open.spotify.com/track/6NAj1vwio7YjCVtUaQTOQN"
     },
     {
       "added_at": null,
@@ -631,34 +639,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pir\u00e2mide Perdida, Vol. 7",
-        "url": "https://open.spotify.com/album/1qLUIhTnDRJCY5ZzSacLuj"
+        "name": "O Sol Tamb\u00e9m Chora",
+        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
       },
       "artists": [
         {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        },
-        {
-          "name": "Bril",
-          "url": "https://open.spotify.com/artist/6wOMdAwX6mgYpadxSKU65a"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Pir\u00e2mide Perdida",
-          "url": "https://open.spotify.com/artist/4lJ000HqAKrfAehIP2XENM"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 201190,
-      "name": "Dispiei",
-      "url": "https://open.spotify.com/track/6NAj1vwio7YjCVtUaQTOQN"
+      "duration_ms": 145749,
+      "name": "Rei da Noite",
+      "url": "https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08"
     },
     {
       "added_at": null,
@@ -1088,13 +1088,21 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
+        },
+        {
           "name": "JXNV$",
           "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Ashira",
+          "url": "https://open.spotify.com/artist/2ELyrHIXLmzYiuO2I99kct"
         }
       ],
-      "duration_ms": 186806,
-      "name": "O Pr\u00f3ximo Nascer do Sol",
-      "url": "https://open.spotify.com/track/60B493B55sBjjJ5JFhAUkm"
+      "duration_ms": 309618,
+      "name": "Quadros",
+      "url": "https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb"
     },
     {
       "added_at": null,
@@ -1132,21 +1140,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa"
-        },
-        {
           "name": "JXNV$",
           "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Ashira",
-          "url": "https://open.spotify.com/artist/2ELyrHIXLmzYiuO2I99kct"
         }
       ],
-      "duration_ms": 309618,
-      "name": "Quadros",
-      "url": "https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb"
+      "duration_ms": 186806,
+      "name": "O Pr\u00f3ximo Nascer do Sol",
+      "url": "https://open.spotify.com/track/60B493B55sBjjJ5JFhAUkm"
     },
     {
       "added_at": null,

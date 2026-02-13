@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,267 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,510 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 28 | [Laberinto \- Bosq Remix](https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Laberinto \(Bosq Remix\)](https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k) | 3:44 |
 | 29 | [Rúmbala \- Jiony Remix](https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa) | [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Rúmbala \(Jiony Remix\)](https://open.spotify.com/album/5iQO617zEZbSQyNbLPAjrN) | 3:51 |
 | 30 | [Move on Up \- Live](https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Live at KEXP!](https://open.spotify.com/album/0xDJ4TpSMjLVXtl9VrpF69) | 5:00 |
-| 31 | [Sol Clap](https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr) | 3:50 |
-| 32 | [Carrossel Do Tempo](https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Carrossel Do Tempo](https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy) | 4:57 |
-| 33 | [São Paulo Motoboy](https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [São Paulo Motoboy](https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP) | 2:28 |
+| 31 | [Carrossel Do Tempo](https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Abrão](https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq) | [Carrossel Do Tempo](https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy) | 4:57 |
+| 32 | [São Paulo Motoboy](https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [São Paulo Motoboy](https://open.spotify.com/album/120c6Vr3TyGwYhL2rX9BfP) | 2:28 |
+| 33 | [Sol Clap](https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr) | 3:50 |
 | 34 | [quizás en otra vida](https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intentos](https://open.spotify.com/album/1WCOuQJEvzFmDg4bZvqkgu) | 2:02 |
-| 35 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
+| 35 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5yM3s9MpJeYUsd8K6AMziX), [Eva de Marce](https://open.spotify.com/artist/2JC4eKLbcMAwdDJdZYyV5Q) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
 | 36 | [Mango Season](https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Mango Season](https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES) | 2:27 |
 | 37 | [Ta Que Tiembla \- Pachyman Remix](https://open.spotify.com/track/0m1pyzxZBiDy4wWTdNY5mU) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Ta Que Tiembla \(Pachyman Remix\)](https://open.spotify.com/album/47R62dwZJFZzeiYH9IPBW6) | 3:21 |
 | 38 | [Temazcal](https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Apolinar](https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U) | 4:11 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 61 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
 | 62 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Simón Mejía](https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
 | 63 | [Chichera](https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Dubamerica](https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX) | 5:36 |
-| 64 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
-| 65 | [Conexión Ancestral](https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:00 |
+| 64 | [Conexión Ancestral](https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Malegría](https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4) | 3:00 |
+| 65 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
 | 66 | [Vámonos \- Vazlá Remix](https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Vazlá](https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV) | [Dj friendly](https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o) | 3:54 |
 | 67 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
 | 68 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
-| 69 | [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 |
-| 70 | [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 |
+| 69 | [Ya Va Pasar](https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Ya Va Pasar](https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI) | 3:23 |
+| 70 | [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 |
 
 Snapshot ID: `AAAAAL8jNle1/DT32wTIXfzu7fzMQPaA`

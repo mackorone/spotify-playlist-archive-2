@@ -1,6 +1,6 @@
 {
   "description": "For whatever activity you do that may need a punch of intensity!",
-  "num_followers": 4118160,
+  "num_followers": 4118057,
   "original_name": "Power Workout",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,26 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 270586,
-      "name": "Still D.R.E.",
-      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -231,26 +231,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "TESTING",
-        "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Praise The Lord (Da Shine) (feat. Skepta)",
-      "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
+        "name": "TESTING",
+        "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Praise The Lord (Da Shine) (feat. Skepta)",
+      "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 270697,
-      "name": "redrum",
-      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 326466,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -443,22 +459,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "Curtain Call: The Hits (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5qENHeCSlwWpEzb25peRmQ"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 326466,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "Too Hard",
         "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 210746,
-      "name": "Nice For What",
-      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "The Forever Story (Extended Version)",
         "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "Nice For What",
+      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -591,26 +591,6 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
-        "name": "Laugh Now Cry Later (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 261492,
-      "name": "Laugh Now Cry Later (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 193346,
       "name": "P power (feat. Drake)",
       "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
     },
     {
       "added_at": "2025-09-05 11:40:44",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-09-05 11:40:44",
       "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 180522,
+      "name": "Going Bad (feat. Drake)",
+      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "added_at": "2025-09-05 11:40:44",
+      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 378893,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK"
-    },
-    {
-      "added_at": "2025-09-05 11:40:44",
-      "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 180522,
-      "name": "Going Bad (feat. Drake)",
-      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
     },
     {
       "added_at": "2025-09-05 11:40:44",

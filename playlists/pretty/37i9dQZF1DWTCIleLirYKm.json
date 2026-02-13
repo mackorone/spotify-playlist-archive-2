@@ -1,6 +1,6 @@
 {
   "description": "a state of mind.",
-  "num_followers": 207025,
+  "num_followers": 207121,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
-      },
-      "artists": [
-        {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
-        }
-      ],
-      "duration_ms": 374440,
-      "name": "Ghosts Of Mississippi",
-      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
         "name": "Shine On Rainy Day",
         "url": "https://open.spotify.com/album/3UJXcmx1XSLeimF0dwVsbg"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 270413,
       "name": "Black Crow",
       "url": "https://open.spotify.com/track/4UmYFqPfd11pZiUMJHCFvG"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/7m37BYCQsU73ZHxF1EPg1Z"
+      },
+      "artists": [
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "duration_ms": 374440,
+      "name": "Ghosts Of Mississippi",
+      "url": "https://open.spotify.com/track/0H7ROR8cZTsh6YUgnlqjM2"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -775,18 +775,18 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+        "name": "Morning Bail",
+        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
       },
       "artists": [
         {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+          "name": "Gavin Adcock",
+          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
         }
       ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
+      "duration_ms": 174758,
+      "name": "Morning Bail",
+      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -827,18 +827,18 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
-        "name": "Morning Bail",
-        "url": "https://open.spotify.com/album/1YlVSUkQkPwIhAzXG8o2TJ"
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
       },
       "artists": [
         {
-          "name": "Gavin Adcock",
-          "url": "https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y"
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
         }
       ],
-      "duration_ms": 174758,
-      "name": "Morning Bail",
-      "url": "https://open.spotify.com/track/6022l4GXAIdnm19XAY29Oq"
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
     },
     {
       "added_at": "2026-02-04 05:00:17",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-02-04 05:00:17",
       "album": {
+        "name": "A Country Star Is Born",
+        "url": "https://open.spotify.com/album/1u2ETFYboqz0DjqFZrZyae"
+      },
+      "artists": [
+        {
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+        }
+      ],
+      "duration_ms": 188998,
+      "name": "Why You Been Gone so Long",
+      "url": "https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL"
+    },
+    {
+      "added_at": "2026-02-04 05:00:17",
+      "album": {
         "name": "Ashley McBryde Presents: Lindeville",
         "url": "https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 220796,
       "name": "Bonfire At Tina's",
       "url": "https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "A Country Star Is Born",
-        "url": "https://open.spotify.com/album/1u2ETFYboqz0DjqFZrZyae"
-      },
-      "artists": [
-        {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
-        }
-      ],
-      "duration_ms": 188998,
-      "name": "Why You Been Gone so Long",
-      "url": "https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL"
     },
     {
       "added_at": "2026-02-04 05:00:17",

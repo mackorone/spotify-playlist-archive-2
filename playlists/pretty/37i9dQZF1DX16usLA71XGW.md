@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Atemi Oyungu
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,852 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,861 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 23 | [Zamani](https://open.spotify.com/track/60bfNCQoQ668j2CbTfzqZA) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zamani](https://open.spotify.com/album/38KjNLFKtwaHr8Vxzmviwn) | 3:38 |
 | 24 | [NEMANYI](https://open.spotify.com/track/078II2LP3ll9bCGHAeHMJc) | [Lydia Jazmine](https://open.spotify.com/artist/3iIWxRdX4e7W4ZD2urn7WM) | [NEMANYI](https://open.spotify.com/album/6MLCSfgN9nR1KdegiFY1HN) | 3:21 |
 | 25 | [Pole](https://open.spotify.com/track/5QcJEd09y1NUi2QxNw7MIz) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [After All](https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf) | 3:16 |
-| 26 | [Kiss Me](https://open.spotify.com/track/0LeiaF8Dudetg0XUznifzA) | [Maua Sama](https://open.spotify.com/artist/2jM3NRd23SZt26mIjTEKrE) | [Kiss Me](https://open.spotify.com/album/2iOaaDNIrrCzMvjQcGs0LE) | 3:33 |
+| 26 | [Kiss Me](https://open.spotify.com/track/0LeiaF8Dudetg0XUznifzA) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Kiss Me](https://open.spotify.com/album/2iOaaDNIrrCzMvjQcGs0LE) | 3:33 |
 | 27 | [Prove](https://open.spotify.com/track/7BGanhtym8l2UmUnCYCxyr) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 1:25 |
 | 28 | [Sirubala](https://open.spotify.com/track/56mjsDsH8FDJQmivRFJk01) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Sirubala](https://open.spotify.com/album/11M99Bc7YivvY8mnB899VP) | 3:18 |
 | 29 | [Wickedest Gurl](https://open.spotify.com/track/3e4p80roLJwYAvv2ppmKTp) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Wickedest Gurl](https://open.spotify.com/album/6S8KNgSLgHPQEMk4KI2iye) | 2:52 |

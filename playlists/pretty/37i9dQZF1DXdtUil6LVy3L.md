@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,638 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,629 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,10 +21,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 11 | [Please come home for christmas](https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Please come home for christmas](https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM) | 2:33 |
 | 12 | [Lost in the Stars](https://open.spotify.com/track/5Q9vFxDdswixkE6GtM4Se4) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [Lost in the Stars](https://open.spotify.com/album/4RrIEi9MX1i5IOq9g6leA7) | 3:25 |
 | 13 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 |
-| 14 | [The greatest gift we've got](https://open.spotify.com/track/7kKeIMx30LYBbdXx3a2WFQ) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [The greatest gift we've got](https://open.spotify.com/album/28xA0XgYaLhtGl9z3XMQjr) | 3:37 |
-| 15 | [Here Comes Santa Claus](https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Here Comes Santa Claus](https://open.spotify.com/album/6ENVnAPjnAitIUGlyS72Jj) | 2:20 |
-| 16 | [Christmas Is Coming](https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Christmas Is Coming](https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU) | 3:04 |
-| 17 | [Where The Snow Still Falls](https://open.spotify.com/track/4zqKyUuJZeNkYL6hshi8dr) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Where The Snow Still Falls](https://open.spotify.com/album/7wf4Oag4ekw439k4kSM5Jn) | 3:45 |
+| 14 | [Here Comes Santa Claus](https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Here Comes Santa Claus](https://open.spotify.com/album/6ENVnAPjnAitIUGlyS72Jj) | 2:20 |
+| 15 | [The greatest gift we've got](https://open.spotify.com/track/7kKeIMx30LYBbdXx3a2WFQ) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [The greatest gift we've got](https://open.spotify.com/album/28xA0XgYaLhtGl9z3XMQjr) | 3:37 |
+| 16 | [Where The Snow Still Falls](https://open.spotify.com/track/4zqKyUuJZeNkYL6hshi8dr) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Where The Snow Still Falls](https://open.spotify.com/album/7wf4Oag4ekw439k4kSM5Jn) | 3:45 |
+| 17 | [Christmas Is Coming](https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Christmas Is Coming](https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU) | 3:04 |
 | 18 | [Happy Christmas, Little Friend](https://open.spotify.com/track/4k9rdBjThAkWE6dkGRT3a2) | [Smoke & Mirrors Trio](https://open.spotify.com/artist/2l8hGNs8QG9fAf8baaZPhV) | [Happy Christmas, Little Friend](https://open.spotify.com/album/66xxXSW7xjV4bLQwj3FXtF) | 2:31 |
 | 19 | [White Christmas](https://open.spotify.com/track/57IolfqCz7kXFdE5bGXXQB) | [Sam Creese](https://open.spotify.com/artist/4clo4DnnChvymuKlxBeg7q) | [White Christmas](https://open.spotify.com/album/4VQwViovYI2PTh3keI92lz) | 3:02 |
 | 20 | [The Most Wonderful Day of The Year](https://open.spotify.com/track/6rnbHty5DmSiKwpLqOaZqK) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Silver Bells](https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq) | 2:45 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 24 | [Santa tell me](https://open.spotify.com/track/1g5N61jKCHgVpSYYBz9FDV) | [Kuipers & Winter](https://open.spotify.com/artist/1afLjwMvnNhyy6JpewWpeK) | [Santa tell me](https://open.spotify.com/album/7Jtr3x70ZlCJ5Igqw1Zwhu) | 2:18 |
 | 25 | [Hard Candy Christmas](https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC) | 2:55 |
 | 26 | [A Night To Remember](https://open.spotify.com/track/2rNZgCXOKKQQh70tYCtPkS) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [A Night To Remember](https://open.spotify.com/album/09K85uBFteuPunRZw3z0HQ) | 3:20 |
-| 27 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 |
-| 28 | [A Christmas Feeling](https://open.spotify.com/track/02pcI6xxVuefKcYNA7prZh) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [A Christmas Feeling](https://open.spotify.com/album/65h1sbXFjZCaVuTQMfkZeF) | 3:13 |
+| 27 | [A Christmas Feeling](https://open.spotify.com/track/02pcI6xxVuefKcYNA7prZh) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [A Christmas Feeling](https://open.spotify.com/album/65h1sbXFjZCaVuTQMfkZeF) | 3:13 |
+| 28 | [A Child Is Born](https://open.spotify.com/track/6jhdzfTDrFAHeK54v3T3JW) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:34 |
 | 29 | [Once in Royal David's City](https://open.spotify.com/track/68ugUmH1wjIN0vCR98sC7G) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Once in Royal David's City](https://open.spotify.com/album/5dDT9Nh3MCITsacmvIv6lp) | 2:45 |
 | 30 | [The Christmas Waltz](https://open.spotify.com/track/30gbCa8Zx6dioHEj9LwIaw) | [Milad Greenland](https://open.spotify.com/artist/72SSLPJ7pQvCRIGGscVrnr) | [The Christmas Waltz](https://open.spotify.com/album/0YWxRVcTBfo7xBzgs2dwDX) | 1:40 |
 | 31 | [Good King Wenceslas](https://open.spotify.com/track/2ZSUAGIAUGFRBifcs0SuNt) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Good King Wenceslas](https://open.spotify.com/album/3hgjaTTBTZVIHuXLbUN5my) | 2:24 |

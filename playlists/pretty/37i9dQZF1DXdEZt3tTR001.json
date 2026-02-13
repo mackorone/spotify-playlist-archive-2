@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 218339,
+  "num_followers": 218371,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-02-06 05:00:26",
       "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340014,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2026-02-06 05:00:26",
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2026-02-06 05:00:26",
       "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340014,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
-    },
-    {
-      "added_at": "2026-02-06 05:00:26",
-      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 393733,
       "name": "Other Side Of The Game",
       "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
-    },
-    {
-      "added_at": "2026-02-06 05:00:26",
-      "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/7IpDQcksaT8SxS7vOX4SRm"
     },
     {
       "added_at": "2026-02-06 05:00:26",
@@ -951,6 +935,22 @@
     {
       "added_at": "2026-02-06 05:00:26",
       "album": {
+        "name": "Trilogy",
+        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7IpDQcksaT8SxS7vOX4SRm"
+    },
+    {
+      "added_at": "2026-02-06 05:00:26",
+      "album": {
         "name": "(un)Folded",
         "url": "https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw"
       },
@@ -963,6 +963,22 @@
       "duration_ms": 286040,
       "name": "(un)Folded",
       "url": "https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr"
+    },
+    {
+      "added_at": "2026-02-06 05:00:26",
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 211669,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
     },
     {
       "added_at": "2026-02-06 05:00:26",
@@ -983,22 +999,6 @@
       "duration_ms": 341066,
       "name": "Traffic Lights (feat. Thom Yorke)",
       "url": "https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K"
-    },
-    {
-      "added_at": "2026-02-06 05:00:26",
-      "album": {
-        "name": "Greyhound",
-        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
-      },
-      "artists": [
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 211669,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
     },
     {
       "added_at": "2026-02-06 05:00:26",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-02-06 05:00:26",
       "album": {
-        "name": "NOTHING IS REAL",
-        "url": "https://open.spotify.com/album/30V0p5iiu7YQXoz47Tek3v"
-      },
-      "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        }
-      ],
-      "duration_ms": 186285,
-      "name": "NOTHING IS REAL",
-      "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
-    },
-    {
-      "added_at": "2026-02-06 05:00:26",
-      "album": {
         "name": "Comin\u2019 Around Again",
         "url": "https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 239093,
       "name": "By Your Side (Neptunes Remix) - Remastered",
       "url": "https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt"
+    },
+    {
+      "added_at": "2026-02-06 05:00:26",
+      "album": {
+        "name": "NOTHING IS REAL",
+        "url": "https://open.spotify.com/album/30V0p5iiu7YQXoz47Tek3v"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        }
+      ],
+      "duration_ms": 186285,
+      "name": "NOTHING IS REAL",
+      "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
     },
     {
       "added_at": "2026-02-06 05:00:26",
@@ -1359,22 +1359,18 @@
     {
       "added_at": "2026-02-06 05:00:26",
       "album": {
-        "name": "wHIMSY",
-        "url": "https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E"
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
         }
       ],
-      "duration_ms": 193714,
-      "name": "wASH U AWAY",
-      "url": "https://open.spotify.com/track/6rrv9Ye4cQSGAjSSZOYp1x"
+      "duration_ms": 208890,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
     }
   ],
   "unique_name": "floating",

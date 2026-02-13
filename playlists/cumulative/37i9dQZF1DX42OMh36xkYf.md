@@ -4,7 +4,7 @@
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con nsqk en portada.
 
-233 songs - 12 hr 48 min
+235 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [la terminal](https://open.spotify.com/track/4HdsSVEogcoSeVkyH9HqTl) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Quizá no es para tanto](https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB) | 3:35 | 2025-08-01 | 2026-01-31 |
 | [la terminal](https://open.spotify.com/track/1UnU60jPROOjM5WVS9CE7m) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [la terminal](https://open.spotify.com/album/774LNZX5sX4BvtRMuO3lQE) | 3:36 | 2024-04-12 | 2025-08-02 |
 | [La Tormenta](https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Servando](https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS) | [La Tormenta](https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w) | 2:26 | 2023-09-22 | 2023-11-25 |
+| [La Ventana \- Spotify Sessions](https://open.spotify.com/track/6VE5mKczPtG4QWerZ2Jk6u) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 3:10 | 2026-02-12 |  |
 | [La Vida Sin Ti Apesta](https://open.spotify.com/track/3MOT7l7lFwecHZdtvPnoAY) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [La Vida Sin Ti Apesta](https://open.spotify.com/album/7Kdd2OVrDy83cDzCLPMjLL) | 3:08 | 2024-03-01 | 2025-04-05 |
 | [Ladrona](https://open.spotify.com/track/2exqtw1dxXaOhhlvG2PTMc) | [Manuel Lizarazo](https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC) | [Ladrona](https://open.spotify.com/album/4xciG2FHH3NM9UE1lCiFMY) | 2:07 | 2025-05-23 |  |
 | [las consecuencias](https://open.spotify.com/track/1pqQwSJVzaGYLbHo845nzZ) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Quizá no es para tanto](https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB) | 3:11 | 2025-08-01 |  |
@@ -204,7 +205,8 @@
 | [relevante](https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [relevante](https://open.spotify.com/album/0crdvXNF6hemAWuVLAIdeQ) | 3:55 | 2024-02-09 | 2024-06-15 |
 | [Resurrección](https://open.spotify.com/track/5HqnE9PwuOuqg73YhX2bpZ) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [ORILLAS](https://open.spotify.com/album/3QK5vLsPeBj9oItoA5YkAo) | 4:50 | 2023-09-22 | 2023-10-21 |
 | [Sal](https://open.spotify.com/track/2Wui8fU5Vp8aDZ8p7mcyli) | [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Sal](https://open.spotify.com/album/3MtbOxFsx48CrminzLGCWZ) | 4:01 | 2023-09-22 | 2023-10-14 |
-| [Satisfacción](https://open.spotify.com/track/2hgeApxfwZKCUCyE3KLcvf) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Satisfacción](https://open.spotify.com/album/7KZsrdUCk4ie37CKRd9vYg) | 2:45 | 2025-12-12 |  |
+| [Satisfacción](https://open.spotify.com/track/2hgeApxfwZKCUCyE3KLcvf) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Satisfacción](https://open.spotify.com/album/7KZsrdUCk4ie37CKRd9vYg) | 2:45 | 2025-12-12 | 2026-02-13 |
+| [Se Vienen Cositas](https://open.spotify.com/track/7ulDhf05iMrq4IFWNbTrbI) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Dónde Es El After?](https://open.spotify.com/album/4kF3HIX0K4uSLacWe25qBG) | 2:39 | 2026-02-12 |  |
 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 | 2024-05-10 |  |
 | [si tú no estás aquí](https://open.spotify.com/track/6ODPOeIy6b99BZlpmqWn9I) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [si tú no estás aquí](https://open.spotify.com/album/07Lar6NcLhksUUtjjzDZZT) | 3:38 | 2024-07-05 | 2024-08-03 |
 | [Sin Riesgo](https://open.spotify.com/track/2DdGAU31oTaGJkuLGHK9gp) | [laurél](https://open.spotify.com/artist/4hCJr1sLjhayxsPwwrtChF) | [Sin Riesgo](https://open.spotify.com/album/4bgmeuetXEk3czfOgkggcf) | 2:51 | 2024-03-01 | 2024-08-31 |
@@ -227,7 +229,7 @@
 | [Trago Coqueto](https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:02 | 2023-09-29 | 2024-02-03 |
 | [Trasplante de Corazón](https://open.spotify.com/track/3VqKXI13KCXegeHhcSX0DS) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Trasplante de Corazón](https://open.spotify.com/album/0Se6CCfIxUEK55p3v4vTC7) | 3:25 | 2023-09-22 | 2023-10-14 |
 | [Tu Canción](https://open.spotify.com/track/5MEOi4Xbxxtjrcf4WD8ztH) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Tu Canción](https://open.spotify.com/album/73Hd2erTeZ6BeshYv6Rjs2) | 3:11 | 2023-10-20 | 2024-01-13 |
-| [Tu Juguete](https://open.spotify.com/track/41XOMCgj5jFZox8bUGdWT9) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Tu Juguete](https://open.spotify.com/album/3gJxayEXCX2WpKpuoqIAK7) | 3:22 | 2025-11-21 |  |
+| [Tu Juguete](https://open.spotify.com/track/41XOMCgj5jFZox8bUGdWT9) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Tu Juguete](https://open.spotify.com/album/3gJxayEXCX2WpKpuoqIAK7) | 3:22 | 2025-11-21 | 2026-02-13 |
 | [Turromantik](https://open.spotify.com/track/2GTjkdvq8IdPehULadTahj) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Turromantik](https://open.spotify.com/album/2djujDQjWfzlTsACLJJaWc) | 3:39 | 2025-12-12 |  |
 | [Un X100To](https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Un X100To](https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU) | 2:47 | 2023-09-22 | 2023-10-14 |
 | [Vargas](https://open.spotify.com/track/12UopKNxZcsMedcVBehwHp) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Vargas](https://open.spotify.com/album/5lWCGxsJ2q6H93HAeA1EqE) | 2:25 | 2024-08-30 | 2024-11-16 |

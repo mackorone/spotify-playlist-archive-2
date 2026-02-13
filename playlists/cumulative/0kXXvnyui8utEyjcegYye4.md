@@ -4,7 +4,7 @@
 
 > 
 
-366 songs - 21 hr 29 min
+367 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [5% TINT](https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:16 | 2023-07-13 |  |
 | [679 \(feat\. Monty\)](https://open.spotify.com/track/0w3Q3VFdrYzo24QUIGnBNy) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Monty](https://open.spotify.com/artist/1Wnfj5qZsp8nPsGBBRRa4W) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:06 | 2023-07-13 | 2025-06-18 |
 | [ADRENALINA](https://open.spotify.com/track/0VYwkWxC5VpIN2yBwp3Ehk) | [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt), [xlout](https://open.spotify.com/artist/75PX8lcu5vm4c9HOCqB6KX) | [ADRENALINA](https://open.spotify.com/album/4Fztm0SXyoQpQhoHivKYq6) | 1:38 | 2025-10-31 |  |
+| [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 | 2026-02-12 |  |
 | [After Hours](https://open.spotify.com/track/32HKm4gUeUqQ8SQ28uGYUo) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours \(Deluxe\)](https://open.spotify.com/album/742eAldb4AJKLoPgJhGRE7) | 6:01 | 2025-07-17 |  |
 | [After Party](https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:47 | 2023-07-13 |  |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 | 2023-11-17 |  |

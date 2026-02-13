@@ -1,6 +1,6 @@
 {
   "description": "2026 es el nuevo 2016 \ud83d\udcf8 Justin Bieber",
-  "num_followers": 92987,
+  "num_followers": 93203,
   "original_name": "2016 vibes \u2728",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
+        "name": "Mind Of Mine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 202749,
+      "name": "PILLOWTALK",
+      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 226738,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
-        "name": "Mind Of Mine (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 202749,
-      "name": "PILLOWTALK",
-      "url": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -555,26 +555,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Middle",
-      "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "7/27 (Deluxe)",
         "url": "https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 214477,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Middle",
+      "url": "https://open.spotify.com/track/0g5EKLgdKvNlln7TNqBByK"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 222306,
-      "name": "Reggaet\u00f3n Lento (Bailemos)",
-      "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 205600,
       "name": "Safari",
       "url": "https://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 222306,
+      "name": "Reggaet\u00f3n Lento (Bailemos)",
+      "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Energ\u00eda",
-        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Ginza",
-      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Blanco Perla",
         "url": "https://open.spotify.com/album/6mgSRh6Ck9zlY5e9o7ADx7"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 228666,
       "name": "Manicomio",
       "url": "https://open.spotify.com/track/3UVM7rdOSbm2vKDXB9SsWo"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Energ\u00eda",
+        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Ginza",
+      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Royalty (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 201265,
-      "name": "Back To Sleep",
-      "url": "https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Desde El Rancho",
         "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 193386,
       "name": "Amor Del Bueno",
       "url": "https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Royalty (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 201265,
+      "name": "Back To Sleep",
+      "url": "https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Don't Mind",
-        "url": "https://open.spotify.com/album/0l28Q1FFEA0mtpEdEQw1r3"
-      },
-      "artists": [
-        {
-          "name": "Kent Jones",
-          "url": "https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO"
-        }
-      ],
-      "duration_ms": 198236,
-      "name": "Don't Mind",
-      "url": "https://open.spotify.com/track/27PmvZoffODNFW2p7ehZTQ"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Revival (Deluxe)",
         "url": "https://open.spotify.com/album/7lDBDk8OQarV5dBMu3qrdz"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 229080,
       "name": "Same Old Love",
       "url": "https://open.spotify.com/track/1BZG99C7Co1r6QUC3zaS59"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Don't Mind",
+        "url": "https://open.spotify.com/album/0l28Q1FFEA0mtpEdEQw1r3"
+      },
+      "artists": [
+        {
+          "name": "Kent Jones",
+          "url": "https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO"
+        }
+      ],
+      "duration_ms": 198236,
+      "name": "Don't Mind",
+      "url": "https://open.spotify.com/track/27PmvZoffODNFW2p7ehZTQ"
     },
     {
       "added_at": "2026-01-23 01:08:49",

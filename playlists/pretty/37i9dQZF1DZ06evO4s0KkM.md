@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,534 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,551 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 30 | [Blood](https://open.spotify.com/track/33MzDklgMtP9OSgtSS1p9x) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 4:01 |
 | 31 | [Cadence To Arms](https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 1:49 |
 | 32 | [Amazing Grace](https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Gang's All Here](https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy) | 2:38 |
-| 33 | [Cold Like This](https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Dead Anthems](https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY) | 2:36 |
+| 33 | [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 |
 | 34 | [Queen Of Suffolk County](https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:51 |
-| 35 | [Kiss Me I'm \#!@'faced](https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 5:34 |
-| 36 | [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 |
+| 35 | [Cold Like This](https://open.spotify.com/track/7zbrhy02dy02pZdocV5WUq) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Dead Anthems](https://open.spotify.com/album/0nAORS2KFCgUx4VhpeuZUY) | 2:36 |
+| 36 | [Kiss Me I'm \#!@'faced](https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 5:34 |
 | 37 | [Finnegan's Wake](https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:19 |
 | 38 | [Until the Next Time](https://open.spotify.com/track/4ZrmwLwhWQ0m4YNlCDHlC8) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:47 |
 | 39 | [God Willing](https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times \(Limited Edition\)](https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [Turn Up That Dial](https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:42 |
 | 50 | [First Class Loser](https://open.spotify.com/track/7cDmUb2xkkwze1gYzZV9il) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 2:55 |
 
-Snapshot ID: `aYp1AAAAAAB9M5XDu717SaJ5Ic83/9h/`
+Snapshot ID: `aYvGgAAAAAAkEA8Wkxl2u+8u9r97Egy4`

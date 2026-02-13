@@ -1763,6 +1763,44 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 02",
+        "url": "https://open.spotify.com/album/4rhPmXsnPfSpDACWZI2vjU"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u6d77\u6625\u9999 (CV.\u4e2d\u6751\u7e6a\u91cc\u5b50)",
+          "url": "https://open.spotify.com/artist/4VYbbwQ4B6bjc3bJEAjFlL"
+        },
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        },
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u9ad8\u69fb\u3084\u3088\u3044 (CV.\u4ec1\u5f8c\u771f\u8036\u5b50)",
+          "url": "https://open.spotify.com/artist/0ROzUCx8jDj405w1GBxZlb"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281253,
+      "name": "Dreaming!",
+      "url": "https://open.spotify.com/track/6QEhegDKMkQfHEn4gtGDQa"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody",
         "url": "https://open.spotify.com/album/4XqjxLuLH7cFqWPRHN4jtk"
       },
@@ -6964,7 +7002,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 289720,
       "name": "\u30cf\u30eb\u30de\u30c1\u5973\u5b50",
       "url": "https://open.spotify.com/track/5SCVtjFekvmxWtlo9laGSe"

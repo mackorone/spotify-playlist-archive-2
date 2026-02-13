@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Shoday
 
-437 songs - 20 hr 0 min
+438 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Free](https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 3:31 | 2025-06-20 |  |
 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-12 | 2026-01-15 |
 | [FTR](https://open.spotify.com/track/3kApAXZWIZvd6UuDLpgMUA) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [S\-Smart](https://open.spotify.com/artist/5ZRp3JOtMPSeowGwOFA7w8) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:18 | 2023-11-24 | 2024-01-26 |
+| [Fuji Explosion](https://open.spotify.com/track/2glMJh0s7jz2WA6sM6dU6g) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Steady x Fuji Explosion](https://open.spotify.com/album/77tfHUei566yP3u8GQotG4) | 3:19 | 2026-02-13 |  |
 | [Fuji Fusion](https://open.spotify.com/track/5KenjWAk3sGXR2yMThHGFZ) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [K1 De Ultimate](https://open.spotify.com/artist/4QDPgnH8H5BkicUp3nbIWT) | [Sanity](https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry) | 3:15 | 2025-10-03 | 2025-12-14 |
 | [FUJI PARTY](https://open.spotify.com/track/6YOByn9plxYPTA6oeLlRkb) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:03 | 2025-11-14 |  |
 | [Fuji Vibe](https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 5:22 | 2024-08-29 | 2026-01-15 |
@@ -197,7 +198,7 @@
 | [Hot Hot](https://open.spotify.com/track/4Ivexy20vZiJUYq2R7fpP6) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Hot Hot](https://open.spotify.com/album/6PaoE59BSEIdQjrBkTTIv8) | 2:23 | 2025-10-10 |  |
 | [HOV](https://open.spotify.com/track/2naOhWJptgRLoSn85MBxRh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses \(Ultra\)](https://open.spotify.com/album/0gY9Z6WFEkZgFFalIG0cc6) | 2:18 | 2024-04-19 | 2024-06-01 |
 | [HOV](https://open.spotify.com/track/3jtPLQ4eBEcfyry5148T9x) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:18 | 2023-04-27 | 2024-02-13 |
-| [How Low \(Remix\)](https://open.spotify.com/track/2gJTSnswyu6WlFwFKO3qw2) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [How Low \(Remix\)](https://open.spotify.com/album/5AjYtPDHP2PVgoS8urjLkW) | 3:02 | 2024-06-14 |  |
+| [How Low \(Remix\)](https://open.spotify.com/track/2gJTSnswyu6WlFwFKO3qw2) | [Kashcoming](https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [How Low \(Remix\)](https://open.spotify.com/album/5AjYtPDHP2PVgoS8urjLkW) | 3:02 | 2024-06-14 | 2026-02-13 |
 | [I Don't Care \(feat\. Bella Shmurda & Vector\)](https://open.spotify.com/track/7B1yc3t9hnNj9Uq2LBnAz4) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Bella Shmurda](https://open.spotify.com/artist/4OBeWqpDm9s3hfaoVAj1Ni), [Vector](https://open.spotify.com/artist/0VIRUXHBdO0Uo2U6MbVOmn) | [Better Days](https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf) | 2:52 | 2024-03-22 | 2024-05-17 |
 | [I Salute](https://open.spotify.com/track/5o3dCqgRTiSt6MC3Gi0jzj) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [I Salute](https://open.spotify.com/album/57rCVdacl4vjhnT8UVb2n6) | 3:07 | 2023-04-20 | 2023-08-11 |
 | [Id.Me](https://open.spotify.com/track/4rPaeHBlWY8MIruSNe5yZl) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Id.Me](https://open.spotify.com/album/6fTG5tvXWsc7dv22HALIPt) | 2:49 | 2024-01-15 | 2026-01-15 |

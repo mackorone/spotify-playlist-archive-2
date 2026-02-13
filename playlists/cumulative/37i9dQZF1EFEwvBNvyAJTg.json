@@ -1912,10 +1912,28 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 277320,
       "name": "History",
       "url": "https://open.spotify.com/track/3JN6wykoBHA9nfTQSZpcHH"
+    },
+    {
+      "album": {
+        "name": "What Will The Neighbours Say? (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7yksu8pTU4mDIiVCyKtV5R"
+      },
+      "artists": [
+        {
+          "name": "Girls Aloud",
+          "url": "https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277746,
+      "name": "History",
+      "url": "https://open.spotify.com/track/723LeRfwywTnnzb8nbo8av"
     },
     {
       "album": {

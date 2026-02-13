@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,125 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,127 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 39 | [Gabryelle \(Refix\)](https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh) | [D\-Malice](https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT) | [Gabryelle \(Refix\)](https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO) | 4:51 |
 | 40 | [De Siegalizer](https://open.spotify.com/track/05oRAIJvKCJ5Vku1RLldwB) | [Apple](https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf) | [Appocolipto](https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G) | 3:57 |
 | 41 | [So Derobe](https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [The Shrew Would Have Cushioned The Blow / So Derobe](https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B) | 6:10 |
-| 42 | [Baddie Part Two](https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:07 |
-| 43 | [Galiium](https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Gallium](https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP) | 7:36 |
+| 42 | [Galiium](https://open.spotify.com/track/4yCJxYCe7tIw0lCx68yQq0) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Gallium](https://open.spotify.com/album/4sq8Tr818HVyApngtRX6nP) | 7:36 |
+| 43 | [Baddie Part Two](https://open.spotify.com/track/6E7XIQi34rNTNfyNPOK59l) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Logic1000](https://open.spotify.com/album/7fZTnHD6lSqDSJdKw1bHGn) | 4:07 |
 | 44 | [Work Out](https://open.spotify.com/track/2njzmMIjznNhysCSKwRZVa) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Work Out](https://open.spotify.com/album/3UCiLwvnSvW38fgxPAMZtY) | 3:03 |
 | 45 | [Chantes](https://open.spotify.com/track/5B4mII2vIgWjlZAOxOdrt1) | [Apple](https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf) | [Appocolipto](https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G) | 3:57 |
 | 46 | [Go Hard](https://open.spotify.com/track/4K9QL2YtsACZbgSePiGnvj) | [Lethal Bizzle](https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a), [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Best of Bizzle](https://open.spotify.com/album/6Kdsrh31egVDwdWFNKb6XW) | 3:32 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 56 | [One More Dance \(Crazy Cousinz Mix \- Crazy Cousinz\)](https://open.spotify.com/track/1ScCS3o6A1PnFMJuwAysdI) | [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw) | [One More Dance](https://open.spotify.com/album/0dtUARWA1xg637IQdo4BNl) | 3:21 |
 | 57 | [BLU Magic](https://open.spotify.com/track/0bb0cpCDq6RA2Zo4ayZEC2) | [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [BLU Magic](https://open.spotify.com/album/2Q7u7JQY2zLUZN54Lbq2VG) | 4:50 |
 | 58 | [Yellowtail](https://open.spotify.com/track/4Zew14g1Ucj3e26Q6IY9qC) | [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:40 |
-| 59 | [Half On A Baby \- Funkystepz Remix](https://open.spotify.com/track/2H2eqLx9IWWBsu4Guak86x) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [FunkyStepz](https://open.spotify.com/artist/1sMcpUeV5yIQw4F4SvFqcb) | [Half On A Baby \(Remixes\)](https://open.spotify.com/album/5rnCcJ7o7HRCxXlzZ6Dbq8) | 4:33 |
-| 60 | [Broken Record \- Geeneus Funky Mix](https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [DJ Geeneus](https://open.spotify.com/artist/1EpP6PGFVKJW9gbcnDy8co) | [Broken Record Remixes](https://open.spotify.com/album/0NxGlkxkhHq11ZRUq01tnG) | 5:33 |
+| 59 | [Broken Record \- Geeneus Funky Mix](https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [DJ Geeneus](https://open.spotify.com/artist/1EpP6PGFVKJW9gbcnDy8co) | [Broken Record Remixes](https://open.spotify.com/album/0NxGlkxkhHq11ZRUq01tnG) | 5:33 |
+| 60 | [Half On A Baby \- Funkystepz Remix](https://open.spotify.com/track/2H2eqLx9IWWBsu4Guak86x) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [FunkyStepz](https://open.spotify.com/artist/1sMcpUeV5yIQw4F4SvFqcb) | [Half On A Baby \(Remixes\)](https://open.spotify.com/album/5rnCcJ7o7HRCxXlzZ6Dbq8) | 4:33 |
 
 Snapshot ID: `AAAAAOGA+y9I0Sr9cHe3YBBt/e56UvJs`

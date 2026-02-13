@@ -1,6 +1,6 @@
 {
   "description": "Sabrina Carpenter. Period.",
-  "num_followers": 4213846,
+  "num_followers": 4214379,
   "original_name": "Confidence Boost",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-01-02 05:00:15",
       "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+    },
+    {
+      "added_at": "2026-01-02 05:00:15",
+      "album": {
         "name": "1989 (Deluxe)",
         "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 177208,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
-    },
-    {
-      "added_at": "2026-01-02 05:00:15",
-      "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
     },
     {
       "added_at": "2026-01-02 05:00:15",
@@ -477,22 +477,6 @@
       "url": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C"
     },
     {
-      "added_at": "2026-01-02 05:00:15",
-      "album": {
-        "name": "SO CLOSE TO WHAT??? (deluxe)",
-        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 168134,
-      "name": "NOBODY'S GIRL",
-      "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
-    },
-    {
       "added_at": "2026-01-23 05:00:29",
       "album": {
         "name": "THE CORE - \u6838",
@@ -507,6 +491,22 @@
       "duration_ms": 170625,
       "name": "HYPNOTIZE",
       "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
+    },
+    {
+      "added_at": "2026-01-02 05:00:15",
+      "album": {
+        "name": "SO CLOSE TO WHAT??? (deluxe)",
+        "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 168134,
+      "name": "NOBODY'S GIRL",
+      "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
     },
     {
       "added_at": "2026-01-02 05:00:15",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-01-02 05:00:15",
       "album": {
-        "name": "IS IT",
-        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 164206,
-      "name": "IS IT",
-      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
-    },
-    {
-      "added_at": "2026-01-02 05:00:15",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2026-01-02 05:00:15",
       "album": {
-        "name": "Jealous Type",
-        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
+        "name": "IS IT",
+        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 163647,
-      "name": "Jealous Type",
-      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
+      "duration_ms": 164206,
+      "name": "IS IT",
+      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
     },
     {
       "added_at": "2026-01-02 05:00:15",
@@ -839,6 +823,22 @@
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2026-01-02 05:00:15",
+      "album": {
+        "name": "Jealous Type",
+        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 163647,
+      "name": "Jealous Type",
+      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
     },
     {
       "added_at": "2026-01-02 05:00:15",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-01-02 05:00:15",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2026-01-02 05:00:15",
-      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 195613,
       "name": "Who Says",
       "url": "https://open.spotify.com/track/3TcL0dyCMyr0kyTTc4NLgI"
+    },
+    {
+      "added_at": "2026-01-02 05:00:15",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2026-01-02 05:00:15",

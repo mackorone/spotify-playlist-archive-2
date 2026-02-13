@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 
 > This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,274 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,283 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CqYAE.md) - [plain]
 | 49 | [You No Let Them](https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 4:09 |
 | 50 | [I Depend on You](https://open.spotify.com/track/1v5aEbJExlPEVuTxau4xPu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [In His Will](https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom) | 3:42 |
 
-Snapshot ID: `aYp1AAAAAABkbrGpa72lsgUNw2hHJEzq`
+Snapshot ID: `aYvGgAAAAAC7DUv+voMrUZEkZqD0MBst`

@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 212903,
       "name": "Bira",
       "url": "https://open.spotify.com/track/2nl8hQfa29A92FVIqh3P63"
@@ -5773,6 +5773,32 @@
     },
     {
       "album": {
+        "name": "Creeping In The Dark",
+        "url": "https://open.spotify.com/album/54Cvtt9DDdut9eAWVQAvcM"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Jungle 70",
+          "url": "https://open.spotify.com/artist/2mKE6K8lwCwpeJisAZZbWl"
+        },
+        {
+          "name": "Kai Saunders",
+          "url": "https://open.spotify.com/artist/5FV65l2LKMOsgo0C5V8GGl"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "Creeping In The Dark",
+      "url": "https://open.spotify.com/track/3xeEFQG1KO59eNKopQDZCG"
+    },
+    {
+      "album": {
         "name": "Cry (Just A Little)",
         "url": "https://open.spotify.com/album/5J7neMUXY573X5gDUs4L3Y"
       },
@@ -6942,7 +6968,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 179032,
       "name": "DISTO",
       "url": "https://open.spotify.com/track/7lm155uMc4owtsZN11r2Vu"
@@ -7378,6 +7404,24 @@
       "duration_ms": 245581,
       "name": "Don't Let Me Go To Sleep",
       "url": "https://open.spotify.com/track/2Xb3K3FXHiX0D746a9hCcm"
+    },
+    {
+      "album": {
+        "name": "Don't Mind",
+        "url": "https://open.spotify.com/album/4vF4lptdekBMTxDVjrUjfJ"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203229,
+      "name": "Don't Mind",
+      "url": "https://open.spotify.com/track/3ozto6sQWW5OhYFIRoFI5w"
     },
     {
       "album": {
@@ -11096,7 +11140,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 171692,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/1mjvQhU9OZNBaAV5kjej0Y"
@@ -12292,7 +12336,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 200655,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/54yZ5P43C64jRqep82fIE8"
@@ -18710,7 +18754,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 142626,
       "name": "Letting It Go",
       "url": "https://open.spotify.com/track/1j0FyvGjdDPdnGFrGWvhzx"
@@ -20885,6 +20929,28 @@
     },
     {
       "album": {
+        "name": "Mind Dimension (Giaggi Remix)",
+        "url": "https://open.spotify.com/album/29lg2XUiDsl1hOQhQC4a2W"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Giaggi",
+          "url": "https://open.spotify.com/artist/3C77yJtMArEU2XUsl4HiLy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208632,
+      "name": "Mind Dimension - Giaggi Remix",
+      "url": "https://open.spotify.com/track/66347Wbr1LTtJ0dnM7j2mh"
+    },
+    {
+      "album": {
         "name": "Mind Dimension (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/3CX2LjhZKJ0ERvdKW0t5YV"
       },
@@ -21666,7 +21732,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 201639,
       "name": "Mothershift",
       "url": "https://open.spotify.com/track/3wk7ukaaakxRjwIVKmrKfq"
@@ -21706,6 +21772,32 @@
       "duration_ms": 202765,
       "name": "Motive - Club Mix",
       "url": "https://open.spotify.com/track/1qegJGTLqsUvcD69yxuF07"
+    },
+    {
+      "album": {
+        "name": "Mouth Go LaLa",
+        "url": "https://open.spotify.com/album/6PACqViUcHMi7Nm0hn9JSI"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Caroline Roxy",
+          "url": "https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "Mouth Go LaLa",
+      "url": "https://open.spotify.com/track/780PwJDNueCJoPs3uQ9jvD"
     },
     {
       "album": {
@@ -22124,7 +22216,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 238048,
       "name": "Nesiah",
       "url": "https://open.spotify.com/track/0qW77jtPkphLSY6YoTtyL5"
@@ -23102,7 +23194,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 156024,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/45tBIH9qPwYewtI4aLwn0e"
@@ -35618,7 +35710,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 239032,
       "name": "Uyankenteza",
       "url": "https://open.spotify.com/track/5yHF2bOclSpULpMqhMxd3G"

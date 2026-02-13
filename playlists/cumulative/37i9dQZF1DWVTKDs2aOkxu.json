@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: Noah Kahan",
+  "description": "The best indie music of the moment. Cover: Bleachers",
   "name": "The Indie List",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 203640,
       "name": "95",
       "url": "https://open.spotify.com/track/6YPKnFbLT4i08pAbeCjus1"
@@ -2676,7 +2676,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 204079,
       "name": "Centipede",
       "url": "https://open.spotify.com/track/5UR33vh5J4oP6ow6IE0xO9"
@@ -3130,7 +3130,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 238930,
       "name": "Count The Ways",
       "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
@@ -3350,6 +3350,24 @@
       "duration_ms": 182685,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
     },
     {
       "album": {
@@ -4679,6 +4697,24 @@
     },
     {
       "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/2DHVSPOy6J9ejRtQkkZwE5"
+      },
+      "artists": [
+        {
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202133,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/0NfTw7C1fWH3SOC6mgz6w1"
+    },
+    {
+      "album": {
         "name": "Figures On The Wall",
         "url": "https://open.spotify.com/album/6hY9QAvmK9VgXrknFcLFqi"
       },
@@ -4712,10 +4748,40 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 227555,
       "name": "Find Ur Ppl",
       "url": "https://open.spotify.com/track/6IW6GWm5Oor03wAG6vCVae"
+    },
+    {
+      "album": {
+        "name": "Flags",
+        "url": "https://open.spotify.com/album/4tocgMB81kYzmX1J79SiiH"
+      },
+      "artists": [
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        },
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306537,
+      "name": "Flags",
+      "url": "https://open.spotify.com/track/0GkUyGCLewjgand5EEfCOO"
     },
     {
       "album": {
@@ -6200,7 +6266,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 175929,
       "name": "i don't wanna die today",
       "url": "https://open.spotify.com/track/4oKUWM85yPB6Q4HNXxD1n4"
@@ -6240,6 +6306,24 @@
       "duration_ms": 156000,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS"
+    },
+    {
+      "album": {
+        "name": "I Like You",
+        "url": "https://open.spotify.com/album/50sVHuzirT8bCwAqYJnmSJ"
+      },
+      "artists": [
+        {
+          "name": "Cardinals",
+          "url": "https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254372,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/1F3M1n8k9AzmqqPiJVyZju"
     },
     {
       "album": {
@@ -6326,7 +6410,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 196426,
       "name": "I'll Change for You",
       "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
@@ -6644,7 +6728,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 378240,
       "name": "Isn't It Always",
       "url": "https://open.spotify.com/track/6ZRhWdp6cDPg7AJPr5bqrn"
@@ -8520,7 +8604,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 181250,
       "name": "Miss June",
       "url": "https://open.spotify.com/track/7v0T7tCD2DMJzF0rpWtCCs"
@@ -8820,6 +8904,24 @@
       "duration_ms": 483692,
       "name": "Nettles",
       "url": "https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x"
+    },
+    {
+      "album": {
+        "name": "Join Hands",
+        "url": "https://open.spotify.com/album/737OJLS2wQGbtapbSHX9fi"
+      },
+      "artists": [
+        {
+          "name": "congratulations",
+          "url": "https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281173,
+      "name": "Nevagonna",
+      "url": "https://open.spotify.com/track/0xAZva9E2vELq4DKF0mtpO"
     },
     {
       "album": {
@@ -9534,7 +9636,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 128627,
       "name": "pains of falling in love",
       "url": "https://open.spotify.com/track/6JVl0PrnA0cT45eXHAGQBP"
@@ -9848,7 +9950,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 227586,
       "name": "pillow",
       "url": "https://open.spotify.com/track/56CBC6RIvEctmVWP8D8BwX"
@@ -11165,6 +11267,28 @@
     },
     {
       "album": {
+        "name": "Sisters (feat. Ninajirachi)",
+        "url": "https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Sisters (feat. Ninajirachi)",
+      "url": "https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ"
+    },
+    {
+      "album": {
         "name": "Sit Down And Love Again",
         "url": "https://open.spotify.com/album/42vfOd3wvScoT0GEZWF5w1"
       },
@@ -11320,7 +11444,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 231499,
       "name": "Small Town Joan of Arc",
       "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
@@ -11338,7 +11462,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 118000,
       "name": "Snug Barber",
       "url": "https://open.spotify.com/track/5qBqLgIPUf2fyBYgZ8GeKv"
@@ -11396,6 +11520,24 @@
       "duration_ms": 198080,
       "name": "Solitude Of The Night Bus",
       "url": "https://open.spotify.com/track/0XrRTQNcxOn8tQgrilf4Mp"
+    },
+    {
+      "album": {
+        "name": "Blue Sky Mentality (Complete Edition)",
+        "url": "https://open.spotify.com/album/40OV4pw1Vvzrvo2yOTl5AF"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169880,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2p2PyJXXzOzpaP2HEEKYsE"
     },
     {
       "album": {
@@ -11738,7 +11880,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 152750,
       "name": "Stranger to love",
       "url": "https://open.spotify.com/track/2fTwwi7auLy8zP38eOhvGy"
@@ -11796,6 +11938,24 @@
       "duration_ms": 158667,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP"
+    },
+    {
+      "album": {
+        "name": "Sulking",
+        "url": "https://open.spotify.com/album/7Fbc3lRPw65wsXqnojisUG"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodwin",
+          "url": "https://open.spotify.com/artist/5grFRdJklJWjl3c2PpnJdB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201458,
+      "name": "Sulking",
+      "url": "https://open.spotify.com/track/64nrKBJoe1BFdswmDosbFE"
     },
     {
       "album": {
@@ -12930,7 +13090,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 205600,
       "name": "The Offering",
       "url": "https://open.spotify.com/track/4ZM3eYKWNzBW2XPB50rm5z"
@@ -13172,6 +13332,24 @@
       "duration_ms": 210666,
       "name": "There Goes My Baby",
       "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
+    },
+    {
+      "album": {
+        "name": "There's A New Place On The Market",
+        "url": "https://open.spotify.com/album/4UbSza3cCt52p2tNPb1ruN"
+      },
+      "artists": [
+        {
+          "name": "Any Young Mechanic",
+          "url": "https://open.spotify.com/artist/49uksCFEefMvzh3YRMnZmf"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214394,
+      "name": "There's A New Place On The Market",
+      "url": "https://open.spotify.com/track/7AMASL10IJ1PPqFtgXqgQL"
     },
     {
       "album": {
@@ -13496,7 +13674,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 210400,
       "name": "Time Time Time (I'm in the Palm of Your Hand)",
       "url": "https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD"
@@ -13586,7 +13764,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 240482,
       "name": "to earth will you tell me when we land",
       "url": "https://open.spotify.com/track/1tTycAzC9CoC3ODkT6kE81"
@@ -14188,7 +14366,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 220821,
       "name": "War Crimes",
       "url": "https://open.spotify.com/track/1dp573qknNnGvmBGZcyDXE"
@@ -14866,6 +15044,24 @@
       "duration_ms": 310266,
       "name": "Year of the Snake",
       "url": "https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5"
+    },
+    {
+      "album": {
+        "name": "you and forever",
+        "url": "https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234971,
+      "name": "you and forever",
+      "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
     },
     {
       "album": {

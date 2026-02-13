@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvqwwMRhV5l.md) - [plain]
 
 > Allerbeste songs uit de 00's! Cover: Dinand Woesthoff \(Kane\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,067 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,083 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvqwwMRhV5l.md) - [plain]
 | 39 | [When You Say Nothing At All](https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 4:16 |
 | 40 | [If I Were a Boy](https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE \- Platinum Edition](https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9) | 4:09 |
 | 41 | [7 Days](https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 3:55 |
-| 42 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
-| 43 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
+| 42 | [All Summer Long](https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Rock n Roll Jesus](https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI) | 4:57 |
+| 43 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
 | 44 | [Grace Kelly](https://open.spotify.com/track/2SDx0PooHZI1SQKR0y44bs) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Life In Cartoon Motion](https://open.spotify.com/album/6oIaXBTIZ2Q9cJKBgrZ2Ox) | 3:07 |
 | 45 | [Rock DJ](https://open.spotify.com/track/4pbyDPjFgfPqFTcIMC8xpK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL) | 4:18 |
 | 46 | [Haven't Met You Yet](https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Crazy Love](https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj) | 4:04 |
-| 47 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 |
-| 48 | [Broken Strings](https://open.spotify.com/track/6jBUP2KCe821yqf1hiBqPR) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 4:10 |
+| 47 | [Broken Strings](https://open.spotify.com/track/6jBUP2KCe821yqf1hiBqPR) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Songs For You, Truths For Me \(International Exclusive Bundle\)](https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7) | 4:10 |
+| 48 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 |
 | 49 | [All The Right Moves](https://open.spotify.com/track/5XRHGXut00SrJUFmcn2lQF) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 3:58 |
 | 50 | [Hall of Fame \(feat\. will.i.am\)](https://open.spotify.com/track/1X1DWw2pcNZ8zSub3uhlNz) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [\#3](https://open.spotify.com/album/63eaHsLLsW1e5ISNf7ISZy) | 3:22 |
 | 51 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvqwwMRhV5l.md) - [plain]
 | 80 | [Désenchantée \- Radio Edit](https://open.spotify.com/track/0eAvGqc9t4Wuc6gDcSi5Aa) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:40 |
 | 81 | [Girl](https://open.spotify.com/track/5zhee6Apgg8QqeJObO4k1d) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Hotel New York](https://open.spotify.com/album/3sxva4N6mtDiOa6zvBa8T3) | 3:30 |
 | 82 | [Because of You](https://open.spotify.com/track/1258tSoXDDa43uqT75r5N0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Greatest Hits \- Chapter One](https://open.spotify.com/album/0UxWN628tSTCaR4NVpqSHM) | 3:40 |
-| 83 | [Father & Friend](https://open.spotify.com/track/6FDlbBc9UBdC03lGaF0diE) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Live It Out](https://open.spotify.com/album/36w3fRCX26g4OWqLVJQYX6) | 4:16 |
-| 84 | [Raise Your Glass](https://open.spotify.com/track/05qq6mwIbG1ZsQhlMKyDwN) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX) | 3:23 |
+| 83 | [Raise Your Glass](https://open.spotify.com/track/05qq6mwIbG1ZsQhlMKyDwN) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX) | 3:23 |
+| 84 | [Father & Friend](https://open.spotify.com/track/6FDlbBc9UBdC03lGaF0diE) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Live It Out](https://open.spotify.com/album/36w3fRCX26g4OWqLVJQYX6) | 4:16 |
 | 85 | [Built to Last](https://open.spotify.com/track/4x907tqu1ai70Sz6xLrK2E) | [Mêlée](https://open.spotify.com/artist/1koahA4L2b5ZFjaFC05pbk) | [Devils & Angels \(Standard Version\)](https://open.spotify.com/album/61odM371Gpn80O2CxwvRfW) | 3:41 |
 | 86 | [Big Yellow Taxi](https://open.spotify.com/track/0KTfZWEWivacSuZSjUe7JS) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Films About Ghosts \(The Best Of Counting Crows\)](https://open.spotify.com/album/7FJlveNFRrWYiD6xWGPHSb) | 3:45 |
 | 87 | [Inside My Head](https://open.spotify.com/track/5UtvhLYNU64o73VrYjzbZY) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Discover](https://open.spotify.com/album/2gfEHNSCClgdKQB4VeoYV7) | 3:24 |

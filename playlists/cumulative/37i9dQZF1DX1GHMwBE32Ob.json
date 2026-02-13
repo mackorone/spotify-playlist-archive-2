@@ -3141,6 +3141,24 @@
     },
     {
       "album": {
+        "name": "Steady x Fuji Explosion",
+        "url": "https://open.spotify.com/album/77tfHUei566yP3u8GQotG4"
+      },
+      "artists": [
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199607,
+      "name": "Fuji Explosion",
+      "url": "https://open.spotify.com/track/2glMJh0s7jz2WA6sM6dU6g"
+    },
+    {
+      "album": {
         "name": "Sanity",
         "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
@@ -3946,7 +3964,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 182142,
       "name": "How Low (Remix)",
       "url": "https://open.spotify.com/track/2gJTSnswyu6WlFwFKO3qw2"

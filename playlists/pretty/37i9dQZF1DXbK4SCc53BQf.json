@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 106231,
+  "num_followers": 106247,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Mi Canto",
-        "url": "https://open.spotify.com/album/3g50FSDPFIWq8faoEtUyKx"
-      },
-      "artists": [
-        {
-          "name": "Antonio y Joel Con Labranza",
-          "url": "https://open.spotify.com/artist/3UDEikwpkDlVfELpX7kM6z"
-        }
-      ],
-      "duration_ms": 225870,
-      "name": "Que Estes Presente",
-      "url": "https://open.spotify.com/track/6RYEaMxLgyopcSMR98exqu"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Yo la Tengo",
         "url": "https://open.spotify.com/album/4OskArflNrMkkkrFi7cv7e"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 202525,
       "name": "Yo la Tengo",
       "url": "https://open.spotify.com/track/71SVOiLqzoTGtI8P90Pt8Q"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Mi Canto",
+        "url": "https://open.spotify.com/album/3g50FSDPFIWq8faoEtUyKx"
+      },
+      "artists": [
+        {
+          "name": "Antonio y Joel Con Labranza",
+          "url": "https://open.spotify.com/artist/3UDEikwpkDlVfELpX7kM6z"
+        }
+      ],
+      "duration_ms": 225870,
+      "name": "Que Estes Presente",
+      "url": "https://open.spotify.com/track/6RYEaMxLgyopcSMR98exqu"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -635,38 +635,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Salvame",
-        "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
-      },
-      "artists": [
-        {
-          "name": "Niko Eme",
-          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
-        }
-      ],
-      "duration_ms": 201633,
-      "name": "Salvame",
-      "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
-      },
-      "artists": [
-        {
-          "name": "Jaydan",
-          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
-        }
-      ],
-      "duration_ms": 183148,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Lejos",
         "url": "https://open.spotify.com/album/1M5i0l6WJgLJtvJvkLj07A"
       },
@@ -687,6 +655,22 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/6TT6QAsWIgjwNbqbv1Nai3"
+      },
+      "artists": [
+        {
+          "name": "Jaydan",
+          "url": "https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5"
+        }
+      ],
+      "duration_ms": 183148,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/7cpCvu3dDGnC92cpJYQGdN"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
         "name": "El Gozo Que Yo Queria",
         "url": "https://open.spotify.com/album/1mnea2dZLEZCUmYP4KYW0t"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 200650,
       "name": "El Gozo Que Yo Queria",
       "url": "https://open.spotify.com/track/6lf0U3BKM3i0wPc6jr3SQ6"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Salvame",
+        "url": "https://open.spotify.com/album/1JZJpD5JPmhStx5cG4BwPL"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "duration_ms": 201633,
+      "name": "Salvame",
+      "url": "https://open.spotify.com/track/2cJVBYNDaqS24s8tWk7PFh"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Esposa M\u00eda",
-        "url": "https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S"
-      },
-      "artists": [
-        {
-          "name": "Sergio Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Esposa M\u00eda",
-      "url": "https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Cantar\u00e9",
         "url": "https://open.spotify.com/album/4MnjTYf9BgX5bR0EsZZaff"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 243608,
       "name": "Cantar\u00e9",
       "url": "https://open.spotify.com/track/2X9UqOkHdY7tiRTnG98SO8"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Esposa M\u00eda",
+        "url": "https://open.spotify.com/album/060GsIY1ZDNFwiK2om5J2S"
+      },
+      "artists": [
+        {
+          "name": "Sergio Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Esposa M\u00eda",
+      "url": "https://open.spotify.com/track/5oJU90vfKSvzZrT6g49xK8"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "M\u00e1s de Una Vez",
-        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
-      },
-      "artists": [
-        {
-          "name": "Soly",
-          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
-        }
-      ],
-      "duration_ms": 173332,
-      "name": "M\u00e1s de Una Vez",
-      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Confiado / Olas del Mar (Live)",
         "url": "https://open.spotify.com/album/0PQwhpCjiaEJog03u89Ro3"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 242000,
       "name": "Confiado",
       "url": "https://open.spotify.com/track/4SeWG3G40AxVSSuuDzqokl"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "M\u00e1s de Una Vez",
+        "url": "https://open.spotify.com/album/5BZAv2tmF7d1m6iRx31OBG"
+      },
+      "artists": [
+        {
+          "name": "Soly",
+          "url": "https://open.spotify.com/artist/2HfhjHrQurBYcK7EEXH3kQ"
+        }
+      ],
+      "duration_ms": 173332,
+      "name": "M\u00e1s de Una Vez",
+      "url": "https://open.spotify.com/track/67mNCKyJeruy19jjXzmdVm"
     },
     {
       "added_at": "2026-01-23 11:50:23",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-01-23 11:50:23",
       "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/2DDQ42rZLhCHGkzyI56lHB"
-      },
-      "artists": [
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
-        },
-        {
-          "name": "JonCarlos + Gabriella",
-          "url": "https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47"
-        }
-      ],
-      "duration_ms": 209837,
-      "name": "Baila",
-      "url": "https://open.spotify.com/track/1JDkqv7ry2RPAbK18JEllb"
-    },
-    {
-      "added_at": "2026-01-23 11:50:23",
-      "album": {
         "name": "Agua Viva",
         "url": "https://open.spotify.com/album/07qYY30VHBfIzrmcPHhinF"
       },
@@ -1311,6 +1291,26 @@
       "duration_ms": 201002,
       "name": "Agua Viva",
       "url": "https://open.spotify.com/track/57QsDbFcH7Md73qWnpUeuc"
+    },
+    {
+      "added_at": "2026-01-23 11:50:23",
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/2DDQ42rZLhCHGkzyI56lHB"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "JonCarlos + Gabriella",
+          "url": "https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47"
+        }
+      ],
+      "duration_ms": 209837,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/1JDkqv7ry2RPAbK18JEllb"
     },
     {
       "added_at": "2026-01-23 11:50:23",

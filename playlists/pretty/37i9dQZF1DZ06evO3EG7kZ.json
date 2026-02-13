@@ -1,12 +1,12 @@
 {
   "description": "This is Bluey. The essential tracks, all in one playlist.",
-  "num_followers": 50706,
+  "num_followers": 50717,
   "original_name": "This Is Bluey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAEdfUgNMQ30xQPehfxuKpV",
+  "snapshot_id": "aYvGgAAAAAAQaY6tahDYuYDBf7+4qghd",
   "tracks": [
     {
       "added_at": null,
@@ -62,11 +62,15 @@
         {
           "name": "Helena Czajka",
           "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
+        },
+        {
+          "name": "Jazz D'Arcy",
+          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 189707,
-      "name": "Creek is Beautiful!",
-      "url": "https://open.spotify.com/track/3IX0GkNlQyjPi3GLtjhMdt"
+      "duration_ms": 196019,
+      "name": "I Know a Place (The Creek Song)",
+      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
     },
     {
       "added_at": null,
@@ -142,15 +146,11 @@
         {
           "name": "Helena Czajka",
           "url": "https://open.spotify.com/artist/4rA0u7NMQXLrfhX6Sf9pmO"
-        },
-        {
-          "name": "Jazz D'Arcy",
-          "url": "https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij"
         }
       ],
-      "duration_ms": 196019,
-      "name": "I Know a Place (The Creek Song)",
-      "url": "https://open.spotify.com/track/5bF4MESYAJUpUmrGuhyGON"
+      "duration_ms": 189707,
+      "name": "Creek is Beautiful!",
+      "url": "https://open.spotify.com/track/3IX0GkNlQyjPi3GLtjhMdt"
     },
     {
       "added_at": null,

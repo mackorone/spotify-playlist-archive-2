@@ -1368,7 +1368,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH"
@@ -1630,8 +1630,8 @@
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
         },
         {
           "name": "Justin Bieber",
@@ -3584,7 +3584,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"

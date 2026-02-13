@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 
 > Der Sommer neigt sich dem Ende 🥲 \- und das waren die Sommerhits  2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,581,797 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,581,688 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7rdRjOECPW.md) - [plain]
 | 63 | [Away](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Away](https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD) | 3:58 |
 | 64 | [Anthem](https://open.spotify.com/track/38pfUvhqVyuvlgUBiNaZSo) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Anthem](https://open.spotify.com/album/3C1Qcd5uy6v1Nbmo1DG8cW) | 3:05 |
 | 65 | [Wake Up \(With You Mine\)](https://open.spotify.com/track/0LPqVcXdVWsiGz7SkyOrC4) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [NASRI](https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz) | [Wake Up \(With You Mine\)](https://open.spotify.com/album/0ohiIUGo7DUWFVrapGXaSf) | 3:20 |
-| 66 | [vorsatz](https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [vorsatz](https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr) | 2:37 |
-| 67 | [Flowers](https://open.spotify.com/track/0UFJ0jzejbR2miKi7o7CQ2) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w) | [Flowers](https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ) | 2:33 |
+| 66 | [Flowers](https://open.spotify.com/track/0UFJ0jzejbR2miKi7o7CQ2) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Lahos](https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w) | [Flowers](https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ) | 2:33 |
+| 67 | [vorsatz](https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [vorsatz](https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr) | 2:37 |
 | 68 | [Helele](https://open.spotify.com/track/2c0bSdQd5dxkfCySYm6xJU) | [Noel Holler](https://open.spotify.com/artist/7GAYMj354pCJ0yazsS0ryj), [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl) | [Helele](https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de) | 2:10 |
-| 69 | [Azizam](https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam](https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI) | 2:42 |
+| 69 | [Rude Boi](https://open.spotify.com/track/6RhszueRE6SiDnXkv3i88r) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Lou Combo](https://open.spotify.com/artist/1kkNVQF0LOEnXqKPO0ltVX), [Erin Kimberly](https://open.spotify.com/artist/2ramOs79MnYC9oLFy3e3oe) | [Rude Boi](https://open.spotify.com/album/4QhOiWhPeXjjhS3kSOwMrB) | 3:35 |
 | 70 | [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 |
 
 Snapshot ID: `AAAAAFD6G8R6WiS5vx5+29YD3npAAGxF`

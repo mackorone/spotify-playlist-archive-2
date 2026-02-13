@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Zuchu",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Diamond Platnumz",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -188,7 +188,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 201600,
       "name": "Amanda Remix (feat. Spice)",
       "url": "https://open.spotify.com/track/5zl3ugguXnMVhTTW07NC27"
@@ -2474,7 +2474,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 194666,
       "name": "Feelings (feat. Khaligraph Jones)",
       "url": "https://open.spotify.com/track/4TwiRbTgM2vvY8cErSflxy"
@@ -4368,7 +4368,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 245625,
       "name": "Katam (feat. Bien)",
       "url": "https://open.spotify.com/track/4MGtTXaggDrYal3andtYxP"
@@ -6050,7 +6050,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 158922,
       "name": "Me too",
       "url": "https://open.spotify.com/track/0f69wNZrUKPe4s2EnSA5ai"
@@ -7452,6 +7452,24 @@
       "duration_ms": 189333,
       "name": "Natamba Nae",
       "url": "https://open.spotify.com/track/5plP08rSnbrT8deupxla78"
+    },
+    {
+      "album": {
+        "name": "Natulizana",
+        "url": "https://open.spotify.com/album/3rqu6ac3lZYgzvLdYWq6Tg"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266207,
+      "name": "Natulizana",
+      "url": "https://open.spotify.com/track/5JVCPxHDsOBbTn9lw0yhP1"
     },
     {
       "album": {
@@ -11987,6 +12005,24 @@
     },
     {
       "album": {
+        "name": "Ushanitoka",
+        "url": "https://open.spotify.com/album/6HjLx9wjOFERsZdxgKQL4y"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Ushanitoka",
+      "url": "https://open.spotify.com/track/0sSW395j2Mfyq8ojK914Q3"
+    },
+    {
+      "album": {
         "name": "Usijichukulie Star",
         "url": "https://open.spotify.com/album/0Bp8t9wTlO14CgYfmXJsZY"
       },
@@ -12166,6 +12202,28 @@
       "duration_ms": 200472,
       "name": "Vumilia",
       "url": "https://open.spotify.com/track/0b1xixHB1jWoKNfHbP7WIu"
+    },
+    {
+      "album": {
+        "name": "Wa Milele",
+        "url": "https://open.spotify.com/album/1J1roCHGHG4O67WoNBEQYM"
+      },
+      "artists": [
+        {
+          "name": "ILA NIA",
+          "url": "https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp"
+        },
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Wa Milele",
+      "url": "https://open.spotify.com/track/69cYOWOVdFe0RjJrmKtjSq"
     },
     {
       "album": {
@@ -12662,7 +12720,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 148036,
       "name": "Wewe Hapo",
       "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
@@ -12826,6 +12884,24 @@
       "duration_ms": 190212,
       "name": "Wote",
       "url": "https://open.spotify.com/track/560WaxcCey7Ss0t4ii0Bm4"
+    },
+    {
+      "album": {
+        "name": "This is Appy",
+        "url": "https://open.spotify.com/album/43i28oP35562ecl4k6KOzs"
+      },
+      "artists": [
+        {
+          "name": "Appy",
+          "url": "https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/1a50fC98TLpeermDrb5dws"
     },
     {
       "album": {

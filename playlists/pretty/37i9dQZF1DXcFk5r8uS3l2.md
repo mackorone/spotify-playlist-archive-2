@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Tedeschi Trucks Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,258 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,066,305 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [More Than Love](https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:07 |
 | 100 | [Gullah Geechee](https://open.spotify.com/track/47BdliCI9XP3HWl0CsR23A) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:35 |
 
-Snapshot ID: `AAAAACqMgH1ir6/pN7C2gIIf3XxSdvCP`
+Snapshot ID: `AAAAADmGU7GLmsb52bpCyVB/0Ppx3N40`

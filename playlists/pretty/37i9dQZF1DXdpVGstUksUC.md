@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,431 likes - 100 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,442 likes - 100 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 34 | [Noses in Roses, Forever](https://open.spotify.com/track/4tPTqcJWt67CGJLro27pwe) | [Desert Sessions](https://open.spotify.com/artist/62cvIQKyg3aHsHNgPxzGPT) | [Vols\. 11 & 12](https://open.spotify.com/album/0uF5YOmnKbNzMgNjn2Rhc3) | 5:33 |
 | 35 | [Death's Door](https://open.spotify.com/track/1UghmqyvyKeXpF1LsrBa2E) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8) | 7:15 |
 | 36 | [Mortal Bones](https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ) | [The Well](https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t) | [Samsara](https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C) | 5:31 |
-| 37 | [Perfect Man](https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Buffalo Fuzz](https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW) | 5:25 |
-| 38 | [Supersoul](https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [In the tail of a comet](https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA) | 2:42 |
+| 37 | [Supersoul](https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [In the tail of a comet](https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA) | 2:42 |
+| 38 | [Perfect Man](https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Buffalo Fuzz](https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW) | 5:25 |
 | 39 | [Late Night](https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO) | [The Heavy Eyes](https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ) | [Love Like Machines](https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez) | 2:29 |
 | 40 | [Older No Wiser](https://open.spotify.com/track/3vX40kM91roJS58JpFMWct) | [Red Desert](https://open.spotify.com/artist/0giNJusra3rJ7fNjvjbjQ9) | [Damned by Fate](https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC) | 5:36 |
 | 41 | [Skweetis](https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 1:12 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 63 | [Desert Cold](https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Desert Cold](https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY) | 6:13 |
 | 64 | [Smokin' Woman](https://open.spotify.com/track/3As9x85QW00A257ahhwKLr) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Dos E.P.'s](https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL) | 5:28 |
 | 65 | [Riding Shotgun](https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm) | [Lowrider](https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW) | [Ode To IO](https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj) | 6:06 |
-| 66 | [Hot Lava Man](https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 8:25 |
-| 67 | [Staving off Truth](https://open.spotify.com/track/1NUWMbdZLYixwU5HIDVM7T) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Reflections of a Floating World](https://open.spotify.com/album/3KHAbIF4DHori5AW2nWdUA) | 10:18 |
+| 66 | [Staving off Truth](https://open.spotify.com/track/1NUWMbdZLYixwU5HIDVM7T) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Reflections of a Floating World](https://open.spotify.com/album/3KHAbIF4DHori5AW2nWdUA) | 10:18 |
+| 67 | [Hot Lava Man](https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 8:25 |
 | 68 | [Neptune's Convoy](https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [In Search Of](https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL) | 5:06 |
 | 69 | [Shifting Winds](https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj) | [Lightning Born](https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate) | [Lightning Born](https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG) | 4:35 |
 | 70 | [Cosmic Ride Of The Crystal Skull](https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB) | [Black Rainbows](https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb) | [Superskull](https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1) | 3:49 |
@@ -87,18 +87,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 77 | [Sugar](https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sugar](https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2) | 4:53 |
 | 78 | [Tested By Death](https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz) | [Wizard Master](https://open.spotify.com/artist/6X1zEmVicCUxyjqKVxOGNH) | [Tested By Death](https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb) | 8:32 |
 | 79 | [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 |
-| 80 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 |
-| 81 | [Rockin' Course](https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY) | [Thumlock](https://open.spotify.com/artist/5Ub4KBLHbznhFUc3b5t9Ha) | [Emerald Liquid Odyssey](https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O) | 3:09 |
+| 80 | [Rockin' Course](https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY) | [Thumlock](https://open.spotify.com/artist/5Ub4KBLHbznhFUc3b5t9Ha) | [Emerald Liquid Odyssey](https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O) | 3:09 |
+| 81 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 |
 | 82 | [The Chosen One](https://open.spotify.com/track/2It4BlXp7uTl9xZPYLyqWy) | [Dopelord](https://open.spotify.com/artist/1B1b2jSXksHwmmorhmQ8AF) | [The Chosen One](https://open.spotify.com/album/47Tc6iYguZWmz4TcfNivUU) | 6:56 |
 | 83 | [Quick Quiet Raid](https://open.spotify.com/track/46ZfsbnFdI9FpeQKJRZUzS) | [Satan's Satyrs](https://open.spotify.com/artist/2XjAtuHYFRZRIATLrYfSVX) | [Quick Quiet Raid](https://open.spotify.com/album/6Ar4J8yW63XFVH9j3YiWf5) | 2:43 |
 | 84 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |
 | 85 | [Space Lord](https://open.spotify.com/track/3twKuUTPH239GCSPdRfmgY) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/6oLlvooHUXzfZdxk5q0XN9) | 5:55 |
 | 86 | [Ugo](https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB) | 5:58 |
-| 87 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 |
-| 88 | [Leftovers](https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z) | 3:50 |
+| 87 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
+| 88 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 |
 | 89 | [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 |
 | 90 | [Negasonic Teenage Warhead](https://open.spotify.com/track/1VekjKr0JXvbebbvpLxfEr) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Dopes To Infinity](https://open.spotify.com/album/6vmAaaRJHTD6z47hItmOux) | 4:27 |
-| 91 | [Freya](https://open.spotify.com/track/4FWC84DQU9Y07aPdiBwTy3) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Age of Winters](https://open.spotify.com/album/7khpp22Tu504KBWWEKNB6O) | 4:34 |
+| 91 | [Leftovers](https://open.spotify.com/track/72hz8jgVY2Lhdq3CJZmlq9) | [Planet of Zeus](https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG) | [Macho Libre](https://open.spotify.com/album/3vsrxRQfyEWrTltY43cY1Z) | 3:50 |
 | 92 | [Dead Rock Commandos](https://open.spotify.com/track/3mxMNHNWhan1cZByg3WHL4) | [Nightstalker](https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk) | [Dead Rock Commandos](https://open.spotify.com/album/6EfupU9Irwh51zlDbCicAx) | 3:16 |
 | 93 | [The Dead Won't Sleep](https://open.spotify.com/track/2qpUakxMrcKT5ZpNfF1H2P) | [Mountain Witch](https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y) | [Burning Village](https://open.spotify.com/album/4upmEvHCydc8tcRCSadq5P) | 4:42 |
 | 94 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |

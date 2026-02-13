@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,060 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,053 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 9 | [NASA](https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [3:33](https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98) | 2:41 |
 | 10 | [Cigarette \(Feat\. Tablo, MISO\)](https://open.spotify.com/track/14p5EKgbPx4U3P1j5JNHeh) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT), [TABLO](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 4:01 |
 | 11 | [Love Scene](https://open.spotify.com/track/1WWskMa6hvLgHuNhc6suE2) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:37 |
-| 12 | [free love \- dream edit](https://open.spotify.com/track/3HAsf0o0TJY9WL4zKCzE3u) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [nswy: dream edits](https://open.spotify.com/album/2EafeoPywXvcSudYSeSMWO) | 4:09 |
-| 13 | [U](https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [OFOSUN](https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky) | 3:46 |
+| 12 | [U](https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [OFOSUN](https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky) | 3:46 |
+| 13 | [free love \- dream edit](https://open.spotify.com/track/3HAsf0o0TJY9WL4zKCzE3u) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [nswy: dream edits](https://open.spotify.com/album/2EafeoPywXvcSudYSeSMWO) | 4:09 |
 | 14 | [Blue rain](https://open.spotify.com/track/3R56jKicl9gSzdJxcr4wrd) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [My blue wavy room](https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr) | 3:49 |
 | 15 | [Photograph](https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:59 |
 | 16 | [Gondry](https://open.spotify.com/track/7lPFh8HF5FFMzSIUOwvRTm) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [22](https://open.spotify.com/album/5JMSzU0FPsOut85jmhHbfw) | 5:08 |

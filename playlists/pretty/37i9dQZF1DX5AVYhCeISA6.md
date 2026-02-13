@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > KAROL G nos inspira 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,833 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,829 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 38 | [Espejo](https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Espejo](https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW) | 2:38 |
 | 39 | [La Chain](https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La Chain](https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid) | 2:19 |
 | 40 | [bien](https://open.spotify.com/track/7iqWxH5QBMBKOPV8PzU482) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:52 |
-| 41 | [Otro Huevón](https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Otro Huevón](https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU) | 3:26 |
-| 42 | [BUSINESS WOMAN](https://open.spotify.com/track/78wyf1JZmuzIoX0cqtTvCd) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 3:47 |
+| 41 | [BUSINESS WOMAN](https://open.spotify.com/track/78wyf1JZmuzIoX0cqtTvCd) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 3:47 |
+| 42 | [Otro Huevón](https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Otro Huevón](https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU) | 3:26 |
 | 43 | [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 |
 | 44 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 |
 | 45 | [Pa Mis Muchachas \(feat\. NATHY PELUSO\)](https://open.spotify.com/track/1kGhjFgl6A68ZAYvtw2UDK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Pa Mis Muchachas \(feat\. NATHY PELUSO\)](https://open.spotify.com/album/0WtOyuBYge9gx7X8MpCeeW) | 3:36 |

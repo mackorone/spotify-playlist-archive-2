@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,109 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,119 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 29 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
 | 30 | [MORFEO](https://open.spotify.com/track/297Ev6aeDHc8dECDmK7SFH) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:53 |
 | 31 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 |
-| 32 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/4H0muzuDhjGQsRQCE8m5kX), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 |
+| 32 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 |
 | 33 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
 | 34 | [1 de Enero, Puntacana](https://open.spotify.com/track/7Iz0j9XsiyR2qAq3TaeaXD) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:35 |
 | 35 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 46 | [me late](https://open.spotify.com/track/7AD5wlhpOKjWStxlrUvH1K) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 3:00 |
 | 47 | [Alguien Más](https://open.spotify.com/track/0Z2vb8bWllb0UCgnWV2YLV) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Alguien Más](https://open.spotify.com/album/6V0njdk0lZt3ea8AVdFTe5) | 2:12 |
 | 48 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
-| 49 | [MACARRONES CON QUESO](https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [MACARRONES CON QUESO](https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7) | 2:27 |
-| 50 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
+| 49 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 |
+| 50 | [MACARRONES CON QUESO](https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [MACARRONES CON QUESO](https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7) | 2:27 |
 | 51 | [WCID?](https://open.spotify.com/track/4mwQi413D8omgjFXRnaA4u) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX) | [SUPERNOVA](https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117) | 3:23 |
 | 52 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
 | 53 | [Lágrimas de sol](https://open.spotify.com/track/3jW5qT8v9F6ZRuH6CRNGKd) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Pronto estaré bien](https://open.spotify.com/album/72ctczMr5Lgg8WtxR5oEDF) | 3:28 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 57 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
 | 58 | [Pececitos](https://open.spotify.com/track/35qTk5ezT7HEtA8xC7O0p0) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pececitos](https://open.spotify.com/album/19VJ9ZcoruQHlefHhHmPlT) | 3:25 |
 | 59 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
-| 60 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
-| 61 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
+| 60 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
+| 61 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
 | 62 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
 | 63 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |
 | 64 | [Café de Barcelona](https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Café de Barcelona](https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c) | 2:38 |

@@ -1,6 +1,6 @@
 {
   "description": "Unwind to these easy classics from the 2010s...",
-  "num_followers": 301431,
+  "num_followers": 301444,
   "original_name": "Easy 10s",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 202333,
-      "name": "Stressed Out",
-      "url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 263373,
       "name": "Love The Way You Lie",
       "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "Stressed Out",
+      "url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Politics of Living",
-        "url": "https://open.spotify.com/album/1ITjhViDumL9llxAJYdKiC"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 203186,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/65gLJGey4u4KFFqoC5fzFJ"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "A Head Full of Dreams",
         "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+        "name": "Politics of Living",
+        "url": "https://open.spotify.com/album/1ITjhViDumL9llxAJYdKiC"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
         }
       ],
-      "duration_ms": 224870,
-      "name": "Sweet Creature",
-      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
+      "duration_ms": 203186,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/65gLJGey4u4KFFqoC5fzFJ"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -887,6 +871,22 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 224870,
+      "name": "Sweet Creature",
+      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
         "name": "Not About Angels",
         "url": "https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 189475,
       "name": "Not About Angels",
       "url": "https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
-        "name": "+",
-        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Lego House",
-      "url": "https://open.spotify.com/track/5ubHAQtKuFfiG4FXfLP804"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -935,6 +919,22 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Lego House",
+      "url": "https://open.spotify.com/track/5ubHAQtKuFfiG4FXfLP804"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Light On",
-      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "Love Is a Four Letter Word (Deluxe Edition)",
         "url": "https://open.spotify.com/album/64SChsjQBiEe3aVTFYnW1b"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 240165,
       "name": "I Won't Give Up",
       "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
     },
     {
       "added_at": "2024-06-03 14:47:34",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-06-03 14:47:34",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 250454,
-      "name": "Blue Lights",
-      "url": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
-    },
-    {
-      "added_at": "2024-06-03 14:47:34",
-      "album": {
         "name": "Leave a Light On",
         "url": "https://open.spotify.com/album/3pczowjToa5SYsI6Th4KO8"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 185863,
       "name": "Leave a Light On",
       "url": "https://open.spotify.com/track/6lOWoTqVnAWXchddtTH31W"
+    },
+    {
+      "added_at": "2024-06-03 14:47:34",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 250454,
+      "name": "Blue Lights",
+      "url": "https://open.spotify.com/track/1It1TxBK3xIQAB4xJkPevn"
     },
     {
       "added_at": "2024-06-03 14:47:34",

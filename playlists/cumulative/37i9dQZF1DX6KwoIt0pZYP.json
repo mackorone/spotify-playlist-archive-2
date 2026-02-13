@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 221428,
       "name": "BACK 2 YOU",
       "url": "https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09"
@@ -13958,6 +13958,24 @@
       "duration_ms": 139324,
       "name": "oh no",
       "url": "https://open.spotify.com/track/7sErz2bp49BQJ6uThpeO6Y"
+    },
+    {
+      "album": {
+        "name": "Ohaguro",
+        "url": "https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Ohaguro",
+      "url": "https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc"
     },
     {
       "album": {

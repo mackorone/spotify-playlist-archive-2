@@ -1,6 +1,6 @@
 {
-  "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : Renaud",
-  "num_followers": 401263,
+  "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
+  "num_followers": 401310,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Exclusivement f\u00e9minin",
-        "url": "https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS"
-      },
-      "artists": [
-        {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
-        }
-      ],
-      "duration_ms": 167359,
-      "name": "Besoin de personne",
-      "url": "https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Le Meilleur De",
         "url": "https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 327293,
       "name": "En l'an 2001",
       "url": "https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Exclusivement f\u00e9minin",
+        "url": "https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 167359,
+      "name": "Besoin de personne",
+      "url": "https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "C'est la ouate",
-        "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
-      },
-      "artists": [
-        {
-          "name": "Caroline Loeb",
-          "url": "https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm"
-        }
-      ],
-      "duration_ms": 228187,
-      "name": "C'est la ouate - Radio Edit Original Version 1987",
-      "url": "https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "EP La P'tite Lady",
         "url": "https://open.spotify.com/album/0Lg340OEMHB1qyi919yiZQ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 215840,
       "name": "La p'tite Lady",
       "url": "https://open.spotify.com/track/7jeK414Hj68dYeLzEUVGe8"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "C'est la ouate",
+        "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
+      },
+      "artists": [
+        {
+          "name": "Caroline Loeb",
+          "url": "https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm"
+        }
+      ],
+      "duration_ms": 228187,
+      "name": "C'est la ouate - Radio Edit Original Version 1987",
+      "url": "https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l"
     },
     {
       "added_at": "2025-12-29 17:53:07",

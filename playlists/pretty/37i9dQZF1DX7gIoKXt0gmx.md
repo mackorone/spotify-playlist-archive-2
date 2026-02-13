@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,740,003 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,740,066 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,24 +74,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 64 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 |
 | 65 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 |
 | 66 | [Can I](https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:47 |
-| 67 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 |
-| 68 | [Have You Ever](https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:33 |
-| 69 | [So Sick](https://open.spotify.com/track/5203pcq3cNteJuOVhIEnt6) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6SUV4nzZobjuioos5VDUl7) | 3:27 |
-| 70 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
+| 67 | [Have You Ever](https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:33 |
+| 68 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 |
+| 69 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
+| 70 | [So Sick](https://open.spotify.com/track/5203pcq3cNteJuOVhIEnt6) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6SUV4nzZobjuioos5VDUl7) | 3:27 |
 | 71 | [How You Gonna Act Like That](https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:54 |
-| 72 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 |
+| 72 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 |
 | 73 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 |
-| 74 | [Over](https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Over](https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H) | 3:25 |
+| 74 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 |
 | 75 | [What You Did \(feat\. Ella Mai\)](https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:26 |
 | 76 | [Coaster](https://open.spotify.com/track/39KG4kom3enSx4GTThuDGt) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:19 |
 | 77 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
-| 78 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 |
-| 79 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
+| 78 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
+| 79 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 |
 | 80 | [Me, Myself and I](https://open.spotify.com/track/3pxJuMLjNPtiC0fX8EHFlF) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Dangerously In Love](https://open.spotify.com/album/06v9eHnqhMK2tbM2Iz3p0Y) | 5:01 |
 | 81 | [True Colors](https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 3:26 |
 | 82 | [On Bended Knee](https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 5:29 |
-| 83 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
-| 84 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 |
+| 83 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 |
+| 84 | [Crystal Tears](https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Crystal Tears](https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb) | 3:59 |
 | 85 | [Separated](https://open.spotify.com/track/5S0cvScXb33JVpjTiY9Ivi) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [My Thoughts](https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf) | 4:15 |
 | 86 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 4:41 |
 | 87 | [Here We Go \(Uh Oh\)](https://open.spotify.com/track/6SSSGEgfuqTP75xaNOwsTo) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Here We Go \(Uh Oh\)](https://open.spotify.com/album/6GzjzeW0x2sSVA6jMCK03p) | 3:36 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 94 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
 | 95 | [Walked Outta Heaven](https://open.spotify.com/track/06ZDLodo1UDVavc3MXREZ3) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Hard](https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl) | 4:30 |
 | 96 | [Girl](https://open.spotify.com/track/4XyAMTjMfqwZ2uJemqKRdH) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi) | 3:44 |
-| 97 | [Why](https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Why](https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes) | 2:32 |
-| 98 | [BOTHER ME \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/4ZAdgjD0HL9F6NkTqcqhlX) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WORLDS APART\*](https://open.spotify.com/album/37kTdbXevOm7O3D5MOBofw) | 2:26 |
-| 99 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 |
+| 97 | [BOTHER ME \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/4ZAdgjD0HL9F6NkTqcqhlX) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WORLDS APART\*](https://open.spotify.com/album/37kTdbXevOm7O3D5MOBofw) | 2:26 |
+| 98 | [That's You](https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [That's You](https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV) | 5:19 |
+| 99 | [Why](https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Why](https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes) | 2:32 |
 | 100 | [Ice Box](https://open.spotify.com/track/25u7tVNFhpPA450EFQBwML) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [21](https://open.spotify.com/album/2ksJHf3VXQ9GHI6Ng5bafL) | 4:16 |
 
 Snapshot ID: `AAAAAKat4tUR1cspWu3X6dFrFG3Znbo6`

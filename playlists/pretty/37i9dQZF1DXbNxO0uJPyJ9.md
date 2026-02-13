@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,738 likes - 80 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,840 likes - 80 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 32 | [Rockit](https://open.spotify.com/track/2imFIZ1WcOHrA5IPFhVLJY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Best Of Herbie Hancock \- The Hits!](https://open.spotify.com/album/4zZHvc3I4GrfPIUS0UkQb3) | 5:25 |
 | 33 | [Take Me Home \- Extended Remix](https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [12"ers](https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5) | 8:06 |
 | 34 | [Vogue \- 12" Version](https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Vogue](https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX) | 8:21 |
-| 35 | [Dr\. Beat \- Original 12" Mix](https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 6:28 |
-| 36 | [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 |
+| 35 | [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 |
+| 36 | [Dr\. Beat \- Original 12" Mix](https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 6:28 |
 | 37 | [Tainted Love / Where Did Our Love Go? \- Extended Version](https://open.spotify.com/track/0ycfB6M8iIDQvVMq9uKMDs) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 8:54 |
 | 38 | [\(I Wanna Give You\) Devotion \- Original Club Mix](https://open.spotify.com/track/0ozOXnBES94H3uZsImPq2A) | [Nomad](https://open.spotify.com/artist/4nP1Vg2YuLE0Nbr7uK08SM) | [\(I Wanna Give You\) Devotion](https://open.spotify.com/album/7ny2JlCXQzZHl4P4bnxDlC) | 6:49 |
 | 39 | [True Blue \- The Color Mix](https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 6:36 |

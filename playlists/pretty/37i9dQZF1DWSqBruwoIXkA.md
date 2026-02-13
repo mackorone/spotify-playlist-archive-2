@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > heartbreak feels good in a place like sad hour, with Sydney Rose & Tom Odell
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,394,440 likes - 150 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,394,355 likes - 150 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 10 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
 | 11 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
 | 12 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
-| 13 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 |
-| 14 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
+| 13 | [Eternity](https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid](https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK) | 3:09 |
+| 14 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 |
 | 15 | [29](https://open.spotify.com/track/7dNqvoB3wIUp4w60Lo8r2Y) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [29](https://open.spotify.com/album/7zE8WryMg0RpDh2VUISZSn) | 3:14 |
 | 16 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 17 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 75 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 | 76 | [Castle in Hollywood](https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:33 |
 | 77 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 |
-| 78 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
-| 79 | [savior](https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [savior](https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp) | 3:00 |
+| 78 | [savior](https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [savior](https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp) | 3:00 |
+| 79 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 |
 | 80 | [BLEED](https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:49 |
 | 81 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 |
 | 82 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 |
@@ -137,8 +137,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 127 | [Weatherman](https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Weatherman](https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB) | 2:55 |
 | 128 | [IS THERE A WORLD?](https://open.spotify.com/track/0RX7ZR2qX13rNJkFyI1THV) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [IS THERE A WORLD?](https://open.spotify.com/album/5SCes4ZPjdPch5Dge1nChl) | 3:42 |
 | 129 | [Eventually](https://open.spotify.com/track/7A9yawxyZYDQv3LklNUOUU) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Eventually](https://open.spotify.com/album/7oUGHYjT5jFpGj8W5JaCrK) | 4:00 |
-| 130 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 |
-| 131 | [Tainted](https://open.spotify.com/track/7EVuRBZoqoW6uVrSlv3m7Y) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Tainted](https://open.spotify.com/album/1RLsN47hAGZn9ab3diH7MM) | 2:53 |
+| 130 | [Tainted](https://open.spotify.com/track/7EVuRBZoqoW6uVrSlv3m7Y) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Tainted](https://open.spotify.com/album/1RLsN47hAGZn9ab3diH7MM) | 2:53 |
+| 131 | [not my job anymore](https://open.spotify.com/track/4i7mcbkECX4kqRvfjbBGQz) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [not my job anymore](https://open.spotify.com/album/4q2D6dkCSdkkTQ8Jqvh6VI) | 3:08 |
 | 132 | [How To Lose The Girl](https://open.spotify.com/track/3OxTk4NL6r8bAOxuSbYeSp) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [How To Lose The Girl](https://open.spotify.com/album/5kDrkzA4Q0yBWWUgjZpDTL) | 3:11 |
 | 133 | [Move On First](https://open.spotify.com/track/1aAoYRxr0r6sWSEsWfL1GU) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Move On First](https://open.spotify.com/album/1Yjy7hqO89PtRtISnah1T1) | 2:36 |
 | 134 | [easy](https://open.spotify.com/track/12kvkByLJthKaIhk819aNA) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [easy](https://open.spotify.com/album/6dvFbVMwwqmnCeeU7VrGvr) | 2:20 |
@@ -152,11 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 142 | [One Day](https://open.spotify.com/track/5gdZR1LbeJktVF0SFqU4a9) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [One Day](https://open.spotify.com/album/6UdAC6I3beffgXZtSzYwFK) | 3:15 |
 | 143 | [Boys](https://open.spotify.com/track/6qRvgAj6fAYaSLq0o4Ke8b) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m), [Isaac Levi](https://open.spotify.com/artist/4g75VELuqAmS29Xhlu7ZFC) | [Boys](https://open.spotify.com/album/4lLDD1fSIXw9mXy0vus6s1) | 4:14 |
 | 144 | [The Motive](https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [The Motive](https://open.spotify.com/album/63QlFnuiQqTxFzGzhQI0tv) | 2:16 |
-| 145 | [You Don't Look At Me The Same](https://open.spotify.com/track/02iWF8aceuAlkJW57YQjwN) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [You Don't Look At Me The Same](https://open.spotify.com/album/2KbJQYc9FjkQPh0HEuEhrk) | 2:43 |
-| 146 | [Hotel](https://open.spotify.com/track/4leYuigbid3LuPNI9jDsGr) | [Maeve](https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI) | [Hotel](https://open.spotify.com/album/6IiD5m2FkHUNSu1hVAPTGD) | 2:30 |
+| 145 | [Last Drive](https://open.spotify.com/track/157KFG8lqxLxejMIwDsBl4) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ) | [Last Drive](https://open.spotify.com/album/5RVnL6sOTpER1bPK1iDNws) | 3:37 |
+| 146 | [You Don't Look At Me The Same](https://open.spotify.com/track/02iWF8aceuAlkJW57YQjwN) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [You Don't Look At Me The Same](https://open.spotify.com/album/2KbJQYc9FjkQPh0HEuEhrk) | 2:43 |
 | 147 | [Just Like Us](https://open.spotify.com/track/7sQtaWzxpZZe4BDAYyGotk) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [Just Like Us](https://open.spotify.com/album/4rm9TMVQIUkgLHLs9TldWD) | 3:15 |
-| 148 | [$82 at Erewhon](https://open.spotify.com/track/4DfOEg7MBodW1fxXkP5ViL) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [$82 at Erewhon](https://open.spotify.com/album/59unleOrwrllljDVxIfZ9i) | 3:47 |
-| 149 | [Last Drive](https://open.spotify.com/track/157KFG8lqxLxejMIwDsBl4) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ) | [Last Drive](https://open.spotify.com/album/5RVnL6sOTpER1bPK1iDNws) | 3:37 |
+| 148 | [Hotel](https://open.spotify.com/track/4leYuigbid3LuPNI9jDsGr) | [Maeve](https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI) | [Hotel](https://open.spotify.com/album/6IiD5m2FkHUNSu1hVAPTGD) | 2:30 |
+| 149 | [$82 at Erewhon](https://open.spotify.com/track/4DfOEg7MBodW1fxXkP5ViL) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [$82 at Erewhon](https://open.spotify.com/album/59unleOrwrllljDVxIfZ9i) | 3:47 |
 | 150 | [I'm Glad We Met](https://open.spotify.com/track/48NwJQW8Lu6ZG9icZ35Pjh) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Glad We Met](https://open.spotify.com/album/7kQ4DFN3bluZbWJ6LK75I6) | 4:47 |
 
 Snapshot ID: `AAAAAEv4jUvKplv/HUJPJCbiq2ZN+cwD`

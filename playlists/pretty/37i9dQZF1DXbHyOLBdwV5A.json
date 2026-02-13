@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 132022,
+  "num_followers": 132042,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 147840,
       "name": "N\u00e3o Sou Merecedor",
       "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -795,6 +795,26 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
+        "name": "Voc\u00ea Me Amou",
+        "url": "https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9bora Ulhoa",
+          "url": "https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Voc\u00ea Me Amou",
+      "url": "https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
         "name": "Controle",
         "url": "https://open.spotify.com/album/7yIjFPYmKWBQFjjGEP9BKx"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 129836,
       "name": "A Vida \u00c9 Boa - Remix",
       "url": "https://open.spotify.com/track/6dMhYMlH4dmeklYm04a6DU"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
-        "name": "Voc\u00ea Me Amou",
-        "url": "https://open.spotify.com/album/4h29dNFAppnSIFqZ83P5ZK"
-      },
-      "artists": [
-        {
-          "name": "D\u00e9bora Ulhoa",
-          "url": "https://open.spotify.com/artist/0WBHp81TcpbOKldBXWTSYz"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Voc\u00ea Me Amou",
-      "url": "https://open.spotify.com/track/3Qgh8ad1gvpCMUCmimytUQ"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "O Autor",
-        "url": "https://open.spotify.com/album/50A1UrSjQM0zcLJuqEI3rr"
-      },
-      "artists": [
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Felson",
-          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "O Autor",
-      "url": "https://open.spotify.com/track/56kNz9R6DCjeoQuCrljeYy"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Impar\u00e1vel",
         "url": "https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 163125,
       "name": "Impar\u00e1vel",
       "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "O Autor",
+        "url": "https://open.spotify.com/album/50A1UrSjQM0zcLJuqEI3rr"
+      },
+      "artists": [
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Felson",
+          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "O Autor",
+      "url": "https://open.spotify.com/track/56kNz9R6DCjeoQuCrljeYy"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "O C\u00e9u \u00c9 O Meu Lugar",
-        "url": "https://open.spotify.com/album/0dgtQEwbUoiCcoWRxi6siP"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        },
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "L\u00e9o Brand\u00e3o",
-          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
-        }
-      ],
-      "duration_ms": 235840,
-      "name": "O C\u00e9u \u00c9 O Meu Lugar",
-      "url": "https://open.spotify.com/track/2BQ7Y0h3QKr9YCjCkAMoWz"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
       },
@@ -1295,6 +1271,30 @@
       "duration_ms": 156093,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "O C\u00e9u \u00c9 O Meu Lugar",
+        "url": "https://open.spotify.com/album/0dgtQEwbUoiCcoWRxi6siP"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        },
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "L\u00e9o Brand\u00e3o",
+          "url": "https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L"
+        }
+      ],
+      "duration_ms": 235840,
+      "name": "O C\u00e9u \u00c9 O Meu Lugar",
+      "url": "https://open.spotify.com/track/2BQ7Y0h3QKr9YCjCkAMoWz"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1367,30 +1367,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Deus \u00c9 Bom o Tempo Todo",
-        "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
-      },
-      "artists": [
-        {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Dec\u00e3o Renovado",
-          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
-        }
-      ],
-      "duration_ms": 160846,
-      "name": "Deus \u00c9 Bom o Tempo Todo",
-      "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Alto Pre\u00e7o",
         "url": "https://open.spotify.com/album/5ZbZZmG0c1OhpD4vyGpam8"
       },
@@ -1411,6 +1387,30 @@
       "duration_ms": 189375,
       "name": "Alto Pre\u00e7o",
       "url": "https://open.spotify.com/track/6ygbezTFylWUnp52YjceFO"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Deus \u00c9 Bom o Tempo Todo",
+        "url": "https://open.spotify.com/album/5oRhfc3iIUtusvE6Ky3gXs"
+      },
+      "artists": [
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Dec\u00e3o Renovado",
+          "url": "https://open.spotify.com/artist/6gi5uBtZ42RpArUtogrtQe"
+        }
+      ],
+      "duration_ms": 160846,
+      "name": "Deus \u00c9 Bom o Tempo Todo",
+      "url": "https://open.spotify.com/track/05ytvNmyU6F4aujecROxWg"
     },
     {
       "added_at": "2025-08-29 03:01:05",

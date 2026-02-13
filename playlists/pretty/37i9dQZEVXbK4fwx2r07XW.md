@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Australia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,525 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,556 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4fwx2r07XW.md) - [plain]
 | 49 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
 | 50 | [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 |
 
-Snapshot ID: `MR/pmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MSE7GAAAAAAAAAAAAAAAAAAAAAAAAGVu`

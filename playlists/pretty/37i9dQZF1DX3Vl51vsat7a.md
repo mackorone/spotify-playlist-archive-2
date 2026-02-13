@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: LUKAS OSCAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,545 likes - 74 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,552 likes - 74 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Whats Next](https://open.spotify.com/track/7wO5DWtpteZMuWst5lNBVN) | [LUKAS OSCAR](https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH) | [Everything’s Built To Last](https://open.spotify.com/album/17xPSt6j9Q0obY0yuINUXk) | 2:48 |
-| 2 | [schlechte tochter](https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [schlechte tochter](https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw) | 3:27 |
-| 3 | [Hannah Montana](https://open.spotify.com/track/7fidUHHPzuVuN6ECBsp2vJ) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 3:38 |
-| 4 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Wake up!](https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4) | 2:28 |
-| 5 | [LIEBE ODER PFLICHT](https://open.spotify.com/track/065HHeAU5OjYWfODBnmWrI) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [LIEBE ODER PFLICHT](https://open.spotify.com/album/60c7iOpvcauQMzC93KHxvp) | 2:19 |
-| 6 | [Speakers Blowing](https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Speakers Blowing](https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN) | 3:41 |
-| 7 | [soft prn](https://open.spotify.com/track/19KtAWkvjC37sWGIDf76CH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [soft prn](https://open.spotify.com/album/4ni9Y0IHtsDXzTqG4fPatp) | 2:25 |
-| 8 | [I Hate Love](https://open.spotify.com/track/0LeyCzaxWW6ashnoEiow37) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Hate Love](https://open.spotify.com/album/1kA1toYzXRZe6fZle3oLQH) | 3:12 |
-| 9 | [Brich mich](https://open.spotify.com/track/2r67sBB5WQWUdrVKz8sFnU) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Brich mich](https://open.spotify.com/album/3T5br6m5wsjODxas4HyLeN) | 2:45 |
-| 10 | [drüber](https://open.spotify.com/track/6Nba0kHJYsPaPZ575l2huu) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [drüber](https://open.spotify.com/album/32Iwnr4veZIN6DfBvlGjup) | 2:11 |
-| 11 | [4 am](https://open.spotify.com/track/02E8qv06f7gm7q1tontVZh) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [SEKTION 4](https://open.spotify.com/album/4l2Jz96DR1AldgAYtJVnra) | 4:11 |
-| 12 | [Bullfight](https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Bullfight](https://open.spotify.com/album/52gqdVklfKH4JFbBkAAHnY) | 3:03 |
-| 13 | [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 |
+| 2 | [Blue Light](https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Blue Light](https://open.spotify.com/album/58pqS362zuteaYeLitRL19) | 3:26 |
+| 3 | [schlechte tochter](https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [schlechte tochter](https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw) | 3:27 |
+| 4 | [Hannah Montana](https://open.spotify.com/track/7fidUHHPzuVuN6ECBsp2vJ) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 3:38 |
+| 5 | [Wake up!](https://open.spotify.com/track/2yZYMVtQ7KR1KIek1KYSAe) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Wake up!](https://open.spotify.com/album/4mxjttZLhQQMEzjOJGCoP4) | 2:28 |
+| 6 | [LIEBE ODER PFLICHT](https://open.spotify.com/track/065HHeAU5OjYWfODBnmWrI) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [LIEBE ODER PFLICHT](https://open.spotify.com/album/60c7iOpvcauQMzC93KHxvp) | 2:19 |
+| 7 | [Speakers Blowing](https://open.spotify.com/track/2qVqEzl038sc3Br5pp9b8K) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Speakers Blowing](https://open.spotify.com/album/1RmuOXWU4VmyJYFvHS9nSN) | 3:41 |
+| 8 | [soft prn](https://open.spotify.com/track/19KtAWkvjC37sWGIDf76CH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [soft prn](https://open.spotify.com/album/4ni9Y0IHtsDXzTqG4fPatp) | 2:25 |
+| 9 | [I Hate Love](https://open.spotify.com/track/0LeyCzaxWW6ashnoEiow37) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Hate Love](https://open.spotify.com/album/1kA1toYzXRZe6fZle3oLQH) | 3:12 |
+| 10 | [Brich mich](https://open.spotify.com/track/2r67sBB5WQWUdrVKz8sFnU) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Brich mich](https://open.spotify.com/album/3T5br6m5wsjODxas4HyLeN) | 2:45 |
+| 11 | [drüber](https://open.spotify.com/track/6Nba0kHJYsPaPZ575l2huu) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [drüber](https://open.spotify.com/album/32Iwnr4veZIN6DfBvlGjup) | 2:11 |
+| 12 | [4 am](https://open.spotify.com/track/02E8qv06f7gm7q1tontVZh) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [SEKTION 4](https://open.spotify.com/album/4l2Jz96DR1AldgAYtJVnra) | 4:11 |
+| 13 | [Bullfight](https://open.spotify.com/track/3xuUlrilEoyAEihQp601xU) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Bullfight](https://open.spotify.com/album/52gqdVklfKH4JFbBkAAHnY) | 3:03 |
 | 14 | [laufen wir zusammen](https://open.spotify.com/track/5d5G6tTUaZcZovudQMdW42) | [Zackavelli](https://open.spotify.com/artist/3NSdRHaVCc4BOF0sbkgvZk) | [MASI](https://open.spotify.com/album/6Oys1wD8ZKLfIxyqkMf9gp) | 1:42 |
 | 15 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 |
 | 16 | [You Won](https://open.spotify.com/track/5PXWEZsNcnhenhpICdPWRW) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [You Won](https://open.spotify.com/album/6CNDPyJnxIMKrXLC8ph3wR) | 2:45 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 73 | [A Million Heartbreak Songs](https://open.spotify.com/track/6JEVgmq5JogD90AMuXWbkI) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [A Million Heartbreak Songs](https://open.spotify.com/album/1DYm43u5XQfymDy9WuKBBj) | 3:57 |
 | 74 | [Therapiebericht](https://open.spotify.com/track/0WXHTZFTxVnXJvw2EsurNB) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [Therapiebericht](https://open.spotify.com/album/6UoOOrRPsJopQO8PKf7KbW) | 2:21 |
 
-Snapshot ID: `AAAAAJU9K57C6wpHjgv25/TjEToxxKwR`
+Snapshot ID: `AAAAAMVeIc2vrUyc6j63+Zb0c3KQfHFz`

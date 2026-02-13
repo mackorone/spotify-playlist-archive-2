@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Dynamite Shakers au top des meilleurs morceaux rock du moment.",
+  "description": "WEB au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -4214,7 +4214,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 211721,
       "name": "Man On A Mission",
       "url": "https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG"
@@ -7168,6 +7168,24 @@
       "duration_ms": 154612,
       "name": "The Night Before",
       "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
+    },
+    {
+      "album": {
+        "name": "The Old Law",
+        "url": "https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281988,
+      "name": "The Old Law",
+      "url": "https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx"
     },
     {
       "album": {

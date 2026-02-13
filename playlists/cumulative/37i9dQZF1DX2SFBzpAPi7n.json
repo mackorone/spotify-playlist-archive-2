@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \uc724\ud558 (Younha)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: WOODZ) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -2869,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/36z5yhxUByU5TZwDFNf0Wf"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "CINEMA",
+      "url": "https://open.spotify.com/track/1AO9dgVC6GL4ILlh1RpBnC"
+    },
+    {
+      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/77jgit97Awso1HWgnklOpm"
       },
@@ -5402,7 +5420,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 208306,
       "name": "Flower",
       "url": "https://open.spotify.com/track/4rvPYhCiaSqv24S4UxqFvJ"
@@ -7356,7 +7374,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "History",
       "url": "https://open.spotify.com/track/6NBoJY5N8IkkOLFTy6Yt06"
@@ -9452,6 +9470,24 @@
       "duration_ms": 241786,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/7kYbc6yiaK7OrgfE0RbXGq"
+    },
+    {
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/4WYPunihadZ0y8IRY96HZh"
+      },
+      "artists": [
+        {
+          "name": "OWALLOIL",
+          "url": "https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228340,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/3k0RmMUC0DzqKIeVF8Tpwt"
     },
     {
       "album": {
@@ -13056,7 +13092,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 216886,
       "name": "Pieces of You",
       "url": "https://open.spotify.com/track/2jpe84i9oCt3ADO87rwuKu"
@@ -14434,7 +14470,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 330934,
       "name": "Romantist",
       "url": "https://open.spotify.com/track/2O043aP6XbrMNW0N00jtGj"
@@ -14712,7 +14748,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 177142,
       "name": "sarang..",
       "url": "https://open.spotify.com/track/6ZJfNgDzD5itYTKZGj7aPy"
@@ -17543,6 +17579,24 @@
     },
     {
       "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/587W3JingOxqIqGI0FAQvZ"
+      },
+      "artists": [
+        {
+          "name": "roku",
+          "url": "https://open.spotify.com/artist/5cx5VCArG91qvnydhP3Zfl"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "There Was No One Left",
+      "url": "https://open.spotify.com/track/0qzDOoGh8TywjSv88jUDrI"
+    },
+    {
+      "album": {
         "name": "This is Beta Testing",
         "url": "https://open.spotify.com/album/4bf0FX0qrw3lYJETWgIdi5"
       },
@@ -18096,7 +18150,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 228000,
       "name": "Under Me",
       "url": "https://open.spotify.com/track/7mvXhsHK2ybmD5k9GQ1h9q"
@@ -19752,7 +19806,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 227000,
       "name": "You Are Spring",
       "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"

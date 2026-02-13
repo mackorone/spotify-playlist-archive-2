@@ -1,15 +1,39 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 92227,
+  "num_followers": 92271,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANLbP9MQM7QxWjet3G5F2nr2VWx4",
+  "snapshot_id": "AAAAAKFFaNPqZ+cPChajQeYrXLZKGNJj",
   "tracks": [
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Heavy Kickdrum",
+        "url": "https://open.spotify.com/album/2md9H6p9vC9hJpkoi0RORN"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Ricardo Moreno",
+          "url": "https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt"
+        },
+        {
+          "name": "Boogshe",
+          "url": "https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Heavy Kickdrum",
+      "url": "https://open.spotify.com/track/5FCQP1z9oNKDo0yjlZypWk"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "DOMINATION",
         "url": "https://open.spotify.com/album/0T1h0qzzDKwViptWSvQalk"
@@ -29,7 +53,31 @@
       "url": "https://open.spotify.com/track/78VeKgICcwKD49o0Hruf4X"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Gabber Ship",
+        "url": "https://open.spotify.com/album/6DyBDJQIwGKykC0QCnz3xq"
+      },
+      "artists": [
+        {
+          "name": "Lil Texas",
+          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Rave & Plunder",
+          "url": "https://open.spotify.com/artist/2hd38DvOnFUZtWDHrNt6n7"
+        }
+      ],
+      "duration_ms": 123789,
+      "name": "Gabber Ship",
+      "url": "https://open.spotify.com/track/7MAsnRKCi5wRKDkx7dQOeS"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "WHAT THA HELLY (SOMEONE CALL THE AMBULANCE)",
         "url": "https://open.spotify.com/album/5nKOeJM9R1jMkJHUAuyWgf"
@@ -53,7 +101,7 @@
       "url": "https://open.spotify.com/track/1QIBLPZqpqETKtuMLpHAN4"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "The Last Airbender (VIP)",
         "url": "https://open.spotify.com/album/020oO7QSGs7zx64ryNe67n"
@@ -69,7 +117,7 @@
       "url": "https://open.spotify.com/track/2UkJVFIbRG9FyqHG4E3Dje"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Gathering Of Gods",
         "url": "https://open.spotify.com/album/0XhaJpk3HzfsI1Y7XzSou4"
@@ -85,7 +133,7 @@
       "url": "https://open.spotify.com/track/1V3nY66kSpmOdNXjs7LNjA"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "RECKLESS",
         "url": "https://open.spotify.com/album/2gWiPWgY15f84iCo3LP4CE"
@@ -105,7 +153,7 @@
       "url": "https://open.spotify.com/track/5JeMxnOJoVRRCupHZTLXEw"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "FA TI CO",
         "url": "https://open.spotify.com/album/1iEjMRxdKdHXA5Xw1svSO9"
@@ -125,7 +173,7 @@
       "url": "https://open.spotify.com/track/6Rjx2o141BbWJGh3hj9bDP"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Dark Smile",
         "url": "https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc"
@@ -145,7 +193,7 @@
       "url": "https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Get Wrecked 2024 Tool (Dimitri K Remix)",
         "url": "https://open.spotify.com/album/1rnD7VreKY4ox2NPKDeGNo"
@@ -165,7 +213,7 @@
       "url": "https://open.spotify.com/track/5tMFR1V777V8IdkVVuiV7d"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "PSSY MTHRFCKRZ (Chaos Project & Sakyra Remix)",
         "url": "https://open.spotify.com/album/7j1R300leutDGel6DS2Jxc"
@@ -193,7 +241,7 @@
       "url": "https://open.spotify.com/track/6wFYX9fvq5uWbcixgRxRUz"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Trip to Old England",
         "url": "https://open.spotify.com/album/4Ft8Qec0gFlRqSCxz7HBpD"
@@ -213,7 +261,27 @@
       "url": "https://open.spotify.com/track/67voX5W8YldLsbORcWDcHf"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Pennywise (Deadly Guns Remix)",
+        "url": "https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Pennywise - Deadly Guns Remix",
+      "url": "https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Una Hora M\u00e1s (Dimitri K & The Dark Horror Remix)",
         "url": "https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL"
@@ -237,7 +305,7 @@
       "url": "https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Bass Go Boom",
         "url": "https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk"
@@ -257,27 +325,7 @@
       "url": "https://open.spotify.com/track/7Iy0uVPtplh8WsntcIXP0J"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "Pennywise (Deadly Guns Remix)",
-        "url": "https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Pennywise - Deadly Guns Remix",
-      "url": "https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Round My Mind",
         "url": "https://open.spotify.com/album/2jW0vRxCDQkL1o9js2JUeI"
@@ -293,27 +341,7 @@
       "url": "https://open.spotify.com/track/4j8CfFD1QzZrQqm0srghvN"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "Kick Train",
-        "url": "https://open.spotify.com/album/4V2pEdpdqcX2mjgj1CUiv1"
-      },
-      "artists": [
-        {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
-        },
-        {
-          "name": "The Dope Doctor",
-          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Kick Train",
-      "url": "https://open.spotify.com/track/7GKvhhQfOGUNqT1AvVigEJ"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Dynamite (2025 OST)",
         "url": "https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ"
@@ -337,7 +365,27 @@
       "url": "https://open.spotify.com/track/2gl1NQubq0fUi8bgEtPHFK"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Kick Train",
+        "url": "https://open.spotify.com/album/4V2pEdpdqcX2mjgj1CUiv1"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "The Dope Doctor",
+          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Kick Train",
+      "url": "https://open.spotify.com/track/7GKvhhQfOGUNqT1AvVigEJ"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Midnight Rain",
         "url": "https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO"
@@ -353,47 +401,7 @@
       "url": "https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "Noise Tempo",
-        "url": "https://open.spotify.com/album/2NT3CpZhBkuEhHF3OdQyCl"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        },
-        {
-          "name": "Noiseflow",
-          "url": "https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3"
-        }
-      ],
-      "duration_ms": 154833,
-      "name": "Noise Tempo",
-      "url": "https://open.spotify.com/track/3enXqcSAVAKpO6ACvEAB6J"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "Trip to Italia",
-        "url": "https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        },
-        {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        }
-      ],
-      "duration_ms": 214200,
-      "name": "Trip to Italia",
-      "url": "https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Uptempo Airlines",
         "url": "https://open.spotify.com/album/6odpg6tRWQ9ZzJA8jT1tuP"
@@ -413,7 +421,7 @@
       "url": "https://open.spotify.com/track/1nk67tv0nCtBkjYJ5Oa2km"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Major Bounce",
         "url": "https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB"
@@ -429,7 +437,43 @@
       "url": "https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Trip to Italia",
+        "url": "https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        },
+        {
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        }
+      ],
+      "duration_ms": 214200,
+      "name": "Trip to Italia",
+      "url": "https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Hate Destroyer",
+        "url": "https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Hate Destroyer",
+      "url": "https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Burn Out",
         "url": "https://open.spotify.com/album/0qTZSwiA8pCbsKxbWOSE7w"
@@ -453,7 +497,7 @@
       "url": "https://open.spotify.com/track/1nN8uMR9h1pk6wvXYuLG5R"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "The FOMO",
         "url": "https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx"
@@ -477,39 +521,7 @@
       "url": "https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "Hate Destroyer",
-        "url": "https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb"
-      },
-      "artists": [
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Hate Destroyer",
-      "url": "https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "The Nightmare Man",
-        "url": "https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "The Nightmare Man",
-      "url": "https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Highs In My Dreams",
         "url": "https://open.spotify.com/album/6cmDJ0zrIcYjhre3Z3In2v"
@@ -529,7 +541,23 @@
       "url": "https://open.spotify.com/track/3t2qOSDPQYkNrkdDpEIFFx"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "The Nightmare Man",
+        "url": "https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "The Nightmare Man",
+      "url": "https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Remember The Name",
         "url": "https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv"
@@ -549,7 +577,7 @@
       "url": "https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Hard Gaan",
         "url": "https://open.spotify.com/album/3mDB4gb0h3k7qn7wNhDIRZ"
@@ -573,7 +601,7 @@
       "url": "https://open.spotify.com/track/7nlpaMQJiyWbRDjUijhS4y"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Oh My (Dimitri K Remix)",
         "url": "https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF"
@@ -597,7 +625,7 @@
       "url": "https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Jackpot Killah",
         "url": "https://open.spotify.com/album/0ZQhWfxL3wxl5Acu2SPDz0"
@@ -617,7 +645,7 @@
       "url": "https://open.spotify.com/track/09iyKXX1dreXl6FYwbMbe7"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "CHUCKY",
         "url": "https://open.spotify.com/album/1anIjBMlI6h1uSvTj2tiGO"
@@ -641,7 +669,7 @@
       "url": "https://open.spotify.com/track/22kteI2xVP12pKh6djmqHP"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "WE DONT PLAY",
         "url": "https://open.spotify.com/album/47g3muCTnVTUgBtaE3uxau"
@@ -661,31 +689,7 @@
       "url": "https://open.spotify.com/track/3hzb7yFb33bHzEXn3Cc8wm"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) (Satirized & Noxiouz Remix)",
-        "url": "https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5"
-      },
-      "artists": [
-        {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
-        },
-        {
-          "name": "Satirized",
-          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
-        },
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) - Satirized & Noxiouz Remix",
-      "url": "https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Temple Of Resonance (Official Masters Of Hardcore 2025 Anthem)",
         "url": "https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG"
@@ -709,7 +713,31 @@
       "url": "https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) (Satirized & Noxiouz Remix)",
+        "url": "https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "Satirized",
+          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
+        },
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) - Satirized & Noxiouz Remix",
+      "url": "https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Blast Your Stereo",
         "url": "https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE"
@@ -729,7 +757,7 @@
       "url": "https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Ratata",
         "url": "https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM"
@@ -749,7 +777,7 @@
       "url": "https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Pump It Louder",
         "url": "https://open.spotify.com/album/4hgjSIdFbl05XOz92eDajm"
@@ -765,35 +793,7 @@
       "url": "https://open.spotify.com/track/5Ce7LJHEbM61h32K6uNWVr"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "Nothing To Lose",
-        "url": "https://open.spotify.com/album/3ewty6LCE4HpJZMG2YH11I"
-      },
-      "artists": [
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        },
-        {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
-        },
-        {
-          "name": "Satirized",
-          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
-        },
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        }
-      ],
-      "duration_ms": 173055,
-      "name": "Nothing To Lose",
-      "url": "https://open.spotify.com/track/21CDpIjfYr1FoSA6ulbNTJ"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Lead By Example (Official Dominator 2025 Anthem)",
         "url": "https://open.spotify.com/album/3UE8VxwYfYVFuGTKZRJkX0"
@@ -825,39 +825,35 @@
       "url": "https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
-        "name": "Let Them Eat Steel",
-        "url": "https://open.spotify.com/album/1iMpepHfigGIoDVdf8H5El"
+        "name": "Nothing To Lose",
+        "url": "https://open.spotify.com/album/3ewty6LCE4HpJZMG2YH11I"
       },
       "artists": [
         {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        }
-      ],
-      "duration_ms": 135139,
-      "name": "Let Them Eat Steel",
-      "url": "https://open.spotify.com/track/0wjpdQ3zbmjAEkyGHm0d3I"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "Voice Of The Underground",
-        "url": "https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2"
-      },
-      "artists": [
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        },
         {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Satirized",
+          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
+        },
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
         }
       ],
-      "duration_ms": 175113,
-      "name": "Voice Of The Underground",
-      "url": "https://open.spotify.com/track/0qDh203qtw06cri10ahfjj"
+      "duration_ms": 173055,
+      "name": "Nothing To Lose",
+      "url": "https://open.spotify.com/track/21CDpIjfYr1FoSA6ulbNTJ"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "BASS CANNON",
         "url": "https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD"
@@ -881,7 +877,23 @@
       "url": "https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Let Them Eat Steel",
+        "url": "https://open.spotify.com/album/1iMpepHfigGIoDVdf8H5El"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "duration_ms": 135139,
+      "name": "Let Them Eat Steel",
+      "url": "https://open.spotify.com/track/0wjpdQ3zbmjAEkyGHm0d3I"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "The End",
         "url": "https://open.spotify.com/album/1WyfmLkloGkMcrFke9UIej"
@@ -901,23 +913,7 @@
       "url": "https://open.spotify.com/track/4jpAxGPufc1MqjgzcLKbMu"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
-      "album": {
-        "name": "Holy Calamity",
-        "url": "https://open.spotify.com/album/5mwT15uedaCd2Q46Sokapj"
-      },
-      "artists": [
-        {
-          "name": "Lil Texas",
-          "url": "https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Holy Calamity",
-      "url": "https://open.spotify.com/track/6HoXL0kFn6H99viqiREro4"
-    },
-    {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Paint It Black",
         "url": "https://open.spotify.com/album/1cV57IymcPP6bXxvpRbdBp"
@@ -937,7 +933,7 @@
       "url": "https://open.spotify.com/track/4IquRZr4tENZfBNKyVaxOP"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Bass Face",
         "url": "https://open.spotify.com/album/3ZFaGpH7Sr8H6yzEniHXyA"
@@ -957,7 +953,23 @@
       "url": "https://open.spotify.com/track/06XJ9v73E7LE0JVPpl4YTG"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
+      "album": {
+        "name": "Voice Of The Underground",
+        "url": "https://open.spotify.com/album/34vRJtRpAWX0RWw5y9rWL2"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        }
+      ],
+      "duration_ms": 175113,
+      "name": "Voice Of The Underground",
+      "url": "https://open.spotify.com/track/0qDh203qtw06cri10ahfjj"
+    },
+    {
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "BACK2BASICS",
         "url": "https://open.spotify.com/album/4MlYS0zYSUesAdtxsl3BmR"
@@ -981,7 +993,7 @@
       "url": "https://open.spotify.com/track/5cAx1zeOh4fWTLUafY8mmE"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Run 4 Your Life",
         "url": "https://open.spotify.com/album/4r7nj19kZAO5GaiXXFNtew"
@@ -997,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3whJILCwMY1kfqs4jTTJeY"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Lose My Mind",
         "url": "https://open.spotify.com/album/4UF6qSC18AqriGnQ8b7MDj"
@@ -1017,7 +1029,7 @@
       "url": "https://open.spotify.com/track/2qRmPYK0ZJRz8FFogvmYto"
     },
     {
-      "added_at": "2026-01-30 12:07:15",
+      "added_at": "2026-02-12 23:00:23",
       "album": {
         "name": "Locked & Loaded EP",
         "url": "https://open.spotify.com/album/6Ze9U69rsUgglX584FE2uY"

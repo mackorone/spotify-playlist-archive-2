@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-718 songs - 2 day 13 hr 1 min
+719 songs - 2 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,7 +611,7 @@
 | [The Benediction](https://open.spotify.com/track/636EGinKoOcTZc5pTKrFxs) | [Theo Milford](https://open.spotify.com/artist/2WrkrqaMQZTXpMMGvxWrTD), [Jasmine Jacobs](https://open.spotify.com/artist/7e63Fo8teAVzN3xIFBEHN7) | [The Benediction](https://open.spotify.com/album/3Gyr517Hwqq9kZDVIt437D) | 4:07 | 2025-05-30 | 2025-07-19 |
 | [The Darkest Light](https://open.spotify.com/track/3XozpvZljkeLZ2EwyS08nb) | [MATTHEWS](https://open.spotify.com/artist/6axjcGbkcunMPd8fOZCiDw) | [The Darkest Light](https://open.spotify.com/album/13CZP5zWkQ4UmoXLk25DqT) | 3:34 | 2025-12-05 | 2026-02-02 |
 | [The Doing of the Lord](https://open.spotify.com/track/5rJx41aTuXzjOLaVbbATVf) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Doing of the Lord](https://open.spotify.com/album/3b2xKWpD5g4Z68HDLO8nnh) | 4:46 | 2024-01-26 | 2025-06-13 |
-| [The Entrance Procession \- Live](https://open.spotify.com/track/799Lwti2ygmoiEDC20Uo16) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [Ohemgee Faaji Friday 7.0 \(Live\)](https://open.spotify.com/album/3GikYzajSso0DDMrze0DEi) | 9:20 | 2025-08-08 |  |
+| [The Entrance Procession \- Live](https://open.spotify.com/track/799Lwti2ygmoiEDC20Uo16) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [Ohemgee Faaji Friday 7.0 \(Live\)](https://open.spotify.com/album/3GikYzajSso0DDMrze0DEi) | 9:20 | 2025-08-08 | 2026-02-13 |
 | [The Glory \- Live](https://open.spotify.com/track/65pqBHFVIpW025dqKPs7ui) | [Grace Oluwaloju](https://open.spotify.com/artist/6NInTLdGUMFQHAaFnpUo9Y), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [The Glory \(Live\)](https://open.spotify.com/album/2vzD3ednExidHSAFepr7PG) | 9:43 | 2025-08-22 | 2025-10-03 |
 | [The Great Romance](https://open.spotify.com/track/5FWnDevRoFJVdXlfITYhX4) | [Eri Ife](https://open.spotify.com/artist/73HQr5WapR3nN1hP2ZTDJg) | [Centre\(d\)](https://open.spotify.com/album/1n8WZO8hiBkVAOQnvIjuwo) | 3:58 | 2024-02-16 | 2024-04-05 |
 | [The Ground We Stand On](https://open.spotify.com/track/1iSVjVNGUwNDT8mFfqBMr5) | [Mahalia Buchanan](https://open.spotify.com/artist/77Usu1sGRDkXT40F6f14XC) | [The Ground We Stand On](https://open.spotify.com/album/4tGQvwzNZijg7RPx2qRWQr) | 8:32 | 2024-01-12 | 2024-03-26 |
@@ -666,6 +666,7 @@
 | [We Bow Down](https://open.spotify.com/track/0IkGmBCu8f9m9K4gOtGQRI) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [We Bow Down](https://open.spotify.com/album/1DpLBJNOvTDBSFosEhYAKA) | 9:00 | 2024-03-30 | 2025-06-06 |
 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 | 2024-10-11 |  |
 | [We Outside](https://open.spotify.com/track/3uGMVZsnoP9UZliJ2kDwtf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [We Outside](https://open.spotify.com/album/4RmmwLWxkxihUhOFlFJQ0h) | 2:47 | 2025-08-01 |  |
+| [We Pray](https://open.spotify.com/track/782yvAXARMNYwa6UYUNT0F) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Ruthie Namaganda](https://open.spotify.com/artist/2SPhsCFGKEMyOHfk5FWBc4), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [We Pray \(See a Miracle\)](https://open.spotify.com/album/3cmnxmwsuSQDPsWpvEsBoS) | 3:15 | 2026-02-13 |  |
 | [We Prevail](https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [We Prevail](https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g) | 3:44 | 2024-03-01 | 2025-06-20 |
 | [We Want More](https://open.spotify.com/track/4DosoX2PHIxHN3xVsfJ9kW) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [We Want More](https://open.spotify.com/album/52bQsCSXJyPE4WBxVSMFEe) | 4:56 | 2025-12-26 |  |
 | [Welcome Home](https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Welcome Home](https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e) | 2:22 | 2025-06-27 | 2025-10-03 |

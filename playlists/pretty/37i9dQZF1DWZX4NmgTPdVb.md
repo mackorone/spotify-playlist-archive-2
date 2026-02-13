@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 
 > The songs of the 1970s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,269 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,353 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 21 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 5:54 |
 | 22 | [Dancing in the Moonlight](https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU) | [King Harvest](https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y) | [Dancing in the Moonlight](https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA) | 3:01 |
 | 23 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 |
-| 24 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
-| 25 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
+| 24 | [Long Train Runnin'](https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [The Captain and Me](https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt) | 3:27 |
+| 25 | [Born to Be Alive \- The Original](https://open.spotify.com/track/3XIEWK1V9n25PS9Vb6axj5) | [Patrick Hernandez](https://open.spotify.com/artist/1CcEgi464SWZsKY5579u7z) | [Born to Be Alive \(The Original\)](https://open.spotify.com/album/0kVK9lFFTzhnEb4ETElbCD) | 3:08 |
 | 26 | [Superstition \- Single Version](https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq) | 4:05 |
 | 27 | [The Joker](https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [The Joker](https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr) | 4:24 |
 | 28 | [It's Too Late](https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:53 |
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 39 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
 | 40 | [I Just Want To Be Your Everything](https://open.spotify.com/track/5EdlwzcgIAYs2HGvOnczPN) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Flowing Rivers](https://open.spotify.com/album/3yBKvLLgqZfNTNtoUnq0Uf) | 3:45 |
 | 41 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 |
-| 42 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
-| 43 | [Get It On](https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:22 |
-| 44 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
+| 42 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
+| 43 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
+| 44 | [Get It On](https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:22 |
 | 45 | [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 |
-| 46 | [Grease \- 2007 Remaster](https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Frankie Valli...Is The Word](https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc) | 3:27 |
-| 47 | [Get Down On It \- Single Version](https://open.spotify.com/track/4yKZACkuudvfd600H2dQie) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:32 |
+| 46 | [Get Down On It \- Single Version](https://open.spotify.com/track/4yKZACkuudvfd600H2dQie) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The Very Best Of Kool & The Gang](https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf) | 3:32 |
+| 47 | [Grease \- 2007 Remaster](https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [Frankie Valli...Is The Word](https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc) | 3:27 |
 | 48 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
 | 49 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
 | 50 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZX4NmgTPdVb.md) - [plain]
 | 71 | [Black Betty](https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4) | [Ram Jam](https://open.spotify.com/artist/6FITmSxIMsk6TfulFiCIIz) | [The Very Best Of Ram Jam](https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr) | 3:57 |
 | 72 | [Kodachrome](https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:35 |
 | 73 | [I Want You to Want Me](https://open.spotify.com/track/1JkZg3eMQTmTn93E8Yd3UL) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [In Color](https://open.spotify.com/album/2sXJQdHykPYcRQ7xFhwzMR) | 3:11 |
-| 74 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
-| 75 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
+| 74 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
+| 75 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
 
 Snapshot ID: `AAAAAKanNaWfY+8QzxYyzYPjNHDS56Td`

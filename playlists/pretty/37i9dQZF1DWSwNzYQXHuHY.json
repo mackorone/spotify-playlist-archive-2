@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 11888,
+  "num_followers": 11922,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-02-10 05:29:01",
       "album": {
-        "name": "Paint on Spring",
-        "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
-        }
-      ],
-      "duration_ms": 232653,
-      "name": "Paint on Spring",
-      "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
-    },
-    {
-      "added_at": "2026-02-10 05:29:01",
-      "album": {
         "name": "A-TEEN Part. 2",
         "url": "https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J"
       },
@@ -431,6 +415,42 @@
       "duration_ms": 204942,
       "name": "I'II be your star",
       "url": "https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU"
+    },
+    {
+      "added_at": "2026-02-10 05:29:01",
+      "album": {
+        "name": "Message (with Gist)",
+        "url": "https://open.spotify.com/album/3yUzjFo7J9UHdxUeYrkpeW"
+      },
+      "artists": [
+        {
+          "name": "Suen",
+          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Message (with Gist)",
+      "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
+    },
+    {
+      "added_at": "2026-02-10 05:29:01",
+      "album": {
+        "name": "Paint on Spring",
+        "url": "https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "Paint on Spring",
+      "url": "https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v"
     },
     {
       "added_at": "2026-02-10 05:29:01",
@@ -467,26 +487,6 @@
       "duration_ms": 227506,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
-    },
-    {
-      "added_at": "2026-02-10 05:29:01",
-      "album": {
-        "name": "Message (with Gist)",
-        "url": "https://open.spotify.com/album/3yUzjFo7J9UHdxUeYrkpeW"
-      },
-      "artists": [
-        {
-          "name": "Suen",
-          "url": "https://open.spotify.com/artist/6eaZmfhIThboEez0pzz7Vi"
-        },
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Message (with Gist)",
-      "url": "https://open.spotify.com/track/5qYfMMCvenoDhXp6upn3iL"
     },
     {
       "added_at": "2026-02-10 05:29:01",

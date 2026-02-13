@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 ### [Just Good Music](https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp)
 
-> Recent hits and new songs from your fave artists\. Cover: Jessie Ware
+> Recent hits and new songs from your fave artists\. Cover: ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,225 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,250 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 74 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
 | 75 | [Dancing in the Smoke \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/4IMtvPPuBjtkWoMqlOwqYL) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dancing in the Smoke \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/1PVCrr31njtNL2Hj4x9GSK) | 3:42 |
 
-Snapshot ID: `AAAAAD+bbj0873WKODIp/HO6Ta7YTGRk`
+Snapshot ID: `AAAAAMx+1RWjkEz9wjUk3RAz0hjW9tfI`

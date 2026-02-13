@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Madeon \\m/",
-  "num_followers": 347828,
+  "num_followers": 347849,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-02-07 21:18:55",
       "album": {
-        "name": "Save The Cat",
-        "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 172404,
-      "name": "Save The Cat",
-      "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
-    },
-    {
-      "added_at": "2026-02-07 21:18:55",
-      "album": {
         "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
         "url": "https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 230400,
       "name": "You Can't Break Me (feat. Brandon Saller of Atreyu)",
       "url": "https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ"
+    },
+    {
+      "added_at": "2026-02-07 21:18:55",
+      "album": {
+        "name": "Save The Cat",
+        "url": "https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 172404,
+      "name": "Save The Cat",
+      "url": "https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9"
     },
     {
       "added_at": "2026-02-07 21:18:55",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2026-02-07 21:18:55",
       "album": {
+        "name": "The Beginning",
+        "url": "https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "duration_ms": 251034,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc"
+    },
+    {
+      "added_at": "2026-02-07 21:18:55",
+      "album": {
         "name": "IT'S NOT A PHASE",
         "url": "https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w"
       },
@@ -1943,22 +1959,6 @@
     {
       "added_at": "2026-02-07 21:18:55",
       "album": {
-        "name": "The Beginning",
-        "url": "https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        }
-      ],
-      "duration_ms": 251034,
-      "name": "The Beginning",
-      "url": "https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc"
-    },
-    {
-      "added_at": "2026-02-07 21:18:55",
-      "album": {
         "name": "Run Rabbit",
         "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
       },
@@ -1971,26 +1971,6 @@
       "duration_ms": 186822,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N"
-    },
-    {
-      "added_at": "2026-02-07 21:18:55",
-      "album": {
-        "name": "Sugar, We're Goin Down",
-        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Social Repose",
-          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
-        }
-      ],
-      "duration_ms": 209210,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
     },
     {
       "added_at": "2026-02-07 21:18:55",
@@ -2011,6 +1991,26 @@
       "duration_ms": 166971,
       "name": "Ghost Story (with All Time Low)",
       "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
+    },
+    {
+      "added_at": "2026-02-07 21:18:55",
+      "album": {
+        "name": "Sugar, We're Goin Down",
+        "url": "https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Social Repose",
+          "url": "https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy"
+        }
+      ],
+      "duration_ms": 209210,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR"
     },
     {
       "added_at": "2026-02-07 21:18:55",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2026-02-07 21:18:55",
       "album": {
-        "name": "Take It Back",
-        "url": "https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td"
-      },
-      "artists": [
-        {
-          "name": "Fairlane",
-          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
-        },
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Take It Back",
-      "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
-    },
-    {
-      "added_at": "2026-02-07 21:18:55",
-      "album": {
         "name": "Limerence (feat. Cassyette)",
         "url": "https://open.spotify.com/album/3V0JV9tIqggFbt34ARp5rT"
       },
@@ -2119,6 +2099,26 @@
       "duration_ms": 248275,
       "name": "\u2060Limerence (feat. Cassyette)",
       "url": "https://open.spotify.com/track/6JbDiWvUaNBRPTF06YJR5j"
+    },
+    {
+      "added_at": "2026-02-07 21:18:55",
+      "album": {
+        "name": "Take It Back",
+        "url": "https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Take It Back",
+      "url": "https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr"
     },
     {
       "added_at": "2026-02-07 21:18:55",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2026-02-07 21:18:55",
       "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+    },
+    {
+      "added_at": "2026-02-07 21:18:55",
+      "album": {
         "name": "Buried Beneath You",
         "url": "https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU"
       },
@@ -2231,42 +2247,6 @@
     {
       "added_at": "2026-02-07 21:18:55",
       "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
-      },
-      "artists": [
-        {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
-    },
-    {
-      "added_at": "2026-02-07 21:18:55",
-      "album": {
-        "name": "Broken String",
-        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
-      },
-      "artists": [
-        {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
-        },
-        {
-          "name": "Shiah Maisel",
-          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Gotta Leave",
-      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
-    },
-    {
-      "added_at": "2026-02-07 21:18:55",
-      "album": {
         "name": "When You & Me Dance",
         "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
       },
@@ -2279,6 +2259,22 @@
       "duration_ms": 221142,
       "name": "When You & Me Dance",
       "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
+    },
+    {
+      "added_at": "2026-02-07 21:18:55",
+      "album": {
+        "name": "Being One",
+        "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Being One",
+      "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
     },
     {
       "added_at": "2026-02-07 21:18:55",
@@ -2303,22 +2299,6 @@
     {
       "added_at": "2026-02-07 21:18:55",
       "album": {
-        "name": "Being One",
-        "url": "https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt"
-      },
-      "artists": [
-        {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Being One",
-      "url": "https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W"
-    },
-    {
-      "added_at": "2026-02-07 21:18:55",
-      "album": {
         "name": "RAVEN",
         "url": "https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS"
       },
@@ -2339,6 +2319,26 @@
     {
       "added_at": "2026-02-07 21:18:55",
       "album": {
+        "name": "Broken String",
+        "url": "https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Gotta Leave",
+      "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
+    },
+    {
+      "added_at": "2026-02-07 21:18:55",
+      "album": {
         "name": "WARNING",
         "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
       },
@@ -2351,26 +2351,6 @@
       "duration_ms": 193103,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
-    },
-    {
-      "added_at": "2026-02-07 21:18:55",
-      "album": {
-        "name": "FEEL THE RAGE",
-        "url": "https://open.spotify.com/album/0GCSrc22Kdti0WbJWGET7p"
-      },
-      "artists": [
-        {
-          "name": "SNAILS",
-          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
-        },
-        {
-          "name": "Uncured",
-          "url": "https://open.spotify.com/artist/6YicvYF7Qo1FxNt903gAMh"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "FEEL THE RAGE",
-      "url": "https://open.spotify.com/track/1oiWd6ShFvTmp8IXwcfpwz"
     },
     {
       "added_at": "2026-02-07 21:18:55",
@@ -2391,6 +2371,26 @@
       "duration_ms": 246193,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/25ED1oQWMy32cQh9Dv9BjC"
+    },
+    {
+      "added_at": "2026-02-07 21:18:55",
+      "album": {
+        "name": "FEEL THE RAGE",
+        "url": "https://open.spotify.com/album/0GCSrc22Kdti0WbJWGET7p"
+      },
+      "artists": [
+        {
+          "name": "SNAILS",
+          "url": "https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6"
+        },
+        {
+          "name": "Uncured",
+          "url": "https://open.spotify.com/artist/6YicvYF7Qo1FxNt903gAMh"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "FEEL THE RAGE",
+      "url": "https://open.spotify.com/track/1oiWd6ShFvTmp8IXwcfpwz"
     },
     {
       "added_at": "2026-02-07 21:18:55",
@@ -2467,18 +2467,18 @@
     {
       "added_at": "2026-02-07 21:18:55",
       "album": {
-        "name": "Get To U",
-        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
+        "name": "Enemy Brain Entertainment Suite",
+        "url": "https://open.spotify.com/album/1wOfvS8Y6lJbwmyGnjvW1b"
       },
       "artists": [
         {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
         }
       ],
-      "duration_ms": 176008,
-      "name": "Get To U",
-      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
+      "duration_ms": 251511,
+      "name": "Enemy Brain",
+      "url": "https://open.spotify.com/track/0Ut7NNgAIlY9RGeXIvNfXF"
     }
   ],
   "unique_name": "Rocktronic",

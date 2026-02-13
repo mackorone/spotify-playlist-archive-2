@@ -1,12 +1,12 @@
 {
   "description": "This is J. Cole. The essential tracks, all in one playlist.",
-  "num_followers": 935590,
+  "num_followers": 935707,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAC9485A/iN4H4Ti0Maemua0",
+  "snapshot_id": "aYvGgAAAAADGAv0ib0fLyhTcHQpOKufg",
   "tracks": [
     {
       "added_at": null,
@@ -147,18 +147,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
       },
       "artists": [
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
         }
       ],
-      "duration_ms": 162026,
-      "name": "Huntin\u2019 Wabbitz",
-      "url": "https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU"
+      "duration_ms": 225960,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3mTpegrOwRn0oJjv4TSbEE"
     },
     {
       "added_at": null,
@@ -199,22 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
       },
       "artists": [
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
         }
       ],
-      "duration_ms": 225960,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3mTpegrOwRn0oJjv4TSbEE"
+      "duration_ms": 162026,
+      "name": "Huntin\u2019 Wabbitz",
+      "url": "https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU"
     },
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Nobody's Perfect",
-      "url": "https://open.spotify.com/track/6Nw1WHydftZy2joT2nTiCR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 296520,
       "name": "She Knows (feat. Amber Coffman & Cults)",
       "url": "https://open.spotify.com/track/0Fs9cdPDhptWEDJmiCbkEW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/6Nw1WHydftZy2joT2nTiCR"
     },
     {
       "added_at": null,
@@ -499,42 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "cLOUDs",
-        "url": "https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 242086,
-      "name": "cLOUDs",
-      "url": "https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -555,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
       },
       "artists": [
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 301064,
-      "name": "G.O.M.D",
-      "url": "https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp"
+      "duration_ms": 234386,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl"
     },
     {
       "added_at": null,
@@ -587,6 +555,38 @@
       "duration_ms": 225000,
       "name": "Johnny P's Caddy",
       "url": "https://open.spotify.com/track/59ClUavkkfRhryajZBn2Lf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "cLOUDs",
+        "url": "https://open.spotify.com/album/4UbmhAK4sQ7FCNk9jr9Gex"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 242086,
+      "name": "cLOUDs",
+      "url": "https://open.spotify.com/track/53WWD2BBC6Jcip8wy5CniE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 301064,
+      "name": "G.O.M.D",
+      "url": "https://open.spotify.com/track/0Thqjtu54vKMP06pwZkAWp"
     },
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 218210,
-      "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
-      "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 202040,
       "name": "Under The Sun (with J. Cole & Lute feat. DaBaby)",
       "url": "https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 218210,
+      "name": "p r i d e . i s . t h e . d e v i l (with Lil Baby)",
+      "url": "https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Port Antonio",
+        "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 316235,
+      "name": "Port Antonio",
+      "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Late Nights: The Album",
         "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 240320,
       "name": "Planez",
       "url": "https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Port Antonio",
-        "url": "https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 316235,
-      "name": "Port Antonio",
-      "url": "https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cole World: The Sideline Story",
-        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 208160,
-      "name": "Lights Please",
-      "url": "https://open.spotify.com/track/6sZv0ECT8cEW3oZtoCuVg4"
+      "duration_ms": 276093,
+      "name": "Rich Niggaz",
+      "url": "https://open.spotify.com/track/6lKCaafKm88sVfYz2u7S4B"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 276093,
-      "name": "Rich Niggaz",
-      "url": "https://open.spotify.com/track/6lKCaafKm88sVfYz2u7S4B"
+      "duration_ms": 208160,
+      "name": "Lights Please",
+      "url": "https://open.spotify.com/track/6sZv0ECT8cEW3oZtoCuVg4"
     }
   ],
   "unique_name": "This Is J. Cole",

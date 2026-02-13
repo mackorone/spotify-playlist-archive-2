@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-251 songs - 13 hr 57 min
+252 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bad Habits \(Slowed + Reverb\)](https://open.spotify.com/track/3pYvs3jAA5APaB5cax7eXr) | [Solstice](https://open.spotify.com/artist/0jowzILNRrPmfpajO2iWmz) | [Villains \(Slowed + Reverb\)](https://open.spotify.com/album/6FZKyNYrKmICp07GkFjsAx) | 3:07 | 2021-10-01 | 2023-12-09 |
 | [bad habits \- slowed + reverb](https://open.spotify.com/track/3fhixDZJY3oAlO5ByIyoeM) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Sarvanss](https://open.spotify.com/artist/4Egfyrp2hMmpjgUbABbyof), [Chappo](https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz) | [bad habits \(slowed + reverb\)](https://open.spotify.com/album/1E84p5XusaeDnAK0RGzLXl) | 3:07 | 2023-09-21 | 2023-10-11 |
 | [Bad Habits \- slowed + reverb](https://open.spotify.com/track/3XMA9wnsUcfHw0cPUye5Rm) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Bad Habits](https://open.spotify.com/album/4RRWSD4q8OKju452y80gGv) | 3:11 | 2022-05-06 | 2022-05-18 |
-| [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 | 2023-12-08 |  |
+| [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 | 2023-12-08 | 2026-02-13 |
 | [Bananza \(Belly Dancer\) \- Slowed](https://open.spotify.com/track/5lEx9Oo3tMyP85ppH43Uar) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Bananza \(Belly Dancer\) \[Remixes\]](https://open.spotify.com/album/4oMLAtWY28kQydDGxnrZxj) | 2:33 | 2022-01-28 | 2023-12-09 |
 | [BASSLINE \- SLOWED](https://open.spotify.com/track/3KpuvLHfzkUl2T7ARb5SUP) | [PXRKX](https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4), [Shadow \- Plus](https://open.spotify.com/artist/6LYUNVm4A6yGEYYxmaOSsc) | [BASSLINE](https://open.spotify.com/album/7AmJYPuvIFdqLKcnhtIfNK) | 2:10 | 2024-05-24 | 2024-08-15 |
 | [beauty bomb \(slowed + reverbed\)](https://open.spotify.com/track/53NzMfJ0LsqG4myQp28ETk) | [blyden](https://open.spotify.com/artist/12WLoG3DW0U7FXw62FZeZ9) | [beauty bomb \(slowed + reverbed\)](https://open.spotify.com/album/2x3qHX6OXT0HC7WFX6MjpA) | 1:00 | 2022-01-05 | 2022-02-22 |
@@ -122,6 +122,7 @@
 | [Happier \- Slowed + Reverb](https://open.spotify.com/track/3aPsxMIfOgmLmQJvAaElKU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier \(Slowed + Reverb\)](https://open.spotify.com/album/13w2ClweyAqn0sAdeyLnyQ) | 4:00 | 2023-09-21 | 2023-12-09 |
 | [Happy Endings \(feat\. iann dior and UPSAHL\) \- slowed + reverb](https://open.spotify.com/track/0YhbiKLcr7Qd0rnpeamGNX) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Happy Endings \(feat\. iann dior and UPSAHL\) \[slowed + reverb / Nightcore Edit\]](https://open.spotify.com/album/3qbn9bA3stgYP5yuqfjMTV) | 3:57 | 2021-10-01 | 2023-12-09 |
 | [Heat Waves \- Slowed](https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves \(Expansion Pack\)](https://open.spotify.com/album/4SRt3uGUROnTFCw41dzHIh) | 4:22 | 2022-03-23 |  |
+| [HEAVENLY JUMPSTYLE \- Slowed](https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l) | [TWXNY](https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI), [Sxilwix](https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v), [INNXCENCE](https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc) | [HEAVENLY JUMPSTYLE](https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl) | 2:08 | 2026-02-12 |  |
 | [help\_urself \- slowed](https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q) | [help\_urself \(Alternates\)](https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46) | 2:31 | 2021-10-01 | 2025-04-09 |
 | [holdonbaby..](https://open.spotify.com/track/1rHrTdP6vrQKnWjecCFWO2) | [Fleeky](https://open.spotify.com/artist/1Jb6G3tqFVIF9nzXbsCeJh) | [holdonbaby..](https://open.spotify.com/album/12HaO5gJnGn2p0UJy2aKYE) | 2:04 | 2022-05-06 | 2022-05-21 |
 | [House of Memories \- Slowed Down Version](https://open.spotify.com/track/7CGf0Sw8s7m3bDllqSmPfL) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [House Of Memories](https://open.spotify.com/album/3R6ZYq94MaeYKEMtPsj2hj) | 4:45 | 2023-09-21 | 2023-12-09 |

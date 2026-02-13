@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 
 > كافيار الراب المحلّي
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,833 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,845 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ego](https://open.spotify.com/track/4dTXktFpSZC6remucId05v) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [Mission Impossible](https://open.spotify.com/album/3XmfpNqMTVw1htr6lv1RgR) | 1:45 |
 | 2 | [FTRA](https://open.spotify.com/track/5NC1zZGyIHnXNiOfZslM62) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [FTRA](https://open.spotify.com/album/5iOJ9VwsEJZBj4fN4MFCvZ) | 3:02 |
-| 3 | [TABOOT](https://open.spotify.com/track/6motnIl1IffKpaWvHGAk1w) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [MSati 7](https://open.spotify.com/artist/6ZsgDzHYazjnG5NzMfPHC9) | [TABOOT](https://open.spotify.com/album/66ZgAfsd41sy3kRELM40N3) | 2:24 |
-| 4 | [Ala El Hadi](https://open.spotify.com/track/59RJkigbf7igBzNQJ56NQF) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Warchieff](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Ala El Hadi](https://open.spotify.com/album/2rRFYwugXgccV96X5OlzzH) | 2:38 |
-| 5 | [NASEHAT MUSHFIQ](https://open.spotify.com/track/607JmfmWDTOgacXpWYFmNW) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [NASEHAT MUSHFIQ](https://open.spotify.com/album/23zOEXioEzkBPCRc8gTznD) | 2:52 |
-| 6 | [Esmaa Alhagega](https://open.spotify.com/track/2wtF7gIR51J7ZFfsuDISjb) | [Slow Moe](https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd) | [Esmaa Alhagega](https://open.spotify.com/album/3t6JQ82i9tw9Stm3rLHs4U) | 4:19 |
-| 7 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 |
-| 8 | [جولاتي](https://open.spotify.com/track/0M28xWD3YAydVlZU5K1OAG) | [Barry](https://open.spotify.com/artist/0BatFhnuo1dJ632u37igwo) | [جولاتي](https://open.spotify.com/album/5LFqbT78b7K4S8ARXlZZdh) | 2:38 |
+| 3 | [Y20](https://open.spotify.com/track/1UDiiOdFUs3MdV9uAo8cYe) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt), [YSN Lowkey](https://open.spotify.com/artist/2gaO2Gwf588OnnaDwArIAW) | [Y20](https://open.spotify.com/album/6KB2ail4OHmi7hLE9sO9x6) | 1:54 |
+| 4 | [TABOOT](https://open.spotify.com/track/6motnIl1IffKpaWvHGAk1w) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP), [MSati 7](https://open.spotify.com/artist/6ZsgDzHYazjnG5NzMfPHC9) | [TABOOT](https://open.spotify.com/album/66ZgAfsd41sy3kRELM40N3) | 2:24 |
+| 5 | [Ala El Hadi](https://open.spotify.com/track/59RJkigbf7igBzNQJ56NQF) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu), [Warchieff](https://open.spotify.com/artist/0rKBPvNmQMHFGNf8RCYLt8), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Ala El Hadi](https://open.spotify.com/album/2rRFYwugXgccV96X5OlzzH) | 2:38 |
+| 6 | [NASEHAT MUSHFIQ](https://open.spotify.com/track/607JmfmWDTOgacXpWYFmNW) | [Klash](https://open.spotify.com/artist/576Qg5nTQ5fVCFaSYrvKdw) | [NASEHAT MUSHFIQ](https://open.spotify.com/album/23zOEXioEzkBPCRc8gTznD) | 2:52 |
+| 7 | [Esmaa Alhagega](https://open.spotify.com/track/2wtF7gIR51J7ZFfsuDISjb) | [Slow Moe](https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd) | [Esmaa Alhagega](https://open.spotify.com/album/3t6JQ82i9tw9Stm3rLHs4U) | 4:19 |
+| 8 | [Dabbaba](https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh) | [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Dabbaba](https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv) | 2:09 |
 | 9 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 |
 | 10 | [Tshreen](https://open.spotify.com/track/7EJDlQCVE0LzicekfXBKpA) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Tshreen](https://open.spotify.com/album/61WWFyA8saUrpGq5XXz9iI) | 2:21 |
 | 11 | [Miyat 3een](https://open.spotify.com/track/3Jg5wpauPWxfXA0uP2XJ8B) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Valhalla](https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH) | 2:12 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BeS7oLnHFo.md) - [plain]
 | 39 | [SHOOTA](https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb) | [Vortex](https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP) | [SHOOTA](https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy) | 2:29 |
 | 40 | [Theeb](https://open.spotify.com/track/7e7XGcxSyirmCyxsGYvyQT) | [Moayad](https://open.spotify.com/artist/6DutMGme3677e88ZM0THXu) | [Batn Al Shaer](https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8) | 2:06 |
 
-Snapshot ID: `AAAAACXvUbU+QpSIXSKcbAbku/7pbYSL`
+Snapshot ID: `AAAAACd9zv7ivqS7gT9CTz7VgifYh5ZC`

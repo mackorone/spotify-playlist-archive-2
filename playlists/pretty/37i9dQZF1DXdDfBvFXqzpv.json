@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 105808,
+  "num_followers": 105804,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAKGMLVlHmEoDDC2RszOCooKey8fb",
   "tracks": [
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
-    },
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Episode ll",
-        "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
-      },
-      "artists": [
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        }
-      ],
-      "duration_ms": 405693,
-      "name": "Played-A-Live (The Bongo Song)",
-      "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Woodstock",
         "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 246786,
       "name": "Live in the Moment",
       "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Episode ll",
+        "url": "https://open.spotify.com/album/52ttYpaN6OzZLAcqpjVhyh"
+      },
+      "artists": [
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        }
+      ],
+      "duration_ms": 405693,
+      "name": "Played-A-Live (The Bongo Song)",
+      "url": "https://open.spotify.com/track/7uuo02BIR76qZ6ZXQhz7Ys"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
-      },
-      "artists": [
-        {
-          "name": "Teddybears",
-          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
-        },
-        {
-          "name": "Mad Cobra",
-          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "Cobrastyle (feat. Mad Cobra)",
-      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Beamer (Bad Boys)",
         "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 195047,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3EfRjYnoNrTohOPCjVFhR5"
+      },
+      "artists": [
+        {
+          "name": "Teddybears",
+          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+        },
+        {
+          "name": "Mad Cobra",
+          "url": "https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Cobrastyle (feat. Mad Cobra)",
+      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Turn The Radio Off",
+        "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Sell Out",
+      "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "PSYCHODRAMA",
         "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 241293,
       "name": "Location (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Turn The Radio Off",
-        "url": "https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Sell Out",
-      "url": "https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Supermodel",
+        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 270693,
+      "name": "Are You What You Want to Be?",
+      "url": "https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 174857,
       "name": "Oliver Twist",
       "url": "https://open.spotify.com/track/6mSzsSdu0CWIV70jEjWMhI"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Supermodel",
-        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 270693,
-      "name": "Are You What You Want to Be?",
-      "url": "https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 168654,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "What Box?",
         "url": "https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 216560,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/3c7vquF4xacCmFrxztLUVH"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 168654,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Some Cities",
-        "url": "https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V"
-      },
-      "artists": [
-        {
-          "name": "Doves",
-          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
-        }
-      ],
-      "duration_ms": 255413,
-      "name": "Black And White Town",
-      "url": "https://open.spotify.com/track/3KoJckjaWGPpqfyVLrLjVS"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 174653,
       "name": "Malemolencia",
       "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Some Cities",
+        "url": "https://open.spotify.com/album/1b8wM8rrNJzdxHykdygy9V"
+      },
+      "artists": [
+        {
+          "name": "Doves",
+          "url": "https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY"
+        }
+      ],
+      "duration_ms": 255413,
+      "name": "Black And White Town",
+      "url": "https://open.spotify.com/track/3KoJckjaWGPpqfyVLrLjVS"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Scatter",
-      "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "The Ride",
         "url": "https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 245533,
       "name": "Postpone",
       "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Scatter",
+      "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Modus Vivendi",
-        "url": "https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU"
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy"
       },
       "artists": [
         {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
         }
       ],
-      "duration_ms": 246626,
-      "name": "Morrow",
-      "url": "https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA"
+      "duration_ms": 250692,
+      "name": "Around Town",
+      "url": "https://open.spotify.com/track/36pHJ5lqNQTLLzGTy8G7xV"
     }
   ],
   "unique_name": "EA SPORTS FIFA Mix",

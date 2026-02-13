@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 
 > This is Yeah Yeah Yeahs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,565 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,566 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 32 | [Under The Earth](https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:18 |
 | 33 | [Bang](https://open.spotify.com/track/0KFsVUp01T2sCFnoP53Yuy) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 3:09 |
 | 34 | [Cold Light](https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell](https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI) | 2:15 |
-| 35 | [Let Me Know](https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Let Me Know + Gold Lion \(Diplo Remix\) + Gold Lion \(Nick Remix\)](https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k) | 3:30 |
+| 35 | [10 x 10](https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [IS IS](https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi) | 3:44 |
 | 36 | [Slave](https://open.spotify.com/track/3KDNP1qeCGZRlExpJUPlzi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:06 |
 | 37 | [Honeybear](https://open.spotify.com/track/2oDZprxAu0snrga1chXTdD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 2:25 |
-| 38 | [10 x 10](https://open.spotify.com/track/0xaSl0JwnQXUYPG0rtDCda) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [IS IS](https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi) | 3:44 |
+| 38 | [Let Me Know](https://open.spotify.com/track/4pIfmU3tWHcXHTHr9RaAzi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Let Me Know + Gold Lion \(Diplo Remix\) + Gold Lion \(Nick Remix\)](https://open.spotify.com/album/7mkTnMGmhZfNnEFwLLCv1k) | 3:30 |
 | 39 | [Poor Song](https://open.spotify.com/track/1RxQPRnSbq13hMic24x6uQ) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell](https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI) | 3:04 |
 | 40 | [Mosquito](https://open.spotify.com/track/4W3nSbpunIWQmrhnkpiyE0) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 2:59 |
 | 41 | [Little Shadow](https://open.spotify.com/track/5zej8rkeH4vSDw5mKSeDeT) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 49 | [Rockers To Swallow](https://open.spotify.com/track/4MFhnFd5IlotC8L4E4ZifJ) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [IS IS](https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi) | 3:11 |
 | 50 | [Art Star](https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 2:00 |
 
-Snapshot ID: `aYp1AAAAAAAWXrvezbmsg8If4oaNrvE5`
+Snapshot ID: `aYvGgAAAAACBnUz8LWrEXBTrgMOldJwG`

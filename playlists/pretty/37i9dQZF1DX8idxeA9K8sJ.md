@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,746 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,053,922 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 23 | [Te quiero](https://open.spotify.com/track/6tu2FHuKL9C8pwNrityweQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 3:45 |
 | 24 | [El Triste](https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Jose Jose \(1\)](https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD) | 4:13 |
 | 25 | [Maldita Primavera](https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Coleccion Suprema](https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx) | 3:54 |
-| 26 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
-| 27 | [El Hombre Que Yo Amo](https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Myriam Hernandez](https://open.spotify.com/album/2ev6My86W8Ri5qXygB645A) | 3:36 |
+| 26 | [El Hombre Que Yo Amo](https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Myriam Hernandez](https://open.spotify.com/album/2ev6My86W8Ri5qXygB645A) | 3:36 |
+| 27 | [De Mi Enamórate](https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Mujer De Todos Mujer De Nadie](https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK) | 3:30 |
 | 28 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
 | 29 | [Olvídame y Pega la Vuelta](https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Pimpinela](https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id) | 3:05 |
 | 30 | [Eres](https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Sin Tu Amor](https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4) | 3:15 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 62 | [He Venido a Pedirte Perdón](https://open.spotify.com/track/5q2RfBEFzNOXLY4LPluf5g) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2) | 4:58 |
 | 63 | [Dueño de Nada](https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Dos Clásicos](https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2) | 5:16 |
 | 64 | [Besos De Ceniza](https://open.spotify.com/track/55DQStH29qHXa29EgJa7fb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 2:56 |
-| 65 | [Si no te tengo a ti](https://open.spotify.com/track/6IeJcGYibtUKl9QnAupnYi) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 4:46 |
-| 66 | [Louis](https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 5:09 |
+| 65 | [Louis](https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 5:09 |
+| 66 | [Si no te tengo a ti](https://open.spotify.com/track/6IeJcGYibtUKl9QnAupnYi) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Las baladas \(Los singles vol II\)](https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN) | 4:46 |
 | 67 | [No Me Vuelvo a Enamorar](https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Cosas De Enamorados](https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG) | 3:19 |
 | 68 | [Quédate Conmigo Esta Noche](https://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Siempre](https://open.spotify.com/album/1hvkChT8svwpuA5b5v8Ksr) | 3:51 |
 | 69 | [No Huyas De Mi](https://open.spotify.com/track/6UBl1NDlUjc4vU3tXr3oQz) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Puro Rock](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 3:47 |

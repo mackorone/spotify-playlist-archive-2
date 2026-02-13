@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,848 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,919 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 18 | [From The Start](https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:49 |
 | 19 | [New Orleans](https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn) | [Elly Hoyt](https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG) | [The Composers' Voice: Celebrating Australian Women Composers](https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y) | 3:19 |
 | 20 | [Seems I’m Never Tired Lovin’ You](https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 4:43 |
-| 21 | [Smile](https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [Smile](https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ) | 3:20 |
-| 22 | [Losing Grip](https://open.spotify.com/track/2ZQLf4N4B9PNZBYZF6QXse) | [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y), [Cassandra Beck](https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2) | [Losing Grip](https://open.spotify.com/album/0wA2eGX60XryWU9BJBDUAb) | 4:10 |
+| 21 | [Losing Grip](https://open.spotify.com/track/2ZQLf4N4B9PNZBYZF6QXse) | [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y), [Cassandra Beck](https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2) | [Losing Grip](https://open.spotify.com/album/0wA2eGX60XryWU9BJBDUAb) | 4:10 |
+| 22 | [Smile](https://open.spotify.com/track/44HxkQjGVoF9USaO6suzJq) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [Smile](https://open.spotify.com/album/20oQkonM4XzSLK8ugla8BQ) | 3:20 |
 | 23 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 |
 | 24 | [I Need Your Love](https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [I Need Your Love](https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav) | 4:20 |
 | 25 | [Moon River](https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP) | [Cindy Zhang](https://open.spotify.com/artist/7jcxdl5JqHWfuq00QC6egz), [Josh Berkeley](https://open.spotify.com/artist/7MpeVbVrg6arHele8tcgSl) | [Moon River](https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX) | 3:12 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 36 | [Saturday](https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 4:13 |
 | 37 | [Things Are Looking up Again](https://open.spotify.com/track/5rpWRegY3E5PAW1lnrLH4L) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [Love Letters](https://open.spotify.com/album/5COIqlZNACXlR3nSzT2J1F) | 4:47 |
 | 38 | [twenty\-first](https://open.spotify.com/track/1pG8XTfw1b4YGHVQM0UORh) | [VARITDA](https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB) | [twenty\-first](https://open.spotify.com/album/5uI9gOvyW2km0W5M4Djy2T) | 3:36 |
-| 39 | [How About You](https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo) | [Nellie McKay](https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN) | [Bagatelles](https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1) | 2:07 |
-| 40 | [Mother Of Mine](https://open.spotify.com/track/0aX2oXBqlQ2GrkGbI3pzVD) | [more than neighbours](https://open.spotify.com/artist/3PTRYFN4YaVarl3dOMNCZj) | [Mother Of Mine](https://open.spotify.com/album/3tCGTMUV2mAKolZKZTjzsp) | 4:02 |
+| 39 | [Mother Of Mine](https://open.spotify.com/track/0aX2oXBqlQ2GrkGbI3pzVD) | [more than neighbours](https://open.spotify.com/artist/3PTRYFN4YaVarl3dOMNCZj) | [Mother Of Mine](https://open.spotify.com/album/3tCGTMUV2mAKolZKZTjzsp) | 4:02 |
+| 40 | [How About You](https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo) | [Nellie McKay](https://open.spotify.com/artist/1GFVkK9DUecapOZv2HzpiN) | [Bagatelles](https://open.spotify.com/album/7dEBdUpqe6c6vprtQiEMX1) | 2:07 |
 | 41 | [I Never Can Say Goodbye](https://open.spotify.com/track/25JxSiJxTicgJ4JZQSKjHv) | [Tiny Little Bigband](https://open.spotify.com/artist/4VqNJYZIb0RgkAqygSeLlQ) | [I Never Can Say Goodbye](https://open.spotify.com/album/08b0q2JtQvW5xbNSRA2HRU) | 4:13 |
 | 42 | [Cup of Tea](https://open.spotify.com/track/0DY3QBVuHfKDauOlEBwV6s) | [Francesca Castro](https://open.spotify.com/artist/3zE04onkabLA6Wa3ENjmTf) | [Day by Day](https://open.spotify.com/album/3Npq2S9D4A7aR9aeS6DmMt) | 6:34 |
 | 43 | [Inside and Out](https://open.spotify.com/track/590wQwgPHKRMOppPGNGmVR) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [à Fleur de Peau](https://open.spotify.com/album/6HA7T7bSLycVHxv9WcfeRW) | 4:18 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 58 | [One Less Lonely Girl](https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa) | [Nikki Ocean](https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00) | [One Less Lonely Girl](https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf) | 3:56 |
 | 59 | [At the End of the Day](https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm) | [Caleb Dinger](https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs) | [At the End of the Day](https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O) | 3:36 |
 | 60 | [Chamomile Tea](https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME) | [Andrew Farstar](https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z) | [Chamomile Tea](https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr) | 4:12 |
-| 61 | [Her House \(Single Edit\)](https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Her House \(Single Edit\) \[Star of Spring\]](https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK) | 3:47 |
-| 62 | [Sugilite](https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT) | [Jeanne Newhall](https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t) | [Sugilite](https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN) | 4:38 |
+| 61 | [Sugilite](https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT) | [Jeanne Newhall](https://open.spotify.com/artist/2H0uuUfIaOJs65CXtlNa9t) | [Sugilite](https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN) | 4:38 |
+| 62 | [Her House \(Single Edit\)](https://open.spotify.com/track/0LjwtixmXQiq2YMAzAx6FZ) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Her House \(Single Edit\) \[Star of Spring\]](https://open.spotify.com/album/1bWITY11LFXKlLxtf0q8fK) | 3:47 |
 | 63 | [River](https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [River](https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq) | 2:57 |
 | 64 | [Softer Than You Know](https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw) | [Softer Than You Know](https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu) | 3:28 |
 | 65 | [Humphrey and me](https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Humphrey and Me](https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL) | 4:27 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 93 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
 | 94 | [There is a place](https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG) | 4:07 |
 | 95 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
-| 96 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
-| 97 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
-| 98 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
+| 96 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
+| 97 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
+| 98 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
 | 99 | [Back to the Start](https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2) | [Gordon Robertson](https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5) | [Back to the Start](https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6) | 3:16 |
 | 100 | [The Birds and the Bees](https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:50 |
 

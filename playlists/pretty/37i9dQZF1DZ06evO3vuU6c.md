@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,435,556 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,435,575 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 20 | [Beautiful Pain](https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Marshall Mathers LP2 \(Deluxe\)](https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk) | 4:25 |
 | 21 | [Angel By The Wings](https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Angel By The Wings](https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b) | 5:19 |
 | 22 | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6) | [88\-Keys](https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [That's Life \(feat\. Mac Miller & Sia\)](https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE) | 3:22 |
-| 23 | [I Love It](https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Drinking From The Sun](https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK) | 3:46 |
-| 24 | [Elastic Heart \- Piano Version](https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:10 |
+| 23 | [Elastic Heart \- Piano Version](https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:10 |
+| 24 | [I Love It](https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Drinking From The Sun](https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK) | 3:46 |
 | 25 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 |
 | 26 | [Move Your Body \- Alan Walker Remix](https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 |
 | 27 | [Je te pardonne \(feat\. Sia\) \- Pilule bleue](https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Mon coeur avait raison](https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 49 | [Dynamite \(feat\. Sia\)](https://open.spotify.com/track/0LcLOyu9n5qRTeax5IdewO) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:32 |
 | 50 | [No New Friends \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 2:55 |
 
-Snapshot ID: `aYp1AAAAAACSTWwBgBLR0G7iRfZkns5q`
+Snapshot ID: `aYvGgAAAAADH8aNGSBA6bKsbuKT8bVSW`

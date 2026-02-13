@@ -4,7 +4,7 @@
 
 > Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.
 
-185 songs - 11 hr 5 min
+186 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [anthems](https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:51 | 2022-11-02 |  |
 | [Aquamarine \(feat\. Michael Kiwanuka\)](https://open.spotify.com/track/1WS1Q9G8vj0gPN2aOkZ80A) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cheat Codes](https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy) | 3:58 | 2022-11-02 | 2022-11-13 |
 | [Are You What You Want to Be?](https://open.spotify.com/track/3CVPyuuD6HxWXgPbbGqbg6) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Supermodel](https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0) | 4:30 | 2022-11-02 |  |
+| [Around Town](https://open.spotify.com/track/36pHJ5lqNQTLLzGTy8G7xV) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 4:10 | 2022-11-02 |  |
 | [Ay Caramba](https://open.spotify.com/track/0mfEHC4z5a7533o7VNOH2c) | [Stay Flee Get Lizzy](https://open.spotify.com/artist/2oZq6t5DkE2BdGbD6x8RXh), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Ay Caramba](https://open.spotify.com/album/1ME6eVTU1q7wGcVyktvmEJ) | 3:31 | 2022-11-02 | 2025-08-27 |
 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 | 2022-11-02 | 2024-04-19 |
 | [Be Your Love](https://open.spotify.com/track/1Taq7PrHRF7dLCcHTRh2aj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Be Your Love](https://open.spotify.com/album/0IdLqHPv9Ac4YdEGyMD4YZ) | 3:14 | 2022-11-02 |  |
@@ -97,7 +98,7 @@
 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 | 2022-11-02 |  |
 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 | 2022-11-02 | 2024-04-19 |
 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 | 2022-11-02 |  |
-| [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 | 2022-11-02 |  |
+| [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 | 2022-11-02 | 2026-02-13 |
 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 | 2022-11-02 | 2024-04-19 |
 | [Move](https://open.spotify.com/track/4vuJuTLFomqItDrn482nzV) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:07 | 2022-11-02 | 2023-08-03 |
 | [My Number](https://open.spotify.com/track/04caEZhAsQKnWqKsMwk9ud) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 3:58 | 2022-11-02 | 2024-04-19 |

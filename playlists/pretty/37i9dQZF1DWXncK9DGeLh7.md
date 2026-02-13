@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 
 > 100% soul et funk !
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,478 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,500 likes - 60 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 | 34 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
 | 35 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
 | 36 | [Sussudio \- 2016 Remaster](https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:23 |
-| 37 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
-| 38 | [Fantasy](https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:45 |
+| 37 | [Fantasy](https://open.spotify.com/track/0Eq4BMgsdV6DkLSJfX8eBt) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7) | 3:45 |
+| 38 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
 | 39 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
 | 40 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 |
 | 41 | [Raspberry Beret](https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around the World in a Day](https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu) | 3:35 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXncK9DGeLh7.md) - [plain]
 | 55 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 |
 | 56 | [Rhythm Of The Night](https://open.spotify.com/track/5yGTQzYbEdY6B9RFZJypgt) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [Rhythm Of The Night](https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8) | 3:49 |
 | 57 | [The Boss](https://open.spotify.com/track/6LzjgzpVl0hB3YrBU1b8Z1) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Black Caesar](https://open.spotify.com/album/3Eiwyp3EB66AuXjBI2MYZI) | 3:14 |
-| 58 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 |
-| 59 | [Love's Theme](https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [Rhapsody In White \(Reissue\)](https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc) | 4:06 |
-| 60 | [Just an Illusion](https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 6:27 |
+| 58 | [Love's Theme](https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [Rhapsody In White \(Reissue\)](https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc) | 4:06 |
+| 59 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [20th Century Masters: The Millennium Collection: Best Of The Temptations, Vol\. 2 \- The '70s, '80s, '90s](https://open.spotify.com/album/2kzUxFepw1uLjbgqV537eP) | 6:59 |
+| 60 | [You Give Me Something](https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:19 |
 
 Snapshot ID: `AAAAAER+piW+93tNuYEK5/0ORPoFIUYb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 
 > The whole family will enjoy popular hits from yesterday and today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,010 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,004 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dyzSiETSEk.md) - [plain]
 | 22 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
 | 23 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 |
 | 24 | [Youngblood](https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:23 |
-| 25 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
-| 26 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 |
+| 25 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 |
+| 26 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 27 | [All I Want \- From "High School Musical: The Musical: The Series"](https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [All I Want \(From "High School Musical: The Musical: The Series"\)](https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2) | 2:57 |
 | 28 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 | 29 | [Am I Wrong](https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ) | [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Black Star Elephant](https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3) | 4:05 |
-| 30 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
-| 31 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
+| 30 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 |
+| 31 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 |
 | 32 | [Out of My League](https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [More Than Just a Dream \(Deluxe Edition\)](https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK) | 3:29 |
 | 33 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
 | 34 | [golden hour](https://open.spotify.com/track/4yNk9iz9WVJikRFle3XEvn) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like \(554Hz\)](https://open.spotify.com/album/2uiQo0DIcriQKVm5ivXuDO) | 3:29 |

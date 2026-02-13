@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: Yuri Redicopa",
-  "num_followers": 134649,
+  "num_followers": 134662,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -255,38 +255,6 @@
     {
       "added_at": "2026-02-06 03:01:16",
       "album": {
-        "name": "Voc\u00ea Precisa do \u00c1libi",
-        "url": "https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        },
-        {
-          "name": "Beat do \u00c1vila",
-          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
-        },
-        {
-          "name": "Mahai",
-          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
-        }
-      ],
-      "duration_ms": 126533,
-      "name": "MULHER BRASILEIRA",
-      "url": "https://open.spotify.com/track/6aFF2C009Wc6CGftyJcRkG"
-    },
-    {
-      "added_at": "2026-02-06 03:01:16",
-      "album": {
         "name": "Yeezy Slide \"REMIX\"",
         "url": "https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD"
       },
@@ -315,6 +283,38 @@
       "duration_ms": 138591,
       "name": "Yeezy Slide \"REMIX\"",
       "url": "https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi"
+    },
+    {
+      "added_at": "2026-02-06 03:01:16",
+      "album": {
+        "name": "Voc\u00ea Precisa do \u00c1libi",
+        "url": "https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        },
+        {
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        },
+        {
+          "name": "Mahai",
+          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
+        }
+      ],
+      "duration_ms": 126533,
+      "name": "MULHER BRASILEIRA",
+      "url": "https://open.spotify.com/track/6aFF2C009Wc6CGftyJcRkG"
     },
     {
       "added_at": "2026-02-06 03:01:16",
@@ -391,34 +391,6 @@
     {
       "added_at": "2026-02-06 03:01:16",
       "album": {
-        "name": "Vamo Marolar",
-        "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 181512,
-      "name": "Vamo Marolar",
-      "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
-    },
-    {
-      "added_at": "2026-02-06 03:01:16",
-      "album": {
         "name": "M.A.D 2",
         "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
       },
@@ -443,6 +415,34 @@
       "duration_ms": 181985,
       "name": "DVD",
       "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
+    },
+    {
+      "added_at": "2026-02-06 03:01:16",
+      "album": {
+        "name": "Vamo Marolar",
+        "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 181512,
+      "name": "Vamo Marolar",
+      "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
     },
     {
       "added_at": "2026-02-06 03:01:16",
@@ -1247,38 +1247,6 @@
     {
       "added_at": "2026-02-06 03:01:16",
       "album": {
-        "name": "Busco Romance Love Show",
-        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 201290,
-      "name": "4K",
-      "url": "https://open.spotify.com/track/2CV9GyLn1DWQAszrd1fwzO"
-    },
-    {
-      "added_at": "2026-02-06 03:01:16",
-      "album": {
         "name": "SET DA MAJESTADE 002",
         "url": "https://open.spotify.com/album/4MUfLKGtwbcw3CvRAUX29o"
       },
@@ -1311,6 +1279,38 @@
       "duration_ms": 251136,
       "name": "SET DA MAJESTADE 002",
       "url": "https://open.spotify.com/track/1g1KLt3bakGbuU7ovp2k6q"
+    },
+    {
+      "added_at": "2026-02-06 03:01:16",
+      "album": {
+        "name": "Busco Romance Love Show",
+        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 201290,
+      "name": "4K",
+      "url": "https://open.spotify.com/track/2CV9GyLn1DWQAszrd1fwzO"
     },
     {
       "added_at": "2026-02-06 03:01:16",

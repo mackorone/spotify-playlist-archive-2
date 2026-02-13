@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 52780,
+  "num_followers": 52779,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAYh42P1Wvb0Fn3amDvlcDW",
+  "snapshot_id": "aYvGgAAAAABDpb7+8hllkGIpoe9HTx/+",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 208093,
-      "name": "Home - 2008 Remaster",
-      "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 289970,
       "name": "Have A Heart",
       "url": "https://open.spotify.com/track/5DXvq6kWCNefq4qTSVGGGC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "Home - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Louise - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Streetlights",
         "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 221600,
       "name": "Rainy Day Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/6K6uLBktAdE5MSx7fBOM9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Louise - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longing In Their Hearts",
-        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0gvmmdReQ6mZ9fVFiRaLOZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Streetlights",
         "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 284600,
       "name": "That Song About the Midway - 2008 Remaster",
       "url": "https://open.spotify.com/track/1MsYN2LmlINM37KGbfs91P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Longing In Their Hearts",
+        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0gvmmdReQ6mZ9fVFiRaLOZ"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 347840,
+      "name": "Blame it On Me",
+      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets",
         "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
       },
@@ -731,18 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+        "name": "Dog Ear",
+        "url": "https://open.spotify.com/album/4QY53gmPaPnWAIHFiENYhK"
       },
       "artists": [
+        {
+          "name": "The Bros. Landreth",
+          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
+        },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 347840,
-      "name": "Blame it On Me",
-      "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
+      "duration_ms": 254688,
+      "name": "Knuckles",
+      "url": "https://open.spotify.com/track/51tNPtfL97T3VIzWdRfKEL"
     },
     {
       "added_at": null,
@@ -763,26 +783,6 @@
       "duration_ms": 300400,
       "name": "I Don't Want Anything To Change - Live",
       "url": "https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dog Ear",
-        "url": "https://open.spotify.com/album/4QY53gmPaPnWAIHFiENYhK"
-      },
-      "artists": [
-        {
-          "name": "The Bros. Landreth",
-          "url": "https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 254688,
-      "name": "Knuckles",
-      "url": "https://open.spotify.com/track/51tNPtfL97T3VIzWdRfKEL"
     },
     {
       "added_at": null,
@@ -823,18 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs from the Rainbow Room 1972 (Live)",
-        "url": "https://open.spotify.com/album/6UKKvudJfkgZcw59mNOy0c"
+        "name": "Where Have All The Flowers Gone: The Songs Of Pete Seeger",
+        "url": "https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF"
       },
       "artists": [
+        {
+          "name": "Jackson Browne",
+          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
+        },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 187533,
-      "name": "Can't Find My Way Home - Live",
-      "url": "https://open.spotify.com/track/1TITZdtKEabZzhm9EtfOCm"
+      "duration_ms": 283160,
+      "name": "Kisses Sweeter than Wine",
+      "url": "https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4"
     },
     {
       "added_at": null,
@@ -871,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs from the Rainbow Room 1972 (Live)",
+        "url": "https://open.spotify.com/album/6UKKvudJfkgZcw59mNOy0c"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Can't Find My Way Home - Live",
+      "url": "https://open.spotify.com/track/1TITZdtKEabZzhm9EtfOCm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Longing In Their Hearts",
         "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 221626,
       "name": "Love Sneakin' Up On You",
       "url": "https://open.spotify.com/track/5GzhOU3ABPksBqLdjortcG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where Have All The Flowers Gone: The Songs Of Pete Seeger",
-        "url": "https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF"
-      },
-      "artists": [
-        {
-          "name": "Jackson Browne",
-          "url": "https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 283160,
-      "name": "Kisses Sweeter than Wine",
-      "url": "https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4"
     }
   ],
   "unique_name": "This Is Bonnie Raitt",

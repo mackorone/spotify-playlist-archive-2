@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Zo\u00e9",
-  "num_followers": 296062,
+  "num_followers": 296045,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -271,26 +271,6 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
-        "name": "donde van los perros",
-        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        },
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        }
-      ],
-      "duration_ms": 154376,
-      "name": "un tiro",
-      "url": "https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
         "name": "Problema Cabr\u00f3n",
         "url": "https://open.spotify.com/album/6JJ0dHtZQWNZP2kDd7j4Dv"
       },
@@ -311,22 +291,22 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
-        "name": "Jaula de Oro",
-        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
+        "name": "donde van los perros",
+        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
       },
       "artists": [
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
         },
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
         }
       ],
-      "duration_ms": 238926,
-      "name": "Jaula de Oro",
-      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
+      "duration_ms": 154376,
+      "name": "un tiro",
+      "url": "https://open.spotify.com/track/2XwuYSEl8sYgTWPmsBtAJP"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -343,6 +323,26 @@
       "duration_ms": 292846,
       "name": "Y Ca\u00edste",
       "url": "https://open.spotify.com/track/6WgxkxlKYel9tbcXGJ2EcG"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
+        "name": "Jaula de Oro",
+        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 238926,
+      "name": "Jaula de Oro",
+      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
+        "name": "qu\u00e9 pasar\u00eda",
+        "url": "https://open.spotify.com/album/13tIQlqfTIxaz1HSl0yUce"
+      },
+      "artists": [
+        {
+          "name": "VRSTY",
+          "url": "https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle"
+        }
+      ],
+      "duration_ms": 193142,
+      "name": "qu\u00e9 pasar\u00eda",
+      "url": "https://open.spotify.com/track/4d05KAL0QGo0ZpVuB4YOv8"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
         "name": "Tripolar",
         "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 206429,
       "name": "Tajada",
       "url": "https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
-        "name": "qu\u00e9 pasar\u00eda",
-        "url": "https://open.spotify.com/album/13tIQlqfTIxaz1HSl0yUce"
-      },
-      "artists": [
-        {
-          "name": "VRSTY",
-          "url": "https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle"
-        }
-      ],
-      "duration_ms": 193142,
-      "name": "qu\u00e9 pasar\u00eda",
-      "url": "https://open.spotify.com/track/4d05KAL0QGo0ZpVuB4YOv8"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
-        "name": "santos inocentes",
-        "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        },
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 172114,
-      "name": "santos inocentes",
-      "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
         "name": "She\u2019s So Cool (with Pale Waves)",
         "url": "https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 146250,
       "name": "She\u2019s So Cool (with Pale Waves)",
       "url": "https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
+        "name": "santos inocentes",
+        "url": "https://open.spotify.com/album/4ACE3vuQD6LAP3sjGQymu9"
+      },
+      "artists": [
+        {
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
+        },
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 172114,
+      "name": "santos inocentes",
+      "url": "https://open.spotify.com/track/2Pe6VHlT4dw9hAWSNKIbwT"
     },
     {
       "added_at": "2026-02-11 16:04:08",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-02-11 16:04:08",
       "album": {
+        "name": "Coraz\u00f3n de pollo",
+        "url": "https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS"
+      },
+      "artists": [
+        {
+          "name": "Estamos Perdidos",
+          "url": "https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Coraz\u00f3n de pollo",
+      "url": "https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1"
+    },
+    {
+      "added_at": "2026-02-11 16:04:08",
+      "album": {
         "name": "Imit\u00e1ndote",
         "url": "https://open.spotify.com/album/1vIOTSqcNOHM6OEhcGpfsf"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 197138,
       "name": "Cuando el Circo Llega al Pueblo",
       "url": "https://open.spotify.com/track/6snkTnnsUlPY47QtKiKa6V"
-    },
-    {
-      "added_at": "2026-02-11 16:04:08",
-      "album": {
-        "name": "S\u00daPER PREMIUM ULTRA",
-        "url": "https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV"
-      },
-      "artists": [
-        {
-          "name": "Dum Chica",
-          "url": "https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX"
-        }
-      ],
-      "duration_ms": 204403,
-      "name": "RA",
-      "url": "https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv"
     }
   ],
   "unique_name": "Rock Total",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > C'est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,720 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,718 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 13 | [Sit Back Baby](https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Sit Back Baby](https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1) | 3:54 |
 | 14 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 |
 | 15 | [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 |
-| 16 | [Against The Current](https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Against The Current](https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY) | 3:36 |
-| 17 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
-| 18 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
-| 19 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 |
-| 20 | [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 |
-| 21 | [Dreamin'](https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:53 |
+| 16 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
+| 17 | [Against The Current](https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Against The Current](https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY) | 3:36 |
+| 18 | [If Only](https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [If Only](https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl) | 3:28 |
+| 19 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
+| 20 | [Dreamin'](https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin' \(Deluxe\)](https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p) | 3:53 |
+| 21 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 |
 | 22 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |
 | 23 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 |
 | 24 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 57 | [Cruel](https://open.spotify.com/track/6MHU4IpKlrs74RpgDvM3Jg) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Cruel](https://open.spotify.com/album/1Y3OY3nhlsmEQnzXjkqP9C) | 3:04 |
 | 58 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 |
 | 59 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
-| 60 | [Good Company](https://open.spotify.com/track/4gsWaXmgcuOpqUA1tR7FXN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Good Company](https://open.spotify.com/album/1Sh6wJdwNxKzgnYsMpVBW3) | 3:25 |
+| 60 | [Home](https://open.spotify.com/track/3ibjwFminiiudfT76RkuvU) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Home](https://open.spotify.com/album/4KDnylxQXJbcBTbMzc9E3Q) | 2:17 |
 
 Snapshot ID: `AAAAAKSFgsN6EpqdCiI6NEbMO6e9/f4x`

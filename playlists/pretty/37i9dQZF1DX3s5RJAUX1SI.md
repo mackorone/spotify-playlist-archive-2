@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,913 likes - 125 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,005 likes - 125 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 28 | [Me Hace Tanto Bien](https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:08 |
 | 29 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
 | 30 | [Quién Te Entiende](https://open.spotify.com/track/0VYFakqQG8p6yHrqq9TAoY) | [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Hombre Afortunado](https://open.spotify.com/album/2ytqh02AFF134GwECr7Q4V) | 3:22 |
-| 31 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 |
+| 31 | [Culpable Tú](https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 3:51 |
 | 32 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 |
 | 33 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
-| 34 | [Culpable Tú](https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Culpable Tú](https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC) | 3:51 |
+| 34 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 |
 | 35 | [Soñador Eterno](https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 2:57 |
 | 36 | [A Mí, ¿Qué Me Quedó?](https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Vuelvo Contigo](https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU) | 2:41 |
-| 37 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
+| 37 | [Un Vestido de Besos](https://open.spotify.com/track/2jKsAIJYpGJWAgcwnwFZRv) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 2:59 |
 | 38 | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/track/68tFrY3RLTslRY3l5wFfKd) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Yo Ya Sabia Pa Donde Iba](https://open.spotify.com/album/7CIIaQHhYQDhuVaUybIw7R) | 3:01 |
 | 39 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
 | 40 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 44 | [Mi Buena Suerte](https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 3:09 |
 | 45 | [Ya Me Enteré](https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Ahijado Consentido](https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP) | 3:09 |
 | 46 | [Inventame \- En Vivo](https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:15 |
-| 47 | [La Pregunta del Millón](https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:23 |
-| 48 | [Peca de Bonita](https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:22 |
+| 47 | [Peca de Bonita](https://open.spotify.com/track/4Rf4ssFxIqUTcRAUn2ARGU) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:22 |
+| 48 | [La Pregunta del Millón](https://open.spotify.com/track/6IEo2pVIGEwGd5ZL2ffiR0) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:23 |
 | 49 | [De Rodillas Te Pido](https://open.spotify.com/track/6tKFmdlGpSiLZV35VH4PIx) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [Duele El Amor](https://open.spotify.com/album/5LrxTZA5PuIQETlxJuWdHy) | 3:34 |
 | 50 | [El Último Beso](https://open.spotify.com/track/5sQiPI9krkeb9aAvl7tDyn) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:52 |
 | 51 | [Yo Quisiera Entrar](https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 4:42 |

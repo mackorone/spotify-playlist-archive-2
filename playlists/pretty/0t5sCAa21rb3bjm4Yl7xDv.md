@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>\.  Cover: ZAYN
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 76,609 likes - 99 songs - 5 hr 16 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 76,595 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
-| 2 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 |
+| 1 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 |
+| 2 | [Die For Me](https://open.spotify.com/track/15tkKpcwBE3XJhaBdLPBKJ) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Die For Me](https://open.spotify.com/album/3sEuskgtxTNNvdJAsMk9kG) | 3:00 |
 | 3 | [When Did You Get Hot?](https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:25 |
 | 4 | [COME GET YOUR GIRL](https://open.spotify.com/track/4zOW3Nf24pVKL5Sn2WRuLK) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [COME GET YOUR GIRL](https://open.spotify.com/album/5gvKBKFmGEFpqMZhBy0Azl) | 3:41 |
 | 5 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 98 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 |
 | 99 | [Close To You](https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/4XXTsu7r9865VvXdvF2iQP) | 3:45 |
 
-Snapshot ID: `AAA9CGBizB8IBc4PI6oMct/TL5N6iLKt`
+Snapshot ID: `AAA9C8Vr+shXTl7u+3gnVCyoGuHUAiux`

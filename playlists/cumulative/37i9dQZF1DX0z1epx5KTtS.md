@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Oyoki Onanayo
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Ste Milano
 
-277 songs - 15 hr 10 min
+278 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Enfants préférés](https://open.spotify.com/track/2oXPRdfajXsuvSNzQQLxQJ) | [Force One](https://open.spotify.com/artist/4quqBaZRHb1VeG3dAPucPS), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Enfants préférés](https://open.spotify.com/album/2n3a5j2w1qlsQ4NEsN0PJu) | 3:25 | 2021-12-20 | 2022-05-27 |
 | [Enjaillement](https://open.spotify.com/track/1wmrKgGI7jHvsNUqJqMsQF) | [Ramses Tikaya](https://open.spotify.com/artist/0q00AIYSAbXj18rBqWCYT1), [Mix Premier](https://open.spotify.com/artist/7E4tPSohzAp4dXEnNuab75) | [Enjaillement](https://open.spotify.com/album/3kX7u6RihaZK11a5plv3LO) | 3:30 | 2022-09-29 | 2022-10-28 |
 | [Fais comme ça](https://open.spotify.com/track/2eL618WYaelRjzAQRK97Uw) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Fais comme ça](https://open.spotify.com/album/3VhjrK60nuPqWOJpvix2IH) | 2:58 | 2024-11-07 | 2024-12-06 |
+| [FAIS OH FAIS \(1 COUP KO\)](https://open.spotify.com/track/6myxZn56qXV2JBDWZkCqJe) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [FAIS OH FAIS \(1 COUP KO\)](https://open.spotify.com/album/3j4tdBgUxLNwYJVw0KYfOW) | 2:30 | 2026-02-12 |  |
 | [Fan ou Amoureux](https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Fan ou Amoureux](https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy) | 3:55 | 2022-03-22 | 2022-09-09 |
 | [Faut déposer \(Dingriii !!\)](https://open.spotify.com/track/3eytZrHoUMaUjvV7bulqW0) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp), [Maa Bio](https://open.spotify.com/artist/07Zs2joCc5igkrjHAeYAEb) | [Faut déposer \(Dingriii !!\)](https://open.spotify.com/album/6tVL71Z3p6bhCN201TUCwX) | 2:49 | 2024-01-25 | 2024-06-07 |
 | [FAUT M'AFFICHER](https://open.spotify.com/track/40Ynf1HXntwWvZQQSnrzSb) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM), [Graço](https://open.spotify.com/artist/1Ihd80RcqCuuKPvr1TW1Sh) | [FAUT M'AFFICHER](https://open.spotify.com/album/75McQXUc0TgiBIixgQyAGp) | 3:23 | 2024-05-02 | 2024-07-05 |
@@ -140,7 +141,7 @@
 | [J'aime ça](https://open.spotify.com/track/0ddBz53fWZEmCT4LcBQZhE) | [KMBI Jamax](https://open.spotify.com/artist/3SKeInahC0cCoji0E3AxTs), [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [J'aime ça](https://open.spotify.com/album/0d36TPaXqra7McNYecKZnZ) | 2:49 | 2024-10-03 | 2025-03-28 |
 | [J'aime ça](https://open.spotify.com/track/4ujwTkq3yZ2NtPIIqpnG6b) | [Stelair](https://open.spotify.com/artist/13JA5UadZYfANIKzGJjc5J), [AK Binks](https://open.spotify.com/artist/5VVLZ1ViFB6h8EMR0Ja0br) | [J'aime ça](https://open.spotify.com/album/1qlPAplZUgWxx5ZJi7Ch9V) | 2:22 | 2025-01-30 | 2025-02-14 |
 | [Je n'ai rien fait](https://open.spotify.com/track/7eyXkptXl6lvxlREGKMmVs) | [Happy](https://open.spotify.com/artist/0wCS5K5gJVAuAmVglBhXbe), [Mani Bella](https://open.spotify.com/artist/2GLzNCMpJZYZaeAyhwuifS) | [Je n'ai rien fait](https://open.spotify.com/album/7u8mlWjXh5uM6oGvaKFmjl) | 4:24 | 2021-12-20 | 2022-05-21 |
-| [Je suis pas dedans](https://open.spotify.com/track/52pIkrAGgD5AWhrmaYFE2e) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Dangereux Junior](https://open.spotify.com/artist/16igpWquNmXepso7WsP6Lp), [Marco](https://open.spotify.com/artist/60nAdAQcRbgQ3JVdYODRzB) | [L’hybride](https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg) | 3:18 | 2025-10-02 |  |
+| [Je suis pas dedans](https://open.spotify.com/track/52pIkrAGgD5AWhrmaYFE2e) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK), [Dangereux Junior](https://open.spotify.com/artist/16igpWquNmXepso7WsP6Lp), [Marco](https://open.spotify.com/artist/60nAdAQcRbgQ3JVdYODRzB) | [L’hybride](https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg) | 3:18 | 2025-10-02 | 2026-02-13 |
 | [Jersey Biama](https://open.spotify.com/track/6cWMNjt5AM2ZSIEGU1ydZI) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Jersey Biama](https://open.spotify.com/album/1pLqEiCbIcAFO4Zlm5I1fn) | 2:23 | 2026-01-22 |  |
 | [Jonathan](https://open.spotify.com/track/11JSSg1ZbE0BXKlEj5qEfO) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Best Of DJ Arafat](https://open.spotify.com/album/36E4Ue8a0lAO0jHMDmiqNK) | 4:36 | 2022-08-11 |  |
 | [Judas](https://open.spotify.com/track/7zzkXGRNhnkeqGMCKLkLyo) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Judas](https://open.spotify.com/album/5LH3Ut39XL9NEpKXLS2dwn) | 4:05 | 2021-12-20 | 2022-04-15 |

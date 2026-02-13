@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,511 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,543 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 78 | [Assim Você Mata o Papai \- Ao Vivo](https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [De Volta Pro Amanhã, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E) | 1:59 |
 | 79 | [Último Beijo](https://open.spotify.com/track/2pBEAodCImE4LgbKAG4bfz) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Último Beijo](https://open.spotify.com/album/6AW51ww4T6cgKSxfj9PybR) | 3:01 |
 | 80 | [SEU DOUTOR \- Ao Vivo](https://open.spotify.com/track/0WnraiegaS9uZbBi3J0UUB) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:53 |
-| 81 | [Pisadinha \- Ao Vivo](https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Pisadinha \(Ao Vivo\)](https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV) | 2:38 |
+| 81 | [Cansar Você](https://open.spotify.com/track/5N1usnMTqmMtmRJTfgn1kJ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Cansar Você](https://open.spotify.com/album/5rYR4E0SwxglAChee36uVK) | 2:56 |
 | 82 | [De Garrafa A Pior \- Ao Vivo](https://open.spotify.com/track/359Cwd8UJFsF8qM9zJjaCz) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 2:42 |
-| 83 | [Cansar Você](https://open.spotify.com/track/5N1usnMTqmMtmRJTfgn1kJ) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Cansar Você](https://open.spotify.com/album/5rYR4E0SwxglAChee36uVK) | 2:56 |
+| 83 | [Pisadinha \- Ao Vivo](https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz) | [Pisadinha \(Ao Vivo\)](https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV) | 2:38 |
 | 84 | [Amava Nada \- Ao Vivo](https://open.spotify.com/track/4AOOcHnZdU6qyUVtKZUEuF) | [Lucas Lucco](https://open.spotify.com/artist/06cd30Cv9US973Ika84gDw), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Amava Nada \(Ao Vivo\)](https://open.spotify.com/album/054z4D8xRcVUqmXXErNdjz) | 3:05 |
 | 85 | [O Ex da Sua Vida](https://open.spotify.com/track/17Gh6E6eRfAAw7sCgmnkFc) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 2](https://open.spotify.com/album/4AmYNtcUeuaLZfQo5uDTKh) | 2:59 |
 | 86 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 |

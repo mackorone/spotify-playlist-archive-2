@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-804 songs - 1 day 20 hr 55 min
+805 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Ambiance](https://open.spotify.com/track/4E6ywa4T4jflnXe6KeB54G) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Ambiance](https://open.spotify.com/album/4ZxWW2tTsVcDqk4TkuEINf) | 2:17 | 2023-05-05 | 2023-06-24 |
 | [Andre 3000 \(feat\. Bangladesh\)](https://open.spotify.com/track/1Bm1hJhiao6NAT06jCdEsU) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [7xvethegenius](https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5), [Bangladesh](https://open.spotify.com/artist/0lKIUVjGFoPfBH6nXfudEx) | [Conway The Machine Presents: Drumwork The Album](https://open.spotify.com/album/23duSQFjfpcwNRHhYJmT2L) | 4:29 | 2023-07-07 | 2023-10-21 |
 | [ARE U KIDDING](https://open.spotify.com/track/27BuErcU8fgsy1uNSA0y2z) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [ARE U KIDDING](https://open.spotify.com/album/2csp8eERrdYFm942rZsl5z) | 2:31 | 2023-06-02 | 2023-08-05 |
+| [Area of Effect](https://open.spotify.com/track/3jQcVREtLkONMQlTF4IxsM) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Jay Nice](https://open.spotify.com/artist/6NdNJXkvy3edTkcMoRnuzN) | [Dump Gawd: Shot Clock King, Vol\. 4](https://open.spotify.com/album/26A4HF6PQ3VVtV9gTmct3c) | 2:08 | 2026-02-11 |  |
 | [AS MAN FIGHTS HIMSELF](https://open.spotify.com/track/5jfBGoLa8i0N7CelNVIg1F) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Dibia$E](https://open.spotify.com/artist/21H0kHbS41lECHguMnjGpb) | [AS MAN FIGHT HIMSELF](https://open.spotify.com/album/6P5t0pdWbeFGDJes590iQc) | 2:27 | 2024-10-04 | 2025-01-10 |
 | [Ask Me Why](https://open.spotify.com/track/2aSma3wWBb2ROz3KhJWFXw) | [Sayzee](https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa), [Richie Sosa](https://open.spotify.com/artist/5A6YomchEnxJAyOq6mbLfa) | [Ask Me Why](https://open.spotify.com/album/7nSx6SzZSXjHsBcWOWjOgs) | 2:20 | 2022-04-29 | 2022-05-07 |
 | [Asteroids](https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Asteroids](https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w) | 2:35 | 2023-11-03 | 2024-03-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,411 likes - 122 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,400 likes - 122 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 24 | [Laura](https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8) | [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3) | [Laura](https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu) | 4:48 |
 | 25 | [I'll Be Seeing You](https://open.spotify.com/track/55tez5zrk52P4sV6yn3siJ) | [Michael Ragonese](https://open.spotify.com/artist/0EjGd9H6W1MwrxignO2N4w) | [Stracci](https://open.spotify.com/album/6pCgHAbu0Yj4TOwnQ9kqv8) | 6:16 |
 | 26 | [Doxy](https://open.spotify.com/track/1RkqoAf31HsCMaTNzTzcG6) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn), [Ed Czach](https://open.spotify.com/artist/4f8lXgdyM6frbmDlADjgp9), [Aaron Kimmel](https://open.spotify.com/artist/6mKwJdaEvDUSLousOlnhAZ) | [Doxy](https://open.spotify.com/album/35ojbhp0w19sGLHuUV7uAU) | 3:11 |
-| 27 | [One Step at a Time](https://open.spotify.com/track/76tKOQoT5AVegIVftRRZ8N) | [Omer Klein](https://open.spotify.com/artist/0YGq6lWfXYjeUjM7oZkEho), [Haggai Cohen\-Milo](https://open.spotify.com/artist/2fI1YlX1x0WkepdSlvLVve), [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Life & Fire](https://open.spotify.com/album/4f6pumXqPwMZp1KmmT5yYw) | 8:39 |
+| 27 | [One Step at a Time](https://open.spotify.com/track/76tKOQoT5AVegIVftRRZ8N) | [Omer Klein](https://open.spotify.com/artist/0YGq6lWfXYjeUjM7oZkEho), [Haggai Cohen\-Milo](https://open.spotify.com/artist/3tT8g5x92UUS8GVhiL52DG), [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [Life & Fire](https://open.spotify.com/album/4f6pumXqPwMZp1KmmT5yYw) | 8:39 |
 | 28 | [The Best Thing for You \(Would Be Me\)](https://open.spotify.com/track/31NiNqdwCcZWsKrtgPoews) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [Bassic Instinct](https://open.spotify.com/album/2h2DmXUDMn8rScrIk7o0sf) | 3:40 |
 | 29 | [Like in Love](https://open.spotify.com/track/4MUP0AOSKzwsum43ZwifQW) | [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Like in Love](https://open.spotify.com/album/23WrIHXp4jqOUDqkpCfcxp) | 6:06 |
 | 30 | [Hesitation](https://open.spotify.com/track/79DycP44xL69ZNfkH3Kqnd) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 2:20 |

@@ -4,7 +4,7 @@
 
 > 
 
-2,853 songs - 6 day 3 hr 51 min
+2,854 songs - 6 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2742,6 +2742,7 @@
 | [Weekend Offenders](https://open.spotify.com/track/7go0JqxmkRFZoQxvmnjHun) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Samynator](https://open.spotify.com/artist/0stG6nm18OkbJlJHWHxrPw) | [Weekend Offenders](https://open.spotify.com/album/6samftYEZmAZ7MYcY6hqUx) | 2:35 | 2024-03-08 |  |
 | [Weight Up](https://open.spotify.com/track/6wgf8NoJh2TKoRUNAEEHUk) | [Spearbreak](https://open.spotify.com/artist/4Ek1LKLop7zR9278Wg1FVE) | [Weight Up](https://open.spotify.com/album/4IFipqjGWYCKLBn6cdUbGI) | 3:31 | 2024-05-15 |  |
 | [Weird Music](https://open.spotify.com/track/0fIW5TKS9YfXA9vydDJ2PR) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Ikkhi](https://open.spotify.com/artist/1PMszGxyh0lfQXOrfSPES9) | [Weird Music](https://open.spotify.com/album/5Iu6To7Nx3i69YchMqRIb6) | 3:22 | 2025-12-16 |  |
+| [WELCOME 2 DA TERRORDOME](https://open.spotify.com/track/740GQVQ598GSLZjt9btQfq) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [COME 2 DADDY EP](https://open.spotify.com/album/5mvAkfMfCMuIWQgT0BVlf7) | 3:00 | 2026-02-12 |  |
 | [Welcome To Hell](https://open.spotify.com/track/6NW7byHrRnk0KYV4bwcAFx) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Juliëx](https://open.spotify.com/artist/3RTCQDInBbA9wEuRrhRLTq) | [Welcome To Hell](https://open.spotify.com/album/55NrJQsmB0tBJzG6dE4wNf) | 3:08 | 2024-09-20 |  |
 | [Welcome To My Nightmare](https://open.spotify.com/track/7mXYCi1wA8n8zBN0ud211g) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Welcome To My Nightmare](https://open.spotify.com/album/7x2ImrxaXBL79nq6WaK0Ui) | 3:27 | 2023-09-22 |  |
 | [West Dynasty \- Anthem Eskape 2024](https://open.spotify.com/track/6lcuDIAekGRiLyibTQ43pE) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [West Dynasty \(Anthem Eskape 2024\)](https://open.spotify.com/album/3N1RyUxrgC7ORYKTVF0uRE) | 3:16 | 2024-06-10 |  |

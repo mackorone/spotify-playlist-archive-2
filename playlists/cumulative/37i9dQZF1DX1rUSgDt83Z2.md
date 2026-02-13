@@ -4,7 +4,7 @@
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-197 songs - 10 hr 15 min
+198 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Slaap Lekker](https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Slaap Lekker](https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ) | 2:14 | 2024-12-12 | 2025-04-13 |
 | [Slaapwandelaar](https://open.spotify.com/track/47TXIa09GpZU1zSu9xc3p2) | [Bart Voncken](https://open.spotify.com/artist/313iy3CDtL0MAqtm6ObDTa), [Fluitsma & van Tijn](https://open.spotify.com/artist/6Rt7Udi1gfj5d1jkebhmKg) | [Slaapwandelaar](https://open.spotify.com/album/5ynpuj3Kb6zGCJSJS4NO3R) | 3:16 | 2024-06-24 | 2024-11-22 |
 | [Slapeloos](https://open.spotify.com/track/2RrgTyCnqDo2QNsRiJoy28) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Slapeloos](https://open.spotify.com/album/3rorul1v1uEObKiX6Zn3i4) | 3:09 | 2024-09-12 | 2025-03-07 |
+| [Sluit Me In Je Armen](https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Sluit Me In Je Armen](https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW) | 2:43 | 2026-02-12 |  |
 | [Somebody New](https://open.spotify.com/track/1u4RBJArUMeEXHic7VqWjv) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/1esmSMTOShTTI0OqG3rsnO) | 2:52 | 2024-06-24 | 2024-11-05 |
 | [Something](https://open.spotify.com/track/37AQpBD3OF7KqbPf8ljGCI) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Something](https://open.spotify.com/album/6OGsIPlUpRU3qrujAMpoes) | 3:22 | 2024-08-29 | 2024-10-25 |
 | [Speed Of Light](https://open.spotify.com/track/42bzmBc47mF1HTOi8baDb5) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Speed Of Light](https://open.spotify.com/album/3KJ36A4THBFS2RDTxSjSar) | 3:07 | 2024-06-24 | 2024-09-13 |
@@ -199,7 +200,7 @@
 | [Zeg Niks](https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Zeg Niks](https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3) | 3:13 | 2024-06-24 | 2025-01-09 |
 | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd), [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/album/0tUcPCqXyt90DHnHWMtaMo) | 3:08 | 2024-06-27 | 2025-04-17 |
 | [zij aan zij](https://open.spotify.com/track/7j3gracBYr3MPEg3VLJ306) | [Jooz](https://open.spotify.com/artist/7hUtuXiN0XSFOjQO5OFEvY) | [zij aan zij](https://open.spotify.com/album/3Mjo5eqIC0FEcjlnTtcQc2) | 2:54 | 2024-09-12 | 2025-01-23 |
-| [Zij Bij Mij](https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN) | [Leev](https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy) | [Zij Bij Mij](https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD) | 2:12 | 2025-05-08 |  |
+| [Zij Bij Mij](https://open.spotify.com/track/1HQyIisTd4Q3F0wLaGCijN) | [Leev](https://open.spotify.com/artist/7FKzn9rRpQYeNSouksgMzy) | [Zij Bij Mij](https://open.spotify.com/album/3suqFdXc38laVrVYAD5PiD) | 2:12 | 2025-05-08 | 2026-02-13 |
 | [Zin In Het Leven](https://open.spotify.com/track/5dyLNO5s3BKjKYmHAj75VK) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Zin In Het Leven](https://open.spotify.com/album/4oLXbJ12gAFe9pHFliC2ON) | 3:25 | 2024-09-12 | 2025-03-21 |
 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 | 2025-12-05 |  |
 | [Zolang We Samen Zijn](https://open.spotify.com/track/4yt0cEaT2lpNigs3k5jCKI) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Zolang We Samen Zijn](https://open.spotify.com/album/4UIvEYoJOB6uGyHaV4uplL) | 2:55 | 2025-05-15 | 2025-06-23 |

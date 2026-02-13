@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Gordon Flanders
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover: Tr33
 
-293 songs - 17 hr 3 min
+294 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [陪我一路漫遊](https://open.spotify.com/track/7cdqe0b8SqKmnIgjdyd8wE) | [Rover](https://open.spotify.com/artist/7chGhfZr3Es6GiMqJ55bcB) | [陪我一路漫遊](https://open.spotify.com/album/73lCZhrasUVaFCP0V0Ixh6) | 4:12 | 2025-03-27 |  |
 | [雙重標準](https://open.spotify.com/track/1OiklcoRnHkogk3CXZ5L5F) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [雙重標準](https://open.spotify.com/album/6zy9x4waP413cRXAGILBab) | 3:00 | 2025-03-27 |  |
 | [雙重標準](https://open.spotify.com/track/2T8F5UEJvJn9ppTyvcoC07) | [Michael C](https://open.spotify.com/artist/0Uz6GaLPVXMsFQ21CPmwp1) | [C Major](https://open.spotify.com/album/5ISlaZzUVuosWUpU9Uxv9l) | 3:00 | 2025-12-03 | 2026-01-15 |
+| [韓劇愛情](https://open.spotify.com/track/540EcptGH7FWJkoCIn9cYr) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [韓劇愛情](https://open.spotify.com/album/4qeJK9mEWNhp0p9Rz0Mw70) | 3:23 | 2026-02-12 |  |
 | [頭號粉絲](https://open.spotify.com/track/4TUGkhgohsCAFYtQpF5GCX) | [Arvin曾傲棐](https://open.spotify.com/artist/06kAsAUZR07oLpezOyAC1h) | [頭號粉絲](https://open.spotify.com/album/3tn92tnVJNIIYLu8MIRpQB) | 4:19 | 2025-03-27 |  |
 | [黑暗之中 In The Darkness](https://open.spotify.com/track/4OwOuEykVfSdgilc5eD5y0) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [黑暗之中 In The Darkness](https://open.spotify.com/album/7i6dsLpNE9ACiGXlOGSry5) | 7:31 | 2024-03-28 | 2025-03-28 |
 | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/track/3TewUoxPgSIvXOT0IgPf1i) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR), [Geniuz F the FUTURE](https://open.spotify.com/artist/447RvE0QN6IQgxWbllfL2g) | [黑水鬼 \(feat\. Geniuz F the FUTURE\)](https://open.spotify.com/album/084SZr4OQdAn7MH2GS3X5G) | 3:27 | 2022-05-26 | 2023-04-14 |

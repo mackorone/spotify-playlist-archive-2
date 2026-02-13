@@ -2,9 +2,9 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Dynamite Shakers au top des meilleurs morceaux rock du moment.
+> WEB au top des meilleurs morceaux rock du moment.
 
-453 songs - 1 day 1 hr 51 min
+454 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-09-28 | 2024-04-04 |
 | [Man Made of Meat](https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Man Made of Meat](https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo) | 3:09 | 2025-01-23 | 2025-04-25 |
 | [Man Of The Hour](https://open.spotify.com/track/40jXLuZysjEEqfAwXg6moM) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Dark Rainbow](https://open.spotify.com/album/4pU6rQzlCfTrSxous1m7CK) | 3:01 | 2024-03-26 | 2024-04-30 |
-| [Man On A Mission](https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Man On A Mission](https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ) | 3:31 | 2025-07-17 |  |
+| [Man On A Mission](https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Man On A Mission](https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ) | 3:31 | 2025-07-17 | 2026-02-13 |
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-10-16 |  |
 | [maybe it's me](https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [analysis paralysis](https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4) | 3:38 | 2024-08-22 | 2024-10-18 |
 | [Mayday](https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Mayday](https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3) | 3:23 | 2024-11-28 | 2025-01-10 |
@@ -399,6 +399,7 @@
 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 | 2025-09-25 |  |
 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 | 2025-09-05 |  |
 | [The Night Before](https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Night Before](https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O) | 2:34 | 2025-02-06 | 2025-07-04 |
+| [The Old Law](https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [The Old Law](https://open.spotify.com/album/0mLjKw7vC6pyyV1Fy2C8Na) | 4:41 | 2026-02-12 |  |
 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 | 2023-11-30 | 2023-12-16 |
 | [The Plan](https://open.spotify.com/track/14k3Iz1IkfJPNF3smNCxz4) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [The Plan](https://open.spotify.com/album/18PTt4ep1M8tRUbsSs0atb) | 2:53 | 2024-11-14 | 2025-03-07 |
 | [The Storm](https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Storm](https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf) | 2:53 | 2023-09-28 | 2023-10-06 |

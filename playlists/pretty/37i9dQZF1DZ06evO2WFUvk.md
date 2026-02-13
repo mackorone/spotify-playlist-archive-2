@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 
 > This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,065 likes - 28 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,064 likes - 28 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 14 | [Dicen Que La Muerte](https://open.spotify.com/track/4XwZFbFwHEZlFMwXSzSpPv) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 3:28 |
 | 15 | [Algo de Suerte](https://open.spotify.com/track/0ZGgIES5fy3c5W135lykST) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 2:44 |
 | 16 | [¿Por Que?](https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 2:34 |
-| 17 | [Rock En Vivo](https://open.spotify.com/track/6qQnPYNfBksTXYUbp7YUq5) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:53 |
+| 17 | [El Campeón](https://open.spotify.com/track/4kw4cmB6JJXA6SeqAO4x3t) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 3:48 |
 | 18 | [Diva Francesa](https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 2:17 |
 | 19 | [Solares Baldíos](https://open.spotify.com/track/6D8LxaWbw8V8gPG5RFusMc) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 4:26 |
 | 20 | [Puedes](https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:50 |
-| 21 | [El Campeón](https://open.spotify.com/track/4kw4cmB6JJXA6SeqAO4x3t) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 3:48 |
+| 21 | [Rock En Vivo](https://open.spotify.com/track/6qQnPYNfBksTXYUbp7YUq5) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:53 |
 | 22 | [El Feo](https://open.spotify.com/track/3l6pDQO0OfeHTeXzr6rTfn) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Aventuras En el Defe](https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed) | 5:51 |
 | 23 | [Huapanguero](https://open.spotify.com/track/6j8hjB5DiTxtq7W4MHFDeM) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [El Profeta Del Nopal](https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt) | 4:10 |
 | 24 | [Amor De Telefono Esquinero](https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [No Estoy Loco](https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq) | 3:19 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 27 | [Плохие танцоры](https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr) | [Tarakany!](https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Лучшие из лучших](https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u) | 3:36 |
 | 28 | [Together in the End](https://open.spotify.com/track/0pKvCo1G8Ym4m4RIQpctlo) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Together in the End](https://open.spotify.com/album/6B0OmAkBSS3pl32vOoZNtW) | 4:07 |
 
-Snapshot ID: `aYp1AAAAAABGjIFNXPUUNe4JVM0oj7wK`
+Snapshot ID: `aYvGgAAAAAA4j+Sf5NRVKMpzY8reLjTh`

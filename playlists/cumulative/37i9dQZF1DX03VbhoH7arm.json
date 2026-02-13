@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+    },
+    {
+      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
       },
@@ -3306,7 +3324,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 197105,
       "name": "Exatamente Igual",
       "url": "https://open.spotify.com/track/4sP8S3OWKfMu9IEtX1sYkS"

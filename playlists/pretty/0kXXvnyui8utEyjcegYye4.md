@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 348 songs - 20 hr 33 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 likes - 349 songs - 20 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -356,5 +356,6 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 346 | [Century](https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Century](https://open.spotify.com/album/3iEInaFAamSTND6sovehX7) | 1:49 |
 | 347 | [Tout donner \(Tiktok remix \- Electric guitar\)](https://open.spotify.com/episode/3C8gMeBUEw5U7zveZaHzdG) | [Sahari Podcasts ](https://open.spotify.com/show/0HApT3E6cTeAKAbDG7dni3) | [Sahari Podcasts ](https://open.spotify.com/album/0HApT3E6cTeAKAbDG7dni3) | 3:12 |
 | 348 | [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 |
+| 349 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 |
 
-Snapshot ID: `AAADlT74OPa2WOlLqBbpML4b9JjsES21`
+Snapshot ID: `AAADlso6Bp7A/wX25WHyVOAvvPO5mJTt`

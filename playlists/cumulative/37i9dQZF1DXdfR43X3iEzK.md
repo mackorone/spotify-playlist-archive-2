@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything ⚔️ cover: melanie martinez
 
-588 songs - 1 day 7 hr 42 min
+590 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-02-14 | 2025-03-28 |
 | [BE NO BODY](https://open.spotify.com/track/7bnY7wVOCVIv6BhTB94Ice) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [ARC 01: MAIDEN](https://open.spotify.com/album/6q1ncuiWIxsrR6tFZJ3pHn) | 3:25 | 2025-05-30 | 2025-08-15 |
 | [Beat A B!tch Up](https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Beat A B!tch Up](https://open.spotify.com/album/72oc7aJYl7732of5nXsPE2) | 2:47 | 2025-10-09 | 2026-01-30 |
-| [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 | 2025-11-07 |  |
+| [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 | 2025-11-07 | 2026-02-13 |
 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-10-31 |  |
 | [Best Be Leaving](https://open.spotify.com/track/2pEQBzoeccf6TIbJU8O26c) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Best Be Leaving](https://open.spotify.com/album/30coJQv7G8UD5Lx76VQZE1) | 3:42 | 2025-03-07 | 2025-03-28 |
 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 | 2024-07-18 | 2024-12-10 |
@@ -306,7 +306,7 @@
 | [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 | 2025-05-09 | 2025-08-08 |
 | [july/november](https://open.spotify.com/track/6hyirnhFtP1farDrJnsjy6) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [july/november](https://open.spotify.com/album/0WIBO1CU138NG5XdkJkcM5) | 3:27 | 2025-11-28 |  |
 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 | 2024-10-10 | 2025-03-21 |
-| [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-21 |  |
+| [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-21 | 2026-02-13 |
 | [Keep My Cool](https://open.spotify.com/track/1jVgdNgIRhjCoJ4Pjbee0l) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Cry About It](https://open.spotify.com/album/7a3IwZ4Qiflsi0rrEYIEp9) | 2:41 | 2025-07-10 | 2025-08-29 |
 | [Keep Møving](https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Keep Møving](https://open.spotify.com/album/72kPRMbCSy6mcaz88F2Vzm) | 3:22 | 2025-03-21 | 2025-04-18 |
 | [Keep On Dreaming](https://open.spotify.com/track/0uKLmL3J1H6XTWMAIbaKZO) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [The Greatest Love \(Deluxe\)](https://open.spotify.com/album/07SLbCNKDZmqyLIRbLjQyO) | 3:55 | 2024-10-10 | 2025-03-21 |
@@ -351,6 +351,7 @@
 | [madly](https://open.spotify.com/track/7fmt9chGer2jvnUhysySW1) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi) | [madly](https://open.spotify.com/album/1A04yD0uVhmPJgpRyia9Lc) | 2:42 | 2025-03-07 | 2025-04-04 |
 | [madonna](https://open.spotify.com/track/3jquMCbEytZmfXJpOU9pzx) | [ugly ozo](https://open.spotify.com/artist/1AUCiV4sfdNn5Ch5sTe4UI) | [madonna](https://open.spotify.com/album/0xD50sOwEbUZQuIur3c3Pe) | 3:15 | 2025-07-24 | 2025-08-29 |
 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 | 2025-07-10 | 2025-10-24 |
+| [mangetout \- The Dare remix](https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [mangetout \(The Dare remix\)](https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls) | 3:20 | 2026-02-13 |  |
 | [Maria's Problem](https://open.spotify.com/track/7xZFi4ynabOvC3aQsRGJEp) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Maria's Problem](https://open.spotify.com/album/4sXxrzKCKTaYDJOdFuZJoL) | 4:42 | 2025-09-11 |  |
 | [Maybe We Should Break Up](https://open.spotify.com/track/2zC4naFRyKUEe3WZyvHrcX) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd) | [Maybe We Should Break Up](https://open.spotify.com/album/5DJqdWWgK0YqToUuHmCtaH) | 2:52 | 2025-11-28 |  |
 | [MDE](https://open.spotify.com/track/2jDFXO72LEFopl2IM4vZoI) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [MDE](https://open.spotify.com/album/6hF8DcIpra4pbkhcgakDlm) | 4:47 | 2025-04-03 | 2025-09-20 |
@@ -449,6 +450,7 @@
 | [revolver](https://open.spotify.com/track/5YWIQc1b9cRgeh3SbsypvK) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [sandy nevermore](https://open.spotify.com/album/0rsrly3wkirq1bo91IORJ8) | 2:07 | 2025-03-28 | 2025-05-02 |
 | [Rewind \- Edit](https://open.spotify.com/track/7EFAqxkts36d4XcPUxgylZ) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Rewind](https://open.spotify.com/album/00dOnSyqmuNccxCH7rXiMd) | 1:51 | 2025-05-30 | 2025-08-08 |
 | [Riddle of 25](https://open.spotify.com/track/1MnRgZOVPqzkXz0v1YycRh) | [Beren Olivia](https://open.spotify.com/artist/5WGPbnx9LqsQYXgpnUI3DZ) | [Riddle of 25](https://open.spotify.com/album/53lTyG7QOOiKHVT4FLhoGY) | 4:02 | 2025-06-19 | 2025-08-08 |
+| [Right Hand to God](https://open.spotify.com/track/1nmR9nOziOaVohX2qCkIpU) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Right Hand to God](https://open.spotify.com/album/7iVlDKsdWH0hwblWES6qAP) | 2:13 | 2026-02-13 |  |
 | [Ringpull](https://open.spotify.com/track/78KbhvknjtlVq8W5BkcY3u) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [I Got Too Sad For My Friends](https://open.spotify.com/album/2PTF4EW8kJIeib3cQ87lJk) | 2:55 | 2025-05-30 | 2025-07-11 |
 | [Riots](https://open.spotify.com/track/4KQmxxzUgo1zBQwBM6jPtU) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Riots](https://open.spotify.com/album/1N2bmwYs5cQlI0BdcmKs8d) | 2:45 | 2024-06-07 | 2024-07-13 |
 | [RIP KP](https://open.spotify.com/track/79ntb6PIEy0xSr0DZgIZer) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [RIP KP](https://open.spotify.com/album/3AgWdgUIlQJVHdsdieSHdl) | 2:18 | 2025-06-06 | 2025-07-18 |

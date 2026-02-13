@@ -4,7 +4,7 @@
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 41 min
+77 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Dicotomía](https://open.spotify.com/track/0HrVjRj5W4Wlg80PIj2F8H) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Dicotomía](https://open.spotify.com/album/3W1ljXOggRJiHyaw8w3ujE) | 3:24 | 2024-11-11 | 2024-12-09 |
 | [Dicotomía](https://open.spotify.com/track/4kEmzLky7Pnx1TeAmzR3fY) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:24 | 2024-12-09 | 2025-04-12 |
 | [El Despilfarro](https://open.spotify.com/track/2o9fGQLK8UYhU1OVPkufag) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 2:58 | 2023-12-30 |  |
-| [El Malo de la Película](https://open.spotify.com/track/3egoacsGKBZhKp2ytmW4dO) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Polimnia](https://open.spotify.com/artist/1KdN2WeS9Zx3L2eehtzUJP) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:46 | 2023-12-30 |  |
+| [El Malo de la Película](https://open.spotify.com/track/3egoacsGKBZhKp2ytmW4dO) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Polimnia](https://open.spotify.com/artist/1KdN2WeS9Zx3L2eehtzUJP) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:46 | 2023-12-30 | 2026-02-13 |
+| [El Malo de la Película](https://open.spotify.com/track/66maa6bpHoJjsmtozGChDf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Polimnia](https://open.spotify.com/artist/1KdN2WeS9Zx3L2eehtzUJP) | [Servicios Ambulatorioz](https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2) | 3:46 | 2026-02-13 |  |
 | [El Reino de los Suelos \(2.007\)](https://open.spotify.com/track/6dUyJurwUU2zccnyrJ4g4b) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 4:36 | 2023-12-30 | 2024-11-29 |
 | [El Remate](https://open.spotify.com/track/5ACjsEe2LIsR3EeXQ8ln7j) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe) | [El Remate](https://open.spotify.com/album/1gz8DR3AQVGHmjIMBkIgR5) | 4:04 | 2023-12-30 |  |
 | [El Remate](https://open.spotify.com/track/4aJ1o4U8XpUMj8ZMAwZ9KD) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Armando Hernández](https://open.spotify.com/artist/0e57NG7eXcc9cj1q4sWN7k) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 4:04 | 2025-04-12 | 2025-12-27 |

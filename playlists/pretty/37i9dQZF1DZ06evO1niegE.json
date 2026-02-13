@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAhlY0gL/1XXra73/QjoBLm",
+  "snapshot_id": "aYvGgAAAAACU3vy+cXfsKlk/wFMtoyR6",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Plan B",
-        "url": "https://open.spotify.com/album/7h1x794Hla1SRPGMvf2ve1"
+        "name": "for good (with RENEE)",
+        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
       },
       "artists": [
         {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 187786,
-      "name": "Sin Plan B",
-      "url": "https://open.spotify.com/track/0l2UZXjizWAHzdI8w64RV0"
+      "duration_ms": 182481,
+      "name": "for good (with RENEE)",
+      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
     },
     {
       "added_at": null,
@@ -191,22 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "for good (with RENEE)",
-        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
+        "name": "Sin Plan B",
+        "url": "https://open.spotify.com/album/7h1x794Hla1SRPGMvf2ve1"
       },
       "artists": [
         {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 182481,
-      "name": "for good (with RENEE)",
-      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
+      "duration_ms": 187786,
+      "name": "Sin Plan B",
+      "url": "https://open.spotify.com/track/0l2UZXjizWAHzdI8w64RV0"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Como Quisiera",
+      "url": "https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Parece Un Chiste Con RENEE",
         "url": "https://open.spotify.com/album/3SlWcRle7SqfiMXwrzOAK0"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 149731,
       "name": "Parece Un Chiste",
       "url": "https://open.spotify.com/track/3FaN4AqtGkSMZQ1AzhEzev"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "Como Quisiera",
-      "url": "https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Viaje Al Amanecer",
+      "url": "https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canto Tu Historia (VOL. 1)",
         "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
       },
@@ -531,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+        "name": "mucho texto",
+        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
       },
       "artists": [
         {
@@ -540,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 238600,
-      "name": "Viaje Al Amanecer",
-      "url": "https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38"
+      "duration_ms": 203280,
+      "name": "as\u00ed no funciona",
+      "url": "https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3"
     },
     {
       "added_at": null,
@@ -567,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "mucho texto",
-        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
       },
       "artists": [
         {
@@ -576,9 +592,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 203280,
-      "name": "as\u00ed no funciona",
-      "url": "https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3"
+      "duration_ms": 234253,
+      "name": "Vivir En Silencio",
+      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
       "duration_ms": 152050,
       "name": "Perfecto",
       "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 234253,
-      "name": "Vivir En Silencio",
-      "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00cdO",
         "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 217232,
       "name": "M\u00cdO",
       "url": "https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Cohete",
-      "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 290040,
+      "name": "La Buena Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tributo A Una Leyenda Humberto Pab\u00f3n (Vol. 1)",
         "url": "https://open.spotify.com/album/5PXqQ8FZPV5T3Q8BpmFEk8"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 232000,
       "name": "Coraz\u00f3n De Judas",
       "url": "https://open.spotify.com/track/1p0OkY6apio6nHZnkijT7O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 290040,
-      "name": "La Buena Lecci\u00f3n",
-      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Esper\u00e1ndote",
+      "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Retrofuturismo",
         "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 176000,
       "name": "VHS",
       "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Esper\u00e1ndote",
-      "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
     },
     {
       "added_at": null,

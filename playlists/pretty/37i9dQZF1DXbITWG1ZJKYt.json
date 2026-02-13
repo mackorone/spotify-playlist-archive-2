@@ -1,6 +1,6 @@
 {
   "description": "The best tunes in Jazz history. ",
-  "num_followers": 4863704,
+  "num_followers": 4864533,
   "original_name": "Jazz Classics",
   "owner": {
     "name": "Spotify",
@@ -479,18 +479,18 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Let It All Out",
-        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 244866,
-      "name": "Love Me Or Leave Me",
-      "url": "https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt"
+      "duration_ms": 173533,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -511,18 +511,18 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 173533,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl"
+      "duration_ms": 244866,
+      "name": "Love Me Or Leave Me",
+      "url": "https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Ella Sings Gershwin",
         "url": "https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 259812,
       "name": "Too Young To Go Steady",
       "url": "https://open.spotify.com/track/1qeO0T3LIqlUvrELz3Gngk"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 167493,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
+        "name": "The Great American Songbook",
+        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 201466,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 258106,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
-        "name": "The Great American Songbook",
-        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 201466,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/7GBPpRMtLyGA6svXQMNfIN"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Look Out! (Remastered)",
         "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 295200,
       "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/7GBPpRMtLyGA6svXQMNfIN"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 203466,
       "name": "C Jam Blues",
       "url": "https://open.spotify.com/track/4aThNuFztJ15YremppiZUJ"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "This Is Always",
-      "url": "https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 477093,
       "name": "Maiden Voyage - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0T1EaGm6b9eM7xBf4F1hlc"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "This Is Always",
+      "url": "https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/1B9CLt71zBlS87qDLXqcqQ"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "Let's Do It",
-      "url": "https://open.spotify.com/track/67fFApZyHZ9LjsvkUQJShY"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "The K\u00f6ln Concert",
         "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 416840,
       "name": "K\u00f6ln, January 24, 1975, Part II c - Live",
       "url": "https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/1B9CLt71zBlS87qDLXqcqQ"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 185466,
+      "name": "Let's Do It",
+      "url": "https://open.spotify.com/track/67fFApZyHZ9LjsvkUQJShY"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Jazz p\u00e5 svenska",
-        "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
-      },
-      "artists": [
-        {
-          "name": "Jan Johansson",
-          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "Visa fr\u00e5n Utanmyra",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "The Atomic Mr Basie",
         "url": "https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 217373,
       "name": "Splanky",
       "url": "https://open.spotify.com/track/3Y0LpU5kqQ3vSZvwcGjl1M"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Jazz p\u00e5 svenska",
+        "url": "https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE"
+      },
+      "artists": [
+        {
+          "name": "Jan Johansson",
+          "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Visa fr\u00e5n Utanmyra",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 403640,
-      "name": "Blue Rondo \u00e0 la Turk",
-      "url": "https://open.spotify.com/track/36MLLjFug6TJYNODUVR7av"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -2123,6 +2107,22 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 403640,
+      "name": "Blue Rondo \u00e0 la Turk",
+      "url": "https://open.spotify.com/track/36MLLjFug6TJYNODUVR7av"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
         "name": "Royal Flush",
         "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
       },
@@ -2151,22 +2151,6 @@
       "duration_ms": 405226,
       "name": "I'm A Fool To Want You",
       "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 442226,
-      "name": "Strange Meadow Lark",
-      "url": "https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -2207,6 +2191,22 @@
       "duration_ms": 435266,
       "name": "So Tender",
       "url": "https://open.spotify.com/track/0Dt1B5dNfajRczQKZA87aL"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 442226,
+      "name": "Strange Meadow Lark",
+      "url": "https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -2775,22 +2775,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 313440,
-      "name": "He's Younger Than You Are - From \"Alfie\" Score",
-      "url": "https://open.spotify.com/track/11vaRXRIFXJTRr3BuzNbk5"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Our Man In Paris (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
@@ -2803,6 +2787,22 @@
       "duration_ms": 495373,
       "name": "A Night In Tunisia - Rudy Van Gelder Edition / 2003 Remaster",
       "url": "https://open.spotify.com/track/5KQ6uddno2Hht84gJDHsPF"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/5vU75tE3FqpzFnbCXZuRE5"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 313440,
+      "name": "He's Younger Than You Are - From \"Alfie\" Score",
+      "url": "https://open.spotify.com/track/11vaRXRIFXJTRr3BuzNbk5"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -2883,22 +2883,6 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
-        }
-      ],
-      "duration_ms": 309360,
-      "name": "Paul's Pal - Rudy Van Gelder Remastered 2006 / Shared ISRC",
-      "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
         "name": "Way Out West (OJC Remaster)",
         "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
       },
@@ -2939,6 +2923,22 @@
       "duration_ms": 370866,
       "name": "'Long As You Know You're Living Yours",
       "url": "https://open.spotify.com/track/5z7deaTe21B7QVPhSDouL1"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 309360,
+      "name": "Paul's Pal - Rudy Van Gelder Remastered 2006 / Shared ISRC",
+      "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
     },
     {
       "added_at": "2026-01-16 13:09:26",
@@ -3171,6 +3171,22 @@
     {
       "added_at": "2026-01-16 13:09:26",
       "album": {
+        "name": "The Complete Capitol Recordings Of Art Tatum",
+        "url": "https://open.spotify.com/album/0Qp4pPAZ6EP9aMyFenfXpu"
+      },
+      "artists": [
+        {
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/0ADAFZE0bYIuaIyPNFl3LE"
+    },
+    {
+      "added_at": "2026-01-16 13:09:26",
+      "album": {
         "name": "Crystal Silence",
         "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
       },
@@ -3187,22 +3203,6 @@
       "duration_ms": 377706,
       "name": "Senor Mouse",
       "url": "https://open.spotify.com/track/6linlPbVWEecMEMfNcul1e"
-    },
-    {
-      "added_at": "2026-01-16 13:09:26",
-      "album": {
-        "name": "The Complete Capitol Recordings Of Art Tatum",
-        "url": "https://open.spotify.com/album/0Qp4pPAZ6EP9aMyFenfXpu"
-      },
-      "artists": [
-        {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/0ADAFZE0bYIuaIyPNFl3LE"
     },
     {
       "added_at": "2026-01-16 13:09:26",

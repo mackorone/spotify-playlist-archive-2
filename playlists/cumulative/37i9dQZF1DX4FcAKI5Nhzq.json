@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: BOYNEXTDOOR)",
+  "description": "Future K-Pop hits! (Cover: CHUNG HA)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -11755,6 +11755,24 @@
     },
     {
       "album": {
+        "name": "JIWOO 1st EP '(EX)IST'",
+        "url": "https://open.spotify.com/album/1BtEjWVuWfNpzBJIC4PoAm"
+      },
+      "artists": [
+        {
+          "name": "JEON JIWOO",
+          "url": "https://open.spotify.com/artist/5xvL2dDchuH75OLqQ6HCzj"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194682,
+      "name": "Home Sweet Home",
+      "url": "https://open.spotify.com/track/5dCcaQuXndqZd5r6KICHAD"
+    },
+    {
+      "album": {
         "name": "; [Semicolon]",
         "url": "https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL"
       },
@@ -16748,7 +16766,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 204000,
       "name": "Memory Balloon",
       "url": "https://open.spotify.com/track/12r4rXFlvyDfJdJSixSQVz"
@@ -26486,6 +26504,24 @@
       "duration_ms": 221638,
       "name": "Trust Me (MIDZY)",
       "url": "https://open.spotify.com/track/1NXZyqdvqt6pXe9XPaOfp1"
+    },
+    {
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/6eT4LKo7jWInz7LDS2Jky3"
+      },
+      "artists": [
+        {
+          "name": "HWANG MIN HYUN",
+          "url": "https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0a4O30qpS18xaHGS5l1ZCT"
     },
     {
       "album": {

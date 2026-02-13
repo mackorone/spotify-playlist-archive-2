@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Mi Fido Di Te",
+        "url": "https://open.spotify.com/album/2jgeoZfOlI6KCyBPvPApxz"
+      },
+      "artists": [
+        {
+          "name": "Riccardo Stimolo",
+          "url": "https://open.spotify.com/artist/4EhjjoVdrX6UUIs7H95WJW"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189397,
+      "name": "Mi Fido Di Te",
+      "url": "https://open.spotify.com/track/3YKmi0tPQL4mpcDIvXQbUV"
+    },
+    {
+      "album": {
         "name": "RAGAZZO DI GI\u00d9",
         "url": "https://open.spotify.com/album/6mb62aOsgJ2yItwqViACbE"
       },

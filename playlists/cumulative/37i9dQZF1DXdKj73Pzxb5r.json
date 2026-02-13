@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Elephant Kind",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Alahad",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 204500,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2J1l4yVdYwMke3ydYgn2Mz"
@@ -642,7 +642,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 248000,
       "name": "Belum Boleh Pulang",
       "url": "https://open.spotify.com/track/3lBOSflCf0zyZK3NHZ3dfk"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 223103,
       "name": "Best",
       "url": "https://open.spotify.com/track/2M7OFg3jM19RdwxklwGTJX"
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 169166,
       "name": "birthday/bad day",
       "url": "https://open.spotify.com/track/0itpp9VHB2NVa2Mv0Cr8UB"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 264600,
       "name": "Cerah Merekah",
       "url": "https://open.spotify.com/track/4TW70WgLLPdpkmPdvNVJGx"
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 163862,
       "name": "Dear Diary",
       "url": "https://open.spotify.com/track/1Fi14RVbPnkAk2CSFgHskR"
@@ -1812,6 +1812,28 @@
       "duration_ms": 252679,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/5DQSWzbuysaOIcA5eynSvb"
+    },
+    {
+      "album": {
+        "name": "Di Balik Senyap",
+        "url": "https://open.spotify.com/album/1Iu5uc5rQV4W7nHBEe2eNF"
+      },
+      "artists": [
+        {
+          "name": "Themilo",
+          "url": "https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS"
+        },
+        {
+          "name": "Leonardo Ringo",
+          "url": "https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346024,
+      "name": "Di Balik Senyap",
+      "url": "https://open.spotify.com/track/2fyfrAc8mncLRrHUgYlCpW"
     },
     {
       "album": {
@@ -1898,7 +1920,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 197906,
       "name": "Diana?",
       "url": "https://open.spotify.com/track/1lliFwwcOTf9M3to9qNpXP"
@@ -2524,7 +2546,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 228778,
       "name": "forevermore",
       "url": "https://open.spotify.com/track/5V5Ap2hQE1TziFozK3VNm6"
@@ -2752,7 +2774,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 269275,
       "name": "Glacial",
       "url": "https://open.spotify.com/track/4tidPc7OulW5mIUc17zQ5q"
@@ -3518,6 +3540,24 @@
       "duration_ms": 245903,
       "name": "Jagadhita",
       "url": "https://open.spotify.com/track/752raq1ayodQTY2Ke6Mx3j"
+    },
+    {
+      "album": {
+        "name": "Jalan Nan Buntu",
+        "url": "https://open.spotify.com/album/7aWbz7dmnstNyNw0z4GxCr"
+      },
+      "artists": [
+        {
+          "name": "Alahad",
+          "url": "https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241040,
+      "name": "Jalan Nan Buntu",
+      "url": "https://open.spotify.com/track/0D2nnlk9PKm6uXTJY5EF7K"
     },
     {
       "album": {
@@ -4402,7 +4442,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 215735,
       "name": "Lapor Mas Wapres",
       "url": "https://open.spotify.com/track/1ottATig7wFOwVe0HOE2N7"
@@ -5116,7 +5156,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 175000,
       "name": "Melati",
       "url": "https://open.spotify.com/track/62l2nQqggtXIiljDHLaeEb"
@@ -5134,7 +5174,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 302142,
       "name": "Melayang",
       "url": "https://open.spotify.com/track/6NDRdNur75SmvumwhjxwJ0"
@@ -6122,7 +6162,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 216548,
       "name": "Pengantar Tidur",
       "url": "https://open.spotify.com/track/2Z9ffJHlZQ3hYZRp6205TZ"
@@ -6368,7 +6408,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 179000,
       "name": "Please",
       "url": "https://open.spotify.com/track/1mvDVmFHqxdyFTkRUExzG4"
@@ -6654,7 +6694,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 263879,
       "name": "Regret",
       "url": "https://open.spotify.com/track/4agohq4gXxIT5ZuJYWgq9y"
@@ -6712,7 +6752,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 169685,
       "name": "Rindu Lintas Ruang dan Waktu",
       "url": "https://open.spotify.com/track/4ooJqu9HGsltS46D2R1dvn"
@@ -6814,7 +6854,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 261333,
       "name": "Rumah Terakhir",
       "url": "https://open.spotify.com/track/2RYTOchHmp7oqhUva7wpvD"
@@ -7176,6 +7216,24 @@
       "duration_ms": 242823,
       "name": "Selayang Serindu",
       "url": "https://open.spotify.com/track/3xwl4BYD8CFevons4dKt2n"
+    },
+    {
+      "album": {
+        "name": "Sembunyi",
+        "url": "https://open.spotify.com/album/4z2p6BK8w2VF6SKZIWg5Tx"
+      },
+      "artists": [
+        {
+          "name": "Pertunjukan",
+          "url": "https://open.spotify.com/artist/3LCVPJDhAuLXDGiNCb6Km4"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292500,
+      "name": "Sembunyi",
+      "url": "https://open.spotify.com/track/2UhSDafBQvRgdUbkE0LFwe"
     },
     {
       "album": {
@@ -7926,7 +7984,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 306281,
       "name": "Tak Ada Jawabnya",
       "url": "https://open.spotify.com/track/694tyQSX19EqSKmzrkfJs9"
@@ -8812,7 +8870,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 266926,
       "name": "What I Feel",
       "url": "https://open.spotify.com/track/1PGNxyuK7fScstRsOiwkyc"
@@ -8830,7 +8888,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 248253,
       "name": "When We Left Our Sparks Back in Yesterday",
       "url": "https://open.spotify.com/track/3EUXMfnCw4mxf460xsVhVI"

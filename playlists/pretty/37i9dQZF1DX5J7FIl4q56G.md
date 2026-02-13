@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Haste The Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,930 likes - 105 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,964 likes - 105 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

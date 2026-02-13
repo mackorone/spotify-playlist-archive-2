@@ -1,12 +1,12 @@
 {
   "description": "This is Lily Allen. The essential tracks, all in one playlist.",
-  "num_followers": 94559,
+  "num_followers": 94568,
   "original_name": "This Is Lily Allen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADO/RWSWxugZZT8FpBY5lby",
+  "snapshot_id": "aYvGgAAAAADQXTciuYo+nrkuGjp/UB0V",
   "tracks": [
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Shame",
-        "url": "https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 191400,
-      "name": "Come on Then",
-      "url": "https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ"
+      "duration_ms": 227927,
+      "name": "Somewhere Only We know - Live from Spotify, London",
+      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
+        "name": "No Shame",
+        "url": "https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 227927,
-      "name": "Somewhere Only We know - Live from Spotify, London",
-      "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
+      "duration_ms": 191400,
+      "name": "Come on Then",
+      "url": "https://open.spotify.com/track/0258EtxjiL6jPMPcqyVSEQ"
     },
     {
       "added_at": null,

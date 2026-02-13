@@ -5659,6 +5659,24 @@
     },
     {
       "album": {
+        "name": "Remember Me (Arr. Hough for Piano) [From \"Coco\"]",
+        "url": "https://open.spotify.com/album/6IRI0CJjAauUSsN0gGZ9iv"
+      },
+      "artists": [
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167666,
+      "name": "Remember Me (Arr. Hough for Piano) - From \"Coco\"",
+      "url": "https://open.spotify.com/track/0qjBaywnLtQCiZ60AFsC5i"
+    },
+    {
+      "album": {
         "name": "Respiro 1",
         "url": "https://open.spotify.com/album/3QbInQ4qlPnjsvt8u0tjzL"
       },
@@ -6858,7 +6876,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 198466,
       "name": "The Road: 6. Husedalen",
       "url": "https://open.spotify.com/track/1z2yoZMj4TSEwWVfRq8sqR"

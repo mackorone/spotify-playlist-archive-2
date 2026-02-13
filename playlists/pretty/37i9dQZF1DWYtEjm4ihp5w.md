@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Cover: Najm, Abduh
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,918 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,954 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 5 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
 | 6 | [Solo](https://open.spotify.com/track/0rLh9IK6NFwf7y1olqlaCL) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Solo](https://open.spotify.com/album/6QfyShuriVcck7b8sHD2Wm) | 2:46 |
 | 7 | [INSOMNIA HOTEL](https://open.spotify.com/track/6AdlRsXVF7FppB7d02xfFm) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [INSOMNIA HOTEL](https://open.spotify.com/album/3kT1lgMRNW7eAx2ObKdTRN) | 2:39 |
-| 8 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 |
-| 9 | [Genkidama](https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Genkidama](https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde) | 2:31 |
-| 10 | [Fat L7al](https://open.spotify.com/track/6NkranQpHTZTmgxka20LAe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 3:19 |
-| 11 | [Fundo](https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Fundo](https://open.spotify.com/album/0y5YNIoy8QZ3igG8A06VCI) | 3:41 |
-| 12 | [Hello Kitty](https://open.spotify.com/track/6gyhZ6bMdy7FDTYCeqgwec) | [LMLTM](https://open.spotify.com/artist/0uKwNVVupedJeBbIuvXBG2), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Just Feel Me](https://open.spotify.com/album/1pGyDBBEYlMOlqeZy2axu0) | 3:01 |
-| 13 | [Cagoulé pt2](https://open.spotify.com/track/3f1GODLf3GYUH6ReHyTrKR) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Cagoulé pt2](https://open.spotify.com/album/0G9fkhG7XtdYDSwGVwWWtV) | 2:55 |
-| 14 | [Lyke Dat](https://open.spotify.com/track/2NJjqqZQUoWo5vsXM6osYp) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lyke Dat](https://open.spotify.com/album/1Fx4UhGZo2w6CTliXvZg8F) | 2:14 |
+| 8 | [Lyke Dat](https://open.spotify.com/track/2NJjqqZQUoWo5vsXM6osYp) | [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Lyke Dat](https://open.spotify.com/album/1Fx4UhGZo2w6CTliXvZg8F) | 2:14 |
+| 9 | [BOOMX3](https://open.spotify.com/track/1VnPRHaig5GgIEl2sbqSse) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [BOOMX3](https://open.spotify.com/album/2je8AEedrhkhv56NNStF2F) | 2:56 |
+| 10 | [Genkidama](https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Genkidama](https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde) | 2:31 |
+| 11 | [Fat L7al](https://open.spotify.com/track/6NkranQpHTZTmgxka20LAe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 3:19 |
+| 12 | [Fundo](https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Fundo](https://open.spotify.com/album/0y5YNIoy8QZ3igG8A06VCI) | 3:41 |
+| 13 | [Hello Kitty](https://open.spotify.com/track/6gyhZ6bMdy7FDTYCeqgwec) | [LMLTM](https://open.spotify.com/artist/0uKwNVVupedJeBbIuvXBG2), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Just Feel Me](https://open.spotify.com/album/1pGyDBBEYlMOlqeZy2axu0) | 3:01 |
+| 14 | [Cagoulé pt2](https://open.spotify.com/track/3f1GODLf3GYUH6ReHyTrKR) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Cagoulé pt2](https://open.spotify.com/album/0G9fkhG7XtdYDSwGVwWWtV) | 2:55 |
 | 15 | [Nabra](https://open.spotify.com/track/0bQzTbyG0KppLpnMkS9SSe) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [B4](https://open.spotify.com/album/1WPhX0Sfh6MHHGqw14JvR5) | 2:42 |
 | 16 | [SOLIDE](https://open.spotify.com/track/0CodDf6ggz8hvHNo8aEV7b) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [PLAN B](https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N) | 3:01 |
 | 17 | [T3EQDNA](https://open.spotify.com/track/5FXzuIVsWsm1etUoohqXNc) | [ELHAFIDY](https://open.spotify.com/artist/3GJvh5FBiMYYwvQW28SWng) | [SILENT BATTLES](https://open.spotify.com/album/4YYVqtKRTFNA5ORSC9tRmY) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Melina](https://open.spotify.com/track/59HzCbmWvBNQrJ51eoeb0j) | [STOOR](https://open.spotify.com/artist/2wVLdXpXN7s8NvThzK2CFN), [lferda](https://open.spotify.com/artist/3V3d0V2Gj2UnVBhDxi9Rjg) | [Melina](https://open.spotify.com/album/69Zhxbvtd7WFxNRoor9MD9) | 3:21 |
 | 50 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 |
 
-Snapshot ID: `AAAAADpwn3tPDd2NnFGj2617ivnoTE8j`
+Snapshot ID: `AAAAABbiOGIpHKCF0/yxs2NeNg7yrnVU`

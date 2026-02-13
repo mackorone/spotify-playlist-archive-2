@@ -7014,7 +7014,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-29",
+      "date_removed": null,
       "duration_ms": 228836,
       "name": "CAF\u00e9 CON RON",
       "url": "https://open.spotify.com/track/6VNXmo59yDYgcwLS17UNAW"
@@ -9088,7 +9088,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 173786,
       "name": "Cool for the Summer - Hardstyle",
       "url": "https://open.spotify.com/track/7qe4U5w24EnDIMao2uLZnc"
@@ -9632,7 +9632,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 160645,
       "name": "Cry For Me WA WA WA",
       "url": "https://open.spotify.com/track/30C4LSxZHCWNtUjnZUxEoJ"
@@ -12594,6 +12594,24 @@
       "duration_ms": 206796,
       "name": "Edge of Saturday Night",
       "url": "https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201816,
+      "name": "El Apag\u00f3n",
+      "url": "https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz"
     },
     {
       "album": {
@@ -16260,7 +16278,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 159390,
       "name": "Glow",
       "url": "https://open.spotify.com/track/6nHyY8kHh39ZB4SfsQ35zD"
@@ -16892,7 +16910,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 230137,
       "name": "gravity",
       "url": "https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8"
@@ -24107,6 +24125,28 @@
     },
     {
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
+    },
+    {
+      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
       },
@@ -24786,7 +24826,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 179924,
       "name": "LET 'EM KNOW",
       "url": "https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi"
@@ -25599,6 +25639,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229381,
+      "name": "LO QUE LE PAS\u00d3 A HAWAii",
+      "url": "https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk"
+    },
+    {
+      "album": {
         "name": "Lobster",
         "url": "https://open.spotify.com/album/5OkXmwhtsqoqrWaFKGUSOV"
       },
@@ -25814,7 +25872,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 169308,
       "name": "Loose Pt. 3",
       "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
@@ -25840,7 +25898,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 169308,
       "name": "Loose Pt. 3",
       "url": "https://open.spotify.com/track/2YIG7QIUOKs35C590rmxSE"
@@ -28974,6 +29032,24 @@
       "duration_ms": 137191,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/5Fhr3wqeieN5WDkAsqL1JJ"
+    },
+    {
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
     },
     {
       "album": {
@@ -32922,7 +32998,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,227 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,306 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 72 | [Sunshy](https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J) | [Alison's Halo](https://open.spotify.com/artist/0QqpFsm55FdqfpCEIiHUgS) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 5:53 |
 | 73 | [Square Wave](https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW) | [The Ecstasy Of Saint Theresa](https://open.spotify.com/artist/37WxvPv7fSfSDpy1H0D4AO) | [Still In A Dream: A Story Of Shoegaze 1988\-1995](https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao) | 3:41 |
 | 74 | [Prayer Song](https://open.spotify.com/track/3CIkfgQ4r6MPCDmWOl2AEo) | [The Charlottes](https://open.spotify.com/artist/4kgTkv0kJu4b2psOX7yJNL) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 4:27 |
-| 75 | [Breather](https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \- The Original Recordings](https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0) | 4:32 |
-| 76 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 |
+| 75 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 |
+| 76 | [Breather](https://open.spotify.com/track/0ZNj4TIIcZwrAI1l7GgZMT) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \- The Original Recordings](https://open.spotify.com/album/2eq2u7XWepjSNsf1YYUgb0) | 4:32 |
 | 77 | [Splashdown](https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Splashdown: The Complete Creation Recordings 1990\-1992](https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG) | 3:11 |
 | 78 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 |
 | 79 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 |

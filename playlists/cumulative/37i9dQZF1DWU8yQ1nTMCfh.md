@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Zoé
 
-347 songs - 19 hr 19 min
+348 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Cochina Crop Top](https://open.spotify.com/track/4ScLWxzOMebsJ7TktbkePd) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Cochina Crop Top](https://open.spotify.com/album/1uVM0NzQXuTejFe1JKfvKq) | 2:31 | 2022-04-15 | 2022-12-10 |
 | [Con los Pies en el Techo](https://open.spotify.com/track/6nMllahSeGPicYXH61ray7) | [Noan](https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM) | [Con los Pies en el Techo](https://open.spotify.com/album/72aS3wri62UToYS68QLUn4) | 3:27 | 2023-02-13 | 2023-07-25 |
 | [Control](https://open.spotify.com/track/1oMxupNpysPWP2u90mEyur) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [FREESSR](https://open.spotify.com/album/1d7MgwIErE9frncQHqnuqk) | 3:45 | 2022-04-15 | 2023-02-26 |
+| [Corazón de pollo](https://open.spotify.com/track/2AmBHtF9A6mvsVz7QNRbB1) | [Estamos Perdidos](https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP) | [Corazón de pollo](https://open.spotify.com/album/3cZOTSFXraZaRyhXVLePDS) | 3:23 | 2026-02-11 |  |
 | [Corazón del Universo](https://open.spotify.com/track/2EFPmEqUxdC3zjLgE4gq8j) | [El Viaje de Lázaro](https://open.spotify.com/artist/5BaL7UhFbZfIv7FzOD9so0) | [Corazón del Universo](https://open.spotify.com/album/2Ys2tKZJdONUJmOTubrmn5) | 3:47 | 2022-04-15 | 2022-12-10 |
 | [Corto Circuito](https://open.spotify.com/track/2QRDPXSOlA03Tj6BHPIjH9) | [Sierra León](https://open.spotify.com/artist/0cyhvPv23KSGqLirkaCPyV) | [Corto Circuito](https://open.spotify.com/album/7iLicaTgffN4CToV3nhSv6) | 2:19 | 2022-04-15 | 2022-12-10 |
 | [Cosa Mía](https://open.spotify.com/track/1h2Au6U97bvTS1O9ruDLeD) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Cosa Mía](https://open.spotify.com/album/31hRNOYxr20j8Ov01jujgw) | 2:49 | 2022-04-15 | 2023-01-23 |
@@ -263,7 +264,7 @@
 | [qué pasaría](https://open.spotify.com/track/4d05KAL0QGo0ZpVuB4YOv8) | [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [qué pasaría](https://open.spotify.com/album/13tIQlqfTIxaz1HSl0yUce) | 3:13 | 2026-02-06 |  |
 | [Quédate Con Él](https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Eva](https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz) | 2:43 | 2023-03-21 |  |
 | [Quédate un Momento](https://open.spotify.com/track/4wP3CULcMp6YIWJnEw4SVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Quédate un Momento](https://open.spotify.com/album/5kbmefnSNwoRa6H8fGe4C1) | 3:03 | 2024-07-12 | 2026-02-02 |
-| [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2024-09-13 |  |
+| [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2024-09-13 | 2026-02-13 |
 | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps) | 2:47 | 2023-01-06 | 2023-03-04 |
 | [RAMONA FLOWERS](https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAMONA FLOWERS](https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am) | 3:01 | 2022-08-08 | 2024-02-24 |
 | [Recuerdos Desechables](https://open.spotify.com/track/3nmWYdUjSSEV27OWk4z0Ml) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Recuerdos Desechables](https://open.spotify.com/album/0MxaA5v1gwQtnqUzcB3x3d) | 3:30 | 2022-12-09 | 2023-02-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Maria Marçal
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,362 likes - 80 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,395 likes - 80 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 24 | [Tome Posse da Vitória \(Ao Vivo\)](https://open.spotify.com/track/0dPhAYC73cQPAfCDg9yj5T) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Tome Posse da Vitória \(Ao Vivo\)](https://open.spotify.com/album/4FqY2NSYlpamvnQosMuwVJ) | 4:31 |
 | 25 | [Espírito Santo](https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Espírito Santo](https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB) | 4:47 |
 | 26 | [Tua Graça Me Basta \- Ao Vivo](https://open.spotify.com/track/4xWBgNSXmSjV9TZb9ESvAv) | [Esther Fiaux](https://open.spotify.com/artist/5PywE2A2fAv0seRcwWC0YY), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tua Graça Me Basta \(Ao Vivo\)](https://open.spotify.com/album/61uch0I53YX2d3eifc15D7) | 8:07 |
-| 27 | [Melhor Amigo / O Que Seria de Mim \- Ao Vivo](https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE) | [Nair Nany](https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho), [Dimy Francisco](https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8), [Eunice Zumbuca](https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p) | [Melhor Amigo / O Que Seria de Mim \(Ao Vivo\)](https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7) | 11:18 |
-| 28 | [Sou Eu \(Ao Vivo\)](https://open.spotify.com/track/45IOQmuDtNp9h0AkCpNIEn) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/4Dd5MlQVW6isFsQ38T2LUb) | 4:41 |
+| 27 | [Sou Eu \(Ao Vivo\)](https://open.spotify.com/track/45IOQmuDtNp9h0AkCpNIEn) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Sou Eu \(Ao Vivo\)](https://open.spotify.com/album/4Dd5MlQVW6isFsQ38T2LUb) | 4:41 |
+| 28 | [Melhor Amigo / O Que Seria de Mim \- Ao Vivo](https://open.spotify.com/track/7oIrgnR8LIkuFPJPITmGAE) | [Nair Nany](https://open.spotify.com/artist/2FytFld4ckIocJkdotYqho), [Dimy Francisco](https://open.spotify.com/artist/0IhNu2CI6WYmku2qxXPUX8), [Eunice Zumbuca](https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p) | [Melhor Amigo / O Que Seria de Mim \(Ao Vivo\)](https://open.spotify.com/album/0M1MWbqzgq6IKEgS5LgfN7) | 11:18 |
 | 29 | [Hebreus 1 \- Ao Vivo](https://open.spotify.com/track/7DQOqbaquRT0VZmkfgo54z) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm), [JesusCopy Music](https://open.spotify.com/artist/4CDhTrPFRLfba48VJR9L4b), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [Hebreus 1 \(Ao Vivo\)](https://open.spotify.com/album/2iaC0zdDp1yuYAPUBWBjtv) | 10:25 |
 | 30 | [Infinitamente Mais \- Ao Vivo](https://open.spotify.com/track/1vEKFk0V7nMMHxTvO93rPS) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Infinitamente Mais \(Ao Vivo\)](https://open.spotify.com/album/0hLwPk4otJkzdwzRtOdWtv) | 6:15 |
 | 31 | [A Presença](https://open.spotify.com/track/4oOWcwpwEuTU7Fewmna98p) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [A Presença \(43 Anos Louvor Eterno\) \[Ao Vivo, Curitiba, Teatro Positivo, 2025\]](https://open.spotify.com/album/67wXgN3GtBrGBnIDFc2XxC) | 5:53 |

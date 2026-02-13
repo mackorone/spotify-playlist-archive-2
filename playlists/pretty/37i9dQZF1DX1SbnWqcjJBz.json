@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 133543,
+  "num_followers": 133570,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 255866,
+      "name": "Holler",
+      "url": "https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Late Night Feelings (feat. Lykke Li)",
         "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 251028,
       "name": "Late Night Feelings (feat. Lykke Li)",
       "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 255866,
-      "name": "Holler",
-      "url": "https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "A Public Affair",
+        "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
+      },
+      "artists": [
+        {
+          "name": "Jessica Simpson",
+          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+        }
+      ],
+      "duration_ms": 201466,
+      "name": "A Public Affair",
+      "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Record Collection",
         "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 297933,
       "name": "Somebody to Love Me",
       "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "A Public Affair",
-        "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
-      },
-      "artists": [
-        {
-          "name": "Jessica Simpson",
-          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
-        }
-      ],
-      "duration_ms": 201466,
-      "name": "A Public Affair",
-      "url": "https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Ooh Aah...Just a Little Bit (Eurovision Version)",
-        "url": "https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1"
-      },
-      "artists": [
-        {
-          "name": "Gina G",
-          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
-        }
-      ],
-      "duration_ms": 182333,
-      "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
-      "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "What Are You Waiting For?",
         "url": "https://open.spotify.com/album/3MS1gNAz5pde4zfLKlALc3"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Ooh Aah...Just a Little Bit (Eurovision Version)",
+        "url": "https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1"
+      },
+      "artists": [
+        {
+          "name": "Gina G",
+          "url": "https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8"
+        }
+      ],
+      "duration_ms": 182333,
+      "name": "Ooh Aah... Just A Little Bit - Eurovision Version",
+      "url": "https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "EMOTION SIDE B",
         "url": "https://open.spotify.com/album/31776n0a6xHYMHSlK4983u"
       },
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Buzz",
-        "url": "https://open.spotify.com/album/3v05QR8PM7Mc8zba3jR8Na"
+        "name": "Dying to Say This to You (Premium Download Version)",
+        "url": "https://open.spotify.com/album/2wMzDXOaSQnRJQ3PcuTSGG"
       },
       "artists": [
         {
-          "name": "Steps",
-          "url": "https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7"
+          "name": "The Sounds",
+          "url": "https://open.spotify.com/artist/0W2XAE5AnBWqcGNhfupEOU"
         }
       ],
-      "duration_ms": 197360,
-      "name": "It's the Way You Make Me Feel",
-      "url": "https://open.spotify.com/track/2B1jt2a6zdN4qLiugoEJry"
+      "duration_ms": 192066,
+      "name": "Tony the Beat",
+      "url": "https://open.spotify.com/track/6QxQz4h8vdcVb9NZq2x8RO"
     }
   ],
   "unique_name": "Deserved",

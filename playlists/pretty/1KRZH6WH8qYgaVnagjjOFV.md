@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Top Christian Hits 2026 \| Latest and greatest Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 \| feeling cozy
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 371,900 likes - 142 songs - 9 hr 24 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 371,928 likes - 142 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

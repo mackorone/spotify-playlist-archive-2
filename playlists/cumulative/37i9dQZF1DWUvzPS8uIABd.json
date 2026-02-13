@@ -11014,7 +11014,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 141372,
       "name": "Poikii on",
       "url": "https://open.spotify.com/track/5Lcqxese2p6RAAw3maH81R"
@@ -11505,6 +11505,24 @@
     },
     {
       "album": {
+        "name": "Rakastumisen oireet",
+        "url": "https://open.spotify.com/album/2cM5W1rwV48w6sdpp68RgA"
+      },
+      "artists": [
+        {
+          "name": "Elias Kaskinen",
+          "url": "https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Rakastumisen oireet",
+      "url": "https://open.spotify.com/track/7t0l5dhhyXHdSscnNTwPuR"
+    },
+    {
+      "album": {
         "name": "Rakastut muihin tytt\u00f6ihin",
         "url": "https://open.spotify.com/album/1OfUXX1PZtEi3AbT22bTXc"
       },
@@ -11614,7 +11632,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 195549,
       "name": "Rakkauteen (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
       "url": "https://open.spotify.com/track/5TeqjpMEE4YAgo1NtlCje9"
@@ -12908,6 +12926,24 @@
       "duration_ms": 209523,
       "name": "Sisko",
       "url": "https://open.spotify.com/track/5GsPlZhyZhpYWqFQagfySb"
+    },
+    {
+      "album": {
+        "name": "Sisko ja sen veli",
+        "url": "https://open.spotify.com/album/1ZsxL73Hpo3JpiS4GqkqKg"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188216,
+      "name": "Sisko ja sen veli",
+      "url": "https://open.spotify.com/track/4QK7HRDhvO5ujhMhWG2wuD"
     },
     {
       "album": {

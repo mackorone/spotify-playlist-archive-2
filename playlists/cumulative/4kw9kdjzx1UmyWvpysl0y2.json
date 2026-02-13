@@ -2543,6 +2543,32 @@
     },
     {
       "album": {
+        "name": "Best of Me",
+        "url": "https://open.spotify.com/album/09ynBz2UFJqcvCYCevXD4e"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "Dia Frampton",
+          "url": "https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253024,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/5elOQoKVxdk7B76s4rEwNM"
+    },
+    {
+      "album": {
         "name": "Best Thing",
         "url": "https://open.spotify.com/album/72x4qPqql8qgMXf9HILb0j"
       },
@@ -19158,7 +19184,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 170000,
       "name": "Snowglobe",
       "url": "https://open.spotify.com/track/6UJJQojiWeKnlKJqvMZVPr"

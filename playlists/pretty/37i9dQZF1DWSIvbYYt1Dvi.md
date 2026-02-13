@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > só tem uma coisa a dizer\. VENÇA!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,149,833 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,149,799 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

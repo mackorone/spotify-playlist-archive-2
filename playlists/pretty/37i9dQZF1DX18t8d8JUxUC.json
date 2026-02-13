@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 32427,
+  "num_followers": 32446,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Sin Final Feliz",
         "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 144215,
       "name": "Qu\u00e9 bonito fue",
       "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Vendr\u00e1n Suaves Lluvias",
         "url": "https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 245161,
       "name": "Ojos Del Sol",
       "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "no me culpes por sentir",
-        "url": "https://open.spotify.com/album/5nzJbUqiBTfaAOXe8cT8be"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "no me culpes por sentir",
-      "url": "https://open.spotify.com/track/251OT3yt4toRcJkwyNR7R4"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Estas Canciones Me Recuerdan a Ti",
         "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 203950,
       "name": "La Ola",
       "url": "https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "no me culpes por sentir",
+        "url": "https://open.spotify.com/album/5nzJbUqiBTfaAOXe8cT8be"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "no me culpes por sentir",
+      "url": "https://open.spotify.com/track/251OT3yt4toRcJkwyNR7R4"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Paola",
+          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
+        }
+      ],
+      "duration_ms": 187649,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
         "name": "TRES",
         "url": "https://open.spotify.com/album/51rakYlQnb8n9t74lBPKEu"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 206040,
       "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
       "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Paola",
-          "url": "https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx"
-        }
-      ],
-      "duration_ms": 187649,
-      "name": "M\u00e1s",
-      "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 201674,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/1r21c8aJPF8XFY0zJT5poD"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 231604,
       "name": "Un ratito m\u00e1s",
       "url": "https://open.spotify.com/track/6oxu4nBUPJonbBptv1bX1n"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 201674,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Qu\u00e9 Problema",
-        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204735,
-      "name": "Qu\u00e9 Problema",
-      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Neblina Sesiones desde el Bosque",
         "url": "https://open.spotify.com/album/2lMcIJqzPaS4qJahlHpUHA"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 204417,
       "name": "Por Ahorita",
       "url": "https://open.spotify.com/track/0FO7EvnAJStsLu0eIIBp73"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "azul",
-        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "azul",
-      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Escuchado",
         "url": "https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 175412,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "azul",
+        "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "azul",
+      "url": "https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 202610,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
         "name": "Nada Para Ti",
         "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 202610,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Ahi Estar\u00e9",
-        "url": "https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 180103,
-      "name": "Ahi Estar\u00e9",
-      "url": "https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Al Pie del Volc\u00e1n",
         "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
       },
@@ -1611,18 +1595,18 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+        "name": "Ahi Estar\u00e9",
+        "url": "https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
         }
       ],
-      "duration_ms": 158121,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
+      "duration_ms": 180103,
+      "name": "Ahi Estar\u00e9",
+      "url": "https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1639,6 +1623,22 @@
       "duration_ms": 165500,
       "name": "Valles",
       "url": "https://open.spotify.com/track/5giedFuwGdJ15xqJPuEHvg"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 158121,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
     },
     {
       "added_at": "2026-01-30 05:01:09",

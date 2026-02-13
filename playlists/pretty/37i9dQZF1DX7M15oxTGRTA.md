@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,429 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,516 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,21 +27,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 17 | [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 |
 | 18 | [Everybody Loves The Sunshine](https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Everybody Loves The Sunshine \(Reissue\)](https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf) | 3:59 |
 | 19 | [Lovin' You](https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Perfect Angel](https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9) | 3:43 |
-| 20 | [I Like It](https://open.spotify.com/track/1c5KZhtOAOH7eFOlBekNhS) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [All This Love](https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW) | 4:39 |
+| 20 | [I Can't Help It](https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:29 |
 | 21 | [I Want You](https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 4:34 |
-| 22 | [I Can't Help It](https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:29 |
+| 22 | [I Like It](https://open.spotify.com/track/1c5KZhtOAOH7eFOlBekNhS) | [DeBarge](https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV) | [All This Love](https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW) | 4:39 |
 | 23 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 |
 | 24 | [Footsteps in the Dark, Pts\. 1 & 2](https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Go for Your Guns](https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l) | 5:06 |
-| 25 | [Kiss and Say Goodbye](https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Manhattans \(Expanded Version\)](https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv) | 4:26 |
-| 26 | [Rush Rush](https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC) | [Paula Abdul](https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j) | [Spellbound](https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH) | 4:52 |
-| 27 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:58 |
+| 25 | [The Lady in My Life](https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:58 |
+| 26 | [Kiss and Say Goodbye](https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Manhattans \(Expanded Version\)](https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv) | 4:26 |
+| 27 | [Rush Rush](https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC) | [Paula Abdul](https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j) | [Spellbound](https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH) | 4:52 |
 | 28 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 |
 | 29 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
 | 30 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
 | 31 | [Love, Love, Love](https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 3:22 |
-| 32 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 |
-| 33 | [Superwoman](https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz) | [Karyn White](https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F) | [Karyn White](https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F) | 5:47 |
-| 34 | [Where Are We Going?](https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Gold](https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9) | 3:55 |
+| 32 | [Superwoman](https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz) | [Karyn White](https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F) | [Karyn White](https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F) | 5:47 |
+| 33 | [Where Are We Going?](https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Gold](https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9) | 3:55 |
+| 34 | [Love T.K.O.](https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [TP \(Expanded Edition\)](https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO) | 4:59 |
 | 35 | [Reasons](https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 4:59 |
 | 36 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:25 |
 | 37 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |

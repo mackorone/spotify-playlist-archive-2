@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLToO3EeTtX.md) - [plain]
 
 > Get away from the maddening crowds with this peaceful pop mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,565 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,567 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLToO3EeTtX.md) - [plain]
 | 14 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 15 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 16 | [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 |
-| 17 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 |
-| 18 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 17 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 18 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 |
 | 19 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 | 20 | [we fell in love in october](https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [we fell in love in october / October Passed Me By](https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa) | 3:04 |
 | 21 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLToO3EeTtX.md) - [plain]
 | 44 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 |
 | 45 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 46 | [Strawberries & Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Strawberries & Cigarettes](https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy) | 3:21 |
-| 47 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
-| 48 | [Cheating on You](https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Cheating on You](https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L) | 3:16 |
+| 47 | [Cheating on You](https://open.spotify.com/track/0ClPIeT6MSgfSgQ9ZrJbAq) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Cheating on You](https://open.spotify.com/album/1cZNFKrwWK0PGqQFUspj3L) | 3:16 |
+| 48 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
 | 49 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 |
 | 50 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 

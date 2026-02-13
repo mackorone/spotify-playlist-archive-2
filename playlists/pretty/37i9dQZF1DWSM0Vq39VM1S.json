@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388720,
+  "num_followers": 388718,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "Against The Current",
-        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 216426,
-      "name": "Against The Current",
-      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
         "name": "Pale Blue Eyes",
         "url": "https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D"
       },
@@ -295,34 +279,18 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "After the First Kiss",
-        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
+        "name": "Against The Current",
+        "url": "https://open.spotify.com/album/680Q8QjaLVuXs6MO9xLVJY"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
         }
       ],
-      "duration_ms": 214756,
-      "name": "After the First Kiss",
-      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
-    },
-    {
-      "added_at": "2026-02-05 23:00:16",
-      "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
+      "duration_ms": 216426,
+      "name": "Against The Current",
+      "url": "https://open.spotify.com/track/2p1ifc7yOpZDgBUZd6WpsQ"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -343,6 +311,22 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
+        "name": "After the First Kiss",
+        "url": "https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 214756,
+      "name": "After the First Kiss",
+      "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
         "name": "Ridin' (Deluxe)",
         "url": "https://open.spotify.com/album/1sN04YNP3ZXH3zEKN2xX9p"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 233051,
       "name": "Dreamin'",
       "url": "https://open.spotify.com/track/05RVHlafuc1NMa2ci1GS0U"
+    },
+    {
+      "added_at": "2026-02-05 23:00:16",
+      "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2026-02-05 23:00:16",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-02-05 23:00:16",
       "album": {
-        "name": "Good Company",
-        "url": "https://open.spotify.com/album/1Sh6wJdwNxKzgnYsMpVBW3"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4KDnylxQXJbcBTbMzc9E3Q"
       },
       "artists": [
         {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
         }
       ],
-      "duration_ms": 205598,
-      "name": "Good Company",
-      "url": "https://open.spotify.com/track/4gsWaXmgcuOpqUA1tR7FXN"
+      "duration_ms": 137148,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3ibjwFminiiudfT76RkuvU"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

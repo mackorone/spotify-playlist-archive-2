@@ -1003,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "Loving You So Bad",
+        "url": "https://open.spotify.com/album/70FS5UEzQpaDOiFjheNEn0"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burnette & The Rock 'N' Roll Trio",
+          "url": "https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133066,
+      "name": "Butterfingers",
+      "url": "https://open.spotify.com/track/41z9kJttoxYmeyXnnbjDMu"
+    },
+    {
+      "album": {
         "name": "Tear It Up: The Complete Legedary Coral Recordings",
         "url": "https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6"
       },
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 133066,
       "name": "Butterfingers - Single Version",
       "url": "https://open.spotify.com/track/0siVlVPtt6nCf5oNLpCEG4"
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 155440,
       "name": "Down in My Heart",
       "url": "https://open.spotify.com/track/5i2htOvtGdlfn5yNNUtR7f"
@@ -4488,7 +4506,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"
@@ -5546,10 +5564,28 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 150360,
       "name": "My Happiness",
       "url": "https://open.spotify.com/track/1fYArjYLrU5N9nfjBEgQwA"
+    },
+    {
+      "album": {
+        "name": "The Muscle Shoals Sessions",
+        "url": "https://open.spotify.com/album/2kUWzEQ99UqU0Wl80ownG2"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141440,
+      "name": "My Happiness - Re-Record",
+      "url": "https://open.spotify.com/track/4lARnYb8WwJBOTb8WJeQzq"
     },
     {
       "album": {
@@ -9254,7 +9290,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 152996,
       "name": "Woodman, Woodman, Spare That Tree",
       "url": "https://open.spotify.com/track/44aWmakMiiBMruioUKDFQe"

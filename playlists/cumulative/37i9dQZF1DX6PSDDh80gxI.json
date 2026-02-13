@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "supernova \u00e8 il nuovo album di mobrici che \u00e8 qua su indie italia \u2604\ufe0f",
+  "description": "La fine della guerra \u00e8 il nuovo album di svegliaginevra, ed \u00e8 qua su indie italia \ud83c\udf6d",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -426,6 +426,24 @@
       "duration_ms": 152829,
       "name": "Al cuore gentile",
       "url": "https://open.spotify.com/track/2KdngEV1IO0FvXW7rliNTw"
+    },
+    {
+      "album": {
+        "name": "Al suo riposo, In luce",
+        "url": "https://open.spotify.com/album/36s9HaLZdbHhAj9p5cVUUz"
+      },
+      "artists": [
+        {
+          "name": "Gaia Banfi",
+          "url": "https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277180,
+      "name": "Al suo riposo",
+      "url": "https://open.spotify.com/track/47AEJ7ZhJvcJYbcKIgLIPb"
     },
     {
       "album": {
@@ -5338,7 +5356,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 238226,
       "name": "Occhi diamanti (feat. Joan Thiele)",
       "url": "https://open.spotify.com/track/7r63nk6dEDZzZZ5BUoDcup"

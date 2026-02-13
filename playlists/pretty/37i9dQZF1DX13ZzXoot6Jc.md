@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Luke Combs and Country hits that will have you singing every word.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,330 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,324 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 13 | [Am I Okay?](https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:55 |
 | 14 | [Just Like Johnny](https://open.spotify.com/track/3Sg0jiuv2ckmxTBX4tLJQq) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Old No\. 7](https://open.spotify.com/album/6xbAU0Dd22IURpRcpHy0lj) | 3:19 |
 | 15 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 |
-| 16 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
-| 17 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 |
+| 16 | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/track/0y5Ex8oQ8zCH5TQxHUy1Eo) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [you look like you love me \(feat\. Riley Green\)](https://open.spotify.com/album/69iNwop7x6VMhFMLEEtY1j) | 3:44 |
+| 17 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
 | 18 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
 | 19 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
 | 20 | [Where It Ends](https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:59 |
@@ -101,10 +101,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 91 | [Can You Die From a Broken Heart \- feat\. Avril Lavigne](https://open.spotify.com/track/5GgOktu3FrHdb26jTrS4AK) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Can You Die From a Broken Heart \(feat\. Avril Lavigne\)](https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim) | 3:30 |
 | 92 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 |
 | 93 | [Casino](https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Casino](https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f) | 2:38 |
-| 94 | [Drink Around](https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Drink Around](https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k) | 2:28 |
-| 95 | [STRAIGHT LINE](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [STRAIGHT LINE](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 |
+| 94 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
+| 95 | [Drink Around](https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Drink Around](https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k) | 2:28 |
 | 96 | [Later Tonight](https://open.spotify.com/track/0y1ck7CTQGlC2pLz8GM0S7) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/05TVIc1IFYdlBur7QIqMBx) | 2:42 |
-| 97 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
+| 97 | [STRAIGHT LINE](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [STRAIGHT LINE](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 |
 | 98 | [Good News Sold](https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good News Sold](https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ) | 3:23 |
 | 99 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 |
 | 100 | [Use Me](https://open.spotify.com/track/2Y6U2OC9N1brRnTvhaoQdq) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3Fesk0ynWRBHEj7qk22r3B) | 3:46 |

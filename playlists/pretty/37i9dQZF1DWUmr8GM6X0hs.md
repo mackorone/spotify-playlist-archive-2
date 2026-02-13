@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,497 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,523 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 10 | [Con Tinta Roja](https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3) | [Los Hermanos Castro](https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc) | [20 Años de Amor: Canciones y Recuerdos](https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf) | 2:58 |
 | 11 | [Tú Me Haces Falta](https://open.spotify.com/track/4mOmZqz9rjPTqphPiot9WK) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [La Historia De Jose Feliciano](https://open.spotify.com/album/0Nev5wXF40lBeYwjz1syW9) | 2:49 |
 | 12 | [En la orilla del mar \(Bolero version\)](https://open.spotify.com/track/4ok44lUrhQgJEoyQq5Ot3N) | [Bienvenido Granda](https://open.spotify.com/artist/4IyPs1rPOAQOnXeqUTjty4) | [Cuba: Bienvenido Granda](https://open.spotify.com/album/3RxQinQEYdWBtAZkrMGfRt) | 2:50 |
-| 13 | [Mil Cosas](https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R) | [Boleros De Siempre](https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK) | 2:51 |
-| 14 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
+| 13 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
+| 14 | [Mil Cosas](https://open.spotify.com/track/2uJpuids3FAuhAsLjp5Zzm) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R) | [Boleros De Siempre](https://open.spotify.com/album/4fSSeuuh9omsQmCQh0OcpK) | 2:51 |
 | 15 | [El Contragolpe](https://open.spotify.com/track/0AhVIj5X2xmVf1I7MCoFzz) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv) | 2:33 |
 | 16 | [La Mentira](https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Esencial Ana y Victor](https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn) | 3:05 |
 | 17 | [Únicamente Tu](https://open.spotify.com/track/4DTfQauneAY5cjuTMTfSMQ) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:35 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 41 | [La Última Copa](https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Daniel Santos](https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc) | 2:01 |
 | 42 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
 | 43 | [Trompo de Juguete](https://open.spotify.com/track/26YLEP0iOR8C8Ub38m7je1) | [Nacho Sanabria](https://open.spotify.com/artist/78JOr5y1zeRRDqcIJWmw4G) | [14 Grandes Exitos de Nacho Sanabria](https://open.spotify.com/album/7MkZgWtVL5mhtSASyFB51T) | 4:25 |
-| 44 | [Cruel Condena](https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX) | [Franklin Cabrejos](https://open.spotify.com/artist/2P2hO7D86NyPtMfxThbisN) | [Grandes del Bolero](https://open.spotify.com/album/0tazysjvIraPaJRG2StAjw) | 2:49 |
-| 45 | [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 |
+| 44 | [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 |
+| 45 | [Cruel Condena](https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX) | [Franklin Cabrejos](https://open.spotify.com/artist/2P2hO7D86NyPtMfxThbisN) | [Grandes del Bolero](https://open.spotify.com/album/0tazysjvIraPaJRG2StAjw) | 2:49 |
 | 46 | [Alguien Me Dijo](https://open.spotify.com/track/0ck988yod8D7E9zefW5GoA) | [Los Pasteles Verdes](https://open.spotify.com/artist/2lHzW2pMhRYX3ohx5lZY8y) | [Historia: Discografía Completa](https://open.spotify.com/album/7wGasepTMbhvpGtBRzPTlg) | 3:34 |
 | 47 | [Añoranza Del Amor](https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Añoranza Del Amor](https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4) | 2:58 |
 | 48 | [Busco Tu Recuerdo](https://open.spotify.com/track/2GGnD1MQHcIzFqaSuVoNLh) | [Charlie Figueroa](https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS), [La Sonora Malecón Club](https://open.spotify.com/artist/54X5g4szxWMk0W8gIAxCTJ) | [Mis Mejores Éxitos](https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u) | 2:42 |

@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f with John Summit",
-  "num_followers": 467664,
+  "num_followers": 468125,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 161250,
       "name": "Fight Machine (feat. NAIIM)",
       "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
-        }
-      ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1415,30 +1415,6 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        },
-        {
-          "name": "BARBZ",
-          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
-        }
-      ],
-      "duration_ms": 227735,
-      "name": "\u2060\u2060Butterflies",
-      "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
         "name": "Go Back (feat. Julia Church)",
         "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
       },
@@ -1459,6 +1435,30 @@
       "duration_ms": 220538,
       "name": "Go Back (feat. Julia Church)",
       "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+        }
+      ],
+      "duration_ms": 227735,
+      "name": "\u2060\u2060Butterflies",
+      "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
+        "name": "Feels Like Us",
+        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 234545,
+      "name": "Feels Like Us",
+      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
         "name": "Inside Our Hearts",
         "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 234086,
       "name": "Inside Our Hearts",
       "url": "https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
-        "name": "Feels Like Us",
-        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Feels Like Us",
-      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2026-02-06 05:00:44",
       "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 165276,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
-    },
-    {
-      "added_at": "2026-02-06 05:00:44",
-      "album": {
         "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
         "url": "https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
+    },
+    {
+      "added_at": "2026-02-06 05:00:44",
+      "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 165276,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
     },
     {
       "added_at": "2026-02-06 05:00:44",

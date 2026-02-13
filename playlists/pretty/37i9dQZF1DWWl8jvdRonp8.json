@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 295545,
+  "num_followers": 295630,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "Como Tu Mujer",
-      "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "O Me Voy O Te Vas",
         "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 242133,
       "name": "O Me Voy O Te Vas",
       "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -427,26 +427,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Como Tu Mujer - Banda",
-      "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
         "url": "https://open.spotify.com/album/3QbrSkxFkJ89HGE0i7GyfA"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 227973,
       "name": "La Vida Entera (feat. Marco Antonio Sol\u00eds)",
       "url": "https://open.spotify.com/track/73lcrkJKuPLoMWF0UnecCb"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Como Tu Mujer - Banda",
+      "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Las Romanticas Favoritas de Fuerza Regida",
         "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 197880,
       "name": "No Puedo Olvidarla",
       "url": "https://open.spotify.com/track/7b1TG0vsbfYWRvMtnR4t7Z"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
-        "name": "Hablando Claro",
-        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
-      },
-      "artists": [
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Y Ahora Te Vas",
-      "url": "https://open.spotify.com/track/3YQSe3Xg8sqy8wjFQc87kI"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
         "name": "Victor Garc\u00eda",
         "url": "https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 234586,
       "name": "Y Ahora Te Vas",
       "url": "https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "Hablando Claro",
+        "url": "https://open.spotify.com/album/595muujRN4z39Y3rOmSgML"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/3YQSe3Xg8sqy8wjFQc87kI"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -1996,9 +1996,9 @@
           "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 289906,
-      "name": "Para Que Seas Feliz",
-      "url": "https://open.spotify.com/track/67v0HTNTkJmbhxOipBunXe"
+      "duration_ms": 265986,
+      "name": "Recuerdos, Tristeza Y Soledad",
+      "url": "https://open.spotify.com/track/2KFmDh82VngNDLjk5HUMVu"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -2015,22 +2015,6 @@
       "duration_ms": 286013,
       "name": "Chiquilla Bonita",
       "url": "https://open.spotify.com/track/4bJxRW2Tnpx7Kq4Bu7nNBM"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "En Pleno Vuelo",
-        "url": "https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 265986,
-      "name": "Recuerdos, Tristeza Y Soledad",
-      "url": "https://open.spotify.com/track/2KFmDh82VngNDLjk5HUMVu"
     },
     {
       "added_at": "2025-01-23 17:30:18",
@@ -2079,6 +2063,22 @@
       "duration_ms": 257399,
       "name": "Donde Estara Mi Primavera",
       "url": "https://open.spotify.com/track/5fUMiojNarx83jSyA1MhFH"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
+        "name": "En Pleno Vuelo",
+        "url": "https://open.spotify.com/album/5fWaew2IpKu89VnhyCFTV9"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 289906,
+      "name": "Para Que Seas Feliz",
+      "url": "https://open.spotify.com/track/67v0HTNTkJmbhxOipBunXe"
     },
     {
       "added_at": "2025-01-23 17:30:18",

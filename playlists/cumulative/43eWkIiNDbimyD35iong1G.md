@@ -4,7 +4,7 @@
 
 > Celebrate your wedding with over 100 love songs\. Perfect for dancing at the reception party, saying your vows, walking down the aisle, and the romantic first dance❤️
 
-281 songs - 16 hr 51 min
+282 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Don't Stop \- 2004 Remaster](https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 3:13 | 2023-03-24 |  |
 | [Eternal Flame](https://open.spotify.com/track/2BJmGtlUq5abmG0i64xSzD) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Eternal Flame](https://open.spotify.com/album/1GGbxiDMS1IfClccAeXm9W) | 2:35 | 2022-04-19 | 2022-07-02 |
 | [Euphoria \- Single Version](https://open.spotify.com/track/7tY2meg4csUMUjPXgFBRKk) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Euphoria](https://open.spotify.com/album/75aUQwIa504ehmWDDkXMXi) | 3:01 | 2023-05-19 | 2023-12-14 |
+| [Ever & Ever Before](https://open.spotify.com/track/4YhMnXwp2khsqK05irNhDp) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [MŌRIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv), [Courtney Smallbone](https://open.spotify.com/artist/4K8Y4stLh0ndgHPBll3nMJ) | [Ever & Ever Before](https://open.spotify.com/album/6Ib03CnwNxVNok7OahkFwd) | 3:50 | 2026-02-12 |  |
 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 | 2022-04-19 | 2022-06-18 |
 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 | 2022-04-19 |  |
 | [Everywhere](https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In The Night](https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV) | 3:42 | 2022-04-19 | 2022-11-15 |
@@ -283,7 +284,7 @@
 | [You Bet Your Sweet, Sweet Love](https://open.spotify.com/track/08uko64fCznlv7h4YYKJyD) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Wedding Songs](https://open.spotify.com/album/55aDarji66T5sb3cWEpDWS) | 4:38 | 2022-10-04 |  |
 | [You Bet Your Sweet, Sweet Love](https://open.spotify.com/track/7LZB4dVzGlJJ9BQYHdJru8) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Young Hearts Run Free \(US Internet Release\)](https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ) | 4:38 | 2022-04-19 | 2022-10-05 |
 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 | 2022-04-19 | 2022-10-22 |
-| [You Say](https://open.spotify.com/track/3L99Ze40qI1MjhJwgW47OO) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Perfect Love Songs](https://open.spotify.com/album/3BDpTcOr7UBrvRrpdpZHzk) | 4:34 | 2025-03-21 |  |
+| [You Say](https://open.spotify.com/track/3L99Ze40qI1MjhJwgW47OO) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Perfect Love Songs](https://open.spotify.com/album/3BDpTcOr7UBrvRrpdpZHzk) | 4:34 | 2025-03-21 | 2026-02-13 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2022-04-19 | 2025-03-22 |
 | [You'll Be Mine](https://open.spotify.com/track/0bL2cwYV2pZbbKYs574LRf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Lonestar Lovers](https://open.spotify.com/album/2xyvl5XfGUFnOffGH0InU6) | 2:50 | 2025-03-21 |  |
 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 | 2023-03-24 |  |

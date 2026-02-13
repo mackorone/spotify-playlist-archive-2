@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAC+FF5lVaN3zILegKdvi7HI",
+  "snapshot_id": "aYvGgAAAAADUsuEClrkHDHazm6tVdSqP",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yo Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/2GNs6TNh2SOt14bYTtTdlz"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 177057,
+      "name": "Yo Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/69WQFSP8koVnREo2xapcnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 188162,
       "name": "Equivocarse - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3jJshgZPbc6glVBW9HLFKf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Te Quiero M\u00e1s",
-        "url": "https://open.spotify.com/album/2GNs6TNh2SOt14bYTtTdlz"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 177057,
-      "name": "Yo Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/69WQFSP8koVnREo2xapcnZ"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Quiero Amarte",
-        "url": "https://open.spotify.com/album/1s548Q6mTkf9bOYivdgrE5"
-      },
-      "artists": [
-        {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
-        },
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 188729,
-      "name": "Ya No Quiero Amarte",
-      "url": "https://open.spotify.com/track/5aa5ycJnO3yDcmSjihjyBu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 143737,
       "name": "Qu\u00e9 F\u00e1cil - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Quiero Amarte",
+        "url": "https://open.spotify.com/album/1s548Q6mTkf9bOYivdgrE5"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 188729,
+      "name": "Ya No Quiero Amarte",
+      "url": "https://open.spotify.com/track/5aa5ycJnO3yDcmSjihjyBu"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Se Me Ve Tan Mal (NSMVTM)",
-        "url": "https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 165473,
-      "name": "No Se Me Ve Tan Mal (NSMVTM)",
-      "url": "https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 150650,
       "name": "Bueno Para Mi - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3GvCjdrQeL1bYb32FelX1F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Se Me Ve Tan Mal (NSMVTM)",
+        "url": "https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 165473,
+      "name": "No Se Me Ve Tan Mal (NSMVTM)",
+      "url": "https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Qu\u00e9 Te Vas",
-        "url": "https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 201190,
-      "name": "Por Qu\u00e9 Te Vas",
-      "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -639,28 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurr\u00ed de Juan Gabriel",
-        "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
-        },
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 294653,
-      "name": "Popurr\u00ed de Juan Gabriel",
-      "url": "https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "Por Qu\u00e9 Te Vas",
+        "url": "https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3"
       },
       "artists": [
         {
@@ -668,9 +632,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 171808,
-      "name": "Inevitables",
-      "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
+      "duration_ms": 201190,
+      "name": "Por Qu\u00e9 Te Vas",
+      "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
     },
     {
       "added_at": null,
@@ -687,6 +651,22 @@
       "duration_ms": 178295,
       "name": "Para No Esperarte M\u00e1s",
       "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 171808,
+      "name": "Inevitables",
+      "url": "https://open.spotify.com/track/4JMUQ3AAgymNlyhHkmnpXj"
     },
     {
       "added_at": null,
@@ -711,6 +691,26 @@
       "duration_ms": 174259,
       "name": "Explicaci\u00f3n (feat. Santiago Deluchi) - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/6R5PCnAowVAFAgH85Ru5vX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Popurr\u00ed de Juan Gabriel",
+        "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 294653,
+      "name": "Popurr\u00ed de Juan Gabriel",
+      "url": "https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 198112,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisi\u00f3n)",
         "url": "https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 158297,
       "name": "Caramelo - Banda Sonora Original De La Serie De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 198112,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2"
     },
     {
       "added_at": null,

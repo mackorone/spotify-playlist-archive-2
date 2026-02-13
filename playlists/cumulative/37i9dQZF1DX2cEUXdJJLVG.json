@@ -2422,7 +2422,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 207900,
       "name": "Endless Night",
       "url": "https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU"
@@ -3906,6 +3906,28 @@
       "duration_ms": 233133,
       "name": "In The Moment",
       "url": "https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY"
+    },
+    {
+      "album": {
+        "name": "IN THE MOOD",
+        "url": "https://open.spotify.com/album/2yqXQoPy4jAsKnB3TrWVtf"
+      },
+      "artists": [
+        {
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
+        },
+        {
+          "name": "Josh Cade",
+          "url": "https://open.spotify.com/artist/6I002beltKQ6yfbP1xHN5r"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192086,
+      "name": "IN THE MOOD",
+      "url": "https://open.spotify.com/track/70a5DOAwTeMjHBjvJdj6H2"
     },
     {
       "album": {

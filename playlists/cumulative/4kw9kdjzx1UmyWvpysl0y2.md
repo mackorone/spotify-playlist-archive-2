@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,172 songs - 2 day 17 hr 28 min
+1,173 songs - 2 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Believe What You Want](https://open.spotify.com/track/3RH3mCy2PIH6289cqQWgdl) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Believe What You Want](https://open.spotify.com/album/2x0aTQEZATNEOcXEUINCwe) | 4:38 | 2024-09-30 | 2025-01-10 |
 | [Believe What You Want \- Tokyo Machine Remix](https://open.spotify.com/track/4atZ397uEMc82psNuBd1Vs) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [Believe What You Want \(Tokyo Machine Remix\)](https://open.spotify.com/album/1M95lzVN1aCGVMdpd18ykb) | 3:40 | 2025-10-08 | 2026-01-15 |
 | [Bella Ciao](https://open.spotify.com/track/7D3h8trsx2ZMvrzafWipKX) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [Bella Ciao](https://open.spotify.com/album/22GBiZ8ccOeY4Oeit6AgxO) | 2:00 | 2024-10-02 | 2025-01-10 |
+| [Best of Me](https://open.spotify.com/track/5elOQoKVxdk7B76s4rEwNM) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Best of Me](https://open.spotify.com/album/09ynBz2UFJqcvCYCevXD4e) | 4:13 | 2026-02-12 |  |
 | [Best Thing](https://open.spotify.com/track/1LZWrNzPgzYudiej9NPbkH) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Fagin](https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV), [Marg Pappas](https://open.spotify.com/artist/39ZlbcpvLujmbnB2yYsDS5) | [Best Thing](https://open.spotify.com/album/72x4qPqql8qgMXf9HILb0j) | 3:55 | 2024-11-19 | 2025-02-27 |
 | [Between](https://open.spotify.com/track/1cdmC5U4jiWu6cEkMYFnht) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Between](https://open.spotify.com/album/0Z7L3gEHByeBMuzk66tViT) | 3:17 | 2025-08-13 | 2025-11-07 |
 | [Between the Lines](https://open.spotify.com/track/4i3yA5Fw7yDsm7WtXXbFKK) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Between the Lines](https://open.spotify.com/album/2ZfG7t9gQhlSA9fHvyqvta) | 4:35 | 2022-02-01 | 2022-04-13 |
@@ -927,7 +928,7 @@
 | [Snakebite](https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy) | [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Snakebite](https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN) | 3:12 | 2025-05-02 | 2025-07-26 |
 | [Snakes & Ladders](https://open.spotify.com/track/5pTSuqFgMdCYszgtpqo5NW) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Snakes & Ladders](https://open.spotify.com/album/75SOx68GKRsHhu4ErYOe3A) | 3:02 | 2023-07-04 | 2023-12-14 |
 | [Snowflake](https://open.spotify.com/track/4VvZTuzlS4YxA47LWp589i) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Snowflake](https://open.spotify.com/album/4PczSQmF1bDcTTZw93cYjA) | 3:42 | 2024-05-28 | 2024-08-17 |
-| [Snowglobe](https://open.spotify.com/track/6UJJQojiWeKnlKJqvMZVPr) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA) | [Snowglobe](https://open.spotify.com/album/3olphOfuxOVH6cV9IEIUfA) | 2:50 | 2025-11-12 |  |
+| [Snowglobe](https://open.spotify.com/track/6UJJQojiWeKnlKJqvMZVPr) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA) | [Snowglobe](https://open.spotify.com/album/3olphOfuxOVH6cV9IEIUfA) | 2:50 | 2025-11-12 | 2026-02-13 |
 | [SO ABSURD](https://open.spotify.com/track/4jzBFkBWHnMovc9fnND3Tm) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [SO ABSURD](https://open.spotify.com/album/5OkjBm4prdIorIAYptLT81) | 2:32 | 2023-10-04 | 2024-01-19 |
 | [SO ABSURD \- VIP](https://open.spotify.com/track/7jzH4NsGtOq2mVAQRC5BD2) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [microcelebrity \(Remixes\)](https://open.spotify.com/album/0CbP5M5WzdEP5RB82uf6YO) | 2:28 | 2024-12-19 | 2025-03-29 |
 | [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 | 2022-09-02 |

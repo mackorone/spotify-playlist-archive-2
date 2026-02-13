@@ -1,6 +1,6 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 119415,
+  "num_followers": 119431,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
@@ -255,18 +255,18 @@
     {
       "added_at": "2026-02-10 15:00:11",
       "album": {
-        "name": "UNDEAD",
-        "url": "https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e"
+        "name": "I Want You to Tell Me the Moon is Beautiful!",
+        "url": "https://open.spotify.com/album/3CW4GK7h8PO7t18vQHbEoc"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "kakizaki yuta",
+          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
         }
       ],
-      "duration_ms": 182702,
-      "name": "UNDEAD",
-      "url": "https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv"
+      "duration_ms": 147187,
+      "name": "I Want You to Tell Me the Moon is Beautiful!",
+      "url": "https://open.spotify.com/track/2CSbGdlvxO4sGBEL9ZPAcZ"
     },
     {
       "added_at": "2026-02-10 15:00:11",
@@ -303,6 +303,22 @@
     {
       "added_at": "2026-02-10 15:00:11",
       "album": {
+        "name": "UNDEAD",
+        "url": "https://open.spotify.com/album/6MJBA73OCvq4FEJqYhXn9e"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 182702,
+      "name": "UNDEAD",
+      "url": "https://open.spotify.com/track/5NxmDq0yXBYGfCbMqvIXuv"
+    },
+    {
+      "added_at": "2026-02-10 15:00:11",
+      "album": {
         "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
         "url": "https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 219200,
       "name": "\u30d5\u30a1\u30bf\u30fc\u30eb - Fatal",
       "url": "https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT"
-    },
-    {
-      "added_at": "2026-02-10 15:00:11",
-      "album": {
-        "name": "I Want You to Tell Me the Moon is Beautiful!",
-        "url": "https://open.spotify.com/album/3CW4GK7h8PO7t18vQHbEoc"
-      },
-      "artists": [
-        {
-          "name": "kakizaki yuta",
-          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
-        }
-      ],
-      "duration_ms": 147187,
-      "name": "I Want You to Tell Me the Moon is Beautiful!",
-      "url": "https://open.spotify.com/track/2CSbGdlvxO4sGBEL9ZPAcZ"
     },
     {
       "added_at": "2026-02-10 15:00:11",
@@ -815,22 +815,18 @@
     {
       "added_at": "2026-02-10 15:00:11",
       "album": {
-        "name": "Gold Unbalance",
-        "url": "https://open.spotify.com/album/6YZgsSoo9i8Kxw1t6zXB36"
+        "name": "Ghost Avenue",
+        "url": "https://open.spotify.com/album/0xqWaDWVYb16HY8TR6nCn6"
       },
       "artists": [
         {
-          "name": "Mori Calliope",
-          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
-        },
-        {
-          "name": "\u4e2d\u5cf6\u5065\u4eba",
-          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
         }
       ],
-      "duration_ms": 192413,
-      "name": "Gold Unbalance",
-      "url": "https://open.spotify.com/track/5QNhLQXwvqwC97oRSqsIae"
+      "duration_ms": 173606,
+      "name": "Ghost Avenue",
+      "url": "https://open.spotify.com/track/2GDRgBKMBmo0uNUh2pLe77"
     }
   ],
   "unique_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",

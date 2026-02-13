@@ -1,6 +1,6 @@
 {
   "description": "When you're thinking of the one who gives you the butterflies. ",
-  "num_followers": 252192,
+  "num_followers": 252280,
   "original_name": "Crushing ",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-02-11 03:54:56",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2025-02-11 03:54:56",
+      "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2025-02-11 03:54:56",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "added_at": "2025-02-11 03:54:56",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-02-11 03:54:56",
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228593,
-      "name": "8TEEN",
-      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
-    },
-    {
-      "added_at": "2025-02-11 03:54:56",
-      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": "2025-02-11 03:54:56",
       "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228593,
+      "name": "8TEEN",
+      "url": "https://open.spotify.com/track/5bgwqaRSS3M8WHWruHgSL5"
+    },
+    {
+      "added_at": "2025-02-11 03:54:56",
+      "album": {
         "name": "In Between Dreams",
         "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
@@ -931,26 +931,6 @@
       "duration_ms": 207680,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
-    },
-    {
-      "added_at": "2025-02-11 03:54:56",
-      "album": {
-        "name": "Mulholland Drive",
-        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
-        }
-      ],
-      "duration_ms": 153312,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
     },
     {
       "added_at": "2025-02-11 03:54:56",
@@ -999,6 +979,26 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2025-02-11 03:54:56",
+      "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "duration_ms": 153312,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
     },
     {
       "added_at": "2025-02-11 03:54:56",
@@ -1101,22 +1101,6 @@
       "url": "https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX"
     },
     {
-      "added_at": "2025-02-11 03:54:56",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 219053,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
-    },
-    {
       "added_at": "2025-06-23 22:25:34",
       "album": {
         "name": "American Heart",
@@ -1131,6 +1115,22 @@
       "duration_ms": 181666,
       "name": "I Wanna Be The One You Call",
       "url": "https://open.spotify.com/track/6CFJSaEwbJB9m8gCM8nksX"
+    },
+    {
+      "added_at": "2025-02-11 03:54:56",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 219053,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS"
     },
     {
       "added_at": "2025-02-11 03:54:56",

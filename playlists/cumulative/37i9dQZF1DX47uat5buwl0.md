@@ -4,7 +4,7 @@
 
 > Miloolaathetlukken genomineerd voor Edison Pop 2026: Nieuwkomer\. HDP 🔥🎉
 
-143 songs - 6 hr 17 min
+144 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 | 2025-11-13 |  |
 | [Ain't Nobody](https://open.spotify.com/track/2gnEndVbpPiaSAn2gEA0WH) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Ain't Nobody](https://open.spotify.com/album/3AfZApPiVNmPESFq3J9R9Q) | 2:34 | 2025-09-16 |  |
 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 | 2025-07-17 |  |
-| [Astronaut](https://open.spotify.com/track/3O0gQuyw3xDzm9tvW4db36) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [JIM & JAAF](https://open.spotify.com/artist/45jRKxB5cVjHKJrxAN3tQE) | [Astronaut](https://open.spotify.com/album/6D9lAQPn4ZH7HK06EtvQ2x) | 2:33 | 2025-07-17 |  |
+| [Astronaut](https://open.spotify.com/track/3O0gQuyw3xDzm9tvW4db36) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [JIM & JAAF](https://open.spotify.com/artist/45jRKxB5cVjHKJrxAN3tQE) | [Astronaut](https://open.spotify.com/album/6D9lAQPn4ZH7HK06EtvQ2x) | 2:33 | 2025-07-17 | 2026-02-13 |
 | [Bad Bitches Luisteren Def](https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Bad Bitches Luisteren Def](https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI) | 1:35 | 2025-09-09 |  |
 | [Barman](https://open.spotify.com/track/57FswJp3cmjj0EXolasm8o) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Barman](https://open.spotify.com/album/609khigXToopoRE1yguAQ8) | 2:54 | 2025-10-06 | 2026-02-06 |
 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 | 2025-07-17 |  |
@@ -40,7 +40,7 @@
 | [Dansen Met Een Engel](https://open.spotify.com/track/55bhfVPAdefPI7ZoJTVCTN) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Dansen Met Een Engel](https://open.spotify.com/album/5mwYNIoM2DnIKQfKjZsqH7) | 2:36 | 2026-02-09 |  |
 | [Dansvloer Dilemma](https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Dansvloer Dilemma](https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF) | 2:08 | 2026-01-27 |  |
 | [De Liefde](https://open.spotify.com/track/3MrCOZ0qldvkNiQTWG9GIt) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Liefde](https://open.spotify.com/album/61mnvmeJ8RTpN5bXDq6AXy) | 2:04 | 2025-10-01 | 2025-12-06 |
-| [Delft](https://open.spotify.com/track/06vj9ZjYauBpT1hQHMjidL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Delft](https://open.spotify.com/album/1STHINScS6iZUrTthqhsVW) | 2:02 | 2025-07-17 |  |
+| [Delft](https://open.spotify.com/track/06vj9ZjYauBpT1hQHMjidL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Delft](https://open.spotify.com/album/1STHINScS6iZUrTthqhsVW) | 2:02 | 2025-07-17 | 2026-02-13 |
 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 | 2025-07-17 |  |
 | [Diamanten 2026](https://open.spotify.com/track/44BiqiikZbn2FOz0iI48a5) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Diamanten 2026](https://open.spotify.com/album/0gOmmwZebd7qsHjSXWrtO9) | 2:06 | 2026-01-27 |  |
 | [Dile](https://open.spotify.com/track/540cGIHNKg91y24aWqmPkW) | [Jody Bernal](https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa), [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Dile](https://open.spotify.com/album/5hljDLYEPTDkgtK0e9MzGV) | 2:37 | 2025-07-17 | 2025-11-07 |
@@ -104,6 +104,7 @@
 | [Niks Voor Mij](https://open.spotify.com/track/4K3ruvSedoAvOHijvvptqm) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Niks Voor Mij](https://open.spotify.com/album/7EYhYwOMCmnGWNeLNTkguI) | 2:07 | 2025-07-17 | 2025-08-30 |
 | [No Go Zone \(Remix\)](https://open.spotify.com/track/4XetXvo7S3IXMRPn8Do4LO) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [No Go Zone \(Remix\)](https://open.spotify.com/album/7C3DlpFK7aOVzOjM81nHWJ) | 4:40 | 2025-07-17 |  |
 | [Nonchalant](https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Nonchalant](https://open.spotify.com/album/4AUBKZCLgsSAjAdKazWYQI) | 2:30 | 2025-10-17 |  |
+| [NUMMER 1](https://open.spotify.com/track/3bY8SS2U0vD4Nhfs2tqdRg) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x), [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [NUMMER 1](https://open.spotify.com/album/75ejS1ki8mGes2aQL2emml) | 2:22 | 2026-02-12 |  |
 | [Ode To The Bouncer](https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK) | [Lumine](https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer](https://open.spotify.com/album/1wQns64m9xxJPe6b9kp3fF) | 2:27 | 2025-12-11 |  |
 | [One Night Of Love](https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [One Night Of Love](https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl) | 3:31 | 2025-07-17 |  |
 | [Op Zoek Naar Jou](https://open.spotify.com/track/42Z1xSYU3naHsv2UmprqUT) | [Lustrum U.V.S.V./N.V.V.S.U.](https://open.spotify.com/artist/2VZGqt6DSeA7Z5103qtYRK), [ANNO ONS](https://open.spotify.com/artist/1mJoMjrpQm4HFytaAbts9r), [An Ming Hauptmeijer](https://open.spotify.com/artist/6q2zZvgo9fpEyCsBf75Jzw), [Cas Moerdijk](https://open.spotify.com/artist/5ZlS27qbkEokBSp8ShheP0) | [ANNO ONS](https://open.spotify.com/album/5iIkKAfIrIqcUNxQWS8mLf) | 2:25 | 2025-12-05 | 2026-01-06 |

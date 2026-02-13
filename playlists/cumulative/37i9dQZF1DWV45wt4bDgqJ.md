@@ -4,18 +4,24 @@
 
 > Turn the party on with these hits\. Music videos only available on Premium.
 
-20 songs - 1 hr 9 min
+26 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 | 2025-12-09 |  |
+| [Borro Cassette](https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Pretty Boy, Dirty Boy](https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7) | 3:27 | 2026-02-12 |  |
 | [Envolver](https://open.spotify.com/track/18Pv9tK6iymZWB8yQW6Aoc) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/05MaDb9RBWImPDezuUjEvT) | 3:16 | 2025-12-09 |  |
 | [La Bachata](https://open.spotify.com/track/0Ti1S4hu8GdJVjrpwkEqtx) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/56x4SumdngV2zQXkxjlsGF) | 3:05 | 2025-12-09 |  |
+| [LA VILLA](https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [LA VILLA](https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq) | 3:12 | 2026-02-12 |  |
+| [LATINA FOREVA](https://open.spotify.com/track/2KrQbq3aqGOFGnkTKnN2XA) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:39 | 2026-02-12 |  |
 | [LOKERA](https://open.spotify.com/track/7yHv0XQi87cPAmSn7M5263) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/3WOWJ9jZCuZwuh1vth6jqq) | 3:27 | 2025-12-09 |  |
+| [LUNA](https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq) | [FERXXOCALIPSIS](https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6) | 3:16 | 2026-02-12 |  |
 | [Me Rehúso](https://open.spotify.com/track/6TnBStnQa0UE9ZIzI4Mk49) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4I7uNVX9pmyrjHBtCV2hSS) | 3:27 | 2025-12-09 |  |
 | [mi refe](https://open.spotify.com/track/7Jc3xf5NtjhNlVCKd8DDTG) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/0rSQvCCRuzdiNzmmNJ1o1O) | 2:38 | 2025-12-09 |  |
 | [Mírame](https://open.spotify.com/track/3oj8MKN2KmAIVMCsCkdbkG) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Mírame](https://open.spotify.com/album/3hM3i4eghAifTJVBwcaKNb) | 2:42 | 2025-12-09 |  |
-| [Normal](https://open.spotify.com/track/6D48VlaaSQ4SNaXAHgE7xP) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/5Kung5r8NsTSBscBzEipDd) | 2:50 | 2025-12-09 |  |
+| [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2026-02-12 |  |
+| [Normal](https://open.spotify.com/track/6D48VlaaSQ4SNaXAHgE7xP) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/5Kung5r8NsTSBscBzEipDd) | 2:50 | 2025-12-09 | 2026-02-13 |
+| [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2026-02-12 |  |
 | [Otra vez \(feat\. J Balvin\)](https://open.spotify.com/track/1yeNEwCLZti2HusXE6Zpay) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Otra Vez \(feat\. J Balvin\)](https://open.spotify.com/album/2rIkvBy6neSw44CvZkxTGH) | 3:34 | 2025-12-09 |  |
 | [Pepas](https://open.spotify.com/track/72VipjUthWyIAW8rwCAY40) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/5RQVfYOqGWoLyViYHanYD6) | 4:53 | 2025-12-09 |  |
 | [Perdóname](https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s) | [La Factoria](https://open.spotify.com/artist/00Lc7Ok0Grodr365KFTSi3), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Nuevas Metas](https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE) | 4:02 | 2025-12-09 |  |

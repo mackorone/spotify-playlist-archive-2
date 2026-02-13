@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : 808Krshna",
-  "num_followers": 18436,
+  "num_followers": 18445,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJQt0bl+hoiRlgjuwMY7Eg49ZcSf",
+  "snapshot_id": "AAAAAAIJDdzKAltWEKQED55TWyFdYXQF",
   "tracks": [
     {
       "added_at": "2026-01-30 04:48:10",
@@ -33,6 +33,26 @@
       "url": "https://open.spotify.com/track/1CaDbj95jdxRh0Tl0CXPDQ"
     },
     {
+      "added_at": "2026-02-10 05:40:58",
+      "album": {
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/0H3lkvFNhPFSGDhiZFCeIj"
+      },
+      "artists": [
+        {
+          "name": "Iykki Berry",
+          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
+        },
+        {
+          "name": "Dev Major",
+          "url": "https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/2gVjphCX0tnUTUkOkUbmOD"
+    },
+    {
       "added_at": "2026-01-09 19:30:11",
       "album": {
         "name": "Neeyedhan",
@@ -51,6 +71,22 @@
       "duration_ms": 183833,
       "name": "Neeyedhan",
       "url": "https://open.spotify.com/track/7aRSrkljTz3xMzkrsBacYL"
+    },
+    {
+      "added_at": "2025-11-05 07:36:13",
+      "album": {
+        "name": "Maara Makka (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
+      },
+      "artists": [
+        {
+          "name": "rudh",
+          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Maara Makka - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
     },
     {
       "added_at": "2026-01-16 04:42:09",
@@ -73,42 +109,6 @@
       "url": "https://open.spotify.com/track/047XxfeutL8jtYzmMrsXoO"
     },
     {
-      "added_at": "2025-11-05 07:36:13",
-      "album": {
-        "name": "Maara Makka (From \"Think Indie\")",
-        "url": "https://open.spotify.com/album/19DWPHifKZD73XLtkiRb6B"
-      },
-      "artists": [
-        {
-          "name": "rudh",
-          "url": "https://open.spotify.com/artist/2Q3UCe0lQfw6yrq7EoOb4t"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Maara Makka - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/13TxDpBIVafb5iAKXaO6IG"
-    },
-    {
-      "added_at": "2026-02-10 05:40:58",
-      "album": {
-        "name": "Papi",
-        "url": "https://open.spotify.com/album/0H3lkvFNhPFSGDhiZFCeIj"
-      },
-      "artists": [
-        {
-          "name": "Iykki Berry",
-          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
-        },
-        {
-          "name": "Dev Major",
-          "url": "https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Papi",
-      "url": "https://open.spotify.com/track/2gVjphCX0tnUTUkOkUbmOD"
-    },
-    {
       "added_at": "2026-02-06 05:33:04",
       "album": {
         "name": "Mudhal Murai",
@@ -127,6 +127,34 @@
       "duration_ms": 162461,
       "name": "Mudhal Murai",
       "url": "https://open.spotify.com/track/4OviPeDTY1Vpms9qSF0HK5"
+    },
+    {
+      "added_at": "2026-02-12 12:05:14",
+      "album": {
+        "name": "Sattaiyila Button Illa (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/4cWZj0QW1LJeZJt2ISpxa2"
+      },
+      "artists": [
+        {
+          "name": "Pranav Muniraj",
+          "url": "https://open.spotify.com/artist/4Y4vxCuihUYyfcZlYuTmXp"
+        },
+        {
+          "name": "Pravekha",
+          "url": "https://open.spotify.com/artist/26s50DKJKi3Sg5zhw0jwv9"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        },
+        {
+          "name": "Susantika",
+          "url": "https://open.spotify.com/artist/4gnkNWZfLbN5K26Pjf7wnT"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Sattaiyila Button Illa - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/1TQN8q2X6dS3RXrnoxfFpA"
     },
     {
       "added_at": "2026-02-06 04:00:25",
@@ -357,6 +385,26 @@
       "url": "https://open.spotify.com/track/4NR1O8WvE23KUB0tCFhp4r"
     },
     {
+      "added_at": "2026-02-12 12:00:10",
+      "album": {
+        "name": "Un Iru Vizhi",
+        "url": "https://open.spotify.com/album/5VK2ViZaIGbNNQ5VklMpgq"
+      },
+      "artists": [
+        {
+          "name": "Prabha Balakrishnan",
+          "url": "https://open.spotify.com/artist/3mOLbrpNautzn04GfjrwiZ"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "duration_ms": 306666,
+      "name": "Un Iru Vizhi",
+      "url": "https://open.spotify.com/track/10OTJY85aPN7k5YE0Q5ZTp"
+    },
+    {
       "added_at": "2026-02-03 11:36:19",
       "album": {
         "name": "20 to 80 (Swan IndieTunes)",
@@ -383,6 +431,30 @@
       "duration_ms": 204201,
       "name": "20 to 80 (Swan IndieTunes)",
       "url": "https://open.spotify.com/track/4EWzs0QjsVai4DKGX6we4z"
+    },
+    {
+      "added_at": "2026-02-12 12:05:14",
+      "album": {
+        "name": "Valigal",
+        "url": "https://open.spotify.com/album/7C3zzobqb62ITtR9V8n5Jv"
+      },
+      "artists": [
+        {
+          "name": "Hashbeer Ali",
+          "url": "https://open.spotify.com/artist/56aaP482RHQe8SqAO11TS6"
+        },
+        {
+          "name": "Luksimi Sivaneswaralingam",
+          "url": "https://open.spotify.com/artist/1yu8UL7E8i1XSFjHLjbYUb"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 294270,
+      "name": "Valigal",
+      "url": "https://open.spotify.com/track/4cZJcRViPkruh1HECBFOwv"
     },
     {
       "added_at": "2026-01-30 08:35:32",
@@ -519,50 +591,6 @@
       "duration_ms": 206400,
       "name": "Theeradha",
       "url": "https://open.spotify.com/track/0pcehazrEcS8txh2APAjKj"
-    },
-    {
-      "added_at": "2026-01-29 14:48:41",
-      "album": {
-        "name": "Ammayi",
-        "url": "https://open.spotify.com/album/581jfu9nTFV9YwtUWCuEkb"
-      },
-      "artists": [
-        {
-          "name": "Ajay Sarvess",
-          "url": "https://open.spotify.com/artist/55ILZPyaSAP9dQax1HKRRH"
-        },
-        {
-          "name": "Sheezay",
-          "url": "https://open.spotify.com/artist/59ZFcw0jfy0Z4rcF1DXKBF"
-        }
-      ],
-      "duration_ms": 140773,
-      "name": "Ammayi",
-      "url": "https://open.spotify.com/track/6NzFfBtMpsUMNwyw9gtMSt"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Bengali Sweete",
-        "url": "https://open.spotify.com/album/0I4gHg1H3K2fdB6OREjxky"
-      },
-      "artists": [
-        {
-          "name": "Ajay Krishnaa",
-          "url": "https://open.spotify.com/artist/7FatQU5xHO9JpAyqOVWP9k"
-        },
-        {
-          "name": "Nigaran",
-          "url": "https://open.spotify.com/artist/6K760C2afrQgI3MxFcBFiK"
-        },
-        {
-          "name": "JS Raja Sha",
-          "url": "https://open.spotify.com/artist/3wQt6celardaexcU1aTHr4"
-        }
-      ],
-      "duration_ms": 206511,
-      "name": "Bengali Sweete",
-      "url": "https://open.spotify.com/track/6LRWTEd7Szk6W9ZSLQsMEh"
     },
     {
       "added_at": "2026-01-27 08:20:45",
@@ -1463,30 +1491,6 @@
       "duration_ms": 160000,
       "name": "Kadhara Kadhara Oru Kaadhaal",
       "url": "https://open.spotify.com/track/2AK0b9zN3kpHqRE3Ztc2z3"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Kathaliye",
-        "url": "https://open.spotify.com/album/0sXG3i4bCpPC44NZ2asAmR"
-      },
-      "artists": [
-        {
-          "name": "ARSHK",
-          "url": "https://open.spotify.com/artist/11NMjAFkrbf3SZnVcYLC9t"
-        },
-        {
-          "name": "ASVVIN",
-          "url": "https://open.spotify.com/artist/1OOrR8bvkfwdzYJLQQialk"
-        },
-        {
-          "name": "Abhiram Suresh",
-          "url": "https://open.spotify.com/artist/5bzwJLHzQ3oE0dyyxRy1jG"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Kathaliye",
-      "url": "https://open.spotify.com/track/6las97mYtKlsos592PZnPZ"
     },
     {
       "added_at": "2026-01-09 19:30:11",

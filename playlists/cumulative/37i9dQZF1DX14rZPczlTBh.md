@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Varanasi
 
-163 songs - 8 hr 44 min
+164 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/track/6SzhKwa0saR0U6C2ZynpKW) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj) | [Anthem Of Martin \(From "Martin"\) \(Telugu\)](https://open.spotify.com/album/1bZ1IHL2eSxBNwJ3kjMcl1) | 3:59 | 2024-10-07 |  |
 | [Arey O Samba \- Remix](https://open.spotify.com/track/72ig2QHDxDbNYb9LT33ayD) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Divija Karthik](https://open.spotify.com/artist/5sUdcxfIMRJlwA1zyxGOxH) | [Pataas](https://open.spotify.com/album/4F8NuTMEGuYDHK5iIe1d5l) | 3:48 | 2021-06-24 | 2024-08-24 |
 | [Arjun & Nani’s Theme](https://open.spotify.com/track/3AxmlfbUYBjL2N7BRAAY8l) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Jersey \(Original Background Score\)](https://open.spotify.com/album/44f9oPlMaeYuApesdVp658) | 2:19 | 2024-08-23 | 2026-01-17 |
-| [Badrenath Theme](https://open.spotify.com/track/2Fh0F8p45Ef4FNvZTWEGNj) | [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Badrenath](https://open.spotify.com/album/08sznMeYBuj3GInM6VUIvw) | 2:17 | 2024-08-23 |  |
+| [Badrenath Theme](https://open.spotify.com/track/2Fh0F8p45Ef4FNvZTWEGNj) | [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Badrenath](https://open.spotify.com/album/08sznMeYBuj3GInM6VUIvw) | 2:17 | 2024-08-23 | 2026-02-13 |
 | [Bang Bang Bangkok](https://open.spotify.com/track/0A1chT9ef0Kn1NnQVnLoot) | [Devi Sri Prasad, Ranina Reddy, Rita](https://open.spotify.com/artist/6YGQ8Nt3ns8H02IkF3B3DO) | [Kumari 21 F](https://open.spotify.com/album/0j9Vp2crMI3DB942oviGvc) | 3:30 | 2021-06-24 | 2024-08-24 |
 | [Bellam Sridevi](https://open.spotify.com/track/2FTTWwH9X6k04dsLjTwSI6) | [Sai Charan](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Supreme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FgJTey3USHIBID0Dq1Tai) | 4:04 | 2021-06-24 | 2022-07-29 |
 | [Bellam Sridevi](https://open.spotify.com/track/7y8F8jWMytNa55pFUBJKA0) | [Sai Charan](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Supreme](https://open.spotify.com/album/10UPi9tXKODp4KUs1uOOru) | 4:05 | 2021-06-24 | 2024-08-24 |
@@ -83,6 +83,7 @@
 | [Iraga Iraga](https://open.spotify.com/track/6Zik19tMLPOaY5NHOGbhQj) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD) | [Naa Peru Surya Naa Illu India \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5TcQSkduOvcnlqnYcDr6tj) | 4:02 | 2021-06-24 | 2022-07-29 |
 | [Iraga Iraga](https://open.spotify.com/track/2RCigtiYWf4LBCbp60m7Qg) | [Rahul Sipligunj, Mohana Bhogaraju](https://open.spotify.com/artist/61QdqNUW0qSz0GoaeVe6Gw) | [Naa Peru Surya Naa Illu India](https://open.spotify.com/album/3S0ezMfLB53pIEfYwAdG9R) | 4:00 | 2021-06-24 | 2024-08-24 |
 | [Ismart Title Song](https://open.spotify.com/track/40dF1b3S55REkQudnGiLkW) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Ismart Shankar](https://open.spotify.com/album/2qBCmDv2UTmyzFc10SrAIf) | 4:12 | 2021-06-24 | 2024-08-24 |
+| [Itlu Kanmani Announcement Theme](https://open.spotify.com/track/3UwuNDTGxZhKvgEpneC8mH) | [Praveen Sriram](https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6) | [Itlu Kanmani Announcement Theme](https://open.spotify.com/album/5tg9gAncqIphPnEx6MNJsn) | 1:03 | 2026-02-09 |  |
 | [King Of The Crowd 'Title Song' \(From "Ramarao On Duty"\)](https://open.spotify.com/track/1X56oGyHaLQgOZxDVBJBo5) | [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv) | [King Of The Crowd 'Title Song' \(From "Ramarao On Duty"\)](https://open.spotify.com/album/37hM9dL91U4SDRksCn7kHJ) | 3:25 | 2022-07-22 | 2024-08-24 |
 | [Kiss Me Baby](https://open.spotify.com/track/3aM2juY0azR4PZ9BtQdq29) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Mahanubhavudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1yqvJA4WwJQlyiUR1lwKvh) | 3:30 | 2021-06-24 | 2024-08-24 |
 | [Kiss Me Baby](https://open.spotify.com/track/0DB298HE0qsbJwyxFXLpet) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Kiss Day Special](https://open.spotify.com/album/5M8XU9Kz85M5d3yH0mrl8V) | 3:35 | 2021-06-24 | 2022-08-12 |

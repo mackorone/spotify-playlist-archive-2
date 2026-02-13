@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,045 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,044 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 44 | [Hai Vì Sao Lạc](https://open.spotify.com/track/5PSk8BZS5OdSNZYPJIQtiT) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Nhạc Vàng](https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E) | 4:45 |
 | 45 | [Không Phải Tại Chúng Mình](https://open.spotify.com/track/5Hfl18W3tEIalf5Uh83BPA) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Hà My](https://open.spotify.com/artist/0g9Vm9WKX2PrVfpscQCoMV) | [Không Phải Tại Chúng Mình](https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh) | 4:54 |
 | 46 | [Cánh thiệp đầu xuân](https://open.spotify.com/track/4nkHIoot7Wc5JipAwybMKP) | [Thanh Thúy](https://open.spotify.com/artist/6oO3gusjsenDOQn8RDr5JS) | [Tôi Chưa Có Mùa Xuân](https://open.spotify.com/album/7fHOU3HrRkkIMcAnzfHI6U) | 5:15 |
-| 47 | [Lạnh trọn đêm mưa](https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk) | [Lưu Hồng](https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB) | [Mưa Rừng](https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq) | 4:29 |
+| 47 | [Chuyện tình đan áo](https://open.spotify.com/track/0etpGHwiYPRq6gi1bNgRPL) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Dạ vũ Rumba bebop tango boston \- Thương trao về ....](https://open.spotify.com/album/0djedKa72vbntYPAHEF5V2) | 3:39 |
 | 48 | [Người yêu cô đơn](https://open.spotify.com/track/0pM2UmaeVqgWuxJciBKmGz) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuyệt phẩm Tuấn Vũ](https://open.spotify.com/album/1irQ9Llxt2PKrQgx0Cxujh) | 5:27 |
 | 49 | [Đường xưa lối cũ](https://open.spotify.com/track/3Yv7rOzspapIKgSYQHyxPO) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [The Best Of Thanh Tuyền \(Người Mẹ Bán Nón\)](https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ) | 3:43 |
 | 50 | [Ai cho tôi tình yêu](https://open.spotify.com/track/7wyYX2ceXlAnW2ke9RbDPL) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Chuyến tàu hoàng hôn](https://open.spotify.com/album/6GD5IlIf5PiaUJWevmI1I1) | 6:22 |

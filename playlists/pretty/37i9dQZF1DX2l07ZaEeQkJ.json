@@ -1,6 +1,6 @@
 {
   "description": "trakas hdsptm \ud83d\udc7f\ud83d\udc79\ud83c\udf7b\ud83c\udf7e\ud83e\udee1\ud83d\udcb8",
-  "num_followers": 184354,
+  "num_followers": 184387,
   "original_name": "traka",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
         "name": "PRESIDENTE",
         "url": "https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 181064,
       "name": "PRESIDENTE",
       "url": "https://open.spotify.com/track/4OLT65TRsOx3Iv1TlCcQVb"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
         "name": "7 DIAS",
         "url": "https://open.spotify.com/album/5BoeqKVMi7D4S6U38rWjS4"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 180688,
       "name": "7 DIAS",
       "url": "https://open.spotify.com/track/5Z75FvRFiultmPFWHx5jQ7"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
-        "name": "La Diabla",
-        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 172264,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1007,30 +1007,22 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Desnudate - Remix",
-        "url": "https://open.spotify.com/album/53ncI589RsW51zBpgL8iMk"
+        "name": "Ya No Estoy Dolido",
+        "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
       },
       "artists": [
         {
-          "name": "Big Metra",
-          "url": "https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU"
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
         },
         {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "VV Brujo",
-          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
         }
       ],
-      "duration_ms": 243999,
-      "name": "Desnudate - Remix",
-      "url": "https://open.spotify.com/track/1kQhwc7ZTVJ9fKk1ECl4dL"
+      "duration_ms": 179600,
+      "name": "Ya No Estoy Dolido",
+      "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1059,22 +1051,30 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Ya No Estoy Dolido",
-        "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
+        "name": "Desnudate - Remix",
+        "url": "https://open.spotify.com/album/53ncI589RsW51zBpgL8iMk"
       },
       "artists": [
         {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+          "name": "Big Metra",
+          "url": "https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU"
         },
         {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "VV Brujo",
+          "url": "https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR"
         }
       ],
-      "duration_ms": 179600,
-      "name": "Ya No Estoy Dolido",
-      "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"
+      "duration_ms": 243999,
+      "name": "Desnudate - Remix",
+      "url": "https://open.spotify.com/track/1kQhwc7ZTVJ9fKk1ECl4dL"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Kittyponeo",
-        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 159170,
-      "name": "Reggaeton Champagne",
-      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "No Son Doritos",
         "url": "https://open.spotify.com/album/22jEQPO95IC1zSs5dJx2qc"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 160714,
       "name": "NO SON DORITOS",
       "url": "https://open.spotify.com/track/2ss1LK5Kfnjo5EUaCbsgZM"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 159170,
+      "name": "Reggaeton Champagne",
+      "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
       "added_at": "2025-02-14 19:20:37",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2025-02-14 19:20:37",
       "album": {
-        "name": "Dembow Freson",
-        "url": "https://open.spotify.com/album/3HnSkevqtdilqq6kWnEw7n"
-      },
-      "artists": [
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        }
-      ],
-      "duration_ms": 128824,
-      "name": "Dembow Freson",
-      "url": "https://open.spotify.com/track/2BHYDz6p7INj1sPE9n2bK9"
-    },
-    {
-      "added_at": "2025-02-14 19:20:37",
-      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 173195,
       "name": "Dime",
       "url": "https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth"
+    },
+    {
+      "added_at": "2025-02-14 19:20:37",
+      "album": {
+        "name": "Dembow Freson",
+        "url": "https://open.spotify.com/album/3HnSkevqtdilqq6kWnEw7n"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 128824,
+      "name": "Dembow Freson",
+      "url": "https://open.spotify.com/track/2BHYDz6p7INj1sPE9n2bK9"
     },
     {
       "added_at": "2025-02-14 19:20:37",

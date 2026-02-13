@@ -1,12 +1,12 @@
 {
   "description": "This is Aitana. The essential tracks, all in one playlist.",
-  "num_followers": 232229,
+  "num_followers": 232282,
   "original_name": "This Is Aitana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADssimEEmr2GCrrABVPqXCS",
+  "snapshot_id": "aYvGgAAAAADP1jLJms2q6/o9g00WFufJ",
   "tracks": [
     {
       "added_at": null,
@@ -298,15 +298,11 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 181200,
-      "name": "CORAZ\u00d3N SIN VIDA",
-      "url": "https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj"
+      "duration_ms": 155645,
+      "name": "SI NO VAS A VOLVER",
+      "url": "https://open.spotify.com/track/7es67JIZ333OB30dYfjfal"
     },
     {
       "added_at": null,
@@ -374,11 +370,15 @@
         {
           "name": "Aitana",
           "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 155645,
-      "name": "SI NO VAS A VOLVER",
-      "url": "https://open.spotify.com/track/7es67JIZ333OB30dYfjfal"
+      "duration_ms": 181200,
+      "name": "CORAZ\u00d3N SIN VIDA",
+      "url": "https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj"
     },
     {
       "added_at": null,

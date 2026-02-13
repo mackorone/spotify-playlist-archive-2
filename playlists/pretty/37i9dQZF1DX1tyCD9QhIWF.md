@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,287,715 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,287,669 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 2 | [POP POP POP](https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:16 |
 | 3 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 |
 | 4 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 |
-| 5 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
-| 6 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
+| 5 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
+| 6 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 |
 | 7 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 |
 | 8 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 |
 | 9 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 19 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 |
 | 20 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 |
 | 21 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 |
-| 22 | [Wild Stare](https://open.spotify.com/track/2SClPoLfPJmwrr3EyfgRTS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Wild Stare](https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ) | 3:14 |
-| 23 | [BURN THE WITCH](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [BURN THE WITCH](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 |
+| 22 | [BURN THE WITCH](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [BURN THE WITCH](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 |
+| 23 | [Wild Stare](https://open.spotify.com/track/2SClPoLfPJmwrr3EyfgRTS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Wild Stare](https://open.spotify.com/album/1dNicYsMG4Beogrx8blBYZ) | 3:14 |
 | 24 | [Longshot](https://open.spotify.com/track/1Yi8XPnCPoimWwqxwm3uz9) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Longshot](https://open.spotify.com/album/6RsjG9ykQSkY3YMDSAwYs8) | 3:52 |
 | 25 | [Babylon](https://open.spotify.com/track/0JlNtj7KalsjE4MWnwfv3U) | [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Dark & Beautiful Secrets](https://open.spotify.com/album/6vs7bZaPZ1gGZV3d6oRn30) | 4:05 |
 | 26 | [Pop The Balloon](https://open.spotify.com/track/18xSK8GSgnarxkkoGxDAob) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 4:31 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 49 | [The Delicate Nature](https://open.spotify.com/track/4oLwiIzyp1FZoxK1MM6Ow1) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ), [Laurie Vincent](https://open.spotify.com/artist/4MjaFbBLl18vGqTY7QnmNV) | [The Delicate Nature](https://open.spotify.com/album/0Q0ghRfGZQjZdSUud8KElY) | 3:02 |
 | 50 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 |
 | 51 | [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 |
-| 52 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 |
-| 53 | [I KNOW BETTER](https://open.spotify.com/track/4rGq5yELBmIZBryQjFIakM) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [I KNOW BETTER](https://open.spotify.com/album/4yfzXgctHlcunH186PCB2S) | 4:09 |
+| 52 | [I KNOW BETTER](https://open.spotify.com/track/4rGq5yELBmIZBryQjFIakM) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [I KNOW BETTER](https://open.spotify.com/album/4yfzXgctHlcunH186PCB2S) | 4:09 |
+| 53 | [GOOD ENEMY](https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GOOD ENEMY](https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg) | 2:10 |
 | 54 | [Don't You Feel Amazing?](https://open.spotify.com/track/6BxlRoxVztZNLsaSOnh3ja) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Don't You Feel Amazing?](https://open.spotify.com/album/2pxn1lifrye1RIlrLDrzD3) | 3:45 |
 | 55 | [Oh!](https://open.spotify.com/track/4e72LGraX8sW5iztJvS5fo) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Oh!](https://open.spotify.com/album/13YVOGugpbcH7MZCwDEWnE) | 2:35 |
 | 56 | [BLACK COUNTRY GOTHIC](https://open.spotify.com/track/4XtIwasPM2qnU8FMg4E9Ak) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [POSTINDUSTRIAL HOMETOWN BLUES](https://open.spotify.com/album/02q0ISnitj4Q7flAbRppvo) | 2:57 |

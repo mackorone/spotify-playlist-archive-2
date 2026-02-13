@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: FKA twigs",
+  "description": "No tags, no labels - just free form. Cover: Lylo Gold",
   "name": "Free Form",
   "tracks": [
     {
@@ -762,7 +762,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 339560,
       "name": "All the Way Down (unplugged)",
       "url": "https://open.spotify.com/track/6fGNH1hGQdo1ZH2MaKaVIc"
@@ -1002,6 +1002,28 @@
       "duration_ms": 150382,
       "name": "avery",
       "url": "https://open.spotify.com/track/6eGEc1s8krSYpJdvyFR2TY"
+    },
+    {
+      "album": {
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "eniola",
+          "url": "https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266719,
+      "name": "Azimuth",
+      "url": "https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3"
     },
     {
       "album": {
@@ -1713,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "NEW BRITANNICA",
+        "url": "https://open.spotify.com/album/3s8ieBtNTOL1wk8CYn3jFB"
+      },
+      "artists": [
+        {
+          "name": "JD Cliffe",
+          "url": "https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119250,
+      "name": "BREAK THE LAW",
+      "url": "https://open.spotify.com/track/0xdq4uF7HUgQIr4NhRomQw"
+    },
+    {
+      "album": {
         "name": "Bring Me Up",
         "url": "https://open.spotify.com/album/0ht3Ctn5RFVwC9oMHrJoUz"
       },
@@ -2216,6 +2256,24 @@
       "duration_ms": 214886,
       "name": "Come With Me (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
+    },
+    {
+      "album": {
+        "name": "Comfort Food",
+        "url": "https://open.spotify.com/album/0fyAssiL3qDn2bD5m0mIi8"
+      },
+      "artists": [
+        {
+          "name": "Quinn Oulton",
+          "url": "https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207239,
+      "name": "Comfort Food",
+      "url": "https://open.spotify.com/track/6RVhm0dPjzPANNCEY10eni"
     },
     {
       "album": {
@@ -2738,7 +2796,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 168958,
       "name": "DON'T TOUCH THE CDJ",
       "url": "https://open.spotify.com/track/7H5qoxsQ0nzAgF1bHi1Qoq"
@@ -3491,6 +3549,24 @@
     },
     {
       "album": {
+        "name": "Lylo Land",
+        "url": "https://open.spotify.com/album/1TNGZ5RPitdnsLEvC4GaFT"
+      },
+      "artists": [
+        {
+          "name": "Lylo Gold",
+          "url": "https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "Found Love",
+      "url": "https://open.spotify.com/track/5Puvc0yCAbWyz5qdTRIcJ0"
+    },
+    {
+      "album": {
         "name": "Free My People (The Streets Remix)",
         "url": "https://open.spotify.com/album/3tsrF1lrccDppgj0mMi0HK"
       },
@@ -3644,7 +3720,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 219125,
       "name": "Give Me Time",
       "url": "https://open.spotify.com/track/3p1bQx6kqm8p9PCFELKkNG"
@@ -3684,7 +3760,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 163494,
       "name": "Glaze",
       "url": "https://open.spotify.com/track/6mfokGkQnfHkrizH9s2FYu"

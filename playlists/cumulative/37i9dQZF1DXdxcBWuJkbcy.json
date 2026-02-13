@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204324,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
+    },
+    {
+      "album": {
         "name": "85% (Remixes)",
         "url": "https://open.spotify.com/album/7o8KGE3k7adyXfWoqQiHpQ"
       },
@@ -1578,6 +1596,32 @@
       "duration_ms": 179805,
       "name": "Bass Boys",
       "url": "https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm"
+    },
+    {
+      "album": {
+        "name": "Bass Dhol",
+        "url": "https://open.spotify.com/album/6zPVFPc0OjKODf5SkRSlNu"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218069,
+      "name": "Bass Dhol",
+      "url": "https://open.spotify.com/track/2rVhkoMwbeOzsBdqMUnm0p"
     },
     {
       "album": {
@@ -6219,6 +6263,24 @@
     },
     {
       "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/70fRnyz6NqVivoOngE85R6"
+      },
+      "artists": [
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/3m7ujh5Wws7bTCbesg7GQK"
+    },
+    {
+      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/7pYGbijbUxA3i2bS6v9aQL"
       },
@@ -7172,7 +7234,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 220538,
       "name": "Go Back (feat. Julia Church)",
       "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
@@ -10002,7 +10064,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 256743,
       "name": "Last Night - Anyma x Layton Giordani Remix",
       "url": "https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a"
@@ -11622,7 +11684,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 113595,
       "name": "Man In Finance (with David Guetta)",
       "url": "https://open.spotify.com/track/5ZKnajvQQbMJeUhqilzi5T"
@@ -12272,7 +12334,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 174337,
       "name": "Murder On The Dancefloor - David Guetta Remix",
       "url": "https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b"
@@ -19450,6 +19512,28 @@
       "duration_ms": 169141,
       "name": "TWINKLE",
       "url": "https://open.spotify.com/track/3jdBt6du0bbnOdvonxJgDr"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/58BZYJxcZbDngJbBQN7wdL"
     },
     {
       "album": {

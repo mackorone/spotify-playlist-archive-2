@@ -2,9 +2,9 @@
 
 ### [スローバックTHURSDAY: 1998年のヒット曲](https://open.spotify.com/playlist/37i9dQZF1DX5xQj9GaDkMP)
 
-> スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: GLAY ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
+> スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: モーニング娘。 ■ CD生産枚数が合計で約4億5717万枚と国内史上最高を記録　■「ハマの大魔神」（佐々木主浩）、「凡人・軍人・変人」（田中真紀子）、「だっちゅーの」（パイレーツ）
 
-126 songs - 10 hr 18 min
+127 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [ジェットコースター・ロマンス](https://open.spotify.com/track/0VG2JPyNoETeWO6uWtCIJ3) | [KinKi Kids](https://open.spotify.com/artist/5ki9pRkPNIXLjuiqG1Jh84) | [ジェットコースター・ロマンス](https://open.spotify.com/album/7lGFYSt170Kz3BVW4F6E80) | 4:56 | 2025-05-04 |  |
 | [ニシエヒガシエ](https://open.spotify.com/track/0RmvPXNNGtY1X3oIZ6JD4p) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [DISCOVERY](https://open.spotify.com/album/3lgWNR4z50snPMpUQinTTm) | 4:57 | 2023-07-22 |  |
 | [ニシエヒガシエ](https://open.spotify.com/track/5OYXO1TNKpxBeIQxGcY8lE) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [DISCOVERY](https://open.spotify.com/album/0Flc2u2vyWHvk1BGpyviPN) | 4:57 | 2023-07-22 | 2024-04-19 |
+| [モーニングコーヒー](https://open.spotify.com/track/0Mc8DETpxx3bZpu8ek2aRm) | [モーニング娘。](https://open.spotify.com/artist/4cDFYGC0CtsN86zvpCXsi4) | [モーニングコーヒー](https://open.spotify.com/album/2UXeoPm6WXT7mfL90hC6AP) | 4:35 | 2026-02-12 |  |
 | [ロマンス \- 20th Ver.](https://open.spotify.com/track/2q6lq5ak9xc2Cbwto8sHN3) | [PENICILLIN](https://open.spotify.com/artist/7JMKZglYmjZYT9hi7K6weT) | [20th Anniversary Fan Selection Best DRAGON HEARTS](https://open.spotify.com/album/6MeQbJHVjxuTfee3BzyAQx) | 4:57 | 2023-07-22 |  |
 | [冷たい花](https://open.spotify.com/track/7is19WRnzjExRRTesFtDGw) | [the brilliant green](https://open.spotify.com/artist/6ML3nrYx5Mu1wcXP8SmtG2) | [the brilliant green](https://open.spotify.com/album/3cjzTbEFAVuGqRfvGC6H55) | 4:37 | 2023-07-22 |  |
 | [命の別名](https://open.spotify.com/track/1jtHUdvwYkfpjqHFLhnPMT) | [中島みゆき](https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t) | [命の別名](https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I) | 5:02 | 2023-07-22 |  |

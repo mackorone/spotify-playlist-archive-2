@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Nate Smith
 
-1,897 songs - 6 day 10 hr 6 min
+1,898 songs - 6 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1596,6 +1596,7 @@
 | [The Kingdom](https://open.spotify.com/track/7xg5pETbe5jWXqTekOnx57) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW) | [The Kingdom](https://open.spotify.com/album/65s29DEqLyU9oQ0ay95XM6) | 3:29 | 2024-04-26 | 2024-06-29 |
 | [The Lamb of Funk](https://open.spotify.com/track/3nAQuS0nT4yJKM801NhFjv) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Horn House](https://open.spotify.com/artist/5HMo9VXm5R91AzkQBqNrlu) | [The Lamb of Funk](https://open.spotify.com/album/4NWSHJOuVlCcjjHAgpcLRd) | 5:00 | 2025-09-19 |  |
 | [The Last Song \(feat\. Eric Harland, Mark Lettieri, Jonathan Maron & Justin Stanton\)](https://open.spotify.com/track/6cAQCcRC7HeIxxQ5EdxI9k) | [Zach Brock](https://open.spotify.com/artist/2gP7EdtXx1CWc3gLco3B1C), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jonathan Maron](https://open.spotify.com/artist/5c2waqtgYO4U0hSvVzxSXe), [Justin Stanton](https://open.spotify.com/artist/51SBwyi6EsedCxohTMWQN5) | [Dirty Mindz](https://open.spotify.com/album/3BSfTSY5q7tNeZgWw7nC6H) | 9:18 | 2022-06-03 | 2022-07-02 |
+| [The Law of Diminishing Returns \- Radio](https://open.spotify.com/track/2Z1xYH4Y4uDnaMRk2kMM7t) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80), [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [San Michele \(Radio\)](https://open.spotify.com/album/0De82n8QaUod7sefVRbA3F) | 5:38 | 2026-01-16 |  |
 | [The Layers](https://open.spotify.com/track/3NeP3pdpRdVM2u72HxR2Md) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [The Layers](https://open.spotify.com/album/1IBBI7ztokzQD970HUEmoA) | 3:43 | 2023-02-03 | 2023-02-25 |
 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/0zaiRanCo4iG7DnETYBMEJ) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/album/6lz8QIW4YG1QbyFTQ79r68) | 5:40 | 2023-08-18 | 2023-09-11 |
 | [The Light \(feat\. Bahia Dayes\)](https://open.spotify.com/track/1mkzHA0suincRybCyk5fis) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Bahia Dayes](https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 5:40 | 2023-08-18 | 2023-12-23 |

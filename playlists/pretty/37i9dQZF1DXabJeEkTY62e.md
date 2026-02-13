@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabJeEkTY62e.md) - [plain]
 
 > Fresh Prince,  Game Boy  and MSN, this one's for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,058 likes - 80 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,151 likes - 80 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabJeEkTY62e.md) - [plain]
 | 13 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
 | 14 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:41 |
 | 15 | [Return of the Mack](https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9) | [Mark Morrison](https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9) | [Return of the Mack](https://open.spotify.com/album/6plavTFCGXv5vpy0jZVtOV) | 3:33 |
-| 16 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
-| 17 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
+| 16 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
+| 17 | [Suddenly I See](https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Eye To The Telescope](https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ) | 3:21 |
 | 18 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 |
 | 19 | [Fly Away](https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 3:41 |
 | 20 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:02 |
-| 21 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 |
-| 22 | [Say It Ain't So \- Original Mix](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 |
+| 21 | [Say It Ain't So \- Original Mix](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 |
+| 22 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 |
 | 23 | [Around the World](https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 7:09 |
 | 24 | [I Got 5 On It](https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG) | [Luniz](https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x), [Michael Marshall](https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn) | [Operation Stackola](https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb) | 4:13 |
 | 25 | [Poison](https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH) | [Bell Biv DeVoe](https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL) | [Poison](https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD) | 4:21 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabJeEkTY62e.md) - [plain]
 | 73 | [Galvanize](https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Push The Button](https://open.spotify.com/album/715rku55lldqdw9WiEuPgi) | 6:33 |
 | 74 | [Have A Nice Day](https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 3:25 |
 | 75 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
-| 76 | [Whole Again](https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Right Now](https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW) | 3:05 |
-| 77 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
+| 76 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
+| 77 | [Whole Again](https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Right Now](https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW) | 3:05 |
 | 78 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 |
 | 79 | [You Gotta Be](https://open.spotify.com/track/6CU0zWIWVTEnmWpSjVHM93) | [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [I Ain't Movin'](https://open.spotify.com/album/1Q9leCDLTJZIMmnXziq8mU) | 4:05 |
-| 80 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 |
+| 80 | [I Wanna Be Down](https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Brandy](https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6) | 4:51 |
 
 Snapshot ID: `AAAAAI2brhM/In8qQApfx3olgLpwzGG8`

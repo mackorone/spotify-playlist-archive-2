@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203653,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/2vrW4HjF6g5x0Jf9ibLCJG"
+    },
+    {
+      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 203813,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"

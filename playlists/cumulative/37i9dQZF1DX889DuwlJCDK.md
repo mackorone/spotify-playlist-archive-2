@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: TOOBOE
 
-1,605 songs - 4 day 0 hr 55 min
+1,606 songs - 4 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Arifureta](https://open.spotify.com/track/2B44z1C18AAvoq14EKbAgi) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [Arifureta](https://open.spotify.com/album/2kNc23dtN8BPMkd2fNgumj) | 3:41 | 2025-04-08 | 2025-04-23 |
 | [Aru ryuseigun](https://open.spotify.com/track/3uhm4bZRlimOth54MzjCQK) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [nude](https://open.spotify.com/album/44s4eyKJJmyJ3vWfZVXHqg) | 3:38 | 2026-01-27 | 2026-02-11 |
 | [Ayanami](https://open.spotify.com/track/34RGbpH0MRSxL0OQssmHQ3) | [sayonaramiochan](https://open.spotify.com/artist/7LBBSHQF4grvtHDGE8EfK7) | [Ayanami](https://open.spotify.com/album/43BEXRAxuNoWu86ad3ti8I) | 2:57 | 2024-01-25 | 2024-02-01 |
-| [B.O.LIE](https://open.spotify.com/track/2uTwa4bg1UsXM9yDmpOFQf) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [B.O.LIE](https://open.spotify.com/album/5G0ekraK3crwMNmnaT3MfN) | 3:37 | 2025-12-16 |  |
+| [B.O.LIE](https://open.spotify.com/track/2uTwa4bg1UsXM9yDmpOFQf) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [B.O.LIE](https://open.spotify.com/album/5G0ekraK3crwMNmnaT3MfN) | 3:37 | 2025-12-16 | 2026-02-13 |
 | [Baaka!](https://open.spotify.com/track/30hCaxH7w9nmm5OvJFBe4N) | [UNFAIR RULE](https://open.spotify.com/artist/4wQwkCWhOP1FKZgE87n00W) | [Takaramono](https://open.spotify.com/album/19KMuhlGVX3PTQPM1iqKFe) | 1:11 | 2024-01-09 | 2024-01-19 |
 | [BABY BABY](https://open.spotify.com/track/3fT0Mrz3zxe2PfKeRwQsLe) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [melt pop](https://open.spotify.com/album/1pXOPXMvbTKHa5wlaxvpEd) | 3:17 | 2024-10-08 | 2025-03-12 |
 | [baby blue eyes](https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [baby blue eyes](https://open.spotify.com/album/1GGa1VAV3dcPJRCIT7Y8ue) | 3:11 | 2023-08-22 | 2023-11-29 |
@@ -773,6 +773,7 @@
 | [こんにちはスーパーマン](https://open.spotify.com/track/32LLuDrWrlmrLlEW3duGOJ) | [ポンツクピーヤ](https://open.spotify.com/artist/0j56Vr9S3Iq3Inp8pLX02Q) | [こんにちはスーパーマン](https://open.spotify.com/album/3CJuBgUqp6a0OgdP9pTloj) | 3:09 | 2024-01-18 | 2024-02-01 |
 | [ごめんね、愛してしまって](https://open.spotify.com/track/2VykZ8TlnfBaDQkub4AsuO) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [\-依依恋恋\-](https://open.spotify.com/album/1NVKSRXLBHPCwpBWV3XZJm) | 4:24 | 2025-09-30 | 2025-10-09 |
 | [ごめんね。](https://open.spotify.com/track/3sv4uRRNA0ja3nYule4RU0) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [ごめんね。](https://open.spotify.com/album/4o3gVtX7rss13kfmMXCgjj) | 2:47 | 2025-11-25 | 2025-12-03 |
+| [ご挨拶](https://open.spotify.com/track/4SZqqIhW4ETiolPabhyvcI) | [一寸先闇バンド](https://open.spotify.com/artist/08KCxeR1XesZZqWkgG9Fas) | [ご挨拶](https://open.spotify.com/album/5OOPcWv69eiZa0S2Ttg0xX) | 3:20 | 2026-02-11 |  |
 | [ささくれハート](https://open.spotify.com/track/0MXnSA8i8toQeitDWhC3Oi) | [ミーマイナー](https://open.spotify.com/artist/7G8KRjagUdAsleZIfe2juo) | [ささくれハート](https://open.spotify.com/album/218LciIuZcqjaN6arceqcn) | 4:02 | 2025-01-09 | 2025-01-22 |
 | [さすらい](https://open.spotify.com/track/32yGLOmSjnWlYAGCo7heSH) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [さすらい](https://open.spotify.com/album/0ignYsezHylJM9RyNvBuRm) | 3:26 | 2023-11-21 | 2023-11-29 |
 | [さたやみ](https://open.spotify.com/track/3qf6DBZ5X6n6LMFRIpPvl1) | [ME\-GUMI](https://open.spotify.com/artist/4JymhH4RCu5eqaBqZQvxyb) | [七変化](https://open.spotify.com/album/3A42umHubhwhzzEljPr1qH) | 2:49 | 2024-01-31 | 2024-02-28 |

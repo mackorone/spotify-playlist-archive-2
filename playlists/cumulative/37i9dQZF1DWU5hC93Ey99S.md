@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-957 songs - 2 day 2 hr 59 min
+962 songs - 2 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [dont make me wait](https://open.spotify.com/track/4nU5QRHosclTgx65DkDPoN) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [dont make me wait](https://open.spotify.com/album/7pN0DwbMPYJa1M7G3D4QO3) | 2:25 | 2023-04-27 | 2024-01-06 |
 | [don’t say](https://open.spotify.com/track/4bgUnmXFw3hsM5XTJ4tF5B) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [don’t say](https://open.spotify.com/album/4I81pVIwSL2sMbjJ3lgtO7) | 3:30 | 2023-09-14 | 2025-08-13 |
 | [Down On My Love](https://open.spotify.com/track/4h8xS99iATPsBHqowFFF5U) | [Snackbox](https://open.spotify.com/artist/03NvCV8Gy0VLvUcIA8T0cJ) | [Down On My Love](https://open.spotify.com/album/7bcZPO2KbqkCFEi2AAw3sb) | 2:49 | 2023-11-30 | 2024-01-06 |
+| [dream about u](https://open.spotify.com/track/3M2GqbZhACjU0cGZGBdIxs) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [dream about u](https://open.spotify.com/album/0xNICx56CgafxDR8sV6wiq) | 2:50 | 2026-02-12 |  |
 | [Dreams](https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Free](https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn) | 3:15 | 2026-02-05 |  |
 | [Drifting](https://open.spotify.com/track/6x1Jhg9iL48RDdsqPvqibR) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [Drifting](https://open.spotify.com/album/49kc12hoXV2SNlWV4URmrj) | 3:42 | 2025-11-14 |  |
 | [drive me crazy](https://open.spotify.com/track/2gz19hVABPFNVNNrSqVTNG) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [drive me crazy](https://open.spotify.com/album/0N8TpltY9uv7OMDM8GGxJx) | 2:27 | 2025-02-13 | 2025-08-13 |
@@ -392,6 +393,7 @@
 | [In And Out Of Love](https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sharon Den Adel](https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi) | [In And Out Of Love](https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK) | 3:46 | 2024-07-25 | 2025-08-13 |
 | [In My Head](https://open.spotify.com/track/3qHPMaazhsySnfGlWIB45Y) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Head](https://open.spotify.com/album/6Z1OHC8fQPRnXlsw3VNaaY) | 2:36 | 2026-01-30 |  |
 | [In My Mind](https://open.spotify.com/track/45c9wiUAAYRgbAnBcfPEsk) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [In My Mind](https://open.spotify.com/album/4eYA7Zv64Zf4TrE9js5VLo) | 2:00 | 2024-02-22 | 2024-07-03 |
+| [In My Mind](https://open.spotify.com/track/1UcSwc91w0QBondREndseA) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [In My Mind](https://open.spotify.com/album/0mtGeLXVMtHOo7n83TqJib) | 4:15 | 2026-02-12 |  |
 | [In My Room](https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [In My Room](https://open.spotify.com/album/4EslqDlOgXkIhbEQHHjl3g) | 2:39 | 2025-04-17 |  |
 | [in the city](https://open.spotify.com/track/2lxxRy7IAA1wwMTqXJIFx9) | [HARLEY GIRL](https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao), [Hey Baby](https://open.spotify.com/artist/04yeLehSl0kPL2mXyio7oU) | [legitimate dj behaviour](https://open.spotify.com/album/6DDSY0wf9AfisUw79jKTiz) | 2:38 | 2025-05-29 |  |
 | [In The Name](https://open.spotify.com/track/7IHs3ITa87AEQ9CbD2Xyfu) | [Cultre](https://open.spotify.com/artist/1Sybd8WJiURp2BiBqyNMeS) | [In The Name](https://open.spotify.com/album/70EjoBXyeZ7p8aOfGWiBII) | 3:00 | 2024-02-29 | 2025-08-13 |
@@ -738,6 +740,7 @@
 | [So Far South](https://open.spotify.com/track/5WV7YLYSsle4BYQwz613L2) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [So Far South](https://open.spotify.com/album/351KmID7SmIWJOw8YmlSZj) | 3:41 | 2025-09-04 |  |
 | [So Good](https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R) | [So Good](https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE) | 3:39 | 2025-02-07 |  |
 | [So Good](https://open.spotify.com/track/7p4dZT5LxcWxyvpJRW2eVw) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [So Good](https://open.spotify.com/album/6sDBmrhOFwAgqs9HK3STCd) | 2:43 | 2023-07-21 | 2024-01-06 |
+| [So Lonely](https://open.spotify.com/track/5eJQXOLYb9EYrg22B444E6) | [Hunter/Game](https://open.spotify.com/artist/2EpNqFMVXOEGaliyKnZzDt), [Aries](https://open.spotify.com/artist/5i3GGVDRXf0fPJsmzA6uuC) | [So Lonely](https://open.spotify.com/album/0DonM4KackIBzO7jHQM67Q) | 4:02 | 2026-02-12 |  |
 | [So Long](https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:47 | 2023-04-13 | 2024-01-06 |
 | [So Low](https://open.spotify.com/track/0ZSTmlF8lahcALsdkxSdQB) | [Julian Bates](https://open.spotify.com/artist/3RmwJpW3ISPqgDcSN6hIyr) | [So Low](https://open.spotify.com/album/5kVMQDZeL1GlUkj5t1kR3J) | 2:27 | 2024-08-15 | 2025-08-13 |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-04-20 | 2025-08-13 |
@@ -843,6 +846,7 @@
 | [Too Much](https://open.spotify.com/track/2EphCkHwxnplLCvPslzS74) | [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Too Much](https://open.spotify.com/album/41p1g2DoL55ttVaqfQ9mpM) | 2:33 | 2023-08-24 | 2024-01-06 |
 | [touch](https://open.spotify.com/track/1nvVFpD9LRMnwxIOijLwVH) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [touch](https://open.spotify.com/album/0vdN4m4wVVyqoWpbqU2onR) | 1:54 | 2024-05-08 | 2025-08-13 |
 | [Touch \(feat\. Franky\)](https://open.spotify.com/track/2bvUB6bUZdUqLWAEtK4vMs) | [LittGloss](https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0), [Franky](https://open.spotify.com/artist/2pcPNkJ8zVDA2SBDeHW0gW) | [Touch \(feat\. Franky\)](https://open.spotify.com/album/6FYOzfKvTJK9MWO88AQep2) | 2:48 | 2023-09-07 | 2025-08-13 |
+| [Track 1](https://open.spotify.com/track/2zRHL8LMAENGLez8HoJzrU) | [OLIIVER](https://open.spotify.com/artist/0Juw9IhCvPF0zNy0Ev6W4p) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-12 |  |
 | [Trapped In Silence](https://open.spotify.com/track/19WZpaTrUb0oMnU7A8XhAP) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Trapped In Silence](https://open.spotify.com/album/64DSi1YElrV0lkr5gxgt4X) | 2:55 | 2025-06-19 |  |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2024-07-02 | 2025-08-13 |
 | [True](https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/5w8japF2UnvsfCGcoNn2Oo) | 2:05 | 2024-08-08 | 2025-08-13 |
@@ -963,6 +967,7 @@
 | [yours for the taking](https://open.spotify.com/track/1FX7XlM3d0DmaZhtZ1fuas) | [Midnight Dance Party](https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj) | [yours for the taking](https://open.spotify.com/album/6aiAaMAYyAme07iIm5pDVz) | 3:26 | 2024-07-02 | 2025-08-13 |
 | [Youthful Kids](https://open.spotify.com/track/1YBvhB1094Q5Niw1GDSRY3) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Youthful Kids](https://open.spotify.com/album/6PcXHDSWeTupdzdabiuYZj) | 2:59 | 2023-04-20 | 2025-08-13 |
 | [You’re Everything](https://open.spotify.com/track/31j0qU6GnhauFcJNnnbmMl) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Technicolour Places](https://open.spotify.com/album/0AEYQ1ErcrYSaNtmq1NjzA) | 3:50 | 2023-08-03 | 2024-01-06 |
+| [Zero](https://open.spotify.com/track/7E0xvOIQIFyTa3balkUrI5) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Zero](https://open.spotify.com/album/0eVbfgaX5oyxgUMJ6hqf1v) | 3:12 | 2026-02-12 |  |
 | [éxtasis](https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [éxtasis](https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk) | 3:05 | 2023-05-04 | 2024-01-06 |
 | [Я помню \(Woo\)](https://open.spotify.com/track/7o6QMEWHa18PqCruNrKxPa) | [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z), [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [Я помню \(Woo\)](https://open.spotify.com/album/5oeuRrEAUGgh9BkzEMHBgi) | 2:57 | 2023-08-10 | 2025-08-13 |
 

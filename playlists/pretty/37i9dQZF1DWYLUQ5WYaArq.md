@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > It's all about mid 2000s indie rock\. Cover: Arctic Monkeys
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,531 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,514 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

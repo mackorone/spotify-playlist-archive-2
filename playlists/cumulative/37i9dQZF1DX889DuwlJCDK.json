@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 217533,
       "name": "B.O.LIE",
       "url": "https://open.spotify.com/track/2uTwa4bg1UsXM9yDmpOFQf"
@@ -13820,6 +13820,24 @@
       "duration_ms": 167533,
       "name": "\u3054\u3081\u3093\u306d\u3002",
       "url": "https://open.spotify.com/track/3sv4uRRNA0ja3nYule4RU0"
+    },
+    {
+      "album": {
+        "name": "\u3054\u6328\u62f6",
+        "url": "https://open.spotify.com/album/5OOPcWv69eiZa0S2Ttg0xX"
+      },
+      "artists": [
+        {
+          "name": "\u4e00\u5bf8\u5148\u95c7\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/08KCxeR1XesZZqWkgG9Fas"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200315,
+      "name": "\u3054\u6328\u62f6",
+      "url": "https://open.spotify.com/track/4SZqqIhW4ETiolPabhyvcI"
     },
     {
       "album": {

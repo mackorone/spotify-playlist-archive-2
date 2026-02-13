@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
-  "num_followers": 1571266,
+  "num_followers": 1571218,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-02-06 16:02:55",
       "album": {
-        "name": "Small Talk",
-        "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
-      },
-      "artists": [
-        {
-          "name": "Ovrkast.",
-          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
-        },
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 193883,
-      "name": "Small Talk",
-      "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
-    },
-    {
-      "added_at": "2026-02-06 16:02:55",
-      "album": {
         "name": "The Louvre",
         "url": "https://open.spotify.com/album/6190G0Qx9vwR0gINCGumqH"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 249600,
       "name": "The Louvre",
       "url": "https://open.spotify.com/track/54blTc3AnAVPehzb7u3TDs"
+    },
+    {
+      "added_at": "2026-02-06 16:02:55",
+      "album": {
+        "name": "Small Talk",
+        "url": "https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB"
+      },
+      "artists": [
+        {
+          "name": "Ovrkast.",
+          "url": "https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7"
+        },
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 193883,
+      "name": "Small Talk",
+      "url": "https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N"
     },
     {
       "added_at": "2026-02-06 16:02:55",

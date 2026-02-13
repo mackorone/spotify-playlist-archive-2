@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19EnPq.md) - [plain]
 
 > This is Benson Boone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,756 likes - 28 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,864 likes - 28 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19EnPq.md) - [plain]
 | 27 | [What Was](https://open.spotify.com/track/1mWISjhqdUaOCJMYrEpLJ6) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [What Was](https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T) | 3:35 |
 | 28 | [Better Alone](https://open.spotify.com/track/0qCcqa0gYjW8rerrC10yun) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Better Alone](https://open.spotify.com/album/0vTZFLIIpFT4Zxwbt1dFFD) | 3:29 |
 
-Snapshot ID: `aYp1AAAAAABS9bnafpbbIeP5VrSuxePB`
+Snapshot ID: `aYvGgAAAAADSHRw2JaKoT7aIZKAM3PKw`

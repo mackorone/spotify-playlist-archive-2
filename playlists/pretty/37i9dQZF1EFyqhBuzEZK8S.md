@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0jdtXxGhcy0ycjSBMT5Qij">Jack Antonoff</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,425 likes - 346 songs - 21 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,438 likes - 346 songs - 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 45 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 |
 | 46 | [Busy Woman](https://open.spotify.com/track/0b0Dz0Gi86SVdBxYeiQcCP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:06 |
 | 47 | [Death By A Thousand Cuts](https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:18 |
-| 48 | [Out Of The Woods](https://open.spotify.com/track/0qUnBLZ8bJqUNEeQgayL9t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:55 |
-| 49 | [False God](https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:20 |
+| 48 | [False God](https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:20 |
+| 49 | [Out Of The Woods](https://open.spotify.com/track/0qUnBLZ8bJqUNEeQgayL9t) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Deluxe\)](https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf) | 3:55 |
 | 50 | [Question...?](https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:30 |
 | 51 | [gold rush](https://open.spotify.com/track/5BK0uqwY9DNfZ630STAEaq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:05 |
 | 52 | [Brave](https://open.spotify.com/track/6Uy6K3KdmUdAfelUp0SeXn) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:40 |
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 138 | [Modern Girl](https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:43 |
 | 139 | [Wild Heart](https://open.spotify.com/track/7pK4jm4HiNaYVzL2zbQSoG) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:20 |
 | 140 | [Choreomania](https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:33 |
-| 141 | [Goodmorning](https://open.spotify.com/track/1K13OsIMc0HLgEJHZoWH78) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:13 |
-| 142 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
+| 141 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 |
+| 142 | [Goodmorning](https://open.spotify.com/track/1K13OsIMc0HLgEJHZoWH78) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:13 |
 | 143 | [California](https://open.spotify.com/track/4TYPnvjBbEfcDkk1UxpvYB) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:11 |
 | 144 | [holy terrain](https://open.spotify.com/track/5ZmzzBiEAIVCkgsPyh80gt) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 4:03 |
 | 145 | [Sight of the Sun \- Single Version](https://open.spotify.com/track/4orHVYvdG5v4G4bmp2Lwdg) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Sight of the Sun](https://open.spotify.com/album/1yAMkQJYPLZY7kY4DXHjpl) | 3:30 |
@@ -213,8 +213,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 203 | [Helen of Troy \- Bonus Track](https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power \(Deluxe Edition\)](https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ) | 2:51 |
 | 204 | [Texas Man](https://open.spotify.com/track/6fDAGY50m6cnVBY8aUTi9d) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:44 |
 | 205 | [Crumble](https://open.spotify.com/track/3ls9lmPJ7xROR2VL5Kv1Gz) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:07 |
-| 206 | [Comeback](https://open.spotify.com/track/4KKAVfbXHsBbU6j11TJ29O) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Dedicated Side B](https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu) | 3:43 |
-| 207 | [You're Still a Mystery](https://open.spotify.com/track/2jjFo90fZtQrhPNrwRxN0C) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 4:24 |
+| 206 | [You're Still a Mystery](https://open.spotify.com/track/2jjFo90fZtQrhPNrwRxN0C) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 4:24 |
+| 207 | [Comeback](https://open.spotify.com/track/4KKAVfbXHsBbU6j11TJ29O) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju), [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Dedicated Side B](https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu) | 3:43 |
 | 208 | [Big Wheels](https://open.spotify.com/track/7p3XAxYOxflnVHHrotNizM) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 1:36 |
 | 209 | [Sweetie](https://open.spotify.com/track/2uxnPcTJa2UExlj1LwYZp6) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:38 |
 | 210 | [Red Hearse](https://open.spotify.com/track/31xjtO7HP29sNDHdkqmtpv) | [Red Hearse](https://open.spotify.com/artist/2922Q2qAcxb0hRD0LtPcFc) | [Red Hearse](https://open.spotify.com/album/1BrBVH1v92OAzRDijSyhj9) | 2:36 |
@@ -355,4 +355,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyqhBuzEZK8S.md) - [plain]
 | 345 | [W.95th Street High](https://open.spotify.com/track/6D4wRSYyOHfJkYs2VelrbW) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 4:21 |
 | 346 | [I Will Stay Here](https://open.spotify.com/track/0Je3AfZFiRde3KcvZYlCS0) | [Steel Train](https://open.spotify.com/artist/21GlDdSK6L1AvnMSbKh4Ut) | [Twilight Tales From The Prairies Of The Sun](https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO) | 5:46 |
 
-Snapshot ID: `AcJajAAAAAAPy6PfVif0o6pGjD0cZRMu`
+Snapshot ID: `AcJgNgAAAAC5kJvW2/ZD/J7VvSHyU+er`

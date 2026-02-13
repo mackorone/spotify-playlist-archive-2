@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 
 > Música para acompañar esas rondas interminables de mate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,291 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,408 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXTdx4nYEjeS.md) - [plain]
 | 69 | [Magia Veneno](https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [El Número Imperfecto](https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn) | 3:58 |
 | 70 | [Juntos a la Par](https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc) | [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Buscando un Amor](https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw) | 2:41 |
 | 71 | [Un Dia Perfecto](https://open.spotify.com/track/5w3GTe4W2fHBC3tLnqCr1B) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Sistema Nervioso Central](https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4) | 4:02 |
-| 72 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
-| 73 | [Sin Principio Ni Final](https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Sueño Dorado](https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh) | 3:51 |
+| 72 | [Sin Principio Ni Final](https://open.spotify.com/track/6ihwy1c6tsMC6AWANIrhH2) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Sueño Dorado](https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh) | 3:51 |
+| 73 | [Los Calientes](https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 4:37 |
 | 74 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 |
 | 75 | [En la Ciudad de la Furia \- MTV Unplugged](https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 8:42 |
 | 76 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
 | 77 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 |
-| 78 | [Para No Verme Más](https://open.spotify.com/track/270ieNCOt945nOdUQubFI5) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [El Impulso](https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4) | 4:05 |
-| 79 | [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 |
+| 78 | [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 |
+| 79 | [Para No Verme Más](https://open.spotify.com/track/270ieNCOt945nOdUQubFI5) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [El Impulso](https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4) | 4:05 |
 | 80 | [Nota](https://open.spotify.com/track/2rm9Jixn9sLzTM6PF8u8AH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Nota](https://open.spotify.com/album/0siQnF7cX6ggvTgYMll5OJ) | 2:39 |
 | 81 | [Oncemil](https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [11](https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h) | 3:41 |
 | 82 | [Lo Que Hoy Quieras](https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Que Hoy Quieras](https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR) | 2:55 |

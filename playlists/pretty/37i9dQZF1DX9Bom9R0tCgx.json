@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 449282,
+  "num_followers": 449378,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -795,18 +795,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "OIIA OIIA (Spinning Cat)",
-        "url": "https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm"
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
       },
       "artists": [
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Greg Taro",
+          "url": "https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U"
         }
       ],
-      "duration_ms": 133600,
-      "name": "OIIA OIIA (Spinning Cat)",
-      "url": "https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q"
+      "duration_ms": 121417,
+      "name": "Exotica",
+      "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -827,22 +831,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
+        "name": "OIIA OIIA (Spinning Cat)",
+        "url": "https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Greg Taro",
-          "url": "https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         }
       ],
-      "duration_ms": 121417,
-      "name": "Exotica",
-      "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
+      "duration_ms": 133600,
+      "name": "OIIA OIIA (Spinning Cat)",
+      "url": "https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Bottle of Bubbly",
+        "url": "https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV"
+      },
+      "artists": [
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        }
+      ],
+      "duration_ms": 143984,
+      "name": "Bottle of Bubbly",
+      "url": "https://open.spotify.com/track/2lGZi6aHCxMBgDubEPst1C"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Late At Night",
         "url": "https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 156400,
       "name": "Late At Night",
       "url": "https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Bottle of Bubbly",
-        "url": "https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV"
-      },
-      "artists": [
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        }
-      ],
-      "duration_ms": 143984,
-      "name": "Bottle of Bubbly",
-      "url": "https://open.spotify.com/track/2lGZi6aHCxMBgDubEPst1C"
     }
   ],
   "unique_name": "Bass Explosion",

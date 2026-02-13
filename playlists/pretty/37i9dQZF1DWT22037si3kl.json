@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Nebrugg",
-  "num_followers": 148433,
+  "num_followers": 148439,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -607,30 +607,6 @@
     {
       "added_at": "2026-02-09 13:53:24",
       "album": {
-        "name": "MULIERES",
-        "url": "https://open.spotify.com/album/1cPO63ScY3hQLh22Wtl1L3"
-      },
-      "artists": [
-        {
-          "name": "FAB GODAMN",
-          "url": "https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g"
-        },
-        {
-          "name": "Young Nego K",
-          "url": "https://open.spotify.com/artist/5T3F7IclObjDyHZ7ZG76bw"
-        },
-        {
-          "name": "$upremos",
-          "url": "https://open.spotify.com/artist/7y3iq6ylOLzQOCBU3pa1Ff"
-        }
-      ],
-      "duration_ms": 127916,
-      "name": "MULIERES",
-      "url": "https://open.spotify.com/track/4hXsF7dAII2A4YW1Jtg2zc"
-    },
-    {
-      "added_at": "2026-02-09 13:53:24",
-      "album": {
         "name": "Emit\u00ea \u00danico On the Radar Freestyle",
         "url": "https://open.spotify.com/album/09ScvVzN0hafQWry6N9kb7"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 138657,
       "name": "Emit\u00ea \u00danico On the Radar Freestyle",
       "url": "https://open.spotify.com/track/6zUCh9am6gzewamg135d9J"
+    },
+    {
+      "added_at": "2026-02-09 13:53:24",
+      "album": {
+        "name": "MULIERES",
+        "url": "https://open.spotify.com/album/1cPO63ScY3hQLh22Wtl1L3"
+      },
+      "artists": [
+        {
+          "name": "FAB GODAMN",
+          "url": "https://open.spotify.com/artist/7g4bHpDdeUyNES1eX8BQ3g"
+        },
+        {
+          "name": "Young Nego K",
+          "url": "https://open.spotify.com/artist/5T3F7IclObjDyHZ7ZG76bw"
+        },
+        {
+          "name": "$upremos",
+          "url": "https://open.spotify.com/artist/7y3iq6ylOLzQOCBU3pa1Ff"
+        }
+      ],
+      "duration_ms": 127916,
+      "name": "MULIERES",
+      "url": "https://open.spotify.com/track/4hXsF7dAII2A4YW1Jtg2zc"
     },
     {
       "added_at": "2026-02-09 13:53:24",

@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 287599,
+  "num_followers": 287625,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADAHcuGlegabBZn1cLWYosG",
+  "snapshot_id": "aYvGgAAAAADF8Ym2uhEdeBxCulhMh4Ip",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 309013,
-      "name": "8 (circle)",
-      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flood / Glow",
         "url": "https://open.spotify.com/album/157nXaMjEIEJYdZ4eysE7J"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 134413,
       "name": "Glow (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/3Qy4hBI9YBIt3yNYPMXPn8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 309013,
+      "name": "8 (circle)",
+      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "29 #Strafford APTS",
-      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 224706,
       "name": "Salem",
       "url": "https://open.spotify.com/track/1u7cLB3jSUdBTfttKd1LeN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 233982,
-      "name": "00000 Million",
-      "url": "https://open.spotify.com/track/2lJNtl3CiHlGlW9OJHftZo"
+      "duration_ms": 168000,
+      "name": "22 (OVER S\u221e\u221eN)",
+      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "22 (OVER S\u221e\u221eN)",
-      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
+      "duration_ms": 233982,
+      "name": "00000 Million",
+      "url": "https://open.spotify.com/track/2lJNtl3CiHlGlW9OJHftZo"
     },
     {
       "added_at": null,

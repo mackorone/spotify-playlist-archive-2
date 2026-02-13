@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 
 > 한계를 뛰어넘는 당신을 운동을 위하여.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,395 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,399 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7VN46ifvly.md) - [plain]
 | 52 | [BANDIT](https://open.spotify.com/track/7sTyAjxDXq9afwfSQy6D0s) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Bandit](https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC) | 2:27 |
 | 53 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 54 | [Big Energy](https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 |
-| 55 | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/track/1ymWIr4E5x6xORlDO0bXlP) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 4:44 |
-| 56 | [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 |
+| 55 | [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 |
+| 56 | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/track/1ymWIr4E5x6xORlDO0bXlP) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 4:44 |
 | 57 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 |
 | 58 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 |
 | 59 | [Mmhmm](https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Mmhmm](https://open.spotify.com/album/1D3Uf2OkWYQytEbK3NpdMn) | 1:59 |
-| 60 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 |
-| 61 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
+| 60 | [Right On](https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Right On](https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p) | 3:33 |
+| 61 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 |
 | 62 | [Spicy \(feat\. Post Malone\)](https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:23 |
 | 63 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
 | 64 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 |

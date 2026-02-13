@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 
 > The BBMAs returns with performances from your favorite chart\-topping artists! Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,792 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,795 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 62 | [Counting My Blessings](https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P) | 3:29 |
 | 63 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 |
 | 64 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
-| 65 | [Hangin’ On \(feat\. Morgan Wallen\)](https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ) | 3:26 |
-| 66 | [Made For Me](https://open.spotify.com/track/6m94NnMDxM5KM5Ut5vgfhR) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:06 |
+| 65 | [Made For Me](https://open.spotify.com/track/6m94NnMDxM5KM5Ut5vgfhR) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:06 |
+| 66 | [Hangin’ On \(feat\. Morgan Wallen\)](https://open.spotify.com/track/4Jvp2H0HuFpdMxoYSz6agL) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ) | 3:26 |
 | 67 | [Strangers](https://open.spotify.com/track/593knnQN4REEshx8th9zgK) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [The After Taste](https://open.spotify.com/album/4EmlLRONqsYR1rKvw079xN) | 2:52 |
 | 68 | [No Caller ID](https://open.spotify.com/track/2TOO5Dp8mlKhSq8xTGPXwX) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay?](https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw) | 3:28 |
 | 69 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 81 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 |
 | 82 | [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 |
 | 83 | [feelslikeimfallinginlove](https://open.spotify.com/track/49S3znqBAQyPyMpEuKeyJ6) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:56 |
-| 84 | [BENIN BOYS](https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:49 |
-| 85 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 |
-| 86 | [PSYCHO](https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:18 |
+| 84 | [PSYCHO](https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:18 |
+| 85 | [BENIN BOYS](https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:49 |
+| 86 | [Super Freaky Girl](https://open.spotify.com/track/2yjlYDiNiQkdxVqTlaSrlX) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen Radio: Volume 1](https://open.spotify.com/album/1ia27ME4iQkoIyUHBnJqX6) | 2:50 |
 | 87 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 |
 | 88 | [Poison \- Hazbin Hotel Original Soundtrack](https://open.spotify.com/track/7kEzfZXbV63tlqkPyyRd7n) | [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Hazbin Hotel](https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:07 |
 | 89 | [Pure Imagination \(from "Wonka"\)](https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:07 |

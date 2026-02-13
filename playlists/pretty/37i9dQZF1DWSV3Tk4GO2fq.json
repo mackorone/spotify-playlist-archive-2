@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1867010,
+  "num_followers": 1867095,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Jerry Lee's Greatest",
         "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 111535,
       "name": "Great Balls Of Fire",
       "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/1pZn8AX1WulW8IO338hE5D"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Rock Around The Clock",
-        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 129893,
-      "name": "(We're Gonna) Rock Around The Clock",
-      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "That's All",
         "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 184333,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Rock Around The Clock",
+        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 129893,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Come Go With Me: The Best Of The Del-Vikings",
-        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
+        "name": "Songs For Young Lovers",
+        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
       },
       "artists": [
         {
-          "name": "The Del-Vikings",
-          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 162293,
-      "name": "Come Go With Me",
-      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+      "duration_ms": 150666,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -631,18 +631,34 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Songs For Young Lovers",
-        "url": "https://open.spotify.com/album/19sNgSx2E2F6IhlYsmRcur"
+        "name": "Come Go With Me: The Best Of The Del-Vikings",
+        "url": "https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "The Del-Vikings",
+          "url": "https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5"
         }
       ],
-      "duration_ms": 150666,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
+      "duration_ms": 162293,
+      "name": "Come Go With Me",
+      "url": "https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Rockin' With Robin",
+        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
+      },
+      "artists": [
+        {
+          "name": "Bobby Day",
+          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -663,18 +679,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Rockin' With Robin",
-        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
       },
       "artists": [
         {
-          "name": "Bobby Day",
-          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 160080,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
+      "duration_ms": 162840,
+      "name": "Love Is Here To Stay - Remastered 1998",
+      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -707,22 +723,6 @@
       "duration_ms": 131719,
       "name": "Splish Splash",
       "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Love Is Here To Stay - Remastered 1998",
-      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Presenting Dion And The Belmonts",
+        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
+      },
+      "artists": [
+        {
+          "name": "Dion & The Belmonts",
+          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
+        }
+      ],
+      "duration_ms": 141386,
+      "name": "I Wonder Why",
+      "url": "https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "Day By Night (with Paul Weston & His Music From Hollywood)",
         "url": "https://open.spotify.com/album/3Q4k7vP53iNv1MMoEqro7x"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Presenting Dion And The Belmonts",
-        "url": "https://open.spotify.com/album/6z1hD32vUCvJZVjVZMv7el"
-      },
-      "artists": [
-        {
-          "name": "Dion & The Belmonts",
-          "url": "https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4"
-        }
-      ],
-      "duration_ms": 141386,
-      "name": "I Wonder Why",
-      "url": "https://open.spotify.com/track/7vAw4LLIms6X8ZHcbtoazz"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "12 Of His Biggest Hits",
         "url": "https://open.spotify.com/album/2Hr6il1ZLPbeLnKUzhWkF6"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 118226,
       "name": "C\u2019Mon Everybody",
       "url": "https://open.spotify.com/track/7ItZM6DMZE2m1X7yIaRxjq"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -923,18 +907,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 192866,
-      "name": "Strange Fruit",
-      "url": "https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV"
+      "duration_ms": 167493,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/0Rk9byjmZksAJX15onGns5"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -951,6 +935,22 @@
       "duration_ms": 196466,
       "name": "Down in Mexico",
       "url": "https://open.spotify.com/track/4OnqJ1ml4Jgr5AAKNrrYCD"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Strange Fruit",
+      "url": "https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 185586,
-      "name": "April In Paris",
-      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
+      "duration_ms": 123520,
+      "name": "Wake up Little Susie",
+      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 123520,
-      "name": "Wake up Little Susie",
-      "url": "https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr"
+      "duration_ms": 185586,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/34zhjduFdQFhkRUJ230h9T"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Mr Sandman - All the Hits",
-        "url": "https://open.spotify.com/album/0LjbqtDb2lMpfux4TgSsff"
-      },
-      "artists": [
-        {
-          "name": "The Chordettes",
-          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
-        }
-      ],
-      "duration_ms": 144039,
-      "name": "Mister Sandman",
-      "url": "https://open.spotify.com/track/00e59ZgjHI2GwsiY3oXayw"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Get a Job",
         "url": "https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 169706,
       "name": "Get a Job",
       "url": "https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Mr Sandman - All the Hits",
+        "url": "https://open.spotify.com/album/0LjbqtDb2lMpfux4TgSsff"
+      },
+      "artists": [
+        {
+          "name": "The Chordettes",
+          "url": "https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk"
+        }
+      ],
+      "duration_ms": 144039,
+      "name": "Mister Sandman",
+      "url": "https://open.spotify.com/track/00e59ZgjHI2GwsiY3oXayw"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "The Best Of The Chantels",
+        "url": "https://open.spotify.com/album/0HLmP2oXI5tET4jLSKoury"
+      },
+      "artists": [
+        {
+          "name": "The Chantels",
+          "url": "https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/2xMAFTxwZ0w1twuyMZcYb7"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "The Rock N' Roll Collection",
         "url": "https://open.spotify.com/album/6NtLwlr1uXEOWDLjZzI4qu"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 157206,
       "name": "Be-Bop-A-Lula",
       "url": "https://open.spotify.com/track/0TMrV95mP7sDlvbE4iVfKP"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "The Best Of The Chantels",
-        "url": "https://open.spotify.com/album/0HLmP2oXI5tET4jLSKoury"
-      },
-      "artists": [
-        {
-          "name": "The Chantels",
-          "url": "https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK"
-        }
-      ],
-      "duration_ms": 174133,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/2xMAFTxwZ0w1twuyMZcYb7"
     },
     {
       "added_at": "2024-09-06 14:23:51",

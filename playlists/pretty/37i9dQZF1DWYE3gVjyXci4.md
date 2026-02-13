@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE3gVjyXci4.md) - [plain]
 
 > pink bows, spilled secrets, deep feels, and main character dreams
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,248 likes - 53 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,515 likes - 53 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

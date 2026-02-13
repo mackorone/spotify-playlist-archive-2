@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 
 > Solte a voz no chuveiro e liberte o cantor dentro de você!
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,898 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,874 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 | 2 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 |
 | 3 | [Neon \- Spotify Sessions](https://open.spotify.com/track/6k2IgWmtJ0I3CtiKdEqSqe) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ana Castela \- Spotify Sessions](https://open.spotify.com/album/6pHZSdvQhTIP1APJWFUN6Q) | 3:44 |
 | 4 | [Shape of You](https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:53 |
-| 5 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
+| 5 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
 | 6 | [Locked out of Heaven](https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Unorthodox Jukebox](https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI) | 3:53 |
 | 7 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
-| 8 | [Love On The Brain](https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:44 |
-| 9 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
+| 8 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
+| 9 | [Take on Me](https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 3:45 |
 | 10 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 |
 | 11 | [Just the Way You Are](https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:40 |
 | 12 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 |
-| 13 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
-| 14 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:53 |
+| 13 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:53 |
+| 14 | [All of Me](https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Love In The Future \(Expanded Edition\)](https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC) | 4:29 |
 | 15 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 |
 | 16 | [Under the Bridge](https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 4:24 |
 | 17 | [Maps](https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:09 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrDntpgyzu9.md) - [plain]
 | 40 | [Like a Stone](https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:53 |
 | 41 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 |
 | 42 | [Total Eclipse of the Heart](https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best of Bonnie Tyler](https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb) | 4:27 |
-| 43 | [Heart Attack](https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:30 |
-| 44 | [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 |
+| 43 | [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 |
+| 44 | [Heart Attack](https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:30 |
 | 45 | [Dangerous Woman](https://open.spotify.com/track/3nef5W8jTkXrOKgCu4kmq7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:55 |
 | 46 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
 | 47 | [We Can't Stop](https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:51 |
-| 48 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:34 |
-| 49 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
-| 50 | [Señorita](https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Señorita](https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4) | 3:10 |
+| 48 | [Stairway to Heaven \- Remaster](https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 8:02 |
+| 49 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:34 |
+| 50 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 
 Snapshot ID: `AAAAAH5IwwXExe9xKR0fJpFDz/7ODb86`

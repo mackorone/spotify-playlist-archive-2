@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Billlie \(빌리\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,565 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,549 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 18 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 | 19 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 |
 | 20 | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU) | 2:09 |
-| 21 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
+| 21 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
 | 22 | [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 |
 | 23 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 |
-| 24 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 |
+| 24 | [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 |
 | 25 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 |
 | 26 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 |
 | 27 | [jellyous](https://open.spotify.com/track/0wFU2pYHZi45Ws1VD6aSJX) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:43 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 36 | [MORE & MORE](https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:19 |
 | 37 | [DANCING ALONE](https://open.spotify.com/track/3vC63Nh3rSREo7qDHgnx8I) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [DANCING ALONE](https://open.spotify.com/album/70Dv2gOXbeIyHnwT30Hak5) | 3:18 |
 | 38 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 |
-| 39 | [White Memories](https://open.spotify.com/track/7hCdtQsaKCBXrITaPNK2iE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [White Memories](https://open.spotify.com/album/4vnA4ZWgxrhxy5doVCGv9u) | 3:01 |
-| 40 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 |
+| 39 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 |
+| 40 | [White Memories](https://open.spotify.com/track/7hCdtQsaKCBXrITaPNK2iE) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [White Memories](https://open.spotify.com/album/4vnA4ZWgxrhxy5doVCGv9u) | 3:01 |
 | 41 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
 | 42 | [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 |
 | 43 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
-| 44 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 |
-| 45 | [Run Away](https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 3:18 |
+| 44 | [Run Away](https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 3:18 |
+| 45 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 |
 | 46 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 |
 | 47 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 |
 | 48 | [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 |
-| 49 | [LIKE YOU BETTER](https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From Our 20's](https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V) | 3:05 |
-| 50 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
+| 49 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
+| 50 | [LIKE YOU BETTER](https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From Our 20's](https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V) | 3:05 |
 
 Snapshot ID: `AAAAAKjGq/Z/nCMcJ8xatpIggTaWCj2s`

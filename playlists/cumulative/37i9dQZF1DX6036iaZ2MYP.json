@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:  Omah Lay",
+  "description": "Tracks popping off in the Afro scene. Cover:  ODUMODUBLVCK",
   "name": "Afro Station",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 161840,
       "name": "A Lot (with Victony)",
       "url": "https://open.spotify.com/track/01gmKzXC1GZsOkEnAEAQ1w"
@@ -4622,7 +4622,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 172053,
       "name": "COMMAS",
       "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
@@ -4658,7 +4658,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 174315,
       "name": "Comment faire",
       "url": "https://open.spotify.com/track/0om4QY2l97Cdju4zBlbTVl"
@@ -5433,6 +5433,28 @@
     },
     {
       "album": {
+        "name": "DEARLY",
+        "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181495,
+      "name": "DEARLY",
+      "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
+    },
+    {
+      "album": {
         "name": "December",
         "url": "https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX"
       },
@@ -6146,7 +6168,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 181942,
       "name": "DON'T LOVE ME",
       "url": "https://open.spotify.com/track/5uJaS8bZL8pSaTiVOM62cj"
@@ -6374,7 +6396,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 151000,
       "name": "DROWN",
       "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
@@ -7872,6 +7894,32 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/6H4z94Rq4Gz7SzL7VmpGRR"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2PErZB2USDV1fbqww2mJKJ"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172577,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4Yza7I7ds4vF1m1hi3Qg56"
     },
     {
       "album": {
@@ -10130,7 +10178,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 171628,
       "name": "Iz Hawt - French Version",
       "url": "https://open.spotify.com/track/6t6enwSBCMhwUS4jnrcOmr"
@@ -10174,7 +10222,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 158798,
       "name": "J'avance",
       "url": "https://open.spotify.com/track/7L5bn3oENMNf6IuuHNKyLx"
@@ -12846,7 +12894,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 134173,
       "name": "Maman",
       "url": "https://open.spotify.com/track/0Jb2FpuE5OfuUzwkkd6hSo"
@@ -13542,7 +13590,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 142012,
       "name": "Mode Avion",
       "url": "https://open.spotify.com/track/49CGlc4laVFyI6VTcHioal"
@@ -14079,6 +14127,24 @@
     },
     {
       "album": {
+        "name": "My B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/6cfApR6fX0ptSf8UjikmAn"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143288,
+      "name": "My B\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/1M4hppqYK76xSSI7qdNCkr"
+    },
+    {
+      "album": {
         "name": "My Darling + Angelus",
         "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
@@ -14306,6 +14372,28 @@
       "duration_ms": 163198,
       "name": "M\u00e9dusa",
       "url": "https://open.spotify.com/track/5YPGjTepDKtCVdEk1wyVvR"
+    },
+    {
+      "album": {
+        "name": "\u00c9toiles du Taudis",
+        "url": "https://open.spotify.com/album/6FURwOkZypANHQBJJs55DR"
+      },
+      "artists": [
+        {
+          "name": "Mkz03",
+          "url": "https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "M\u00e9lodie",
+      "url": "https://open.spotify.com/track/5GRjaM0RT9xIaw8Yv0Jf1Z"
     },
     {
       "album": {
@@ -15205,6 +15293,24 @@
     },
     {
       "album": {
+        "name": "N\u00c9ON ROUGE",
+        "url": "https://open.spotify.com/album/4Jbxa1c5GFMLQRQ9jquw6t"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149613,
+      "name": "N\u00c9ON ROUGE",
+      "url": "https://open.spotify.com/track/0z7mcN9vpUG9CWLY7QnWIK"
+    },
+    {
+      "album": {
         "name": "O Bosso",
         "url": "https://open.spotify.com/album/0l4xod31xFjZpLTT99CBlS"
       },
@@ -15806,7 +15912,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 200640,
       "name": "ONE TRACK MIND",
       "url": "https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K"
@@ -15952,6 +16058,28 @@
       "duration_ms": 155480,
       "name": "Oppos\u00e9s",
       "url": "https://open.spotify.com/track/10cXtrKUCAqtqKYWJOLR7b"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Miedjia",
+          "url": "https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140689,
+      "name": "OPPS",
+      "url": "https://open.spotify.com/track/4F4uhw5w3awax9gr6oiw37"
     },
     {
       "album": {
@@ -16324,6 +16452,28 @@
       "duration_ms": 143713,
       "name": "PARIS",
       "url": "https://open.spotify.com/track/41wy2A1XfCaQJc3dgMulwB"
+    },
+    {
+      "album": {
+        "name": "Paro",
+        "url": "https://open.spotify.com/album/7qlhqoVNnU2rURV9CHCXw6"
+      },
+      "artists": [
+        {
+          "name": "LIMO",
+          "url": "https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR"
+        },
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141688,
+      "name": "Paro",
+      "url": "https://open.spotify.com/track/38CL4JpgSr6wRCzEUPC9PQ"
     },
     {
       "album": {
@@ -20053,6 +20203,24 @@
     },
     {
       "album": {
+        "name": "They Love Me",
+        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134482,
+      "name": "They Love Me",
+      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
+    },
+    {
+      "album": {
         "name": "THIS YEAR (Blessings)",
         "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
       },
@@ -20086,7 +20254,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 173546,
       "name": "Ti B\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/7EvY12qA3o3rkoQV07IW4P"
@@ -21999,6 +22167,28 @@
     },
     {
       "album": {
+        "name": "AFRO-N-TCHAM 2",
+        "url": "https://open.spotify.com/album/0aTEIBSkouiQnHANZUekbg"
+      },
+      "artists": [
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        },
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181176,
+      "name": "YANGO (feat. Emma'a)",
+      "url": "https://open.spotify.com/track/48EniEZSy7BSUdMvWMDWAI"
+    },
+    {
+      "album": {
         "name": "YAWA",
         "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
       },
@@ -22228,6 +22418,24 @@
       "duration_ms": 198787,
       "name": "\u00c0 nous",
       "url": "https://open.spotify.com/track/2ipzfPstCSpD2Bw7OyX1mR"
+    },
+    {
+      "album": {
+        "name": "\u00c0 QUEL NIVEAU ?",
+        "url": "https://open.spotify.com/album/2urubAr2c7RhXnABnIvwxu"
+      },
+      "artists": [
+        {
+          "name": "DEMENTOS",
+          "url": "https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "\u00c0 QUEL NIVEAU ?",
+      "url": "https://open.spotify.com/track/6rvaxffO8aZsrspLR0WemS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 
 > Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s\. \(한 시절 감성을 대표했던 싸이월드 BGM을 감상해보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,915 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,923 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 22 | [Y \(Please Tell Me Why\)](https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd) | [freestyle](https://open.spotify.com/artist/0LigV2SSsRZaeX2htEFXV9) | [Freestyle 3](https://open.spotify.com/album/6cPklgz0YWJY7VQSR5PIZY) | 4:40 |
 | 23 | [Perhaps Love](https://open.spotify.com/track/73lwJ5P3ehRiqimOgWiwOE) | [HowL](https://open.spotify.com/artist/56bJgGFV3JTVW5hAGEU1ad), [J.ae](https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY) | [Princess Hours \(Original Television Soundtrack\)](https://open.spotify.com/album/0VyUBfpNgMgI3DBQgp4Ogu) | 4:35 |
 | 24 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 |
-| 25 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The NuTs](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 |
-| 26 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 |
+| 25 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 |
+| 26 | [사랑의 바보](https://open.spotify.com/track/3wYDgvDi82GUU1NPy2roYp) | [The NuTs](https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb) | [더 넛츠 1집](https://open.spotify.com/album/5H4enzwKTdOaPPNvb9W1lf) | 4:21 |
 | 27 | [헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy \(feat\. 정인 Jung In\)](https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Hexagonal](https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS) | 4:44 |
 | 28 | [P.D.A\. \(We Just Don't Care\)](https://open.spotify.com/track/0ZBtXonwjdAbRo2UrD0Efq) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Once Again](https://open.spotify.com/album/1ZWwFwSKaREGLWxpGiPAoF) | 4:38 |
 | 29 | [고백](https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV) | [DELISPICE](https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf) | [Espresso](https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb) | 5:23 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb64n6xan4nb.md) - [plain]
 | 80 | [miss you](https://open.spotify.com/track/5vYzF4Lh3wwUAsugpFYLYQ) | [m\-flo loves melody\. & 山本領平](https://open.spotify.com/artist/25wuh8MLTzDAvOSODdOcKL), [melody.](https://open.spotify.com/artist/6BZBjaVlILy9In8IdZdQt8), [Ryohei Yamamoto](https://open.spotify.com/artist/6Ns2D6pApdQrTDnzW1nfUn) | [ASTROMANTIC](https://open.spotify.com/album/0EeOUSpx4sHDdDJkGRT5Qm) | 5:50 |
 | 81 | [그대 떠난 뒤 \(with 브라운 아이드 소울\)](https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 5:37 |
 | 82 | [Nocturne](https://open.spotify.com/track/6Dpb6KTOb3iEm89DAHwLGk) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Glass Mask](https://open.spotify.com/album/7klNdBJ1KRmBQtdZyhzM51) | 4:13 |
-| 83 | [17171771](https://open.spotify.com/track/4iNwoAcnUc4qgjOs5cfN5Z) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [All You Need Is Love](https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj) | 3:02 |
-| 84 | [Y \(feat.BUMZU\)](https://open.spotify.com/track/2LOglplo2xqm1IvyaKhzGm) | [Kei](https://open.spotify.com/artist/2NQKyWnBw5BRknaO7r8fBk), [Myundo](https://open.spotify.com/artist/0SjHcY2YHQyCUCiYSZsPZg), [BUMZU](https://open.spotify.com/artist/4FCneqQd4xiPXKOa6poPIf) | [Y](https://open.spotify.com/album/6Txn5hnrNuZ9FFGRGAQ5ot) | 4:04 |
+| 83 | [Y \(feat.BUMZU\)](https://open.spotify.com/track/2LOglplo2xqm1IvyaKhzGm) | [Kei](https://open.spotify.com/artist/2NQKyWnBw5BRknaO7r8fBk), [Myundo](https://open.spotify.com/artist/0SjHcY2YHQyCUCiYSZsPZg), [BUMZU](https://open.spotify.com/artist/4FCneqQd4xiPXKOa6poPIf) | [Y](https://open.spotify.com/album/6Txn5hnrNuZ9FFGRGAQ5ot) | 4:04 |
+| 84 | [17171771](https://open.spotify.com/track/4iNwoAcnUc4qgjOs5cfN5Z) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [All You Need Is Love](https://open.spotify.com/album/4c8k1xAs85AWq6npv9NYZj) | 3:02 |
 | 85 | [잠시 길을 잃다](https://open.spotify.com/track/3GyOvpjHY0fm3nQJcLPDbD) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [신보경](https://open.spotify.com/artist/48INQ7U2sSQmgbfa9r5bU9) | [Lucky 7](https://open.spotify.com/album/3RrKHh0VKEzefkMOekGJn9) | 4:25 |
 | 86 | [인형의 꿈](https://open.spotify.com/track/3oP1wIigVlJsWMVXXZNisL) | [일기예보](https://open.spotify.com/artist/41uzoiojZhXj2jXpm6CaFi) | [For Everlasting](https://open.spotify.com/album/5Yzg3Kgg5ySxv76oGdw1CW) | 4:15 |
 | 87 | [응급실](https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [투유 프로젝트 \- 슈가맨 Pt.5](https://open.spotify.com/album/3O0r88fVgzaZ6YDhDiSypI) | 4:27 |

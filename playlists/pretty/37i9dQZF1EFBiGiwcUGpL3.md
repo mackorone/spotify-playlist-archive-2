@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705 likes - 101 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 706 likes - 101 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 12 | [Never Comin Down](https://open.spotify.com/track/1QJvq84l7YcVCyIkGA602c) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:34 |
 | 13 | [Better Life](https://open.spotify.com/track/29Qqb1qYSjC1pSK8QPDnkp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Be Here](https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89) | 4:43 |
 | 14 | [Who Wouldn't Wanna Be Me](https://open.spotify.com/track/7MtZJEuIZ6GEKGSN7ttTkX) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:41 |
-| 15 | [For You](https://open.spotify.com/track/48sjrZMBJEGRj4UMwc3IvA) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [The Story So Far](https://open.spotify.com/album/4yaWoYzuaNWgshF1lvjs2F) | 4:49 |
+| 15 | [For You](https://open.spotify.com/track/4EwrouTaUSJc4RKb0re88D) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [For You](https://open.spotify.com/album/6NrbAVp0oPSBMGDEBZR6yJ) | 4:49 |
 | 16 | [Sweet Thing](https://open.spotify.com/track/21zOTXChnP7ghgn3fVKuSF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Defying Gravity](https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy) | 3:48 |
 | 17 | [My Wave](https://open.spotify.com/track/6wEWlttx3wUooRC7ydITFL) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:32 |
 | 18 | [Sun Don't Let Me Down](https://open.spotify.com/track/6tBzxZSTTO0IJ9tBRuJFuH) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 3:23 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 26 | [Good Thing](https://open.spotify.com/track/5Oxgt1m5SMpwM17zByC11n) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:52 |
 | 27 | [I'll Be Your Santa Tonight](https://open.spotify.com/track/3r0jsVshXfshN5B3NszJAc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [I'll Be Your Santa Tonight](https://open.spotify.com/album/5slwTSm2C7fPlwU2d9wqPS) | 4:24 |
 | 28 | [Drop Top](https://open.spotify.com/track/7xUv1Igrk1WG79VfD0xsXS) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:44 |
-| 29 | [I Told You So](https://open.spotify.com/track/7zGUkxRYTIqjU9efChWrrj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [The Story So Far](https://open.spotify.com/album/4yaWoYzuaNWgshF1lvjs2F) | 4:02 |
+| 29 | [I Told You So](https://open.spotify.com/track/4UTcJuLaHwsPPP1bNnTRDt) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:02 |
 | 30 | [STRAIGHT LINE](https://open.spotify.com/track/1qpYujgQ6kTteozxFdVB2X) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:46 |
 | 31 | [Your Body](https://open.spotify.com/track/5ffdMuuGqSLevQL2ILFAXG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 2:45 |
 | 32 | [Even The Stars Fall 4 U](https://open.spotify.com/track/1JEHGggblzBijoYmPoAmf9) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:59 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 35 | [Love The Way It Hurts \(So Good\)](https://open.spotify.com/track/1SmEMvjRkff8V9mORj25g3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:21 |
 | 36 | [Same Heart](https://open.spotify.com/track/4m21Y1hcRYAmuYYUuohbWM) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:36 |
 | 37 | [Gemini](https://open.spotify.com/track/4GuGKnfpF047w9l4rylspG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 4:09 |
-| 38 | [Once In A Lifetime](https://open.spotify.com/track/16iuL2edjRJUyChRp8lkxN) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [The Story So Far](https://open.spotify.com/album/4yaWoYzuaNWgshF1lvjs2F) | 4:11 |
+| 38 | [Once In A Lifetime](https://open.spotify.com/track/29cd2pFF9ltQ5viRWGlbR7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 4:11 |
 | 39 | [WILDSIDE](https://open.spotify.com/track/07pCZEHQAa1YBM4akEUcgJ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 2:47 |
 | 40 | [Steal My Thunder](https://open.spotify.com/track/7yk6FXxIoIdCp3rgc4Uz5E) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 7:16 |
 | 41 | [Out The Cage](https://open.spotify.com/track/3mRsqDndAcdKBInLbAsXiH) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 3:09 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 100 | [Waar is de tijd?](https://open.spotify.com/track/3IJEooHq7SDbPgB728FSyz) | [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Als je lacht](https://open.spotify.com/album/3ilpS9EFDCWz6Eqjeks3mS) | 3:46 |
 | 101 | ["BLUE SKY"](https://open.spotify.com/track/4PVOPJEQvEHkfl8eBgYX0B) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 0:12 |
 
-Snapshot ID: `AcJatAAAAAArNzS9fR662phfly432swN`
+Snapshot ID: `AcJgSgAAAAD84/h9GIQRApBgxag0iQWr`

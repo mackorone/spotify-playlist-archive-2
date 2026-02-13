@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 
 > ¡Pasadía y sabrosura!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,158 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,167 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpZt0hgkZZM.md) - [plain]
 | 26 | [Agüita 'e Coco](https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:07 |
 | 27 | [Nuestro Amor Será](https://open.spotify.com/track/3jir1kbvad3O8pqHtSIqgx) | [Rhapsodia](https://open.spotify.com/artist/01FLuh7tSq1kKhA9rWsKJL) | [Nosotros](https://open.spotify.com/album/4phrVJzqEfnreKBtuChFfQ) | 6:50 |
 | 28 | [Las Caleñas](https://open.spotify.com/track/0wPpztRZgvcRCdk3jtHS7r) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:32 |
-| 29 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 |
+| 29 | [Senta Danada](https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Senta Danada](https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y) | 2:52 |
 | 30 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
-| 31 | [Senta Danada](https://open.spotify.com/track/2R9IrE42Mw4zdUXAEFNiZL) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Senta Danada](https://open.spotify.com/album/2TRZBuqL2MPnCuUEPUzq4Y) | 2:52 |
+| 31 | [Mentirosa](https://open.spotify.com/track/3KTfwLP1ohmZNPLGbWxcjb) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon), [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Nelson Henríquez vs\. Pastor López](https://open.spotify.com/album/4dniAe3ER3NCfMl60ByGaW) | 4:08 |
 | 32 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
 | 33 | [Por una Lágrima](https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:09 |
 | 34 | [Cali Ají](https://open.spotify.com/track/29iVbAneOn1ZGW4zzrBlUb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:36 |

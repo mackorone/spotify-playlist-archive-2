@@ -4,13 +4,14 @@
 
 > This is Seyi Vibez\. The essential tracks, all in one playlist.
 
-68 songs - 2 hr 58 min
+69 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [247](https://open.spotify.com/track/4IBFL0LGePPUtRt6trsAvE) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Billion Solar](https://open.spotify.com/artist/34939zwBQsClP6Jo194PVo), [Nerryckole](https://open.spotify.com/artist/4q5MWh4frjCKoqo9OJBWSG) | [247](https://open.spotify.com/album/5ByH5b4vGuYOH3g6UmjM0Z) | 2:39 | 2025-07-12 |  |
 | [99 \(feat\. Daecolm\)](https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [99 \(feat\. Daecolm\)](https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv) | 4:08 | 2025-07-12 | 2025-07-21 |
 | [99 \(feat\. Daecolm\)](https://open.spotify.com/track/5GkkuEEPtYguzhTdCpS8Ab) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 4:08 | 2025-07-21 |  |
+| [All The Time](https://open.spotify.com/track/1dneFQ8dsIs1qqNLZeN7gq) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:23 | 2026-02-13 |  |
 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 | 2025-11-16 |  |
 | [APALA DISCO \(feat\. Wizkid, Seyi Vibez & Terry Apala\) \- Remix](https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [APALA DISCO \(feat\. Wizkid, Seyi Vibez & Terry Apala\) \[Remix\]](https://open.spotify.com/album/0MgGzcX0gkln7VFFmH25yf) | 3:35 | 2025-07-12 |  |
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:48 | 2025-07-12 |  |

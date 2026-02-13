@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 
 > Sweat it out with your favorite country workout songs\. Cover: Carrie Underwood
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,920 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,928 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 47 | [Round Here](https://open.spotify.com/track/5T6DM9qjjngWnukcw0svkX) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times](https://open.spotify.com/album/5MH765pytbQasmDxXArTah) | 3:35 |
 | 48 | [It Ain't My Fault](https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 3:36 |
 | 49 | [Crash and Burn](https://open.spotify.com/track/2Fk0WwAqTBesLtKg97nojy) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:10 |
-| 50 | [Ridin’ Roads](https://open.spotify.com/track/2VPmBOuy7ZAOFSzKwW2IEt) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Tullahoma](https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5) | 3:25 |
-| 51 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
-| 52 | [Cowboy Casanova](https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:55 |
+| 50 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 |
+| 51 | [Cowboy Casanova](https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:55 |
+| 52 | [Ridin’ Roads](https://open.spotify.com/track/2VPmBOuy7ZAOFSzKwW2IEt) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Tullahoma](https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5) | 3:25 |
 | 53 | [Pontoon](https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Tornado](https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB) | 3:32 |
 | 54 | [Look What God Gave Her](https://open.spotify.com/track/2KqJC0koTBUyDlsMt5ok1V) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 2:48 |
 | 55 | [Hotel Key](https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 2:47 |

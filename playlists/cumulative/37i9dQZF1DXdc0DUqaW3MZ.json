@@ -316,7 +316,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 174908,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/5ryjcOp0ZyAwzcHCnyofVR"
@@ -1483,6 +1483,24 @@
     },
     {
       "album": {
+        "name": "Can't Even Love Myself",
+        "url": "https://open.spotify.com/album/1ZaQNtm6Gx4dd1nx5PC0Jl"
+      },
+      "artists": [
+        {
+          "name": "Limelight Sound",
+          "url": "https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Can't Even Love Myself",
+      "url": "https://open.spotify.com/track/5afL9JeWbEWcs90XEYTHg5"
+    },
+    {
+      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx"
       },
@@ -2497,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195716,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC"
+    },
+    {
+      "album": {
         "name": "DUN DI DUN",
         "url": "https://open.spotify.com/album/6yiQLSFVe8zT2NtvPBedUd"
       },
@@ -3156,6 +3192,28 @@
       "duration_ms": 194666,
       "name": "For You & I",
       "url": "https://open.spotify.com/track/5Vj7O3T5u0wHuFD99x2Rv1"
+    },
+    {
+      "album": {
+        "name": "Found a Love",
+        "url": "https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "The Voices of Epoch",
+          "url": "https://open.spotify.com/artist/1t9i9HWtjeM2BJeF8SL28r"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235149,
+      "name": "Found a Love",
+      "url": "https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B"
     },
     {
       "album": {
@@ -5338,7 +5396,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 148106,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/4z4sZuWyEtvrVoQYQJXlwX"
@@ -5936,6 +5994,28 @@
       "duration_ms": 177880,
       "name": "Money Diamonds Roses",
       "url": "https://open.spotify.com/track/4j0lSW432dK6awGjED4PPt"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/5YTSadJKFxgje4KlvYYEA4"
+      },
+      "artists": [
+        {
+          "name": "Shy One",
+          "url": "https://open.spotify.com/artist/6FafP4LIlZnnYNacDoW7yZ"
+        },
+        {
+          "name": "Private Joy",
+          "url": "https://open.spotify.com/artist/1m5x6qPy9FiZTHoFRyKXyL"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216523,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2BckCcTGMScKenfOGgIcpg"
     },
     {
       "album": {
@@ -8147,6 +8227,28 @@
     },
     {
       "album": {
+        "name": "Strike a Pose (feat. Camille Munn)",
+        "url": "https://open.spotify.com/album/54ZxNpUzA5uPcWx7T0hfNE"
+      },
+      "artists": [
+        {
+          "name": "IZCO",
+          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
+        },
+        {
+          "name": "Camille Munn",
+          "url": "https://open.spotify.com/artist/65ChS01brkcuSZX7tvhGuC"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186604,
+      "name": "Strike a Pose (feat. Camille Munn)",
+      "url": "https://open.spotify.com/track/2Ud42Q4mxETIYEuJ2D5oZA"
+    },
+    {
+      "album": {
         "name": "Strong Womxn",
         "url": "https://open.spotify.com/album/6Vx1R4btosBieKQPbXORu2"
       },
@@ -9156,7 +9258,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 188571,
       "name": "UP DOWN BOUNCE",
       "url": "https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y"
@@ -9366,7 +9468,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 112320,
       "name": "Way I Love You",
       "url": "https://open.spotify.com/track/3aqCP1InqogeNyNMrgbxsJ"
@@ -9742,7 +9844,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 205742,
       "name": "You Want Me",
       "url": "https://open.spotify.com/track/4LXCHFzaMJEgEQT877CyeF"

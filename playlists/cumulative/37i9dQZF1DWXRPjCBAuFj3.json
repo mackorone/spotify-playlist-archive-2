@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Brani virali e trend, rap e urban \ud83d\udcc8  Yugi in cover",
+  "description": "Brani virali e trend, rap e urban \ud83d\udcc8  Aira e Tony Boy in cover",
   "name": "Tendenze Rap 2026",
   "tracks": [
     {
@@ -104,7 +104,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 176838,
       "name": "1 MOMENTO (feat. ANNA)",
       "url": "https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 201855,
       "name": "AMICI COME PRIMA",
       "url": "https://open.spotify.com/track/0adrbI6meVUfb7BLAYuIg0"
@@ -2915,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "Buia Melodia",
+        "url": "https://open.spotify.com/album/7IqDWiuqOmtjXiTflSUKWF"
+      },
+      "artists": [
+        {
+          "name": "Leon Faun",
+          "url": "https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139833,
+      "name": "Buia Melodia",
+      "url": "https://open.spotify.com/track/0tGDxDW4XYjxOOAk1yfQB4"
+    },
+    {
+      "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/0Zovm2YyZr0yUhiQAVuJAO"
       },
@@ -3434,7 +3452,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-04",
+      "date_removed": null,
       "duration_ms": 189090,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
@@ -5304,7 +5322,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 153139,
       "name": "Don't Stop It (feat. Shiva & Gu\u00e8)",
       "url": "https://open.spotify.com/track/2eJJMK4v39nVLSYd72Fuj9"
@@ -7524,7 +7542,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 228000,
       "name": "Ginevra (feat. Geolier)",
       "url": "https://open.spotify.com/track/311m4sWQq8MZZROimkSGF7"
@@ -10060,7 +10078,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 155287,
       "name": "Larry Hoover",
       "url": "https://open.spotify.com/track/7eScENac9mVHxi7kts5pBH"
@@ -13772,7 +13790,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 167900,
       "name": "Oppio (feat. Simba La Rue)",
       "url": "https://open.spotify.com/track/0Jnatpmn5qwvwUC4FSUXMq"
@@ -13872,7 +13890,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 150719,
       "name": "OTTOBRE (feat. ayo ally)",
       "url": "https://open.spotify.com/track/4jQXob4O2O0hfsVmKuI7tB"
@@ -14476,7 +14494,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 349560,
       "name": "Pleasantville",
       "url": "https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l"
@@ -14582,6 +14600,28 @@
       "duration_ms": 200221,
       "name": "POPSTAR (feat. Drake)",
       "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "album": {
+        "name": "Potere (feat. Tony Boy)",
+        "url": "https://open.spotify.com/album/599BKohPCJPOW0r19HvOyY"
+      },
+      "artists": [
+        {
+          "name": "Aira",
+          "url": "https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195090,
+      "name": "Potere (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/6MwOss3bVsCw0VFCkzVT73"
     },
     {
       "album": {
@@ -15598,6 +15638,28 @@
       "duration_ms": 162946,
       "name": "Replay (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/3Ue2iavxQaLREs76kLaUTD"
+    },
+    {
+      "album": {
+        "name": "Resenha Na Laje",
+        "url": "https://open.spotify.com/album/1PTAgk62jZpiOBoKzoGqqN"
+      },
+      "artists": [
+        {
+          "name": "Kew",
+          "url": "https://open.spotify.com/artist/2Ci1Tt7bCEU3OTByr1nc0y"
+        },
+        {
+          "name": "DJGILCASTRO",
+          "url": "https://open.spotify.com/artist/2aeOLRpqlekQpN5gXHXcHV"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92585,
+      "name": "Resenha Na Laje",
+      "url": "https://open.spotify.com/track/3EJ78dvkCtcUmydRkulQMl"
     },
     {
       "album": {
@@ -16966,7 +17028,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 176000,
       "name": "SOGNO AMERICANO",
       "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"

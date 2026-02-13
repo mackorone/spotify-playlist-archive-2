@@ -2912,7 +2912,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 151457,
       "name": "A New Day Has Come",
       "url": "https://open.spotify.com/track/4ZoRyM7IyuPcfGFwORVNsi"
@@ -54742,7 +54742,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 208495,
       "name": "Moonwalkin'",
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
@@ -62174,7 +62174,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 279962,
       "name": "Papaoutai - Afro Soul",
       "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
@@ -69260,6 +69260,32 @@
       "duration_ms": 154455,
       "name": "Sadqay",
       "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
+    },
+    {
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295176,
+      "name": "Safaera",
+      "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
     },
     {
       "album": {
@@ -93468,6 +93494,24 @@
       "duration_ms": 110471,
       "name": "Yo Bunny",
       "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
+    },
+    {
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172127,
+      "name": "Yo Perreo Sola",
+      "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
     },
     {
       "album": {

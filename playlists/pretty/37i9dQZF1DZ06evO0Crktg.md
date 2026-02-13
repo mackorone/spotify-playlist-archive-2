@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,410 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,517 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 38 | [Smoking Section](https://open.spotify.com/track/5ELEsgMwvWJald9BQbIgsV) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Therapeutic Music 5](https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn) | 4:08 |
 | 39 | [Past Yesterday \(with Skylar Grey\)](https://open.spotify.com/track/0mQWqf3GGHuwlF7VUaCeEk) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Beautifully Broken \(Pickin’ Up The Pieces\)](https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9) | 3:13 |
 | 40 | [Dead Man Walking](https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:21 |
-| 41 | [Almost Home](https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:40 |
-| 42 | [Fall in the Fall](https://open.spotify.com/track/6RzCCKw2UI0vxzaVDandfX) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie 2](https://open.spotify.com/album/2nNjq5Qu0IxFI7lXMrOfzm) | 4:09 |
+| 41 | [Fall in the Fall](https://open.spotify.com/track/6RzCCKw2UI0vxzaVDandfX) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie 2](https://open.spotify.com/album/2nNjq5Qu0IxFI7lXMrOfzm) | 4:09 |
+| 42 | [Almost Home](https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:40 |
 | 43 | [Heaven](https://open.spotify.com/track/2t4m6SHDH2BEZ7hZa0b3QX) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 2:49 |
 | 44 | [Devil Go Away \(feat\. Jelly Roll\)](https://open.spotify.com/track/2EXk9xakgtdNIwXpsDxGZJ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:14 |
 | 45 | [Tears Could Talk](https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Bailee Ann](https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 49 | [Hard Fought Hallelujah \(Gospel Version\) \- Spotify Singles \(feat\. The Choir Room\)](https://open.spotify.com/track/137hXMH6QiVXQSRwcf0DWP) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [The Choir Room](https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK) | [Hard Fought Hallelujah \(Gospel Version\) \- Spotify Singles \(feat\. The Choir Room\)](https://open.spotify.com/album/5iqrBPqbMiGOMUw2xVNmOs) | 5:22 |
 | 50 | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2) | 3:38 |
 
-Snapshot ID: `aYp1AAAAAACbGF8z4x8wO06qxPrGfQ0c`
+Snapshot ID: `aYvGgAAAAAAfrqeqUBB+gHmhNxQObk3X`

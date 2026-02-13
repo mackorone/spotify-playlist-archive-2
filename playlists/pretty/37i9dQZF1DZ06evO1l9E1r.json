@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 3035,
+  "num_followers": 3038,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAABit5meeIs9dBl0KYiuIqoO",
+  "snapshot_id": "aYvGgAAAAAAOzpukKvitUwPpdkdKcZxP",
   "tracks": [
     {
       "added_at": null,
@@ -423,38 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "Over There",
-      "url": "https://open.spotify.com/track/0pGs9W5XnvyF1AdxRpxD90"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 109213,
-      "name": "Building Temple",
-      "url": "https://open.spotify.com/track/7mPq8xBuK6uMGRHcpX3iIz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -487,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
       },
       "artists": [
         {
@@ -496,9 +464,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 163157,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
+      "duration_ms": 109213,
+      "name": "Building Temple",
+      "url": "https://open.spotify.com/track/7mPq8xBuK6uMGRHcpX3iIz"
     },
     {
       "added_at": null,
@@ -512,15 +480,15 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 140909,
-      "name": "Make Space",
-      "url": "https://open.spotify.com/track/4ARFffayKBFybDNtCYYXDG"
+      "duration_ms": 192559,
+      "name": "Over There",
+      "url": "https://open.spotify.com/track/0pGs9W5XnvyF1AdxRpxD90"
     },
     {
       "added_at": null,
       "album": {
-        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
       "artists": [
         {
@@ -528,9 +496,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 121451,
-      "name": "Roof Drop",
-      "url": "https://open.spotify.com/track/2fQ0DYqiQRF0uRWpKmfmjv"
+      "duration_ms": 163157,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
     },
     {
       "added_at": null,
@@ -555,6 +523,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 121451,
+      "name": "Roof Drop",
+      "url": "https://open.spotify.com/track/2fQ0DYqiQRF0uRWpKmfmjv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 140909,
+      "name": "Make Space",
+      "url": "https://open.spotify.com/track/4ARFffayKBFybDNtCYYXDG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 275760,
+      "name": "Meeting Bruce Wayne",
+      "url": "https://open.spotify.com/track/5HaKAODFS4Md49bVyYSp1y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chernobyl (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
@@ -564,9 +580,25 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 114647,
-      "name": "Dealing With Destruction",
-      "url": "https://open.spotify.com/track/14LxYedUSDzuNwalQPgTGu"
+      "duration_ms": 168180,
+      "name": "L\u00ed\u00f0ur - Chernobyl Version",
+      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 357559,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
     },
     {
       "added_at": null,
@@ -596,9 +628,25 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 275760,
-      "name": "Meeting Bruce Wayne",
-      "url": "https://open.spotify.com/track/5HaKAODFS4Md49bVyYSp1y"
+      "duration_ms": 121813,
+      "name": "Young Penny",
+      "url": "https://open.spotify.com/track/0u2NLEpkGaPwFptuhWkVwY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 114647,
+      "name": "Dealing With Destruction",
+      "url": "https://open.spotify.com/track/14LxYedUSDzuNwalQPgTGu"
     },
     {
       "added_at": null,
@@ -615,22 +663,6 @@
       "duration_ms": 450226,
       "name": "Strokur",
       "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 168180,
-      "name": "L\u00ed\u00f0ur - Chernobyl Version",
-      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
     },
     {
       "added_at": null,
@@ -660,25 +692,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 121813,
-      "name": "Young Penny",
-      "url": "https://open.spotify.com/track/0u2NLEpkGaPwFptuhWkVwY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 357559,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/0mILNrJIRsv5Zby7PNfobw"
+      "duration_ms": 84760,
+      "name": "Hoyt's Office",
+      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
     },
     {
       "added_at": null,
@@ -699,6 +715,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last And First Men",
+        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
+      },
+      "artists": [
+        {
+          "name": "Yair Elazar Glotman",
+          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Robert Aiki Aubrey Lowe",
+          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
+        }
+      ],
+      "duration_ms": 83315,
+      "name": "The Universal End",
+      "url": "https://open.spotify.com/track/66DXzaaWWCZGyq64Jp17Gs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Where to From",
         "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
       },
@@ -711,54 +755,6 @@
       "duration_ms": 243624,
       "name": "I Hold Close",
       "url": "https://open.spotify.com/track/0GjLDvXAbAnDptvJORbUJl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 84760,
-      "name": "Hoyt's Office",
-      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last And First Men",
-        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        },
-        {
-          "name": "Yair Elazar Glotman",
-          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
-        },
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Robert Aiki Aubrey Lowe",
-          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
-        },
-        {
-          "name": "Viktor Orri \u00c1rnason",
-          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
-        }
-      ],
-      "duration_ms": 155374,
-      "name": "Prelude",
-      "url": "https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh"
     },
     {
       "added_at": null,
@@ -799,6 +795,66 @@
     {
       "added_at": null,
       "album": {
+        "name": "Last And First Men",
+        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Yair Elazar Glotman",
+          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Robert Aiki Aubrey Lowe",
+          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
+        },
+        {
+          "name": "Viktor Orri \u00c1rnason",
+          "url": "https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1"
+        }
+      ],
+      "duration_ms": 155374,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ser\u00eda II",
+        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
+      },
+      "artists": [
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "Anthony Burr",
+          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
+        },
+        {
+          "name": "Eyvind Kang",
+          "url": "https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "M\u00f3\u00f0ir",
+      "url": "https://open.spotify.com/track/1O0ckq884F5wWIaQImY3bg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
@@ -815,6 +871,22 @@
       "duration_ms": 216706,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/5wZeVIBFtMbFeD2gScCuxF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 282732,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
     },
     {
       "added_at": null,
@@ -855,50 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ser\u00eda II",
-        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
-      },
-      "artists": [
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        },
-        {
-          "name": "Anthony Burr",
-          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
-        },
-        {
-          "name": "Eyvind Kang",
-          "url": "https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV"
-        },
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 291706,
-      "name": "M\u00f3\u00f0ir",
-      "url": "https://open.spotify.com/track/1O0ckq884F5wWIaQImY3bg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 282732,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ser\u00eda",
         "url": "https://open.spotify.com/album/26qf6FtyaO41ZAHSxN7PEZ"
       },
@@ -935,50 +963,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last And First Men",
-        "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
+        "name": "Ser\u00eda II",
+        "url": "https://open.spotify.com/album/0m7wFViFP7uJh6UzL6YmDz"
       },
       "artists": [
         {
-          "name": "Yair Elazar Glotman",
-          "url": "https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B"
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
         },
         {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+          "name": "Eyvind Kang",
+          "url": "https://open.spotify.com/artist/2aNAAza1OIE1qrfLBlhLaV"
+        },
+        {
+          "name": "David Thor",
+          "url": "https://open.spotify.com/artist/5jOisMHFaDrZbEll6RFIZu"
         },
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         },
         {
-          "name": "Robert Aiki Aubrey Lowe",
-          "url": "https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg"
-        }
-      ],
-      "duration_ms": 83315,
-      "name": "The Universal End",
-      "url": "https://open.spotify.com/track/66DXzaaWWCZGyq64Jp17Gs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hedda (Music from the Original Motion Picture)",
-        "url": "https://open.spotify.com/album/4kvsPjFkVAyLMCLuYo3Bke"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+          "name": "Amedeo",
+          "url": "https://open.spotify.com/artist/1tfE9aaX3ZUZa42ed0sbkT"
         },
         {
-          "name": "Hedda Cast",
-          "url": "https://open.spotify.com/artist/37RhMDib5XoGxV0dfEMtp1"
+          "name": "\u00d3l\u00f6f Arnalds",
+          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
+        },
+        {
+          "name": "Anthony Burr",
+          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
         }
       ],
-      "duration_ms": 88624,
-      "name": "Crazy He Calls Me",
-      "url": "https://open.spotify.com/track/2BDpA0OUiL3GWODuKQxmDo"
+      "duration_ms": 238973,
+      "name": "The Sound of Snow",
+      "url": "https://open.spotify.com/track/3ZTtUYunsTuwaYTsGBEpsM"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

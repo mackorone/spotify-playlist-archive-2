@@ -3960,7 +3960,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 197213,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
@@ -3996,7 +3996,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 228383,
       "name": "Mala Para Los Huesos Esta Humedad",
       "url": "https://open.spotify.com/track/3HToc9eJEi09RjduiQQgDz"
@@ -5018,7 +5018,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 100733,
       "name": "Pajarito",
       "url": "https://open.spotify.com/track/7KkE9CPv39UKKphAnRMsEs"
@@ -6710,10 +6710,32 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 256813,
       "name": "Te sigo so\u00f1ando (feat. Luz Casal) - En Estudio Uno",
       "url": "https://open.spotify.com/track/3A0nxq1JYftweBELu8rxP0"
+    },
+    {
+      "album": {
+        "name": "Tengo Que Contarte",
+        "url": "https://open.spotify.com/album/3p0KnHePOqQUsMlO2KJvAd"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Tengo Que Contarte",
+      "url": "https://open.spotify.com/track/49jBvu8SdrYGTIZCSbEKFj"
     },
     {
       "album": {
@@ -6830,6 +6852,24 @@
       "duration_ms": 249144,
       "name": "Tinta y Tiempo",
       "url": "https://open.spotify.com/track/3sNmeMXgzDw5887ClDLfXH"
+    },
+    {
+      "album": {
+        "name": "Toco madera",
+        "url": "https://open.spotify.com/album/5olISeCcVZ5I5XhEdGLf1d"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196511,
+      "name": "Toco madera",
+      "url": "https://open.spotify.com/track/0pEdOc9cVgn5hyFqOn3nns"
     },
     {
       "album": {

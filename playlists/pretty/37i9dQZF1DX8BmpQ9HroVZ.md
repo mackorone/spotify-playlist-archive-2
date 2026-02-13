@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Murtaza Qizilbash
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,293 likes - 85 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,379 likes - 85 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 84 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Seshnolan](https://open.spotify.com/artist/4QsiFUy1ddAbRb1UnjvUWN) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 |
 | 85 | [Udaarian](https://open.spotify.com/track/3K3mo4LoxPKk18oqIC3hQC) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Seasons of Sartaaj](https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6) | 5:42 |
 
-Snapshot ID: `AAAAAEWtdTMQJDo8WptC5a1NhAUoOQHl`
+Snapshot ID: `AAAAAGZkkLe0RqVBAyamwaq+YLfnIem8`

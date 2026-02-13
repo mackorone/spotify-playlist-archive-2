@@ -1,0 +1,958 @@
+{
+  "description": "This is 2Pac. The essential tracks, all in one playlist.",
+  "num_followers": 1227048,
+  "original_name": "This Is 2Pac",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "aYvGgAAAAAAvLwHZYv2zG7DGLrZruJuT",
+  "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "duration_ms": 312626,
+      "name": "Hit 'Em Up - Single Version",
+      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Big Syke",
+          "url": "https://open.spotify.com/artist/5J32qSlWzKCdcL31B8wglv"
+        }
+      ],
+      "duration_ms": 307773,
+      "name": "All Eyez On Me (ft. Big Syke)",
+      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R U Still Down? [Remember Me]",
+        "url": "https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 281600,
+      "name": "Do For Love",
+      "url": "https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Dear Mama",
+      "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Talent",
+          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
+        }
+      ],
+      "duration_ms": 268826,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 278386,
+      "name": "Ambitionz Az A Ridah",
+      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loyal To The Game",
+        "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "Ghetto Gospel",
+      "url": "https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "So Many Tears",
+      "url": "https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 262506,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "2 Of Amerikaz Most Wanted (ft. Snoop Doggy Dogg)",
+      "url": "https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "Lil' Homies",
+      "url": "https://open.spotify.com/track/6vBMMa2erexusV4XrgXea9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 247600,
+      "name": "Thugz Mansion - 7 Remix",
+      "url": "https://open.spotify.com/track/3eBBbAEBQdr6tkUUd8gyuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Digital Underground",
+          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "I Get Around",
+      "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 287546,
+      "name": "How Do U Want It (ft. K-Ci & JoJo)",
+      "url": "https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 312373,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Breathin",
+      "url": "https://open.spotify.com/track/7k4dnllwnFDizWHAWkYXsh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resurrection (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/3MJVucN9nO8WHaLo3KHuWO"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 230786,
+      "name": "Runnin' (Dying To Live)",
+      "url": "https://open.spotify.com/track/3jdh7YQBCxykbhL7z0Ehu5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 330760,
+      "name": "Can't C Me",
+      "url": "https://open.spotify.com/track/7rUchbZxrhF29Q0vYjKEU0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Dramacydal",
+          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Me Against The World",
+      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Mr. Biggs",
+          "url": "https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO"
+        }
+      ],
+      "duration_ms": 257626,
+      "name": "Better Dayz",
+      "url": "https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/36zI393OZQaRFC8dTi2XII"
+      },
+      "artists": [
+        {
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 152373,
+      "name": "Deadly Combination (feat. 2Pac)",
+      "url": "https://open.spotify.com/track/3FWTGnS0F6wm2HhIkI8rVW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Rappin' 4-Tay",
+          "url": "https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C"
+        }
+      ],
+      "duration_ms": 296906,
+      "name": "Only God Can Judge Me (ft. Rappin' 4-Tay)",
+      "url": "https://open.spotify.com/track/7sKt5Y2zJpYw78iAxndB8y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "R.L. Hugger",
+          "url": "https://open.spotify.com/artist/6tUtWRGkgU68o7EblHWxgM"
+        },
+        {
+          "name": "Samuel J. \"Tone\" Barnes",
+          "url": "https://open.spotify.com/artist/4huJyydJJ5UeK2tSuZ70gc"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "Until The End Of Time",
+      "url": "https://open.spotify.com/track/5avQSAKB1dOEeIQBqV4jgW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pac's Life",
+        "url": "https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Yaki Kadafi",
+          "url": "https://open.spotify.com/artist/6jrgYc3KgJPqieNGFt0O3m"
+        }
+      ],
+      "duration_ms": 220266,
+      "name": "Soon As I Get Home",
+      "url": "https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "Troublesome '96",
+      "url": "https://open.spotify.com/track/54hFBqrtiWfrh5WQJZwguj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Art of War: World War 2",
+        "url": "https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 307986,
+      "name": "Thug Luv (feat. 2pac)",
+      "url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 235333,
+      "name": "Letter 2 My Unborn",
+      "url": "https://open.spotify.com/track/1MruDoJ6IXqy9ar20xfKVx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loyal To The Game",
+        "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        },
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Loyal To The Game",
+      "url": "https://open.spotify.com/track/3iNzFuZPs4va5EUrpAFiYt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 300573,
+      "name": "Temptations",
+      "url": "https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Unconditional Love",
+      "url": "https://open.spotify.com/track/2boK2MX9CknrZyAQ8vlKHl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Still Ballin' - Nitty Remix",
+      "url": "https://open.spotify.com/track/6CMidyjegRGsM2NyEmbuoT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Untouchable",
+        "url": "https://open.spotify.com/album/1VGaIPb6Cy7dLVC2fMbaLx"
+      },
+      "artists": [
+        {
+          "name": "Scarface",
+          "url": "https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Johnny P",
+          "url": "https://open.spotify.com/artist/2RdXF6BnaZAz1G44yNKJcj"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/4vROonGbqcc0F6XC3rHH3f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "To Live & Die In L.A.",
+      "url": "https://open.spotify.com/track/3ivJymJnoceuUUe7wTP6m4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 322573,
+      "name": "My Block - Nitty Remix",
+      "url": "https://open.spotify.com/track/2qcllSUyD3gKbfh9NEjARW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Different Me",
+        "url": "https://open.spotify.com/album/33e65SDeu5HhT5Iq7Gt2f4"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 291240,
+      "name": "Playa Cardz Right",
+      "url": "https://open.spotify.com/track/0nJZDtAaqO7o9mb6YoBfqO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/6pFfeJceBPGdzTOGgUcLWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gang Related (The Soundtrack)",
+        "url": "https://open.spotify.com/album/5iqST54O6TuS2703794jwj"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 313506,
+      "name": "Starin' Through My Rear View",
+      "url": "https://open.spotify.com/track/0hSpXZZzZakniKCgAFQjLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 174266,
+      "name": "When We Ride On Our Enemies - Briss Remix",
+      "url": "https://open.spotify.com/track/5XI5tzAbzrhkGtLukDTDSG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 262493,
+      "name": "When Thugz Cry",
+      "url": "https://open.spotify.com/track/69roVs81cxmHJQ84vfqKKv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets: The Final Chapter",
+        "url": "https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Living in Pain (feat. 2Pac, Mary J. Blige & Nas)",
+      "url": "https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R U Still Down? [Remember Me]",
+        "url": "https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Hellrazor",
+      "url": "https://open.spotify.com/track/1zM8jy4HqgLD12XgHatfch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "duration_ms": 306200,
+      "name": "They Don't Give A F**** About Us",
+      "url": "https://open.spotify.com/track/4mfc9g4VHf8e7mVLiPEsrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until The End Of Time",
+        "url": "https://open.spotify.com/album/0uT4bCZS9o5C1ThDa2VxpV"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "Ballad Of A Dead Soulja",
+      "url": "https://open.spotify.com/track/7tUw8Zf8a0OcCzU1MwZHOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pac's Life",
+        "url": "https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Pac's Life",
+      "url": "https://open.spotify.com/track/0kZnocAcgakb384KIJ9rZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loyal To The Game",
+        "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Soldier Like Me",
+      "url": "https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gridlock'd (The Soundtrack)",
+        "url": "https://open.spotify.com/album/5g7rRreBzEQmUP8wQTZTvl"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 266800,
+      "name": "Never Had A Friend Like Me",
+      "url": "https://open.spotify.com/track/0CQGTqRcp8OS8wAO1BqWHU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Stretch",
+          "url": "https://open.spotify.com/artist/77dfG8syy9JTl5gA2l5ylj"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/0YYLatZXRuNdjgu1Hduwry"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "Unchained (The Payback / Untouchable)",
+      "url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj"
+    }
+  ],
+  "unique_name": "This Is 2Pac",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO17QsVi"
+}

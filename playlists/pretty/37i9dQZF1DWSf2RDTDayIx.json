@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2459640,
+  "num_followers": 2459744,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,26 @@
     {
       "added_at": "2026-01-30 05:00:41",
       "album": {
+        "name": "Pool (Gravagerz Version)",
+        "url": "https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9"
+      },
+      "artists": [
+        {
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+        },
+        {
+          "name": "kiki wera",
+          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
+        }
+      ],
+      "duration_ms": 125178,
+      "name": "Pool - Gravagerz Version",
+      "url": "https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"
+    },
+    {
+      "added_at": "2026-01-30 05:00:41",
+      "album": {
         "name": "Move (feat. Camila Cabello & Malachiii)",
         "url": "https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello & Malachiii)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
-    },
-    {
-      "added_at": "2026-01-30 05:00:41",
-      "album": {
-        "name": "Pool (Gravagerz Version)",
-        "url": "https://open.spotify.com/album/2LGm9ZhmyFb1h8Du7hV9O9"
-      },
-      "artists": [
-        {
-          "name": "Gravagerz",
-          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
-        },
-        {
-          "name": "kiki wera",
-          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
-        }
-      ],
-      "duration_ms": 125178,
-      "name": "Pool - Gravagerz Version",
-      "url": "https://open.spotify.com/track/7KhT1uCXFocwzoDXwdNtYO"
     },
     {
       "added_at": "2026-01-30 05:00:41",
@@ -944,7 +944,7 @@
           "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
         }
       ],
-      "duration_ms": 133212,
+      "duration_ms": 133213,
       "name": "Beat Goes On (Rhythm to the Brain)",
       "url": "https://open.spotify.com/track/4iAADGCKIR9GkLGvAHfZUS"
     },
@@ -1227,30 +1227,6 @@
     {
       "added_at": "2026-01-30 05:00:41",
       "album": {
-        "name": "ADDICTED: REFRESHED",
-        "url": "https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        }
-      ],
-      "duration_ms": 189135,
-      "name": "Addicted - Zerb Acid VIP",
-      "url": "https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X"
-    },
-    {
-      "added_at": "2026-01-30 05:00:41",
-      "album": {
         "name": "Lighter",
         "url": "https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7"
       },
@@ -1275,6 +1251,30 @@
     {
       "added_at": "2026-01-30 05:00:41",
       "album": {
+        "name": "ADDICTED: REFRESHED",
+        "url": "https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "duration_ms": 189135,
+      "name": "Addicted - Zerb Acid VIP",
+      "url": "https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X"
+    },
+    {
+      "added_at": "2026-01-30 05:00:41",
+      "album": {
         "name": "Serotonin Moonbeams",
         "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
@@ -1288,7 +1288,7 @@
           "url": "https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj"
         }
       ],
-      "duration_ms": 289471,
+      "duration_ms": 287440,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2026-01-30 05:00:41",
       "album": {
-        "name": "Sun Will Shine",
-        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Sun Will Shine",
-      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
-    },
-    {
-      "added_at": "2026-01-30 05:00:41",
-      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -2079,6 +2059,26 @@
     {
       "added_at": "2026-01-30 05:00:41",
       "album": {
+        "name": "Sun Will Shine",
+        "url": "https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Sun Will Shine",
+      "url": "https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf"
+    },
+    {
+      "added_at": "2026-01-30 05:00:41",
+      "album": {
         "name": "Mydnight",
         "url": "https://open.spotify.com/album/2MVB6MztUF4iFQCcbBYmOe"
       },
@@ -2091,26 +2091,6 @@
       "duration_ms": 213706,
       "name": "Our Home",
       "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
-    },
-    {
-      "added_at": "2026-01-30 05:00:41",
-      "album": {
-        "name": "Better Times",
-        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "Better Times",
-      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
     },
     {
       "added_at": "2026-01-30 05:00:41",
@@ -2135,6 +2115,26 @@
       "duration_ms": 170196,
       "name": "Love On You (feat. Griff Clawson)",
       "url": "https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC"
+    },
+    {
+      "added_at": "2026-01-30 05:00:41",
+      "album": {
+        "name": "Better Times",
+        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "duration_ms": 199015,
+      "name": "Better Times",
+      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
     },
     {
       "added_at": "2026-01-30 05:00:41",
@@ -2303,26 +2303,6 @@
     {
       "added_at": "2026-01-30 05:00:41",
       "album": {
-        "name": "JOY (By My Side)",
-        "url": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 222675,
-      "name": "JOY (By My Side)",
-      "url": "https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3"
-    },
-    {
-      "added_at": "2026-01-30 05:00:41",
-      "album": {
         "name": "Lucky (feat. Remi Wolf)",
         "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
       },
@@ -2339,6 +2319,26 @@
       "duration_ms": 127380,
       "name": "Lucky (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
+    },
+    {
+      "added_at": "2026-01-30 05:00:41",
+      "album": {
+        "name": "JOY (By My Side)",
+        "url": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 222675,
+      "name": "JOY (By My Side)",
+      "url": "https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3"
     },
     {
       "added_at": "2026-01-30 05:00:41",
@@ -2583,26 +2583,6 @@
     {
       "added_at": "2026-01-30 05:00:41",
       "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/2bONQUZ5JZCmaIQjUZM5ep"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        }
-      ],
-      "duration_ms": 225234,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/4KBrBLzMSf5hkZBlgzkSSP"
-    },
-    {
-      "added_at": "2026-01-30 05:00:41",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi"
       },
@@ -2619,6 +2599,26 @@
       "duration_ms": 195773,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ"
+    },
+    {
+      "added_at": "2026-01-30 05:00:41",
+      "album": {
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/2bONQUZ5JZCmaIQjUZM5ep"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        }
+      ],
+      "duration_ms": 225234,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/4KBrBLzMSf5hkZBlgzkSSP"
     },
     {
       "added_at": "2026-01-30 05:00:41",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2026-01-30 05:00:41",
       "album": {
+        "name": "Say It To Me",
+        "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "duration_ms": 242076,
+      "name": "Say It To Me",
+      "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
+    },
+    {
+      "added_at": "2026-01-30 05:00:41",
+      "album": {
         "name": "Forever And A Day (Diplo Remix)",
         "url": "https://open.spotify.com/album/119iHl8DWQZweWR0vPEscK"
       },
@@ -2707,22 +2723,6 @@
       "duration_ms": 218053,
       "name": "Forever And A Day - Diplo Remix",
       "url": "https://open.spotify.com/track/5ozhK7GvUKSNSr1LrclYM2"
-    },
-    {
-      "added_at": "2026-01-30 05:00:41",
-      "album": {
-        "name": "Say It To Me",
-        "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        }
-      ],
-      "duration_ms": 242076,
-      "name": "Say It To Me",
-      "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
     },
     {
       "added_at": "2026-01-30 05:00:41",
@@ -2787,26 +2787,6 @@
     {
       "added_at": "2026-01-30 05:00:41",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/2aPoX3MXe5ddzbTD6l09fD"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        },
-        {
-          "name": "Quarterhead",
-          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
-        }
-      ],
-      "duration_ms": 149364,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/2e3WuwRFv6zollUtQVC6rZ"
-    },
-    {
-      "added_at": "2026-01-30 05:00:41",
-      "album": {
         "name": "You Make Me Feel",
         "url": "https://open.spotify.com/album/5BwmV3PN9DS5Yvx8En57as"
       },
@@ -2823,6 +2803,26 @@
       "duration_ms": 203909,
       "name": "You Make Me Feel",
       "url": "https://open.spotify.com/track/4z2ZZU3skkejktx83PbKiR"
+    },
+    {
+      "added_at": "2026-01-30 05:00:41",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/2aPoX3MXe5ddzbTD6l09fD"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        },
+        {
+          "name": "Quarterhead",
+          "url": "https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY"
+        }
+      ],
+      "duration_ms": 149364,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/2e3WuwRFv6zollUtQVC6rZ"
     },
     {
       "added_at": "2026-01-30 05:00:41",
@@ -2991,26 +2991,6 @@
     {
       "added_at": "2026-01-30 05:00:41",
       "album": {
-        "name": "PARTY NEVER STOPS",
-        "url": "https://open.spotify.com/album/6By7ZkDoYPdCb4w508giWs"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Moon Boots",
-          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
-        }
-      ],
-      "duration_ms": 292330,
-      "name": "PARTY NEVER STOPS",
-      "url": "https://open.spotify.com/track/5aFi8YUPnBS7Z32QtbnIbE"
-    },
-    {
-      "added_at": "2026-01-30 05:00:41",
-      "album": {
         "name": "CHOOSE LOVE",
         "url": "https://open.spotify.com/album/52YEViScMbvzOz7m27uUcT"
       },
@@ -3027,6 +3007,26 @@
       "duration_ms": 166932,
       "name": "CHOOSE LOVE",
       "url": "https://open.spotify.com/track/2a7II5mNH3OkrRroCYWeri"
+    },
+    {
+      "added_at": "2026-01-30 05:00:41",
+      "album": {
+        "name": "PARTY NEVER STOPS",
+        "url": "https://open.spotify.com/album/6By7ZkDoYPdCb4w508giWs"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        }
+      ],
+      "duration_ms": 292330,
+      "name": "PARTY NEVER STOPS",
+      "url": "https://open.spotify.com/track/5aFi8YUPnBS7Z32QtbnIbE"
     },
     {
       "added_at": "2026-01-30 05:00:41",

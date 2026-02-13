@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,171 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,175 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 83 | [DODGE A BULLET](https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC) | [Philip Solo](https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [DODGE A BULLET](https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M) | 2:46 |
 | 84 | [Demon Supreme](https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Demon Supreme](https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB) | 3:31 |
 | 85 | [Bleed Like You \- Merzbow Version](https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2) | [Mortiis](https://open.spotify.com/artist/4jlxvaggBp7wVV02U6YYRQ), [Merzbow](https://open.spotify.com/artist/5UezsklPScipW64XJm7qql) | [Bleed Like You](https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj) | 4:57 |
-| 86 | [REB00T MYSELF \(feat\. Tired Violence\)](https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Tired Violence](https://open.spotify.com/artist/0zysEFjcjriHu5pvZkhfYV) | [REB00T MYSELF \(feat\. Tired Violence\)](https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b) | 3:04 |
-| 87 | [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 |
+| 86 | [Embersólyom \- Kaláka](https://open.spotify.com/track/3PW5V36seHTLVUMzCLTAMS) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Embersólyom \(Kaláka\)](https://open.spotify.com/album/3kq2ev5Z0FFOyspM6eOcHp) | 4:17 |
+| 87 | [REB00T MYSELF \(feat\. Tired Violence\)](https://open.spotify.com/track/0ktDzd32KJcAW4e7bsPmeG) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Tired Violence](https://open.spotify.com/artist/0zysEFjcjriHu5pvZkhfYV) | [REB00T MYSELF \(feat\. Tired Violence\)](https://open.spotify.com/album/35lOHVwCtYdWpz9TXuyP9b) | 3:04 |
 | 88 | [Power](https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Power](https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq) | 4:29 |
 | 89 | [Breaks](https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE) | [Gone Is Gone](https://open.spotify.com/artist/1xLSa28V0Sl3EMyS6CiKIg) | [Breaks](https://open.spotify.com/album/6oV4M5y0UgPJBe1QlQAuFP) | 3:55 |
 | 90 | [V.A.N](https://open.spotify.com/track/1M31zIMamohkItOjLaBbtx) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [V.A.N](https://open.spotify.com/album/6MjPsfdd67Pm1CIi36YvJM) | 4:34 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 93 | [Light and Darkness](https://open.spotify.com/track/5kyZcZxcgdQwjG9Uhn93Bj) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/780e6IocGd5aaLIdnF980y) | 4:04 |
 | 94 | [EUGH!](https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx) | [SPIIRAL](https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC) | [EUGH!](https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X) | 1:22 |
 | 95 | [Lifers](https://open.spotify.com/track/0cluQGCBtjYHtVTW9GJayG) | [Culted](https://open.spotify.com/artist/3YT1buuj4AVB8KiSSZdJ8F) | [Lifers](https://open.spotify.com/album/4QorJObMBo6fFHnW8CNcGB) | 4:58 |
-| 96 | [Only Paradise Lost](https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG) | [vedawave](https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1) | [Only Paradise Lost](https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN) | 4:00 |
-| 97 | [Concept Unification](https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql) | [Pinkish Black](https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP) | [Concept Unification](https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc) | 5:13 |
+| 96 | [Concept Unification](https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql) | [Pinkish Black](https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP) | [Concept Unification](https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc) | 5:13 |
+| 97 | [Only Paradise Lost](https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG) | [vedawave](https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1) | [Only Paradise Lost](https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN) | 4:00 |
 | 98 | [The Triumphal Chariot of Antimony](https://open.spotify.com/track/2UaSBb1eH8SxqUZ4qvc8fZ) | [Demon Head](https://open.spotify.com/artist/3deeuqYVw08AeSndTj9aE3) | [The Triumphal Chariot of Antimony](https://open.spotify.com/album/1EIi0O4cK8iTq79mY8PceL) | 5:39 |
 | 99 | [Wrecked](https://open.spotify.com/track/23Ct1DllhsUlFtGn6iK59R) | [Zonal](https://open.spotify.com/artist/2FEWIj8qxL0aJKlH5QoOnt) | [Wrecked](https://open.spotify.com/album/7aMDk6WilYTrT8Jjtzv5lL) | 6:26 |
 | 100 | [Dante's Inspiration](https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu) | [Cryptodira](https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl) | [The Angel of History](https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT) | 3:33 |

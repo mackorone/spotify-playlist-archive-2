@@ -1645,6 +1645,28 @@
     },
     {
       "album": {
+        "name": "Baby er du med",
+        "url": "https://open.spotify.com/album/1pnbLXPvFs9FnxFpF8AX2L"
+      },
+      "artists": [
+        {
+          "name": "Mozby",
+          "url": "https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6"
+        },
+        {
+          "name": "\u00d6rnen",
+          "url": "https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Baby er du med",
+      "url": "https://open.spotify.com/track/4Q2vNgA5H2JH5oqNIQZfiB"
+    },
+    {
+      "album": {
         "name": "Back In Time",
         "url": "https://open.spotify.com/album/6YVlmjo7Ljr4BBDYpLwnHW"
       },
@@ -16871,6 +16893,28 @@
     },
     {
       "album": {
+        "name": "K\u00e4rleksfeberdr\u00f6mmar",
+        "url": "https://open.spotify.com/album/61kJVwaHF3iarA7FtqD389"
+      },
+      "artists": [
+        {
+          "name": "SN\u00d8",
+          "url": "https://open.spotify.com/artist/121fhWsV0cLJ8VXvUZ1zU7"
+        },
+        {
+          "name": "FESTEN",
+          "url": "https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148272,
+      "name": "K\u00e4rleksfeberdr\u00f6mmar",
+      "url": "https://open.spotify.com/track/6YugmiY69PTLcWf0VPXsvy"
+    },
+    {
+      "album": {
         "name": "K\u00c4RRAN",
         "url": "https://open.spotify.com/album/1KUCuaqZU0P8cWvFiS4MX4"
       },
@@ -17898,6 +17942,28 @@
       "duration_ms": 163886,
       "name": "LIVET P\u00c5 EN PINNE",
       "url": "https://open.spotify.com/track/5fvrpWPEDhM6IDyKb56ySV"
+    },
+    {
+      "album": {
+        "name": "Living Next Door to Alice (Who the Fuck is Alice?)",
+        "url": "https://open.spotify.com/album/2ahcRKOb5EkSSfg403zPak"
+      },
+      "artists": [
+        {
+          "name": "N!NE",
+          "url": "https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro"
+        },
+        {
+          "name": "Wizex",
+          "url": "https://open.spotify.com/artist/4SaTBFtB3RPsxEGBdRB6EG"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Living Next Door to Alice (Who the Fuck is Alice?)",
+      "url": "https://open.spotify.com/track/2VhTsEe1BD4TsTzSTs4Cbd"
     },
     {
       "album": {

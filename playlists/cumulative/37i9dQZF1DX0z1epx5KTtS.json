@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Oyoki Onanayo ",
+  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Ste Milano",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -2167,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "FAIS OH FAIS (1 COUP KO)",
+        "url": "https://open.spotify.com/album/3j4tdBgUxLNwYJVw0KYfOW"
+      },
+      "artists": [
+        {
+          "name": "Ste Milano",
+          "url": "https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150504,
+      "name": "FAIS OH FAIS (1 COUP KO)",
+      "url": "https://open.spotify.com/track/6myxZn56qXV2JBDWZkCqJe"
+    },
+    {
+      "album": {
         "name": "Fan ou Amoureux",
         "url": "https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy"
       },
@@ -2736,7 +2754,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 198518,
       "name": "Je suis pas dedans",
       "url": "https://open.spotify.com/track/52pIkrAGgD5AWhrmaYFE2e"

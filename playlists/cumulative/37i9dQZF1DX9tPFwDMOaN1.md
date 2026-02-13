@@ -4,7 +4,7 @@
 
 > The new & hottest K\-Pop is here! \(Cover: ATEEZ\)
 
-792 songs - 1 day 17 hr 0 min
+793 songs - 1 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 | 2021-12-13 | 2022-01-11 |
 | [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 | 2025-12-19 |  |
 | [DUMB DUMB](https://open.spotify.com/track/6dG2zPUOWXk3eMC7Hb3wh3) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [DUMB DUMB](https://open.spotify.com/album/5CIz2DHjAyFhPYNjWdCs1T) | 2:29 | 2021-12-13 | 2022-01-11 |
+| [Dynamite](https://open.spotify.com/track/72wqLtMtkrB0qUw6jSqM0Z) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(NightTime Version\)](https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS) | 3:19 | 2026-02-12 |  |
 | [Earth, Wind & Fire](https://open.spotify.com/track/0Tq7v8YAmwdnAYBwyR1pZ4) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOW?](https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V) | 2:59 | 2024-04-18 | 2024-08-16 |
 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-14 | 2025-06-14 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-19 | 2024-07-25 |
@@ -218,7 +219,7 @@
 | [Fall In Love Again](https://open.spotify.com/track/7e2t41hCiR0sV4Lgv555v3) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Fall In Love Again](https://open.spotify.com/album/7e1u6dK7lvs0JiCLuz83Wj) | 3:28 | 2023-12-08 | 2024-04-02 |
 | [Falling \(Feat\. Young K \(DAY6\)\)](https://open.spotify.com/track/0UBzmHMIjiPCVpoe6gtvfw) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy), [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Falling \(Feat\. Young K \(DAY6\)\)](https://open.spotify.com/album/5acxpHJujhst5CfRUXjQBA) | 3:07 | 2025-11-03 | 2026-01-04 |
 | [FAM \(Korean Ver.\)](https://open.spotify.com/track/11BLMmPoTgKEi4XBDxdpYN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ\-REPLAY](https://open.spotify.com/album/3UXrliH0JUQvcaLnBD8Txz) | 3:33 | 2022-12-21 | 2023-03-03 |
-| [Fame](https://open.spotify.com/track/1nEhhkEidrTOtc46fCvRFp) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Fame](https://open.spotify.com/album/4xj1odt2gz8GbbuKopagkH) | 2:56 | 2025-11-24 |  |
+| [Fame](https://open.spotify.com/track/1nEhhkEidrTOtc46fCvRFp) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Fame](https://open.spotify.com/album/4xj1odt2gz8GbbuKopagkH) | 2:56 | 2025-11-24 | 2026-02-13 |
 | [FAMOUS](https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 3:00 | 2025-07-08 | 2025-12-19 |
 | [Fancy \- Spotify Singles](https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Fancy \- Spotify Singles](https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq) | 3:13 | 2024-03-15 | 2024-05-14 |
 | [FaSHioN](https://open.spotify.com/track/4ecdsGz3Hg6TKPwQ0ZOdJz) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:54 | 2025-09-15 |  |

@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: LITTLE JOHN
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: BLUE PONGTIWAT, TEN
 
-220 songs - 14 hr 12 min
+221 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [WHAT IF](https://open.spotify.com/track/2bnhi8PyiGiAMuaETsM3Ye) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [WHAT IF](https://open.spotify.com/album/0fOn1MBcLaQ0gGusQBirRT) | 4:12 | 2025-11-09 | 2025-11-21 |
 | [What's going on](https://open.spotify.com/track/5dIYl0ERKVWLz6cKpfWwKp) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [What's going on](https://open.spotify.com/album/1vTJWhwPxSs22314Mp8fYN) | 3:35 | 2025-09-11 | 2025-10-23 |
 | [WONDERING](https://open.spotify.com/track/0ghEYrlqpL0BBcuEJzKP01) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/5XhVclR4Vb6o4TNOzRtVzP) | 2:48 | 2025-10-15 | 2025-11-10 |
+| [You Give Me Butterflies](https://open.spotify.com/track/4VjdrMPJtXDEAzbaiNmh7O) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ), [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [You Give Me Butterflies](https://open.spotify.com/album/1zaRbxugwNRnSY0HeJDx4b) | 3:30 | 2026-02-12 |  |
 | [Yours Ever](https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [Q Flure](https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:19 | 2024-10-10 |  |
 | [กรุงเทพมหานคร](https://open.spotify.com/track/4sQjVDas1lw04lj3NGsoDC) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 3:44 | 2025-10-31 |  |
 | [กลับมาเพื่อบอกลา \(Just To Let Me Know\)](https://open.spotify.com/track/36VP0QLf0R3KqcWeyJxuEO) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW) | [กลับมาเพื่อบอกลา \(Just To Let Me Know\) \- Single](https://open.spotify.com/album/2HgDU0bpa2LwPdFpXJLsBL) | 3:34 | 2024-01-26 | 2025-01-17 |
@@ -222,7 +223,7 @@
 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2024-01-26 | 2024-07-13 |
 | [ใจหล่น \(Ruined\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3eU8rU2yr6GFhR6gpWhNBA) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 4:58 | 2025-04-02 | 2025-04-29 |
 | [ใจเป็นนาย กายเป็นบ่าว](https://open.spotify.com/track/1gagehYgkm4azlIyIasuAO) | [เล็ก รัชเมศฐ์](https://open.spotify.com/artist/4zqN3dav6iuwb2djzhhtSz) | [ใจเป็นนาย กายเป็นบ่าว \- Single](https://open.spotify.com/album/4s1mjwdNWPBmrKERf7n0DM) | 4:05 | 2024-12-06 | 2025-04-25 |
-| [ไม่ติด](https://open.spotify.com/track/5ARFnqIJJc9OgCRB7tEygC) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [URMAN](https://open.spotify.com/album/5m5nxgIvm1W9Cp5FYoYayd) | 3:32 | 2024-05-30 |  |
+| [ไม่ติด](https://open.spotify.com/track/5ARFnqIJJc9OgCRB7tEygC) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22) | [URMAN](https://open.spotify.com/album/5m5nxgIvm1W9Cp5FYoYayd) | 3:32 | 2024-05-30 | 2026-02-13 |
 | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/track/34bbjxV7eJWOWdHHs5ZKn7) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [ไม่มีที่ไปก็ต้องไป](https://open.spotify.com/album/3duBUGLDS0P8MpuWEeSOrR) | 3:43 | 2025-01-15 | 2025-04-17 |
 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 | 2024-01-26 | 2025-04-11 |
 | [ไม่เป็นรอง](https://open.spotify.com/track/38uarkAk3Y13onWxwj0MIq) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [ไม่เป็นรอง \- Single](https://open.spotify.com/album/1vsxelQ8EZjwbqMPEETzZ8) | 4:53 | 2024-01-26 | 2024-06-01 |

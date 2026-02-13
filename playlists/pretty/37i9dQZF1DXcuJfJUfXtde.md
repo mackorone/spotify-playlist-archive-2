@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 
 > a veces sólo soy yo y mis audífonos contra el mundo 💖
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,198 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,264 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 | 27 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 |
 | 28 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 |
 | 29 | [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 |
-| 30 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
-| 31 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 30 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 |
+| 31 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 32 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 |
 | 33 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 | 34 | [drivers license](https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 4:02 |
@@ -52,15 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 | 42 | [Can't Feel My Face](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:33 |
 | 43 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 |
 | 44 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 |
-| 45 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
-| 46 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
+| 45 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 |
+| 46 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 47 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
 | 48 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 |
 | 49 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 |
 | 50 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |
 | 51 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
-| 52 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
-| 53 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
+| 52 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 |
+| 53 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
 | 54 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 |
 | 55 | [Shameless](https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:39 |
 | 56 | [DARE \(feat\. Shaun Ryder & Roses Gabor\)](https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Shaun Ryder](https://open.spotify.com/artist/3ONSkkEnOSZVNogu98dvTY), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 4:04 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 | 69 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips \(Deluxe Version\)](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 |
 | 70 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
 | 71 | [Pon de Replay](https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:06 |
-| 72 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 |
-| 73 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 |
+| 72 | [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 |
+| 73 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 |
 | 74 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 |
 | 75 | [We Don't Talk Anymore \(feat\. Selena Gomez\)](https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Nine Track Mind](https://open.spotify.com/album/5Nwsra93UQYJ6xxcjcE10x) | 3:37 |
 

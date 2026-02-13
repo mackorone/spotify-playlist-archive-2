@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1222932,
+  "num_followers": 1223714,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-02-06 12:59:10",
       "album": {
-        "name": "\u0641\u0635\u0644\u0629",
-        "url": "https://open.spotify.com/album/7yKD6ncXRSBTdbfH6yNsKw"
-      },
-      "artists": [
-        {
-          "name": "Flipperachi",
-          "url": "https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd"
-        }
-      ],
-      "duration_ms": 105271,
-      "name": "FA9LA",
-      "url": "https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7"
-    },
-    {
-      "added_at": "2026-02-06 12:59:10",
-      "album": {
         "name": "Thodi Si Daaru",
         "url": "https://open.spotify.com/album/5VtCQYa9RJHYMQAfzAb1HQ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 180248,
       "name": "Thodi Si Daaru",
       "url": "https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj"
+    },
+    {
+      "added_at": "2026-02-06 12:59:10",
+      "album": {
+        "name": "\u0641\u0635\u0644\u0629",
+        "url": "https://open.spotify.com/album/7yKD6ncXRSBTdbfH6yNsKw"
+      },
+      "artists": [
+        {
+          "name": "Flipperachi",
+          "url": "https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd"
+        }
+      ],
+      "duration_ms": 105271,
+      "name": "FA9LA",
+      "url": "https://open.spotify.com/track/23p1uP74XiVYCXjPP23Kz7"
     },
     {
       "added_at": "2026-02-06 12:59:10",
@@ -831,26 +831,22 @@
     {
       "added_at": "2026-02-06 12:59:10",
       "album": {
-        "name": "Jab We Met",
-        "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
+        "name": "Barbaad (From \"Saiyaara\")",
+        "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
         },
         {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
         }
       ],
-      "duration_ms": 321225,
-      "name": "Tum Se Hi",
-      "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
+      "duration_ms": 357127,
+      "name": "Barbaad (From \"Saiyaara\")",
+      "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
     },
     {
       "added_at": "2026-02-06 12:59:10",
@@ -895,22 +891,26 @@
     {
       "added_at": "2026-02-06 12:59:10",
       "album": {
-        "name": "Barbaad (From \"Saiyaara\")",
-        "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
+        "name": "Jab We Met",
+        "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
       },
       "artists": [
         {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         },
         {
-          "name": "Jubin Nautiyal",
-          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         }
       ],
-      "duration_ms": 357127,
-      "name": "Barbaad (From \"Saiyaara\")",
-      "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
+      "duration_ms": 321225,
+      "name": "Tum Se Hi",
+      "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
     },
     {
       "added_at": "2026-02-06 12:59:10",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-02-06 12:59:10",
       "album": {
-        "name": "Still Rollin",
-        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 183756,
-      "name": "Cheques",
-      "url": "https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp"
-    },
-    {
-      "added_at": "2026-02-06 12:59:10",
-      "album": {
         "name": "Khat",
         "url": "https://open.spotify.com/album/6BLTFvPRIlWqqhcQxuJjqd"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 296222,
       "name": "Khat",
       "url": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
+    },
+    {
+      "added_at": "2026-02-06 12:59:10",
+      "album": {
+        "name": "Still Rollin",
+        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 183756,
+      "name": "Cheques",
+      "url": "https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp"
     },
     {
       "added_at": "2026-02-06 12:59:10",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2026-02-06 12:59:10",
       "album": {
+        "name": "Sheesha (Aakhya Mai Aakh Ghali Jo Beran)",
+        "url": "https://open.spotify.com/album/42IeGIxYc7xgQ0gvuxcIh6"
+      },
+      "artists": [
+        {
+          "name": "Mitta Ror",
+          "url": "https://open.spotify.com/artist/3qWCWW0lyHpnj6E1cYwtKV"
+        },
+        {
+          "name": "Swara Verma",
+          "url": "https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Sheesha - Aakhya Mai Aakh Ghali Jo Beran",
+      "url": "https://open.spotify.com/track/412poAqbwD8OC0dYD1nBkV"
+    },
+    {
+      "added_at": "2026-02-06 12:59:10",
+      "album": {
         "name": "Chambal K Dakku",
         "url": "https://open.spotify.com/album/49ZD2Qc6wbbLeA4rC2FLsW"
       },
@@ -1579,6 +1599,22 @@
     {
       "added_at": "2026-02-06 12:59:10",
       "album": {
+        "name": "YRF Top 10 - Falling in Love",
+        "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 260536,
+      "name": "Dil Diyan Gallan",
+      "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
+    },
+    {
+      "added_at": "2026-02-06 12:59:10",
+      "album": {
         "name": "WITHOUT PREJUDICE",
         "url": "https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi"
       },
@@ -1599,50 +1635,6 @@
       "duration_ms": 171789,
       "name": "Qatal",
       "url": "https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9"
-    },
-    {
-      "added_at": "2026-02-06 12:59:10",
-      "album": {
-        "name": "YRF Top 10 - Falling in Love",
-        "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        }
-      ],
-      "duration_ms": 260536,
-      "name": "Dil Diyan Gallan",
-      "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
-    },
-    {
-      "added_at": "2026-02-06 12:59:10",
-      "album": {
-        "name": "Malang Sajna",
-        "url": "https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf"
-      },
-      "artists": [
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        },
-        {
-          "name": "Sachet-Parampara",
-          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
-        }
-      ],
-      "duration_ms": 161041,
-      "name": "Malang Sajna",
-      "url": "https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs"
     }
   ],
   "unique_name": "Trending Now India",

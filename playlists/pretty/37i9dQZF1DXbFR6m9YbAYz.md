@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 
 > Country tracks to pump up your gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,800 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,814 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 8 | [Hurricane](https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:43 |
 | 9 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 |
 | 10 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 |
-| 11 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
-| 12 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
+| 11 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
+| 12 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:46 |
 | 13 | [Dirt On My Boots](https://open.spotify.com/track/7f08qp3HROTkfrtNpiYGGo) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [California Sunrise](https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ) | 3:21 |
 | 14 | [Life is a Highway](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 4:35 |
 | 15 | [Halfway To Hell](https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 2:58 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFR6m9YbAYz.md) - [plain]
 | 31 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |
 | 32 | [Ain't Doin' Jack](https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't Doin' Jack](https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk) | 2:40 |
 | 33 | [Need A Favor](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Need A Favor](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 |
-| 34 | [Mr\. Saturday Night](https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9) | 3:06 |
+| 34 | [5\-1\-5\-0](https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:02 |
 | 35 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
-| 36 | [5\-1\-5\-0](https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:02 |
+| 36 | [Mr\. Saturday Night](https://open.spotify.com/track/1UOLcw0uOTOMNLugxtJzeH) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Mr\. Saturday Night](https://open.spotify.com/album/5XORipB5PhMoQx46rjX9o9) | 3:06 |
 | 37 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 |
 | 38 | [Kick The Dust Up](https://open.spotify.com/track/5g15o2Sm55Hn9ShK5yEXgp) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Kill The Lights \(Deluxe\)](https://open.spotify.com/album/0WtCqmpVN7rRGfDMSWSXBA) | 3:10 |
 | 39 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |

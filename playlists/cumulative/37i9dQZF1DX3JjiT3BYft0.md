@@ -4,7 +4,7 @@
 
 > Music from “BanG Dream! “ series!
 
-463 songs - 1 day 9 hr 2 min
+464 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [ゆめゆめグラデーション](https://open.spotify.com/track/4UsN8CVre3rdUaBEAkGxbf) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [ゆめゆめグラデーション](https://open.spotify.com/album/4PYxuwefUqpr0T7xOq3X1m) | 4:44 | 2022-05-17 | 2022-07-29 |
 | [ゆら・ゆらRing\-Dong\-Dance](https://open.spotify.com/track/3eBl6ACALzTtsUIcl4elXR) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [ゆら・ゆらRing\-Dong\-Dance](https://open.spotify.com/album/2CMJuOn6GItE54kevgXuiO) | 4:22 | 2022-05-17 | 2022-07-26 |
 | [るんっ♪てぃてぃー!](https://open.spotify.com/track/4uqLCBpfP6tVmvXZGtSExC) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー!](https://open.spotify.com/album/7Jzb6eCT0ZvaszaSJTWFSJ) | 3:48 | 2022-09-20 | 2023-05-31 |
-| [るんっ♪てぃてぃー！](https://open.spotify.com/track/7zTR57cszx0z1D868Vjes5) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー！](https://open.spotify.com/album/1ZCYoH9MgcpWVDc85CtAeW) | 3:50 | 2022-06-23 |  |
+| [るんっ♪てぃてぃー！](https://open.spotify.com/track/7zTR57cszx0z1D868Vjes5) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [るんっ♪てぃてぃー！](https://open.spotify.com/album/1ZCYoH9MgcpWVDc85CtAeW) | 3:50 | 2022-06-23 | 2026-02-13 |
 | [わちゃ・もちゃ・ぺったん行進曲](https://open.spotify.com/track/27Ze4gl303ysO24LUUZdrq) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/4fP150ebRoP4PvCIy8rSeH) | 3:52 | 2022-09-20 | 2023-07-01 |
 | [わちゃ・もちゃ・ぺったん行進曲](https://open.spotify.com/track/4fcpTiauZx5tEi7JvtmWNf) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [SMILE ON PARADE](https://open.spotify.com/album/179xDc6x7RPbG09o0rEjXW) | 3:53 | 2023-07-27 | 2024-04-19 |
 | [わちゃ･もちゃ･ぺったん行進曲](https://open.spotify.com/track/3glyw1cmMPbcuhgYNPm4VE) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [キミがいなくちゃっ!](https://open.spotify.com/album/19s8qe8u31NWdy8uadZp1T) | 3:53 | 2022-05-17 | 2024-10-15 |
@@ -432,6 +432,7 @@
 | [碧天伴走](https://open.spotify.com/track/44idxB7ld38cXQjRYjorXv) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [碧天伴走](https://open.spotify.com/album/7vwdWEULxaBGcAv4BgsKaP) | 3:38 | 2023-07-27 | 2024-11-28 |
 | [礎の花冠](https://open.spotify.com/track/6KiEyThg9tYGMNSejoLQpF) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [礎の花冠](https://open.spotify.com/album/3UaqQA5a9DKQYrLdgVsXDV) | 4:06 | 2024-12-10 |  |
 | [神さま、バカ](https://open.spotify.com/track/4gRh7Jbk7W2IkLZKuyiHT2) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [神さま、バカ](https://open.spotify.com/album/2VtDfTQftGvkCf1VyFxqSK) | 3:33 | 2023-05-09 | 2025-02-28 |
+| [秘密の扉から会いにきて \- Cover](https://open.spotify.com/track/3bZs0reeBz1mcztx2AnSMg) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 3:38 | 2026-01-13 |  |
 | [端程山](https://open.spotify.com/track/2nnjzOHmlZnQ7RW8ZcjiuJ) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [端程山](https://open.spotify.com/album/3YY96YJ5wYvHR7eNQLHbM6) | 4:20 | 2024-07-23 | 2025-02-24 |
 | [競宴Red×Violet](https://open.spotify.com/track/2sfhkbecN4x8DkdydVZzOP) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/2brdfEDkVMfb9UoC4rupxF) | 4:23 | 2023-07-27 | 2024-03-14 |
 | [競宴Red×Violet](https://open.spotify.com/track/6HczQuXOK6kviIaMd2joBD) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [劇場版「BanG Dream! FILM LIVE 2nd Stage」Special Songs](https://open.spotify.com/album/6E9PhFn4SWpwlNSDJ4JDo1) | 4:24 | 2022-05-17 | 2022-07-25 |

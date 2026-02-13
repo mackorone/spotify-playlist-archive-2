@@ -4,7 +4,7 @@
 
 > 
 
-8,340 songs - 21 day 4 hr 40 min
+8,342 songs - 21 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7450,6 +7450,7 @@
 | [クロノスタシス](https://open.spotify.com/track/6Mavd9uk89Y9OTdvcDTfGG) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:47 | 2025-01-03 |  |
 | [クローバー](https://open.spotify.com/track/0Yrjy29NdJhq76PtOtUinx) | [Cidergirl](https://open.spotify.com/artist/3hprFQEXS7glX1Jxxwv9Dn) | [SODA POP FANCLUB 3](https://open.spotify.com/album/2oKuzx4Ut0j1oQjMsJAq1d) | 4:04 | 2025-05-13 |  |
 | [クローバー](https://open.spotify.com/track/5EgwfOLCfEeGyoy7df0bhE) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [麻痺](https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f) | 4:28 | 2025-01-15 |  |
+| [ケセラセラ](https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:32 | 2026-02-12 |  |
 | [ケダモノのフレンズ](https://open.spotify.com/track/6WUytTGUVFHTVGOqty1UPs) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [odds and ends](https://open.spotify.com/album/4T0USknu2Yz9mhoB6enHH0) | 3:37 | 2025-01-04 |  |
 | [ココロノナカ \- Complete ver.](https://open.spotify.com/track/47kDM95cQKi7sUPyLgVr5k) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [夏のせい ep](https://open.spotify.com/album/4ab2bNGfTfD8KZkMJheSos) | 4:19 | 2025-01-15 |  |
 | [コネクト](https://open.spotify.com/track/3DZG4wc2NQbgjR2m8iXpG1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:30 | 2025-05-17 |  |
@@ -7889,6 +7890,7 @@
 | [群青](https://open.spotify.com/track/0T4AitQuq8IJhWBWuZwkFA) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [群青](https://open.spotify.com/album/4nLIK2uFzYUJqLAfJZYgLx) | 4:08 | 2025-01-15 |  |
 | [群青讃歌](https://open.spotify.com/track/1OZsGTb22C22qTqsh2WH16) | [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク アナザーボーカルアルバム 25時、ナイトコードで。](https://open.spotify.com/album/5JLFyXsTc0pg52hEHAplBE) | 4:35 | 2025-11-27 |  |
 | [群青讃歌](https://open.spotify.com/track/4dNjV2eYA5zW6FIVD9kNYZ) | [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム　Leo/need](https://open.spotify.com/album/7xlXLAD6g3OD5bX1hpk7xa) | 4:36 | 2025-10-03 |  |
+| [群青讃歌](https://open.spotify.com/track/1pj6zUNWoX9pP4rrL91M9o) | [星乃一歌](https://open.spotify.com/artist/0gIbpvrqmPtHQ8zyQpBDFt), [花里みのり](https://open.spotify.com/artist/0PNaamnT0FCz53QxNeDQVo), [小豆沢こはね](https://open.spotify.com/artist/5afq7P9YZtGvtUjBxaQzIp), [天馬司](https://open.spotify.com/artist/6O6RrJYIuvZEIzv6tNG85i), [宵崎奏](https://open.spotify.com/artist/1PbOXi3QIPB8AxbJ8byCl6), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク テーマソング・アニバーサリーソングアルバム](https://open.spotify.com/album/2pwXaxMlSCDporwOtHLQ2X) | 4:36 | 2026-02-12 |  |
 | [胸騒ぎナビゲーション](https://open.spotify.com/track/4vdnPqCdGnCOFcEfI6GbUt) | [Goose house](https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ) | [Goose house Phrase \#03 Wandering](https://open.spotify.com/album/4KV3PMCfzQxqI59DDZPzas) | 4:48 | 2025-01-03 |  |
 | [脳裏上のクラッカー](https://open.spotify.com/track/3FRU8JI3EK9G7hXSP3P4R8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 4:30 | 2025-01-15 |  |
 | [花](https://open.spotify.com/track/2m0OFi42YdJHAm6cYRNZtc) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD) | [musiQ](https://open.spotify.com/album/5o334VcE8qcFebG1EWlUgd) | 4:13 | 2025-01-04 |  |

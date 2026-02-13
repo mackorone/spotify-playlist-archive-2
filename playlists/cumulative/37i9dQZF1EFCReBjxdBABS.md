@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-127 songs - 6 hr 56 min
+128 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Helluva Heart](https://open.spotify.com/track/3ZEtnekE1q1auJnZFJvAhs) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Corn Queen](https://open.spotify.com/album/5X4svYK600xTcLxv5mvrYb) | 3:19 | 2026-01-14 |  |
 | [Hungover in a Deer Stand](https://open.spotify.com/track/1gY1sOB3Vuq51B08iHQ761) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Mid\-Twenties Crisis](https://open.spotify.com/album/572FT3dk0MHpaAL5LjQRj8) | 3:30 | 2026-01-14 |  |
 | [I Can't Unlove You](https://open.spotify.com/track/5VvnMbz2nEBCsuQN85PmXT) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [I Can't Unlove You](https://open.spotify.com/album/45EiBixBQWJo3RlSuBcDSY) | 3:16 | 2026-01-14 |  |
-| [I Needed Christmas](https://open.spotify.com/track/4bGq0eDMT9t1uupNjQotk4) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [The Ultimate Christmas Collection](https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ) | 3:39 | 2026-01-14 |  |
+| [I Needed Christmas](https://open.spotify.com/track/0sw6GV1pKByCL0aP13IX4M) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [I Needed Christmas](https://open.spotify.com/album/74baR9ja7gPe3XNEmX25CR) | 3:39 | 2026-02-12 |  |
+| [I Needed Christmas](https://open.spotify.com/track/4bGq0eDMT9t1uupNjQotk4) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [The Ultimate Christmas Collection](https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ) | 3:39 | 2026-01-14 | 2026-02-13 |
 | [I Still Do](https://open.spotify.com/track/19QdvCPbLurBp8xDsdCh5O) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Patient EP](https://open.spotify.com/album/6FJFs1f2LQWMMudboY9M1t) | 3:12 | 2026-01-14 |  |
 | [I'd Look Good In That Truck](https://open.spotify.com/track/5P9R7DNHtVtXpWDeHAVLJC) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Rooted](https://open.spotify.com/album/3tjdOyyLWIQeX6S79YjWbL) | 3:26 | 2026-01-14 |  |
 | [Imma](https://open.spotify.com/track/1LetZVYRkdAxamydcnD0WA) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Country Born](https://open.spotify.com/album/0zprPpZyc5Ejc3Ng0NGFHA) | 2:54 | 2026-01-14 |  |

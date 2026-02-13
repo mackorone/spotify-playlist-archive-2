@@ -1,6 +1,6 @@
 {
   "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SaltySalmon. Artwork: Isu Kim",
-  "num_followers": 11963,
+  "num_followers": 11974,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-02-06 10:40:31",
       "album": {
-        "name": "\u0e2a\u0e30\u0e01\u0e34\u0e14 (Tap Me)",
-        "url": "https://open.spotify.com/album/6Y3AxjnD4h2ZS0bgPBhpLj"
-      },
-      "artists": [
-        {
-          "name": "ZOLAR",
-          "url": "https://open.spotify.com/artist/3xfEwNH1lIjMoxhvSH9DGF"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "\u0e2a\u0e30\u0e01\u0e34\u0e14 (Tap Me)",
-      "url": "https://open.spotify.com/track/2FpQKYV6560bW9tnxkXY0e"
-    },
-    {
-      "added_at": "2026-02-06 10:40:31",
-      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e44\u0e2b\u0e19 \u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d",
         "url": "https://open.spotify.com/album/7xbhsAfOptR6dk71TkuUJk"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 252580,
       "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19\u0e44\u0e2b\u0e19 \u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48\u0e02\u0e49\u0e32\u0e07\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/26eK8n8xADFRzITHaPhumN"
+    },
+    {
+      "added_at": "2026-02-06 10:40:31",
+      "album": {
+        "name": "\u0e2a\u0e30\u0e01\u0e34\u0e14 (Tap Me)",
+        "url": "https://open.spotify.com/album/6Y3AxjnD4h2ZS0bgPBhpLj"
+      },
+      "artists": [
+        {
+          "name": "ZOLAR",
+          "url": "https://open.spotify.com/artist/3xfEwNH1lIjMoxhvSH9DGF"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "\u0e2a\u0e30\u0e01\u0e34\u0e14 (Tap Me)",
+      "url": "https://open.spotify.com/track/2FpQKYV6560bW9tnxkXY0e"
     },
     {
       "added_at": "2026-02-06 10:40:31",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-02-06 10:40:31",
       "album": {
-        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 (It'S Over)",
-        "url": "https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE"
+        "name": "\u0e40\u0e2b\u0e25\u0e27\u0e40\u0e1b\u0e4b\u0e27 (MELTED)",
+        "url": "https://open.spotify.com/album/2npqb6tPmZ7TUSFw8Scxoj"
       },
       "artists": [
         {
-          "name": "mita.",
-          "url": "https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs"
+          "name": "iZ",
+          "url": "https://open.spotify.com/artist/4a78mQGkCDnMoX52tStqBD"
         }
       ],
-      "duration_ms": 240000,
-      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 - It'S Over",
-      "url": "https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB"
+      "duration_ms": 188538,
+      "name": "\u0e40\u0e2b\u0e25\u0e27\u0e40\u0e1b\u0e4b\u0e27 (MELTED)",
+      "url": "https://open.spotify.com/track/30tRVrapiqBpZhRJHKUcBG"
     },
     {
       "added_at": "2026-02-06 10:40:31",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-02-06 10:40:31",
       "album": {
+        "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 (It'S Over)",
+        "url": "https://open.spotify.com/album/0BgYshQYyjo1A0JjKPzUpE"
+      },
+      "artists": [
+        {
+          "name": "mita.",
+          "url": "https://open.spotify.com/artist/1hE0l1qfYybuufwViZiQKs"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b\u0e41\u0e25\u0e49\u0e27 - It'S Over",
+      "url": "https://open.spotify.com/track/5RmRUCyASmrKbqCeAczOfB"
+    },
+    {
+      "added_at": "2026-02-06 10:40:31",
+      "album": {
         "name": "4SEASONS",
         "url": "https://open.spotify.com/album/49IORLW4Lj2BCQXaCpKfDQ"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 227294,
       "name": "\u0e2b\u0e32\u0e01\u0e15\u0e23\u0e07\u0e19\u0e31\u0e49\u0e19\u0e21\u0e35\u0e14\u0e32\u0e27",
       "url": "https://open.spotify.com/track/6KFHOcTYdgO7vegEQoi9wX"
-    },
-    {
-      "added_at": "2026-02-06 10:40:31",
-      "album": {
-        "name": "\u0e40\u0e2b\u0e25\u0e27\u0e40\u0e1b\u0e4b\u0e27 (MELTED)",
-        "url": "https://open.spotify.com/album/2npqb6tPmZ7TUSFw8Scxoj"
-      },
-      "artists": [
-        {
-          "name": "iZ",
-          "url": "https://open.spotify.com/artist/4a78mQGkCDnMoX52tStqBD"
-        }
-      ],
-      "duration_ms": 188538,
-      "name": "\u0e40\u0e2b\u0e25\u0e27\u0e40\u0e1b\u0e4b\u0e27 (MELTED)",
-      "url": "https://open.spotify.com/track/30tRVrapiqBpZhRJHKUcBG"
     },
     {
       "added_at": "2026-02-06 10:40:31",
@@ -443,22 +443,18 @@
     {
       "added_at": "2026-02-06 10:40:31",
       "album": {
-        "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
-        "url": "https://open.spotify.com/album/2as6VxkIr64nV6iLAxzSJu"
+        "name": "\u0e0a\u0e48\u0e27\u0e22\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u2026 (Do It Again)",
+        "url": "https://open.spotify.com/album/6XVLMRRETdAgGAStPGXEWO"
       },
       "artists": [
         {
-          "name": "WATAN-U",
-          "url": "https://open.spotify.com/artist/50uEFKn0N4sbHWzwssHpiG"
-        },
-        {
-          "name": "tAH AND FRIENDS",
-          "url": "https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2"
+          "name": "ZIYEN",
+          "url": "https://open.spotify.com/artist/5GgjczjHERBxIcpy5cKZ6e"
         }
       ],
-      "duration_ms": 241978,
-      "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
-      "url": "https://open.spotify.com/track/5tuPUaPMjfw8GHxIFt1Fr8"
+      "duration_ms": 178666,
+      "name": "\u0e0a\u0e48\u0e27\u0e22\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u2026 (Do It Again)",
+      "url": "https://open.spotify.com/track/5LBRqzmVBtqAcSt9cnqc7W"
     },
     {
       "added_at": "2026-02-06 10:40:31",
@@ -475,22 +471,6 @@
       "duration_ms": 200025,
       "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/322V4MGbCbcpCN0HZOUthS"
-    },
-    {
-      "added_at": "2026-02-06 10:40:31",
-      "album": {
-        "name": "\u0e0a\u0e48\u0e27\u0e22\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u2026 (Do It Again)",
-        "url": "https://open.spotify.com/album/6XVLMRRETdAgGAStPGXEWO"
-      },
-      "artists": [
-        {
-          "name": "ZIYEN",
-          "url": "https://open.spotify.com/artist/5GgjczjHERBxIcpy5cKZ6e"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "\u0e0a\u0e48\u0e27\u0e22\u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u2026 (Do It Again)",
-      "url": "https://open.spotify.com/track/5LBRqzmVBtqAcSt9cnqc7W"
     },
     {
       "added_at": "2026-02-06 10:40:31",
@@ -515,6 +495,42 @@
       "duration_ms": 168791,
       "name": "Take Off",
       "url": "https://open.spotify.com/track/5o7LobYqqBHoIodMLIpyxR"
+    },
+    {
+      "added_at": "2026-02-06 10:40:31",
+      "album": {
+        "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/2as6VxkIr64nV6iLAxzSJu"
+      },
+      "artists": [
+        {
+          "name": "WATAN-U",
+          "url": "https://open.spotify.com/artist/50uEFKn0N4sbHWzwssHpiG"
+        },
+        {
+          "name": "tAH AND FRIENDS",
+          "url": "https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2"
+        }
+      ],
+      "duration_ms": 241978,
+      "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e2d\u0e35\u0e01\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/5tuPUaPMjfw8GHxIFt1Fr8"
+    },
+    {
+      "added_at": "2026-02-06 10:40:31",
+      "album": {
+        "name": "\u0e40\u0e21\u0e14\u0e39\u0e0b\u0e32",
+        "url": "https://open.spotify.com/album/02FxppO27bX1sTyyx6eMXB"
+      },
+      "artists": [
+        {
+          "name": "PAPERCUP",
+          "url": "https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk"
+        }
+      ],
+      "duration_ms": 181578,
+      "name": "\u0e40\u0e21\u0e14\u0e39\u0e0b\u0e32",
+      "url": "https://open.spotify.com/track/2aY504oSaFaF6ALq5gqfuD"
     },
     {
       "added_at": "2026-02-06 10:40:31",
@@ -547,22 +563,6 @@
       "duration_ms": 219130,
       "name": "\u0e01\u0e2d\u0e14\u0e44\u0e27\u0e49 (It's u)",
       "url": "https://open.spotify.com/track/6fZeDz2ZzYGxnX5l1zRH14"
-    },
-    {
-      "added_at": "2026-02-06 10:40:31",
-      "album": {
-        "name": "\u0e40\u0e21\u0e14\u0e39\u0e0b\u0e32",
-        "url": "https://open.spotify.com/album/02FxppO27bX1sTyyx6eMXB"
-      },
-      "artists": [
-        {
-          "name": "PAPERCUP",
-          "url": "https://open.spotify.com/artist/02skmk7GUcfYczfrVjnNuk"
-        }
-      ],
-      "duration_ms": 181578,
-      "name": "\u0e40\u0e21\u0e14\u0e39\u0e0b\u0e32",
-      "url": "https://open.spotify.com/track/2aY504oSaFaF6ALq5gqfuD"
     },
     {
       "added_at": "2026-02-06 10:40:31",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-02-06 10:40:31",
       "album": {
-        "name": "Hold Tight*",
-        "url": "https://open.spotify.com/album/3K9kGK1l4byAzL4MeSIg6G"
-      },
-      "artists": [
-        {
-          "name": "GAMMA",
-          "url": "https://open.spotify.com/artist/5xLuy6GShq0QRIyV8LPB1U"
-        }
-      ],
-      "duration_ms": 154479,
-      "name": "Hold Tight*",
-      "url": "https://open.spotify.com/track/2hjVnqw95Q1wvI91506gNi"
-    },
-    {
-      "added_at": "2026-02-06 10:40:31",
-      "album": {
         "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19 (My Bad)",
         "url": "https://open.spotify.com/album/7yZ8sXtYBDPr3fWIaXyYTq"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 173078,
       "name": "\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19 (My Bad)",
       "url": "https://open.spotify.com/track/6096LGSSYcW5I8ogU32uSj"
+    },
+    {
+      "added_at": "2026-02-06 10:40:31",
+      "album": {
+        "name": "Hold Tight*",
+        "url": "https://open.spotify.com/album/3K9kGK1l4byAzL4MeSIg6G"
+      },
+      "artists": [
+        {
+          "name": "GAMMA",
+          "url": "https://open.spotify.com/artist/5xLuy6GShq0QRIyV8LPB1U"
+        }
+      ],
+      "duration_ms": 154479,
+      "name": "Hold Tight*",
+      "url": "https://open.spotify.com/track/2hjVnqw95Q1wvI91506gNi"
     },
     {
       "added_at": "2026-02-06 10:40:31",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-02-06 10:40:31",
       "album": {
-        "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e19\u0e34\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22 \u0e41\u0e15\u0e48\u0e1a\u0e48\u0e2d\u0e22\u0e19\u0e34\u0e14\u0e19\u0e36\u0e07",
-        "url": "https://open.spotify.com/album/4PnrIYZbSqMG1asFVBaHbz"
+        "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/5dhtFldMHiNR5oerU1rRSs"
       },
       "artists": [
         {
-          "name": "PINGPING PANPAN",
-          "url": "https://open.spotify.com/artist/0HbyB0bcBi3sgdB2NMktrz"
+          "name": "pawinpisit yokthaworn",
+          "url": "https://open.spotify.com/artist/4OW02AdyPNgbpPK7B0pgSm"
         }
       ],
-      "duration_ms": 180555,
-      "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e19\u0e34\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22 \u0e41\u0e15\u0e48\u0e1a\u0e48\u0e2d\u0e22\u0e19\u0e34\u0e14\u0e19\u0e36\u0e07",
-      "url": "https://open.spotify.com/track/5MIPqwpbTlzGmGrrNRhTI7"
+      "duration_ms": 209813,
+      "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
+      "url": "https://open.spotify.com/track/6Izdceh87hSlDPkpLBMEHy"
     },
     {
       "added_at": "2026-02-06 10:40:31",
@@ -775,18 +775,34 @@
     {
       "added_at": "2026-02-06 10:40:31",
       "album": {
-        "name": "\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e01\u0e31\u0e19\u0e43\u0e2b\u0e49\u0e14\u0e35\u0e01\u0e48\u0e2d\u0e19",
-        "url": "https://open.spotify.com/album/3n62B8TiJyOqkWRrWCaxHY"
+        "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e19\u0e34\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22 \u0e41\u0e15\u0e48\u0e1a\u0e48\u0e2d\u0e22\u0e19\u0e34\u0e14\u0e19\u0e36\u0e07",
+        "url": "https://open.spotify.com/album/4PnrIYZbSqMG1asFVBaHbz"
       },
       "artists": [
         {
-          "name": "\u0e1e\u0e39\u0e48\u0e01\u0e31\u0e19 \u0e01\u0e31\u0e19\u0e0f\u0e4c\u0e23\u0e30\u0e1e\u0e35",
-          "url": "https://open.spotify.com/artist/3k7rqg9S2F8zpVETclVJyl"
+          "name": "PINGPING PANPAN",
+          "url": "https://open.spotify.com/artist/0HbyB0bcBi3sgdB2NMktrz"
         }
       ],
-      "duration_ms": 188634,
-      "name": "\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e01\u0e31\u0e19\u0e43\u0e2b\u0e49\u0e14\u0e35\u0e01\u0e48\u0e2d\u0e19",
-      "url": "https://open.spotify.com/track/3OyrJNwOjk1fZ3e7ZybYRs"
+      "duration_ms": 180555,
+      "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e19\u0e34\u0e14\u0e2b\u0e19\u0e48\u0e2d\u0e22 \u0e41\u0e15\u0e48\u0e1a\u0e48\u0e2d\u0e22\u0e19\u0e34\u0e14\u0e19\u0e36\u0e07",
+      "url": "https://open.spotify.com/track/5MIPqwpbTlzGmGrrNRhTI7"
+    },
+    {
+      "added_at": "2026-02-06 10:40:31",
+      "album": {
+        "name": "She's (\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d)",
+        "url": "https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI"
+      },
+      "artists": [
+        {
+          "name": "Wednesday Calling",
+          "url": "https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy"
+        }
+      ],
+      "duration_ms": 269589,
+      "name": "She's (\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d)",
+      "url": "https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy"
     },
     {
       "added_at": "2026-02-06 10:40:31",
@@ -807,18 +823,18 @@
     {
       "added_at": "2026-02-06 10:40:31",
       "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
-        "url": "https://open.spotify.com/album/5dhtFldMHiNR5oerU1rRSs"
+        "name": "\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e01\u0e31\u0e19\u0e43\u0e2b\u0e49\u0e14\u0e35\u0e01\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/3n62B8TiJyOqkWRrWCaxHY"
       },
       "artists": [
         {
-          "name": "pawinpisit yokthaworn",
-          "url": "https://open.spotify.com/artist/4OW02AdyPNgbpPK7B0pgSm"
+          "name": "\u0e1e\u0e39\u0e48\u0e01\u0e31\u0e19 \u0e01\u0e31\u0e19\u0e0f\u0e4c\u0e23\u0e30\u0e1e\u0e35",
+          "url": "https://open.spotify.com/artist/3k7rqg9S2F8zpVETclVJyl"
         }
       ],
-      "duration_ms": 209813,
-      "name": "\u0e23\u0e31\u0e01\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07",
-      "url": "https://open.spotify.com/track/6Izdceh87hSlDPkpLBMEHy"
+      "duration_ms": 188634,
+      "name": "\u0e23\u0e39\u0e49\u0e08\u0e31\u0e01\u0e01\u0e31\u0e19\u0e43\u0e2b\u0e49\u0e14\u0e35\u0e01\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/3OyrJNwOjk1fZ3e7ZybYRs"
     },
     {
       "added_at": "2026-02-06 10:40:31",
@@ -855,22 +871,6 @@
     {
       "added_at": "2026-02-06 10:40:31",
       "album": {
-        "name": "She's (\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d)",
-        "url": "https://open.spotify.com/album/0KAXjyEVSVsuhZCkL3MGXI"
-      },
-      "artists": [
-        {
-          "name": "Wednesday Calling",
-          "url": "https://open.spotify.com/artist/6KNfHqzqVizyQI0Z2xt6iy"
-        }
-      ],
-      "duration_ms": 269589,
-      "name": "She's (\u0e40\u0e18\u0e2d\u0e04\u0e37\u0e2d)",
-      "url": "https://open.spotify.com/track/6byhxMLHsIDfCbFxWi7hfy"
-    },
-    {
-      "added_at": "2026-02-06 10:40:31",
-      "album": {
         "name": "\u0e08\u0e30\u0e01\u0e2d\u0e14\u0e40\u0e18\u0e2d\u0e44\u0e27\u0e49 (\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e16\u0e49\u0e32\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e0a\u0e49\u0e32\u0e44\u0e1b)",
         "url": "https://open.spotify.com/album/0OxmZ9YZiaZ1u8Zi1A3UUm"
       },
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-02-06 10:40:31",
       "album": {
+        "name": "T-RUK",
+        "url": "https://open.spotify.com/album/4wBAM2eGbOWMlhNa97Y5Bu"
+      },
+      "artists": [
+        {
+          "name": "Tattyxl",
+          "url": "https://open.spotify.com/artist/0ICk00SsBQSvzWZLoYZWfS"
+        }
+      ],
+      "duration_ms": 169354,
+      "name": "T-RUK",
+      "url": "https://open.spotify.com/track/5wM2QjBx8tzxpT5ch0h8I4"
+    },
+    {
+      "added_at": "2026-02-06 10:40:31",
+      "album": {
         "name": "Canvas",
         "url": "https://open.spotify.com/album/3qwkrT1uf5kICtZtD93iKW"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 193211,
       "name": "\u0e44\u0e21\u0e48\u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e1f\u0e31\u0e07 - Yum Yum",
       "url": "https://open.spotify.com/track/2M402fhMdfEnN6ubcczakm"
-    },
-    {
-      "added_at": "2026-02-06 10:40:31",
-      "album": {
-        "name": "T-RUK",
-        "url": "https://open.spotify.com/album/4wBAM2eGbOWMlhNa97Y5Bu"
-      },
-      "artists": [
-        {
-          "name": "Tattyxl",
-          "url": "https://open.spotify.com/artist/0ICk00SsBQSvzWZLoYZWfS"
-        }
-      ],
-      "duration_ms": 169354,
-      "name": "T-RUK",
-      "url": "https://open.spotify.com/track/5wM2QjBx8tzxpT5ch0h8I4"
     },
     {
       "added_at": "2026-02-06 10:40:31",

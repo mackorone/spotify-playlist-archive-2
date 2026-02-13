@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 475458,
+  "num_followers": 475502,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAD5L0cdr9hl7wWDGtZkjJ+u",
+  "snapshot_id": "aYvGgAAAAACsq+DYidKjUiM0ZWH/CGOa",
   "tracks": [
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me U & Hennessy (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO"
-      },
-      "artists": [
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 224971,
-      "name": "Me U & Hennessy (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 264666,
       "name": "I'm So Paid",
       "url": "https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me U & Hennessy (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO"
+      },
+      "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 224971,
+      "name": "Me U & Hennessy (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
     },
     {
       "added_at": null,
@@ -639,34 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEOPARD",
-        "url": "https://open.spotify.com/album/5CrbyV9qg9Lnl2INWAZNvF"
-      },
-      "artists": [
-        {
-          "name": "Base Hollow",
-          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Desiigner",
-          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
-        },
-        {
-          "name": "Mos Def",
-          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Crew",
-      "url": "https://open.spotify.com/track/7pLKKcq285VU3TJbh2rku5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/1Do3y8IAcbYOToYQJnGwSO"
       },
@@ -679,26 +651,6 @@
       "duration_ms": 221840,
       "name": "A Milli",
       "url": "https://open.spotify.com/track/3uqinR4FCjLv28bkrTdNX5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter IV (Complete Edition)",
-        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Cory Gunz",
-          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "6 Foot 7 Foot",
-      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
     },
     {
       "added_at": null,
@@ -727,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "6 Foot 7 Foot",
+      "url": "https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Relapse: Refill",
         "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
       },
@@ -751,6 +723,34 @@
       "duration_ms": 357706,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEOPARD",
+        "url": "https://open.spotify.com/album/5CrbyV9qg9Lnl2INWAZNvF"
+      },
+      "artists": [
+        {
+          "name": "Base Hollow",
+          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        },
+        {
+          "name": "Mos Def",
+          "url": "https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Crew",
+      "url": "https://open.spotify.com/track/7pLKKcq285VU3TJbh2rku5"
     },
     {
       "added_at": null,
@@ -899,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 124188,
+      "name": "ay! (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Am Not A Human Being II (Deluxe)",
         "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
       },
@@ -935,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 124188,
-      "name": "ay! (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Hold Me Down",
         "url": "https://open.spotify.com/album/0p8DBORvuoUyEa2GrUFLff"
       },
@@ -987,6 +987,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 193243,
+      "name": "Can't Be Broken",
+      "url": "https://open.spotify.com/track/5cGpjfgAvidLy6znwkCxkP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here I Stand",
         "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 309026,
       "name": "Love in This Club, Pt. II (feat. Beyonc\u00e9 & Lil' Wayne)",
       "url": "https://open.spotify.com/track/2bppvcuQhuMcJZHtM9So7r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 193243,
-      "name": "Can't Be Broken",
-      "url": "https://open.spotify.com/track/5cGpjfgAvidLy6znwkCxkP"
     },
     {
       "added_at": null,
@@ -1067,6 +1067,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tha Carter V",
+        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 324189,
+      "name": "Mona Lisa (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 321080,
       "name": "The Real Her",
       "url": "https://open.spotify.com/track/74atKkOasLOVzvqB6mYgga"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter V",
-        "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 324189,
-      "name": "Mona Lisa (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/0dbTQYW3Ad1FTzIA9t90E8"
     }
   ],
   "unique_name": "This Is Lil Wayne",

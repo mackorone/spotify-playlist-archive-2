@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Before the rain returns",
+        "url": "https://open.spotify.com/album/4xqIY7gV7gu9LkWBhjVBIP"
+      },
+      "artists": [
+        {
+          "name": "Camille Blanche",
+          "url": "https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142566,
+      "name": "Before the rain returns",
+      "url": "https://open.spotify.com/track/13hjlecTEmJ8EYMkHOd0ie"
+    },
+    {
+      "album": {
         "name": "Before you go",
         "url": "https://open.spotify.com/album/0aC3mQ00DlfHXi1Ttuk7hE"
       },
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 182398,
       "name": "Cheek to Cheek",
       "url": "https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8"
@@ -2176,7 +2194,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 165750,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY"
@@ -4973,6 +4991,24 @@
     },
     {
       "album": {
+        "name": "If time could stay",
+        "url": "https://open.spotify.com/album/1colLsoVxZv78F4pzZfOaL"
+      },
+      "artists": [
+        {
+          "name": "Ilse Fisher",
+          "url": "https://open.spotify.com/artist/2WWIVn4Edfmjx7pD5t4kPt"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139800,
+      "name": "If time could stay",
+      "url": "https://open.spotify.com/track/52536AkhfHcWs3gwcJIljP"
+    },
+    {
+      "album": {
         "name": "If You Could See Me Now",
         "url": "https://open.spotify.com/album/1gtcWSvAdOvvJ9Ya82g5Mk"
       },
@@ -4984,7 +5020,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 200000,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/53BeSVY0mpmucCIr0pDkPp"
@@ -5128,7 +5164,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 140883,
       "name": "In the city",
       "url": "https://open.spotify.com/track/2KT7qCT0QEeqKYaj0RjZeE"
@@ -11237,6 +11273,24 @@
     },
     {
       "album": {
+        "name": "The Way You Stay",
+        "url": "https://open.spotify.com/album/1SkeqV8IopjzxYQuHNOp93"
+      },
+      "artists": [
+        {
+          "name": "Aven Ash",
+          "url": "https://open.spotify.com/artist/5pNTxBbJF6IcHU8jTk1kKq"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "The Way You Stay",
+      "url": "https://open.spotify.com/track/1jfaCzz0V1WQd1aphQJ4Gk"
+    },
+    {
+      "album": {
         "name": "The Winter City",
         "url": "https://open.spotify.com/album/3tVToW00W9gNHBtS93dvXs"
       },
@@ -11738,6 +11792,24 @@
       "duration_ms": 117474,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/4CK5h3o4QliBTMJ8SjWf2E"
+    },
+    {
+      "album": {
+        "name": "Until the End of Night",
+        "url": "https://open.spotify.com/album/1DIOYPyEmtndqsvjnmRnpE"
+      },
+      "artists": [
+        {
+          "name": "Wiz Senega",
+          "url": "https://open.spotify.com/artist/0Nj1FVgOM1YdKQj3xa6vWP"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153733,
+      "name": "Until the End of Night",
+      "url": "https://open.spotify.com/track/6h90hz90xCvuPonKE3hkau"
     },
     {
       "album": {

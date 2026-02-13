@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,262 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,324 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 34 | [nastasia](https://open.spotify.com/track/5gXpckUFPU8cG04Nl7WzJ9) | [JVNLIII](https://open.spotify.com/artist/5FbRtOLjDzVlmKm1RnlOz2) | [nastasia](https://open.spotify.com/album/6J1jrUGceVNx72VzemcGe0) | 1:12 |
 | 35 | [WIGGLECORE](https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [DIRT BIRD](https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc) | 1:50 |
 | 36 | [Avenues](https://open.spotify.com/track/17gGNtZ7CkTCWZyeOXsDFx) | [Drive45](https://open.spotify.com/artist/1aP8KYuP9P8hmIRJqi5NfB) | [Avenues](https://open.spotify.com/album/7HHpP8tAM4kp4lGjO3TT71) | 2:55 |
-| 37 | [Numbers](https://open.spotify.com/track/4GuZMzKXJSoWhwHUqRa0fm) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Numbers](https://open.spotify.com/album/3D2CAIf1A9XlcLUigjsypL) | 2:07 |
-| 38 | [An Obsession With Kit](https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [An Obsession With Kit](https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4) | 3:07 |
+| 37 | [An Obsession With Kit](https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [An Obsession With Kit](https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4) | 3:07 |
+| 38 | [Numbers](https://open.spotify.com/track/4GuZMzKXJSoWhwHUqRa0fm) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Numbers](https://open.spotify.com/album/3D2CAIf1A9XlcLUigjsypL) | 2:07 |
 | 39 | [Spirit Gun](https://open.spotify.com/track/3SiHPV0ls0kkJM7L2KKSl8) | [Golden Boy](https://open.spotify.com/artist/1rBWZ8jlALSPgIVPWegPGq) | [Prince of the Cyber Rave](https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV) | 3:10 |
 | 40 | [dreamcore](https://open.spotify.com/track/6dGzyNtHjwhhHgLlRn4igt) | [Yandere](https://open.spotify.com/artist/6Lr7JHaaQ4wLOWtNmOIOcr) | [dreamcore](https://open.spotify.com/album/6MVQrtpuPCEVRTVZ2KMRSE) | 1:40 |
 | 41 | [team edward](https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [team edward](https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5) | 1:27 |

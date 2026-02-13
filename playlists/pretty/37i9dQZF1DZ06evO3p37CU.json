@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22467,
+  "num_followers": 22469,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAlutpidVfeexFS+A0v8hGp",
+  "snapshot_id": "aYvGgAAAAADwPyg52aoYYb2A0nZkwwzD",
   "tracks": [
     {
       "added_at": null,
@@ -926,15 +926,11 @@
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
         }
       ],
-      "duration_ms": 270986,
-      "name": "Stuck (feat. Arin Ray)",
-      "url": "https://open.spotify.com/track/37lsV513gD04gFvKIPCw4N"
+      "duration_ms": 215346,
+      "name": "UP",
+      "url": "https://open.spotify.com/track/5w3joDvFdDskgw6TvLh7vN"
     },
     {
       "added_at": null,
@@ -1022,39 +1018,31 @@
         {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
         }
       ],
-      "duration_ms": 215346,
-      "name": "UP",
-      "url": "https://open.spotify.com/track/5w3joDvFdDskgw6TvLh7vN"
+      "duration_ms": 270986,
+      "name": "Stuck (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/37lsV513gD04gFvKIPCw4N"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Revenge Of The Dreamers III: Director's Cut",
-        "url": "https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V"
+        "name": "GHETTO GODS",
+        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
       },
       "artists": [
         {
-          "name": "Dreamville",
-          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
           "name": "EARTHGANG",
           "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 199706,
-      "name": "Up Up Away (with JID & EARTHGANG feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D"
+      "duration_ms": 240288,
+      "name": "ALL EYES ON ME",
+      "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
     },
     {
       "added_at": null,
@@ -1123,22 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GHETTO GODS",
-        "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 240288,
-      "name": "ALL EYES ON ME",
-      "url": "https://open.spotify.com/track/6NxpWAcnqCE6J9pVyLZLeQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GHETTO GODS (Deluxe)",
         "url": "https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2"
       },
@@ -1155,6 +1127,34 @@
       "duration_ms": 201191,
       "name": "AMBEYONC\u00c9 (feat. Smino)",
       "url": "https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge Of The Dreamers III: Director's Cut",
+        "url": "https://open.spotify.com/album/5PerfGh9Smd6XjwkxpmL4V"
+      },
+      "artists": [
+        {
+          "name": "Dreamville",
+          "url": "https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "Up Up Away (with JID & EARTHGANG feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/6k6QKZTfsSkLcARPA3VY4D"
     },
     {
       "added_at": null,

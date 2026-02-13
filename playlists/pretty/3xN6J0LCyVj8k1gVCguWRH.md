@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,115 likes - 168 songs - 9 hr 52 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,119 likes - 173 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,24 +157,29 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 147 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 148 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 149 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 150 | [Spinning On A Spire](https://open.spotify.com/track/5UbBse5sRanejFjYxPlSUB) | [Dominic Lavoie](https://open.spotify.com/artist/6IbM5ng5cjZuZoCSjEO6LR) | [Spinning On A Spire](https://open.spotify.com/album/1hTFzhm0SJjefZO5snnPlp) | 3:29 |
-| 151 | [Si fuimos algo](https://open.spotify.com/track/4BT50O2HFYORi2aNDjSe3N) | [MANENA](https://open.spotify.com/artist/0iqltBGuFMhKSGJoObggvs) | [Parsimoniosa](https://open.spotify.com/album/6QdStxptw0ctxYiDVpX1Xy) | 3:16 |
-| 152 | [Call My Soul Back](https://open.spotify.com/track/3BzFgSujgr9sQv0nz2agEd) | [Catdraggon](https://open.spotify.com/artist/3KAFSyOCx8EGhQj8ExHeCv) | [Call My Soul Back](https://open.spotify.com/album/6tqf6l6sQt3pZ5jyLatgnX) | 4:37 |
-| 153 | [Show](https://open.spotify.com/track/5LfcqJ9V95a207NdqZsLVV) | [Ky J\. Brandes](https://open.spotify.com/artist/3996kMR3Cwga5hyZYQRkZu) | [Show](https://open.spotify.com/album/3Q851Z916dJpSra5aq6MSD) | 3:24 |
-| 154 | [Brought Me To Life](https://open.spotify.com/track/13ASr80ZIeOa5qn5gO1elK) | [In My Better Days](https://open.spotify.com/artist/6MyAHsbsz1d3mVvALdbhN7), [Haya Ashraf](https://open.spotify.com/artist/3YyFey0OvygmtzWuqZVZr7) | [Brought Me To Life](https://open.spotify.com/album/6bdRv9CzRsdWLJ2FfXWecA) | 3:40 |
-| 155 | [Your LIfe](https://open.spotify.com/track/1jFkUJPa1OLZrYDi8Wt65C) | [LIYA](https://open.spotify.com/artist/3eC0Vvq4FbNLKwrU0D6Geb) | [Your LIfe](https://open.spotify.com/album/04VZhnzFKMXNHPSI1K03YH) | 3:06 |
-| 156 | [Crotona](https://open.spotify.com/track/32IHNapsALGfCC8ZMcNvXe) | [Jupie](https://open.spotify.com/artist/4AaFbIT8Qzqp6hNP3d4d28) | [Crotona](https://open.spotify.com/album/3ysK2oDoyRiixR3PQgPckv) | 2:19 |
-| 157 | [Quiero](https://open.spotify.com/track/2XrSYij2Am59CtZpfMx8tl) | [Tuchi Mudha](https://open.spotify.com/artist/4KvEAO2uIOCDQa1V0OzTmE) | [Quiero](https://open.spotify.com/album/2gDzZMGiNOgvDiXd9hmgsa) | 2:27 |
-| 158 | [Earthbound](https://open.spotify.com/track/51nzXnoLcD8S5dgZQUruvZ) | [Jordan Corey](https://open.spotify.com/artist/7fVAMCPyWtZf1yx92YTBmJ) | [The Tunnel + the Light](https://open.spotify.com/album/2wVBD6IOKMwM0uKitmq5YI) | 3:51 |
-| 159 | [Bang Bang](https://open.spotify.com/track/5McxrH9QchSnoc9ixcGZne) | [BRITEVOID](https://open.spotify.com/artist/12mPy5ilUS7tx0sshnEkzt) | [Bang Bang](https://open.spotify.com/album/5HItM6rBJUf9t5k5tmsE1G) | 3:02 |
-| 160 | [Sonder Life](https://open.spotify.com/track/5bTsowZdnJxrQpScSyHvJw) | [Tender Glue](https://open.spotify.com/artist/5zQ65OpnrKT6Ufbk7ACirt) | [Sonder Life](https://open.spotify.com/album/4dpSUo3ANjEFKQxt3BDigO) | 2:18 |
-| 161 | [I Always Thought](https://open.spotify.com/track/2zPvs9TuBYHNGDzTEOdcUW) | [Andrew Ricci](https://open.spotify.com/artist/2YKveiaet1bQDgshsiwP8a) | [I Always Thought](https://open.spotify.com/album/4YdhbLyU4YWft3qszpBAmV) | 3:54 |
-| 162 | [Yulunganu](https://open.spotify.com/track/6F7QoOwrtFHmOQwsa5DsPC) | [Jam TheBrain](https://open.spotify.com/artist/0LMGEl8PogVM5doRZv3e59) | [Yulunganu](https://open.spotify.com/album/7his1Sy0WF556aQlsacd3Y) | 3:10 |
-| 163 | [Vibes and Wine](https://open.spotify.com/track/0pXxuOBUMjziUYmy4yLGZx) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Vibes and Wine](https://open.spotify.com/album/7nqkkRhiTMlDC5bv3UxalD) | 2:56 |
-| 164 | [Crazy\(Insane\)](https://open.spotify.com/track/6S8T2PhQl5k1H3FVn6RK60) | [Jett Avery](https://open.spotify.com/artist/436Gp26rwC6kyjnT3g3fKi) | [Crazy\(Insane\)](https://open.spotify.com/album/4bpYDIRY9odCwPLJOazfC9) | 2:36 |
-| 165 | [Pressure & Diamonds](https://open.spotify.com/track/65pqLBtUkMtfni34shRZwU) | [Blaq](https://open.spotify.com/artist/1yUBryxhUrIQBkvmSFC6BM) | [Trap Soul](https://open.spotify.com/album/7ILCXylW8WTSE6R2KPWPrA) | 4:04 |
-| 166 | [Fallback](https://open.spotify.com/track/2IcsKxwSl5wmZPqDCw2OL9) | [Dhezz](https://open.spotify.com/artist/0dNeAYX3VGWjkKQp3W4nLZ) | [Fallback](https://open.spotify.com/album/2C77CCNDgKGkpW1D9JY1lN) | 2:39 |
-| 167 | [No King in no Castle](https://open.spotify.com/track/28KmAN5LFhU7pULUbQhJlv) | [The Static Dive](https://open.spotify.com/artist/2bo4x9G5fsOOqdTfyqPulX) | [No King in no Castle](https://open.spotify.com/album/0QABYOAWkmMdCWwZP4OWMQ) | 3:06 |
-| 168 | [sad forever](https://open.spotify.com/track/2giOAvgiB3uJUwWYWwKu84) | [Eliana](https://open.spotify.com/artist/6at6gA54NPGopl52Hbsd1K) | [sad forever](https://open.spotify.com/album/5F0N3X76szNkulPkX5grdT) | 3:17 |
+| 150 | [Morena](https://open.spotify.com/track/433QmROnQp7IQMPF88wBjq) | [Yachi Cj](https://open.spotify.com/artist/3X20hnjwoJOiodc9LfTITJ) | [LØVE](https://open.spotify.com/album/3ckArbcam3BpEr3P7e9PJZ) | 2:21 |
+| 151 | [Babe](https://open.spotify.com/track/2fP2e3AQ3XZgJuJj8drSs0) | [Prolifik Plsoo](https://open.spotify.com/artist/3gdXgaIc6lIxOzpqpY1TJZ), [Mr.Wakobi](https://open.spotify.com/artist/3YPSUF80Pv7R3ft9LROSrV) | [Babe](https://open.spotify.com/album/7Ku9iZqg9bEa1OV3VRelJY) | 3:13 |
+| 152 | [The Promised Land](https://open.spotify.com/track/0gCTWPjLiFpaPTohBAUnOK) | [Shiloh West](https://open.spotify.com/artist/69dGyAIqgXw03hO6001hxn) | [The Promised Land](https://open.spotify.com/album/32v0FiZq4dKSRlW8DCTGhV) | 4:15 |
+| 153 | [Ngiyanikela konke](https://open.spotify.com/track/64i5OtK2X4DHZQWTDiWHOW) | [Dr\. Deus](https://open.spotify.com/artist/5Lp4nPhu0eRwXxiGqq4L8s) | [Ngiyanikela konke](https://open.spotify.com/album/5Lr9UEozytrR2fkfyOe85f) | 5:01 |
+| 154 | [Dirt Road to Downtown](https://open.spotify.com/track/4bf7r2C08fjhJXuYkzFOuN) | [Kyle Bunney](https://open.spotify.com/artist/6AJIJDkkmXNrrEhKk7QOuC) | [Dirt Road to Downtown](https://open.spotify.com/album/0WvAmoCRrzGXTJC2r1qToY) | 3:41 |
+| 155 | [Spinning On A Spire](https://open.spotify.com/track/5UbBse5sRanejFjYxPlSUB) | [Dominic Lavoie](https://open.spotify.com/artist/6IbM5ng5cjZuZoCSjEO6LR) | [Spinning On A Spire](https://open.spotify.com/album/1hTFzhm0SJjefZO5snnPlp) | 3:29 |
+| 156 | [Si fuimos algo](https://open.spotify.com/track/4BT50O2HFYORi2aNDjSe3N) | [MANENA](https://open.spotify.com/artist/0iqltBGuFMhKSGJoObggvs) | [Parsimoniosa](https://open.spotify.com/album/6QdStxptw0ctxYiDVpX1Xy) | 3:16 |
+| 157 | [Call My Soul Back](https://open.spotify.com/track/3BzFgSujgr9sQv0nz2agEd) | [Catdraggon](https://open.spotify.com/artist/3KAFSyOCx8EGhQj8ExHeCv) | [Call My Soul Back](https://open.spotify.com/album/6tqf6l6sQt3pZ5jyLatgnX) | 4:37 |
+| 158 | [Don't Run Home](https://open.spotify.com/track/5GOQDfNmhVDeQUsRR9B8J0) | [$cotty](https://open.spotify.com/artist/5mOW3PxPVgrj3BBwZdSIY4) | [Don't Run Home](https://open.spotify.com/album/6llRZH3mkRkg0fAHiUhoOg) | 2:57 |
+| 159 | [let go](https://open.spotify.com/track/3tRg6Z0xjmB0IlV9ggAif8) | [wigi!](https://open.spotify.com/artist/56wyLJzjhBfN9IwX7fBKAU) | [let go](https://open.spotify.com/album/0b6FIktnaUOk1N0eOOajDA) | 2:02 |
+| 160 | [Show](https://open.spotify.com/track/5LfcqJ9V95a207NdqZsLVV) | [Ky J\. Brandes](https://open.spotify.com/artist/3996kMR3Cwga5hyZYQRkZu) | [Show](https://open.spotify.com/album/3Q851Z916dJpSra5aq6MSD) | 3:24 |
+| 161 | [Brought Me To Life](https://open.spotify.com/track/13ASr80ZIeOa5qn5gO1elK) | [In My Better Days](https://open.spotify.com/artist/6MyAHsbsz1d3mVvALdbhN7), [Haya Ashraf](https://open.spotify.com/artist/3YyFey0OvygmtzWuqZVZr7) | [Brought Me To Life](https://open.spotify.com/album/6bdRv9CzRsdWLJ2FfXWecA) | 3:40 |
+| 162 | [Your LIfe](https://open.spotify.com/track/1jFkUJPa1OLZrYDi8Wt65C) | [LIYA](https://open.spotify.com/artist/3eC0Vvq4FbNLKwrU0D6Geb) | [Your LIfe](https://open.spotify.com/album/04VZhnzFKMXNHPSI1K03YH) | 3:06 |
+| 163 | [Crotona](https://open.spotify.com/track/32IHNapsALGfCC8ZMcNvXe) | [Jupie](https://open.spotify.com/artist/4AaFbIT8Qzqp6hNP3d4d28) | [Crotona](https://open.spotify.com/album/3ysK2oDoyRiixR3PQgPckv) | 2:19 |
+| 164 | [Quiero](https://open.spotify.com/track/2XrSYij2Am59CtZpfMx8tl) | [Tuchi Mudha](https://open.spotify.com/artist/4KvEAO2uIOCDQa1V0OzTmE) | [Quiero](https://open.spotify.com/album/2gDzZMGiNOgvDiXd9hmgsa) | 2:27 |
+| 165 | [Earthbound](https://open.spotify.com/track/51nzXnoLcD8S5dgZQUruvZ) | [Jordan Corey](https://open.spotify.com/artist/7fVAMCPyWtZf1yx92YTBmJ) | [The Tunnel + the Light](https://open.spotify.com/album/2wVBD6IOKMwM0uKitmq5YI) | 3:51 |
+| 166 | [Bang Bang](https://open.spotify.com/track/5McxrH9QchSnoc9ixcGZne) | [BRITEVOID](https://open.spotify.com/artist/12mPy5ilUS7tx0sshnEkzt) | [Bang Bang](https://open.spotify.com/album/5HItM6rBJUf9t5k5tmsE1G) | 3:02 |
+| 167 | [Sonder Life](https://open.spotify.com/track/5bTsowZdnJxrQpScSyHvJw) | [Tender Glue](https://open.spotify.com/artist/5zQ65OpnrKT6Ufbk7ACirt) | [Sonder Life](https://open.spotify.com/album/4dpSUo3ANjEFKQxt3BDigO) | 2:18 |
+| 168 | [I Always Thought](https://open.spotify.com/track/2zPvs9TuBYHNGDzTEOdcUW) | [Andrew Ricci](https://open.spotify.com/artist/2YKveiaet1bQDgshsiwP8a) | [I Always Thought](https://open.spotify.com/album/4YdhbLyU4YWft3qszpBAmV) | 3:54 |
+| 169 | [Yulunganu](https://open.spotify.com/track/6F7QoOwrtFHmOQwsa5DsPC) | [Jam TheBrain](https://open.spotify.com/artist/0LMGEl8PogVM5doRZv3e59) | [Yulunganu](https://open.spotify.com/album/7his1Sy0WF556aQlsacd3Y) | 3:10 |
+| 170 | [Vibes and Wine](https://open.spotify.com/track/0pXxuOBUMjziUYmy4yLGZx) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Vibes and Wine](https://open.spotify.com/album/7nqkkRhiTMlDC5bv3UxalD) | 2:56 |
+| 171 | [Crazy\(Insane\)](https://open.spotify.com/track/6S8T2PhQl5k1H3FVn6RK60) | [Jett Avery](https://open.spotify.com/artist/436Gp26rwC6kyjnT3g3fKi) | [Crazy\(Insane\)](https://open.spotify.com/album/4bpYDIRY9odCwPLJOazfC9) | 2:36 |
+| 172 | [Pressure & Diamonds](https://open.spotify.com/track/65pqLBtUkMtfni34shRZwU) | [Blaq](https://open.spotify.com/artist/1yUBryxhUrIQBkvmSFC6BM) | [Trap Soul](https://open.spotify.com/album/7ILCXylW8WTSE6R2KPWPrA) | 4:04 |
+| 173 | [Fallback](https://open.spotify.com/track/2IcsKxwSl5wmZPqDCw2OL9) | [Dhezz](https://open.spotify.com/artist/0dNeAYX3VGWjkKQp3W4nLZ) | [Fallback](https://open.spotify.com/album/2C77CCNDgKGkpW1D9JY1lN) | 2:39 |
 
-Snapshot ID: `AAA36B1he788qVTekyEFHVNvM1Ehz6r7`
+Snapshot ID: `AAA38pSU/qpK1cqFlSuixxXh9gaxJr1l`

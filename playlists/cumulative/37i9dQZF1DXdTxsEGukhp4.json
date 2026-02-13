@@ -7140,7 +7140,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 226786,
       "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
       "url": "https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U"
@@ -7306,7 +7306,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 196640,
       "name": "\u3077\u3093\u3077\u3093",
       "url": "https://open.spotify.com/track/1ZQjslTPziwyz9BioIBBSI"
@@ -9311,6 +9311,24 @@
     },
     {
       "album": {
+        "name": "\u65e5\u3005\u611b\u3005",
+        "url": "https://open.spotify.com/album/7A82mHia7alj13QXGc6MDQ"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "\u541b\u304c\u304a\u3058\u3044\u3061\u3083\u3093\u3042\u305f\u3057\u304c\u304a\u3070\u3042\u3061\u3083\u3093",
+      "url": "https://open.spotify.com/track/1SgwiPVpQ6tV3UnWGPlv5H"
+    },
+    {
+      "album": {
         "name": "23\u6625",
         "url": "https://open.spotify.com/album/1KGEUbiIrHnuN18SQ9LKOF"
       },
@@ -9326,6 +9344,24 @@
       "duration_ms": 170624,
       "name": "\u541b\u306e\u305d\u3070",
       "url": "https://open.spotify.com/track/3ENZ9t8yvPfD1fNK4T3Lli"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/756KBTfY0YiHQNkg3UJhR6"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244066,
+      "name": "\u541b\u306e\u604b\u4eba\u306b\u306a\u3063\u305f\u3089",
+      "url": "https://open.spotify.com/track/0k4KaqElLVjdR6sVHPTS6h"
     },
     {
       "album": {

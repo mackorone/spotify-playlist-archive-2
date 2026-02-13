@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,995 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,981 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 8 | [We Have A Map Of The Piano](https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 5:19 |
 | 9 | [Breathe In](https://open.spotify.com/track/00JzUNcRdhoALWUIiK5UnA) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 7:34 |
 | 10 | [Arrows](https://open.spotify.com/track/4QcDhDJkTBRjv4hNXtftcf) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/4XLmFt621uppWWHzoSOcnX) | 2:29 |
-| 11 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
-| 12 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
+| 11 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
+| 12 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
 | 13 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
 | 14 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
 | 15 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 23 | [I'll Never Find Your Soul](https://open.spotify.com/track/6CruGdNMu9cYkvfDYZAR3H) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 3:25 |
 | 24 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
 | 25 | [Bird](https://open.spotify.com/track/14nWsmzymZ6MV9TDhaH2SV) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Bird](https://open.spotify.com/album/63XRrL5aFeflpDkzeYF5dD) | 3:39 |
-| 26 | [Midori](https://open.spotify.com/track/33P4kqRYHpq94kKjAoWvC5) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 3:01 |
-| 27 | [Atom 6](https://open.spotify.com/track/4Hctp8jfbMwLTchI6o3vDc) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atom 6](https://open.spotify.com/album/0Ve7BbpsthPeae1D7UGul9) | 1:12 |
+| 26 | [Atom 6](https://open.spotify.com/track/4Hctp8jfbMwLTchI6o3vDc) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atom 6](https://open.spotify.com/album/0Ve7BbpsthPeae1D7UGul9) | 1:12 |
+| 27 | [Midori](https://open.spotify.com/track/33P4kqRYHpq94kKjAoWvC5) | [Felbm](https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7) | [Tape 4](https://open.spotify.com/album/2wTtlS3y73FcYMkyFrJx0u) | 3:01 |
 | 28 | [Alone](https://open.spotify.com/track/4CztNwbrYUjnmjNKi5etEn) | [Logan and Isabel](https://open.spotify.com/artist/14P8mkOjjBxwgUgAO5sbAQ) | [Alone](https://open.spotify.com/album/6NLPPOovFxmrlmTMAZS6d4) | 3:02 |
 | 29 | [Summer](https://open.spotify.com/track/7rY9qTVYJziRT87gI8KPra) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 5:22 |
 | 30 | [I'll Come Running](https://open.spotify.com/track/1b2noys3aqkIiznUza7I6R) | [Paul Thomas Saunders](https://open.spotify.com/artist/2Y3Lw14p4nc60FKWp5q8Ob) | [Figure in a Landscape](https://open.spotify.com/album/5qJbpAwUPlFSWEAB6x8Ee3) | 4:38 |

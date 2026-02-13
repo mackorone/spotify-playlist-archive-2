@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Epic tunes for the open road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,752 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,756 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 72 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 |
 | 73 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 |
 | 74 | [Days Upon Days](https://open.spotify.com/track/5rfJPWIpBMftrVybWdIXXG) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [Looking for Knives](https://open.spotify.com/album/1vdJozfZSMZJ2nUJ7D2lTc) | 3:29 |
-| 75 | [That's Life](https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:43 |
+| 75 | [Can I Call You in the Morning?](https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Can I Call You in the Morning?](https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU) | 2:52 |
 
 Snapshot ID: `AAAAAMBXHCB+4PWDBY1bR70UkfgExn71`

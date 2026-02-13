@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 
 > The tracks you just keep pulling up\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,134 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,145 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 77 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 78 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 |
 | 79 | [Let's Go](https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2 \(Deluxe\)](https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx) | 2:20 |
-| 80 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
-| 81 | [Tyler Herro](https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:36 |
+| 80 | [Tyler Herro](https://open.spotify.com/track/3w1WjD2zJqjBjDz5fwqQPJ) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:36 |
+| 81 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
 | 82 | [SLUT ME OUT](https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT](https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ) | 2:03 |
 | 83 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 2:34 |
 | 84 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 2:22 |

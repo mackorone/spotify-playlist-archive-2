@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România și piesele alese de editorii noștri\. Cover: Olivia Addams
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,770 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,769 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [Sărmana turturică](https://open.spotify.com/track/2hxWyXagXNgcYfYiTkI0T6) | [Aura Șova](https://open.spotify.com/artist/0fHzT5o6dGwn1nm1kMjVSG) | [Sărmana turturică](https://open.spotify.com/album/4YmqXjYIHhBtvmBUeNsoss) | 4:20 |
 | 50 | [Fricile tale](https://open.spotify.com/track/0cpJ4uF77qKnSayUiO8q9V) | [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [Fricile tale](https://open.spotify.com/album/5ZacYYDztAiu5RZLsIiQ0x) | 4:05 |
 
-Snapshot ID: `AAAAABs+8G7iOeL5ygg5yaHjuCJEuCbh`
+Snapshot ID: `AAAAAPCgU+hv1QkY/0P7E1E1NbL02n8P`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Galdive",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Noni",
   "name": "Ke Seberang",
   "tracks": [
     {
@@ -46,6 +46,42 @@
       "duration_ms": 150953,
       "name": "0strich ran faster than me, wth",
       "url": "https://open.spotify.com/track/7vztj6iiU61WTqKpFlq1wc"
+    },
+    {
+      "album": {
+        "name": "13th February",
+        "url": "https://open.spotify.com/album/33e613wVCoRoLTlrjEA7Wq"
+      },
+      "artists": [
+        {
+          "name": "Rama Setiawan",
+          "url": "https://open.spotify.com/artist/3x4QdbY16rr4lCuW7PSfbO"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294210,
+      "name": "13th February",
+      "url": "https://open.spotify.com/track/3L5UcChdt6KE6nBlP41ddH"
+    },
+    {
+      "album": {
+        "name": "17 To 70",
+        "url": "https://open.spotify.com/album/0IkQeHJmQ9XiH2maQlAneu"
+      },
+      "artists": [
+        {
+          "name": "Ardhito Pramono",
+          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172909,
+      "name": "17 To 70",
+      "url": "https://open.spotify.com/track/7zqEJIcaQoOjnH7aO7N86w"
     },
     {
       "album": {
@@ -1407,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Blueberry Pie",
+        "url": "https://open.spotify.com/album/364RXnlRcgtFki0T4FQEwI"
+      },
+      "artists": [
+        {
+          "name": "Thaviella",
+          "url": "https://open.spotify.com/artist/6l3VwSjbo49uvNiaktJhQK"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "Blueberry Pie",
+      "url": "https://open.spotify.com/track/3hzrqBqKYzH0DDcKQD2jzy"
+    },
+    {
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/05THAMxxeyyHK0w8cxbklL"
       },
@@ -1674,7 +1728,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 233224,
       "name": "Can We Be Friends Again?",
       "url": "https://open.spotify.com/track/0c3beEhARvqtTRwKFskjX3"
@@ -1848,6 +1902,28 @@
       "duration_ms": 206422,
       "name": "Chapter 4",
       "url": "https://open.spotify.com/track/7kbY0A86ZeDxUGXF28m9dV"
+    },
+    {
+      "album": {
+        "name": "Chasing Sparks",
+        "url": "https://open.spotify.com/album/2XbVD6m3IDzSyEQyRJNMQm"
+      },
+      "artists": [
+        {
+          "name": "Bertrand Tio",
+          "url": "https://open.spotify.com/artist/4QrtjZy2Cjn9QvciYwnFYY"
+        },
+        {
+          "name": "Varrel Rievera",
+          "url": "https://open.spotify.com/artist/4m2PtTGPDRiqg53XKuEFcu"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "Chasing Sparks",
+      "url": "https://open.spotify.com/track/4c6JeHWJI3v28XNTpwRPEd"
     },
     {
       "album": {
@@ -2142,7 +2218,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 205936,
       "name": "crimson lullaby",
       "url": "https://open.spotify.com/track/7aiB318eJa5FlvCudSNjPq"
@@ -2708,7 +2784,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 170670,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/5usRVw5zljXzcSXXHiblgr"
@@ -2932,6 +3008,24 @@
       "duration_ms": 198319,
       "name": "Fade",
       "url": "https://open.spotify.com/track/6ZMImaADsVEfPjkk7HlcTS"
+    },
+    {
+      "album": {
+        "name": "FALL AGAIN",
+        "url": "https://open.spotify.com/album/5DLrerqf7OKlJskTZOAlYn"
+      },
+      "artists": [
+        {
+          "name": "Noni",
+          "url": "https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188745,
+      "name": "FALL AGAIN",
+      "url": "https://open.spotify.com/track/303TW5JcL5wE8nPhyb0XRV"
     },
     {
       "album": {
@@ -3193,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "Fling Thing",
+        "url": "https://open.spotify.com/album/1bqZeIiqDIkQReZvV5FDKv"
+      },
+      "artists": [
+        {
+          "name": "Cece Caramel",
+          "url": "https://open.spotify.com/artist/1AGoLYap5zJzPMHu2lO5EY"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Fling Thing",
+      "url": "https://open.spotify.com/track/26IzakXuYh93ernkNyQUPu"
+    },
+    {
+      "album": {
         "name": "floating in love",
         "url": "https://open.spotify.com/album/2r7mRLacB3Dk1ws8pNwLMJ"
       },
@@ -3280,7 +3392,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 213000,
       "name": "Foolish Man",
       "url": "https://open.spotify.com/track/1r3IimYyteUP9uDSincxTk"
@@ -3598,7 +3710,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 115875,
       "name": "Game of Love",
       "url": "https://open.spotify.com/track/4k3oDf9y3XJ9buBQU7qbGb"
@@ -3758,7 +3870,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 273637,
       "name": "Give In",
       "url": "https://open.spotify.com/track/5kkxvrdYIrBB8iYZLehfnE"
@@ -4062,7 +4174,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 189942,
       "name": "Guns",
       "url": "https://open.spotify.com/track/0WsNPJMr6iHSi5vbVAcdz4"
@@ -4880,7 +4992,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 254952,
       "name": "I'm on My Way",
       "url": "https://open.spotify.com/track/3XvgSDedqSOqJVW7vnbo8P"
@@ -5636,7 +5748,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 160363,
       "name": "Late 20s",
       "url": "https://open.spotify.com/track/70pLAAu14NHM5e7xav4hUm"
@@ -5734,7 +5846,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 156266,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/7xUxlg5T0d9p04TjqrIVb9"
@@ -5930,7 +6042,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 200712,
       "name": "Little by Little",
       "url": "https://open.spotify.com/track/14OP5wOfh1zmkaNxRhazuz"
@@ -6408,7 +6520,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 193306,
       "name": "Love, Again (feat. RIMALDI)",
       "url": "https://open.spotify.com/track/1NxnWDCt9sXfXiigC8KvK9"
@@ -6448,6 +6560,24 @@
       "duration_ms": 184315,
       "name": "Loves Hates Loves",
       "url": "https://open.spotify.com/track/43PIMXRQK8LD8rVPZHm1m6"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/5vt2XtcPF9U1ylMSru7PP3"
+      },
+      "artists": [
+        {
+          "name": "Lips!!",
+          "url": "https://open.spotify.com/artist/2EJI6a2OHumb4P5gtEJXBg"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214188,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/710G6yeNKsmE48Zf9qrlYI"
     },
     {
       "album": {
@@ -7084,7 +7214,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 177422,
       "name": "Never True",
       "url": "https://open.spotify.com/track/6Z0UxAt1z5IzSrlb5wd26J"
@@ -7968,7 +8098,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 166560,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/6CWFEuL0tr2cAEXKFF9cZZ"
@@ -8178,7 +8308,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 234195,
       "name": "Runner Up",
       "url": "https://open.spotify.com/track/6R549RTmRikhV9khynVxv3"
@@ -8566,7 +8696,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 164825,
       "name": "She's Mysterious",
       "url": "https://open.spotify.com/track/6xeDOENsTSZoIx9wWveCrE"
@@ -8728,7 +8858,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 221600,
       "name": "Singing Again",
       "url": "https://open.spotify.com/track/0q9ceMhLuxiIoGtcxOsozy"
@@ -8884,6 +9014,36 @@
       "duration_ms": 268800,
       "name": "Sonder (feat. Valentine)",
       "url": "https://open.spotify.com/track/1G4PULBh1Geupl2F7ocy0W"
+    },
+    {
+      "album": {
+        "name": "SORRY",
+        "url": "https://open.spotify.com/album/3EwQtrnD07yc7k1f1elWfK"
+      },
+      "artists": [
+        {
+          "name": "Jody & aydra",
+          "url": "https://open.spotify.com/artist/3rqX9hDew9TgmrGYnHJomq"
+        },
+        {
+          "name": "Shanda",
+          "url": "https://open.spotify.com/artist/0AhFkmSnFP9JDAYbDhmI5c"
+        },
+        {
+          "name": "Aydra",
+          "url": "https://open.spotify.com/artist/3XHPvm1Iii0r0ytrwX6kxb"
+        },
+        {
+          "name": "JODY MHR",
+          "url": "https://open.spotify.com/artist/3Jzy798xBbaf0f7rOHed0m"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172008,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/6Q7pIoM5pOxFjO22Kh3uLx"
     },
     {
       "album": {
@@ -9707,6 +9867,46 @@
     },
     {
       "album": {
+        "name": "The Raising Man (From Ghost In The Cell)",
+        "url": "https://open.spotify.com/album/6XMRqNiwcZBRKZ4Me9ChLH"
+      },
+      "artists": [
+        {
+          "name": "Tony Merle",
+          "url": "https://open.spotify.com/artist/0H3zZDfgStyDLmXyYsEbvU"
+        },
+        {
+          "name": "Salim Lubis",
+          "url": "https://open.spotify.com/artist/1obCpOs5IobBUuRXjc6xho"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196833,
+      "name": "The Raising Man (From Ghost In The Cell)",
+      "url": "https://open.spotify.com/track/6lK5DItMTzL8M9vPfmczsY"
+    },
+    {
+      "album": {
+        "name": "The Rise After",
+        "url": "https://open.spotify.com/album/3KSZSMVim0c95wV6eWGtl9"
+      },
+      "artists": [
+        {
+          "name": "Song Brothers",
+          "url": "https://open.spotify.com/artist/4BroLk4RM2ZByrC7rpDb6V"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303750,
+      "name": "The Rise After",
+      "url": "https://open.spotify.com/track/2q0I2mcySQzkwb6naL4Dek"
+    },
+    {
+      "album": {
         "name": "The Songbird",
         "url": "https://open.spotify.com/album/4R5qnsxcnef5TgP2AfniFx"
       },
@@ -10222,7 +10422,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 176785,
       "name": "Virtu4L",
       "url": "https://open.spotify.com/track/2R5gTygG7JdLLdgrzoLHiC"
@@ -10508,7 +10708,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 266926,
       "name": "What I Feel",
       "url": "https://open.spotify.com/track/1PGNxyuK7fScstRsOiwkyc"

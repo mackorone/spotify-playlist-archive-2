@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mark\u5be6\u5462\u500b\u6b4c\u55ae\uff0c\u5c31\u5514\u9a5a\u932f\u904e\u9999\u6e2fhit \u7dca\u5605Pop Songs \u5566\uff01Cover: sombr",
+  "description": "Mark\u5be6\u5462\u500b\u6b4c\u55ae\uff0c\u5c31\u5514\u9a5a\u932f\u904e\u9999\u6e2fhit \u7dca\u5605Pop Songs \u5566\uff01Cover: CORTIS",
   "name": "Big In Hong Kong",
   "tracks": [
     {
@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183975,
+      "name": "Always Everywhere",
+      "url": "https://open.spotify.com/track/6fGapufucZHPva1kvCqceA"
+    },
+    {
+      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
       },
@@ -526,6 +544,24 @@
       "duration_ms": 165974,
       "name": "Ballyhoo",
       "url": "https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ"
+    },
+    {
+      "album": {
+        "name": "BANG BANG",
+        "url": "https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
     },
     {
       "album": {
@@ -2262,6 +2298,24 @@
       "duration_ms": 154800,
       "name": "GBP (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
+    },
+    {
+      "album": {
+        "name": "Get In Girl",
+        "url": "https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206511,
+      "name": "Get In Girl",
+      "url": "https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ"
     },
     {
       "album": {
@@ -4122,6 +4176,24 @@
       "duration_ms": 179534,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
+    },
+    {
+      "album": {
+        "name": "Mention Me",
+        "url": "https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Mention Me",
+      "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
     },
     {
       "album": {

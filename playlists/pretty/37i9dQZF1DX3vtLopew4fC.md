@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to Canadian women at full volume! Cover: SadBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,800 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,816 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 39 | [fin pm](https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [fin pm](https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv) | 3:11 |
 | 40 | [si je ne suis pas](https://open.spotify.com/track/2Y56oJERnOe72VfPT9qd1x) | [Vermeil](https://open.spotify.com/artist/2umQO1NjunQcWQSDGKNTRZ) | [si je ne suis pas](https://open.spotify.com/album/7vGj6cne4fb0fbuTm1fVsE) | 4:18 |
 
-Snapshot ID: `AAAAAFor+E6rws302nfSigxdqz4MEmt5`
+Snapshot ID: `AAAAALRem+71aoTwkeR1N+bWJaEeRbrh`

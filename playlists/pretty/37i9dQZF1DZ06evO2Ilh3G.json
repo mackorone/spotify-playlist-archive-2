@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 119168,
+  "num_followers": 119180,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAACmpa3hs5Gtcms/BeUz4b+M",
+  "snapshot_id": "aYvGgAAAAAC4l7GxAcFV4KjsBMbklMLS",
   "tracks": [
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HAUNTED BY FAME",
-        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 158980,
-      "name": "I HEARD (FT. YOUNGBOY NEVER BROKE AGAIN)",
-      "url": "https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoodie SZN",
         "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 192779,
       "name": "Startender (feat. Offset and Tyga)",
       "url": "https://open.spotify.com/track/0jAfdqv18goRTUxm3ilRjb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HAUNTED BY FAME",
+        "url": "https://open.spotify.com/album/1cGfkF4n0zTxfSgwPELkrg"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 158980,
+      "name": "I HEARD (FT. YOUNGBOY NEVER BROKE AGAIN)",
+      "url": "https://open.spotify.com/track/20wdBNbpmvXjrltf1646PQ"
     },
     {
       "added_at": null,

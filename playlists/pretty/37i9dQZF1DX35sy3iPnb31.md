@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 ### [Editors' picks: Best Canadian songs of January](https://open.spotify.com/playlist/37i9dQZF1DX35sy3iPnb31)
 
-> The best Canadian songs the month, handpicked by Spotify Canada editors\. Cover: Katie Tupper
+> The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Katie Tupper
 
-[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 598 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [Washing Machine](https://open.spotify.com/track/0kOabZwPutJdHljJirchwP) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Washing Machine](https://open.spotify.com/album/1aXoAz7HuqXMixFvuRWlOE) | 2:58 |
 | 50 | [c'que ça m'apporte](https://open.spotify.com/track/5sAOMqwZR9g3h4EDpDOBem) | [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [W/out me](https://open.spotify.com/album/2UW87FWTtKU3cF1voB1UnY) | 2:38 |
 
-Snapshot ID: `AAAAAA84wpC3zO1g3W0Y7ntzBwt2/B85`
+Snapshot ID: `AAAAAKt6jrEq2nt9dM+tzeuOatFFCvtS`

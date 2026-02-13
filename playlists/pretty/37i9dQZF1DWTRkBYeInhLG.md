@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,004 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,016 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 19 | [Looking for Love in Wrong Places](https://open.spotify.com/track/4gngdFoZ9jGJcHAlbjWmIZ) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Looking for Love in Wrong Places](https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp) | 4:05 |
 | 20 | [Lantas](https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sentimental](https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3) | 3:54 |
 | 21 | [Untuk Perempuan Yang Sedang Di Pelukan](https://open.spotify.com/track/0urpBLpcm6DOGzs86rcKd8) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:42 |
-| 22 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 |
-| 23 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
+| 22 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 |
+| 23 | [Interaksi](https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 2:50 |
 | 24 | [That Somebody](https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Scenery](https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6) | 4:43 |
 | 25 | [Takkan Terganti](https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [And the Story Continues...](https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ) | 4:01 |
 | 26 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 31 | [Labirin](https://open.spotify.com/track/0pDmW5AOpl1Wi58Ob0xXB8) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Labirin](https://open.spotify.com/album/4WGZARQCmhrbxPJajCkkjr) | 3:02 |
 | 32 | [Film Favorit](https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Film Favorit](https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI) | 3:43 |
 | 33 | [Zona Nyaman \(From "Filosofi Kopi 2: Ben & Jody"\)](https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:03 |
-| 34 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 |
-| 35 | [Keabadian](https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keabadian](https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym) | 4:07 |
+| 34 | [Keabadian](https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keabadian](https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym) | 4:07 |
+| 35 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 |
 | 36 | [Dia Milikku](https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:31 |
 | 37 | [Mesin Waktu](https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Mesin Waktu](https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy) | 4:22 |
 | 38 | [Semua lagu cinta](https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:51 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 69 | [Kecewa](https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:49 |
 | 70 | [Four Summers](https://open.spotify.com/track/4uqeKoMtmbl1FTlRMdXKx5) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Reality Club Presents…](https://open.spotify.com/album/3pFDtZ4T0kJuNFYQGfGvAK) | 2:32 |
 | 71 | [Kembalikanku](https://open.spotify.com/track/1BU4UEHkYl54eOwCfdWGa5) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [semua, semua.](https://open.spotify.com/album/13za0ppeH6NvYZICmnyi49) | 3:21 |
-| 72 | [Air & Api](https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:17 |
-| 73 | [Katakan Saja](https://open.spotify.com/track/012WiZSgTedjCImYNyA1bF) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Katakan Saja](https://open.spotify.com/album/5bCGmjVjL7LfS6el6O0Nwp) | 4:23 |
+| 72 | [Katakan Saja](https://open.spotify.com/track/012WiZSgTedjCImYNyA1bF) | [Khifnu](https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7) | [Katakan Saja](https://open.spotify.com/album/5bCGmjVjL7LfS6el6O0Nwp) | 4:23 |
+| 73 | [Air & Api](https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:17 |
 | 74 | [Cinta Pertama \(Sunny\)](https://open.spotify.com/track/0E8e3Fy9Rh2C8K9rRnB2ih) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Cinta Pertama](https://open.spotify.com/album/5XZhAtlW5rKTZS2THwL8ju) | 4:22 |
 | 75 | [KKEB](https://open.spotify.com/track/71NQP11KgFDEJzzrks7wcn) | [Andre Hehanussa](https://open.spotify.com/artist/76uP2Wqg5YSfW8JLOQk4Qb) | [The Best Of Andre Hehanussa](https://open.spotify.com/album/3Y2EhVB5y5EhZ8arApRoas) | 4:01 |
 | 76 | [Menunggu Kamu \- OST Jelita Sejuba](https://open.spotify.com/track/5LP6x0DRwi69MGAYen999y) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Menunggu Kamu \- OST Jelita Sejuba](https://open.spotify.com/album/44CfF0k71uyqaIuegQo34v) | 3:49 |
 | 77 | [Dengan Caraku](https://open.spotify.com/track/6zZMfagNj5Nr8rSdJ9KLqq) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Dengan Caraku](https://open.spotify.com/album/6lfnTiXmRbPWrK40luaKFo) | 4:32 |
 | 78 | [Harus Bahagia](https://open.spotify.com/track/6nPZx4xtBSX1x641ktitSY) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Harus Bahagia](https://open.spotify.com/album/5Hb50nIh6byYRzkyTYHxUG) | 2:53 |
-| 79 | [Benar\-Benar](https://open.spotify.com/track/21h4Kd8KTMPpLtQ7vdc2Aq) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Benar\-Benar](https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69) | 4:22 |
+| 79 | [Aku Wanita \(with Dipha Barus\)](https://open.spotify.com/track/3GYxLBhbX1bJH0zoC8zXa7) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [It's Me BCL](https://open.spotify.com/album/3lWkC6kEMXvboWSFEB6D1B) | 3:31 |
 | 80 | [Tanpa Tergesa](https://open.spotify.com/track/66wRGrt1HmeVa1wtnWMj6C) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Tanpa Tergesa](https://open.spotify.com/album/4XaaGPX1xavHLo2vJJ2u03) | 3:38 |
 
 Snapshot ID: `AAAAACEciLvR9a7Clnzzbz4JOx7CSGoG`

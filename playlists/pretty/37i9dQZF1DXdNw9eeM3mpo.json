@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Kapanga y Milo J en portada.",
-  "num_followers": 486312,
+  "num_followers": 486327,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,18 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "La Kaguama",
-        "url": "https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV"
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
       },
       "artists": [
         {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        },
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
         }
       ],
-      "duration_ms": 193170,
-      "name": "La Kaguama",
-      "url": "https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs"
+      "duration_ms": 240072,
+      "name": "Ojos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -915,6 +911,26 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
+        "name": "La Kaguama",
+        "url": "https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 193170,
+      "name": "La Kaguama",
+      "url": "https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
         "name": "La Gata Bajo la Lluvia",
         "url": "https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 192939,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 240072,
-      "name": "Ojos Caf\u00e9s",
-      "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1455,22 +1455,38 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Somos todo",
-        "url": "https://open.spotify.com/album/7HlAXQw68Oq1e806GNEv2I"
+        "name": "Un Amor Violento",
+        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
       },
       "artists": [
         {
-          "name": "Alto Grado",
-          "url": "https://open.spotify.com/artist/5VvEb9IBLasKGbAI2R27FH"
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
         },
         {
-          "name": "Los De Abajo",
-          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
+          "name": "Alvaro Henriquez",
+          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
         }
       ],
-      "duration_ms": 155232,
-      "name": "Somos todo",
-      "url": "https://open.spotify.com/track/4QpD6vwI5CsWVF70Dqn25l"
+      "duration_ms": 289000,
+      "name": "Un Amor Violento",
+      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "Estando contigo",
+        "url": "https://open.spotify.com/album/0LpGkrVsNolRbQ44b4e84u"
+      },
+      "artists": [
+        {
+          "name": "Mimi Maura",
+          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Estando contigo",
+      "url": "https://open.spotify.com/track/3twBCDPJBPeXZ34jNTQlTE"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1495,38 +1511,22 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "Estando contigo",
-        "url": "https://open.spotify.com/album/0LpGkrVsNolRbQ44b4e84u"
+        "name": "Somos todo",
+        "url": "https://open.spotify.com/album/7HlAXQw68Oq1e806GNEv2I"
       },
       "artists": [
         {
-          "name": "Mimi Maura",
-          "url": "https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Estando contigo",
-      "url": "https://open.spotify.com/track/3twBCDPJBPeXZ34jNTQlTE"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
-        "name": "Un Amor Violento",
-        "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
-      },
-      "artists": [
-        {
-          "name": "The Skatalites",
-          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+          "name": "Alto Grado",
+          "url": "https://open.spotify.com/artist/5VvEb9IBLasKGbAI2R27FH"
         },
         {
-          "name": "Alvaro Henriquez",
-          "url": "https://open.spotify.com/artist/45H7NFSk6h7YyYP6BiB3EP"
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
         }
       ],
-      "duration_ms": 289000,
-      "name": "Un Amor Violento",
-      "url": "https://open.spotify.com/track/3NX364scO2GnsYW0ux81Pc"
+      "duration_ms": 155232,
+      "name": "Somos todo",
+      "url": "https://open.spotify.com/track/4QpD6vwI5CsWVF70Dqn25l"
     },
     {
       "added_at": "2026-02-06 06:00:21",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2026-02-06 06:00:21",
       "album": {
-        "name": "SOMOS SKA",
-        "url": "https://open.spotify.com/album/6ZSeawPoUTVmnH6SOu7ORa"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        },
-        {
-          "name": "Kotardo",
-          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
-        }
-      ],
-      "duration_ms": 188574,
-      "name": "SOMOS SKA",
-      "url": "https://open.spotify.com/track/7hc2WqygqSFZbOufPRHTvM"
-    },
-    {
-      "added_at": "2026-02-06 06:00:21",
-      "album": {
         "name": "Supersonico",
         "url": "https://open.spotify.com/album/6pvDF6APwhBWRkuEc3gCqz"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 332695,
       "name": "Amor Sin Odio",
       "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
+    },
+    {
+      "added_at": "2026-02-06 06:00:21",
+      "album": {
+        "name": "SOMOS SKA",
+        "url": "https://open.spotify.com/album/6ZSeawPoUTVmnH6SOu7ORa"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        },
+        {
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
+        }
+      ],
+      "duration_ms": 188574,
+      "name": "SOMOS SKA",
+      "url": "https://open.spotify.com/track/7hc2WqygqSFZbOufPRHTvM"
     },
     {
       "added_at": "2026-02-06 06:00:21",

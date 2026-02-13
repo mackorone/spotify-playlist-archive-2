@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Yulia",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: MECNER",
   "name": "up next",
   "tracks": [
     {
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 145920,
       "name": "Czy zapomnisz mnie?",
       "url": "https://open.spotify.com/track/0yPVmPz0kXh1exTZUxo2MK"
@@ -3716,6 +3716,24 @@
       "duration_ms": 142336,
       "name": "Gadu\u0142a",
       "url": "https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV"
+    },
+    {
+      "album": {
+        "name": "GAME ON",
+        "url": "https://open.spotify.com/album/6MqWTdKzTndBaKYvPW9aHm"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "GAME ON",
+      "url": "https://open.spotify.com/track/71haRmcp17D0nrl9S0hVgq"
     },
     {
       "album": {
@@ -5357,6 +5375,24 @@
     },
     {
       "album": {
+        "name": "Kto to?",
+        "url": "https://open.spotify.com/album/2nB02o3OgITvvCaMvezQEF"
+      },
+      "artists": [
+        {
+          "name": "MECNER",
+          "url": "https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137952,
+      "name": "Kto to?",
+      "url": "https://open.spotify.com/track/1k8tA0yItZD9JtUhFH1e2y"
+    },
+    {
+      "album": {
         "name": "Kto\u015b",
         "url": "https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE"
       },
@@ -6938,7 +6974,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 220840,
       "name": "Na dno",
       "url": "https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS"
@@ -7503,6 +7539,28 @@
     },
     {
       "album": {
+        "name": "Nie mo\u017cesz teraz odej\u015b\u0107",
+        "url": "https://open.spotify.com/album/6A5gCbv9wOQ3cvsvBdRUBY"
+      },
+      "artists": [
+        {
+          "name": "AJLA",
+          "url": "https://open.spotify.com/artist/0DKSIQmQ284IrIKpNdl36H"
+        },
+        {
+          "name": "2K88",
+          "url": "https://open.spotify.com/artist/1U1CwZeD8SU65TWHjLoPFY"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200347,
+      "name": "Nie mo\u017cesz teraz odej\u015b\u0107",
+      "url": "https://open.spotify.com/track/1J8gF267PesNe2tS1mdldL"
+    },
+    {
+      "album": {
         "name": "Nie m\u00f3w",
         "url": "https://open.spotify.com/album/1GdKtEdoqMfqyiz8nNADkF"
       },
@@ -7536,7 +7594,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 161129,
       "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
       "url": "https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U"
@@ -9355,6 +9413,24 @@
     },
     {
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx"
+      },
+      "artists": [
+        {
+          "name": "Alicja",
+          "url": "https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd"
+    },
+    {
+      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ"
       },
@@ -10144,7 +10220,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 139047,
       "name": "SAUNA",
       "url": "https://open.spotify.com/track/4V6L7wAL23kskkOIycjuIl"
@@ -10800,6 +10876,24 @@
     {
       "album": {
         "name": "Sp\u00f3jrz",
+        "url": "https://open.spotify.com/album/1UZqtwjBs43IY8xCRDGYFo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189834,
+      "name": "Sp\u00f3jrz",
+      "url": "https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e"
+    },
+    {
+      "album": {
+        "name": "Sp\u00f3jrz",
         "url": "https://open.spotify.com/album/1piehJNAANHslFDChsBrCo"
       },
       "artists": [
@@ -10936,7 +11030,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 165500,
       "name": "Swobodnie",
       "url": "https://open.spotify.com/track/4YYvrnhbJKYOp7GFoj29pr"

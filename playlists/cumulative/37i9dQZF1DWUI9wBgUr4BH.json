@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  PinkPantheress & Zara Larsson",
+  "description": "Les hits de demain sont d\u00e9j\u00e0 ici. Photo :  Theodora",
   "name": "Futurs Hits",
   "tracks": [
     {
@@ -1188,6 +1188,24 @@
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+    },
+    {
+      "album": {
+        "name": "B.M.S (by my side)",
+        "url": "https://open.spotify.com/album/3uB1GR702KP23t8eke4SH3"
+      },
+      "artists": [
+        {
+          "name": "Rambo goyard",
+          "url": "https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125454,
+      "name": "B.M.S (by my side)",
+      "url": "https://open.spotify.com/track/0T1CzbjyOEU60cL5G244di"
     },
     {
       "album": {
@@ -3692,6 +3710,24 @@
       "duration_ms": 198698,
       "name": "Derni\u00e8re fois",
       "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
+    },
+    {
+      "album": {
+        "name": "Des mythos",
+        "url": "https://open.spotify.com/album/1oEH5R9wEyBGUfutYhtv8I"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177601,
+      "name": "Des mythos",
+      "url": "https://open.spotify.com/track/2Gysuuhf0SEoIsEiRuLVcY"
     },
     {
       "album": {
@@ -6552,7 +6588,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
@@ -7514,7 +7550,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 154866,
       "name": "la maison",
       "url": "https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6"
@@ -7606,6 +7642,28 @@
       "duration_ms": 161375,
       "name": "La pluie",
       "url": "https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q"
+    },
+    {
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/21ykfEipigcGgtUQFRcjkJ"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        },
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182120,
+      "name": "La recette",
+      "url": "https://open.spotify.com/track/3KJtQJVParlVJopsz3JMnB"
     },
     {
       "album": {
@@ -11324,7 +11382,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 158724,
       "name": "Pom Pom Pom",
       "url": "https://open.spotify.com/track/6SPyKWcqwlXpUXGZUI8Atl"
@@ -11914,7 +11972,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 171493,
       "name": "Respire fort",
       "url": "https://open.spotify.com/track/14KogTtMWr07LMu5E66IrS"
@@ -13228,7 +13286,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId"
@@ -14453,6 +14511,28 @@
     },
     {
       "album": {
+        "name": "on s'en rappellera pas",
+        "url": "https://open.spotify.com/album/2TLKicTW4h5Xpky6AinYq5"
+      },
+      "artists": [
+        {
+          "name": "disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152520,
+      "name": "try try try (feat. Kid Cudi)",
+      "url": "https://open.spotify.com/track/755qgVaiyTaD1p2JWTFZ3h"
+    },
+    {
+      "album": {
         "name": "TU ME RENDS B\u00caTE",
         "url": "https://open.spotify.com/album/73CuswFpjJR0oISufRQZL2"
       },
@@ -14856,6 +14936,28 @@
       "duration_ms": 160026,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/2VXktzdXfNbCEfu8fnpKYe"
+    },
+    {
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/2hwtlqYFr8vEYYugqfxAro"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125625,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/47Ur1YLaC5ELAQ3R9q4zkW"
     },
     {
       "album": {

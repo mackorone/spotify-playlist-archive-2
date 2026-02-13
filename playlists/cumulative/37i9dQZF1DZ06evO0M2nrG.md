@@ -4,7 +4,7 @@
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 34 min
+111 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bolerito](https://open.spotify.com/track/54PJkhdXy1h5qOzMfy7WG2) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:47 | 2025-10-26 |  |
 | [Bolerito](https://open.spotify.com/track/7zzMZoUKpSCTbqYRdQc91b) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Bolerito](https://open.spotify.com/album/17SF0NRtHRNGvnkrTxrveL) | 2:47 | 2024-09-29 | 2025-10-26 |
 | [Bolerito \- Remix](https://open.spotify.com/track/3NQgFnVEptxzbpAIjgLNkE) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Bolerito \(Remix\)](https://open.spotify.com/album/35TcEYh5Mt7ZrYNLKEBUCl) | 2:45 | 2024-10-13 | 2024-11-10 |
+| [Bonita Bonita](https://open.spotify.com/track/2H5wRgIzqqUS7s5MpXBwlg) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Bonita Bonita](https://open.spotify.com/album/16Dzbm2u0PdEArnEH1uopC) | 4:37 | 2026-02-13 |  |
 | [Buscándote](https://open.spotify.com/track/7kBpyZF5JCO66IfLzdAQ2F) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Buscándote](https://open.spotify.com/album/054j0gRWCjdL4Oj85NjEIz) | 4:01 | 2023-03-19 |  |
 | [Cali Buenaventura](https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [Cali Buenaventura](https://open.spotify.com/album/5DTrImST5GokeEV8iA2u2e) | 3:18 | 2024-08-18 | 2025-12-29 |
 | [Canciones Con Mentiras](https://open.spotify.com/track/4Ve232oV2qClUrgGE89Ahu) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:22 | 2024-05-10 | 2024-07-21 |
@@ -63,7 +64,7 @@
 | [La Indocumentada](https://open.spotify.com/track/6d0ffzIcbMVvzIqhaonSlT) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 3:15 | 2024-12-13 |  |
 | [La Lá](https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:17 | 2023-03-19 |  |
 | [La Mitad](https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4) | [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Mitad](https://open.spotify.com/album/58yoUfo0t6EqVrJCPGdKSe) | 3:01 | 2023-03-19 |  |
-| [La Muñeca](https://open.spotify.com/track/0MVTiHaxhTTbGriRX148BR) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Muñeca](https://open.spotify.com/album/5lVyjeKAjzxkyFx8qzXvlJ) | 3:18 | 2023-03-19 |  |
+| [La Muñeca](https://open.spotify.com/track/0MVTiHaxhTTbGriRX148BR) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Muñeca](https://open.spotify.com/album/5lVyjeKAjzxkyFx8qzXvlJ) | 3:18 | 2023-03-19 | 2026-02-13 |
 | [La Mía](https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:46 | 2023-04-30 | 2024-05-20 |
 | [La Pena](https://open.spotify.com/track/0jJwORVFHaPfF1Z8Lb4xmL) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ) | 2:02 | 2024-11-27 | 2024-12-10 |
 | [La Pena](https://open.spotify.com/track/1MXDyt63gNC0sDbtDa9HFr) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:02 | 2024-12-10 | 2025-07-17 |

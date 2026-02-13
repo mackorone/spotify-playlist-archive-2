@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-26",
-  "description": "The UK's biggest playlist. Cover: Olivia Dean",
+  "description": "The UK's biggest playlist. Cover: Bad Bunny",
   "name": "Hot Hits UK",
   "tracks": [
     {
@@ -2029,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "Drive Safe",
+        "url": "https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Drive Safe",
+      "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -3180,7 +3202,7 @@
       ],
       "date_added": "2026-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 160966,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
@@ -5034,7 +5056,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 168134,
       "name": "NOBODY'S GIRL",
       "url": "https://open.spotify.com/track/2oPCpj9ezVq5D6IJNAGkL2"
@@ -5176,6 +5198,24 @@
       "duration_ms": 123428,
       "name": "NOW OR NEVER",
       "url": "https://open.spotify.com/track/6JPysVgPfEab03Gbm7hjXM"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
       "album": {
@@ -6216,7 +6256,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 167244,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/5b4szVlHAoR5BURFGXTmT0"
@@ -8242,6 +8282,24 @@
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
+    },
+    {
+      "album": {
+        "name": "White Keys",
+        "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144101,
+      "name": "White Keys",
+      "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
     },
     {
       "album": {

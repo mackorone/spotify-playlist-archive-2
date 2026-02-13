@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover:  Karnamereka, Ndarboy Genk",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Northsle",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -4353,6 +4353,24 @@
     },
     {
       "album": {
+        "name": "Kusumaning Ati",
+        "url": "https://open.spotify.com/album/4NIMe0DgA7VAuLEFxV5U6p"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378000,
+      "name": "Kusumaning Ati",
+      "url": "https://open.spotify.com/track/2aQi2odiCf1QsVeIvJIpcr"
+    },
+    {
+      "album": {
         "name": "Lagu Galau",
         "url": "https://open.spotify.com/album/2ssc0LBXdKKmPoQSKivKIy"
       },
@@ -5030,6 +5048,24 @@
       "duration_ms": 310000,
       "name": "Los Dol",
       "url": "https://open.spotify.com/track/420e2V7exkWfl6TIrFP7fi"
+    },
+    {
+      "album": {
+        "name": "LUMRAH ( LUMPUKE SING WES BUBRAH )",
+        "url": "https://open.spotify.com/album/5g78qje8jSCJSSngM7xxDT"
+      },
+      "artists": [
+        {
+          "name": "Northsle",
+          "url": "https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348000,
+      "name": "LUMRAH ( LUMPUKE SING WES BUBRAH )",
+      "url": "https://open.spotify.com/track/0ozx2AJmjxX5AiKgxUGJQP"
     },
     {
       "album": {

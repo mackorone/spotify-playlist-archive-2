@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,857 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,858 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 49 | [Fantasia Sexual](https://open.spotify.com/track/2Gbdc2PNfE5tXu9ujCxEiQ) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Revol](https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Fantasia Sexual](https://open.spotify.com/album/1lf70hdVQoWSntSmDE738c) | 4:13 |
 | 50 | [360](https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 2:56 |
 
-Snapshot ID: `aYp1AAAAAAAVmbOpRLj0skoYSct7wKjl`
+Snapshot ID: `aYvGgAAAAADAP6JSukB1w1d1WzH3UjML`

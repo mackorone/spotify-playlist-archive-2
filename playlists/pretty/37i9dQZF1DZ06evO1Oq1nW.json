@@ -1,12 +1,12 @@
 {
   "description": "This is The O'Jays. The essential tracks, all in one playlist.",
-  "num_followers": 34179,
+  "num_followers": 34177,
   "original_name": "This Is The O'Jays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAApsWSQ9sJh2y7iEWiR7/xw",
+  "snapshot_id": "aYvGgAAAAADzZBl4uivJvvZWsWoJzTJ/",
   "tracks": [
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Year 2000",
-        "url": "https://open.spotify.com/album/0nhMUUe0BUwd8YBj7aLkot"
+        "name": "Family Reunion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 271253,
-      "name": "You'll Never Know (All There Is to Know 'bout My Love)",
-      "url": "https://open.spotify.com/track/6sw1l9ehTdbqNbP6r5itmk"
+      "duration_ms": 342826,
+      "name": "She's Only a Woman",
+      "url": "https://open.spotify.com/track/1iU8nEMGJxqCpvr6SCwJ2k"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Reunion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
+        "name": "The Year 2000",
+        "url": "https://open.spotify.com/album/0nhMUUe0BUwd8YBj7aLkot"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 342826,
-      "name": "She's Only a Woman",
-      "url": "https://open.spotify.com/track/1iU8nEMGJxqCpvr6SCwJ2k"
+      "duration_ms": 271253,
+      "name": "You'll Never Know (All There Is to Know 'bout My Love)",
+      "url": "https://open.spotify.com/track/6sw1l9ehTdbqNbP6r5itmk"
     },
     {
       "added_at": null,

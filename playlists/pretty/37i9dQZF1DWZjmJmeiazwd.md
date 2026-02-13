@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,445 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,583 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 68 | [BETTER HELL \(Thicc boi\)](https://open.spotify.com/track/0ZTMohAj0uQlpRcl8a6SHD) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [AMERICAN MOTOR SPORTS](https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz) | 2:22 |
 | 69 | [Do Me Like That](https://open.spotify.com/track/1y6lq1wrAspWEgRJmYb11S) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [Do Me Like That](https://open.spotify.com/album/0K6JEVAdFzj7ZVT2raDeYr) | 3:31 |
 | 70 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 |
-| 71 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
-| 72 | [In The Dark](https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:43 |
+| 71 | [In The Dark](https://open.spotify.com/track/1ILnhyARReabVz7U2oDQMm) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Us And The Night](https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds) | 3:43 |
+| 72 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
 | 73 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 74 | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6) | 3:11 |
 | 75 | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 87 | [Trip Switch](https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:01 |
 | 88 | [HURT](https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:33 |
 | 89 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 |
-| 90 | [Panic Switch](https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Swoon](https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX) | 5:43 |
-| 91 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
+| 90 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
+| 91 | [Panic Switch](https://open.spotify.com/track/597i9UhHbW8hHgBUp8Tm54) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Swoon](https://open.spotify.com/album/0swOso9dwIp1PHmDP4dTbX) | 5:43 |
 | 92 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 |
 | 93 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |
 | 94 | [BRAVE NEW WORLD](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [BRAVE NEW WORLD](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 |

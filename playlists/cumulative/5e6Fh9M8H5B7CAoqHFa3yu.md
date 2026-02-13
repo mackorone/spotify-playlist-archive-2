@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,868 songs - 4 day 16 hr 6 min
+1,869 songs - 4 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [Coffee in New York](https://open.spotify.com/track/2kAgs1LUk4z7UCDFZ6GBrW) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in New York](https://open.spotify.com/album/5wolzIv4nc5hb4nMSK5HGR) | 3:46 | 2025-12-16 |  |
 | [Coffee in New York](https://open.spotify.com/track/7HL26Bgq1HHVNXbKYBb84m) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI WINTER](https://open.spotify.com/album/13s38xML9DeGXcV6IO6sGm) | 3:46 | 2025-12-19 |  |
 | [Coffee in Paris](https://open.spotify.com/track/5KBOOaSk2nLkRDVyMmnzJX) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Paris](https://open.spotify.com/album/2QcEM1UhlfoqpOPfr6IVbz) | 3:44 | 2025-11-18 |  |
+| [Coffee in Venezia](https://open.spotify.com/track/0pj7S6BPsduM2wwg2PrV1o) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coffee in Venezia](https://open.spotify.com/album/3Wtd0z5yOWzjv6pEsPg7PD) | 3:36 | 2026-02-13 |  |
 | [Cold July](https://open.spotify.com/track/3UpM9v9kJye45CaH8adawC) | [Tony Beacock](https://open.spotify.com/artist/3nn1P8bK20UW3vdMFXkUU3) | [Cold July](https://open.spotify.com/album/3x1OUbLuuhACUC88SYvhfZ) | 3:36 | 2024-04-09 |  |
 | [Colla](https://open.spotify.com/track/6h6uGVjqpNIKIcZrF5zWLH) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Colla](https://open.spotify.com/album/22LSKBghOMAEljd0HbPKOq) | 2:42 | 2024-06-10 |  |
 | [COLOR SPOTIFY](https://open.spotify.com/track/4MFOfKQLJ9NP5ksad3XPBd) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Dalmata](https://open.spotify.com/artist/3jGlU8UMMo44I2xeLQ6FD3) | [COLOR SPOTIFY](https://open.spotify.com/album/39Aop1tF4gQ97S8UoTu7LN) | 3:11 | 2025-10-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 
 > christmas always makes me cry
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,376 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,381 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX88mTcSM3nFc.md) - [plain]
 | 41 | [Whatever Happened To Christmas?](https://open.spotify.com/track/4fzMwQLxkY6qsimuyaDqed) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [The Jimmy Joyce Singers](https://open.spotify.com/artist/1M0wdYIdPlJz4Q0ZZjqdbt) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:06 |
 | 42 | [Silent Night, Holy Night](https://open.spotify.com/track/3TsoMWVVcbs1mKHBiW5aWz) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:13 |
 | 43 | [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 |
-| 44 | [The Coldest Night of the Year](https://open.spotify.com/track/4G1riMW9K3O9nI49UawBIX) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 3:34 |
-| 45 | [Christmas is The Only Time I'm Home](https://open.spotify.com/track/4JbwEU1apqYe1dXhThvjag) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Christmas is The Only Time I'm Home](https://open.spotify.com/album/1WuDKfHUB50Uz5bbv0Rn4Z) | 3:20 |
+| 44 | [Christmas is The Only Time I'm Home](https://open.spotify.com/track/4JbwEU1apqYe1dXhThvjag) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [Christmas is The Only Time I'm Home](https://open.spotify.com/album/1WuDKfHUB50Uz5bbv0Rn4Z) | 3:20 |
+| 45 | [The Coldest Night of the Year](https://open.spotify.com/track/4G1riMW9K3O9nI49UawBIX) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 3:34 |
 | 46 | [The Bells of St\. Mary's \- 45 Version](https://open.spotify.com/track/2W7S8BIesug04Wr1AdAalQ) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [White Christmas / The Bells of St\. Mary's](https://open.spotify.com/album/6zWKbjgZHIWILfd5qHCzpC) | 2:40 |
 | 47 | [It's Not Christmas](https://open.spotify.com/track/1WsG32qO3bVxXjcM3hu0iT) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [It's Not Christmas](https://open.spotify.com/album/0LBp8zWibJzzRXJfwQobTV) | 3:19 |
 | 48 | [Another Lonely Christmas](https://open.spotify.com/track/26F1nzp6tCtXsiDcBCfZcg) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ) | 4:53 |

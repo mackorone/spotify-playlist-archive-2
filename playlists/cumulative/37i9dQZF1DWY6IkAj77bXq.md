@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-303 songs - 14 hr 52 min
+305 songs - 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Space Within a Space](https://open.spotify.com/track/5SDQFvu8ltjkYlsZOxAOxM) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/7p6Ea9bHvmGuf5YD9WKMMp) | 3:11 | 2022-09-02 | 2024-04-19 |
 | [A Special Place](https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [A Special Place](https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB) | 2:26 | 2024-06-10 |  |
 | [Above All Else](https://open.spotify.com/track/70UplT5viFgy9Ul5GGXIvo) | [Sir Edmund](https://open.spotify.com/artist/6rkmVXhzb4urpPOUeEnqtH) | [Above All Else](https://open.spotify.com/album/2uvqVzVwjdETh4Ri15e55A) | 2:55 | 2024-04-04 | 2024-06-11 |
-| [Adrift](https://open.spotify.com/track/4oa2CP3x5ZTXAQdY7z1u4R) | [Fresh Inclinations](https://open.spotify.com/artist/0THmB0GAXHP7bJEB3XqT7c) | [Adrift](https://open.spotify.com/album/2P0rxtVZXCYUwrPPI92Rb8) | 2:43 | 2026-02-11 |  |
+| [Adrift](https://open.spotify.com/track/4oa2CP3x5ZTXAQdY7z1u4R) | [Fresh Inclinations](https://open.spotify.com/artist/0THmB0GAXHP7bJEB3XqT7c) | [Adrift](https://open.spotify.com/album/2P0rxtVZXCYUwrPPI92Rb8) | 2:43 | 2026-02-11 | 2026-02-13 |
 | [Aetheris](https://open.spotify.com/track/3qW4n7ZcKKdby0Hyp0tVma) | [Edge Of The Spiral](https://open.spotify.com/artist/71xo1rIlxbxkACPQgQpof8) | [Aetheris](https://open.spotify.com/album/2JDr7kXGdHPQQKgOdfGy6x) | 2:58 | 2024-06-10 |  |
 | [Afloat](https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ) | [Pristeen](https://open.spotify.com/artist/2JzmfMXbib68VSo6nL23qj) | [Afloat](https://open.spotify.com/album/0E3bx837dXHWeKisgwzpPx) | 2:19 | 2022-07-05 |  |
 | [Air Castle](https://open.spotify.com/track/6cLY5VyDhvPzM8dSKYfsNx) | [Sea Island](https://open.spotify.com/artist/2afQ9hxy9APHOBXi7NViRc) | [Air Castle](https://open.spotify.com/album/4ROOv2nn1kJrgX5mK2c1pJ) | 3:34 | 2023-10-04 | 2024-04-17 |
@@ -143,6 +143,7 @@
 | [Inertia](https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inertia](https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV) | 3:01 | 2022-07-05 | 2025-02-19 |
 | [Infinite Light](https://open.spotify.com/track/5EX3yrp5S1HEmfHgNjzvAS) | [Muted Horizon](https://open.spotify.com/artist/0CYMzDdl0zIA2exI09ncfs) | [Infinite Light](https://open.spotify.com/album/1VoZK1H2xdp1t2b69VkCi7) | 2:23 | 2026-02-11 |  |
 | [Interlock](https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Interlock](https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m) | 2:36 | 2025-01-14 |  |
+| [Ishi](https://open.spotify.com/track/1jO1y3fvH7ggpK7tFdr7BB) | [Slow Eye Movement](https://open.spotify.com/artist/2rPSJJgb2iDgkFUGY4NHoZ) | [Ishi](https://open.spotify.com/album/2XJfGbF75RMIQv39UnlwAH) | 2:14 | 2026-02-11 |  |
 | [ISSA](https://open.spotify.com/track/3uZlV3pqlDxBHQCU0SQZcJ) | [Sufi Pyramid](https://open.spotify.com/artist/2BDwcLfklVGge6inDPfPLa) | [Issa](https://open.spotify.com/album/2XdkAOiAQRIb8qGuCLp0bw) | 2:52 | 2025-02-18 |  |
 | [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 | 2023-01-13 |  |
 | [Leton](https://open.spotify.com/track/0ScsG7Cy4fpIrSM5ObU0gt) | [Pause Infinite](https://open.spotify.com/artist/4NTIPVymM4fpFJe8RfWb4h) | [Leton](https://open.spotify.com/album/0T1RigoWEdV8AtuqhH2PN4) | 3:09 | 2025-07-24 |  |
@@ -234,7 +235,7 @@
 | [Seclusion](https://open.spotify.com/track/2Y9VAYUD3sxilHgfGG3kwR) | [Solitudes](https://open.spotify.com/artist/0FGntfmb5IeEmKT9WUHgSX) | [Seclusion](https://open.spotify.com/album/0yFxdEoWf0rw9OuSrswun6) | 3:06 | 2025-09-30 |  |
 | [Semblance](https://open.spotify.com/track/0X1V9oX92DjDYkXPdyNopH) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/74qBAHu2yRLcVbCvwXqrvN) | 3:03 | 2022-07-19 | 2024-04-19 |
 | [Semblance](https://open.spotify.com/track/4p0HBAmru8viDonTn7meJM) | [Rubycon Sunset](https://open.spotify.com/artist/53Kclwe6UidHGosb0TqL9W) | [Semblance](https://open.spotify.com/album/4JIstsrl6fPr8CcgiItzwQ) | 3:03 | 2022-07-05 | 2022-07-29 |
-| [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 | 2022-07-05 |  |
+| [Seneca Rise](https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt) | [Sky Wishes](https://open.spotify.com/artist/7truXesPB3lxuCDpUwRqGh) | [Seneca Rise](https://open.spotify.com/album/3Qb9Ko4g5QhAwyDeBNVmuO) | 2:37 | 2022-07-05 | 2026-02-13 |
 | [Sense](https://open.spotify.com/track/6NRZxHpQhH1GRlD3GG8b60) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Sense](https://open.spotify.com/album/1Wq0MG7JIVZOzRRu9yaPFI) | 3:25 | 2025-02-18 |  |
 | [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 | 2024-06-10 | 2024-08-29 |
 | [Serenity](https://open.spotify.com/track/1V5NdSG3po303c2e1mwBfX) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Serenity](https://open.spotify.com/album/466IfOAoKcGtopPMuuLjq4) | 2:36 | 2022-07-05 | 2022-07-29 |
@@ -292,6 +293,7 @@
 | [Transcapes](https://open.spotify.com/track/7C3pUbqrdRAfY4SZ2jUyU5) | [Transformator](https://open.spotify.com/artist/5OkZS3lQjVTPo57alUdmHI) | [Transcapes](https://open.spotify.com/album/4Pt89Dbvuf4YvtxgupMYJo) | 3:19 | 2025-03-19 | 2026-02-12 |
 | [Transform](https://open.spotify.com/track/6LGdqj1nnjVA3gegINxdLb) | [Ceny Noes](https://open.spotify.com/artist/6TQdtIGUfXg24EXnIgndKS) | [Transform](https://open.spotify.com/album/2fv3MlIygs4mGaBqfp0PAM) | 2:42 | 2024-06-10 |  |
 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-14 | 2025-10-09 |
+| [tribeca](https://open.spotify.com/track/0Cax0UsNfZkWVEPImLDA5H) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [the city that ever sleeps](https://open.spotify.com/album/7deZQgdxXYZzvukmaOTZJ8) | 2:40 | 2026-02-11 |  |
 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 | 2022-07-19 | 2024-08-29 |
 | [Twilight Reverie](https://open.spotify.com/track/5vpOK7O8ELpzq3vezWNnvx) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Twilight Reverie](https://open.spotify.com/album/0roVoXtvT3baTG0aKGVSfD) | 2:52 | 2025-01-14 |  |
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2022-07-19 | 2024-12-12 |

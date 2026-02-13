@@ -1,12 +1,12 @@
 {
   "description": "This is PinkPantheress. The essential tracks, all in one playlist.",
-  "num_followers": 84825,
+  "num_followers": 84918,
   "original_name": "This Is PinkPantheress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAA4P4Py0VRQkN/ZTXn8wQUd",
+  "snapshot_id": "aYvGgAAAAABI/OKIaazrgp42Qc2zToOY",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "EUSEXUA Afterglow",
-        "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
+        "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
+        "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         },
         {
           "name": "PinkPantheress",
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Hyunjin",
+          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
         }
       ],
-      "duration_ms": 245826,
-      "name": "Wild And Alone (feat. PinkPantheress)",
-      "url": "https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT"
+      "duration_ms": 172151,
+      "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
+      "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
     },
     {
       "added_at": null,
@@ -415,26 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
-        "url": "https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns"
+        "name": "EUSEXUA Afterglow",
+        "url": "https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         },
         {
           "name": "PinkPantheress",
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Hyunjin",
-          "url": "https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg"
         }
       ],
-      "duration_ms": 172151,
-      "name": "Rush (feat. PinkPantheress & Hyunjin of Stray Kids)",
-      "url": "https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc"
+      "duration_ms": 245826,
+      "name": "Wild And Alone (feat. PinkPantheress)",
+      "url": "https://open.spotify.com/track/4AvachE4yZUjWBBub9t8aT"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        },
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 219749,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Melodic Blue (Deluxe)",
         "url": "https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 215679,
       "name": "killstreaks (with Don Toliver & PinkPantheress)",
       "url": "https://open.spotify.com/track/754hhnczVNu3ibRaoAcujX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 219749,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn"
     },
     {
       "added_at": null,

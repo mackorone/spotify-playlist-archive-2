@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-823 songs - 1 day 17 hr 1 min
+824 songs - 1 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [misunderstood](https://open.spotify.com/track/1E0IXWXtlqRjO46cfMXIRJ) | [yanvince](https://open.spotify.com/artist/5WAjBWhp1RaOUP7TxxvfOl) | [misunderstood](https://open.spotify.com/album/0NUdAPurIahjbvjmlAdk6K) | 2:09 | 2024-01-18 | 2024-08-28 |
 | [Models](https://open.spotify.com/track/7xUNCA7dezcwtlo7IOYgdC) | [Hush](https://open.spotify.com/artist/5yumQW70M7N3EeWFWV7fUZ) | [Models](https://open.spotify.com/album/3UW07KJKOcewzC2V6XIjfM) | 2:32 | 2024-09-05 |  |
 | [Moments](https://open.spotify.com/track/1sTKNKmcwHyE8Nxo2gNq77) | [Lost Identities](https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Moments](https://open.spotify.com/album/7IpkM4Q4T63J4C56pAFgQc) | 3:39 | 2022-04-14 | 2023-04-28 |
+| [money talks right](https://open.spotify.com/track/3ZZC2cg9dwlkZCFUc2dSia) | [AIM](https://open.spotify.com/artist/7FrkV4i4f3vpfIyLOTTeuk) | [money talks right](https://open.spotify.com/album/4Sr3JFrI3Vqfe3Vb0U5Wl7) | 2:07 | 2026-02-12 |  |
 | [MONTAGEM FAVELA](https://open.spotify.com/track/0hMmei0Cpl0nT46rxdBb46) | [CHASHKAKEFIRA](https://open.spotify.com/artist/4dZlYmIgngIVcPl2qw8qbd) | [MONTAGEM FAVELA](https://open.spotify.com/album/06cAtsno0kOvTwmxTUofyD) | 1:33 | 2025-08-22 |  |
 | [MONTAGEM INDIA](https://open.spotify.com/track/16matJ7CrtpN4idpsLjNHo) | [GxL](https://open.spotify.com/artist/6KnPKZlqBfzQvBu2eELF6S) | [MONTAGEM INDIA](https://open.spotify.com/album/185SSipe4ZC6gYLUNt66uj) | 1:43 | 2025-09-26 |  |
 | [Montagem Toma](https://open.spotify.com/track/1ukD6B5zhWdi7KM8ECFspS) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [SK3TCH01](https://open.spotify.com/artist/0NakXcxWSSLTMHvJsDWPVC), [X972](https://open.spotify.com/artist/0ShRIzN5hJDUBGPmn1rt50) | [Montagem Toma](https://open.spotify.com/album/2hYJXuu5zfVZqBmzwLBaJs) | 2:02 | 2025-05-09 |  |

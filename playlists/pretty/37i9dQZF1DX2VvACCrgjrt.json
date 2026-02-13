@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313808,
+  "num_followers": 1313806,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Make It Work",
+        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
+      },
+      "artists": [
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        },
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "duration_ms": 171380,
+      "name": "Make It Work",
+      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Temperature (Club Mix)",
         "url": "https://open.spotify.com/album/3WWC6D8L3H9bErbu0FMi5w"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 126461,
       "name": "Temperature - Club Mix",
       "url": "https://open.spotify.com/track/3UG51j7jDfdfKlErPRMXOT"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Make It Work",
-        "url": "https://open.spotify.com/album/7iFai9pwfc6Wwj5HYVzPNd"
-      },
-      "artists": [
-        {
-          "name": "bradeazy",
-          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
-        },
-        {
-          "name": "TyriqueOrDie",
-          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
-        }
-      ],
-      "duration_ms": 171380,
-      "name": "Make It Work",
-      "url": "https://open.spotify.com/track/0KPlbfJ7e8Beufds7pILpH"
     },
     {
       "added_at": "2026-02-06 05:00:42",
@@ -1183,30 +1183,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Night In Detroit (feat. Fedde Le Grand)",
-        "url": "https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1"
-      },
-      "artists": [
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 166356,
-      "name": "Night In Detroit (feat. Fedde Le Grand)",
-      "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "TWINKLE",
         "url": "https://open.spotify.com/album/1wlXyNg9Mf7SHt1PmirLvi"
       },
@@ -1231,22 +1207,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Grove St. Party",
-        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
+        "name": "Night In Detroit (feat. Fedde Le Grand)",
+        "url": "https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1"
       },
       "artists": [
         {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
         },
         {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
         }
       ],
-      "duration_ms": 170307,
-      "name": "Grove St. Party",
-      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
+      "duration_ms": 166356,
+      "name": "Night In Detroit (feat. Fedde Le Grand)",
+      "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1271,6 +1251,26 @@
       "duration_ms": 181384,
       "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
       "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Grove St. Party",
+        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Grove St. Party",
+      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Sound of da Police",
-        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Let Me Clear My Throat",
         "url": "https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 161818,
       "name": "Let Me Clear My Throat",
       "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Sound of da Police",
+        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1509,6 +1509,22 @@
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
     },
     {
+      "added_at": "2026-01-23 05:00:24",
+      "album": {
+        "name": "FSU",
+        "url": "https://open.spotify.com/album/2nVzwxjTzPSzq88pWTQhYH"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 149108,
+      "name": "FSU",
+      "url": "https://open.spotify.com/track/0G7agEIhrDyLxgznoS5WFX"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Count On You",
@@ -1527,22 +1543,6 @@
       "duration_ms": 165923,
       "name": "Count On You",
       "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
-    },
-    {
-      "added_at": "2026-01-23 05:00:24",
-      "album": {
-        "name": "FSU",
-        "url": "https://open.spotify.com/album/2nVzwxjTzPSzq88pWTQhYH"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 149108,
-      "name": "FSU",
-      "url": "https://open.spotify.com/track/0G7agEIhrDyLxgznoS5WFX"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1579,6 +1579,26 @@
       "duration_ms": 239090,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        }
+      ],
+      "duration_ms": 152288,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1623,26 +1643,6 @@
       "duration_ms": 198750,
       "name": "Rock My World",
       "url": "https://open.spotify.com/track/6JinlTBOcePrN15YuHLWMS"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "Sam Silver",
-          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
-        }
-      ],
-      "duration_ms": 152288,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
-        }
-      ],
-      "duration_ms": 184222,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Freedom (Body Ocean Remix)",
         "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
       },
@@ -1899,22 +1879,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 229384,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Aha",
         "url": "https://open.spotify.com/album/5dg5Ze2A0Qi0BhJEiAS2cs"
       },
@@ -1931,6 +1895,42 @@
       "duration_ms": 215538,
       "name": "Aha",
       "url": "https://open.spotify.com/track/7ylQkGefddsF4zTriGgv2A"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 229384,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5rQQ6nrZo1AH4HfmGkPq2b"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
+        }
+      ],
+      "duration_ms": 184222,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/6NvjxNJOvBMdAXwWVnPKuT"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Grind It",
         "url": "https://open.spotify.com/album/08uu6Hm0wKc8mJX95nwhu1"
       },
@@ -2003,6 +1983,26 @@
       "duration_ms": 185033,
       "name": "Grind It",
       "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/5PZzF9O1Q0dsrzixb6DGIu"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 110769,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/4UqHeg01SyTG6YiamDGKkT"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/0Tl1Z1wUWvOeiQs6iHH67L"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/7L3NYao37P4sjsxBRiADzg"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Bad Intentions",
         "url": "https://open.spotify.com/album/5tM3YeMKYKE8uoWG0QX6rR"
       },
@@ -2247,22 +2231,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Lemon",
-        "url": "https://open.spotify.com/album/7pqaYrRIKbZtbk7oJWFFUf"
-      },
-      "artists": [
-        {
-          "name": "MAD DAY",
-          "url": "https://open.spotify.com/artist/7JG77CHphAY01w2lKrvrTM"
-        }
-      ],
-      "duration_ms": 171555,
-      "name": "Lemon",
-      "url": "https://open.spotify.com/track/6fbFaegQxrCs5uPSXbBcK1"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Something To Believe In",
         "url": "https://open.spotify.com/album/2jNht2lxfGErHI0H4lC06A"
       },
@@ -2275,6 +2243,38 @@
       "duration_ms": 146953,
       "name": "Something To Believe In",
       "url": "https://open.spotify.com/track/5pQtpePzhRzuQ8Ip9F14xF"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/0Tl1Z1wUWvOeiQs6iHH67L"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/7L3NYao37P4sjsxBRiADzg"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Lemon",
+        "url": "https://open.spotify.com/album/7pqaYrRIKbZtbk7oJWFFUf"
+      },
+      "artists": [
+        {
+          "name": "MAD DAY",
+          "url": "https://open.spotify.com/artist/7JG77CHphAY01w2lKrvrTM"
+        }
+      ],
+      "duration_ms": 171555,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/6fbFaegQxrCs5uPSXbBcK1"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2315,26 +2315,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/52EN0D6nOBPH59oVgVyJcA"
-      },
-      "artists": [
-        {
-          "name": "Charmes",
-          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
-        },
-        {
-          "name": "ED_PRJCT",
-          "url": "https://open.spotify.com/artist/3pfE00p0ds0YdtRwWi4DtR"
-        }
-      ],
-      "duration_ms": 132972,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5C3wQskAg1yXseYUu5Wn8c"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/1rwPxia8PKK8uvUSaErJIj"
       },
@@ -2371,6 +2351,26 @@
       "duration_ms": 128695,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/7JjY69WrRWHtY09Wn9V1tv"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/52EN0D6nOBPH59oVgVyJcA"
+      },
+      "artists": [
+        {
+          "name": "Charmes",
+          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
+        },
+        {
+          "name": "ED_PRJCT",
+          "url": "https://open.spotify.com/artist/3pfE00p0ds0YdtRwWi4DtR"
+        }
+      ],
+      "duration_ms": 132972,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5C3wQskAg1yXseYUu5Wn8c"
     },
     {
       "added_at": "2026-01-09 16:39:37",

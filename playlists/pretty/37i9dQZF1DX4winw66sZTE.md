@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 
 > 2010년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,275 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,287 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 26 | [Up & Down](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [AH YEAH](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) | 3:09 |
 | 27 | [I GOT A BOY](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [I GOT A BOY \- The 4th Album](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) | 4:31 |
 | 28 | [HER](https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [HER](https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3) | 2:59 |
-| 29 | [Only One](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 3:37 |
-| 30 | [Sherlock \(Clue + Note\)](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Sherlock \- The 4th Mini Album](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) | 3:59 |
+| 29 | [Sherlock \(Clue + Note\)](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Sherlock \- The 4th Mini Album](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) | 3:59 |
+| 30 | [Only One](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 3:37 |
 | 31 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 |
 | 32 | [Gashina](https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [SUNMI SPECIAL EDITION \[Gashina\]](https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN) | 3:00 |
 | 33 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 83 | [Volume Up](https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Volume Up](https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT) | 3:50 |
 | 84 | [WEE WOO](https://open.spotify.com/track/23XXMK9SQBFwndnbgbcMPa) | [PRISTIN](https://open.spotify.com/artist/6VAphrHp0Oc88qg9BDaH9D) | [The 1st Mini Album 'HI! PRISTIN'](https://open.spotify.com/album/0LtwNMoaoYbJE8m3dT7XFe) | 3:12 |
 | 85 | [Love Ya](https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [Destination](https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC) | 3:25 |
-| 86 | [A](https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo) | [RAINBOW](https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y) | [A \(Digital Single\)](https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B) | 3:21 |
-| 87 | [Time And Fallen Leaves](https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Time And Fallen Leaves](https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC) | 4:07 |
+| 86 | [Time And Fallen Leaves](https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Time And Fallen Leaves](https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC) | 4:07 |
+| 87 | [A](https://open.spotify.com/track/3LII8A23VIs7pzudea2VSo) | [RAINBOW](https://open.spotify.com/artist/7xDyxRXgFgOZhdtLtkYR1y) | [A \(Digital Single\)](https://open.spotify.com/album/5NPfKzoi5vz4Z2gz3mS76B) | 3:21 |
 | 88 | [Shampoo](https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [VIRGIN](https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V) | 4:34 |
 | 89 | [Every End of the Day](https://open.spotify.com/track/5m2tbM2w8mG76uwFgla2iF) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 4:02 |
 | 90 | [Let's not fall in love \- KR Ver.](https://open.spotify.com/track/0oZT2aKB40fzyHzqcXE3H3) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE SERIES](https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE) | 3:32 |

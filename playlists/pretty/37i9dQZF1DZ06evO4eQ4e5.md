@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,995 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,012 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 10 | [Completamente Blindada](https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:41 |
 | 11 | [Por hablarle de ti](https://open.spotify.com/track/0wfi6FkCbLcp4FTGsDeIOs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:40 |
 | 12 | [Ese Beso](https://open.spotify.com/track/07hnXmPXyMeBHh3nT4PeQ0) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 4:09 |
-| 13 | [Cosas del Amor](https://open.spotify.com/track/0RQrkp624qMK7L6T9xnLsz) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amante de Lo Ajeno](https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ) | 4:05 |
-| 14 | [Entre ella y yo](https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 3:59 |
+| 13 | [Entre ella y yo](https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 3:59 |
+| 14 | [Cosas del Amor](https://open.spotify.com/track/0RQrkp624qMK7L6T9xnLsz) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amante de Lo Ajeno](https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ) | 4:05 |
 | 15 | [Acostúmbrame al cielo](https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:08 |
 | 16 | [Si Me Tenías](https://open.spotify.com/track/6vKrT4AyGYxpuXD3ZDZMf6) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:53 |
 | 17 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 49 | [Dígale](https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Pasiones de Cabaret](https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq) | 3:58 |
 | 50 | [Y Nos Dieron Las Diez](https://open.spotify.com/track/1JsxBaKdAavIvcbUrUISgG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Y Nos Dieron Las Diez](https://open.spotify.com/album/72Ln8Hf1BHgUunmZlWBsRM) | 5:14 |
 
-Snapshot ID: `aYp1AAAAAACRv6+SCbZAaVvCzpDv0VqX`
+Snapshot ID: `aYvGgAAAAABLB8jDZKIGxSFYudaDsHWC`

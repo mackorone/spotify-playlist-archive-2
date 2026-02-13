@@ -9643,6 +9643,24 @@
     },
     {
       "album": {
+        "name": "money talks right",
+        "url": "https://open.spotify.com/album/4Sr3JFrI3Vqfe3Vb0U5Wl7"
+      },
+      "artists": [
+        {
+          "name": "AIM",
+          "url": "https://open.spotify.com/artist/7FrkV4i4f3vpfIyLOTTeuk"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127077,
+      "name": "money talks right",
+      "url": "https://open.spotify.com/track/3ZZC2cg9dwlkZCFUc2dSia"
+    },
+    {
+      "album": {
         "name": "MONTAGEM FAVELA",
         "url": "https://open.spotify.com/album/06cAtsno0kOvTwmxTUofyD"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Cuddle up and relax with these country tunes.",
-  "num_followers": 132291,
+  "num_followers": 132384,
   "original_name": "Cozy Country",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-01-13 04:26:38",
       "album": {
-        "name": "Thinking Too Much",
-        "url": "https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1"
-      },
-      "artists": [
-        {
-          "name": "Joshua Slone",
-          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
-        }
-      ],
-      "duration_ms": 216727,
-      "name": "Your Place At My Place",
-      "url": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
-    },
-    {
-      "added_at": "2026-01-13 04:26:38",
-      "album": {
         "name": "Out of Oklahoma (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 208266,
       "name": "Out of Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q"
+    },
+    {
+      "added_at": "2026-01-13 04:26:38",
+      "album": {
+        "name": "Thinking Too Much",
+        "url": "https://open.spotify.com/album/0EfmgCn8nNDDvZY5v1b4N1"
+      },
+      "artists": [
+        {
+          "name": "Joshua Slone",
+          "url": "https://open.spotify.com/artist/2rkJFJhJwqL5ZKbPoFwFN9"
+        }
+      ],
+      "duration_ms": 216727,
+      "name": "Your Place At My Place",
+      "url": "https://open.spotify.com/track/2cMO1LFtsP2EBjWgG4JHZl"
     },
     {
       "added_at": "2026-01-13 04:26:38",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-01-13 04:26:38",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "American Honey",
-      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
-    },
-    {
-      "added_at": "2026-01-13 04:26:38",
-      "album": {
         "name": "Montevallo",
         "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 225693,
       "name": "Make You Miss Me",
       "url": "https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo"
+    },
+    {
+      "added_at": "2026-01-13 04:26:38",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "American Honey",
+      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
     },
     {
       "added_at": "2026-01-13 04:26:38",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-01-13 04:26:38",
       "album": {
+        "name": "Wildcard",
+        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Settling Down",
+      "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
+    },
+    {
+      "added_at": "2026-01-13 04:26:38",
+      "album": {
         "name": "How I Learned To Pray (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 270933,
       "name": "How I Learned To Pray (feat. Luke Combs)",
       "url": "https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI"
-    },
-    {
-      "added_at": "2026-01-13 04:26:38",
-      "album": {
-        "name": "Wildcard",
-        "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Settling Down",
-      "url": "https://open.spotify.com/track/53bZYxVbCYm6w1Gx8U64bz"
     },
     {
       "added_at": "2026-01-13 04:26:38",

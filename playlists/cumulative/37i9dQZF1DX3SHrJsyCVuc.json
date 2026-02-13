@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: Power Snatch",
+  "description": "A new world of alternative noise. Cover: Buzz Kull",
   "name": "Wire",
   "tracks": [
     {
@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "Baddies",
+        "url": "https://open.spotify.com/album/41qVMpAF8VKqxemEtDkSnV"
+      },
+      "artists": [
+        {
+          "name": "Hektor",
+          "url": "https://open.spotify.com/artist/6TkIRova0MUAByYUBmbVnd"
+        },
+        {
+          "name": "Teether",
+          "url": "https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163979,
+      "name": "Baddies",
+      "url": "https://open.spotify.com/track/3UoZLsDz4FjfciCCJQtjhq"
+    },
+    {
+      "album": {
         "name": "Beat To Beat",
         "url": "https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi"
       },
@@ -146,10 +168,28 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 199013,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/69L556M1aoKnPLoI3LcmaD"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Buzz Kull",
+          "url": "https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272307,
+      "name": "Black Gate",
+      "url": "https://open.spotify.com/track/7t3wS6VktZqPhMWdTG9Wot"
     },
     {
       "album": {
@@ -294,7 +334,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 112750,
       "name": "Claires Whip",
       "url": "https://open.spotify.com/track/2KiXoQzagdrDIjAlgfqM2t"
@@ -514,7 +554,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 185060,
       "name": "Dream Bigger",
       "url": "https://open.spotify.com/track/6ubLkNovtzOSFKvG9e02pE"
@@ -836,7 +876,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 115120,
       "name": "Head In A Toaster",
       "url": "https://open.spotify.com/track/3imsIC8F4wV3AX7oIoIkCE"
@@ -1085,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Online 24/7",
+        "url": "https://open.spotify.com/album/4pM8ZYGcD67g5dQ2CXJhnC"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Lapdog",
+      "url": "https://open.spotify.com/track/3519Kdoa7IqSOjDTKPdWTJ"
+    },
+    {
+      "album": {
         "name": "Liars Tale",
         "url": "https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe"
       },
@@ -1276,7 +1334,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 345994,
       "name": "nuclear",
       "url": "https://open.spotify.com/track/3sS5EHvZrM7XqTRh3wdxRx"
@@ -1633,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Greetings from Itchy and the Nits",
+        "url": "https://open.spotify.com/album/0zgz2F5kH668aSUvdI4rfY"
+      },
+      "artists": [
+        {
+          "name": "Itchy and the Nits",
+          "url": "https://open.spotify.com/artist/2HaxruhERCGJpz57qqjk8h"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95937,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/7LN2eS7gyXt1MenkXRlqAF"
+    },
+    {
+      "album": {
         "name": "Shiver",
         "url": "https://open.spotify.com/album/2YzSbPtiRvuUf6CogAbNcE"
       },
@@ -1835,6 +1911,28 @@
     },
     {
       "album": {
+        "name": "Step On It",
+        "url": "https://open.spotify.com/album/7uOg6W8mC5lB7LSRaMdEHV"
+      },
+      "artists": [
+        {
+          "name": "Sleep D",
+          "url": "https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc"
+        },
+        {
+          "name": "Posseshot",
+          "url": "https://open.spotify.com/artist/1iMp6xzgbWnO15izaVC7QU"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Step On It",
+      "url": "https://open.spotify.com/track/0DW31s848ybq7FMG8szgCq"
+    },
+    {
+      "album": {
         "name": "The Lord Is My German Shepherd (Time for Walkies)",
         "url": "https://open.spotify.com/album/4y9KRNv8lpiQHJjUMh8923"
       },
@@ -1900,7 +1998,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 183818,
       "name": "The Cigs, The Light, The Coffee And Crying",
       "url": "https://open.spotify.com/track/0cAxXnkhieGaVWJvMByqXM"
@@ -2016,6 +2114,24 @@
       "duration_ms": 131312,
       "name": "Today Might Be The Hit",
       "url": "https://open.spotify.com/track/0vlHDBj2OpXqPCllTJNOLt"
+    },
+    {
+      "album": {
+        "name": "Tongue",
+        "url": "https://open.spotify.com/album/577XDhAIhJ0K2KCZDJTNUf"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148072,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh"
     },
     {
       "album": {

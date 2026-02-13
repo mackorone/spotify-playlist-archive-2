@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: Ruger",
+  "description": "Afrobeats' hottest singles. Cover: Lekaa, ODUMODUBLVCK & Omah Lay",
   "name": "Gbedu",
   "tracks": [
     {
@@ -538,6 +538,32 @@
       "duration_ms": 189015,
       "name": "American Love",
       "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
+    },
+    {
+      "album": {
+        "name": "ANGELS",
+        "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
+      },
+      "artists": [
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184437,
+      "name": "ANGELS",
+      "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
     },
     {
       "album": {
@@ -2530,7 +2556,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 136707,
       "name": "Coco Money",
       "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
@@ -4350,7 +4376,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 159339,
       "name": "Fi Kan We Kan",
       "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
@@ -4788,7 +4814,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 123528,
       "name": "FUJI PARTY",
       "url": "https://open.spotify.com/track/6YOByn9plxYPTA6oeLlRkb"
@@ -8193,6 +8219,24 @@
     },
     {
       "album": {
+        "name": "My B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/6cfApR6fX0ptSf8UjikmAn"
+      },
+      "artists": [
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143288,
+      "name": "My B\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/1M4hppqYK76xSSI7qdNCkr"
+    },
+    {
+      "album": {
         "name": "My Darling",
         "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
       },
@@ -10858,7 +10902,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 131434,
       "name": "SORRY IM NOT SORRY",
       "url": "https://open.spotify.com/track/4pLRyM0kyB3neTK4O9s1dj"
@@ -11355,6 +11399,24 @@
     },
     {
       "album": {
+        "name": "They Love Me",
+        "url": "https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134482,
+      "name": "They Love Me",
+      "url": "https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo"
+    },
+    {
+      "album": {
         "name": "Continental Playlist",
         "url": "https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ"
       },
@@ -11534,6 +11596,36 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "album": {
+        "name": "TRU$T FUND",
+        "url": "https://open.spotify.com/album/2IjvgyB9qg2znW2mX1JdNJ"
+      },
+      "artists": [
+        {
+          "name": "Siraheem",
+          "url": "https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Yosa",
+          "url": "https://open.spotify.com/artist/4uOFhVdn1lnzqIe0H6MlVE"
+        },
+        {
+          "name": "Big Fish",
+          "url": "https://open.spotify.com/artist/0KFRHkm4VoT1gpAjSUdzQa"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187118,
+      "name": "TRU$T FUND",
+      "url": "https://open.spotify.com/track/7fUD6s55nUdOWo4l7IzoFR"
     },
     {
       "album": {
@@ -12480,6 +12572,24 @@
       "duration_ms": 247680,
       "name": "Won Da Mo",
       "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"
+    },
+    {
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/3tG3Pg5zbGNPY2qfI95Q2a"
+      },
+      "artists": [
+        {
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/3PSZE9dc3ZbYyqLAUcZYMZ"
     },
     {
       "album": {

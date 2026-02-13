@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 12888,
+  "num_followers": 12923,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAACB3FLSI4DBR1AoZi0/wWn/",
+  "snapshot_id": "aYvGgAAAAAA7Ss16HE+oLUt412QsmjTv",
   "tracks": [
     {
       "added_at": null,
@@ -55,38 +55,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set Ajc 2",
-        "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        },
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        }
-      ],
-      "duration_ms": 265234,
-      "name": "Set Ajc 2",
-      "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE BOX MEDLEY 12",
         "url": "https://open.spotify.com/album/1UAvKSK9Mc7Euv0HwVej1C"
       },
@@ -131,6 +99,38 @@
       "duration_ms": 352951,
       "name": "THE BOX MEDLEY 12",
       "url": "https://open.spotify.com/track/6TmtNB90rBnhIiJeJuEyWu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set Ajc 2",
+        "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        },
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        }
+      ],
+      "duration_ms": 265234,
+      "name": "Set Ajc 2",
+      "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
     },
     {
       "added_at": null,
@@ -443,6 +443,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ai Caralh*",
+        "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
+      },
+      "artists": [
+        {
+          "name": "RalphTheKiD",
+          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Ai Caralh*",
+      "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eh Noiz Ki T\u00e1",
         "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
       },
@@ -467,30 +491,6 @@
       "duration_ms": 186273,
       "name": "Cifr\u00e3o",
       "url": "https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ai Caralh*",
-        "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
-      },
-      "artists": [
-        {
-          "name": "RalphTheKiD",
-          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Ai Caralh*",
-      "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 50104,
+  "num_followers": 50113,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAACd4v5yihh8oEujxF49C4h7",
+  "snapshot_id": "aYvGgAAAAADUhhS3nwJ/zwnfrkfwb+5O",
   "tracks": [
     {
       "added_at": null,
@@ -275,26 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como En El Cielo",
-        "url": "https://open.spotify.com/album/6dzlpvKqnZXn0h6SeLVPeL"
+        "name": "Esto Es Un Avivamiento",
+        "url": "https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
         }
       ],
-      "duration_ms": 439786,
-      "name": "Como En El Cielo",
-      "url": "https://open.spotify.com/track/64kR3pwhqotPAFIP1IVMFz"
+      "duration_ms": 345744,
+      "name": "Dios Conmigo Est\u00e1s",
+      "url": "https://open.spotify.com/track/03RTnmDblfMVZReedzgVXZ"
     },
     {
       "added_at": null,
@@ -315,18 +307,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esto Es Un Avivamiento",
-        "url": "https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL"
+        "name": "Como En El Cielo",
+        "url": "https://open.spotify.com/album/6dzlpvKqnZXn0h6SeLVPeL"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
         }
       ],
-      "duration_ms": 345744,
-      "name": "Dios Conmigo Est\u00e1s",
-      "url": "https://open.spotify.com/track/03RTnmDblfMVZReedzgVXZ"
+      "duration_ms": 439786,
+      "name": "Como En El Cielo",
+      "url": "https://open.spotify.com/track/64kR3pwhqotPAFIP1IVMFz"
     },
     {
       "added_at": null,

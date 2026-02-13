@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 
 > Here's to the groom! Enjoy your day with the boys!
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,405 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,433 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pto11EMGQc.md) - [plain]
 | 45 | [One Right Now \(with The Weeknd\)](https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [One Right Now](https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH) | 3:13 |
 | 46 | [D.A.N.C.E.](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
 | 47 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6) | 3:50 |
-| 48 | [Blame It](https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Intuition](https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f) | 4:49 |
-| 49 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
-| 50 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
+| 48 | [broken](https://open.spotify.com/track/6XcfKZvJio9Z0fQy11GnNX) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [finding it hard to smile](https://open.spotify.com/album/2AbPwLvpR0FwpqGt4ZY1q4) | 3:24 |
+| 49 | [Blame It](https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Intuition](https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f) | 4:49 |
+| 50 | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SG \(with Ozuna, Megan Thee Stallion & LISA of BLACKPINK\)](https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M) | 3:45 |
 
 Snapshot ID: `AAAAAFfBUWv0uMtpPJ5dWc2IFDBgktKR`

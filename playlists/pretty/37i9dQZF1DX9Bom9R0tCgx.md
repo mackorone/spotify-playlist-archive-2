@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,282 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,378 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 35 | [This Is The Life](https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [This Is The Life](https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp) | 2:11 |
 | 36 | [Satisfaction \- Hardwell & Maddix Remix](https://open.spotify.com/track/6L5xbckRDXIf5K1pwTaGkD) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Satisfaction \(Hardwell & Maddix Remix\)](https://open.spotify.com/album/417ZcOYyUtIXFpjygXHKSX) | 3:24 |
 | 37 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 |
-| 38 | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm) | 2:13 |
+| 38 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Greg Taro](https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 |
 | 39 | [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 |
-| 40 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Greg Taro](https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 |
+| 40 | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [OIIA OIIA \(Spinning Cat\)](https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm) | 2:13 |
 | 41 | [Turn On The Lights again.\. \(feat\. Future & Fred again..\) \- Anyma Remix](https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Turn On The Lights again.\. \(feat\. Future & Fred again..\) \[Remixes\]](https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx) | 4:13 |
 | 42 | [My Beat Goes](https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [My Beat Goes](https://open.spotify.com/album/7uAqY6dfLfP1IztL4x44QB) | 3:46 |
 | 43 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 96 | [Kisses \(feat\. bbyclose\) \- BOVSKI Remix](https://open.spotify.com/track/3V71EUC3c4kGv0CvQyOgf7) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH), [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Kisses \(feat\. bbyclose\) \[BOVSKI Remix\]](https://open.spotify.com/album/4eQj8eVrp2FVkHKBnb72Fu) | 2:10 |
 | 97 | [2 LOUD](https://open.spotify.com/track/6kxx5snJ8o2MG9FuCJuGAQ) | [BYORN](https://open.spotify.com/artist/6PNduxfJ9CVW1bVXUR16AD) | [2 LOUD](https://open.spotify.com/album/1533UIDsnAOCIqXEXgtdM9) | 5:03 |
 | 98 | [Hey Ya](https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI) | [Hey Ya](https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF) | 2:14 |
-| 99 | [Late At Night](https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Late At Night](https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG) | 2:36 |
-| 100 | [Bottle of Bubbly](https://open.spotify.com/track/2lGZi6aHCxMBgDubEPst1C) | [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [Bottle of Bubbly](https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV) | 2:23 |
+| 99 | [Bottle of Bubbly](https://open.spotify.com/track/2lGZi6aHCxMBgDubEPst1C) | [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [Bottle of Bubbly](https://open.spotify.com/album/5OuijjUhxEXdaWjZNg7fZV) | 2:23 |
+| 100 | [Late At Night](https://open.spotify.com/track/0sc94v4bi5XGSPSjjXK0Zh) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Late At Night](https://open.spotify.com/album/0QlZatFyE1W9Mo9p1fMzfG) | 2:36 |
 
 Snapshot ID: `AAAAACtE5p/wGl4I0K1D7IFcVIPF5UDd`

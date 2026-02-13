@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 289559,
       "name": "Algo parecido a un sue\u00f1o",
       "url": "https://open.spotify.com/track/0NwaukBazxzWN6X5Pjqo3z"
@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 223240,
       "name": "Cuando Brille el Sol",
       "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
@@ -5125,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "Esa Sombra y Yo",
+        "url": "https://open.spotify.com/album/2I5k0s9GlUAkZPwjI7FZmP"
+      },
+      "artists": [
+        {
+          "name": "Whisky Caravan",
+          "url": "https://open.spotify.com/artist/2sNzYvtWH9mUVsYTiMi4Dz"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278564,
+      "name": "Esa Sombra y Yo",
+      "url": "https://open.spotify.com/track/6mPye8qP0R9EUKiU3zktOv"
+    },
+    {
+      "album": {
         "name": "Escenario de guerra",
         "url": "https://open.spotify.com/album/6LLStWRHuz6ET5y38AzfTU"
       },
@@ -5220,6 +5238,24 @@
       "duration_ms": 214553,
       "name": "Eso Que T\u00fa Me Das",
       "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
+    },
+    {
+      "album": {
+        "name": "Especie en extinci\u00f3n",
+        "url": "https://open.spotify.com/album/1UOINYqe6iPGwkBVcJSZkf"
+      },
+      "artists": [
+        {
+          "name": "Nat Simons",
+          "url": "https://open.spotify.com/artist/6iabh4Ty1lWNv3FLST7Dhn"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250001,
+      "name": "Especie en extinci\u00f3n",
+      "url": "https://open.spotify.com/track/5FQFqSwJLdFZpdte4Mh08y"
     },
     {
       "album": {
@@ -8656,7 +8692,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 230434,
       "name": "Mar sin fondo",
       "url": "https://open.spotify.com/track/0Hu3LEEuyI2yciMzdgL9MV"
@@ -9941,6 +9977,28 @@
     },
     {
       "album": {
+        "name": "No Volver\u00e1 a Pasarnos Nada",
+        "url": "https://open.spotify.com/album/68dDWBMprKkGvXbe87jmKO"
+      },
+      "artists": [
+        {
+          "name": "Bo-Bo",
+          "url": "https://open.spotify.com/artist/0Vgy22BLANHhK4IXt52xEB"
+        },
+        {
+          "name": "Vega",
+          "url": "https://open.spotify.com/artist/3G7gQpRgUyeuiLryLx3x3E"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216183,
+      "name": "No Volver\u00e1 a Pasarnos Nada",
+      "url": "https://open.spotify.com/track/7gUj8cEw0W1RHR3LFu2iRE"
+    },
+    {
+      "album": {
         "name": "Noche Oscura (feat. Leiva)",
         "url": "https://open.spotify.com/album/1jPnCEyNgE8SSiSZn3qq5b"
       },
@@ -10228,7 +10286,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 118464,
       "name": "Oye c\u00f3mo vienes",
       "url": "https://open.spotify.com/track/7jZG4leIK2Y1mJJWh4NG4k"
@@ -11782,7 +11840,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 190013,
       "name": "Salta!!!",
       "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"

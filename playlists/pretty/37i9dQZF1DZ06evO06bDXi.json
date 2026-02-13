@@ -1,12 +1,12 @@
 {
   "description": "This is Itzhak Perlman. The essential tracks, all in one playlist.",
-  "num_followers": 14734,
+  "num_followers": 14735,
   "original_name": "This Is Itzhak Perlman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAClYKcalpg2qLc9oR+fqRBi",
+  "snapshot_id": "aYvGgAAAAAAYbnKriGqbRqwJPXlv+h6L",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Works for Two Violins",
-        "url": "https://open.spotify.com/album/1Lto5L6zlWOy0neXJ2y1nG"
-      },
-      "artists": [
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 140626,
-      "name": "3 Violin Duets (1996 Digital Remaster): I. Praeludium",
-      "url": "https://open.spotify.com/track/3gzBQYifQ6i1NYnE7oaHZp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kreisler: Collection",
         "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 194000,
       "name": "Liebesleid",
       "url": "https://open.spotify.com/track/02Tn72DTvZNFJmstTQmJ2D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Works for Two Violins",
+        "url": "https://open.spotify.com/album/1Lto5L6zlWOy0neXJ2y1nG"
+      },
+      "artists": [
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 140626,
+      "name": "3 Violin Duets (1996 Digital Remaster): I. Praeludium",
+      "url": "https://open.spotify.com/track/3gzBQYifQ6i1NYnE7oaHZp"
     },
     {
       "added_at": null,
@@ -515,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kreisler: Collection",
+        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
+      },
+      "artists": [
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        }
+      ],
+      "duration_ms": 872840,
+      "name": "The Devil's Trill",
+      "url": "https://open.spotify.com/track/6b6EmPElw09fWyaY7yzo5N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Concertos from My Childhood",
         "url": "https://open.spotify.com/album/5pDLWs5OL20lr6ZolUd7F7"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 177560,
       "name": "Rieding: Violin Concerto in B Minor, Op. 35: I. Allegro moderato",
       "url": "https://open.spotify.com/track/7i2l3STMDXzO0ethxPBl9v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kreisler: Collection",
-        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
-      },
-      "artists": [
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
-        }
-      ],
-      "duration_ms": 872840,
-      "name": "The Devil's Trill",
-      "url": "https://open.spotify.com/track/6b6EmPElw09fWyaY7yzo5N"
     },
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kreisler: Collection",
+        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 318973,
+      "name": "Prelude and Allegro in the style of Pugnani",
+      "url": "https://open.spotify.com/track/6xRMRhHfCurZcsEudMb7RR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paganini: Violin Concerto No.1 / Sarasate: Carmen Fantasy etc.",
         "url": "https://open.spotify.com/album/2TuE4bck8GYdiXPAiGWTYh"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 517706,
       "name": "Sarasate: Zigeunerweisen, Op. 20",
       "url": "https://open.spotify.com/track/1Owa3Ic2vpcfRCLSqa73NZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kreisler: Collection",
-        "url": "https://open.spotify.com/album/5LLps8LVGR9gHENyAC7izk"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        }
-      ],
-      "duration_ms": 318973,
-      "name": "Prelude and Allegro in the style of Pugnani",
-      "url": "https://open.spotify.com/track/6xRMRhHfCurZcsEudMb7RR"
     },
     {
       "added_at": null,
@@ -707,30 +707,6 @@
       "duration_ms": 946800,
       "name": "Bach, JS: Partita for Solo Violin No. 2 in D Minor, BWV 1004: V. Chaconne",
       "url": "https://open.spotify.com/track/5Z1kjTgKJVWvEizpZc3G1S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Violin Encores: Perlman",
-        "url": "https://open.spotify.com/album/368EVvS5OcWyMzAn2GoB78"
-      },
-      "artists": [
-        {
-          "name": "Edward Elgar",
-          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Samuel Sanders",
-          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "Elgar: Salut d'amour, Op. 12",
-      "url": "https://open.spotify.com/track/4JvFH3QMshVwlRQNpJSrjD"
     },
     {
       "added_at": null,
@@ -839,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perlman & Zukerman - Duets for Two Violins",
-        "url": "https://open.spotify.com/album/4qMcYpaFtGRff8fmqVD4qf"
-      },
-      "artists": [
-        {
-          "name": "Johan Halvorsen",
-          "url": "https://open.spotify.com/artist/5BGmPOD1iAQ3YCivnaoXhs"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        }
-      ],
-      "duration_ms": 416733,
-      "name": "Halvorsen: Passacaglia (After Handel's Keyboard Suite, HWV 432)",
-      "url": "https://open.spotify.com/track/3m8Zy0Tw6Fl1RoWZLCnZT7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "John Williams - Greatest Hits 1969-1999",
         "url": "https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF"
       },
@@ -883,6 +835,54 @@
       "duration_ms": 211760,
       "name": "Main Theme (From \"Schindler's List\")",
       "url": "https://open.spotify.com/track/0oyL4K4fDTEFUbD9AHSvDc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Violin Encores: Perlman",
+        "url": "https://open.spotify.com/album/368EVvS5OcWyMzAn2GoB78"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Samuel Sanders",
+          "url": "https://open.spotify.com/artist/1n8c6hHrMJPPnM99Ih1vqH"
+        }
+      ],
+      "duration_ms": 167120,
+      "name": "Elgar: Salut d'amour, Op. 12",
+      "url": "https://open.spotify.com/track/4JvFH3QMshVwlRQNpJSrjD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perlman & Zukerman - Duets for Two Violins",
+        "url": "https://open.spotify.com/album/4qMcYpaFtGRff8fmqVD4qf"
+      },
+      "artists": [
+        {
+          "name": "Johan Halvorsen",
+          "url": "https://open.spotify.com/artist/5BGmPOD1iAQ3YCivnaoXhs"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        }
+      ],
+      "duration_ms": 416733,
+      "name": "Halvorsen: Passacaglia (After Handel's Keyboard Suite, HWV 432)",
+      "url": "https://open.spotify.com/track/3m8Zy0Tw6Fl1RoWZLCnZT7"
     },
     {
       "added_at": null,
@@ -959,6 +959,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Remembrances",
+      "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brahms: Violin Concerto, Op. 77",
         "url": "https://open.spotify.com/album/0zXYmGACZoy8QU6YpwpnDL"
       },
@@ -983,30 +1007,6 @@
       "duration_ms": 608746,
       "name": "Brahms: Violin Concerto in D Major, Op. 77: II. Adagio",
       "url": "https://open.spotify.com/track/62BQmHEIHw9fBqB4jB7Jvk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Remembrances",
-      "url": "https://open.spotify.com/track/3IJsTYStxrxhtgHeQJ9cmo"
     },
     {
       "added_at": null,
@@ -1163,6 +1163,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memoirs of a Geisha (Remastered)",
+        "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "duration_ms": 292133,
+      "name": "Becoming a Geisha (From \"Memoirs of a Geisha\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1v8mEfH69e1ib1DD9Yp1X9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bach: Solo Violin Sonatas",
         "url": "https://open.spotify.com/album/0knRC3vjeWfuxfQ2EHlKEj"
       },
@@ -1211,34 +1235,6 @@
       "duration_ms": 240466,
       "name": "Bach, JS: Concerto for Two Violins in D Minor, BWV 1043: I. Vivace",
       "url": "https://open.spotify.com/track/4UPdXvBV6gJid5N1aVB4wJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Concertos from My Childhood",
-        "url": "https://open.spotify.com/album/5pDLWs5OL20lr6ZolUd7F7"
-      },
-      "artists": [
-        {
-          "name": "Oskar Rieding",
-          "url": "https://open.spotify.com/artist/3CIecSd967uqzr6ZmU3Aix"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Lawrence Foster",
-          "url": "https://open.spotify.com/artist/0k8Ugg3yjlhOAEikLmXyUx"
-        },
-        {
-          "name": "The Juilliard Orchestra",
-          "url": "https://open.spotify.com/artist/2lFCJJ5o58ZfKmASMIqbrQ"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Rieding: Violin Concerto in B Minor, Op. 35: III. Allegro moderato",
-      "url": "https://open.spotify.com/track/7rRdxmennBB1z4dgv8k518"
     }
   ],
   "unique_name": "This Is Itzhak Perlman",

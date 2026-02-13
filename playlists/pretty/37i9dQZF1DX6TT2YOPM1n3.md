@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Apne mulk ki homegrown hits 🎶 Cover: HAVI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,039 likes - 71 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,170 likes - 71 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

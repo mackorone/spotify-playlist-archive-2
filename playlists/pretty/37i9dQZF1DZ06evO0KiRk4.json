@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 578700,
+  "num_followers": 578774,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADjZjWLM8qRPq+iiABlDsbP",
+  "snapshot_id": "aYvGgAAAAADj3SE4UBWLsj5h31BC2sv8",
   "tracks": [
     {
       "added_at": null,
@@ -95,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Shake It Out",
+      "url": "https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 215463,
       "name": "Florida!!! (feat. Florence + The Machine)",
       "url": "https://open.spotify.com/track/5ExOm0dh4NyRyAdSAO9hyM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Shake It Out",
-      "url": "https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P"
     },
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 270973,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/3HNTLCpAGnizbyJmk7466r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ceremonials",
         "url": "https://open.spotify.com/album/3JODIzr9NLL7CMojdUR70g"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 218190,
       "name": "Spectrum (Say My Name) - Calvin Harris Remix",
       "url": "https://open.spotify.com/track/57yeWyaoeTt26p0dlEZukQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 270973,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/3HNTLCpAGnizbyJmk7466r"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 124240,
-      "name": "Kiss With A Fist",
-      "url": "https://open.spotify.com/track/0qnzHn8plo9r10x69uFJYS"
+      "duration_ms": 214053,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/30JSP0mpT8DQNHjs6v8Z4P"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 164566,
-      "name": "The Bomb",
-      "url": "https://open.spotify.com/track/6QAztdj5jtr41PL56WcgvP"
+      "duration_ms": 214046,
+      "name": "Daffodil",
+      "url": "https://open.spotify.com/track/3EIgAuegl9y3MKfYyNb8jS"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 214053,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/30JSP0mpT8DQNHjs6v8Z4P"
+      "duration_ms": 124240,
+      "name": "Kiss With A Fist",
+      "url": "https://open.spotify.com/track/0qnzHn8plo9r10x69uFJYS"
     },
     {
       "added_at": null,

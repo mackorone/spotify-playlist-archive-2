@@ -4,7 +4,7 @@
 
 > This is Ludmila Ferber\. The essential tracks, all in one playlist.
 
-107 songs - 9 hr 29 min
+108 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,8 +36,9 @@
 | [Dá\-me Ouvidos](https://open.spotify.com/track/23o46vvYcaJLGQomYj24c0) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 5:19 | 2023-12-29 | 2024-03-04 |
 | [Eternidade](https://open.spotify.com/track/1XiXFNCqyLp0MsAMlDTSKP) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/1SyVKsctBug4pqOmi3DLX3) | 5:48 | 2025-12-27 |  |
 | [Eternidade](https://open.spotify.com/track/7G7GFWn2PvDH6ZEsvC1WiJ) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 5:48 | 2025-08-04 | 2025-12-27 |
-| [Eu Dependo de Deus](https://open.spotify.com/track/0T8TrNQozKqTCOUo7jm1IF) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY) | 5:01 | 2025-12-31 |  |
+| [Eu Dependo de Deus](https://open.spotify.com/track/0T8TrNQozKqTCOUo7jm1IF) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY) | 5:01 | 2025-12-31 | 2026-02-13 |
 | [Eu Dependo de Deus](https://open.spotify.com/track/59FRWW5q8A8zeWo5TDfHSb) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX) | 5:01 | 2023-07-09 | 2025-12-31 |
+| [Eu Te Escolhi](https://open.spotify.com/track/0TVF09DAnLoBV71xzefJqI) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [O Poder de Aliança](https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS) | 8:16 | 2026-02-13 |  |
 | [Eu Vou Vencer](https://open.spotify.com/track/41o38M2qihgQQChyMQf1mq) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pra Me Alegrar](https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l) | 4:41 | 2023-07-09 | 2025-12-30 |
 | [Eu Vou Vencer](https://open.spotify.com/track/4WCkty1DTZuLaxBCL5akUQ) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pra Me Alegrar](https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1) | 4:41 | 2025-12-31 | 2026-01-30 |
 | [Fala Comigo](https://open.spotify.com/track/0muW7QDLTKANNZunJUR3j1) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 4 \- 24h por Dia](https://open.spotify.com/album/1gP3FjsU4I5ebZsHmdC9rA) | 4:41 | 2023-07-09 | 2024-03-20 |

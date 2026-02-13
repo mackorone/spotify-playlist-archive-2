@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1581797,
+  "num_followers": 1581688,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "vorsatz",
-        "url": "https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr"
-      },
-      "artists": [
-        {
-          "name": "Revelle",
-          "url": "https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA"
-        },
-        {
-          "name": "OSWALD",
-          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
-        }
-      ],
-      "duration_ms": 157129,
-      "name": "vorsatz",
-      "url": "https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/75Drjfbnb1hpElXpXy0MEZ"
       },
@@ -1375,6 +1355,26 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "vorsatz",
+        "url": "https://open.spotify.com/album/78dmZeptQFkKm6WTSQ9bkr"
+      },
+      "artists": [
+        {
+          "name": "Revelle",
+          "url": "https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA"
+        },
+        {
+          "name": "OSWALD",
+          "url": "https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB"
+        }
+      ],
+      "duration_ms": 157129,
+      "name": "vorsatz",
+      "url": "https://open.spotify.com/track/3cqnYYfKRdtfk8SOxG3YTH"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "Helele",
         "url": "https://open.spotify.com/album/57OkXxBnv09LuYBJ1f14de"
       },
@@ -1395,18 +1395,26 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+        "name": "Rude Boi",
+        "url": "https://open.spotify.com/album/4QhOiWhPeXjjhS3kSOwMrB"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Rony Seikaly",
+          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
+        },
+        {
+          "name": "Lou Combo",
+          "url": "https://open.spotify.com/artist/1kkNVQF0LOEnXqKPO0ltVX"
+        },
+        {
+          "name": "Erin Kimberly",
+          "url": "https://open.spotify.com/artist/2ramOs79MnYC9oLFy3e3oe"
         }
       ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+      "duration_ms": 215409,
+      "name": "Rude Boi",
+      "url": "https://open.spotify.com/track/6RhszueRE6SiDnXkv3i88r"
     },
     {
       "added_at": "2025-08-29 06:03:40",

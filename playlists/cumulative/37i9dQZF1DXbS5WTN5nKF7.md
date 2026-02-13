@@ -2,9 +2,9 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits avec Bruno Mars !
+> Le meilleur des hits avec David Guetta, Teddy Swims & Tones And I !
 
-445 songs - 23 hr 6 min
+446 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 | 2024-10-03 | 2025-05-09 |
 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 | 2024-10-15 | 2024-11-08 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-03-13 | 2025-05-16 |
-| [Cry For You](https://open.spotify.com/track/5OF3dIxuRP4jYyyvfKCloI) | [Bormin’](https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5) | [Cry For You](https://open.spotify.com/album/0N7i2IAGddQRE1QHvKINsE) | 2:41 | 2025-11-06 |  |
+| [Cry For You](https://open.spotify.com/track/5OF3dIxuRP4jYyyvfKCloI) | [Bormin’](https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5) | [Cry For You](https://open.spotify.com/album/0N7i2IAGddQRE1QHvKINsE) | 2:41 | 2025-11-06 | 2026-02-13 |
 | [C’est la Vie](https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [C’est la Vie](https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD) | 3:28 | 2023-09-21 | 2024-02-23 |
 | [DAISIES](https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S) | 2:56 | 2025-08-14 | 2025-10-03 |
 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 | 2024-02-29 | 2024-05-03 |
@@ -289,7 +289,7 @@
 | [Moonlight Shadow](https://open.spotify.com/track/6uxGUOtOIgfc9FWWIq5Q2E) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Moonlight Shadow](https://open.spotify.com/album/4jqOrH0rkdlupNAyDBoY0s) | 2:25 | 2024-11-07 | 2025-03-14 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-09-19 | 2024-10-04 |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-03-28 | 2024-05-24 |
-| [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-05-22 |  |
+| [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-05-22 | 2026-02-13 |
 | [Mélatonine](https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:32 | 2025-06-05 | 2025-08-22 |
 | [Never Give Up](https://open.spotify.com/track/7wg1Urzz3VBLeGGzj2ahAP) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6) | [Radio Kitchen EP](https://open.spotify.com/album/3lTog86YTvMGrVeZtJrWP5) | 3:13 | 2024-02-01 | 2024-03-01 |
 | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Madison Love](https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ) | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX) | 2:44 | 2024-10-11 | 2024-12-06 |
@@ -309,7 +309,7 @@
 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 | 2026-01-22 |  |
 | [Open Hearts \- Single Version](https://open.spotify.com/track/72fcuveJcHQ61u25WHQhjw) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Open Hearts](https://open.spotify.com/album/6VfBBrRc9CiWisIAoBeTqs) | 3:31 | 2025-05-29 | 2025-07-11 |
 | [Orchestra \- 20th Anniversary Version](https://open.spotify.com/track/62eKaBn3ahoFQHIyqaAZk7) | [Dan Black](https://open.spotify.com/artist/5kW3q7Vywlw24apaeufin6), [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Orchestra \(20th Anniversary Version\)](https://open.spotify.com/album/621OFXEcgE8XGkXDEok1fT) | 3:25 | 2025-07-31 | 2025-12-19 |
-| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-04-10 | 2026-01-30 |
+| [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-04-10 |  |
 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 | 2023-10-26 | 2024-05-24 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-11-16 | 2023-12-15 |
 | [Par coeur \(feat\. Joseph Kamel\)](https://open.spotify.com/track/3tt2NsRdnU10bqdfWRtpp9) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk), [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Par coeur \(feat\. Joseph Kamel\)](https://open.spotify.com/album/51dW0g3NdM6maVkK35qPxZ) | 2:55 | 2025-11-20 |  |
@@ -374,6 +374,7 @@
 | [Some Kind Of Kiss](https://open.spotify.com/track/2xsRIYRAC0mXttKR4sZscl) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Some Kind Of Kiss](https://open.spotify.com/album/5rb5FtGstxBVv9xdFCDKSg) | 2:28 | 2023-07-27 | 2023-09-15 |
 | [Sommet](https://open.spotify.com/track/471PmO82n752rs6DpZQ2fk) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Sommet](https://open.spotify.com/album/6VWhALAzgz7YTr8FUVPrVF) | 2:27 | 2024-05-09 | 2024-09-13 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-04-03 | 2025-06-13 |
+| [SPA](https://open.spotify.com/track/5UpupDvr2w93ccnEmmhS5q) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [SPA](https://open.spotify.com/album/7DthnLIimaB9bJH6ABmbvd) | 3:03 | 2026-02-12 |  |
 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-07-11 | 2024-10-16 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-11 | 2025-02-07 |
 | [Stay \(If You Wanna Dance\)](https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stay \(If You Wanna Dance\)](https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA) | 3:05 | 2025-11-06 |  |

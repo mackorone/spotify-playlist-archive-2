@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: La Ley
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,150 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,146 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 3 | [Quiero Dormir Cansado \- MTV Unplugged](https://open.spotify.com/track/7fdWscJPJwSujugq18hF5u) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Quiero Dormir Cansado \(MTV Unplugged\)](https://open.spotify.com/album/4aKL9YaM2gCCBGDCtEtPnr) | 4:50 |
 | 4 | [Nunca Nunca](https://open.spotify.com/track/0o7JL5BSJuW43aeQI5cP3B) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [NUNCA NUNCA](https://open.spotify.com/album/3wpT1eo3XhqomrxIiaLLj1) | 4:41 |
 | 5 | [El Duelo](https://open.spotify.com/track/7MzNE3Ui7JCKpuSu0oMusD) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL), [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [El Duelo](https://open.spotify.com/album/1e9SFF9jr6iW7jEZ08THwg) | 5:55 |
-| 6 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 |
+| 6 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/6OiBMIN8nDABlTUSSLGgVj), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 |
 | 7 | [Claroscuro](https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Claroscuro](https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn) | 3:17 |
 | 8 | [Noviembre](https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Noviembre](https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN) | 3:51 |
 | 9 | [Tormentas y Tormentos](https://open.spotify.com/track/5ueVEmBnQxHrwTFuHdv1qP) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [El Sonido del Misterio](https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz) | 4:33 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 26 | [Bien](https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B) | [99 Payasos](https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c) | [Bien](https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs) | 2:57 |
 | 27 | [Todo Cae](https://open.spotify.com/track/6gdC1mhWIYI9JUWoaubh0J) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Plumas](https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG) | 4:22 |
 | 28 | [Viajar \- Space Mix](https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda) | [Lucybell](https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht), [Cote Foncea](https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn) | [Viajar](https://open.spotify.com/album/7bnqsPENupVaK25z382mq9) | 4:52 |
-| 29 | [Veneno](https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa) | [Cler Canifrú](https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Veneno](https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7) | 3:39 |
-| 30 | [La Pelea](https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [La Pelea](https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3) | 3:25 |
+| 29 | [La Pelea](https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [La Pelea](https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3) | 3:25 |
+| 30 | [Veneno](https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa) | [Cler Canifrú](https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Veneno](https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7) | 3:39 |
 | 31 | [Un Día por Concepción](https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2) | [Billy Norton](https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb) | [Un Día por Concepción](https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw) | 3:03 |
 | 32 | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 |
 | 33 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 |

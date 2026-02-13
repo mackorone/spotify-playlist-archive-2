@@ -6,7 +6,7 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "AAAHxSdqO4V0YUdkuKEGmUK0dVKLQPZ4",
+  "snapshot_id": "AAAHx5WEr7hRHingOXJv0FFfI0h8h8QD",
   "tracks": [
     {
       "added_at": "2026-02-02 04:04:25",
@@ -1623,6 +1623,38 @@
       "duration_ms": 179387,
       "name": "Eat My Dust!",
       "url": "https://open.spotify.com/track/3622QSjVmSaFdXKeYsCYBl"
+    },
+    {
+      "added_at": "2026-02-12 05:18:35",
+      "album": {
+        "name": "You Got to Lose",
+        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 197646,
+      "name": "You Got to Lose",
+      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
+    },
+    {
+      "added_at": "2026-02-12 05:36:35",
+      "album": {
+        "name": "Tenterhooks",
+        "url": "https://open.spotify.com/album/71wJ2hxdQJExW1DwxIZ5Sr"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 201711,
+      "name": "Au Revoir Reservoir",
+      "url": "https://open.spotify.com/track/4FuFWcilYbfBCe7peW45Ag"
     }
   ],
   "unique_name": "Plugged In",

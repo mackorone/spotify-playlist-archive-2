@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,499 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,478 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 19 | [LEFTRIGHT](https://open.spotify.com/track/3BxzK9fgy9PwYg7Nrj2Dcu) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:23 |
 | 20 | [Cuz I Love You](https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:59 |
 | 21 | [Love in Real Life](https://open.spotify.com/track/6ctXNrMXw3r6hgzGDhcG9f) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Love in Real Life](https://open.spotify.com/album/3SQRMZ7adljnIsg3Bqp4EQ) | 2:34 |
-| 22 | [From The Back](https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Is Bankroll?](https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap) | 2:11 |
-| 23 | [Freak Show](https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:29 |
+| 22 | [Freak Show](https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:29 |
+| 23 | [Blame It on Your Love \(feat\. Lizzo\)](https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:11 |
 | 24 | [Like a Girl](https://open.spotify.com/track/5I7sGubUsKo4mVJpBoSVUr) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:04 |
-| 25 | [Blame It on Your Love \(feat\. Lizzo\)](https://open.spotify.com/track/2RCUr24WkEe2r5Vv4oDKlN) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 3:11 |
+| 25 | [From The Back](https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Is Bankroll?](https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap) | 2:11 |
 | 26 | [Water Me](https://open.spotify.com/track/4WbO3H3wFGUdrngpMMs4sF) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 3:05 |
 | 27 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 |
 | 28 | [Soulmate](https://open.spotify.com/track/6h2wpo2pshM8QnAvRySEO0) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 49 | [Coldplay](https://open.spotify.com/track/2GpCh34HpurCeyeHvSe8To) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:55 |
 | 50 | [Coconut Oil](https://open.spotify.com/track/6E44nO0qqQqfmXOhQPp0MM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:45 |
 
-Snapshot ID: `aYp1AAAAAAC50WACnMUDNVbPtPWCB01E`
+Snapshot ID: `aYvGgAAAAADkYJdA47sN2XhYata9vP0p`

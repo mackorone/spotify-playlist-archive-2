@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,659 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,670 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 34 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
 | 35 | [Heroe](https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Escape](https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt) | 4:23 |
 | 36 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:08 |
-| 37 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
-| 38 | [Devuélveme El Corazón](https://open.spotify.com/track/7etlF1zMxJbiaeQrXYh0PY) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 4:03 |
+| 37 | [Devuélveme El Corazón](https://open.spotify.com/track/7etlF1zMxJbiaeQrXYh0PY) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 4:03 |
+| 38 | [Azul](https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Grandes Hits](https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL) | 4:19 |
 | 39 | [No Me Enseñaste](https://open.spotify.com/track/0AhtxBg5OU06Lh086URR5c) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia](https://open.spotify.com/album/7yQ0rzJQPUkTumD0bVxxfp) | 4:27 |
 | 40 | [Dónde Están Corazón](https://open.spotify.com/track/1mkZZjz0X8YexDWXlx7zmX) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Greatest Hits](https://open.spotify.com/album/3aoVX17mIukbwctlbu99zk) | 4:19 |
 | 41 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 91 | [He Venido Por Ti](https://open.spotify.com/track/0BzpzUw1akFAoEUzTLGoQ0) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [He Venido Por Ti](https://open.spotify.com/album/6wpz5IBiPdIKsOy7JBJu5C) | 3:19 |
 | 92 | [Amor Prohibido](https://open.spotify.com/track/0TWV9Q3Okgi1VrTPT3Arh5) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [8](https://open.spotify.com/album/29IjcCBllsltvShSWJ40Ol) | 3:57 |
 | 93 | [Aunque no te pueda ver](https://open.spotify.com/track/6UTRKQhyERZY5Jduii5Jmv) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad \(american edition\)](https://open.spotify.com/album/2NVUSpunMuwYEFaqJsTRd1) | 4:25 |
-| 94 | [Me Enamoré De Ti](https://open.spotify.com/track/3Vfqh883w3ydFU2wjMPxPp) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Me Enamore De Ti](https://open.spotify.com/album/1N1f6kovQCF1BzSoIIwWBY) | 4:41 |
-| 95 | [Amarte Así \- En Vivo](https://open.spotify.com/track/1n7gk83L4L4P58Zynk08a8) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Amarte Así \(En vivo\)](https://open.spotify.com/album/06POrhViIkhGFmQeX5b2nD) | 3:22 |
+| 94 | [Amarte Así \- En Vivo](https://open.spotify.com/track/1n7gk83L4L4P58Zynk08a8) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Amarte Así \(En vivo\)](https://open.spotify.com/album/06POrhViIkhGFmQeX5b2nD) | 3:22 |
+| 95 | [Me Enamoré De Ti](https://open.spotify.com/track/3Vfqh883w3ydFU2wjMPxPp) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Me Enamore De Ti](https://open.spotify.com/album/1N1f6kovQCF1BzSoIIwWBY) | 4:41 |
 | 96 | [Desde el Principio](https://open.spotify.com/track/2zQW4cVDdtx6ILz9rNdPLD) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Libre](https://open.spotify.com/album/6gHHe4wRRfwGbhBTk7hDEx) | 3:04 |
 | 97 | [Usted / Hasta Que Me Olvides / La Incondicional](https://open.spotify.com/track/1xeWnd2n7JY4fRZI1PhsFP) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Usted / Hasta Que Me Olvides / La Incondicional](https://open.spotify.com/album/0jQRoKdHFt1wHOAC4E8OZK) | 8:18 |
 | 98 | [Lo Que Son las Cosas](https://open.spotify.com/track/6TanzeHh5Ffh5EP2AJnGD3) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Que Son las Cosas](https://open.spotify.com/album/7LiVEl4UrNRnVAydhYjCfl) | 3:52 |

@@ -1,6 +1,6 @@
 {
   "description": "Versos y barras de alto poder",
-  "num_followers": 165547,
+  "num_followers": 165656,
   "original_name": "Ejercicio con Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -431,26 +431,6 @@
     {
       "added_at": "2025-10-17 01:49:16",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "P power (feat. Drake)",
-      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
-    },
-    {
-      "added_at": "2025-10-17 01:49:16",
-      "album": {
         "name": "Burbujas de Cristal",
         "url": "https://open.spotify.com/album/0UYbHFy4zdCF34CRebZmRQ"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 224624,
       "name": "Burbujas de Cristal",
       "url": "https://open.spotify.com/track/15yuvKhcoEtV5KwKxqHSwa"
+    },
+    {
+      "added_at": "2025-10-17 01:49:16",
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "P power (feat. Drake)",
+      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
     },
     {
       "added_at": "2025-10-17 01:49:16",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Natasya Elvira",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Ardhito Pramono",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -94,6 +94,24 @@
       "duration_ms": 301007,
       "name": "12345",
       "url": "https://open.spotify.com/track/3e9GQLWUzBUoSvzUvUB1VC"
+    },
+    {
+      "album": {
+        "name": "17 To 70",
+        "url": "https://open.spotify.com/album/0IkQeHJmQ9XiH2maQlAneu"
+      },
+      "artists": [
+        {
+          "name": "Ardhito Pramono",
+          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172909,
+      "name": "17 To 70",
+      "url": "https://open.spotify.com/track/7zqEJIcaQoOjnH7aO7N86w"
     },
     {
       "album": {
@@ -3500,7 +3518,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 224373,
       "name": "Los Feliz",
       "url": "https://open.spotify.com/track/2j1ZS4MtTGhtNXtWNaA5GG"
@@ -3634,7 +3652,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 456342,
       "name": "Mancation",
       "url": "https://open.spotify.com/track/4idgkZeNpSjxfdXJqLvEYB"
@@ -4799,6 +4817,24 @@
     },
     {
       "album": {
+        "name": "Semoga Ku Ada",
+        "url": "https://open.spotify.com/album/0tHLgVHyhD9clwpafpNRyJ"
+      },
+      "artists": [
+        {
+          "name": "Praya Tjondro",
+          "url": "https://open.spotify.com/artist/5ByAOpFqqD2MzptfchAEiM"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230060,
+      "name": "Semoga Ku Ada",
+      "url": "https://open.spotify.com/track/2GBQ2HKhiXvvAVTIO0jsvL"
+    },
+    {
+      "album": {
         "name": "Senandung Saja",
         "url": "https://open.spotify.com/album/0Hgko728r60VRnLaOoJfIh"
       },
@@ -5472,6 +5508,24 @@
       "duration_ms": 298608,
       "name": "The Moment With You",
       "url": "https://open.spotify.com/track/3cG6irfHaVbQfEZEShv9V2"
+    },
+    {
+      "album": {
+        "name": "The Rise After",
+        "url": "https://open.spotify.com/album/3KSZSMVim0c95wV6eWGtl9"
+      },
+      "artists": [
+        {
+          "name": "Song Brothers",
+          "url": "https://open.spotify.com/artist/4BroLk4RM2ZByrC7rpDb6V"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303750,
+      "name": "The Rise After",
+      "url": "https://open.spotify.com/track/2q0I2mcySQzkwb6naL4Dek"
     },
     {
       "album": {

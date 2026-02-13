@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : Blaiz Fayah x Kybba",
+  "description": "Les hits dancehall, shatta & bouyon du moment. Photo : P.L.L",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -378,6 +378,24 @@
       "duration_ms": 161706,
       "name": "After Party",
       "url": "https://open.spotify.com/track/2h4iv646rdK3LAFiFCzoXM"
+    },
+    {
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/0RwH6ILuQCCkmHS8nrA2bn"
+      },
+      "artists": [
+        {
+          "name": "Theomaa",
+          "url": "https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143285,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/6K3vqC8YOIZt9O78JqSCz4"
     },
     {
       "album": {
@@ -3768,7 +3786,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 156800,
       "name": "Coller la petite (feat. Theodora)",
       "url": "https://open.spotify.com/track/2Whypl8wAUIKVBqautgKhu"
@@ -3830,7 +3848,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 142142,
       "name": "Come Over (Possibly)",
       "url": "https://open.spotify.com/track/3thVkctyXSdakgHHWI823R"
@@ -7015,6 +7033,24 @@
     },
     {
       "album": {
+        "name": "Ho My God",
+        "url": "https://open.spotify.com/album/2k3eqphMGw3c3xxgYpLvSM"
+      },
+      "artists": [
+        {
+          "name": "BFG",
+          "url": "https://open.spotify.com/artist/3XxZVlDivZ7aV3xCIViakY"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107428,
+      "name": "Ho My God",
+      "url": "https://open.spotify.com/track/2IY29HliglqI1cmHk21G51"
+    },
+    {
+      "album": {
         "name": "Hold Up",
         "url": "https://open.spotify.com/album/4ufbGNZeu8FpVeErC3IaCG"
       },
@@ -7398,6 +7434,32 @@
       "duration_ms": 172695,
       "name": "I ja ni",
       "url": "https://open.spotify.com/track/1DqQSNC57l4LxsR7XHDf2m"
+    },
+    {
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/2DOF69xUSSBvWZ173pgEId"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Rytikal",
+          "url": "https://open.spotify.com/artist/2XmUEusYfpe4UG5BJtRwgX"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178144,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/0xjmTJrupL1MA0kDLgqUkR"
     },
     {
       "album": {
@@ -8064,7 +8126,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 150834,
       "name": "KADDRYO",
       "url": "https://open.spotify.com/track/2GOfDqnHKoF0dLmTojvl69"
@@ -9698,7 +9760,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 159600,
       "name": "Many men",
       "url": "https://open.spotify.com/track/7zwNOwAg7mhUSidOudjsbc"
@@ -10586,7 +10648,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 146100,
       "name": "Murda Whine",
       "url": "https://open.spotify.com/track/0wgxjvnjmgH4004SMjLFxf"
@@ -11570,7 +11632,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 157439,
       "name": "Ouba",
       "url": "https://open.spotify.com/track/6QmxJ87llrP7WvuQpN7wVg"
@@ -12617,6 +12679,24 @@
     },
     {
       "album": {
+        "name": "Pretty Face",
+        "url": "https://open.spotify.com/album/5hyV6LYOXIRRzqjC48d5wR"
+      },
+      "artists": [
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173924,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/2Awv4N6ARHwvxaYE4lBjaH"
+    },
+    {
+      "album": {
         "name": "Pretty Girl",
         "url": "https://open.spotify.com/album/6XblstmcRBD1twvqIpM0zY"
       },
@@ -13508,7 +13588,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 160427,
       "name": "SA KI T\u00c9 LA",
       "url": "https://open.spotify.com/track/6Jp4DGaMghJYhYUhrvFn2j"
@@ -15575,6 +15655,36 @@
     },
     {
       "album": {
+        "name": "Tiki Taka",
+        "url": "https://open.spotify.com/album/4DkQpUY9NBbrbYF7xzJGQQ"
+      },
+      "artists": [
+        {
+          "name": "DJ SEBB",
+          "url": "https://open.spotify.com/artist/6tWA0KYYzAiQzgKzImRQGF"
+        },
+        {
+          "name": "Junior",
+          "url": "https://open.spotify.com/artist/5ZVc8t2irmJwaMSkDXY1Rj"
+        },
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        },
+        {
+          "name": "YSN",
+          "url": "https://open.spotify.com/artist/2JxvmvS4bijkOfkIrZcK0Q"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Tiki Taka",
+      "url": "https://open.spotify.com/track/5qPKvUJfRdNdkgcqOSYATA"
+    },
+    {
+      "album": {
         "name": "Mad Ting 3",
         "url": "https://open.spotify.com/album/6FX5PeWBmj7XAUsOkqi34i"
       },
@@ -16616,6 +16726,28 @@
       "duration_ms": 166070,
       "name": "Waistline",
       "url": "https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU"
+    },
+    {
+      "album": {
+        "name": "Wakanda",
+        "url": "https://open.spotify.com/album/07beGsVPX5gJ2eCnYRNqLB"
+      },
+      "artists": [
+        {
+          "name": "P.L.L",
+          "url": "https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf"
+        },
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171554,
+      "name": "Wakanda",
+      "url": "https://open.spotify.com/track/01fIWkztmElx4gI5yb22Pw"
     },
     {
       "album": {

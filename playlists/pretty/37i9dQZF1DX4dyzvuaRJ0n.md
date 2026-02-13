@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: ILLENIUM
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,614,008 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,613,695 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 325 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 328 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 70 | [Retirement \(feat\. The Quiett\)](https://open.spotify.com/track/3y7FzkR7JiY3E750C6p0hA) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [MultrillVerse](https://open.spotify.com/album/3EHMUauddW3rH3K2KA6oxI) | 2:47 |
 | 71 | [MIRACLE\(Album version\)](https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 2:03 |
 | 72 | [Survivor](https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Dirt](https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P) | 2:40 |
-| 73 | [Story On Sale \(Feat\. DAMYE\)](https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [GAROSAWK](https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi) | 4:10 |
-| 74 | [DEAR MOM](https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 3:44 |
+| 73 | [DEAR MOM](https://open.spotify.com/track/3Q6xaSbm7iJwHJCtpk1si2) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 3:44 |
+| 74 | [Story On Sale \(Feat\. DAMYE\)](https://open.spotify.com/track/5lsd20yGxXhJOGvkog7vn1) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [DAMYE](https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR) | [GAROSAWK](https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi) | 4:10 |
 | 75 | [Green Ideology](https://open.spotify.com/track/2TEZ1dTfRIgsWYWOa3Ibf8) | [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Green Ideology](https://open.spotify.com/album/0KPNc9K0TqosJCKuMm9VyN) | 3:27 |
 | 76 | [OWL](https://open.spotify.com/track/7h9gz8EKmkBdTOU4WFkkQu) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [BREATHE](https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW) | 3:25 |
 | 77 | [Angel](https://open.spotify.com/track/4HtYJJ2Xb8snojvr78vYiX) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Berry Loves My Mood](https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws) | 2:42 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 93 | [Cheat Code](https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [500000](https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx) | 3:02 |
 | 94 | [Good Time For The Team](https://open.spotify.com/track/1XROjtYVZkHRwCt79VzwZc) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Good Time For The Team](https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw) | 3:52 |
 | 95 | [Never Give Up](https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [Graduation](https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX) | 2:41 |
-| 96 | [Foul](https://open.spotify.com/track/1vuDBx9G8oiinlw2KWlU0X) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [Polodared](https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR) | 2:16 |
-| 97 | [Naked \(Feat\. SINCE, Roh Yun Ha\)](https://open.spotify.com/track/20SnjTFsnEWVYtqUEB7EYx) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 4:04 |
+| 96 | [Naked \(Feat\. SINCE, Roh Yun Ha\)](https://open.spotify.com/track/20SnjTFsnEWVYtqUEB7EYx) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 4:04 |
+| 97 | [Foul](https://open.spotify.com/track/1vuDBx9G8oiinlw2KWlU0X) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd) | [Polodared](https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR) | 2:16 |
 | 98 | [A SOLITARY MAN](https://open.spotify.com/track/3kCnWwL7H4HNxSOV2CwBCa) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [A SOLITARY MAN](https://open.spotify.com/album/1qFLsgIIgQ46hwoCnutc3P) | 3:07 |
-| 99 | [Universe \(feat\. Lee Juck\)](https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc) | [Pinodyne](https://open.spotify.com/artist/15KKvag6UK4hwsNCJmFY09), [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Universe](https://open.spotify.com/album/6zRk67AeZus6zzIxU9kJAb) | 3:47 |
-| 100 | [APOLOGY](https://open.spotify.com/track/1G2XUrrMjf9DNuFWMBMpPA) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 3:23 |
+| 99 | [APOLOGY](https://open.spotify.com/track/1G2XUrrMjf9DNuFWMBMpPA) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | [END OF PUBERTY](https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj) | 3:23 |
+| 100 | [Universe \(feat\. Lee Juck\)](https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc) | [Pinodyne](https://open.spotify.com/artist/15KKvag6UK4hwsNCJmFY09), [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Universe](https://open.spotify.com/album/6zRk67AeZus6zzIxU9kJAb) | 3:47 |
 
 Snapshot ID: `AAAAAAl0E7I7Lio8iUh+Z4jt+B1eoeAl`

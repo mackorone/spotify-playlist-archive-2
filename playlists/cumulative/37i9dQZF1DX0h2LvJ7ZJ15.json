@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 138000,
       "name": "BAIXO - slowed",
       "url": "https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji"
@@ -2302,6 +2302,32 @@
       "duration_ms": 262248,
       "name": "Heat Waves - Slowed",
       "url": "https://open.spotify.com/track/1K2RnVhm3eauKnA8PAcPu1"
+    },
+    {
+      "album": {
+        "name": "HEAVENLY JUMPSTYLE",
+        "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
+      },
+      "artists": [
+        {
+          "name": "TWXNY",
+          "url": "https://open.spotify.com/artist/1HcduAQRxX1Q9hOTAQ8bOI"
+        },
+        {
+          "name": "Sxilwix",
+          "url": "https://open.spotify.com/artist/6cUZdCbsiJJXae86kwiH5v"
+        },
+        {
+          "name": "INNXCENCE",
+          "url": "https://open.spotify.com/artist/3i5xWUEFpG6g9pcRo4C2yc"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128477,
+      "name": "HEAVENLY JUMPSTYLE - Slowed",
+      "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
     },
     {
       "album": {

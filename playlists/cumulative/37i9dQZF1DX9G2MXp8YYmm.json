@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Pop'un sevilen isimleri. Kapak: Siyam",
+  "description": "Pop'un sevilen isimleri. Kapak: Ege Can Sal x Sena \u015eahin",
   "name": "Pop Radyo",
   "tracks": [
     {
@@ -806,7 +806,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 207203,
       "name": "A\u015fa\u011f\u0131l\u0131k Sevgili",
       "url": "https://open.spotify.com/track/1eyrfntQvB6SksetYFaKLo"
@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Bende Kalacak (\u0130nci Taneleri Orijinal Dizi M\u00fczi\u011fi)",
+        "url": "https://open.spotify.com/album/751NVVzxZgnAtJMBYTp2Jl"
+      },
+      "artists": [
+        {
+          "name": "Ebru G\u00fcnde\u015f",
+          "url": "https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174476,
+      "name": "Bende Kalacak (\u0130nci Taneleri Orijinal Dizi M\u00fczi\u011fi)",
+      "url": "https://open.spotify.com/track/20sPXu4f9Wezo6ULUlUtWa"
+    },
+    {
+      "album": {
         "name": "Benden",
         "url": "https://open.spotify.com/album/2JOgfWTfzkbhFPRucXUdZS"
       },
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 182795,
       "name": "Benden",
       "url": "https://open.spotify.com/track/4P6PcM1vttsoVNVHWoOmWo"
@@ -9124,7 +9142,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 204939,
       "name": "\u00c7ukur",
       "url": "https://open.spotify.com/track/4kgGyOa4xEpUl2sJIYDWXY"
@@ -9351,6 +9369,28 @@
     },
     {
       "album": {
+        "name": "\u00dczg\u00fcn\u00fcm A\u015fk\u0131m",
+        "url": "https://open.spotify.com/album/08xRb60WnzSW4iH127Bi40"
+      },
+      "artists": [
+        {
+          "name": "Ege Can Sal",
+          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
+        },
+        {
+          "name": "Sena \u015eahin",
+          "url": "https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "\u00dczg\u00fcn\u00fcm A\u015fk\u0131m",
+      "url": "https://open.spotify.com/track/27JIwRoqmSZ85M20Im6yGR"
+    },
+    {
+      "album": {
         "name": "\u015eark\u0131lar\u0131 Sen Se\u00e7",
         "url": "https://open.spotify.com/album/16jPtZQ6sxaYj6mwhP1XU0"
       },
@@ -9420,7 +9460,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 146370,
       "name": "\u015eimdi O Gitti",
       "url": "https://open.spotify.com/track/6u0XU6T2Nm1tLfUpzGjHuN"

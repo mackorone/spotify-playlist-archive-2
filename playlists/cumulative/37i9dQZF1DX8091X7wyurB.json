@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 356470,
       "name": "Agnus Dei - Ao Vivo",
       "url": "https://open.spotify.com/track/4auepyf7VQ2j6YGKEGy3wd"
@@ -750,7 +750,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 547701,
       "name": "Amen - Live",
       "url": "https://open.spotify.com/track/0I4Mtcz94osb6CNmsTV58I"
@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 561714,
       "name": "Do A Work In Me - Live",
       "url": "https://open.spotify.com/track/5ts4pT5MBeNDv4FxzkcOxc"
@@ -2850,7 +2850,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 297407,
       "name": "Dwell",
       "url": "https://open.spotify.com/track/0rg06MCj7g6BgpD4aP68fm"
@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 511197,
       "name": "Ebenezer - Live",
       "url": "https://open.spotify.com/track/1NIsNb7J8yfy9TYE1ycKMp"
@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 213506,
       "name": "Ese Oh",
       "url": "https://open.spotify.com/track/1ZqDPxxUBrtcvGcVaSkM9F"
@@ -5448,7 +5448,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 717697,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5HOpXPNnzMnR1adrT2es8i"
@@ -6584,6 +6584,24 @@
       "duration_ms": 370000,
       "name": "I Know Who I Am - Live",
       "url": "https://open.spotify.com/track/1FvPaijZqgnxYPH7Ac9PcD"
+    },
+    {
+      "album": {
+        "name": "I Live",
+        "url": "https://open.spotify.com/album/0cZteUtrDx3uIeTOVvVI8E"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560126,
+      "name": "I Live - Live",
+      "url": "https://open.spotify.com/track/122j35m29xC1Xbd8vTKvJP"
     },
     {
       "album": {
@@ -7911,6 +7929,24 @@
     },
     {
       "album": {
+        "name": "Joy Chant (Live)",
+        "url": "https://open.spotify.com/album/46iESYEXmodV4W2rwVLWn0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aikhomu",
+          "url": "https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Joy Chant - Live",
+      "url": "https://open.spotify.com/track/79TqQAmMV3ygUgx373bcL6"
+    },
+    {
+      "album": {
         "name": "Judah (Live)",
         "url": "https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd"
       },
@@ -8266,7 +8302,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 567399,
       "name": "Live Again - Live",
       "url": "https://open.spotify.com/track/2PJtONySMmQWuMNpSg9gBo"
@@ -8926,6 +8962,24 @@
       "duration_ms": 466020,
       "name": "Miracle No Dey Tire Jesus II",
       "url": "https://open.spotify.com/track/6UuJxBhMTM3LaKYpKSMTYW"
+    },
+    {
+      "album": {
+        "name": "Miracle Walking (Live)",
+        "url": "https://open.spotify.com/album/536KgvRn6R6OMQoK3Z4DCq"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546695,
+      "name": "Miracle Walking - Live",
+      "url": "https://open.spotify.com/track/3ChV9SY5hdcNOAbvwVBUGs"
     },
     {
       "album": {
@@ -10742,6 +10796,24 @@
     {
       "album": {
         "name": "Only You",
+        "url": "https://open.spotify.com/album/52CZ8Iey34gLpaCbLiiMzW"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231966,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/5g5LDdP02Rn9sD3xWeGnNk"
+    },
+    {
+      "album": {
+        "name": "Only You",
         "url": "https://open.spotify.com/album/1PLEwty7NFLz0jQRbIkww5"
       },
       "artists": [
@@ -11951,6 +12023,24 @@
     },
     {
       "album": {
+        "name": "Security (Live) [Remix]",
+        "url": "https://open.spotify.com/album/0N8AxAC0waqHqTMkw6vaIs"
+      },
+      "artists": [
+        {
+          "name": "I-fee Sound",
+          "url": "https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372708,
+      "name": "Security (Live) - Remix",
+      "url": "https://open.spotify.com/track/1KeoH3IklY84R3TD1Tf86x"
+    },
+    {
+      "album": {
         "name": "Surgery",
         "url": "https://open.spotify.com/album/0tfEleQD9BlzcDrnLg3Gyg"
       },
@@ -12294,6 +12384,24 @@
       "duration_ms": 422929,
       "name": "Something New",
       "url": "https://open.spotify.com/track/7E2UajeGC239dqz2mBB4OK"
+    },
+    {
+      "album": {
+        "name": "Sound of Joy",
+        "url": "https://open.spotify.com/album/2c2AFj5zal5Ai7F8BAJX9K"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Sound of Joy",
+      "url": "https://open.spotify.com/track/73DTcdmPUPNivJNz6nSceK"
     },
     {
       "album": {
@@ -12720,6 +12828,32 @@
       "duration_ms": 226666,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/6tM4E2Je4omnd7FwHt6tyf"
+    },
+    {
+      "album": {
+        "name": "Teach me how to love",
+        "url": "https://open.spotify.com/album/6C9XTZaFlY4TKVX5Vywz7D"
+      },
+      "artists": [
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Destiny Paul-Enenche",
+          "url": "https://open.spotify.com/artist/4kqZT7so05YLthY4Ue7tgu"
+        },
+        {
+          "name": "Paul-Daniel Paul-Enenche",
+          "url": "https://open.spotify.com/artist/37IbjRwNWMpYXHlPquCcWG"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361695,
+      "name": "Teach me how to love",
+      "url": "https://open.spotify.com/track/0Gm6s6y9F4K6a4Yqq7mxXV"
     },
     {
       "album": {
@@ -14186,6 +14320,36 @@
       "duration_ms": 287831,
       "name": "We Move",
       "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
+    },
+    {
+      "album": {
+        "name": "We Pray (See a Miracle)",
+        "url": "https://open.spotify.com/album/3cmnxmwsuSQDPsWpvEsBoS"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Ruthie Namaganda",
+          "url": "https://open.spotify.com/artist/2SPhsCFGKEMyOHfk5FWBc4"
+        },
+        {
+          "name": "Nicole Muwanguzi",
+          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195931,
+      "name": "We Pray",
+      "url": "https://open.spotify.com/track/782yvAXARMNYwa6UYUNT0F"
     },
     {
       "album": {

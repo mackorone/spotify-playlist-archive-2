@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 
 > This is Alejandro Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,446 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,502 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 21 | [Mátalas](https://open.spotify.com/track/1TojBnaen0BzIoZfVccGng) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu) | 2:57 |
 | 22 | [No Sé Olvidar](https://open.spotify.com/track/3T9vhAX8yaBAdEFJa4yy2b) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:21 |
 | 23 | [Abrázame](https://open.spotify.com/track/5uN3aHedE4LXvz2vxwzgLi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Muy Dentro De Mi Corazon](https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj) | 3:17 |
-| 24 | [No](https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [De Noche \- Clasicos A Mi Manera](https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms) | 3:18 |
-| 25 | [Un Bendito Día](https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:31 |
+| 24 | [Un Bendito Día](https://open.spotify.com/track/12jZ2WSziAxeJqMwOmz6jV) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Sin Llorar](https://open.spotify.com/album/3KPjzXi1TgFbGtHNO57tnC) | 3:31 |
+| 25 | [No](https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [De Noche \- Clasicos A Mi Manera](https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms) | 3:18 |
 | 26 | [Qué Lástima](https://open.spotify.com/track/5mqhPFVGkCJ67BtEL52pJW) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:20 |
 | 27 | [Duele](https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Duele](https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT) | 3:12 |
 | 28 | [Más No Puedo](https://open.spotify.com/track/68teZcAANkNhea13y7GqDP) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 49 | [Contigo Aprendí](https://open.spotify.com/track/1Ifm0tGm582UZuOHcfAuTM) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Piel De Niña](https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp) | 3:24 |
 | 50 | [A Pesar De Todo](https://open.spotify.com/track/1gaEzLOIUBJvEpgqN5Mhc1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 3:19 |
 
-Snapshot ID: `aYp1AAAAAADoJat3r9b3dpTP7KpZGzG4`
+Snapshot ID: `aYvGgAAAAABYQhSTC4w21qDDPV+cJhWa`

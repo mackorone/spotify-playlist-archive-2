@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 
 > Mellow songs from the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089,310 likes - 150 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,089,805 likes - 150 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 47 | [My Love](https://open.spotify.com/track/5p0ietGkLNEqx1Z7ijkw5g) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:51 |
 | 48 | [Unfaithful](https://open.spotify.com/track/13xxBnXOuiBxVxJI458B0i) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:46 |
 | 49 | [Follow Me](https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Double Wide](https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ) | 3:38 |
-| 50 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
-| 51 | [Stickwitu](https://open.spotify.com/track/2lgz3yy1AyoceOVOOBmiOS) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 3:27 |
+| 50 | [Stickwitu](https://open.spotify.com/track/2lgz3yy1AyoceOVOOBmiOS) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [PCD](https://open.spotify.com/album/53zV9rZ5yfWgigsmuJtYpG) | 3:27 |
+| 51 | [U Got It Bad](https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:07 |
 | 52 | [7 Days](https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Born to Do It](https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY) | 3:55 |
-| 53 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
-| 54 | [Bubbly](https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb) | 3:16 |
+| 53 | [Bubbly](https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb) | 3:16 |
+| 54 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
 | 55 | [All Good Things \(Come To An End\)](https://open.spotify.com/track/6kEpjptnAwt11Atr4cEMe1) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 5:11 |
 | 56 | [Big Girls Don't Cry \(Personal\)](https://open.spotify.com/track/6dgWWAs5yhWPOtvE1zuoQ1) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [The Dutchess](https://open.spotify.com/album/2knAf4wg8Gff8q1bXiXCTz) | 4:28 |
 | 57 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
@@ -87,21 +87,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 77 | [You Give Me Something](https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered \(International Version\)](https://open.spotify.com/album/0cHXj1g4NdFEQinwxj4soZ) | 3:33 |
 | 78 | [Daughters](https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Heavier Things](https://open.spotify.com/album/6WivmTXugLZLmAWnZhlz7g) | 3:59 |
 | 79 | [Fuck It \(I Don't Want You Back\)](https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [I Don't Want You Back](https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx) | 3:45 |
-| 80 | [Somethin' Stupid](https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:50 |
-| 81 | [Breakaway](https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:57 |
+| 80 | [Breakaway](https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:57 |
+| 81 | [Somethin' Stupid](https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:50 |
 | 82 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 |
 | 83 | [Go On Girl](https://open.spotify.com/track/3QE7ObGjkt1kYnhLvZPRUy) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 4:21 |
-| 84 | [Incomplete](https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Never Gone](https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV) | 3:59 |
-| 85 | [If I Were a Boy](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:09 |
+| 84 | [If I Were a Boy](https://open.spotify.com/track/26NX1wPt1TRCH536yocd6i) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU) | 4:09 |
+| 85 | [Incomplete](https://open.spotify.com/track/0CnD7Hiw6pae6rLsZw5q5W) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Never Gone](https://open.spotify.com/album/1Wz9PANLXjaOskUv575hRV) | 3:59 |
 | 86 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
-| 87 | [Warwick Avenue](https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:46 |
-| 88 | [Breathe](https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 4:10 |
+| 87 | [Breathe](https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 4:10 |
+| 88 | [Warwick Avenue](https://open.spotify.com/track/3K4r00KlXytLJDfuytngmx) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:46 |
 | 89 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 |
 | 90 | [Home](https://open.spotify.com/track/3lyLqIn8mybyEFTs8JJaLf) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [It's Time](https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh) | 3:45 |
 | 91 | [If You're Not The One](https://open.spotify.com/track/7HhKuJbtiNbZsEDLNQvOnH) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Gotta Get Thru This](https://open.spotify.com/album/6d5bzbzrZzXrB6BP6MMSeL) | 4:17 |
 | 92 | [Whole Again](https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Right Now](https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW) | 3:05 |
-| 93 | [Stuck In A Moment You Can't Get Out Of](https://open.spotify.com/track/1klDPm7SfsS32hl7KHV9iy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:33 |
-| 94 | [Thank You For Loving Me](https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 5:08 |
+| 93 | [Thank You For Loving Me](https://open.spotify.com/track/577MNC3o3L0lNIzx9abqOk) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Crush](https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69) | 5:08 |
+| 94 | [Stuck In A Moment You Can't Get Out Of](https://open.spotify.com/track/1klDPm7SfsS32hl7KHV9iy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:33 |
 | 95 | [Pretty Boy](https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej) | [M2M](https://open.spotify.com/artist/0ZzYDST6Dib7iYd8hmcLcH) | [Shades of Purple](https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj) | 4:39 |
 | 96 | [There You'll Be](https://open.spotify.com/track/5t2gSYVvBV9kH4t7Czertq) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [There You'll Be](https://open.spotify.com/album/2hUHsuJ6XAS240vxAXnlb5) | 3:42 |
 | 97 | [Hurt](https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Back To Basics](https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd) | 4:03 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 147 | [Life Is A Rollercoaster](https://open.spotify.com/track/5lQfI9cYzezWGvqwrWkzqh) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/6BNUYhhSL5a4yrvrfasKcF) | 3:54 |
 | 148 | [Sunshine](https://open.spotify.com/track/05kBBWSmmq1YCkr6jvrCOS) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 4:10 |
 | 149 | [Milk and Toast and Honey](https://open.spotify.com/track/26WofNkvCADcYTfqA0yLnN) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Room Service \(Extended Version\)](https://open.spotify.com/album/3xcq8XRHl2VacEqcYZNJ2H) | 4:04 |
-| 150 | [The Voice Within](https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 5:04 |
+| 150 | [Don't Let Me Be the Last to Know](https://open.spotify.com/track/3OitWDgR4SzAUOm3TBmvhw) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:50 |
 
 Snapshot ID: `AAAAAOLWOiABSGTGkc3txjz3hKmtIRyj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 
 > canciones para andar bien al cien 🙂‍↕️
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,492 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,478 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 | 71 | [The Bleachers](https://open.spotify.com/track/2nZHZE1XRh4SDJLMCbvoEF) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [The Bleachers](https://open.spotify.com/album/3cjvORRqCFBnwv8DM2S7Mf) | 2:43 |
 | 72 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
 | 73 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
-| 74 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/4H0muzuDhjGQsRQCE8m5kX), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 |
+| 74 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 |
 | 75 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
 
 Snapshot ID: `AAAAAEAohAY66gLwcDmCGt1t7NMrm03M`

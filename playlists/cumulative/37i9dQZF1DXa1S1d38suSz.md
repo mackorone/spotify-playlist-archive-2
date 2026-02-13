@@ -4,7 +4,7 @@
 
 > Tú, nosotros y esta lista de canciones\. Foto: KAROL G, Marco Antonio Solís
 
-106 songs - 6 hr 55 min
+107 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Me Cuesta Tanto Olvidarte](https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 2:54 | 2023-10-27 | 2024-04-19 |
 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 | 2022-04-01 |  |
 | [Me quedaré solo](https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Profecía](https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY) | 4:21 | 2022-01-14 |  |
-| [Mojada](https://open.spotify.com/track/5N5sbaoN8UvXw8ngNR9iUk) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 6:07 | 2022-01-14 |  |
+| [Mojada](https://open.spotify.com/track/5N5sbaoN8UvXw8ngNR9iUk) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 6:07 | 2022-01-14 | 2026-02-13 |
 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 | 2022-05-06 |  |
 | [Nadie](https://open.spotify.com/track/4KdHtVaVD3c0n8iUnU2uz1) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Frecuencia](https://open.spotify.com/album/6hfHnK0eRvNceDhHdlwevc) | 4:14 | 2022-05-06 | 2022-06-17 |
 | [NASA](https://open.spotify.com/track/7pt5VZBKEsd4JIQ67DZcnd) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [NASA](https://open.spotify.com/album/3mSoBmP83p0lgfWPB1MkEX) | 3:06 | 2022-06-16 | 2023-04-28 |
@@ -92,6 +92,7 @@
 | [Que Me Quedes Tú](https://open.spotify.com/track/3pWF6sOdKOtwtIbVaFMN6U) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 4:47 | 2023-09-25 | 2024-04-19 |
 | [Reconquistarte](https://open.spotify.com/track/6BIu0H2LiDAfi0uqGotGxl) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Grandes Exitos](https://open.spotify.com/album/5J8OdamCFjAaMOeA4bSlOR) | 3:28 | 2022-01-14 | 2022-04-02 |
 | [Secretos](https://open.spotify.com/track/1MH7CE7NBhn3kdmFEfeBhn) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Amor Infinito](https://open.spotify.com/album/7JOaaaN8g6NnPUcDSGsHxZ) | 3:54 | 2022-01-14 | 2022-07-02 |
+| [Seguradetodo \- Spotify Sessions](https://open.spotify.com/track/4IcTF2Ojx7XbnuDbcwQmHC) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 3:56 | 2026-02-12 |  |
 | [Si tú no estas](https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 4:16 | 2022-04-01 |  |
 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 | 2022-01-14 |  |
 | [Sin Ti](https://open.spotify.com/track/1kM1BcO9nbQJtPhcbL2WU5) | [Donato Y Estefano](https://open.spotify.com/artist/2bhbutacUCxd0aOWRnjPQl) | [Lo Mejor De Donato & Estéfano](https://open.spotify.com/album/3Ht85xn30gqLuaIZrAK8KT) | 4:07 | 2022-01-14 | 2022-05-07 |

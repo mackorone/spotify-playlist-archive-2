@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-169 songs - 10 hr 19 min
+170 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Disrespectful \(feat\. Mila J\)](https://open.spotify.com/track/4SN4KimZQOTrxEh12Hftu5) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Trigga \(Deluxe\)](https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP) | 3:56 | 2025-08-03 |  |
 | [Disrespectful \(feat\. Mila J\)](https://open.spotify.com/track/4eQec76xYzMWafPfJEDELl) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Trigga \(Deluxe\)](https://open.spotify.com/album/0kEgU7XiRXcJ7TptKepwxC) | 3:56 | 2024-06-11 | 2025-08-04 |
 | [Dive](https://open.spotify.com/track/0X0MCiE18F0xztZ6G6lQuz) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:45 | 2024-06-11 | 2024-09-13 |
-| [Ex At The Party](https://open.spotify.com/track/1DiGAGAS2iLoY81VnIjAMi) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:08 | 2024-06-11 |  |
+| [Ex At The Party](https://open.spotify.com/track/0mtcdi7vJp0Z81vmhwKos4) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC) | [Ex At The Party](https://open.spotify.com/album/4VSJNEejjEySyWKLPXBF2x) | 3:08 | 2026-02-12 |  |
+| [Ex At The Party](https://open.spotify.com/track/1DiGAGAS2iLoY81VnIjAMi) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC) | [Modus Operandi](https://open.spotify.com/album/16JYdERnBWMgtLL7JEluUq) | 3:08 | 2024-06-11 | 2026-02-13 |
 | [Extra](https://open.spotify.com/track/4ACRXHoiz3J2JHG8DL4Z6X) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 5:53 | 2024-06-11 |  |
 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 | 2024-06-11 |  |
 | [Fade Away](https://open.spotify.com/track/7gXVlNVDu3Qmf0Sy63GqA1) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Fade Away \(from The Photograph\)](https://open.spotify.com/album/6G7zI9f7ggrL6oN0TEEuAh) | 3:40 | 2024-06-11 |  |

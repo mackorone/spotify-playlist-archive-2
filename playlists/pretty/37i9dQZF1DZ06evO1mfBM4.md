@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 
 > This is Luis Miguel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,541,087 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,541,310 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 | 9 | [Échame a Mi La Culpa](https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:09 |
 | 10 | [Tengo Todo Excepto a Ti](https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:32 |
 | 11 | [La Mentira](https://open.spotify.com/track/3wogsSWyEEu5eVgLqUqySF) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:46 |
-| 12 | [Si tú te atreves](https://open.spotify.com/track/4tljir1112UOLjqP2lXn4J) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Cómplices](https://open.spotify.com/album/0PsSywVZE4qeOPBNiSj4Hz) | 3:53 |
-| 13 | [Amarte es un placer](https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Amarte Es Un Placer](https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n) | 3:31 |
+| 12 | [Amarte es un placer](https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Amarte Es Un Placer](https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n) | 3:31 |
+| 13 | [Si tú te atreves](https://open.spotify.com/track/4tljir1112UOLjqP2lXn4J) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Cómplices](https://open.spotify.com/album/0PsSywVZE4qeOPBNiSj4Hz) | 3:53 |
 | 14 | [Fría Como El Viento](https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 3:55 |
 | 15 | [Sabor a Mi](https://open.spotify.com/track/68zSzKkU28AfZvr5FkAUWT) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:05 |
 | 16 | [Usted](https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:43 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 | 20 | [La Barca](https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:29 |
 | 21 | [La Gloria Eres Tu](https://open.spotify.com/track/5SPUsNcUtRUpAPj7rJq7CD) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:22 |
 | 22 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
-| 23 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 |
+| 23 | [Todo Y Nada](https://open.spotify.com/track/1FJSXlDrgr9AS37w67CPHP) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:39 |
 | 24 | [Inolvidable](https://open.spotify.com/track/2pSZjEpbXwlocV8js7MNmu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 4:17 |
-| 25 | [Todo Y Nada](https://open.spotify.com/track/1FJSXlDrgr9AS37w67CPHP) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:39 |
+| 25 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 |
 | 26 | [El Reloj](https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:01 |
 | 27 | [La Chica Del Bikini Azul](https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Palabra De Honor](https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh) | 3:00 |
 | 28 | [Mucho Corazón](https://open.spotify.com/track/5C1HYHG6b1wk9MpC2UP9C6) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mfBM4.md) - [plain]
 | 49 | [Somos Novios](https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:11 |
 | 50 | [Oro De Ley](https://open.spotify.com/track/2PZtKB8fDoDGLot27oUnWH) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 3:58 |
 
-Snapshot ID: `aYp1AAAAAACF+d59PtRFI5sIpO/CN9E1`
+Snapshot ID: `aYvGgAAAAABTx3m8x5LsqdKo/PGFwMXE`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Kweku Smoke",
+  "description": "Hottest bars coming live from the 233.  Cover: Sarkodie",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -76,7 +76,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 148645,
       "name": "100 Degrees",
       "url": "https://open.spotify.com/track/0INTsw60B55hvpmgubzIgH"
@@ -896,6 +896,28 @@
       "duration_ms": 201702,
       "name": "Afrafranto",
       "url": "https://open.spotify.com/track/4Nr8zmrAdnJBnFs4CpMxnr"
+    },
+    {
+      "album": {
+        "name": "Against",
+        "url": "https://open.spotify.com/album/45SxqhCbCQX5iYcMC53ZUA"
+      },
+      "artists": [
+        {
+          "name": "KWESI AMEWUGA",
+          "url": "https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA"
+        },
+        {
+          "name": "Oseikrom Sikani",
+          "url": "https://open.spotify.com/artist/6ZX63VVBGdgVhupaJ6IpiB"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166974,
+      "name": "Against",
+      "url": "https://open.spotify.com/track/51MPyrAjNDN3vINXkbZgTz"
     },
     {
       "album": {
@@ -3200,7 +3222,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 150817,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/6awZlC6u1IQN7UTtwSl1HJ"
@@ -4324,6 +4346,24 @@
       "duration_ms": 158122,
       "name": "Demon",
       "url": "https://open.spotify.com/track/0EY1axEzO8zhLkgAIpes5b"
+    },
+    {
+      "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/1vjlYVIRkCD6UoJJ7T7768"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192692,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/6zhjZbn6dM4Xta3pwRg1vE"
     },
     {
       "album": {
@@ -9404,7 +9444,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 219611,
       "name": "LIKE DAT",
       "url": "https://open.spotify.com/track/08Tz0uX792uwDKmEn2SSF3"
@@ -10328,6 +10368,28 @@
       "duration_ms": 128548,
       "name": "Milli",
       "url": "https://open.spotify.com/track/7BacjHUkoZ7clhKSwaVSEv"
+    },
+    {
+      "album": {
+        "name": "Millicent",
+        "url": "https://open.spotify.com/album/1AdznG4ODTPvszpmYALbwt"
+      },
+      "artists": [
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Millicent",
+      "url": "https://open.spotify.com/track/5nPGRuOVcUdlZd7GI4989o"
     },
     {
       "album": {
@@ -17684,10 +17746,32 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 109748,
       "name": "Winning Season",
       "url": "https://open.spotify.com/track/1fQW06nyJW6zPUkhhxljNR"
+    },
+    {
+      "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179825,
+      "name": "Wins & Losses",
+      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
     },
     {
       "album": {

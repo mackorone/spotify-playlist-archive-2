@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 695255,
+  "num_followers": 695285,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,26 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 216148,
+      "name": "Yandel 150",
+      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
         "name": "Una Foto Remix (feat. Emilia)",
         "url": "https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw"
       },
@@ -303,26 +323,6 @@
       "duration_ms": 243898,
       "name": "Una Foto Remix (feat. Emilia)",
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 216148,
-      "name": "Yandel 150",
-      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
+        "name": "Ahi Ahi",
+        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 176796,
+      "name": "Ahi Ahi",
+      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
         "name": "No Aguanto M\u00e1s",
         "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
-        "name": "Ahi Ahi",
-        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 176796,
-      "name": "Ahi Ahi",
-      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -911,6 +911,26 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
+        "name": "Tu Turrito",
+        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 164701,
+      "name": "Tu Turrito",
+      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
         "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
         "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
       },
@@ -947,26 +967,6 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "Tu Turrito",
-        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 164701,
-      "name": "Tu Turrito",
-      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
         "name": "Mu\u00f1ecas",
         "url": "https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR"
       },
@@ -987,6 +987,26 @@
       "duration_ms": 156318,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
+        "name": "ADI\u00d3S (Live Version)",
+        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 164547,
+      "name": "ADI\u00d3S (Live Version)",
+      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1015,22 +1035,22 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "ADI\u00d3S (Live Version)",
-        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+        "name": "Mala Costumbre",
+        "url": "https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         },
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 164547,
-      "name": "ADI\u00d3S (Live Version)",
-      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
+      "duration_ms": 230728,
+      "name": "Mala Costumbre",
+      "url": "https://open.spotify.com/track/70uX4beGHc1nQikXveOknp"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1063,26 +1083,6 @@
       "duration_ms": 195502,
       "name": "Soltero Hasta la Tumba - Remix",
       "url": "https://open.spotify.com/track/2Ue6HKn8jqcOaOT467gQHw"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
-        "name": "Mala Costumbre",
-        "url": "https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 230728,
-      "name": "Mala Costumbre",
-      "url": "https://open.spotify.com/track/70uX4beGHc1nQikXveOknp"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
+        "name": "BM | DJ TAO Turreo Sessions #17",
+        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
+        }
+      ],
+      "duration_ms": 176144,
+      "name": "BM | DJ TAO Turreo Sessions #17",
+      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
         "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
         "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 229426,
       "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
       "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
-        "name": "BM | DJ TAO Turreo Sessions #17",
-        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
-        }
-      ],
-      "duration_ms": 176144,
-      "name": "BM | DJ TAO Turreo Sessions #17",
-      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/06ZB9JOKRH3lwvjVLZBtZD"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 125828,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/3sfgK7baHGsEAiZjTOtWrz"
+    },
+    {
+      "added_at": "2026-01-23 03:00:05",
+      "album": {
         "name": "Ojitos Chiquititos",
         "url": "https://open.spotify.com/album/0qDTsPJg1GZhUmRj3m7udK"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 135069,
       "name": "Ojitos Chiquititos",
       "url": "https://open.spotify.com/track/2bGEoSwvtIi5el0jyeLbmn"
-    },
-    {
-      "added_at": "2026-01-23 03:00:05",
-      "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/06ZB9JOKRH3lwvjVLZBtZD"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 125828,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/3sfgK7baHGsEAiZjTOtWrz"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -2055,34 +2055,26 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "Rompe Megat\u00f3n (Remix)",
-        "url": "https://open.spotify.com/album/4kmvYU1O2ZDHm0uufx14Yq"
+        "name": "6to Sentido (Una Vuelta)",
+        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
       },
       "artists": [
         {
-          "name": "Los Rompe Discotekas",
-          "url": "https://open.spotify.com/artist/252h8HOqQMbj0MSrH9KUQW"
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
         },
         {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
         },
         {
-          "name": "Ponte Perro",
-          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
-        },
-        {
-          "name": "Ezequiel Matthysse",
-          "url": "https://open.spotify.com/artist/4VnyKPWMg841xC0ekoYDmk"
-        },
-        {
-          "name": "El Nikko DJ",
-          "url": "https://open.spotify.com/artist/73SpjqbRsmNwFhRvNUd2r9"
+          "name": "DJ Cronox",
+          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
         }
       ],
-      "duration_ms": 307200,
-      "name": "Rompe Megat\u00f3n - Remix",
-      "url": "https://open.spotify.com/track/0DkMnCirVTT504bVqwiwGL"
+      "duration_ms": 128265,
+      "name": "6to Sentido (Una Vuelta)",
+      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
     },
     {
       "added_at": "2026-01-23 03:00:05",
@@ -2131,26 +2123,34 @@
     {
       "added_at": "2026-01-23 03:00:05",
       "album": {
-        "name": "6to Sentido (Una Vuelta)",
-        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
+        "name": "Rompe Megat\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/4kmvYU1O2ZDHm0uufx14Yq"
       },
       "artists": [
         {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+          "name": "Los Rompe Discotekas",
+          "url": "https://open.spotify.com/artist/252h8HOqQMbj0MSrH9KUQW"
         },
         {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
         },
         {
-          "name": "DJ Cronox",
-          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "Ezequiel Matthysse",
+          "url": "https://open.spotify.com/artist/4VnyKPWMg841xC0ekoYDmk"
+        },
+        {
+          "name": "El Nikko DJ",
+          "url": "https://open.spotify.com/artist/73SpjqbRsmNwFhRvNUd2r9"
         }
       ],
-      "duration_ms": 128265,
-      "name": "6to Sentido (Una Vuelta)",
-      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
+      "duration_ms": 307200,
+      "name": "Rompe Megat\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/0DkMnCirVTT504bVqwiwGL"
     }
   ],
   "unique_name": "Joda",

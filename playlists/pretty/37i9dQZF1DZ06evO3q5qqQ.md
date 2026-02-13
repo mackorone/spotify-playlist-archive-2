@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,287 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,296 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 20 | [El Mochomo \(En vivo\)](https://open.spotify.com/track/6A7FBChw6dVmf5UX1IXUyR) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:42 |
 | 21 | [Modo Avion](https://open.spotify.com/track/4pljc9DdwyxBPojzgHpoL4) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Modo Avion](https://open.spotify.com/album/1RV8eX7Z0Prav12ViroXxd) | 3:05 |
 | 22 | [Serafin Zambada](https://open.spotify.com/track/6xelfxDNolbBvTbpHMtNrs) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafin Zambada](https://open.spotify.com/album/4F2fbkwSDTWxX9s2ThmRCt) | 2:08 |
-| 23 | [Alumno Y Maestro](https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Alumno Y Maestro](https://open.spotify.com/album/3G37quZRXG46KePSj4uMat) | 2:59 |
-| 24 | [Borracho](https://open.spotify.com/track/0B9tQdZqaVy9RyDuvGz0eD) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Borracho](https://open.spotify.com/album/3SEZaNsO6qhifPCLyaQgkU) | 2:57 |
+| 23 | [Borracho](https://open.spotify.com/track/0B9tQdZqaVy9RyDuvGz0eD) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Borracho](https://open.spotify.com/album/3SEZaNsO6qhifPCLyaQgkU) | 2:57 |
+| 24 | [Alumno Y Maestro](https://open.spotify.com/track/5ZBHGCgLDISEHmhSZXIDMa) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Alumno Y Maestro](https://open.spotify.com/album/3G37quZRXG46KePSj4uMat) | 2:59 |
 | 25 | [El Señor De La Montaña](https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7) | [Pityn Toys](https://open.spotify.com/artist/4TtLUMMoVnPMMGZ2ljNZzF), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Señor De La Montaña](https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl) | 2:25 |
 | 26 | [La Linea Directa \(En Vivo\)](https://open.spotify.com/track/0JOWzbC7M759dmqEm85TSM) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 2:33 |
 | 27 | [De Aqui Soy](https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [De Aqui Soy](https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP) | 2:48 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 41 | [La Ley del Mayo](https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Ley del Mayo](https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH) | 3:36 |
 | 42 | [El Chivo Tatemado \(En Vivo\)](https://open.spotify.com/track/0han8uTSYeZDTQmtQyibou) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 2:50 |
 | 43 | [El Chapio](https://open.spotify.com/track/67awu82DAAtJGUtvfbSZM8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Mes De Las Madres](https://open.spotify.com/album/5wUs3Gjy7H6Pvq873lvoDN) | 2:55 |
-| 44 | [Matitas Verdes \(En Vivo\)](https://open.spotify.com/track/6602oDHS6ArzmjCXUz1DeS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Matitas Verdes \(En Vivo\)](https://open.spotify.com/album/6dFaDaCDQqEKfdcELahkAt) | 2:41 |
-| 45 | [Ya No Puedo Con Esto](https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX) | 2:29 |
+| 44 | [Ya No Puedo Con Esto](https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX) | 2:29 |
+| 45 | [Matitas Verdes \(En Vivo\)](https://open.spotify.com/track/6602oDHS6ArzmjCXUz1DeS) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Matitas Verdes \(En Vivo\)](https://open.spotify.com/album/6dFaDaCDQqEKfdcELahkAt) | 2:41 |
 | 46 | [El H](https://open.spotify.com/track/2M55f5Nu55dDZbA477v7X8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:44 |
 | 47 | [Aqui En Mi Corazon Tu Mandas](https://open.spotify.com/track/6j77T5GjC6j3oT0R45hddU) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:12 |
 | 48 | [Gustoso Y Contento \(En Vivo\)](https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Gustoso Y Contento \(En Vivo\)](https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE) | 2:33 |
 | 49 | [El Mas Poderoso \(En Vivo\)](https://open.spotify.com/track/4MVkKvP7FJ4TYZY7zZ72pl) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. II \(En Vivo\)](https://open.spotify.com/album/5E7iMK7m675htoXMQigyeM) | 3:05 |
 | 50 | [Que las Cuartitos No Falten](https://open.spotify.com/track/1J5y2EFPoqlUp995jiMiD9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:59 |
 
-Snapshot ID: `aYp1AAAAAABUPWFekc81nEunw6nT86Q6`
+Snapshot ID: `aYvGgAAAAAA5DAsQRyv6XFEmXVo9XGgA`

@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-615 songs - 1 day 10 hr 59 min
+616 songs - 1 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2023-02-23 | 2024-12-21 |
 | [How To Stop It](https://open.spotify.com/track/1C1zYsvtEw9nROGnQL40wh) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [How To Stop It](https://open.spotify.com/album/1x880PZgDNpeG3M67BmCpX) | 2:44 | 2025-05-08 |  |
 | [Hungry](https://open.spotify.com/track/4xqm63jD6sXXbdLrAa09px) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 3:29 | 2023-02-23 | 2024-04-19 |
-| [Hunter](https://open.spotify.com/track/0tu3IW9kbapTXjdgp7ClFL) | [Sandra van Nieuwland](https://open.spotify.com/artist/255PaovXNzjBcODZn42QgC) | [Hunter](https://open.spotify.com/album/5PmxMLXItoWNckYoSPgKfY) | 3:05 | 2023-02-23 |  |
+| [Hunter](https://open.spotify.com/track/0tu3IW9kbapTXjdgp7ClFL) | [Sandra van Nieuwland](https://open.spotify.com/artist/255PaovXNzjBcODZn42QgC) | [Hunter](https://open.spotify.com/album/5PmxMLXItoWNckYoSPgKfY) | 3:05 | 2023-02-23 | 2026-02-13 |
 | [Hurricane \- Acoustic Version](https://open.spotify.com/track/44W5tInDK41nwJ3k3AEplU) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane \(Acoustic Version\)](https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy) | 2:50 | 2023-02-23 |  |
 | [Hurt Me](https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Hurt Me](https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4) | 3:05 | 2025-05-12 |  |
 | [Hurt Somebody \(With Julia Michaels\)](https://open.spotify.com/track/7vA2Y79Q4bBqdzBCfHeGEe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Hurt Somebody](https://open.spotify.com/album/1TMA2dKLdsJZ8u1iikE6Ow) | 2:48 | 2023-02-23 | 2023-04-26 |
@@ -402,6 +402,7 @@
 | [Places To Go](https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Paradise And Back Again](https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1) | 3:46 | 2023-02-23 |  |
 | [Plage](https://open.spotify.com/track/6jPNXRnTy37ADxbihf56rM) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/00v21bgN2da5KonMWEAMec) | 3:50 | 2023-02-23 | 2024-04-19 |
 | [Plan B](https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Plan B](https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd) | 3:05 | 2023-02-23 |  |
+| [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-02-12 |  |
 | [Plastic heart](https://open.spotify.com/track/0Yhezw3qivWS5WvsWe1vJe) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Colors](https://open.spotify.com/album/1JsBybdsBJvct13iVujNb3) | 3:06 | 2025-05-08 |  |
 | [Playlist](https://open.spotify.com/track/4MfcEgAhzIzkNfBuacn6zT) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 3:19 | 2024-03-21 | 2024-04-19 |
 | [Pool Party Pictures](https://open.spotify.com/track/4yQR6QjTtypwjNld6WW9Jn) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Pool Party Pictures](https://open.spotify.com/album/4pQwS0wLN2lnEecuFQg6mk) | 3:06 | 2024-11-08 |  |

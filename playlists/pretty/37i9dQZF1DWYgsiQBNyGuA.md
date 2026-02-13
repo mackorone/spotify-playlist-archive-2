@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Durand Bernarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,751 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,722 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,17 +87,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 77 | [Silver Lining](https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz) | 3:20 |
 | 78 | [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 |
 | 79 | [Jeans \(fall on my knees\)](https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Jeans \(fall on my knees\)](https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g) | 2:58 |
-| 80 | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ) | 4:36 |
+| 80 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
 | 81 | [HOWWEFLOW](https://open.spotify.com/track/5R7prQMqnCcwOelkPPH9eM) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [HOWWEFLOW](https://open.spotify.com/album/7CPafRVIO0pXc6WMkKzYnv) | 2:41 |
 | 82 | [LOVE!](https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY](https://open.spotify.com/album/4JbxuyZJlpIyvXhVCRoq9E) | 1:40 |
 | 83 | [Cornbread, Fish & Collard Greens](https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:33 |
 | 84 | [Spiritual Thang](https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 4:00 |
-| 85 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 |
+| 85 | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [Three Piece Suit \(feat\. Azekel\)](https://open.spotify.com/album/2Nqaqx256kZBgaIS5FvzBQ) | 4:36 |
 | 86 | [Sugarcoat](https://open.spotify.com/track/15JA8Cex1Q10LgJ31llVdR) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book III](https://open.spotify.com/album/02ClJ7AJWANCqGNJ42urXa) | 2:00 |
 | 87 | [Bedroom Bully](https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 5:11 |
 | 88 | [Breathe](https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Violet](https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6) | 3:47 |
-| 89 | [I Got Sunshine](https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*Sunshine](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 3:14 |
-| 90 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 |
+| 89 | [Favorite \(feat\. Anderson .Paak\)](https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Trouble In Paradise](https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw) | 2:32 |
+| 90 | [I Got Sunshine](https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Avery\*Sunshine](https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB) | 3:14 |
 | 91 | [My People](https://open.spotify.com/track/6f5mcAYXtP0CMofbR41V0V) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:27 |
 | 92 | [Crysalis](https://open.spotify.com/track/0JTaxloJYWa8xu8VZ9DqbF) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [CRYSALIS](https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX) | 1:47 |
 | 93 | [These Eyes](https://open.spotify.com/track/03IhqVajoXFTIuqRu4w1B7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:40 |

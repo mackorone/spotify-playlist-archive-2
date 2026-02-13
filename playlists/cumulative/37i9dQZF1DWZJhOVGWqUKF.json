@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Lost in Hollywood",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: DON BROCO, Nickelback",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -1918,7 +1918,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 209986,
       "name": "Bloodlust",
       "url": "https://open.spotify.com/track/0EJ9cdzNwraAU0yzwGL2ZE"
@@ -3313,6 +3313,24 @@
     },
     {
       "album": {
+        "name": "Cryin' Underwater",
+        "url": "https://open.spotify.com/album/1oflyLndkeRVvYQpPBtpGQ"
+      },
+      "artists": [
+        {
+          "name": "Lonely Spring",
+          "url": "https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153120,
+      "name": "Cryin' Underwater",
+      "url": "https://open.spotify.com/track/3PBhB1nhhOgFgArGTQicYC"
+    },
+    {
+      "album": {
         "name": "TOY",
         "url": "https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52"
       },
@@ -3632,7 +3650,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 160750,
       "name": "Deja vu (feat. Yours Truly)",
       "url": "https://open.spotify.com/track/0EEfIXFD23IVlqq8FuKq1I"
@@ -3668,7 +3686,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 266007,
       "name": "Design",
       "url": "https://open.spotify.com/track/1Fm9LmUNwGuoVOQTp4sl5T"
@@ -5214,7 +5232,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 220729,
       "name": "Gamecube",
       "url": "https://open.spotify.com/track/0eyc1pbQAG88AO0DZ5qaHr"
@@ -7802,7 +7820,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 262195,
       "name": "Like A Woman Can",
       "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
@@ -8958,7 +8976,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 167600,
       "name": "Murder Scene",
       "url": "https://open.spotify.com/track/6YXwxIPFt3R340CnoFxjf9"
@@ -9254,6 +9272,28 @@
       "duration_ms": 187835,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73"
+    },
+    {
+      "album": {
+        "name": "Nightmare Tripping (Feat. Nickelback)",
+        "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        },
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321106,
+      "name": "Nightmare Tripping (Feat. Nickelback)",
+      "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
     },
     {
       "album": {
@@ -9578,7 +9618,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 194672,
       "name": "Nothing Changes",
       "url": "https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN"
@@ -10292,7 +10332,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 179027,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/63QNo9BTld0Wo2xCJ0kg25"
@@ -10959,6 +10999,24 @@
     },
     {
       "album": {
+        "name": "Riddle",
+        "url": "https://open.spotify.com/album/0WpSBLulav9eEIEGbzSfKT"
+      },
+      "artists": [
+        {
+          "name": "FREVD",
+          "url": "https://open.spotify.com/artist/3uXCmzYLCYOItkXSvnVYjg"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168792,
+      "name": "Riddle",
+      "url": "https://open.spotify.com/track/098OFTfjr0viCV7AjvbJs0"
+    },
+    {
+      "album": {
         "name": "Ride the Storm",
         "url": "https://open.spotify.com/album/6kshXECD8iJzerF4tvui6A"
       },
@@ -11154,7 +11212,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 185306,
       "name": "Ruins",
       "url": "https://open.spotify.com/track/58SG4TK3F7AgPPvJu3JPbG"
@@ -11432,6 +11490,24 @@
       "duration_ms": 213400,
       "name": "Searching for Tomorrow",
       "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158406,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/5cKBypXWgDxzGcDwX0sGwW"
     },
     {
       "album": {
@@ -11836,7 +11912,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 225046,
       "name": "Slave To The Madness",
       "url": "https://open.spotify.com/track/6nVwa3zjpbiaigRHbt6Ve6"
@@ -11998,7 +12074,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 179083,
       "name": "So Low",
       "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
@@ -12544,7 +12620,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 199542,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/15iV4qIK87w0xWJZQc2vun"
@@ -12718,7 +12794,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 241848,
       "name": "Supernatural 2.0",
       "url": "https://open.spotify.com/track/635S2joARkhSeH8JP4aVHm"
@@ -15378,7 +15454,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 184263,
       "name": "Youthfully Naive",
       "url": "https://open.spotify.com/track/1ZgFCkLj3kjmHEUxKVSfor"

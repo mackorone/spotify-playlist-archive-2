@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,693 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,761 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 53 | [Anything and Everything](https://open.spotify.com/track/67nk03tcRdD1QEt1nOp92g) | [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [Renaissance](https://open.spotify.com/album/1GJNf1s72ibGmeTC8TitLU) | 4:54 |
 | 54 | [Nightshift](https://open.spotify.com/track/5T7rGLBBmkjrKMuoaabrkZ) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Nightshift](https://open.spotify.com/album/6fCnWPp7z8tsb3eDdRCf3G) | 4:13 |
 | 55 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 2:58 |
-| 56 | [Bliss](https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 5:14 |
-| 57 | [Midnight In Manhattan](https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:49 |
+| 56 | [Midnight In Manhattan](https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:49 |
+| 57 | [Bliss](https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 5:14 |
 | 58 | [Soul Express](https://open.spotify.com/track/6j9WWYS5j00w1MltPhTlH3) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Soul Express](https://open.spotify.com/album/69nPaDqMk2Nyy5V77STGdH) | 4:38 |
 | 59 | [Island Life](https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Island Life](https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb) | 4:48 |
 | 60 | [Anywhere Near You](https://open.spotify.com/track/5rYAOOyDrBBcshfeNh2qfb) | [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Drive](https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ) | 4:45 |
-| 61 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 |
-| 62 | [Dreamwalk](https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Excusez\-Moi](https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA) | 5:56 |
+| 61 | [Dreamwalk](https://open.spotify.com/track/1tDdDgGz1q5CqmteYO7Dni) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Excusez\-Moi](https://open.spotify.com/album/4kNEM4zelH69nf1mFyysDA) | 5:56 |
+| 62 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 |
 | 63 | [Here With You](https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [It's All Good](https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr) | 4:17 |
 | 64 | [Manhattan](https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [GK](https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu) | 4:46 |
 | 65 | [Nightlife](https://open.spotify.com/track/2RZ4AXlxoLZbFgHGsfHY8i) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Nightlife](https://open.spotify.com/album/3REfT3hfJrLkfsfmkS8ZHN) | 4:31 |

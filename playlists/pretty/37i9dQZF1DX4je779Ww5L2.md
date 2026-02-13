@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,297 likes - 84 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,282 likes - 85 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 24 | [Vacuum](https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU) | [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4) | [Arrow, Four](https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz) | 3:35 |
 | 25 | [Stonewall Riots Forever](https://open.spotify.com/track/3Ozml8RxFfvpqPrGKzU87x) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Stonewall Riots Forever](https://open.spotify.com/album/5a7UNqcVVkbZybijRntt5P) | 3:58 |
 | 26 | [Truce \- Acoustic](https://open.spotify.com/track/1v9q3IrxmGG8xPLW4DNW3t) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Truce \(Acoustic\)](https://open.spotify.com/album/6M3ymdG8RBH9II9Zn3f4kY) | 3:42 |
-| 27 | [i'm not afraid of dying](https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:20 |
-| 28 | [Eight](https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [August Parker](https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX) | 3:19 |
+| 27 | [Eight](https://open.spotify.com/track/33yg5PQOWACyhdY1s3vs6E) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [August Parker](https://open.spotify.com/album/1u9yZHZqScHVKu9cei7DfX) | 3:19 |
+| 28 | [i'm not afraid of dying](https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:20 |
 | 29 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 |
 | 30 | [Martyr](https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [Martyr](https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI) | 3:23 |
 | 31 | [Waving](https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno), [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Waving](https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs) | 4:13 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 35 | [Pass Through Time](https://open.spotify.com/track/5vk2mItXn2EpWbDlJer4yx) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb), [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4), [The Christian Club](https://open.spotify.com/artist/3fCffuwmMDVB1UsQTOIUDD) | [Pass Through Time](https://open.spotify.com/album/4T0QZ8CFerLHc7ajHfnskl) | 4:16 |
 | 36 | [Cold Comfort](https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Cold Comfort](https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6) | 2:44 |
 | 37 | [Shape Of The Dunes](https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9) | [Liza Weald](https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C) | [Shape Of The Dunes](https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe) | 3:13 |
-| 38 | [Pride](https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Pride](https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb) | 4:04 |
-| 39 | [Bright Belief](https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Bright Belief](https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD) | 4:42 |
+| 38 | [Bright Belief](https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Bright Belief](https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD) | 4:42 |
+| 39 | [Pride](https://open.spotify.com/track/4cU0Giacvg9jQfrWGPNspL) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Pride](https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb) | 4:04 |
 | 40 | [Whiskey](https://open.spotify.com/track/4c3bVxNMA6DJNiDzhg6kEk) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [Whiskey](https://open.spotify.com/album/0w0uFnPjS2HDBYuzRtO45g) | 3:03 |
 | 41 | [Never Again](https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Never Again](https://open.spotify.com/album/4ThezZScitRuZONCfkJewe) | 2:52 |
 | 42 | [I Don´t Feel](https://open.spotify.com/track/3wqEwrMnhMUboJRVx0cknF) | [Aggy Ally](https://open.spotify.com/artist/0BA6Cx7qcqWVHg0dUjDsZs) | [I Don´t Feel](https://open.spotify.com/album/2EcwGODe0tlGGlB02xrMOr) | 3:28 |
@@ -55,16 +55,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 45 | [Tree\-lined Lanes](https://open.spotify.com/track/3eKf0AO16jh53M2IKF3KLR) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 2:53 |
 | 46 | [No One Listens Anymore \(acoustic\)](https://open.spotify.com/track/0TV1pKSGkRLO8pmbmx9E2k) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [No One Listens Anymore \(acoustic\)](https://open.spotify.com/album/5Os6AY420xj5jC0Y68YNhl) | 3:11 |
 | 47 | [Seven Lonely Nights](https://open.spotify.com/track/4KWwyQtWCtO04TWelNBbe2) | [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69), [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [A Soundtrack to a Never\-Ending Story](https://open.spotify.com/album/2Ej1zX3c1wVBDIJnNk62Dp) | 4:13 |
-| 48 | [Birds Of Paradise](https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj) | [Hydrogen Sea](https://open.spotify.com/artist/5MdGszDt9p0CjdUYOidTBH) | [Wolves EP](https://open.spotify.com/album/0bxlRfsXldvLDC0RxGkfd7) | 2:26 |
-| 49 | [At The Party](https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [At The Party](https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm) | 3:35 |
+| 48 | [At The Party](https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [At The Party](https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm) | 3:35 |
+| 49 | [Birds Of Paradise](https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj) | [Hydrogen Sea](https://open.spotify.com/artist/5MdGszDt9p0CjdUYOidTBH) | [Wolves EP](https://open.spotify.com/album/0bxlRfsXldvLDC0RxGkfd7) | 2:26 |
 | 50 | [Lonely Heart \- Acoustic Version](https://open.spotify.com/track/7sfNzHnuDdH2xd6TAWoRCe) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Lonely Heart \(Acoustic Version\)](https://open.spotify.com/album/44PryjNkl5NNhD0FLYVLnq) | 4:09 |
-| 51 | [U&I](https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [U&I](https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB) | 2:33 |
-| 52 | [My Child, My Friend](https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [My Child, My Friend \- Anchor](https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD) | 2:32 |
+| 51 | [My Child, My Friend](https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [My Child, My Friend \- Anchor](https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD) | 2:32 |
+| 52 | [U&I](https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [U&I](https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB) | 2:33 |
 | 53 | [Mother](https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno) | [Mother](https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy) | 3:14 |
 | 54 | [The End](https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM) | [Ato Pérez](https://open.spotify.com/artist/1YESxvefykMWbXEUFOkdKc), [Jeffrey Dol](https://open.spotify.com/artist/09UVRn1NH4bTQ3lQrmvVHh) | [The Farm](https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs) | 5:02 |
 | 55 | [Try Try Try \- Acoustic Version](https://open.spotify.com/track/3tW8fWg7hHY62dPs8qxyjc) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Try Try Try \(Acoustic Version\)](https://open.spotify.com/album/0hcMwG9nEiYXMlm5o15Rff) | 2:59 |
-| 56 | [You](https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Bleeding Colours](https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6) | 3:40 |
-| 57 | [Leaving](https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Leaving \- Reminisce](https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ) | 5:24 |
+| 56 | [Leaving](https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Leaving \- Reminisce](https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ) | 5:24 |
+| 57 | [You](https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Bleeding Colours](https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6) | 3:40 |
 | 58 | [An Hour Per Day](https://open.spotify.com/track/7rBwAUy2w1CPrrIan7r2Rd) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [An Hour Per Day](https://open.spotify.com/album/32QlWfeGQTrlE5JFR3Teav) | 3:37 |
 | 59 | [Dragon's Eyes](https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dragon's Eyes](https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs) | 3:48 |
 | 60 | [Boat](https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE) | [RAMAN.](https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86) | [Boat](https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA) | 5:08 |
@@ -91,6 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 81 | [You and I](https://open.spotify.com/track/2ia6zPFz6SF8ZOT5mpR2TA) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [You and I](https://open.spotify.com/album/6vD25XXvlBJCH4duRBMfYc) | 2:48 |
 | 82 | [Growing Pains](https://open.spotify.com/track/2nuv1Vj4H8uTP0e2bIbotu) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Growing Pains](https://open.spotify.com/album/0YTckebc9Ece4Ja8Jr8go2) | 2:53 |
 | 83 | [my moon](https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [my moon](https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2) | 2:07 |
-| 84 | [Fortune \- Acoustic Version](https://open.spotify.com/track/4yBaSpXD0NXU0fVVORb0Dx) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/67VE6RTOJLwouXsB6Bs5zB) | 3:48 |
+| 84 | [Getting Up](https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Getting Up](https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI) | 4:34 |
+| 85 | [Fortune \- Acoustic Version](https://open.spotify.com/track/4yBaSpXD0NXU0fVVORb0Dx) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/67VE6RTOJLwouXsB6Bs5zB) | 3:48 |
 
-Snapshot ID: `AAAAAKuwg5s9HKLRjVHKmPYHfikNqPvX`
+Snapshot ID: `AAAAAPkWe6bxI+b31+CY3t4dARUSHohL`

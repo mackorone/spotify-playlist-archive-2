@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 
 > Lo mejor del pop en español en la década de los 90.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,509 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,772 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 32 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 |
 | 33 | [Me quedaré solo](https://open.spotify.com/track/4I3rLiNr4xgRT5dRpFOltS) | [Amistades Peligrosas](https://open.spotify.com/artist/15FscPIs0VO23BCCMaPglf) | [La Profecía](https://open.spotify.com/album/2k691jOhcg4Hj89qp9OLzY) | 4:21 |
 | 34 | [Ojos Así](https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:55 |
-| 35 | [Mariposa tecknicolor](https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 3:42 |
-| 36 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:08 |
+| 35 | [Vuelve](https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Vuelve](https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL) | 5:08 |
+| 36 | [Mariposa tecknicolor](https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Circo Beat](https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa) | 3:42 |
 | 37 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
 | 38 | [Historia de Taxi](https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Historias](https://open.spotify.com/album/110rZdMmIjA335CehJJkuk) | 6:45 |
 | 39 | [La Pachanga](https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 4:41 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlpl5PNGfZ9.md) - [plain]
 | 46 | [La Calle De Las Sirenas](https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [La Calle De Las Sirenas](https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS) | 3:56 |
 | 47 | [Si tú no estas](https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 4:16 |
 | 48 | [Dejame Llorar](https://open.spotify.com/track/3dH0WIQ1noUsRvA4OtHSrl) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Con La London Metropolitan Orchestra](https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE) | 5:12 |
-| 49 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
-| 50 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
+| 49 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
+| 50 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
 
 Snapshot ID: `AAAAAGPKthnIOx08Y1hApeOmVJBNCig4`

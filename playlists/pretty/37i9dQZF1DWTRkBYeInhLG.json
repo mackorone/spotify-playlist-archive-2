@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 500004,
+  "num_followers": 500016,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "Manusia",
-        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Interaksi",
-      "url": "https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
         "name": "Every Summertime",
         "url": "https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 215686,
       "name": "Every Summertime",
       "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "Manusia",
+        "url": "https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Interaksi",
+      "url": "https://open.spotify.com/track/32Pdf9eyXDEMoClEJW6yYP"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
+        "name": "Keabadian",
+        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
+      },
+      "artists": [
+        {
+          "name": "Reza Artamevia",
+          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Keabadian",
+      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
         "name": "Sialan",
         "url": "https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 241088,
       "name": "Sialan",
       "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
-        "name": "Keabadian",
-        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
-      },
-      "artists": [
-        {
-          "name": "Reza Artamevia",
-          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Keabadian",
-      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
-      },
-      "artists": [
-        {
-          "name": "Naif",
-          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "Air & Api",
-      "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
         "name": "Katakan Saja",
         "url": "https://open.spotify.com/album/5bCGmjVjL7LfS6el6O0Nwp"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 263053,
       "name": "Katakan Saja",
       "url": "https://open.spotify.com/track/012WiZSgTedjCImYNyA1bF"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
+      },
+      "artists": [
+        {
+          "name": "Naif",
+          "url": "https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "Air & Api",
+      "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -1311,22 +1311,22 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "Benar-Benar",
-        "url": "https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69"
+        "name": "It's Me BCL",
+        "url": "https://open.spotify.com/album/3lWkC6kEMXvboWSFEB6D1B"
       },
       "artists": [
         {
-          "name": "TheOvertunes",
-          "url": "https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk"
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
         },
         {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+          "name": "Dipha Barus",
+          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
         }
       ],
-      "duration_ms": 262913,
-      "name": "Benar-Benar",
-      "url": "https://open.spotify.com/track/21h4Kd8KTMPpLtQ7vdc2Aq"
+      "duration_ms": 211965,
+      "name": "Aku Wanita (with Dipha Barus)",
+      "url": "https://open.spotify.com/track/3GYxLBhbX1bJH0zoC8zXa7"
     },
     {
       "added_at": "2025-10-07 11:00:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,872 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,936 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 11 | [So Anxious](https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [100% Ginuwine](https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY) | 4:36 |
 | 12 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 |
 | 13 | [Adorn](https://open.spotify.com/track/5hJFhO9dvhJoDvUZZ9iWSw) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream \(Deluxe Version\)](https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4) | 3:13 |
-| 14 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 |
-| 15 | [Slow Motion](https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:17 |
+| 14 | [Slow Motion](https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:17 |
+| 15 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 |
 | 16 | [Come Thru \(with Usher\)](https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:01 |
 | 17 | [You](https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [4275 \(Bonus Version\)](https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO) | 3:37 |
 | 18 | [Bed](https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM) | [J\. Holiday](https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk) | [Back Of My Lac'](https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI) | 4:35 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 43 | [Love Controversy, Pt\. 1](https://open.spotify.com/track/65vHeUg08NqpNjgp4J78Th) | [Loose Ends](https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo), [Sunay Suleyman](https://open.spotify.com/artist/5XOt8DizAeCLP92Y1l8BHp) | [Look How Long](https://open.spotify.com/album/0ObU1HpJzqahdHUy7qbN6F) | 3:29 |
 | 44 | [Dangerous \(feat\. Jeremih and PnB Rock\)](https://open.spotify.com/track/1lL7Sj9AitQT7YWXs6obEq) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Legends of the Summer](https://open.spotify.com/album/10VeHPWU3210DSCq0uQ9uN) | 3:54 |
 | 45 | [Me & U \- US Version](https://open.spotify.com/track/1AajFWbXbqpomHwLb3vYC3) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Me & U](https://open.spotify.com/album/3H2gZ86J7G4xjMS79o6LUd) | 3:11 |
-| 46 | [We Can Make Love](https://open.spotify.com/track/0GprcPh962hOBopHNuUsLV) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [SoMo](https://open.spotify.com/album/3C1R7nVZwUrvb6RG4Bod5U) | 4:29 |
+| 46 | [Run My Mouth](https://open.spotify.com/track/3gfIiIN9ZrFgfI9eZDI831) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 2:35 |
 | 47 | [Back To Sleep](https://open.spotify.com/track/3FQdtOMXdfDcDDjY1OHAqz) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To Sleep](https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx) | 3:21 |
-| 48 | [Run My Mouth](https://open.spotify.com/track/3gfIiIN9ZrFgfI9eZDI831) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 2:35 |
+| 48 | [We Can Make Love](https://open.spotify.com/track/0GprcPh962hOBopHNuUsLV) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [SoMo](https://open.spotify.com/album/3C1R7nVZwUrvb6RG4Bod5U) | 4:29 |
 | 49 | [Late Night Drive](https://open.spotify.com/track/0K83VVfg5Y4bPoZ4kmytKH) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Late Night Drive](https://open.spotify.com/album/1ZpjavjzxvWjPYDnpDR8nX) | 4:12 |
 | 50 | [Needs](https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW) | [ELHAE](https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY) | [All Have Fallen](https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9) | 3:25 |
 | 51 | [Permission](https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [Permission](https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa) | 4:41 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 54 | [Alone](https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Alone](https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig) | 2:49 |
 | 55 | [get me started \(feat\. syd\)](https://open.spotify.com/track/0jeCoIGrGhw8lnkd5YF0qB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 2:49 |
 | 56 | [Lessons in Love](https://open.spotify.com/track/4JVdfd11wMY1yOXblCTskJ) | [TGT](https://open.spotify.com/artist/1lEXbUjKjHQ7uc9jFfEViJ) | [Three Kings](https://open.spotify.com/album/4q9nPVz5Nt6KEqtcxk6SI8) | 3:53 |
-| 57 | [Friendly Skies \(feat\. Ginuwine\)](https://open.spotify.com/track/580qfiaOR7n9PuKbRUi7qx) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:59 |
-| 58 | [Balcony](https://open.spotify.com/track/3CBwK6H17WEX6qkVZsVVDo) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Balcony](https://open.spotify.com/album/0lIPzAZfD2t5wfOGbHr8fL) | 2:48 |
+| 57 | [Balcony](https://open.spotify.com/track/3CBwK6H17WEX6qkVZsVVDo) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Balcony](https://open.spotify.com/album/0lIPzAZfD2t5wfOGbHr8fL) | 2:48 |
+| 58 | [Friendly Skies \(feat\. Ginuwine\)](https://open.spotify.com/track/580qfiaOR7n9PuKbRUi7qx) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:59 |
 | 59 | [Lights On](https://open.spotify.com/track/0MbTorBGV6tW2ePPVJ9Chu) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R\. Volume 2](https://open.spotify.com/album/3Bdtv2Y8lHrXOsboFA96hX) | 3:39 |
 | 60 | [Freaky with You \(feat\. Jacquees\)](https://open.spotify.com/track/5zO5UXvI31FaxDDvSI9XPc) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Freaky with You \(feat\. Jacquees\)](https://open.spotify.com/album/6EPo6xCnOmESCbY7Cdf50u) | 3:12 |
 | 61 | [Rock wit Me \(feat\. IAMSU!\)](https://open.spotify.com/track/1UFg9EPjaPAiHl9lurJK0I) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg), [Iamsu!](https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi) | [In My Feelings](https://open.spotify.com/album/1UEdyTHXWW9nXcNv9z590a) | 3:24 |

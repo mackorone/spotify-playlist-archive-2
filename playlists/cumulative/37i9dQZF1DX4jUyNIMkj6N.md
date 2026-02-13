@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-379 songs - 22 hr 50 min
+380 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 | 2025-05-29 |  |
 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR) | 5:28 | 2024-06-20 | 2024-09-06 |
 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/6maBoD5dTSlChuGblBLc8E) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Kvitravn \- First Flight of the White Raven](https://open.spotify.com/album/7rMCly66gjyiT6KFNNAuTB) | 5:28 | 2022-07-14 | 2022-11-09 |
-| [Find A Home Out There](https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Find A Home Out There](https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp) | 3:26 | 2025-05-22 |  |
+| [Find A Home Out There](https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Find A Home Out There](https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp) | 3:26 | 2025-05-22 | 2026-02-13 |
 | [Finding You Again](https://open.spotify.com/track/59RTzis0xZIqlFBteJFsrB) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Finding You Again](https://open.spotify.com/album/58rLhkfZO2qYvLBeV1ToiD) | 3:18 | 2025-03-06 | 2026-02-01 |
 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 | 2025-04-27 |
 | [Follow Me Home](https://open.spotify.com/track/6wYjQODXHSIdLOZDnKZnql) | [I Was A King](https://open.spotify.com/artist/0SannT3hsrgAXQ9abyVQsB) | [Follow Me Home](https://open.spotify.com/album/5busehpoFGB68UYicJdF7c) | 3:21 | 2022-07-07 | 2022-07-14 |
@@ -190,6 +190,7 @@
 | [Indigo](https://open.spotify.com/track/24kGDYThFy7mvzB5pjtYqE) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Indigo](https://open.spotify.com/album/3BTsko3eP7ONxcyTT1ott4) | 3:18 | 2024-05-23 | 2025-02-28 |
 | [Innocent](https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Innocent](https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u) | 2:36 | 2024-03-04 | 2025-05-11 |
 | [I´m Not Your Girl](https://open.spotify.com/track/6ieR62VPMIZGOwB8LeO9Th) | [Emma Nilsdotter](https://open.spotify.com/artist/2AAJ99uA6YnG8XgqBmFDnd), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq) | [I´m Not Your Girl](https://open.spotify.com/album/5XrQYpeiUCIYZ6GgF4YzL6) | 3:40 | 2024-03-07 | 2024-05-12 |
+| [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 | 2026-02-12 |  |
 | [June](https://open.spotify.com/track/4pduaq2UnV1fpgevorNxAv) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [June](https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM) | 3:38 | 2022-07-14 | 2022-10-25 |
 | [Kaleidoscope Dream](https://open.spotify.com/track/7AA7OKI46YdQ64gXSDBQv6) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS) | [Kaleidoscope Dream](https://open.spotify.com/album/09UeNYXrcwTA0CFIx2P6c3) | 3:39 | 2021-12-02 | 2022-07-29 |
 | [Kings and Aces](https://open.spotify.com/track/00FjPtTqy9JtPsjwVJMRxw) | [The White Album](https://open.spotify.com/artist/5JhaDdCfVwK1YJciYM7s6i) | [The Quiet Strum](https://open.spotify.com/album/4VHQklPYm6aSSbeRalAi62) | 2:49 | 2021-12-02 | 2022-07-19 |

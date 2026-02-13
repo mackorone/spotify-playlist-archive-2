@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyVNt8nnPfR.md) - [plain]
 
 > Relax with these seriously laid\-back classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,124 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,167 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyVNt8nnPfR.md) - [plain]
 | 8 | [Could You Be Loved](https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:57 |
 | 9 | [Vienna](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:34 |
 | 10 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
-| 11 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 |
+| 11 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:06 |
 | 12 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
-| 13 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:06 |
-| 14 | [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Pat Garrett & Billy The Kid \(Soundtrack From The Motion Picture\)](https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL) | 2:29 |
+| 13 | [Knockin' On Heaven's Door](https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Pat Garrett & Billy The Kid \(Soundtrack From The Motion Picture\)](https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL) | 2:29 |
+| 14 | [Another Day in Paradise \- 2016 Remaster](https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:22 |
 | 15 | [With Or Without You](https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:55 |
 | 16 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 17 | ["Heroes" \- 2017 Remaster](https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | ["Heroes" \(2017 Remaster\)](https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk) | 6:11 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyVNt8nnPfR.md) - [plain]
 | 45 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 |
 | 46 | [Beautiful Boy \(Darling Boy\) \- Remastered 2010](https://open.spotify.com/track/5URfZHMlUWTWxPvvSBWcPk) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 4:05 |
 | 47 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 |
-| 48 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 |
-| 49 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
+| 48 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
+| 49 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 |
 | 50 | [Stars](https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz) | [Simply Red](https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8) | [Stars \(Collector's Edition\)](https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC) | 4:08 |
 
 Snapshot ID: `AAAAANblZHQPRJlQUnknZ0WlMIvmbUDq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 
 > This is Ebony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,505 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,523 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14TklP.md) - [plain]
 | 41 | [Facetime](https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Facetime](https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr) | 2:43 |
 | 42 | [After](https://open.spotify.com/track/6WODGYSGiq0aUNqYlOYNhA) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [Visão Periférica](https://open.spotify.com/album/3P2UK2xxbzATRIgogpF3YF) | 2:12 |
 | 43 | [Pensamentos Intrusivos \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8) | [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Pensamentos Intrusivos \(Uma série Netflix "Nova Cena"\)](https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd) | 2:27 |
-| 44 | [Flat](https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 2:49 |
-| 45 | [Xoxo](https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j) | [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Xoxo](https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv) | 2:10 |
+| 44 | [Xoxo](https://open.spotify.com/track/0TBRCcnppM6aPQaBagyA9j) | [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Xoxo](https://open.spotify.com/album/0Vw3WqhMUCEspme58uRYHv) | 2:10 |
+| 45 | [Flat](https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 2:49 |
 | 46 | [Fresh Stars 2020 Pnpl](https://open.spotify.com/track/1VEuZhIan3IQiZUxJihA8H) | [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Beat Jogzz](https://open.spotify.com/artist/7kB70QFOEcQme0JNuUYl6z), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Fresh Stars 2020 Pnpl](https://open.spotify.com/album/3wyMe21JdM7MjyoHaYChHE) | 4:40 |
 | 47 | [Tons \#3 \- Velocidade \(BR 101\) \[feat\. CRIVO\]](https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l) | [Filipe Papi](https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm), [Xaga](https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [CRIVO](https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe) | [Tons \#3 \- Velocidade \(BR 101\) \[feat\. CRIVO\]](https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5) | 3:01 |
 | 48 | [Bugatti](https://open.spotify.com/track/6uhGUFjFRG1dZnWq7s14Qs) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 1:55 |
 | 49 | [Lipstick](https://open.spotify.com/track/7jW8WhCSI4jro6B9f4hQyN) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Condessa](https://open.spotify.com/album/09p3ofskrFXhmN9dUe5Aiu) | 2:30 |
 
-Snapshot ID: `aYp1AAAAAABUYcBGRDRZWv154oeqf838`
+Snapshot ID: `aYvGgAAAAADcIyWlRnbEhs4J3mTZfs+L`

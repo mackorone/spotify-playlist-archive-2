@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: RATA.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: el diablo de shangai.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -1299,6 +1299,24 @@
     },
     {
       "album": {
+        "name": "Caen Imperios",
+        "url": "https://open.spotify.com/album/4q0NWJdIip4fAtIxHOWqQo"
+      },
+      "artists": [
+        {
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "Caen Imperios",
+      "url": "https://open.spotify.com/track/6wJk3x2eRy7Fo6stBr0N6z"
+    },
+    {
+      "album": {
         "name": "Calle Plata",
         "url": "https://open.spotify.com/album/6vFve1hrFj2UBoSRW2beM9"
       },
@@ -1376,6 +1394,24 @@
       "duration_ms": 149714,
       "name": "Cardio y caladas",
       "url": "https://open.spotify.com/track/7N32rP2LvQh0IJw9qRmbCe"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "el diablo de shanghai",
+          "url": "https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187426,
+      "name": "Carrera de Vainas",
+      "url": "https://open.spotify.com/track/5sTzwcJPfAOI7neub04Gml"
     },
     {
       "album": {
@@ -2390,7 +2426,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 216747,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/02pvTwwSXCebarnipv3m9z"
@@ -2740,7 +2776,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 257601,
       "name": "El d\u00eda no me da con Shego",
       "url": "https://open.spotify.com/track/0bHYnkMSMwFOaqxKk36sC5"
@@ -2852,7 +2888,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 199384,
       "name": "El muro",
       "url": "https://open.spotify.com/track/1nnJdCMUrlAcQZCQSKw8Mp"
@@ -3231,6 +3267,24 @@
     },
     {
       "album": {
+        "name": "Especie en extinci\u00f3n",
+        "url": "https://open.spotify.com/album/1UOINYqe6iPGwkBVcJSZkf"
+      },
+      "artists": [
+        {
+          "name": "Nat Simons",
+          "url": "https://open.spotify.com/artist/6iabh4Ty1lWNv3FLST7Dhn"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250001,
+      "name": "Especie en extinci\u00f3n",
+      "url": "https://open.spotify.com/track/5FQFqSwJLdFZpdte4Mh08y"
+    },
+    {
+      "album": {
         "name": "Esclavos Do Baile",
         "url": "https://open.spotify.com/album/3OH06u8PZ4R0LbB99thX2p"
       },
@@ -3478,6 +3532,24 @@
       "duration_ms": 144846,
       "name": "Finales Alternativos",
       "url": "https://open.spotify.com/track/5Iz3b8J09zstCwndwYPaOJ"
+    },
+    {
+      "album": {
+        "name": "Firmar la paz",
+        "url": "https://open.spotify.com/album/0xljQ874HIlcBAKUtkHYxT"
+      },
+      "artists": [
+        {
+          "name": "Cora Yako",
+          "url": "https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145090,
+      "name": "Firmar la paz",
+      "url": "https://open.spotify.com/track/0ydJZbQC16y4Fq4ecnPf9R"
     },
     {
       "album": {
@@ -5480,7 +5552,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 174756,
       "name": "Mala suerte",
       "url": "https://open.spotify.com/track/63wiK3BdfqXERZ0wiH7jfc"
@@ -7507,6 +7579,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Toldos Verdes",
+          "url": "https://open.spotify.com/artist/0E2ZnsJ8v4h5x9y7aB8RLw"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139125,
+      "name": "Paz mundial",
+      "url": "https://open.spotify.com/track/2LsEgx2J7J720kE2zr8UcV"
+    },
+    {
+      "album": {
         "name": "Pedro Bicicletas",
         "url": "https://open.spotify.com/album/0P3Hdlh6LmtJXei8SVJFsj"
       },
@@ -7648,7 +7738,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 159992,
       "name": "Pesadillas",
       "url": "https://open.spotify.com/track/6yRFtMfw6DaAmtN1y9W83W"
@@ -7782,7 +7872,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 184112,
       "name": "Pogo",
       "url": "https://open.spotify.com/track/3iOahJinkCMmZOvP2VApg7"
@@ -8687,6 +8777,24 @@
     },
     {
       "album": {
+        "name": "Si no existe la libertad",
+        "url": "https://open.spotify.com/album/0x7GR6GlRZKIQRAXeuaGYe"
+      },
+      "artists": [
+        {
+          "name": "Periferia",
+          "url": "https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184622,
+      "name": "Si no existe la libertad",
+      "url": "https://open.spotify.com/track/5U3mzZ6EgXWb7BFcliNhZt"
+    },
+    {
+      "album": {
         "name": "Si No Me Muevo",
         "url": "https://open.spotify.com/album/1AVKhBZkVtFpYF9SgJTCUo"
       },
@@ -8850,6 +8958,28 @@
       "duration_ms": 145003,
       "name": "Sitcom",
       "url": "https://open.spotify.com/track/36rZJV3ioGnEPzq72aCZMe"
+    },
+    {
+      "album": {
+        "name": "Skol",
+        "url": "https://open.spotify.com/album/73fzO2bTDPFJZ8RbClCm9G"
+      },
+      "artists": [
+        {
+          "name": "Mala Gesti\u00f3n",
+          "url": "https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP"
+        },
+        {
+          "name": "Los Chivatos",
+          "url": "https://open.spotify.com/artist/1FrY0lSuDVQMmUFE3grB85"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168187,
+      "name": "Skol",
+      "url": "https://open.spotify.com/track/3AIxhYnWjxQZmcFeDx667S"
     },
     {
       "album": {
@@ -9368,7 +9498,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 235840,
       "name": "Tirant lo Blanc",
       "url": "https://open.spotify.com/track/4xv0OxmZ1p2gJLxxVDAA8m"

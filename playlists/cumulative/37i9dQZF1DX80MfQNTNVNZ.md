@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-631 songs - 1 day 13 hr 10 min
+632 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Catharsis](https://open.spotify.com/track/2cWAfOTxFrCPJ6rZU5WqDG) | [Master Soul Boy](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Catharsis](https://open.spotify.com/album/2ClfWMCvHw0GhAKAS5EVMa) | 2:24 | 2021-12-23 | 2022-07-28 |
 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-15 | 2026-01-15 |
 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 | 2023-05-19 |  |
-| [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/album/3HC2Rgx0wIcXQNzkVlZOue) | 3:22 | 2024-01-25 |  |
+| [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Charge It Remix \(feat\. Smino\)](https://open.spotify.com/album/3HC2Rgx0wIcXQNzkVlZOue) | 3:22 | 2024-01-25 | 2026-02-13 |
 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 | 2023-11-16 | 2023-11-24 |
 | [Cinnamon Curls](https://open.spotify.com/track/4GSEf95lL4csXQlT2RGfOe) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Cinnamon Curls](https://open.spotify.com/album/49F31VHQxwOLpTRBsQboBL) | 4:06 | 2024-06-15 | 2025-02-08 |
 | [Cold](https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Cold](https://open.spotify.com/album/1sdWZoa3udg3L1l3EuNk8j) | 3:57 | 2023-09-07 | 2023-10-06 |
@@ -441,6 +441,7 @@
 | [She's Gone](https://open.spotify.com/track/5RB5lC6FucolegEsA61b8f) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Susanna](https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF) | 3:39 | 2022-01-27 | 2022-05-26 |
 | [SHEEP](https://open.spotify.com/track/0d0AtD1ZWwOwheQwQ3GsZ6) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [SHEEP](https://open.spotify.com/album/4iETcGGHi9p2i5VuF8lBUS) | 4:32 | 2022-03-24 | 2022-06-20 |
 | [SHOW ME OUT](https://open.spotify.com/track/6h0yJ8bTlpxfwiJ0aXbKxG) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [talking to the wind](https://open.spotify.com/album/1cVxRuTFcepbaLF1Tc1C47) | 2:13 | 2024-01-18 | 2024-02-09 |
+| [Silently](https://open.spotify.com/track/4zsyUUiiob6NEyG4kzVyaP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Croak Dream](https://open.spotify.com/album/6c3Xs0oDVFXrqVh56D50do) | 3:29 | 2026-02-10 |  |
 | [Since I Have A Lover](https://open.spotify.com/track/1qtwebmDBKPQEggSKGoSfy) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/6rnB57BMxdU6Z2TNExuPh7) | 4:42 | 2023-03-02 | 2024-05-10 |
 | [Since I Have A Lover](https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 4:42 | 2023-04-20 | 2024-04-19 |
 | [Sisters With Me](https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Sisters With Me](https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP) | 4:04 | 2026-02-10 |  |

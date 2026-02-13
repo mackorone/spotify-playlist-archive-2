@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,384 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,415 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 16 | [2 O' CLOCK](https://open.spotify.com/track/36PxJOUB8qFTcDFp2M0h6K) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [2 O' CLOCK](https://open.spotify.com/album/2VAiqG6FNssKi5vOda6kil) | 2:32 |
 | 17 | [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 |
 | 18 | [Bye Bye My Blue](https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye Bye My Blue](https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU) | 3:23 |
-| 19 | [That Kind of Love](https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv) | [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [That Kind Of Love](https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm) | 3:32 |
-| 20 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:05 |
+| 19 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:05 |
+| 20 | [That Kind of Love](https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv) | [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [That Kind Of Love](https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm) | 3:32 |
 | 21 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/0Z8IT9sJWaGQb942lphBzY) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Can I Love?](https://open.spotify.com/album/5RywVUX8IUEPcj3VO6Bq3y) | 3:49 |
 | 22 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
 | 23 | [Paint On Spring \- Remastering](https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [SLATE](https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv) | 3:52 |

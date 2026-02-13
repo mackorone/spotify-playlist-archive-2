@@ -1,13 +1,157 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 12 Feb 23:11 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 13 Feb 23:11 UTC.",
   "num_followers": 104,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAXd0IL8E/cO5XFCdLcxA2OFvYhG4fn",
+  "snapshot_id": "AAAXgYQxxrPF8BCScEOMFspOv7hnofKW",
   "tracks": [
+    {
+      "added_at": "2026-02-12 23:11:03",
+      "album": {
+        "name": "ICEMAN FREESTYLE",
+        "url": "https://open.spotify.com/album/2WffTc00muxCNZhwopltsi"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "ICEMAN FREESTYLE",
+      "url": "https://open.spotify.com/track/0YskQDMYYgtxyFp1yTabRu"
+    },
+    {
+      "added_at": "2026-02-12 19:11:22",
+      "album": {
+        "name": "I Had a Dream She Took My Hand",
+        "url": "https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 220291,
+      "name": "I Had a Dream She Took My Hand",
+      "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
+    },
+    {
+      "added_at": "2026-02-12 23:11:03",
+      "album": {
+        "name": "CINEMA",
+        "url": "https://open.spotify.com/album/36z5yhxUByU5TZwDFNf0Wf"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "CINEMA",
+      "url": "https://open.spotify.com/track/1AO9dgVC6GL4ILlh1RpBnC"
+    },
+    {
+      "added_at": "2026-02-12 14:11:02",
+      "album": {
+        "name": "Flags",
+        "url": "https://open.spotify.com/album/4tocgMB81kYzmX1J79SiiH"
+      },
+      "artists": [
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        },
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "duration_ms": 306537,
+      "name": "Flags",
+      "url": "https://open.spotify.com/track/0GkUyGCLewjgand5EEfCOO"
+    },
+    {
+      "added_at": "2026-02-12 04:11:07",
+      "album": {
+        "name": "Sauvignon Blanc",
+        "url": "https://open.spotify.com/album/5p10PqUVm787QcnqKmiVZF"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/5QAgAknbr8nCAyAubKsrfS"
+    },
+    {
+      "added_at": "2026-02-12 09:11:05",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 291513,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+    },
+    {
+      "added_at": "2026-02-12 04:11:07",
+      "album": {
+        "name": "you and forever",
+        "url": "https://open.spotify.com/album/32spb4QXcrqJxAgumWb6up"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 234971,
+      "name": "you and forever",
+      "url": "https://open.spotify.com/track/7faK0eOWGbfxWeuw1inyBN"
+    },
+    {
+      "added_at": "2026-02-12 23:11:03",
+      "album": {
+        "name": "mangetout (The Dare remix)",
+        "url": "https://open.spotify.com/album/7zHlzM3GayR3F1IoG5Xmls"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        },
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 200192,
+      "name": "mangetout - The Dare remix",
+      "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
+    },
     {
       "added_at": "2026-02-11 23:11:03",
       "album": {
@@ -23,6 +167,22 @@
       "duration_ms": 140435,
       "name": "DIRTY TECH",
       "url": "https://open.spotify.com/track/4HeRz0c4WDErd3Ey953EVW"
+    },
+    {
+      "added_at": "2026-02-12 19:11:22",
+      "album": {
+        "name": "I Like You A Lot",
+        "url": "https://open.spotify.com/album/3bCqum4mnqThYE8diO7AVk"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 247773,
+      "name": "I Like You A Lot",
+      "url": "https://open.spotify.com/track/1te3mypyhXzEcyqNEX5fsj"
     },
     {
       "added_at": "2026-02-11 19:09:38",
@@ -331,6 +491,22 @@
       "duration_ms": 201000,
       "name": "Drive Safe",
       "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
+    },
+    {
+      "added_at": "2026-02-12 09:11:05",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/543FTm0pzQpBQXNsT6xmmh"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "duration_ms": 213401,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/7ufzuyyhu3u2vf78deWa9g"
     },
     {
       "added_at": "2026-02-11 19:09:38",
@@ -695,194 +871,6 @@
       "duration_ms": 158357,
       "name": "NOW OR NEVER II",
       "url": "https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2"
-    },
-    {
-      "added_at": "2026-02-11 19:09:38",
-      "album": {
-        "name": "Pieces Of You",
-        "url": "https://open.spotify.com/album/3fAMjEafLb0bRZXLMFDBRf"
-      },
-      "artists": [
-        {
-          "name": "Swim Deep",
-          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
-        }
-      ],
-      "duration_ms": 265090,
-      "name": "Pieces Of You",
-      "url": "https://open.spotify.com/track/2rh53tzRgeaOdyyOLhK2Ur"
-    },
-    {
-      "added_at": "2026-02-11 19:09:38",
-      "album": {
-        "name": "OFFERINGS",
-        "url": "https://open.spotify.com/album/2kgwGxKuLxEHBQjKXs9qo7"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "OFFERINGS",
-      "url": "https://open.spotify.com/track/19n32jI1QJiXMr3KXFRCfk"
-    },
-    {
-      "added_at": "2026-02-11 19:09:38",
-      "album": {
-        "name": "COME CLOSER",
-        "url": "https://open.spotify.com/album/64FOGaSyhQfEBe8qJa8uBe"
-      },
-      "artists": [
-        {
-          "name": "TOMORA",
-          "url": "https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        },
-        {
-          "name": "Tom Rowlands",
-          "url": "https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW"
-        }
-      ],
-      "duration_ms": 268453,
-      "name": "COME CLOSER",
-      "url": "https://open.spotify.com/track/1hcPxZEQ7ni2fJMqPrNrWf"
-    },
-    {
-      "added_at": "2026-01-29 19:03:51",
-      "album": {
-        "name": "I Did This To Myself",
-        "url": "https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 150613,
-      "name": "I Did This To Myself",
-      "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
-    },
-    {
-      "added_at": "2026-01-29 04:03:34",
-      "album": {
-        "name": "POSSESSION",
-        "url": "https://open.spotify.com/album/6ihNq8bZ2OicMm12ZAHUip"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 187483,
-      "name": "POSSESSION",
-      "url": "https://open.spotify.com/track/04ld6agKMq46IDG1THZqTe"
-    },
-    {
-      "added_at": "2026-01-29 19:03:51",
-      "album": {
-        "name": "Streets of Minneapolis",
-        "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 275831,
-      "name": "Streets of Minneapolis",
-      "url": "https://open.spotify.com/track/6AtgHxdvghUjcjdPX1VhWN"
-    },
-    {
-      "added_at": "2026-01-28 19:04:01",
-      "album": {
-        "name": "Afraid Of The Dark",
-        "url": "https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2"
-      },
-      "artists": [
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 278416,
-      "name": "Afraid Of The Dark",
-      "url": "https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr"
-    },
-    {
-      "added_at": "2026-01-29 14:03:52",
-      "album": {
-        "name": "Liars Tale",
-        "url": "https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe"
-      },
-      "artists": [
-        {
-          "name": "KNEECAP",
-          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
-        }
-      ],
-      "duration_ms": 197906,
-      "name": "Liars Tale",
-      "url": "https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0"
-    },
-    {
-      "added_at": "2026-01-29 19:03:51",
-      "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/1yMMSrLIM3D497KmhcbWrT"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien Tellier",
-          "url": "https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 191053,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/2TekScsqJyCJ6TO9Y32X09"
-    },
-    {
-      "added_at": "2026-01-28 04:03:26",
-      "album": {
-        "name": "cloud palace ~ false awakening",
-        "url": "https://open.spotify.com/album/5tWqAvfjjRelNvWFNrV8hK"
-      },
-      "artists": [
-        {
-          "name": "Billlie",
-          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
-        }
-      ],
-      "duration_ms": 201771,
-      "name": "cloud palace",
-      "url": "https://open.spotify.com/track/1dsuEyZ0ZPgL7Z1HAaFSek"
     }
   ],
   "unique_name": "New Singles Now",

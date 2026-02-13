@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,036 likes - 44 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,054 likes - 44 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 7 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 |
 | 8 | [deep fake](https://open.spotify.com/track/7mfMTQ21RSVhUw778ymlyV) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:33 |
 | 9 | [Impermanence](https://open.spotify.com/track/3p7qbTzPf4jKeEEwy765sI) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv), [Winston McCall](https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:02 |
-| 10 | [Everything Ends](https://open.spotify.com/track/3yC1soClolbb2jFH7XIPqd) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:40 |
+| 10 | [Broken Mirror](https://open.spotify.com/track/44TUJhvq8ZSoIO1AzpD6X7) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:10 |
 | 11 | [Royal Beggars](https://open.spotify.com/track/50xyeJL2Hs9FDgtI1ROeB0) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:01 |
 | 12 | [A Match Made in Heaven](https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:48 |
 | 13 | [Dead Butterflies](https://open.spotify.com/track/2XdcUAsMCuNMaWLmXIhdjW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:02 |
-| 14 | [Broken Mirror](https://open.spotify.com/track/44TUJhvq8ZSoIO1AzpD6X7) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:10 |
+| 14 | [Everything Ends](https://open.spotify.com/track/3yC1soClolbb2jFH7XIPqd) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:40 |
 | 15 | [burn down my house](https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:19 |
 | 16 | [Gone with the Wind](https://open.spotify.com/track/6w9PFIfsLZvzo09nfmqjxQ) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [All Our Gods Have Abandoned Us](https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so) | 3:45 |
 | 17 | [Giving Blood](https://open.spotify.com/track/5OVb8VkoO9ZYG64ngOPZpW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 3:32 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kuq2c.md) - [plain]
 | 43 | [Day in Day Out](https://open.spotify.com/track/53GxYXHHRJG6Sj6U74mJ8H) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 3:10 |
 | 44 | [Even If You Win, You're Still A Rat](https://open.spotify.com/track/1YSmJJ1RRy9pOGgZHwyvhW) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Daybreaker \(Deluxe Edition\)](https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq) | 3:12 |
 
-Snapshot ID: `aYp1AAAAAAAwIV/LepVt2dyywGU5C1TR`
+Snapshot ID: `aYvGgAAAAAAgsxFwFvDtpytQHZPsVaU1`

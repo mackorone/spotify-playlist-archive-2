@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,698 likes - 40 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 968,855 likes - 40 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 15 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
 | 16 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
 | 17 | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F) | 1:58 |
-| 18 | [MONTAGEM TOMADA](https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [MONTAGEM TOMADA](https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ) | 1:11 |
-| 19 | [MONTAGEM LADRAO](https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [Itamar Mc](https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ) | [MONTAGEM LADRAO](https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO) | 1:15 |
+| 18 | [MONTAGEM LADRAO](https://open.spotify.com/track/48WnIIBbnttcwUQ77MBoMI) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah), [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [Itamar Mc](https://open.spotify.com/artist/6guLZyE3by1cVU1ydAAKpJ) | [MONTAGEM LADRAO](https://open.spotify.com/album/3Aw43kkDlLE5ZXwQPGHWgO) | 1:15 |
+| 19 | [MONTAGEM TOMADA](https://open.spotify.com/track/2UEyo3ufg8DvO0zYMJWG7R) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y) | [MONTAGEM TOMADA](https://open.spotify.com/album/40m2KxQUQNQANattrHt9vZ) | 1:11 |
 | 20 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
 | 21 | [MATUSHKA ULTRAFUNK](https://open.spotify.com/track/12CXx3gXBn9QjGSNYzEh05) | [satirin](https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO) | [MATUSHKA ULTRAFUNK](https://open.spotify.com/album/1SYGCQXfhjL8KnMXQ6ImsK) | 2:24 |
 | 22 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 35 | [Crystals](https://open.spotify.com/track/2BH3j05ZXWr5PR30sW079d) | [Isolate.exe](https://open.spotify.com/artist/6awzrpxHXHtibHWUv86jVI) | [Crystals](https://open.spotify.com/album/0pbn1QDWs2wOehyxQwVhJS) | 2:19 |
 | 36 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
 | 37 | [Devil Eyes](https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9) | [ZODIVK](https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or) | [Devil Eyes](https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl) | 2:16 |
-| 38 | [ECOS DO ABISMO \- Super Slowed](https://open.spotify.com/track/6dq8QioUz8g692cqkUeuvW) | [Flame Runner](https://open.spotify.com/artist/5bePP411ITzZyWf1QZ2SX4), [ZIMXN](https://open.spotify.com/artist/579T3JNtybsWlkIdSVumAF) | [ECOS DO ABISMO](https://open.spotify.com/album/09LYff89MWEUoS9PC15YVy) | 2:06 |
-| 39 | [Legend](https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44) | [Phantom](https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn) | 3:09 |
+| 38 | [Legend](https://open.spotify.com/track/05EG9LwFCVjkoYEWzsrHHO) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44) | [Phantom](https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn) | 3:09 |
+| 39 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 1:57 |
 | 40 | [WAKE UP!](https://open.spotify.com/track/4B8gtpBuEtU9XUizl6BK2W) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [WAKE UP!](https://open.spotify.com/album/7GkHQdfJDCvcGaIVlfc39l) | 2:22 |
 
 Snapshot ID: `AAAAALRBthNUVWU9otCAeSgdHoj2vET4`

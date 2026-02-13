@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40trXdaMwjkLgWVbptTsf1">Ilsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-182 songs - 10 hr 19 min
+183 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Maria](https://open.spotify.com/track/0dmBhUb8BZnd0F8rEhzpTI) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:34 | 2024-02-27 |  |
 | [Masochist](https://open.spotify.com/track/26lqwcYiFPNmEKTBtR04NF) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 3:30 | 2024-02-27 |  |
 | [Meaning of Life](https://open.spotify.com/track/6YWStBSFmmeE5TZJmlUfhB) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:51 | 2024-02-27 |  |
-| [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 | 2024-02-27 |  |
+| [Mercy](https://open.spotify.com/track/0AS63m1wHv9n4VVRizK6Hc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:28 | 2024-02-27 | 2026-02-13 |
+| [Mercy](https://open.spotify.com/track/6EKvI1Beyh29HJoLJOdfw2) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate](https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd) | 3:28 | 2026-02-12 |  |
 | [Midnight Sky](https://open.spotify.com/track/4i2qxFEVVUi8yOYoxB8TCX) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:43 | 2024-02-27 |  |
 | [Mimi](https://open.spotify.com/track/7Lk4De18i2LmKl7o3Ck4Dh) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 2:59 | 2024-02-27 |  |
 | [My Attic](https://open.spotify.com/track/6BoGECI8eEAII2fjOV88He) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Hurts 2B Human](https://open.spotify.com/album/0hgt3tZlHEGukN56ueTGcL) | 3:02 | 2024-02-27 |  |

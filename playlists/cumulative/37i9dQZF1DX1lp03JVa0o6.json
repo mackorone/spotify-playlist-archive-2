@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Today's biggest dance hits! Cover: WILL K",
+  "description": "Today's biggest dance hits! Cover: Mall Grab",
   "name": "Dance Generation",
   "tracks": [
     {
@@ -672,7 +672,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 186093,
       "name": "After You (feat. FAANGS)",
       "url": "https://open.spotify.com/track/4cGvzO9ejXEVQl2FQI7Hmu"
@@ -11134,7 +11134,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 186240,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
@@ -13292,6 +13292,24 @@
       "duration_ms": 193123,
       "name": "Outta Space",
       "url": "https://open.spotify.com/track/7KYjDFryau4JTAkl6nPiKw"
+    },
+    {
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/6MA44mXNLr5Pl0MKUl3G8y"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284271,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/6m43tLKocZydaFrfu1lGXt"
     },
     {
       "album": {
@@ -18798,6 +18816,28 @@
       "duration_ms": 176500,
       "name": "Unholy (feat. Kim Petras) - ACRAZE Remix",
       "url": "https://open.spotify.com/track/4mmK7xoUAbu14u4F0QJ8NK"
+    },
+    {
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/2hwtlqYFr8vEYYugqfxAro"
+      },
+      "artists": [
+        {
+          "name": "Jaden Bojsen",
+          "url": "https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125625,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/47Ur1YLaC5ELAQ3R9q4zkW"
     },
     {
       "album": {

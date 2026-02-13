@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 
 > This is Ghost\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,290 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,345 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12mjqo.md) - [plain]
 | 44 | [Con Clavi Con Dio](https://open.spotify.com/track/59b6JxeyqIA428dgXU11iW) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:33 |
 | 45 | [Hanging Around](https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:09 |
 | 46 | [Phantom Of The Opera](https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantom Of The Opera](https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb) | 7:23 |
-| 47 | [Waiting For The Night](https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:37 |
+| 47 | [Missionary Man](https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:42 |
 | 48 | [Stand by Him](https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Opus Eponymous](https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U) | 3:56 |
-| 49 | [Missionary Man](https://open.spotify.com/track/1YOaQUUsEzMbxk1sfmoNVE) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora \(Deluxe Edition\)](https://open.spotify.com/album/3bChCUtpRC1NaCLYD4unbD) | 3:42 |
+| 49 | [Waiting For The Night](https://open.spotify.com/track/2O6jS02gu3X5eFtI6nf0y1) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [If You Have Ghost](https://open.spotify.com/album/08U01AsCXhbP7QdC7GABYw) | 5:37 |
 | 50 | [Ghuleh / Zombie Queen](https://open.spotify.com/track/4BcsD7X41Kb68V2SMZy6MH) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Infestissumam](https://open.spotify.com/album/32CbQps06lUasiux6N8tP3) | 7:29 |
 
-Snapshot ID: `aYp1AAAAAAAzON/+useE+UiRtudRWMTr`
+Snapshot ID: `aYvGgAAAAADblbMm2OUcXBdIhsudTap/`

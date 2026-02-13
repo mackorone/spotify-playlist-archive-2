@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Sunday morning whenever you like
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,912 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,329,837 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 44 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 |
 | 45 | [Need You Now](https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [December](https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW) | 2:28 |
 | 46 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 |
-| 47 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
-| 48 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
+| 47 | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Cry, Put Your Head On My Shoulder](https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb) | 3:51 |
+| 48 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
 | 49 | [Caterpillar](https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Caterpillar](https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6) | 3:37 |
 | 50 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 |
 | 51 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 72 | [Olive Tree](https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Olive Tree](https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG) | 4:01 |
 | 73 | [I think about it all the time featuring bon iver](https://open.spotify.com/track/3AvuMVDQU1JyZ8McJumqpY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 3:20 |
 | 74 | [evergreen](https://open.spotify.com/track/5MgPSPCD90L8hq5U1nZRmB) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [evergreen](https://open.spotify.com/album/6BDnFsPcBzy9tV1n22Dez3) | 2:59 |
-| 75 | [Where Were You](https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Where Were You](https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs) | 3:25 |
-| 76 | [Fade Into A Dream](https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c) | 2:51 |
-| 77 | [Teenage Love](https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Teenage Love](https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl) | 4:21 |
+| 75 | [Fade Into A Dream](https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Circles](https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c) | 2:51 |
+| 76 | [Teenage Love](https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Teenage Love](https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl) | 4:21 |
+| 77 | [Where Were You](https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Where Were You](https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs) | 3:25 |
 | 78 | [Be Still](https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Be Still](https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg) | 4:01 |
 | 79 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 |
 | 80 | [Lungs](https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Lungs](https://open.spotify.com/album/2kI0bFy7s7H5bvLpPZTxzJ) | 3:57 |

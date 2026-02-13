@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,080 songs - 9 day 0 hr 36 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,083 songs - 9 day 0 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4088,5 +4088,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4078 | [Kto pyta nie błądzi](https://open.spotify.com/track/0Y40l5gCn7dgKBhNgBrw2C) | [KRiSU Krzysztof Bańka](https://open.spotify.com/artist/73m6LntQaeyAemA4YFLwp4) | [Zatrzymane](https://open.spotify.com/album/7jb1dGdbuTdmiQpnzmOsEJ) | 2:27 |
 | 4079 | [Vigilia](https://open.spotify.com/track/1yDtMXTP3T5RQFxRS2Ez6O) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Soulslike](https://open.spotify.com/album/1hU2zINgJZfvnSTo65Yb9T) | 4:52 |
 | 4080 | [Henuza](https://open.spotify.com/track/2NzCwz5yoAwnU7s5W3qH3m) | [Romiche](https://open.spotify.com/artist/0xEnsODJYTD6y7fq7396k6) | [Broken Syntax Tapes](https://open.spotify.com/album/1xJ6RDh4GTPYct7EqDIsmO) | 4:06 |
+| 4081 | [Through the Night \(dance mix\)](https://open.spotify.com/track/4dcay6OeAuB1ymm8oN42nC) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Through the Night \(dance mix\)](https://open.spotify.com/album/5H3VYqTziKrzJ7FG68rQ5P) | 3:56 |
+| 4082 | [Paradox](https://open.spotify.com/track/51OqiMvYNTbSiqNYU38usD) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Paradox](https://open.spotify.com/album/0MfcQgDAzxySwEcNklvyMB) | 4:59 |
+| 4083 | [Resistance](https://open.spotify.com/track/2eHIE3zMkOC06LaS84bJ7r) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Resistance](https://open.spotify.com/album/4y7j9U8phgwqj8D7TKJWV4) | 3:21 |
 
-Snapshot ID: `AAAHeaZbofVzqkC3kywV1K67/cw/XvGK`
+Snapshot ID: `AAAHfHua/3wt5wFy9KDzFFhqWDS2nh/2`

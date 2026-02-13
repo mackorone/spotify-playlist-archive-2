@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: ATEEZ
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: CORTIS
 
-889 songs - 2 day 0 hr 41 min
+890 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Memoria](https://open.spotify.com/track/5Ju33ZTll3Drgq3AM4H53P) | [BMSG MARINE](https://open.spotify.com/artist/22YAR42Q5EoaFW439kmIT8), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [KANON](https://open.spotify.com/artist/3n3mqnIcMjFF2ldvE5QRBo) | [Memoria](https://open.spotify.com/album/1BIu6t9BEGZWrLrL2AdcRF) | 4:01 | 2024-09-24 | 2025-01-20 |
 | [Memory](https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:03 | 2025-06-09 | 2025-09-17 |
 | [Memory Balloon](https://open.spotify.com/track/12r4rXFlvyDfJdJSixSQVz) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6), [Lee Jae Jin](https://open.spotify.com/artist/55bdywjqGi55xGRGiILz9P), [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Memory Balloon](https://open.spotify.com/album/7tmue4AI64zrN1v7D0p9fz) | 3:24 | 2025-12-19 |  |
+| [Mention Me](https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [Mention Me](https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd) | 3:00 | 2026-02-13 |  |
 | [Mess](https://open.spotify.com/track/0Sccj6S9qYCEdxHudsQjbB) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Mess](https://open.spotify.com/album/61A7SvHGdA1o1gORuj01vx) | 2:33 | 2025-04-08 | 2025-06-13 |
 | [Midnight City](https://open.spotify.com/track/5JfeYlgSeR5Vk8Q4fwOJO8) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 3:54 | 2024-03-05 | 2024-10-02 |
 | [MINNA BLING BLING](https://open.spotify.com/track/6Xa5ifCXnEEENCYL7xUGxz) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [REIKO](https://open.spotify.com/artist/4h81hSXUcntBFY41VrIH96), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [MINNA BLING BLING](https://open.spotify.com/album/1Bb0nQ5Alx2cJaroN4l1Kw) | 2:30 | 2024-06-25 | 2024-07-10 |

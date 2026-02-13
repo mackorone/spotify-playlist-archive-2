@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-224 songs - 10 hr 56 min
+226 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Oldskool Sound](https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Oldskool Sound](https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx) | 3:36 | 2025-07-04 |  |
 | [Once Again \- Roy Orion Remix](https://open.spotify.com/track/233QURapSv9Pjdt38LRo9Y) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Roy Orion](https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk) | [Once Again](https://open.spotify.com/album/7qzo2BOdgUqZcFKFnFoVMp) | 2:49 | 2025-07-04 |  |
 | [One \(Your Name\) \- Radio Edit](https://open.spotify.com/track/6iznpTNBnljkbP0WtAfn50) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [One \(Your Name\)](https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd) | 2:43 | 2025-07-04 |  |
+| [Otherside](https://open.spotify.com/track/5ZQzSzss3k8m3AT3arO58L) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Roundrobin](https://open.spotify.com/artist/6lzdsHJPRvkOydWYIQjnQc) | [Otherside](https://open.spotify.com/album/2yYHalWG0HUTScBhbi3hee) | 2:31 | 2026-02-12 |  |
 | [Overdrive](https://open.spotify.com/track/7r9p2SJvOR6ffeNWBDpSmJ) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt), [TANK](https://open.spotify.com/artist/277Oujo300P8MDBOCC1kce) | [Overdrive](https://open.spotify.com/album/3Cr4Iq40FCNrDkjKRM8BD1) | 2:35 | 2025-07-04 |  |
 | [Paradise](https://open.spotify.com/track/4bruCU0ILLoOfF3iE27opD) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Paradise](https://open.spotify.com/album/7fshDHj8Sayc1AwggqjKot) | 3:22 | 2025-07-04 |  |
 | [Perfect Way](https://open.spotify.com/track/1U8Zqw8IM2f3CTpvVXE8UD) | [Lewis Laite](https://open.spotify.com/artist/2b0vMnjRQjc7qi7y2lrCfb), [Erich Thomas](https://open.spotify.com/artist/2o6R6fXNcSKLLFeVxCmVzC), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Perfect Way](https://open.spotify.com/album/1lQZKTy26ja6fa2ImZnUD3) | 3:50 | 2025-07-04 | 2025-10-30 |
@@ -168,6 +169,7 @@
 | [Right Here, Right Now](https://open.spotify.com/track/0zYjllevbCpjeOI06v40bu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Right Here, Right Now](https://open.spotify.com/album/6yEtqmOfxybN4fSxPIAFsQ) | 2:32 | 2025-07-04 |  |
 | [Rising From The Ashes](https://open.spotify.com/track/2G0c7Z3il9Evj9BrwJ9sT0) | [DJ POTXO](https://open.spotify.com/artist/6EiXpidsKYPFYYn1oDklTr) | [Rising From The Ashes](https://open.spotify.com/album/4XhoWJYRX4dENHNidXIYuH) | 2:11 | 2025-07-04 |  |
 | [Rock The House](https://open.spotify.com/track/3J57KX2pdbNW4SWoV1QYwR) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Rock The House](https://open.spotify.com/album/1fVLCIpkU2qt4ZTRrsPH6V) | 3:50 | 2025-07-04 |  |
+| [Rock The Rhythm](https://open.spotify.com/track/2xoCiK3hZhSGBT99fR0vae) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [Rock The Rhythm](https://open.spotify.com/album/6owFjmnDvjSpYkUkzlBMqX) | 3:00 | 2026-02-12 |  |
 | [ROOTS](https://open.spotify.com/track/3zPDsxPKmSGPh5OrdDHVuX) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [ROOTS](https://open.spotify.com/album/0tJtaoY8U81yyKCbXDean8) | 2:58 | 2025-07-04 |  |
 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 | 2025-07-04 |  |
 | [Run It Up](https://open.spotify.com/track/4YujIh7PVMnNHjBQoqzqw3) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [BIGMOO](https://open.spotify.com/artist/6kibRmkPunppTddl6kgvNe) | [Run It Up](https://open.spotify.com/album/73Gxbtmp88NmzlFLIRyIyk) | 1:51 | 2025-07-04 |  |

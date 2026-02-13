@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,707 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,715 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 18 | [Trinity \(Father, Son, and Holy Spirit\)](https://open.spotify.com/track/0nONfdSjBptV3MtphsdYDc) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Gospel Music](https://open.spotify.com/album/52H41dJZIWXp6SjvXF0Gie) | 7:20 |
 | 19 | [Call to the Void](https://open.spotify.com/track/0ncPxlgGwoVH4CkPrpviIq) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Call to the Void](https://open.spotify.com/album/1j9ZTeKQURsabBeEDHZ1fh) | 5:01 |
 | 20 | [卒業のエアロライト](https://open.spotify.com/track/0E5npJ8i9uBWErs4vrGOl9) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [卒業のエアロライト](https://open.spotify.com/album/6IlJNmhEKHcpb6mYmraMM0) | 4:00 |
-| 21 | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/track/0hFgollnKwPJjFod8ouqof) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Yuji Toriyama](https://open.spotify.com/artist/183gGYMMBJVdNRVAxHzxn7), [Gaku Kano](https://open.spotify.com/artist/6pV6yUKdqnxwwKpqSu6AXM) | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/album/03b1xvc1fNSbThzeQJvsfJ) | 3:54 |
+| 21 | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/track/0hFgollnKwPJjFod8ouqof) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Gaku Kano](https://open.spotify.com/artist/6pV6yUKdqnxwwKpqSu6AXM) | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/album/03b1xvc1fNSbThzeQJvsfJ) | 3:54 |
 | 22 | [Horses](https://open.spotify.com/track/27yWekXkYdCyhuNz7FaXXh) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Horses](https://open.spotify.com/album/7Hucl5QaGxsJvuL7oIOvUj) | 4:53 |
 | 23 | [Big Saaac\. \- Cleanup 10th Anniversary](https://open.spotify.com/track/3TmdJHfnGjZ56G1lMJn3nP) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Big Saaac\. \(Cleanup 10th Anniversary\)](https://open.spotify.com/album/3SJo9hEkE2q3l42jjd1Hwg) | 7:58 |
 | 24 | [⁠Beto’s Horns \- Ezra Collective remix](https://open.spotify.com/track/39QDO1CMwXHDPdw8cjJpTi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [⁠Beto’s Horns \(Ezra Collective remix\)](https://open.spotify.com/album/7bIhFRBtzVR41QlA9zj9ru) | 4:49 |

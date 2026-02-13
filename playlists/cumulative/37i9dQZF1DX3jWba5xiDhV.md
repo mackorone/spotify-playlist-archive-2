@@ -4,7 +4,7 @@
 
 > When the dancefloor calls your name, that's amore.
 
-205 songs - 16 hr 52 min
+206 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 | 2022-02-11 |  |
 | [Battle Stars \- K\-Effect Remix](https://open.spotify.com/track/0wsHHSPg9NEtE2fhrtTRh8) | [O'Cardio](https://open.spotify.com/artist/1sIh3c4omj8OL4Btx4EzBk), [K Effect](https://open.spotify.com/artist/2xXk1wjFbm9VJqhgbBoHRF) | [Battle Stars](https://open.spotify.com/album/5c5aLDIF1gEtwA9vghedm4) | 7:01 | 2022-02-11 | 2022-03-22 |
 | [Bluff Dance](https://open.spotify.com/track/6KDdJNlNKVelfAFJyeCkm9) | [Relmer](https://open.spotify.com/artist/2hxnHvKjsAHCGzsXTCKuvy) | [Relmer International](https://open.spotify.com/album/6QyBzCaQ52iUvfAV3RQuk5) | 5:48 | 2022-02-11 | 2022-07-29 |
-| [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 | 2022-02-11 |  |
+| [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 | 2022-02-11 | 2026-02-13 |
 | [Boys \(Summertime Love\)](https://open.spotify.com/track/1iwQoAswnkS5eVlVIXN998) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Boys \(Summertime Love\)](https://open.spotify.com/album/3k166ijpPTPQZeiCOTOm9E) | 3:48 | 2022-07-01 | 2023-09-15 |
 | [Boys \(Summertime Love\)](https://open.spotify.com/track/5N3OfUHIfgKZIHIIFb8VII) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Golden Dance Hits](https://open.spotify.com/album/4nfVX7UtuXYRCi3AfZST6E) | 3:51 | 2022-02-11 |  |
 | [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 | 2023-07-28 | 2024-04-19 |
@@ -175,6 +175,7 @@
 | [Super Snooper](https://open.spotify.com/track/6ZlOBxdbQwRBWUTThWiwvg) | [The Oceans](https://open.spotify.com/artist/7LmuiBpwCYykRBvDGDVBl0) | [Super Snooper \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wQCddd51rHbWT3K5b5XfE) | 3:14 | 2022-02-11 | 2022-03-21 |
 | [Supernature](https://open.spotify.com/track/00RHrZB3i6B6PwX30ouZBK) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [3 \- Supernature](https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR) | 9:45 | 2022-07-01 | 2024-04-19 |
 | [Supernature](https://open.spotify.com/track/7Gq0mwnsctEFGsneABnNv3) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM) | [Cerrone I, II, III](https://open.spotify.com/album/6bk44PKxM0jfZy6h5wvWy9) | 9:45 | 2022-02-11 | 2022-07-29 |
+| [Tacchini](https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Tacchini](https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG) | 4:49 | 2026-02-12 |  |
 | [Take A Chance \- Original Mix](https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz) | [Mr\. Flagio](https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq) | [Take A Chance](https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m) | 7:52 | 2022-02-11 |  |
 | [Tarzan Boy](https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Living In The Background](https://open.spotify.com/album/2AclHzFubT46QrjWFSfkk9) | 6:18 | 2022-07-01 |  |
 | [Testa](https://open.spotify.com/track/56HURNYEgiEE4g4Dnh4Zh0) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Testa / Caracalla Dub](https://open.spotify.com/album/1shKBzBkcXLzJcJszjI2fp) | 3:20 | 2023-02-23 |  |

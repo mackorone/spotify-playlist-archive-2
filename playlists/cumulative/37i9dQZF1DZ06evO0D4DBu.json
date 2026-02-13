@@ -244,7 +244,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 227263,
       "name": "Broad Shoulders (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/6m3ZXs465Rt4Tc1iiLktXL"
@@ -1086,6 +1086,24 @@
       "duration_ms": 255609,
       "name": "The Highs & The Lows (feat. Joey BadA$$)",
       "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
+    },
+    {
+      "album": {
+        "name": "The Man Who Has Everything",
+        "url": "https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218624,
+      "name": "The Man Who Has Everything",
+      "url": "https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN"
     },
     {
       "album": {

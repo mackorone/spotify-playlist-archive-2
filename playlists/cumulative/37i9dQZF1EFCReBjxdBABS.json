@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "I Needed Christmas",
+        "url": "https://open.spotify.com/album/74baR9ja7gPe3XNEmX25CR"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "I Needed Christmas",
+      "url": "https://open.spotify.com/track/0sw6GV1pKByCL0aP13IX4M"
+    },
+    {
+      "album": {
         "name": "The Ultimate Christmas Collection",
         "url": "https://open.spotify.com/album/6S4DIqGyZGra6iZyZNI9jQ"
       },
@@ -870,7 +888,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 219560,
       "name": "I Needed Christmas",
       "url": "https://open.spotify.com/track/4bGq0eDMT9t1uupNjQotk4"

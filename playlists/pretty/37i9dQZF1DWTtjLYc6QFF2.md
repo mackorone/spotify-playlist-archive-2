@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена спільно з Христиною Соловій.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,433 likes - 45 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,435 likes - 45 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

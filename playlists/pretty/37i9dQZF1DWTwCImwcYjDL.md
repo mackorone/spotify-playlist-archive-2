@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits\. Cover: Sunnery James & Ryan Marciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,011 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,016 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 | 59 | [Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Fire Fire](https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf) | 2:30 |
 | 60 | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long \(Why Do I Have To\)](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
 
-Snapshot ID: `AAAAADDWPSCevr6INSGeVQ+vCPTVl+tE`
+Snapshot ID: `AAAAAEGXUZEnA5lE6B9JPb4y6TAurkuv`

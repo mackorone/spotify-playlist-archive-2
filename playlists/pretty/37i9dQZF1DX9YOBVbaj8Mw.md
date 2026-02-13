@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,308 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,310 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 34 | [Zagrajmy](https://open.spotify.com/track/4p9Z6HmEeO3ucTOmgpbgf9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:16 |
 | 35 | [Warszawa Wschodnia](https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6) | [Tomasz Makowiecki](https://open.spotify.com/artist/5BndU3xioxu02gpARK3ssF) | [Bailando](https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe) | 4:43 |
 | 36 | [Fearflood](https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Instant Rewards](https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm) | 5:58 |
-| 37 | [PRZYJEDŹ](https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:29 |
+| 37 | [Kercelak](https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:12 |
 | 38 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 |
-| 39 | [Kercelak](https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:12 |
+| 39 | [PRZYJEDŹ](https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:29 |
 | 40 | [Chłopcy](https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [WIECZORAMI CHŁOPCY WYCHODZĄ NA ULICE](https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4) | 5:21 |
 | 41 | [Kozak](https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzybnia](https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6) | 2:53 |
 | 42 | [Lata](https://open.spotify.com/track/1DNRoUTNpJrCQ8GubYLIT7) | [Bisz](https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ), [KOSA](https://open.spotify.com/artist/3pTM3cYf2uOfZvlxW7zFY4) | [Lata](https://open.spotify.com/album/0ce2J8wUxDd8V4KsEhejwN) | 3:12 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 55 | [Oberek Kujawski Ze Szwankowa](https://open.spotify.com/track/1dxEGtUNbugW6w4c1AXN1p) | [ZPiT Ziemia Bydgoska](https://open.spotify.com/artist/1NaG7uZH1hkCPFi7brEolY) | [Nie Ma Ziemi Nad Kujawy](https://open.spotify.com/album/3Yetr37XtgaMsCca678e0j) | 1:47 |
 | 56 | [Ciągle](https://open.spotify.com/track/3ePTGOjZp25Z1OHBT0L8zQ) | [Cool Kids Of Death](https://open.spotify.com/artist/4illxVu43vK6CgfzDhfunc) | [Origami EP](https://open.spotify.com/album/0EFCMCxvJeAn39A19ZxIhC) | 2:31 |
 | 57 | [Fearless](https://open.spotify.com/track/38c4yTxQFXBUPzbm63wDKA) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga) | [LIPSTICK ON THE GLASS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qQrPXtwP2IlcYsS2f1I6A) | 2:32 |
-| 58 | [Tobie](https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485) | [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Dziewczyna Słońca](https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL) | 5:36 |
-| 59 | [Haunting](https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq) | [Blindead 23](https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J) | [Vanishing](https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja) | 8:30 |
+| 58 | [Haunting](https://open.spotify.com/track/5zhWwA0jRxNJki5SAxoIZq) | [Blindead 23](https://open.spotify.com/artist/2clBO9SVUhdE4FgPxr550J) | [Vanishing](https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja) | 8:30 |
+| 59 | [Tobie](https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485) | [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Dziewczyna Słońca](https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL) | 5:36 |
 | 60 | [Gospel Song](https://open.spotify.com/track/5qUpX6it0ihllRAKuRV5CD) | [WSPÓŁGŁOSY](https://open.spotify.com/artist/54Qt7Nkw3WSs9B87ThONjK), [Marcel Baliński](https://open.spotify.com/artist/2pji5lbpgJtbFUXwGNKsNW) | [Współgłosy](https://open.spotify.com/album/4SaFER9pNaleX46ZukkmgA) | 1:31 |
 | 61 | [Critique of Swing in Two Parts, Pt\. 1](https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2) | [Pianohooligan](https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ), [Piotr Orzechowski](https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV) | [Critique of Swing in Two Parts, Pts\. 1 & 2](https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg) | 14:25 |
 | 62 | [String Quartet No\. 1 "Atomizations": I\. Interference](https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI) | [Dawid Lubowicz](https://open.spotify.com/artist/2y6ItJI6R8TZ7DrDgotnpX), [Atom String Quartet](https://open.spotify.com/artist/6el2MR6AwBlxpCZaqu0OY2) | [Universum](https://open.spotify.com/album/17Qo6bWw8mWnnkcS5WacFu) | 5:32 |

@@ -4,7 +4,7 @@
 
 > 
 
-110 songs - 5 hr 38 min
+111 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Piano](https://open.spotify.com/track/1FSfCzJd8aSQ0nqTSbN4PO) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:54 | 2026-01-19 |  |
 | [Poison Poison](https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:11 | 2025-10-15 | 2025-11-23 |
 | [Pretty Ugly](https://open.spotify.com/track/5FYkRxeoLfVxMqyfNR6TMQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 2:38 | 2025-11-12 |  |
+| [Really Don't Care](https://open.spotify.com/track/5vTPxzm4h2bY9rYyVrGEU5) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:21 | 2026-02-12 |  |
 | [Rewind](https://open.spotify.com/track/50GxvQA2KEWNt31EdwIlzY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:48 | 2025-04-28 | 2025-09-02 |
 | [Ruin The Friendship](https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:40 | 2025-10-04 | 2025-12-15 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2026-01-28 |  |

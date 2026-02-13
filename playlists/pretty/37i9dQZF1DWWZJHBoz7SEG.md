@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Iniciamos febrero con este poderoso junte, The Warning y Carín León en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,137,460 likes - 81 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,137,541 likes - 81 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

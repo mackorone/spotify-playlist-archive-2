@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Marlon Magnée
+> La scène française branchée sur courant alternatif\. Photo : Dynamite Shakers
 
-426 songs - 22 hr 30 min
+427 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Feet](https://open.spotify.com/track/454NLXY4WwWj6vkhcQLkvE) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Feet](https://open.spotify.com/album/67ng9BqYRD1F3Wo9QEYaTu) | 3:05 | 2025-09-04 | 2025-11-14 |
 | [fermer les yeux](https://open.spotify.com/track/71lrP6Unh3jKzRDyTPU6ov) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [fermer les yeux](https://open.spotify.com/album/3ROY9Wamd7k7dFoPYzp4I6) | 2:10 | 2024-02-01 | 2024-03-08 |
 | [Fire In Higher Ground](https://open.spotify.com/track/4dlJOy0IXON6qP4XsDwmpT) | [Chester Remington](https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM) | [Fire In Higher Ground](https://open.spotify.com/album/6S1FL1pvdpss8fVA6cK5a8) | 4:52 | 2024-01-18 | 2024-02-09 |
-| [FLEMME](https://open.spotify.com/track/1aWfRPTSnvfgn0p5niDMr1) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [FLEMME](https://open.spotify.com/album/179KOwuoogAJN7nKByOBha) | 2:27 | 2025-11-13 |  |
+| [FLEMME](https://open.spotify.com/track/1aWfRPTSnvfgn0p5niDMr1) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [FLEMME](https://open.spotify.com/album/179KOwuoogAJN7nKByOBha) | 2:27 | 2025-11-13 | 2026-02-13 |
 | [Flèche Argentée](https://open.spotify.com/track/56F782Sp56OhuQT9yREuvz) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Flèche Argentée](https://open.spotify.com/album/5RpOAd4JdkkG0cLP5DTJcz) | 3:05 | 2023-11-02 | 2023-12-08 |
 | [Focused](https://open.spotify.com/track/4k9j3QbPco2VqW3w4Wz1Qq) | [PAMELA](https://open.spotify.com/artist/5Zmjvb5b6WPHZNWF7rxHja) | [Focused](https://open.spotify.com/album/4sbsFxdZAZuiy8Iu6leRe7) | 3:06 | 2024-10-17 | 2025-03-14 |
 | [FORMIDABLE](https://open.spotify.com/track/2WNZc9WarkNEsdj5r5KZzj) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [ULTRAVIOLENT](https://open.spotify.com/album/5hBCK5YfYcwNN7kFECULiA) | 2:20 | 2025-11-20 | 2026-01-16 |
@@ -249,6 +249,7 @@
 | [Mascu Ferme Ta Gueule](https://open.spotify.com/track/5QQlYQJuk65q8zD82KPTBN) | [Droges](https://open.spotify.com/artist/5SDTx48ndpoXdLVYixXAHd) | [Mascu Ferme Ta Gueule](https://open.spotify.com/album/535KV48kRNmaoGMyIEk1Hj) | 3:08 | 2024-11-07 | 2025-03-28 |
 | [Mauvais Garçon](https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Mauvais Garçon](https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW) | 2:51 | 2023-09-28 | 2024-03-29 |
 | [Mauvaise tête](https://open.spotify.com/track/4QEg4vfzw0NwePfYMoJtwK) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Mauvaise tête](https://open.spotify.com/album/0Lf2JwBPW1pxnmScm5m2L1) | 2:38 | 2025-12-18 |  |
+| [Maya](https://open.spotify.com/track/2eWsfkVueCBIPv8TgZ6M5s) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [Maya](https://open.spotify.com/album/194FbjQQTYgTUhp11vk6NC) | 2:36 | 2026-02-12 |  |
 | [MELODY](https://open.spotify.com/track/37OeDeSiptbncjAPQILF4W) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [MELODY](https://open.spotify.com/album/2LR1NyZmQMStulx1QcRlhf) | 4:20 | 2024-06-27 | 2025-02-07 |
 | [Merde à La Mer](https://open.spotify.com/track/0mb9NIxnBNpWAKPbaL4FBC) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd), [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [Merde à La Mer](https://open.spotify.com/album/4Y0qxZssGRDLxtUEO4obK4) | 2:52 | 2025-05-22 | 2025-10-17 |
 | [mes dégâts](https://open.spotify.com/track/3BZVvt21W0x7ADbx0X4XrP) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [mes dégâts](https://open.spotify.com/album/46ekCxsYd36dP4EPugKMrv) | 3:49 | 2026-01-23 |  |

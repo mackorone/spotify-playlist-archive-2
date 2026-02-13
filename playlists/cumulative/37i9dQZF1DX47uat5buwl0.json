@@ -184,7 +184,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 153541,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/3O0gQuyw3xDzm9tvW4db36"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 122482,
       "name": "Delft",
       "url": "https://open.spotify.com/track/06vj9ZjYauBpT1hQHMjidL"
@@ -2098,6 +2098,28 @@
       "duration_ms": 150120,
       "name": "Nonchalant",
       "url": "https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo"
+    },
+    {
+      "album": {
+        "name": "NUMMER 1",
+        "url": "https://open.spotify.com/album/75ejS1ki8mGes2aQL2emml"
+      },
+      "artists": [
+        {
+          "name": "Wally",
+          "url": "https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x"
+        },
+        {
+          "name": "Nachtdienst",
+          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "NUMMER 1",
+      "url": "https://open.spotify.com/track/3bY8SS2U0vD4Nhfs2tqdRg"
     },
     {
       "album": {

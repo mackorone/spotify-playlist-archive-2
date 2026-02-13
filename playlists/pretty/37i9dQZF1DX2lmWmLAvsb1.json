@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2019. Cover: Daddy Yankee",
-  "num_followers": 83242,
+  "num_followers": 83282,
   "original_name": "Latin Hits 2019",
   "owner": {
     "name": "Spotify",
@@ -8,26 +8,6 @@
   },
   "snapshot_id": "AAAAABtfCuZ2Vzl20F3ckRbYolAlpGLP",
   "tracks": [
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
-        "name": "El Efecto",
-        "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "El Efecto",
-      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
-    },
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 222346,
       "name": "QUE PRETENDES",
       "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
+        "name": "El Efecto",
+        "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "El Efecto",
+      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
     },
     {
       "added_at": "2024-07-13 01:21:22",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "11 PM",
-      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
-    },
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 277106,
       "name": "UN PESO",
       "url": "https://open.spotify.com/track/7hynhxDoDpgMIV12JuVtNa"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "11 PM",
+      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
     },
     {
       "added_at": "2024-07-13 01:21:22",
@@ -691,30 +691,6 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
-        "name": "Indeciso",
-        "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "Indeciso",
-      "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
-    },
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -739,34 +715,50 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
-        "name": "Hola (Remix)",
-        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
+        "name": "Indeciso",
+        "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
       },
       "artists": [
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         },
         {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
         }
       ],
-      "duration_ms": 249520,
-      "name": "Hola - Remix",
-      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+      "duration_ms": 217253,
+      "name": "Indeciso",
+      "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
+        "name": "Soltera (Remix)",
+        "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 266086,
+      "name": "Soltera (Remix)",
+      "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
     },
     {
       "added_at": "2024-07-13 01:21:22",
@@ -823,26 +815,34 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
-        "name": "Soltera (Remix)",
-        "url": "https://open.spotify.com/album/2m9Vuc9Q19qhSm6RQmBgsR"
+        "name": "Hola (Remix)",
+        "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
       },
       "artists": [
         {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         },
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
         }
       ],
-      "duration_ms": 266086,
-      "name": "Soltera (Remix)",
-      "url": "https://open.spotify.com/track/1c0hsvHLELX6y8qymnpLKL"
+      "duration_ms": 249520,
+      "name": "Hola - Remix",
+      "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
     },
     {
       "added_at": "2024-07-13 01:21:22",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2024-07-13 01:21:22",
       "album": {
+        "name": "Contra La Pared",
+        "url": "https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Contra La Pared",
+      "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
+    },
+    {
+      "added_at": "2024-07-13 01:21:22",
+      "album": {
         "name": "105 F Remix",
         "url": "https://open.spotify.com/album/2801cwQRE2bAQ6pKTrI13w"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 464200,
       "name": "105 F Remix",
       "url": "https://open.spotify.com/track/1aUGxXCz9QimNkKeiJtzZ7"
-    },
-    {
-      "added_at": "2024-07-13 01:21:22",
-      "album": {
-        "name": "Contra La Pared",
-        "url": "https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Contra La Pared",
-      "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
     },
     {
       "added_at": "2024-07-13 01:21:22",

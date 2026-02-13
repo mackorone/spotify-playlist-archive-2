@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 
 > A softer space.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,938 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,915 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 40 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
 | 41 | [JUPiTER](https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 4:00 |
 | 42 | [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 |
-| 43 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
-| 44 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:10 |
-| 45 | [For Sure](https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [For Sure](https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh) | 9:53 |
+| 43 | [I might say something stupid featuring the 1975 & jon hopkins](https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 4:10 |
+| 44 | [For Sure](https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [For Sure](https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh) | 9:53 |
+| 45 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 |
 | 46 | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 |
 | 47 | [Philadelphia \(with Searows\)](https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf), [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Philadelphia \(with Searows\)](https://open.spotify.com/album/6FGCL7fcqEcGhXjI7IhQZF) | 3:02 |
 | 48 | [Black Dog](https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:48 |
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 56 | [Spiderwebs](https://open.spotify.com/track/4oISmbyFTnq3VqpSBL6sjJ) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Spiderwebs](https://open.spotify.com/album/4QtlSNN8B8AxiHEllspqDl) | 2:33 |
 | 57 | [Posing For Cars](https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 6:38 |
 | 58 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
-| 59 | [Ain't It Easy](https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:54 |
-| 60 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 3:38 |
+| 59 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 3:38 |
+| 60 | [Ain't It Easy](https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:54 |
 | 61 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
 | 62 | [my love mine all mine](https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [my love mine all mine](https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb) | 2:45 |
-| 63 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 |
-| 64 | [The Dying Light](https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:58 |
+| 63 | [The Dying Light](https://open.spotify.com/track/0Ecl06jrr4EG4xOltXDuth) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 3:58 |
+| 64 | [Years On](https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Years On](https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8) | 4:02 |
 | 65 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
 | 66 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 |
 | 67 | [Ivy](https://open.spotify.com/track/6kvdjKkkd2QJ0arXpjCmfW) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 3:13 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxd0qWj50iH.md) - [plain]
 | 96 | [Unknown](https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8), [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Unknown](https://open.spotify.com/album/4kf3iiUPJmCfthLl79qY8I) | 3:34 |
 | 97 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 | 98 | [Thank You](https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Thank You \(SOLOMON VERSION\)](https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz) | 2:18 |
-| 99 | [Darling I Do](https://open.spotify.com/track/4HQPftni948NDA17ajheQQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Darling I Do](https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j) | 3:01 |
+| 99 | [Part of Me](https://open.spotify.com/track/6Rc8Z7D778SVkwuoFSJvxQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c), [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [Part Of Me](https://open.spotify.com/album/74ZR82j0ucverIwnm6yrei) | 3:28 |
 | 100 | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ) | [Man\-Made Sunshine](https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th) | [Life's Gonna Kill You \(If You Let It\)](https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L) | 4:35 |
 
 Snapshot ID: `AAAAADnaUYKbIb4ctbtW/HS1TXE08eGi`

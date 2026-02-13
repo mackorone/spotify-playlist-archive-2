@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Quruli くるり
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,769 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,779 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 57 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
 | 58 | [Somewhere](https://open.spotify.com/track/66Y414GgpGzepfJEsT2D7A) | [TOSH](https://open.spotify.com/artist/7r8xm2BEVdXHFh0fZglxOi) | [Somewhere](https://open.spotify.com/album/5OSXSuN2jEjGsFRUR2Qv8S) | 3:47 |
 | 59 | [SAIKAI](https://open.spotify.com/track/1TmMyrEWgX3WILJsOD0IBp) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [SAIKAI](https://open.spotify.com/album/2RKi8T2aaDNqLUGBccG3N3) | 5:23 |
-| 60 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
-| 61 | [ともに](https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:27 |
+| 60 | [ともに](https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:27 |
+| 61 | [風神](https://open.spotify.com/track/00GDUNeJd97qjKp2yrx0OC) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [風神](https://open.spotify.com/album/2dkncPeCSULjpH34voco0k) | 3:55 |
 | 62 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:42 |
 | 63 | [THE REVO](https://open.spotify.com/track/2uzuO4xzPOmLIC3a5Xvg8h) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE REVO](https://open.spotify.com/album/1OhdNxWQU7trRLggTJRtix) | 4:00 |
 | 64 | [ミュージック](https://open.spotify.com/track/21kn2sWOZANPZHGOpW7pG9) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:22 |
-| 65 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 |
-| 66 | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 |
+| 65 | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 |
+| 66 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 |
 | 67 | [HUGs](https://open.spotify.com/track/0r9VDnfH7A8paz4qnH4Jyk) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [HUGs](https://open.spotify.com/album/3ZyIZflcr8XMlzbccIxjvv) | 5:33 |
 | 68 | [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 |
 | 69 | [アイデンティティ](https://open.spotify.com/track/3Fki7feUIjOBqclsgHsDhL) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [DocumentaLy](https://open.spotify.com/album/27S5Z17E6ZJNNuPoKddhGb) | 4:06 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 80 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 81 | [ある未来より愛を込めて](https://open.spotify.com/track/60dKF6s6HZfSvFrEG3r3UG) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ある未来より愛を込めて](https://open.spotify.com/album/0ajg9ECSPaFAULF5VWiu8A) | 4:07 |
 | 82 | [アポロドロス](https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [アポロドロス](https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6) | 4:44 |
-| 83 | [最大公約数](https://open.spotify.com/track/5oA6WuNqODuCtRF3YCSoka) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最大公約数](https://open.spotify.com/album/3ALe5XivCiHvzJ9mST3bMS) | 4:35 |
-| 84 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
+| 83 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
+| 84 | [最大公約数](https://open.spotify.com/track/5oA6WuNqODuCtRF3YCSoka) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最大公約数](https://open.spotify.com/album/3ALe5XivCiHvzJ9mST3bMS) | 4:35 |
 | 85 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
 | 86 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 |
 | 87 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 93 | [My Queen \(feat\. Spiritbox\)](https://open.spotify.com/track/5kQWVteP4yTNL7xZWFE5CJ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:20 |
 | 94 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
 | 95 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
-| 96 | [賜物](https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [賜物](https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF) | 4:49 |
-| 97 | [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 |
+| 96 | [The 1](https://open.spotify.com/track/3GNHnQq2Q2svsTZDjHWFXp) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [The 1](https://open.spotify.com/album/4cgDsTl2Za0NJ3AiJtQCrF) | 3:11 |
+| 97 | [賜物](https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [賜物](https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF) | 4:49 |
 | 98 | [QUEEN](https://open.spotify.com/track/0ifl6VeDZkAhEQtC1J1QBk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [QUEEN](https://open.spotify.com/album/44LudOcruib8E2QoacG6I8) | 3:07 |
 | 99 | [主人公](https://open.spotify.com/track/16Ja7QMLTkSEAqgt1rOd7H) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [主人公](https://open.spotify.com/album/2vsldPSSsOtahc3HAULWkA) | 4:58 |
 | 100 | [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 |

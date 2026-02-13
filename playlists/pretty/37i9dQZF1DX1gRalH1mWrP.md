@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 
 > All the hits you'll need to make your summer sizzle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,906,278 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,906,171 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 11 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
 | 12 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 |
 | 13 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
-| 14 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 |
-| 15 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
+| 14 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
+| 15 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 |
 | 16 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 | 17 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 18 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 39 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 |
 | 40 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
 | 41 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
-| 42 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
-| 43 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
+| 42 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 |
+| 43 | [You'll Be in My Heart](https://open.spotify.com/track/1UPB5rYJ0bzn6mNSoAHrZC) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [You'll Be In My Heart](https://open.spotify.com/album/7GZpa8xckIRPFIbT49B4zZ) | 4:01 |
 | 44 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
 | 45 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
 | 46 | [Austin \(Boots Stop Workin'\)](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 68 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
 | 69 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
 | 70 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 |
-| 71 | [Next Thing You Know](https://open.spotify.com/track/39OclE5hZematADrdfaWvE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:55 |
-| 72 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 |
+| 71 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 |
+| 72 | [Next Thing You Know](https://open.spotify.com/track/39OclE5hZematADrdfaWvE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:55 |
 | 73 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
 | 74 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 |
 | 75 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |

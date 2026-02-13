@@ -1,6 +1,6 @@
 {
   "description": "For those that like it hard and heavy. Cover: Motionless In White",
-  "num_followers": 216794,
+  "num_followers": 216792,
   "original_name": "Heavy Gamers",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-12-18 21:46:21",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
-    },
-    {
-      "added_at": "2025-12-18 21:46:21",
-      "album": {
         "name": "They're Only Chasing Safety",
         "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 262573,
       "name": "Reinventing Your Exit",
       "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
+    },
+    {
+      "added_at": "2025-12-18 21:46:21",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
     },
     {
       "added_at": "2025-12-18 21:46:21",

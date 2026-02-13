@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,705 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,708 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 39 | [Nowhere But Up](https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Nowhere But Up](https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU) | 3:55 |
 | 40 | [Keep It Coming \- Radio Mix](https://open.spotify.com/track/7x3QYBZPrA2kQIXa5ICvBJ) | [Dr Packer](https://open.spotify.com/artist/46hILKsILU34lUxKKftyVm), [Suki Soul](https://open.spotify.com/artist/51jCman0L3GDINLe3phz7t) | [Keep It Coming](https://open.spotify.com/album/3cxupIqKlhItQLkS07cVWZ) | 3:55 |
 | 41 | [Untouchable](https://open.spotify.com/track/2AGz0FTatfH1hzF6ElZ2qT) | [Dat 378 Boy](https://open.spotify.com/artist/2W9ptXS1EFli7MSqDRwJRU), [Hine Māori](https://open.spotify.com/artist/5Jssj5BjMGbNji2iuGbcWJ) | [Untouchable](https://open.spotify.com/album/5avwU4QXpcXgxFcFFPmeTK) | 3:30 |
-| 42 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 |
+| 42 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/7uRcFchQODGzzWKib2NXPu), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 |
 | 43 | [Ugh, So Good!](https://open.spotify.com/track/3jtASBOuKjzKR6AKtf2CuS) | [c a n d i d !](https://open.spotify.com/artist/40eScT09blR2WOpG2zbe9o) | [Ugh, So Good!](https://open.spotify.com/album/4Pd42T8XOtOf2G7ZFUXmEk) | 3:35 |
 | 44 | [Into You](https://open.spotify.com/track/4vJWPcqXGWihza1mp2uOEO) | [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Into You](https://open.spotify.com/album/0O2kvlAWECmb0FuiiX28WL) | 4:24 |
 | 45 | [Cinnamon](https://open.spotify.com/track/1gRWoklE6IT3eVP7mSlFwd) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:06 |

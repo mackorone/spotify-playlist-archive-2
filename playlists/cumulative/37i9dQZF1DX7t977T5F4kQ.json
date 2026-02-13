@@ -969,6 +969,28 @@
     },
     {
       "album": {
+        "name": "Araba",
+        "url": "https://open.spotify.com/album/1IO0WOLyXlzd932Yju5EZL"
+      },
+      "artists": [
+        {
+          "name": "Ibee Melody",
+          "url": "https://open.spotify.com/artist/7d6hM6gmUmtaM0hFd7uJbM"
+        },
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163018,
+      "name": "Araba",
+      "url": "https://open.spotify.com/track/3j2DRJtmWdcDjzipkdTzPa"
+    },
+    {
+      "album": {
         "name": "ARIBA",
         "url": "https://open.spotify.com/album/7pSHIub0eGuShEh9SsZAJO"
       },
@@ -4017,6 +4039,32 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/2PErZB2USDV1fbqww2mJKJ"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172577,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/4Yza7I7ds4vF1m1hi3Qg56"
+    },
+    {
+      "album": {
         "name": "Fire (feat. NATURE)",
         "url": "https://open.spotify.com/album/2JvONmEfmoUipHNOzvd7Ee"
       },
@@ -4560,7 +4608,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 214368,
       "name": "Goodboy (Kweku)",
       "url": "https://open.spotify.com/track/3g3nt6cCAUIgJ3pRl0pRb5"
@@ -6721,6 +6769,28 @@
     },
     {
       "album": {
+        "name": "Mek\u0254n Ad\u0254",
+        "url": "https://open.spotify.com/album/6cus1YyspHCbKeSjjrBZhU"
+      },
+      "artists": [
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        }
+      ],
+      "date_added": "2026-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208566,
+      "name": "Mek\u0254n Ad\u0254",
+      "url": "https://open.spotify.com/track/5BMh2DnkrOAbSipoWka1Xk"
+    },
+    {
+      "album": {
         "name": "Ghana Got Soul",
         "url": "https://open.spotify.com/album/4foPL6OjKnkeY4VPSr1efM"
       },
@@ -8836,7 +8906,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 201428,
       "name": "Piano II",
       "url": "https://open.spotify.com/track/2cTnLqq5dCxDNA6w9q5amv"

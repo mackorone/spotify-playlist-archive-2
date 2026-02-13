@@ -4,7 +4,7 @@
 
 > 🤝
 
-198 songs - 9 hr 14 min
+199 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Ekko](https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ekko](https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA) | 2:36 | 2025-05-08 |  |
 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 | 2024-10-10 | 2025-05-02 |
 | [En gång till](https://open.spotify.com/track/2vd8CskGdduZW0LvVvXW7f) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [En gång till](https://open.spotify.com/album/4DHfWTM0wLOcsvPftNzluD) | 2:25 | 2024-06-27 | 2024-08-05 |
+| [En million](https://open.spotify.com/track/3g6rsowrMVbPmCtuelXhjR) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [En million](https://open.spotify.com/album/6sfIY03kMNBfCOdyncQnbu) | 2:26 | 2026-02-12 |  |
 | [En Vakker Dag](https://open.spotify.com/track/12WCXm97BfsVbOgYFKnjo8) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [En Vakker Dag](https://open.spotify.com/album/3LxZplqK7TmHspbpOuQlPB) | 2:30 | 2025-07-03 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-27 | 2024-09-13 |
 | [F\*en Ikke Kjendis](https://open.spotify.com/track/36nFVYgHwi5J9DMkOl7dK6) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [F\*en Ikke Kjendis](https://open.spotify.com/album/0vLvHYXg5iwwHmr8nX7Dnw) | 2:52 | 2024-11-07 | 2025-03-04 |
@@ -197,7 +198,7 @@
 | [Vestkantvilla](https://open.spotify.com/track/3SHHJUbeOcqef74LsHVkM9) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Vestkantvilla](https://open.spotify.com/album/6hHY52SUkdHlv8tHeckjAX) | 1:52 | 2025-06-19 | 2025-08-08 |
 | [Vil Ikke Dele](https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Vil Ikke Dele](https://open.spotify.com/album/2F8IyxW4ddsPxLjYPFwGg3) | 2:15 | 2025-01-16 | 2025-10-14 |
 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 | 2024-06-27 | 2025-03-03 |
-| [VIS MEG DIN VERDEN](https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-10-24 |  |
+| [VIS MEG DIN VERDEN](https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-10-24 | 2026-02-13 |
 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 | 2024-06-27 | 2025-02-09 |
 | [We Both Smoke Again](https://open.spotify.com/track/04SOnynRP6ZYfQfUt5o20g) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [We Both Smoke Again](https://open.spotify.com/album/1uNtWNLZbwxoYsPM3cY2oV) | 3:28 | 2024-10-10 | 2024-11-08 |
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-24 | 2025-05-02 |

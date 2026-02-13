@@ -1,15 +1,35 @@
 {
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
-  "num_followers": 70882,
+  "num_followers": 70887,
   "original_name": "Top 50 - Czech Republic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MR/nQAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MSE7GAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        },
+        {
+          "name": "BUKA",
+          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Kdo??",
+      "url": "https://open.spotify.com/track/7v26hAmRxygMsg2SYKibzF"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -25,23 +45,43 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        },
+        {
+          "name": "Chawo",
+          "url": "https://open.spotify.com/artist/3RhkM7MJYX1mann1LVLNRd"
         }
       ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+      "duration_ms": 156342,
+      "name": "Nebylo souzen\u00fd",
+      "url": "https://open.spotify.com/track/1ctfpyF1L9ZFqnk7hxg9Jg"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "duration_ms": 191470,
+      "name": "Paladin",
+      "url": "https://open.spotify.com/track/1x8Ly1EFsNVylnSv5aVMqX"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -57,7 +97,7 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -73,7 +113,131 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        },
+        {
+          "name": "Resetedh",
+          "url": "https://open.spotify.com/artist/7sgdMQVU7JaqfpSYpkkCb2"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Move your body",
+      "url": "https://open.spotify.com/track/6ZIgL8Y37ZqjNEe8H5kHBW"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "duration_ms": 130847,
+      "name": "Labubu",
+      "url": "https://open.spotify.com/track/0O2TAdhuF11fwEuMX7VEgW"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "duration_ms": 140833,
+      "name": "BBY",
+      "url": "https://open.spotify.com/track/3tTXvYgl6NO2DhHPezxUcS"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        },
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "M\u016fj sport",
+      "url": "https://open.spotify.com/track/5PSAEB55GHOm4FU34KBjdR"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "Majitel m\u011bsta",
+      "url": "https://open.spotify.com/track/2ncrfOkkG94Ve7HBNbL6DT"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 190987,
+      "name": "Sez\u00f3na",
+      "url": "https://open.spotify.com/track/2EwdZeJt3Z0Ywj5SERUctj"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "Bieber Fever Tour Life",
         "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
@@ -93,23 +257,39 @@
       "url": "https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "Vlajka",
-        "url": "https://open.spotify.com/album/062oTWHWCeDsWvaXn5zuJ2"
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
       },
       "artists": [
         {
-          "name": "Ben Cristovao",
-          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
         }
       ],
-      "duration_ms": 129750,
-      "name": "Vlajka",
-      "url": "https://open.spotify.com/track/1dFkFkXOe5o9frpTi4vR17"
+      "duration_ms": 175448,
+      "name": "Klenot",
+      "url": "https://open.spotify.com/track/6oQOJjwIiX8FnNHo8lPeCY"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
+      },
+      "artists": [
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Kadet",
+      "url": "https://open.spotify.com/track/1OHrW4dh9lcFyzT22nlu9m"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
         "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
@@ -125,23 +305,39 @@
       "url": "https://open.spotify.com/track/5JShUXhGOwqhqwJVGjqVWk"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+        "name": "Majitel",
+        "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
         }
       ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+      "duration_ms": 136874,
+      "name": "\u017divot je kr\u00e1sa",
+      "url": "https://open.spotify.com/track/1YtPjckZ7d1hjPohIUG1pa"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Vlajka",
+        "url": "https://open.spotify.com/album/062oTWHWCeDsWvaXn5zuJ2"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "duration_ms": 129750,
+      "name": "Vlajka",
+      "url": "https://open.spotify.com/track/1dFkFkXOe5o9frpTi4vR17"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -157,31 +353,23 @@
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "NEPO",
-        "url": "https://open.spotify.com/album/1HDyLGZFh5kyvZHV5JtIez"
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
       },
       "artists": [
         {
-          "name": "Mat213",
-          "url": "https://open.spotify.com/artist/3VIkv3HNIvPNwdQIatB5Rx"
-        },
-        {
-          "name": "Franta Pracha\u0159",
-          "url": "https://open.spotify.com/artist/0nKDQIY2quMNZLKHGHXUGU"
-        },
-        {
-          "name": "Anna Mercedes",
-          "url": "https://open.spotify.com/artist/5pvi5tAogKLPvk9yBQxWTt"
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
         }
       ],
-      "duration_ms": 171428,
-      "name": "NEPO",
-      "url": "https://open.spotify.com/track/2nRBoOgeS2P8dO5ZUX1CyV"
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -197,43 +385,27 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "TVOJE O\u010cI",
+        "url": "https://open.spotify.com/album/5yzjPwskfgaow94xwL68Ru"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "The Boy Who Played the Harp",
-        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "4rano",
+          "url": "https://open.spotify.com/artist/2yzKg373IWFA1nZINR8J8f"
         },
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "krystuffek",
+          "url": "https://open.spotify.com/artist/4XVM1ust5o0V7SdEPNnjdc"
         }
       ],
-      "duration_ms": 219743,
-      "name": "Raindance (feat. Tems)",
-      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+      "duration_ms": 120119,
+      "name": "TVOJE O\u010cI",
+      "url": "https://open.spotify.com/track/14sgVMJqy2XtkjrToAvtgS"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "Painkillers",
         "url": "https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp"
@@ -261,27 +433,27 @@
       "url": "https://open.spotify.com/track/3QCRSIRZyCM2JjR4DTiwzF"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "TVOJE O\u010cI",
-        "url": "https://open.spotify.com/album/5yzjPwskfgaow94xwL68Ru"
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
       "artists": [
         {
-          "name": "4rano",
-          "url": "https://open.spotify.com/artist/2yzKg373IWFA1nZINR8J8f"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         },
         {
-          "name": "krystuffek",
-          "url": "https://open.spotify.com/artist/4XVM1ust5o0V7SdEPNnjdc"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 120119,
-      "name": "TVOJE O\u010cI",
-      "url": "https://open.spotify.com/track/14sgVMJqy2XtkjrToAvtgS"
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "Majitel",
         "url": "https://open.spotify.com/album/5CGyqfJKZOh3ebQmpvYGnL"
@@ -290,18 +462,38 @@
         {
           "name": "Robin Zoot",
           "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
-        },
-        {
-          "name": "BUKA",
-          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Kdo??",
-      "url": "https://open.spotify.com/track/7v26hAmRxygMsg2SYKibzF"
+      "duration_ms": 157440,
+      "name": "Krok sem, krok tam",
+      "url": "https://open.spotify.com/track/7My7xoibcRx5B1Jq82lJd1"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "NEPO",
+        "url": "https://open.spotify.com/album/1HDyLGZFh5kyvZHV5JtIez"
+      },
+      "artists": [
+        {
+          "name": "Mat213",
+          "url": "https://open.spotify.com/artist/3VIkv3HNIvPNwdQIatB5Rx"
+        },
+        {
+          "name": "Franta Pracha\u0159",
+          "url": "https://open.spotify.com/artist/0nKDQIY2quMNZLKHGHXUGU"
+        },
+        {
+          "name": "Anna Mercedes",
+          "url": "https://open.spotify.com/artist/5pvi5tAogKLPvk9yBQxWTt"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "NEPO",
+      "url": "https://open.spotify.com/track/2nRBoOgeS2P8dO5ZUX1CyV"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "KARAKORAM",
         "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
@@ -317,7 +509,7 @@
       "url": "https://open.spotify.com/track/5jIAUi4NrvDDqA9Ma32Ej2"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -328,116 +520,12 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 367725,
-      "name": "BAILE INoLVIDABLE",
-      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "Barvy",
-        "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 211891,
-      "name": "Rozd\u011blen\u00fd sv\u011bty",
-      "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
-        "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
-      },
-      "artists": [
-        {
-          "name": "BUKA",
-          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
-        },
-        {
-          "name": "Ohan B",
-          "url": "https://open.spotify.com/artist/7vnaEgAVNxhYeyN37SUIaA"
-        }
-      ],
-      "duration_ms": 181294,
-      "name": "DMG (feat. Ohan B)",
-      "url": "https://open.spotify.com/track/3U7STcrcDjPQGj4wqNJqSA"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Spaceship",
-      "url": "https://open.spotify.com/track/1iCxH5udvifjp0otnwIj75"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "KSN (PINTLICH REMIX)",
         "url": "https://open.spotify.com/album/3EBOGy4G5wEzJHfZa3stFJ"
@@ -473,71 +561,71 @@
       "url": "https://open.spotify.com/track/2K4y6LbyUOr03ktqAaMZmD"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+        "name": "Barvy",
+        "url": "https://open.spotify.com/album/1GYwv5rK5Bs1CemsKiXEBj"
       },
       "artists": [
         {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        },
-        {
-          "name": "Rico Ace",
-          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
         }
       ],
-      "duration_ms": 109759,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+      "duration_ms": 211891,
+      "name": "Rozd\u011blen\u00fd sv\u011bty",
+      "url": "https://open.spotify.com/track/65sTVVVMDnczku5Gt2PTmt"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "Ja, S\u00e1ra",
-        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
       "artists": [
         {
-          "name": "Sara Rikas",
-          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
-        },
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 163209,
-      "name": "Talk2me",
-      "url": "https://open.spotify.com/track/1x1gDfbVvPYm8gaRVhDhIl"
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "Napoleon",
-        "url": "https://open.spotify.com/album/1LCp4WcOKHWo1fZzL8LKSo"
+        "name": "KARAKORAM",
+        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
       },
       "artists": [
         {
-          "name": "Lboy Bsc",
-          "url": "https://open.spotify.com/artist/7HjHXYRxGom5mjP1lHKHW2"
-        },
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/2vMxLcwqHKxvVdBtKRpyUY"
-        },
-        {
-          "name": "Freez247",
-          "url": "https://open.spotify.com/artist/0zML9ujTOJ6CtwzpX0uGCA"
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
         }
       ],
-      "duration_ms": 206817,
-      "name": "Vodka nen\u00ed voda",
-      "url": "https://open.spotify.com/track/33l3BKJazySRMviJXQVTBJ"
+      "duration_ms": 147428,
+      "name": "TINTED WINDOWS",
+      "url": "https://open.spotify.com/track/7vyNS9qPNnSTZ1MXDyIzpG"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "ZA KATREM",
         "url": "https://open.spotify.com/album/5gsrZMbTqY6UfDcdOLymLN"
@@ -553,51 +641,27 @@
       "url": "https://open.spotify.com/track/7m2qiAZor7LHaDXk2DeuyI"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "BOYBAND",
-        "url": "https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB"
+        "name": "J\u00e1, m\u00e9 druh\u00e9 j\u00e1 a Krist\u00fdna",
+        "url": "https://open.spotify.com/album/54iVBrLnAJPSTLsqjUirGg"
       },
       "artists": [
         {
-          "name": "GUFRAU",
-          "url": "https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q"
+          "name": "BUKA",
+          "url": "https://open.spotify.com/artist/5hXMMzNyqGj17MtUASdtnI"
         },
         {
-          "name": "Victor Kal.",
-          "url": "https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in"
-        },
-        {
-          "name": "SIMILIVINLIFE",
-          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+          "name": "Ohan B",
+          "url": "https://open.spotify.com/artist/7vnaEgAVNxhYeyN37SUIaA"
         }
       ],
-      "duration_ms": 146823,
-      "name": "Jak Robot",
-      "url": "https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H"
+      "duration_ms": 181294,
+      "name": "DMG (feat. Ohan B)",
+      "url": "https://open.spotify.com/track/3U7STcrcDjPQGj4wqNJqSA"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
@@ -613,27 +677,43 @@
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "BIG PROBLEM",
-        "url": "https://open.spotify.com/album/6NsKlfSL4np64YrQsmSh8R"
+        "name": "HOMEMADE",
+        "url": "https://open.spotify.com/album/4DZohiV2VuKbCnCan6XaGZ"
       },
       "artists": [
         {
-          "name": "13Many",
-          "url": "https://open.spotify.com/artist/3j3xobDzxD2HDTvHpkZLKi"
-        },
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+          "name": "Slav\u00ed\u010dek",
+          "url": "https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l"
         }
       ],
-      "duration_ms": 162462,
-      "name": "N\u00c1S NEZASTAV\u00cd (feat. Hard Rico)",
-      "url": "https://open.spotify.com/track/48l2ey9095iFLzL4MzWiGo"
+      "duration_ms": 197489,
+      "name": "A\u017e po u\u0161i",
+      "url": "https://open.spotify.com/track/6nla6OAs9APdRtfy7GzeCV"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "FLOWDEMORT",
         "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
@@ -657,123 +737,67 @@
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "KARAKORAM",
-        "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
       },
       "artists": [
         {
-          "name": "P T K",
-          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
-        }
-      ],
-      "duration_ms": 146922,
-      "name": "ONLY WAY OUT IS THROUGH THE SHITS 2",
-      "url": "https://open.spotify.com/track/5tSBZk5XGiK9vMI4KeiQJh"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/6far1bcY49VtxZF5PWYozd"
-      },
-      "artists": [
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
-        }
-      ],
-      "duration_ms": 117446,
-      "name": "23",
-      "url": "https://open.spotify.com/track/4mgUD7Yz4YJRb4cr2NnKpu"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Syndrom",
-      "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "At The Beach, In Every Life",
-        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "(When You Gonna) Give It Up to Me",
-        "url": "https://open.spotify.com/album/25eRITKk6jXXJLAxA3M5b3"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
         },
         {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
         }
       ],
-      "duration_ms": 243880,
-      "name": "(When You Gonna) Give It Up to Me - Radio Version",
-      "url": "https://open.spotify.com/track/5nEdwtSv0qqeE0l4o1lR4q"
+      "duration_ms": 109759,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
-        "name": "SI JE*LA",
-        "url": "https://open.spotify.com/album/0fEpaeEzonkGKyK7v5ROMq"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 207360,
-      "name": "SI JE*LA",
-      "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "BOYBAND",
+        "url": "https://open.spotify.com/album/1Pi6O60mJM4AWNhjShvdvB"
+      },
+      "artists": [
+        {
+          "name": "GUFRAU",
+          "url": "https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q"
+        },
+        {
+          "name": "Victor Kal.",
+          "url": "https://open.spotify.com/artist/7tLaenA4I2OWx0FUaMo5in"
+        },
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Jak Robot",
+      "url": "https://open.spotify.com/track/4QYBPf22ldsJoz2CObRU1H"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -784,164 +808,12 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 204768,
-      "name": "EoO",
-      "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "Bieber Fever Tour Life",
-        "url": "https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "STEIN27",
-          "url": "https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "V\u00edtej mezi n\u00e1ma (feat. STEIN27)",
-      "url": "https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "Papaoutai (Afro Soul)",
-        "url": "https://open.spotify.com/album/4H50NcMmYRT4SovEvVgjqW"
-      },
-      "artists": [
-        {
-          "name": "mikeeysmind",
-          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
-        },
-        {
-          "name": "Chill77",
-          "url": "https://open.spotify.com/artist/7jixKGP9cSwVSLEkmgbv2s"
-        },
-        {
-          "name": "Unjaps",
-          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
-        }
-      ],
-      "duration_ms": 279962,
-      "name": "Papaoutai - Afro Soul",
-      "url": "https://open.spotify.com/track/7qbqG0UWOdpsYE2G6ckXSb"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "HOMEMADE",
-        "url": "https://open.spotify.com/album/4DZohiV2VuKbCnCan6XaGZ"
-      },
-      "artists": [
-        {
-          "name": "Slav\u00ed\u010dek",
-          "url": "https://open.spotify.com/artist/5GfK8A8u8ruvdFiDFS1X9l"
-        }
-      ],
-      "duration_ms": 197489,
-      "name": "A\u017e po u\u0161i",
-      "url": "https://open.spotify.com/track/6nla6OAs9APdRtfy7GzeCV"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "HUNTR/X",
-          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 194607,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 172540,
-      "name": "St\u00edny",
-      "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "Impostor syndrom",
-        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "P\u00e1tky",
-      "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
-      "album": {
-        "name": "\u010cernob\u00edlej sv\u011bt",
-        "url": "https://open.spotify.com/album/09YHBplLJ8UR90lOdCzXfx"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        },
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        },
-        {
-          "name": "Hasan",
-          "url": "https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW"
-        },
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "A\u017e na m\u011bs\u00edc",
-      "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
-    },
-    {
-      "added_at": "2026-02-11 14:07:44",
+      "added_at": "2026-02-12 13:49:17",
       "album": {
         "name": "Ja, S\u00e1ra",
         "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
@@ -959,6 +831,90 @@
       "duration_ms": 187000,
       "name": "In\u00e9 Plemen\u00e1",
       "url": "https://open.spotify.com/track/6WfjL1LncrRrm79gaZoi9v"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "SI JE*LA",
+        "url": "https://open.spotify.com/album/0fEpaeEzonkGKyK7v5ROMq"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "SI JE*LA",
+      "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Spaceship",
+      "url": "https://open.spotify.com/track/1iCxH5udvifjp0otnwIj75"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Ja, S\u00e1ra",
+        "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
+      },
+      "artists": [
+        {
+          "name": "Sara Rikas",
+          "url": "https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo"
+        },
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "duration_ms": 163209,
+      "name": "Talk2me",
+      "url": "https://open.spotify.com/track/1x1gDfbVvPYm8gaRVhDhIl"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2026-02-12 13:49:17",
+      "album": {
+        "name": "Impostor syndrom",
+        "url": "https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Syndrom",
+      "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
     }
   ],
   "unique_name": "Top 50 - Czech Republic",

@@ -4,7 +4,7 @@
 
 > This is yama\. The essential tracks, all in one playlist.
 
-101 songs - 6 hr 0 min
+102 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [声明](https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [声明](https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F) | 3:35 | 2024-04-29 |  |
 | [天色](https://open.spotify.com/track/2ug8mDoQnwu4EaU7wVSd6W) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:00 | 2023-12-26 | 2025-03-09 |
 | [存在証明 \-the meaning of life TOUR 2022 Live at Zepp DiverCity\-](https://open.spotify.com/track/0WlxrwGy3axt23JKI2fK6M) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life TOUR 2022 Live at Zepp DiverCity](https://open.spotify.com/album/6ocPyc0EaM7FvPnWxm192L) | 3:55 | 2023-12-26 | 2024-01-30 |
-| [季節の灯](https://open.spotify.com/track/5YZ3jmdCyHIQSXTqYbwFCo) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [季節の灯](https://open.spotify.com/album/7bdus3PVNMn0WjKqm5RSM2) | 5:56 | 2025-11-03 |  |
+| [季節の灯](https://open.spotify.com/track/5YZ3jmdCyHIQSXTqYbwFCo) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [季節の灯](https://open.spotify.com/album/7bdus3PVNMn0WjKqm5RSM2) | 5:56 | 2025-11-03 | 2026-02-13 |
 | [寝れない夜に \(feat\. yama\)](https://open.spotify.com/track/2CuTFXDSN9xke0mS2ezywb) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [寝れない夜にカーテンをあけて](https://open.spotify.com/album/4b7w62nMDJVeJs9AgffFgB) | 5:20 | 2023-12-26 | 2025-03-08 |
 | [希望論](https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:34 | 2023-12-26 |  |
 | [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 | 2023-12-26 |  |
@@ -104,6 +104,7 @@
 | [砂の城](https://open.spotify.com/track/3GRFoiwlWZKMtdEm8TRpb7) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [砂の城](https://open.spotify.com/album/6QcCfQ7J4VLNiHikcwbqLz) | 4:02 | 2025-05-24 |  |
 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 | 2023-12-26 | 2024-10-03 |
 | [色彩](https://open.spotify.com/track/5H37zP5tQCneoCRJEMRcnV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 3:12 | 2024-10-03 |  |
+| [蛹](https://open.spotify.com/track/3WE8A4ZHK7CDtXtcvpJxnC) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [蛹](https://open.spotify.com/album/6qqUwVgl227Y6CM5LxLt1F) | 3:54 | 2026-02-13 |  |
 | [血流](https://open.spotify.com/track/0bBl2jjpCFCgRd60BowZoV) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 3:28 | 2023-12-26 |  |
 | [返光（Movie Edition）](https://open.spotify.com/track/1lLsIUCAXc8U7QuS3J87Fu) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [返光（Movie Edition）](https://open.spotify.com/album/0QNXYlm9zDHKXZA8UFa3DQ) | 4:05 | 2023-12-26 | 2025-10-05 |
 | [陽だまり](https://open.spotify.com/track/6AE3QlMBz7KcoQKG8LXfIh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [awake＆build](https://open.spotify.com/album/5NUmKoBd8311WrvDx3UFLT) | 5:13 | 2024-01-28 | 2024-04-13 |

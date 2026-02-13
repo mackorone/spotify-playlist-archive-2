@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 2010s! Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 159546,
+  "num_followers": 159574,
   "original_name": "Los 10s",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 205906,
       "name": "El Perd\u00f3n (with Enrique Iglesias)",
       "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "F.A.M.E.",
-        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 229848,
-      "name": "Felices los 4",
-      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "H\u00e1blate de M\u00ed",
         "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 211021,
       "name": "Beso",
       "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
+        "name": "F.A.M.E.",
+        "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 229848,
+      "name": "Felices los 4",
+      "url": "https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 252359,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "Callaita",
         "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 175733,
-      "name": "11 PM",
-      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
+      "duration_ms": 252359,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -599,6 +583,22 @@
       "duration_ms": 259195,
       "name": "Vente Pa' Ca (feat. Maluma)",
       "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "11 PM",
+      "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
     },
     {
       "added_at": "2024-05-14 17:33:16",
@@ -767,6 +767,42 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
+        "name": "Te Bot\u00e9 (Remix)",
+        "url": "https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 417920,
+      "name": "Te Bot\u00e9 - Remix",
+      "url": "https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i"
+    },
+    {
+      "added_at": "2024-05-14 17:33:16",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
@@ -807,22 +843,6 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 222306,
-      "name": "Reggaet\u00f3n Lento (Bailemos)",
-      "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
-    },
-    {
-      "added_at": "2024-05-14 17:33:16",
-      "album": {
         "name": "Energ\u00eda",
         "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
       },
@@ -851,38 +871,18 @@
     {
       "added_at": "2024-05-14 17:33:16",
       "album": {
-        "name": "Te Bot\u00e9 (Remix)",
-        "url": "https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL"
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
       },
       "artists": [
         {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
         }
       ],
-      "duration_ms": 417920,
-      "name": "Te Bot\u00e9 - Remix",
-      "url": "https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i"
+      "duration_ms": 222306,
+      "name": "Reggaet\u00f3n Lento (Bailemos)",
+      "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
     },
     {
       "added_at": "2024-05-14 17:33:16",

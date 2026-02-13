@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: LUKAS OSCAR
 
-491 songs - 1 day 1 hr 1 min
+492 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Blitzlicht](https://open.spotify.com/track/4Ro083Dj0kBhr6JslQjfLj) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Blitzlicht](https://open.spotify.com/album/2udJZcqPmnJwgcVgCGrBII) | 2:46 | 2024-09-05 | 2025-05-23 |
 | [Blood In The Water](https://open.spotify.com/track/7aIAOHBLDuh2IKJPM97VBb) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Blood In The Water](https://open.spotify.com/album/1IbRlTLil2YwX2M0eCo9BU) | 3:27 | 2022-12-01 | 2023-05-05 |
 | [Blossom](https://open.spotify.com/track/6VztmbKdEMOv2AtFGqHtXe) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Blossom](https://open.spotify.com/album/5nOEZixldUUDw7v75j4PiE) | 5:58 | 2022-05-26 | 2023-02-03 |
+| [Blue Light](https://open.spotify.com/track/2qr04qssxQwE1ndWh1mi6H) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Blue Light](https://open.spotify.com/album/58pqS362zuteaYeLitRL19) | 3:26 | 2026-02-12 |  |
 | [Body Mind Hell](https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Body Mind Hell](https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd) | 2:44 | 2022-08-25 | 2024-06-07 |
 | [Boomerang](https://open.spotify.com/track/1DilMm613lCaBlin10YfGM) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Aylo Technology](https://open.spotify.com/album/0AbFBBT1NiSS7x9IDghT2T) | 2:11 | 2021-12-16 | 2022-01-21 |
 | [Born To Be Blue](https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Born To Be Blue](https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c) | 2:51 | 2025-09-11 | 2025-09-26 |
@@ -193,7 +194,7 @@
 | [Haus am See](https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Haus am See](https://open.spotify.com/album/0oCCOrnBMCeNJ8kJXnUGJe) | 3:17 | 2021-12-16 | 2022-08-12 |
 | [Head Over Heels](https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Head Over Heels](https://open.spotify.com/album/6h3wZMS53G5yxRB2ZcZWx6) | 3:14 | 2025-12-11 |  |
 | [Headbanger](https://open.spotify.com/track/26RIjpOPLFygAMiUVeXoRq) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Headbanger](https://open.spotify.com/album/0OcIRYsHa2lbMMu6qB9niK) | 2:53 | 2025-01-30 | 2025-07-25 |
-| [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 | 2026-01-15 |  |
+| [Heartbeat](https://open.spotify.com/track/39KWR72Ih2I1NEYk3UfT3A) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Heartbeat](https://open.spotify.com/album/7bd01wRAWSuH8CdSvMQuo0) | 3:24 | 2026-01-15 | 2026-02-13 |
 | [heimweh\_demo](https://open.spotify.com/track/2K8mcs3oC7T23lArGehWwQ) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [dinge die ich nur mit worten nicht sagen kann\_demos](https://open.spotify.com/album/37M58Kd29M1ZMIC6qaw4xD) | 3:30 | 2025-04-24 |  |
 | [Hell](https://open.spotify.com/track/3jCXH64RBJHKjvMW9U7TZZ) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Playgrounds In Ruins](https://open.spotify.com/album/1rh0TJbZ0l0rjJeJMSLsfc) | 3:19 | 2025-02-27 | 2025-09-26 |
 | [Herz](https://open.spotify.com/track/1Yryu4z1YbCmqkz76J18nb) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Herz](https://open.spotify.com/album/6pvbHjNeuK9qk4MaOU81w6) | 2:20 | 2023-07-27 | 2025-06-06 |

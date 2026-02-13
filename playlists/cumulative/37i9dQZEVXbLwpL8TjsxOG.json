@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
@@ -10566,7 +10566,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 170653,
       "name": "Mono (feat. skaiwater)",
       "url": "https://open.spotify.com/track/3VxmXJ4FdtbWI27p3Gx4Wh"
@@ -20145,6 +20145,24 @@
     },
     {
       "album": {
+        "name": "\u55ae\u7a0b\u7968",
+        "url": "https://open.spotify.com/album/2SotDVVlfqOy4gdA0F7wSj"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221952,
+      "name": "\u55ae\u7a0b\u7968",
+      "url": "https://open.spotify.com/track/3woBOD3Ldh81fAwpsnD8yC"
+    },
+    {
+      "album": {
         "name": "Binary",
         "url": "https://open.spotify.com/album/7q9eYKUnxlErGoPA2OKZyC"
       },
@@ -24762,7 +24780,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 244686,
       "name": "\u7d66\u5343\u5104\u9846\u661f\u9078\u4e2d\u7684\u4e8c\u4eba",
       "url": "https://open.spotify.com/track/3rT8GbzEYNApPxU7yYQlYU"
@@ -25164,7 +25182,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 232839,
       "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
       "url": "https://open.spotify.com/track/3qFJpsQaOGkea5MLxbk9Jc"
@@ -25916,7 +25934,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 245664,
       "name": "\u9060\u5728\u773c\u524d",
       "url": "https://open.spotify.com/track/6BC8sFJBG0XIoFZLrlI1Rc"
@@ -26764,7 +26782,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 219385,
       "name": "\u9ed1\u73bb\u7483",
       "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"

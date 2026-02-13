@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,191 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,214 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,19 +27,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 17 | [Il mio giorno preferito](https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Il mio giorno preferito/Mi día preferido](https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x) | 3:26 |
 | 18 | [Più che puoi \(feat\. Cher\)](https://open.spotify.com/track/7nPYCeSyi1Chcr2o95Eqe1) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Eros 30 \(Deluxe Version\)](https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz) | 4:11 |
 | 19 | [Un attimo di pace](https://open.spotify.com/track/0LadgEv7wA33HaHEvuVcyd) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9](https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8) | 4:36 |
-| 20 | [L'aurora \(feat\. Alicia Keys\)](https://open.spotify.com/track/2KWeyq9rNnXLubrBqUw1zC) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 5:09 |
-| 21 | [Un Ángel Como El Sol Tú Eres](https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Somos](https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk) | 3:23 |
+| 20 | [Un Ángel Como El Sol Tú Eres](https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Somos](https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk) | 3:23 |
+| 21 | [L'aurora \(feat\. Alicia Keys\)](https://open.spotify.com/track/2KWeyq9rNnXLubrBqUw1zC) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 5:09 |
 | 22 | [Nada Sin Ti](https://open.spotify.com/track/1SqNm3h3tjXYqAZUYOcX5L) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica Es](https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh) | 5:05 |
 | 23 | [Terra promessa \- Remastered 2021](https://open.spotify.com/track/5NxVsVTmbQsKF1dkLxhYyF) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Nuovi Eroi \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU) | 3:45 |
 | 24 | [Parla con me](https://open.spotify.com/track/7ItTMytYO4hyglSAn2C9xE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Ali E Radici](https://open.spotify.com/album/2L2i5rfV3tWOUTrJhXXp6R) | 4:00 |
 | 25 | [Mi día preferido](https://open.spotify.com/track/0Bv0IcbYrAhhYcN8cftQQF) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 3:27 |
 | 26 | [Nel cuore lei](https://open.spotify.com/track/7mlmpmwrkMKcU94jXRAaPy) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Sogno](https://open.spotify.com/album/3fKfyzmHnCsdCw4iD3xIch) | 3:43 |
 | 27 | [Ti sposerò perché](https://open.spotify.com/track/5ZODincIREhQ6RYnoJdXNd) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica è](https://open.spotify.com/album/6VI85NNGp3e9N8blWF7VPC) | 4:04 |
-| 28 | [Un Segundo de Paz](https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9 \(Spanish Version\)](https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye) | 4:36 |
-| 29 | [Quanto amore sei](https://open.spotify.com/track/3gRMbDA0VfPqymyAYLXSv4) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros](https://open.spotify.com/album/2XkwMzF1gAdfHI4sk6QArW) | 4:18 |
-| 30 | [Stella gemella](https://open.spotify.com/track/50aMakGSM0CocFbBGB3XrB) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dove c'è musica](https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX) | 4:41 |
-| 31 | [Mañana](https://open.spotify.com/track/1ivNr2pbIq5dHix5eOuAlE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 3:00 |
-| 32 | [La Media Vuelta](https://open.spotify.com/track/5EW6Lazy489NAOroclzA0p) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [México & Amigos](https://open.spotify.com/album/5wRH13btzRy0O7c5RWcpEo) | 3:18 |
+| 28 | [Quanto amore sei](https://open.spotify.com/track/3gRMbDA0VfPqymyAYLXSv4) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros](https://open.spotify.com/album/2XkwMzF1gAdfHI4sk6QArW) | 4:18 |
+| 29 | [Un Segundo de Paz](https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9 \(Spanish Version\)](https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye) | 4:36 |
+| 30 | [La Media Vuelta](https://open.spotify.com/track/5EW6Lazy489NAOroclzA0p) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [México & Amigos](https://open.spotify.com/album/5wRH13btzRy0O7c5RWcpEo) | 3:18 |
+| 31 | [Stella gemella](https://open.spotify.com/track/50aMakGSM0CocFbBGB3XrB) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Dove c'è musica](https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX) | 4:41 |
+| 32 | [Mañana](https://open.spotify.com/track/1ivNr2pbIq5dHix5eOuAlE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [UNA HISTORIA IMPORTANTE](https://open.spotify.com/album/0yzfuInZ8RVSXEaNWTJR54) | 3:00 |
 | 33 | [Dimelo a Mi](https://open.spotify.com/track/639NCadkzpvpwvZ7X8WL6b) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Alas Y Raices](https://open.spotify.com/album/69KJ3ywyhqcAI0Ai2FE5vN) | 3:58 |
 | 34 | [Un Angel No Es](https://open.spotify.com/track/11hEETjPqHR7Izl88OgKr0) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Estilolibre](https://open.spotify.com/album/6czZYpDVUWanP8jHDNkdRb) | 4:38 |
 | 35 | [Estrella Gemela \- Remastered 2021](https://open.spotify.com/track/0CEjdxDzT7Yl5KW1nsuhcS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \[25th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 49 | [Un Angelo Disteso Al Sole](https://open.spotify.com/track/7F4laaMW44ARgK3MioHv4n) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Noi](https://open.spotify.com/album/7gAJbyGOdx4SPXjhFfvSTH) | 3:23 |
 | 50 | [Sei Un Pensiero Speciale](https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Perfetto](https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2) | 3:48 |
 
-Snapshot ID: `aYp1AAAAAAAHDgBljEWK8cHpWlkoqPI7`
+Snapshot ID: `aYvGgAAAAADMgxJ8HAF9kYWODM4b5NNj`

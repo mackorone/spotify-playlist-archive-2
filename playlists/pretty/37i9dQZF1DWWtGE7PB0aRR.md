@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,212 likes - 65 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,277 likes - 65 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 9 | [Who's That](https://open.spotify.com/track/3bO425AkqA0s2s6mB6GJqR) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:40 |
 | 10 | [I Shall Be Released](https://open.spotify.com/track/6KSAUAVSEofmfVQyf81Lrp) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 4:35 |
 | 11 | [Walk In My Shadow](https://open.spotify.com/track/6URu54HPMyL9SjnzXn607m) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 3:30 |
-| 12 | [\(I Know\) I'm Losing You](https://open.spotify.com/track/7s7ylhLGL0sV6TU9bzpN5S) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:23 |
-| 13 | [I Just Want to Make Love to You \- 2016 Remaster](https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 4:20 |
+| 12 | [I Just Want to Make Love to You \- 2016 Remaster](https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 4:20 |
+| 13 | [\(I Know\) I'm Losing You](https://open.spotify.com/track/7s7ylhLGL0sV6TU9bzpN5S) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:23 |
 | 14 | [The Train Kept A\-Rollin'](https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 3:28 |
 | 15 | [Delta Lady](https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 2:50 |
 | 16 | [I'm A Mover](https://open.spotify.com/track/00m7k9KGQMFNrc07N4Xtzx) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 2:58 |
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 31 | [Evil Woman](https://open.spotify.com/track/6WaPZ4qGseF8TS9jTvKHsr) | [Spooky Tooth](https://open.spotify.com/artist/5YE3Wwk5wqQmFXM5qyaM6u) | [Spooky Two](https://open.spotify.com/album/21cn3spYbbQ1aAuzNoeRRp) | 9:08 |
 | 32 | [Desperation \(Stereo Version\)](https://open.spotify.com/track/1wgPsruWiUSxgeFel6L7t5) | [Humble Pie](https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU) | [As Safe As Yesterday Is](https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw) | 6:27 |
 | 33 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
-| 34 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 |
-| 35 | [God Loves A Loser](https://open.spotify.com/track/3bu4JcUpOOoMCyEnDivHFO) | [Todd Sharpville](https://open.spotify.com/artist/4iOFTwfnN1WfcIGYRoa3vE) | [Medication Time](https://open.spotify.com/album/2NLkkqOBsfu247XfAjhhns) | 5:47 |
-| 36 | [Contemporary Chick Con Song \- 2012 Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(2012 Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
-| 37 | [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 |
+| 34 | [God Loves A Loser](https://open.spotify.com/track/3bu4JcUpOOoMCyEnDivHFO) | [Todd Sharpville](https://open.spotify.com/artist/4iOFTwfnN1WfcIGYRoa3vE) | [Medication Time](https://open.spotify.com/album/2NLkkqOBsfu247XfAjhhns) | 5:47 |
+| 35 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 |
+| 36 | [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 |
+| 37 | [Contemporary Chick Con Song \- 2012 Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(2012 Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
 | 38 | [A Hard Road](https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 3:09 |
 | 39 | [Shapes of Things](https://open.spotify.com/track/1nzeJt0HBGX3SjLXVDGc0o) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 3:20 |
 | 40 | [Harmonica](https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ) | [The Graham Bond Organisation](https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff), [Jack Bruce](https://open.spotify.com/artist/73ndLgs6jSrpZzjyzU9TJV), [Ginger Baker](https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw) | [Gonks Go Beat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6F7KmbT7Do6tetnKzE5C3i) | 2:49 |

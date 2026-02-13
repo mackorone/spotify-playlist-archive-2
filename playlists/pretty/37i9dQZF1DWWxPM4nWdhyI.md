@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 
 > All his biggest hits, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,637,426 likes - 101 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,637,699 likes - 101 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxPM4nWdhyI.md) - [plain]
 | 17 | [Lego House](https://open.spotify.com/track/5ubHAQtKuFfiG4FXfLP804) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 3:05 |
 | 18 | [A Little More](https://open.spotify.com/track/7xqCJCrlpRSIHDDJsLeT0U) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:12 |
 | 19 | [Galway Girl](https://open.spotify.com/track/0afhq8XCExXpqazXczTSve) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 2:50 |
-| 20 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
+| 20 | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran & Justin Bieber](https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 |
 | 21 | [Drive \(From F1® The Movie\)](https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Drive \(From F1® The Movie\)](https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc) | 3:07 |
 | 22 | [Give Me Love](https://open.spotify.com/track/0SuG9kyzGRpDqrCWtgD6Lq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC) | 8:46 |
 | 23 | [Tenerife Sea](https://open.spotify.com/track/5rYipCuUMXmKr5XM3eDC1r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Wembley Edition\)](https://open.spotify.com/album/0MeOIA0wwSa6nW79jy8QcZ) | 4:01 |

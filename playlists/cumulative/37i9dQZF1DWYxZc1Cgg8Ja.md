@@ -4,7 +4,7 @@
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: ARIA VEGA
 
-206 songs - 10 hr 31 min
+207 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Ojalá](https://open.spotify.com/track/04hcwA2QczjJkiEFoaK6qC) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ojalá](https://open.spotify.com/album/71t5su830WyBTzVLZQxOb5) | 3:00 | 2025-07-25 |  |
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2023-07-21 | 2024-12-17 |
 | [orióN](https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [orióN](https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6) | 4:00 | 2024-06-28 |  |
+| [Ozono](https://open.spotify.com/track/4acvrfbXrDPFQNNDnFZnpC) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [maikol el insoportable](https://open.spotify.com/artist/3VM367sQBq9n6bsyu5OWQr) | [Ozono](https://open.spotify.com/album/0Yh9K0Fo5hLl92tEmP0g7y) | 4:04 | 2026-02-13 |  |
 | [Pa Que Baile](https://open.spotify.com/track/0qBBbKXDG1cncdx3L5ytJx) | [Los Dioses Del Ritmo](https://open.spotify.com/artist/3SB8QuuxVULg4nFHoWJ5vj) | [Pa Que Baile](https://open.spotify.com/album/5zwWZet8pyk3vCynttCRQd) | 2:43 | 2025-06-20 | 2025-09-06 |
 | [Pa Que Mentir](https://open.spotify.com/track/5VaT9e20yu1cjHf4yUTqgP) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Pa Que Mentir](https://open.spotify.com/album/4XDPOZ4QuiqyAn50nobLt8) | 2:30 | 2024-09-27 | 2024-12-13 |
 | [Pa' Terapia](https://open.spotify.com/track/06NiUeFCTNIZDlg2daoF8M) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pa' Terapia](https://open.spotify.com/album/0Xv4XKcJ18nioqXnNA0sbd) | 2:36 | 2023-09-29 | 2023-11-25 |
@@ -160,7 +161,7 @@
 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-07-21 | 2024-08-24 |
 | [Que Vuelta](https://open.spotify.com/track/0o1MSPQCoDgRa6QNInsmM2) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [Que Vuelta](https://open.spotify.com/album/3ZBvfasRNMjMjy6b5RO0yx) | 3:26 | 2023-07-21 | 2023-12-16 |
 | [Quiero +](https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Quiero +](https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv) | 2:08 | 2025-08-22 |  |
-| [qué le pasa conmigo?](https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [qué le pasa conmigo?](https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc) | 2:47 | 2023-07-21 |  |
+| [qué le pasa conmigo?](https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [qué le pasa conmigo?](https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc) | 2:47 | 2023-07-21 | 2026-02-13 |
 | [REINA VALERA \- Spotify Sessions](https://open.spotify.com/track/6vzVW3oArF7RU9YM0MwmNQ) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [Crudo Means Raw \- Spotify Sessions](https://open.spotify.com/album/6aL43UMiBePvZrK2aTN6PC) | 4:19 | 2025-11-14 |  |
 | [ROMÁNTICOS DE LUNES](https://open.spotify.com/track/3b9hmdwt0RWluhFm3hLKz8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 4:02 | 2023-10-06 | 2024-04-19 |
 | [ROMÁNTICOS DE LUNES](https://open.spotify.com/track/7mfztd9ZxJF4c5JYZhe8XH) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 4:03 | 2023-09-29 | 2025-05-31 |

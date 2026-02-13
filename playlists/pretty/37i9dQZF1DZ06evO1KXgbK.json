@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 255074,
+  "num_followers": 255085,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAMEPwh+uax7uGZ5GO/W1Mb",
+  "snapshot_id": "aYvGgAAAAABYxjUatN1/6KzfviqX/z7o",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jolene (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rescue Story",
         "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 223347,
       "name": "There Was Jesus",
       "url": "https://open.spotify.com/track/6oizwmD5yHvlQUw0xvirrY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jolene (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2v2iR6vtrLVTyiNIEsv5Sg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle When She Flies",
-        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Ricky Van Shelton",
-          "url": "https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Rockin' Years (with Ricky Van Shelton)",
-      "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eagle When She Flies",
+        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Ricky Van Shelton",
+          "url": "https://open.spotify.com/artist/4uaaRGr9KMfYPDaUnBIngc"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Rockin' Years (with Ricky Van Shelton)",
+      "url": "https://open.spotify.com/track/7rRvH22GRxGvsz1d2AnRXM"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Good Old Days (When Times Were Bad)",
-        "url": "https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 195556,
-      "name": "Harper Valley PTA",
-      "url": "https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockstar (Deluxe)",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In the Good Old Days (When Times Were Bad)",
+        "url": "https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 195556,
+      "name": "Harper Valley PTA",
+      "url": "https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/4WQXuQCssnqii801uO1ENh"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 157427,
       "name": "Baby I'm Burnin'",
       "url": "https://open.spotify.com/track/2Asiem9O0YGuvvoAkz8aSq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If You Hadn\u2019t Been There",
+        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 208789,
+      "name": "If You Hadn\u2019t Been There",
+      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Hadn\u2019t Been There",
-        "url": "https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 208789,
-      "name": "If You Hadn\u2019t Been There",
-      "url": "https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Blue Ridge Mountain Boy",
         "url": "https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7"
       },
@@ -867,22 +867,6 @@
       "duration_ms": 170847,
       "name": "In the Ghetto",
       "url": "https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Harvest...First Gathering",
-        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 318844,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
     },
     {
       "added_at": null,
@@ -915,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Harvest...First Gathering",
+        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 318844,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
       },
@@ -931,30 +931,6 @@
       "duration_ms": 235053,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "My Dear Companion - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4tSwFKkSd6MAN0VZcR0vyR"
     },
     {
       "added_at": null,
@@ -991,6 +967,30 @@
       "duration_ms": 241538,
       "name": "From Here to the Moon and Back (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "My Dear Companion - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4tSwFKkSd6MAN0VZcR0vyR"
     }
   ],
   "unique_name": "This Is Dolly Parton",

@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 14006,
+  "num_followers": 14048,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Mrs. Hollywood",
-        "url": "https://open.spotify.com/album/06QgUXZ10gLQDNH4QI48YP"
-      },
-      "artists": [
-        {
-          "name": "Go-Jo",
-          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
-        }
-      ],
-      "duration_ms": 143840,
-      "name": "Mrs. Hollywood",
-      "url": "https://open.spotify.com/track/42gc565aVEpFzNKCsaQg2e"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Emily Can't Sing",
         "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4"
+        "name": "Mrs. Hollywood",
+        "url": "https://open.spotify.com/album/06QgUXZ10gLQDNH4QI48YP"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "Go-Jo",
+          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
         }
       ],
-      "duration_ms": 212093,
-      "name": "All I Want Is You",
-      "url": "https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2"
+      "duration_ms": 143840,
+      "name": "Mrs. Hollywood",
+      "url": "https://open.spotify.com/track/42gc565aVEpFzNKCsaQg2e"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1607,6 +1591,22 @@
       "duration_ms": 198426,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5XOmmOQZFpzeHnWcsFAEiX"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/1wAFvpwnYZ0Ph9aGs3HVr4"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/1KjeiQdORzl04M1PHZTGE2"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "dear dialE",
-        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
-      },
-      "artists": [
-        {
-          "name": "dialE",
-          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
-        }
-      ],
-      "duration_ms": 94085,
-      "name": "nine thirty (the glow)",
-      "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
         "url": "https://open.spotify.com/album/01q7dE8UcVZpykFNzBnGP1"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 198000,
       "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
       "url": "https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "dear dialE",
+        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "duration_ms": 94085,
+      "name": "nine thirty (the glow)",
+      "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "What's Wrong With New York?",
-        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "GASLIGHT",
         "url": "https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 197013,
       "name": "GASLIGHT",
       "url": "https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "What's Wrong With New York?",
+        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7m8wiHGjtlJ5UQvqiCjhV5"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2244,7 +2244,7 @@
           "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
         }
       ],
-      "duration_ms": 226000,
+      "duration_ms": 226054,
       "name": "Eyes Don't Lie",
       "url": "https://open.spotify.com/track/7mVBncqtMZeCC6lnOx4GSv"
     },
@@ -2299,18 +2299,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+        "name": "Liham Sa Ulap",
+        "url": "https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "KYLIX",
+          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
         }
       ],
-      "duration_ms": 97826,
-      "name": "EXCITED!",
-      "url": "https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01"
+      "duration_ms": 188664,
+      "name": "Liham Sa Ulap",
+      "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2331,34 +2331,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Liham Sa Ulap",
-        "url": "https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I"
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
       },
       "artists": [
         {
-          "name": "KYLIX",
-          "url": "https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 188664,
-      "name": "Liham Sa Ulap",
-      "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "A Lot More Free",
-        "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 233750,
-      "name": "Blue Eyed Constellation",
-      "url": "https://open.spotify.com/track/3fFI9wK6aZgeLuS8y3E9PH"
+      "duration_ms": 97826,
+      "name": "EXCITED!",
+      "url": "https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2375,6 +2359,22 @@
       "duration_ms": 179500,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/0yeSknpYINjXT25ilz4wpr"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "A Lot More Free",
+        "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 233750,
+      "name": "Blue Eyed Constellation",
+      "url": "https://open.spotify.com/track/3fFI9wK6aZgeLuS8y3E9PH"
     },
     {
       "added_at": "2025-05-19 03:00:14",

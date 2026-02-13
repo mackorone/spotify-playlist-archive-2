@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 84590,
+  "num_followers": 84604,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAADRJk1dTa2clapdF/KTQ7JG",
+  "snapshot_id": "aYvGgAAAAABbizA8I+iV1IsDo/P6Rhkj",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 67005,
-      "name": "Do What You Want",
-      "url": "https://open.spotify.com/track/6kE91QjOimRTG5BW1BBj4D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Maps of Hell (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 167946,
       "name": "New Dark Ages",
       "url": "https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 67005,
+      "name": "Do What You Want",
+      "url": "https://open.spotify.com/track/6kE91QjOimRTG5BW1BBj4D"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 177693,
-      "name": "Let Them Eat War",
-      "url": "https://open.spotify.com/track/0734v426krcGYoB7d3763w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gray Race",
         "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 123666,
       "name": "Come Join Us",
       "url": "https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 177693,
+      "name": "Let Them Eat War",
+      "url": "https://open.spotify.com/track/0734v426krcGYoB7d3763w"
     },
     {
       "added_at": null,

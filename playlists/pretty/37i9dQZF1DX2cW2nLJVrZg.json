@@ -1,6 +1,6 @@
 {
   "description": "All the winning songs from the annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 254658,
+  "num_followers": 254649,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-01-23 19:55:12",
       "album": {
+        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
+        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "The Portrait (From \"Titanic\" Soundtrack)",
+      "url": "https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb"
+    },
+    {
+      "added_at": "2024-01-23 19:55:12",
+      "album": {
         "name": "Glory (From the Motion Picture Selma)",
         "url": "https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 272727,
       "name": "Glory (From the Motion Picture Selma)",
       "url": "https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp"
-    },
-    {
-      "added_at": "2024-01-23 19:55:12",
-      "album": {
-        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
-        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
-      },
-      "artists": [
-        {
-          "name": "James Horner",
-          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "The Portrait (From \"Titanic\" Soundtrack)",
-      "url": "https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb"
     },
     {
       "added_at": "2024-01-23 19:55:12",

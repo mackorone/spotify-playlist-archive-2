@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Bad Bunny",
+  "description": "Tous les hits latino du moment sont ici. Photo : Quevedo",
   "name": "Caliente",
   "tracks": [
     {
@@ -1410,6 +1410,28 @@
       "duration_ms": 187151,
       "name": "Chica Gal\u00e1ctica - W Sound 07",
       "url": "https://open.spotify.com/track/623kbEIDhzRFLVk1r8cBTm"
+    },
+    {
+      "album": {
+        "name": "Choque",
+        "url": "https://open.spotify.com/album/18G9V5rZ8UvMRgUbS5fshr"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199456,
+      "name": "Choque",
+      "url": "https://open.spotify.com/track/68KElV3TDyDy2zHPCWjUyt"
     },
     {
       "album": {
@@ -4898,7 +4920,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 123069,
       "name": "Manos (I Like To Move It)",
       "url": "https://open.spotify.com/track/7vAvWmlRWRwYdvCEqQ34sK"
@@ -5440,6 +5462,24 @@
       "duration_ms": 154536,
       "name": "M\u00edrame Ahora - Salud mi Reina",
       "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
+    },
+    {
+      "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
     },
     {
       "album": {
@@ -6821,6 +6861,24 @@
     },
     {
       "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162533,
+      "name": "Sauvignon Blanc",
+      "url": "https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR"
+    },
+    {
+      "album": {
         "name": "Scarface",
         "url": "https://open.spotify.com/album/5u20EM93IFNbGp2IGDJdAo"
       },
@@ -7830,7 +7888,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 138180,
       "name": "TURR0LOGIA",
       "url": "https://open.spotify.com/track/3yP2GV6HbYViIiboNlXDlO"
@@ -8368,7 +8426,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 192000,
       "name": "Y si peleamos",
       "url": "https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1"

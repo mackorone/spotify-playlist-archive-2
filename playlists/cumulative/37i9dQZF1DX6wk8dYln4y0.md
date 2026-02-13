@@ -2,9 +2,9 @@
 
 ### [\*hits different\*](https://open.spotify.com/playlist/37i9dQZF1DX6wk8dYln4y0)
 
-> music that just \*hits different\* Cover: Borderline
+> music that just \*hits different\* Cover: Meila
 
-660 songs - 1 day 11 hr 34 min
+662 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-12-19 | 2024-06-19 |
 | [All For You](https://open.spotify.com/track/0085KUYroII3QIrtquKKTt) | [Benny Morrell](https://open.spotify.com/artist/1s4B6fb9iNflnlOFKIn5q9) | [All That's Left](https://open.spotify.com/album/0b7WViW62y6pySZZSi1nsj) | 3:57 | 2025-10-09 | 2025-11-28 |
 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 | 2025-05-08 |  |
-| [All I Do](https://open.spotify.com/track/07753okQq77o7gtEAC9LNm) | [Baby Smith](https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932) | [All I Do](https://open.spotify.com/album/2VVdUACeHgV0We2bMWObQn) | 3:29 | 2026-01-29 |  |
+| [All I Do](https://open.spotify.com/track/07753okQq77o7gtEAC9LNm) | [Baby Smith](https://open.spotify.com/artist/4QzM5sY3QDA4mmgv8Xj932) | [All I Do](https://open.spotify.com/album/2VVdUACeHgV0We2bMWObQn) | 3:29 | 2026-01-29 | 2026-02-13 |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-20 | 2023-10-28 |
 | [Alone With You](https://open.spotify.com/track/4twZYaycgkHGouSHWd6coG) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Slow Crush](https://open.spotify.com/album/0g0bAZkZDREcGkAo5jzuYU) | 3:30 | 2025-04-03 | 2025-04-18 |
 | [Always A Fan](https://open.spotify.com/track/48oPBRoKCE1hL2OaFufOAK) | [Bec Sandridge](https://open.spotify.com/artist/693lRFCUH8BNpURQO9RMpt) | [Always A Fan](https://open.spotify.com/album/4Qzwo3Nd6SzvDF9ciIpzxz) | 3:09 | 2025-05-15 | 2025-05-30 |
@@ -54,7 +54,7 @@
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2023-09-21 | 2025-02-28 |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-12-19 | 2024-06-12 |
 | [Back To December \(Taylor's Version\)](https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:54 | 2023-07-07 | 2023-09-13 |
-| [Back To You](https://open.spotify.com/track/5fw5edT2Iu243gaNQbZwxC) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Back To You](https://open.spotify.com/album/1GRGtFtuMOIoxIZuw2i4oF) | 3:10 | 2026-01-15 |  |
+| [Back To You](https://open.spotify.com/track/5fw5edT2Iu243gaNQbZwxC) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Back To You](https://open.spotify.com/album/1GRGtFtuMOIoxIZuw2i4oF) | 3:10 | 2026-01-15 | 2026-02-13 |
 | [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 | 2025-04-27 |  |
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-15 | 2023-09-12 |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-09-07 | 2024-04-19 |
@@ -241,6 +241,7 @@
 | [happy 4 u](https://open.spotify.com/track/2OwvgYtIVUT65olr13imQ1) | [Dani Marchio](https://open.spotify.com/artist/2lbntvM1QPq5hj4x3HO1dT) | [happy 4 u](https://open.spotify.com/album/4XM28g2GoNUXkYSV1rvMHe) | 3:16 | 2025-06-26 | 2025-08-01 |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-04-18 | 2024-04-26 |
 | [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 3:34 | 2025-11-13 |  |
+| [he loves me, he loves me not](https://open.spotify.com/track/1fYnF4ycRJWYDVcuEshZpW) | [Lucy Sugerman](https://open.spotify.com/artist/5nLGkslzP5G1oqwxhUPj2N) | [old patterns](https://open.spotify.com/album/5GYwR7YbgBCzX0BnbFLvsO) | 4:15 | 2026-02-12 |  |
 | [Heart on Fire](https://open.spotify.com/track/76k6Av4PyMxrMvbY9NHQUU) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Afterglow](https://open.spotify.com/album/49Eh0Oixu9Sfo43ujAY1sk) | 3:13 | 2025-10-23 | 2025-11-09 |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-03-16 | 2023-08-03 |
 | [Heartbeat](https://open.spotify.com/track/1icCZZZJpuUPvhakixy9f2) | [Genes](https://open.spotify.com/artist/5m34laExsWdTu2fYhRlRMG) | [Heartbeat](https://open.spotify.com/album/0W1MQnllbMtnLl0HJjkWSE) | 2:33 | 2025-03-06 | 2025-03-14 |
@@ -321,7 +322,7 @@
 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 | 2023-05-25 | 2023-09-10 |
 | [Julie's House](https://open.spotify.com/track/6wIy2XMSP4q7FPq22g8oIZ) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl) | [Julie's House](https://open.spotify.com/album/7gnzw64SgJ73FGO4jAMoTZ) | 4:41 | 2025-05-08 | 2025-05-23 |
 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 | 2023-04-28 | 2023-12-20 |
-| [Just Another Day](https://open.spotify.com/track/2X1h5j0KNJnRwoq3LOmeCX) | [Kook Joey](https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8) | [Holiday](https://open.spotify.com/album/5OHNXTbV4gixUZjm7KhDXl) | 3:45 | 2026-01-22 |  |
+| [Just Another Day](https://open.spotify.com/track/2X1h5j0KNJnRwoq3LOmeCX) | [Kook Joey](https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8) | [Holiday](https://open.spotify.com/album/5OHNXTbV4gixUZjm7KhDXl) | 3:45 | 2026-01-22 | 2026-02-13 |
 | [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-21 |  |
 | [K.](https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 5:20 | 2023-09-28 | 2024-04-19 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2023-04-28 | 2023-05-26 |
@@ -331,7 +332,7 @@
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-03-16 | 2024-06-12 |
 | [kill me for always \(feat\. porter robinson\)](https://open.spotify.com/track/5xCTgxiJcVrrjKAh3O4OwM) | [Michael Clifford](https://open.spotify.com/artist/5xnIHjofV8JpeKaWfFMcj0), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [kill me for always \(feat\. porter robinson\)](https://open.spotify.com/album/6fDX4Ww5BoKMasbdViYijh) | 3:07 | 2025-07-03 | 2025-07-29 |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2024-06-18 | 2025-01-31 |
-| [KISS ME](https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [KISS ME](https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G) | 3:03 | 2026-01-16 | 2026-02-11 |
+| [KISS ME](https://open.spotify.com/track/0bThHrVS5I2yFe36bWjHql) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [KISS ME](https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G) | 3:03 | 2026-01-16 |  |
 | [Kiss Me](https://open.spotify.com/track/3EjTnZRaykPSYBGsSWS1AP) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kiss Me](https://open.spotify.com/album/4NOkk0d26Bx9ewNxtIo1Px) | 2:53 | 2024-07-18 | 2024-08-03 |
 | [Kobe Beef](https://open.spotify.com/track/1A86ZK3uHuObbQ1sdmRsgk) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Kobe Beef](https://open.spotify.com/album/7GtsXESgtmWr4R4zVEiUKw) | 2:47 | 2024-02-22 | 2024-03-01 |
 | [Kylie's Rant](https://open.spotify.com/track/2q7cHCcQNigbWZWgNW0XHq) | [KYE](https://open.spotify.com/artist/7aD0vAhYP5JsPQPgrd76bp) | [Kylie's Rant](https://open.spotify.com/album/5GFigtgiA22bav8RtBuZgm) | 2:52 | 2025-08-21 | 2025-09-19 |
@@ -553,6 +554,7 @@
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-08 | 2024-07-10 |
 | [Taking It Easy](https://open.spotify.com/track/1Qm6oqgMJZQSlAIBgo16xJ) | [Meila](https://open.spotify.com/artist/45z2aQmnsWVBrGxBtV8wVu) | [Taking It Easy](https://open.spotify.com/album/0mSdps1rVEgwr0PtYGA9vr) | 3:59 | 2025-05-29 | 2025-06-13 |
 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 | 2025-05-01 | 2025-09-12 |
+| [Tattoos](https://open.spotify.com/track/55IJRlxMamDtU7gzGerJKr) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Tattoos](https://open.spotify.com/album/1jC9ONIxVSNK1KW2I7m4dU) | 2:55 | 2026-02-12 |  |
 | [TATTOOS & U](https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [CYCLES](https://open.spotify.com/album/1T1eS3I0K7NC7BmnHQ7PL4) | 1:58 | 2025-06-19 | 2025-07-06 |
 | [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-02-29 | 2024-03-08 |
 | [Telephone Busy](https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Telephone Busy](https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2) | 3:15 | 2025-10-23 | 2026-01-29 |

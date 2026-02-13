@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: yubiori
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,437 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,453 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,39 +49,39 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 39 | [Puppet Dance](https://open.spotify.com/track/4yq5Tvx0k8TXd2wFcylTHf) | [THINGS](https://open.spotify.com/artist/1EWDxMW01kW4aEipnWPQFL) | [Puppet Dance](https://open.spotify.com/album/4iJ2kM7RJx6jdQncnATzRV) | 3:54 |
 | 40 | [BITTERSWEET](https://open.spotify.com/track/0LHBidxCBlOCzsCe2VICZx) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [BITTERSWEET](https://open.spotify.com/album/5iT4t4tsexjyInZ7G0Tfdq) | 3:17 |
 | 41 | [電話](https://open.spotify.com/track/4Ivha1S5ifAjJcL0ckow2C) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [電話](https://open.spotify.com/album/1PiCmopbgqhm2hfPu3T89V) | 3:46 |
-| 42 | [Eternal Orbit](https://open.spotify.com/track/2ifHo7sPgqbXLVuShccAHU) | [ASOUND](https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk) | [Eternal Orbit](https://open.spotify.com/album/45I5XsIbAX2CTqpkaMgqGD) | 4:47 |
-| 43 | [Field \- feat\. Cwondo](https://open.spotify.com/track/6xDI04c1xoXpFzptfR36FM) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Field \(feat\. Cwondo\)](https://open.spotify.com/album/6s3wTeQzvQXNNGPTjSIps2) | 3:49 |
-| 44 | [HITSUJI](https://open.spotify.com/track/6lxBbKee8B57prmzPDu5aO) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [HITSUJI](https://open.spotify.com/album/38udARm3saUU5IhbVyDR9W) | 3:18 |
+| 42 | [HITSUJI](https://open.spotify.com/track/6lxBbKee8B57prmzPDu5aO) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [HITSUJI](https://open.spotify.com/album/38udARm3saUU5IhbVyDR9W) | 3:18 |
+| 43 | [Eternal Orbit](https://open.spotify.com/track/2ifHo7sPgqbXLVuShccAHU) | [ASOUND](https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk) | [Eternal Orbit](https://open.spotify.com/album/45I5XsIbAX2CTqpkaMgqGD) | 4:47 |
+| 44 | [Field \- feat\. Cwondo](https://open.spotify.com/track/6xDI04c1xoXpFzptfR36FM) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z) | [Field \(feat\. Cwondo\)](https://open.spotify.com/album/6s3wTeQzvQXNNGPTjSIps2) | 3:49 |
 | 45 | [ざくろ](https://open.spotify.com/track/6vPPT1WvV33jLT13PbXeqq) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [ざくろ](https://open.spotify.com/album/6kAdtRwIMmp8Nee6pcUKnN) | 6:42 |
 | 46 | [You Can Fly On My Aeroplane \- Japanese version](https://open.spotify.com/track/4mQC58Rjf6RRLaMZojPnob) | [YUMA HARA](https://open.spotify.com/artist/5ysAjkLc0t3f6SmiE0Reyz), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [You Can Fly On My Aeroplane \(Japanese version\)](https://open.spotify.com/album/49W5hZFPmDTyZvZV6aO15B) | 5:36 |
 | 47 | [Tシャツvs雨](https://open.spotify.com/track/5F1bxYmnaCmYny5OVVaqwr) | [Gateballers](https://open.spotify.com/artist/2b7HKmpiq0Y0mguaajJkMU) | [Tシャツvs雨](https://open.spotify.com/album/6DtP1Xii0O4aYMmqCXy1SH) | 4:54 |
 | 48 | [LOST CHILD](https://open.spotify.com/track/4oREyQJeDV37JHXv3XeulO) | [色々な十字架](https://open.spotify.com/artist/2gWCmHa50Meizr9Mo2sgZ0) | [1年生や2年生の挨拶](https://open.spotify.com/album/5IwtflWqnGz0PDsEci1GTa) | 5:50 |
 | 49 | [Lights Out](https://open.spotify.com/track/7uSU8IsXLy8E3mJ6HTHmo8) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc), [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [Lights Out](https://open.spotify.com/album/37wxS7hulvxgsrp160FyY1) | 4:38 |
-| 50 | [一縷](https://open.spotify.com/track/0Ha0Jamuh0OyS9q65t9c0N) | [UNIDOTS](https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ) | [一縷](https://open.spotify.com/album/004hVSOMsD3ryx7iMugGGJ) | 3:34 |
-| 51 | [grue](https://open.spotify.com/track/75pLsdloo6CR6zsCOfYZmp) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk), [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [情操の空き地](https://open.spotify.com/album/4DZNVejri3dFbIP5qmfGr1) | 2:54 |
-| 52 | [Babel \- Re\-recorded](https://open.spotify.com/track/46uupX1PFFJwLeEkm8F2QO) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Babel \(Re\-recorded\)](https://open.spotify.com/album/2JzBeuZ6mo9dWfeD7kcW2Z) | 4:38 |
+| 50 | [物語](https://open.spotify.com/track/7K26FvD1eR5TBahHnrS4uA) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [ジンジャー・キャット・アプリシエーション](https://open.spotify.com/album/66KN98sM0s2lKHWoylnlci) | 7:21 |
+| 51 | [一縷](https://open.spotify.com/track/0Ha0Jamuh0OyS9q65t9c0N) | [UNIDOTS](https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ) | [一縷](https://open.spotify.com/album/004hVSOMsD3ryx7iMugGGJ) | 3:34 |
+| 52 | [grue](https://open.spotify.com/track/75pLsdloo6CR6zsCOfYZmp) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk), [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [情操の空き地](https://open.spotify.com/album/4DZNVejri3dFbIP5qmfGr1) | 2:54 |
 | 53 | [ドミノのお告げ](https://open.spotify.com/track/5G9RWqRyJtp6uzsCx1ZtlF) | [Österreich](https://open.spotify.com/artist/16gEZTmX8wNpdWCgD28LRx) | [ドミノのお告げ](https://open.spotify.com/album/0HGBLHuXS6I8okqdwmycCM) | 3:46 |
-| 54 | [物語](https://open.spotify.com/track/7K26FvD1eR5TBahHnrS4uA) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [ジンジャー・キャット・アプリシエーション](https://open.spotify.com/album/66KN98sM0s2lKHWoylnlci) | 7:21 |
+| 54 | [Babel \- Re\-recorded](https://open.spotify.com/track/46uupX1PFFJwLeEkm8F2QO) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Babel \(Re\-recorded\)](https://open.spotify.com/album/2JzBeuZ6mo9dWfeD7kcW2Z) | 4:38 |
 | 55 | [knit](https://open.spotify.com/track/2NV3wVoE6FsCdtO5cK0SZO) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [knit](https://open.spotify.com/album/47oguw59tRCV0akjS9Ql2d) | 5:15 |
-| 56 | [Chicken Crisp \- FKD Remix](https://open.spotify.com/track/4gYNptP1oiOshIsQM2aAI8) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [Chicken Crisp \(FKD Remix\)](https://open.spotify.com/album/67lhxPgsjjjuj4IIKB2Eek) | 4:26 |
-| 57 | [忙忙忙ー忙・忙ー忙忙](https://open.spotify.com/track/0txZHhlMtdCto4cABJsRZ4) | [ผ้าอ้อม99999](https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8) | [忙忙忙ー忙・忙ー忙忙](https://open.spotify.com/album/2zAvlhCyyB6fMDQkW6qtmW) | 2:52 |
-| 58 | [イッキ](https://open.spotify.com/track/3YwwSttshzmpfDGczLlLit) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [いばら](https://open.spotify.com/album/3Bi9nnOV6bID6GwqmtDC4b) | 3:24 |
-| 59 | [おかしなやつばかり](https://open.spotify.com/track/5VfkYtVseqjlPDUTxqEzs1) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [おかしなやつばかり](https://open.spotify.com/album/1XYq98fmVyPRCcmVbiqtdg) | 4:52 |
+| 56 | [忙忙忙ー忙・忙ー忙忙](https://open.spotify.com/track/0txZHhlMtdCto4cABJsRZ4) | [ผ้าอ้อม99999](https://open.spotify.com/artist/5tpfTW6vWImBBePPUQgAq8) | [忙忙忙ー忙・忙ー忙忙](https://open.spotify.com/album/2zAvlhCyyB6fMDQkW6qtmW) | 2:52 |
+| 57 | [Chicken Crisp \- FKD Remix](https://open.spotify.com/track/4gYNptP1oiOshIsQM2aAI8) | [HALLEY](https://open.spotify.com/artist/0GUvlVXWnuFFfSeGZsVOW2), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [Chicken Crisp \(FKD Remix\)](https://open.spotify.com/album/67lhxPgsjjjuj4IIKB2Eek) | 4:26 |
+| 58 | [おかしなやつばかり](https://open.spotify.com/track/5VfkYtVseqjlPDUTxqEzs1) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [おかしなやつばかり](https://open.spotify.com/album/1XYq98fmVyPRCcmVbiqtdg) | 4:52 |
+| 59 | [イッキ](https://open.spotify.com/track/3YwwSttshzmpfDGczLlLit) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [いばら](https://open.spotify.com/album/3Bi9nnOV6bID6GwqmtDC4b) | 3:24 |
 | 60 | [9,it slowly hovers](https://open.spotify.com/track/4alBLDDDYgdzcJC9PdVT4F) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [9,it slowly hovers](https://open.spotify.com/album/1YKDkKpx4DkTFfAOceBlOG) | 3:39 |
-| 61 | [Wither](https://open.spotify.com/track/1igNsQZXWafTnS64E04aXd) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [Wither / yosuga](https://open.spotify.com/album/7yPHzRpRU454suTFUA5Cz7) | 3:13 |
+| 61 | [再会](https://open.spotify.com/track/7IJLnpn8tnvMmIGXZQXduC) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [再会](https://open.spotify.com/album/3f1m2jisPLKabIc3OToOjq) | 3:44 |
 | 62 | [街角煙突俱楽部](https://open.spotify.com/track/5iBzhtT9XcQwKDZm01p4o2) | [片想い](https://open.spotify.com/artist/7oOtm11Zlovb1drk8T1zhK) | [街角煙突俱楽部](https://open.spotify.com/album/5805eSZVALKyTSLHg5R9fk) | 2:43 |
-| 63 | [再会](https://open.spotify.com/track/7IJLnpn8tnvMmIGXZQXduC) | [Veg](https://open.spotify.com/artist/2DKxnCTjTtykz26xhPeoF8) | [再会](https://open.spotify.com/album/3f1m2jisPLKabIc3OToOjq) | 3:44 |
+| 63 | [Wither](https://open.spotify.com/track/1igNsQZXWafTnS64E04aXd) | [FUJIBASE](https://open.spotify.com/artist/3MObmQRPLt9gTkOmMudG66) | [Wither / yosuga](https://open.spotify.com/album/7yPHzRpRU454suTFUA5Cz7) | 3:13 |
 | 64 | [lost](https://open.spotify.com/track/7LKD6LKTziLqv8oXo6iv3e) | [aoni](https://open.spotify.com/artist/3AcR5cfA2SMdwm5v0FPvvn) | [Kuroi Echoes](https://open.spotify.com/album/6YQ5zvaQ8gsB076SoL9ZhS) | 2:55 |
 | 65 | [KIRA KIRA](https://open.spotify.com/track/37LdsVpdUl2jNPQDSM9xIp) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [Dos Moons 2](https://open.spotify.com/album/5zUHvcKgWj0MeqdviWrkAI) | 2:47 |
 | 66 | [現実という名のアプリ](https://open.spotify.com/track/5lmB0MuDe4y5ObJJHTaufj) | [窓際ぼっち倶楽部](https://open.spotify.com/artist/2e9zgh8OaNlxL0TZuWLlLJ) | [世界の窓際から e.p](https://open.spotify.com/album/6tbhnHfNrokdjDMd0vNiRc) | 2:52 |
-| 67 | [掴めない人](https://open.spotify.com/track/4X45mHitSi0UBFYreIWp87) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [掴めない人](https://open.spotify.com/album/31GdeHZUbAH14wedzLY41w) | 3:30 |
-| 68 | [Riding Unicorn](https://open.spotify.com/track/3GEjkXJAMKBtzA1oILWsOE) | [.jvkn](https://open.spotify.com/artist/6JJImm6GM9Kj4VV17hUxiw) | [Riding Unicorn](https://open.spotify.com/album/1g4F4Ck0z4jTTo0yLfgjQd) | 3:14 |
-| 69 | [mosaic](https://open.spotify.com/track/1ndoxz0E52XBpO8XAz5MyC) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt) | [mosaic](https://open.spotify.com/album/4m5zyBCUqPDvL0hTnqkfJp) | 3:00 |
+| 67 | [mosaic](https://open.spotify.com/track/1ndoxz0E52XBpO8XAz5MyC) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt) | [mosaic](https://open.spotify.com/album/4m5zyBCUqPDvL0hTnqkfJp) | 3:00 |
+| 68 | [掴めない人](https://open.spotify.com/track/4X45mHitSi0UBFYreIWp87) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [掴めない人](https://open.spotify.com/album/31GdeHZUbAH14wedzLY41w) | 3:30 |
+| 69 | [Riding Unicorn](https://open.spotify.com/track/3GEjkXJAMKBtzA1oILWsOE) | [.jvkn](https://open.spotify.com/artist/6JJImm6GM9Kj4VV17hUxiw) | [Riding Unicorn](https://open.spotify.com/album/1g4F4Ck0z4jTTo0yLfgjQd) | 3:14 |
 | 70 | [愛情](https://open.spotify.com/track/43uaJoQPBZnvmkwGS8VYGO) | [mono²](https://open.spotify.com/artist/06oleY83LOUgk1fNWZAWQd) | [愛情](https://open.spotify.com/album/2QJVpLbNZfvqcJc4i94njk) | 4:08 |
 | 71 | [さかな](https://open.spotify.com/track/51VXEIiHgmApKtwRThN9pb) | [メコン](https://open.spotify.com/artist/16JEAVcfRCkDXYOserN7bB) | [さかな](https://open.spotify.com/album/2rVn3Z8txWcako26GpccJY) | 4:06 |
 | 72 | [あれもこれも](https://open.spotify.com/track/31IKGYJC6Rmza0HDpKY01s) | [Kazumi Nikaido](https://open.spotify.com/artist/0bbguXjnV68XM0aFeR7S6I) | [潮汐](https://open.spotify.com/album/6Psdtz3Bp59MnwLt5JEt4L) | 5:57 |
-| 73 | [Le matin](https://open.spotify.com/track/5DquUPumZSaUc0d7xOutT2) | [LOLOET](https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq) | [環響音](https://open.spotify.com/album/6vd9hhXpx7N0V0aSOTIjbV) | 4:42 |
-| 74 | [sunlit rain](https://open.spotify.com/track/1Qie1ItH2CsXuNxNqtEMRg) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [sunlit rain](https://open.spotify.com/album/3z0Sf0ydqd3bcmjlAwNMIf) | 4:52 |
-| 75 | [Mado](https://open.spotify.com/track/5Pws9bjAK8jDuCJOPiZZOo) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Mado](https://open.spotify.com/album/3r1ZgqghDRJDcaNrR5eXGt) | 4:33 |
+| 73 | [sunlit rain](https://open.spotify.com/track/1Qie1ItH2CsXuNxNqtEMRg) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [sunlit rain](https://open.spotify.com/album/3z0Sf0ydqd3bcmjlAwNMIf) | 4:52 |
+| 74 | [Mado](https://open.spotify.com/track/5Pws9bjAK8jDuCJOPiZZOo) | [Beachside talks](https://open.spotify.com/artist/5sp9TRLcb2ooWZG7XRY6c4) | [Mado](https://open.spotify.com/album/3r1ZgqghDRJDcaNrR5eXGt) | 4:33 |
+| 75 | [Le matin](https://open.spotify.com/track/5DquUPumZSaUc0d7xOutT2) | [LOLOET](https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq) | [環響音](https://open.spotify.com/album/6vd9hhXpx7N0V0aSOTIjbV) | 4:42 |
 
 Snapshot ID: `AAAAAGjPzDE3Wd2eAgAym+Nh9uof3JUj`

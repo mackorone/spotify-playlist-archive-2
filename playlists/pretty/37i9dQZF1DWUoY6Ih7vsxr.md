@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,402 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,521 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 9 | [CALL ME BABY](https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXODUS \- The 2nd Album](https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af) | 3:31 |
 | 10 | [쏘리 쏘리 Sorry, Sorry](https://open.spotify.com/track/5w18nowVMRZrC5Na9Vxoth) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [쏘리 쏘리 Sorry, Sorry \- The 3rd Album](https://open.spotify.com/album/3v5XUoZzxbmJbxs7vWTua3) | 3:52 |
 | 11 | [Trouble Maker](https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn) | [Trouble Maker](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9) | [Trouble Maker](https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm) | 3:39 |
-| 12 | [Fiction](https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Fiction And Fact](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) | 3:54 |
-| 13 | [4 Walls](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:27 |
+| 12 | [4 Walls](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:27 |
+| 13 | [Fiction](https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Fiction And Fact](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) | 3:54 |
 | 14 | [Lucifer](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Lucifer \- The 2nd Album](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) | 3:53 |
 | 15 | [Mr\. Simple](https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Mr\. Simple \- The 5th Album](https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa) | 4:01 |
 | 16 | [Mr.Mr.](https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Mr\. Mr\. \- The 4th Mini Album](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) | 3:55 |
@@ -70,16 +70,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 60 | [My My](https://open.spotify.com/track/7lrLDy8ZYL5KLx2Z9GZTaP) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Snow Pink](https://open.spotify.com/album/19b3lwHo0nKeh11ZL2znNr) | 3:54 |
 | 61 | [Rising Sun](https://open.spotify.com/track/4Ak5M4CD9XGkSUmW0loxAl) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Rising Sun \- 2nd Album](https://open.spotify.com/album/5AH1QpZf94kaiWuLXbmTIR) | 4:42 |
 | 62 | [FACE](https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:40 |
-| 63 | [The Chaser](https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [INFINITIZE](https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D) | 3:22 |
+| 63 | [Chu\~♡](https://open.spotify.com/track/2NAT52rmZWuQWv3F3SolId) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Hot Summer \- The 1st Album Repackage](https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu) | 3:10 |
 | 64 | [XOXO](https://open.spotify.com/track/3Fm1KdUH8FmJOdtFi8MBvx) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:06 |
 | 65 | [I don't Know](https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Seven Springs Of Apink](https://open.spotify.com/album/6N7uosa9vVi6cI1LoVF64R) | 3:44 |
-| 66 | [Chu\~♡](https://open.spotify.com/track/2NAT52rmZWuQWv3F3SolId) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Hot Summer \- The 1st Album Repackage](https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu) | 3:10 |
-| 67 | [Shock](https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Shock Of The New Era](https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg) | 3:45 |
+| 66 | [The Chaser](https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [INFINITIZE](https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D) | 3:22 |
+| 67 | [Beautiful Night](https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Midnight Sun](https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu) | 3:38 |
 | 68 | [Mamma Mia](https://open.spotify.com/track/1jbHCJ8EtvoKfMMYy3bAlN) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [카라\(KARA\) 6th Mini Album \[Day&Night\]](https://open.spotify.com/album/3emUMd2AU3S4jF5ryo3CKr) | 3:32 |
 | 69 | [Can't Stop](https://open.spotify.com/track/2sdf2x4YLaHb1k9HtE9cBs) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Can't Stop](https://open.spotify.com/album/1FezVdVT78L4wviMeDX7tn) | 3:57 |
 | 70 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
 | 71 | [I LOVE YOU](https://open.spotify.com/track/193m2rJhVvkjr9c8acLoxZ) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Love You](https://open.spotify.com/album/5O97HxWI6WoqMqVYbXe9qg) | 3:57 |
-| 72 | [Beautiful Night](https://open.spotify.com/track/3NlzcNh6rPwP0FAVXgt8rG) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Midnight Sun](https://open.spotify.com/album/6xtwhgCQDV11P8MPmM4nIu) | 3:38 |
+| 72 | [Shock](https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Shock Of The New Era](https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg) | 3:45 |
 | 73 | [bang](https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Afterschool 3rd Single BANG](https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h) | 3:18 |
 | 74 | [Love](https://open.spotify.com/track/2s92cRmjW0GoGjjpExkAUQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluelove](https://open.spotify.com/album/5Twdu84BLRMUNsaBG9lXLU) | 3:47 |
 | 75 | [Gone not around any longer](https://open.spotify.com/track/4TAENzBN2lYuXBF9ZNauwJ) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Gone not around any longer](https://open.spotify.com/album/7Jxv3EPhYBh6zevT4eUZQo) | 3:31 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 97 | [U & I](https://open.spotify.com/track/1wKOJ2fTflDiABy1EbFflM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [A's Doll House](https://open.spotify.com/album/7LAxFe8bbiNDWWDtMTL0hC) | 3:14 |
 | 98 | [Mona Lisa](https://open.spotify.com/track/5FPaK0UNFA124uvUMJgIFE) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [Mona Lisa](https://open.spotify.com/album/72wKfG02gkSv77CiPamZao) | 3:41 |
 | 99 | [No more perfume on you](https://open.spotify.com/track/3UFnHBPaPkZhe04IqqlUcn) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [ROMAN](https://open.spotify.com/album/4UYktbMekvR3lyX6uHqHLU) | 3:30 |
-| 100 | [Ring My Bell](https://open.spotify.com/track/19euxgpVaBlvBOIRTLsgJQ) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [Girl's Day Love Second Album](https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me) | 3:18 |
+| 100 | [Bad Woman](https://open.spotify.com/track/2DGKTUZ3ywykT9hcqiYgR6) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Jump Up](https://open.spotify.com/album/1VUYlrA1ZIGsmIGPsiwK2C) | 3:52 |
 
 Snapshot ID: `AAAAACgD0+4c0qMj271nys6wTdBAgsCo`

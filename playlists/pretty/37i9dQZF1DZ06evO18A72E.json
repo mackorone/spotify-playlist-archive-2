@@ -1,12 +1,12 @@
 {
   "description": "This is Panic! At The Disco. The essential tracks, all in one playlist.",
-  "num_followers": 777637,
+  "num_followers": 777649,
   "original_name": "This Is Panic! At The Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAGvxi12VOGfAInZBImUioZ",
+  "snapshot_id": "aYvGgAAAAABHnQ+fS+ni0YbCnag2RU0v",
   "tracks": [
     {
       "added_at": null,
@@ -535,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live In Denver",
-        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
+        "name": "C'mon",
+        "url": "https://open.spotify.com/album/0A5iPbGFWxVSN9m7EjlKl1"
       },
       "artists": [
         {
           "name": "Panic! At The Disco",
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        },
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
         }
       ],
-      "duration_ms": 205320,
-      "name": "Karma Police - Live In Denver",
-      "url": "https://open.spotify.com/track/6tRdywsu27GKJ70tqJhYxI"
+      "duration_ms": 214430,
+      "name": "C'mon - Single Version",
+      "url": "https://open.spotify.com/track/53c9tTEHXWL5GkYNalbXZ3"
     },
     {
       "added_at": null,
@@ -583,22 +587,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "C'mon",
-        "url": "https://open.spotify.com/album/0A5iPbGFWxVSN9m7EjlKl1"
+        "name": "Live In Denver",
+        "url": "https://open.spotify.com/album/3njEiy8EUgjS790gpLbfsL"
       },
       "artists": [
         {
           "name": "Panic! At The Disco",
           "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        },
-        {
-          "name": "fun.",
-          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
         }
       ],
-      "duration_ms": 214430,
-      "name": "C'mon - Single Version",
-      "url": "https://open.spotify.com/track/53c9tTEHXWL5GkYNalbXZ3"
+      "duration_ms": 205320,
+      "name": "Karma Police - Live In Denver",
+      "url": "https://open.spotify.com/track/6tRdywsu27GKJ70tqJhYxI"
     },
     {
       "added_at": null,

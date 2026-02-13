@@ -4,7 +4,7 @@
 
 > Für ein bisschen mehr Leichtigkeit.
 
-141 songs - 7 hr 15 min
+142 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-01-26 | 2024-04-19 |
 | [Houdini](https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6) | 3:05 | 2024-03-27 |  |
 | [How Many Moons](https://open.spotify.com/track/6iF73wEQMGzFeSh8hob5so) | [LUI HILL](https://open.spotify.com/artist/3fuo46vtxoWxN4jo0irBTS) | [How Many Moons](https://open.spotify.com/album/52UTuP81SsIORoHYbDjWc9) | 3:03 | 2023-07-14 | 2024-03-06 |
-| [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 | 2025-02-27 |  |
+| [Hurry](https://open.spotify.com/track/07BKIjjRXMUt6Cs9P3YxYa) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Hurry](https://open.spotify.com/album/6fyNY8yfQLhLoIR6xVqiyD) | 3:13 | 2025-02-27 | 2026-02-13 |
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2023-07-14 | 2023-10-21 |
 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 | 2025-02-19 | 2025-08-02 |
 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 | 2023-07-14 |  |
@@ -79,6 +79,7 @@
 | [iD \(feat\. Gentleman\)](https://open.spotify.com/track/1mKnXWjyN6MUYpz84F4u7A) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno), [Gentleman](https://open.spotify.com/artist/5tlNJfV9UIpgnbWmvUEFu7) | [iD \- Extended Version](https://open.spotify.com/album/7v515yhRxwupP2zrj5w7OH) | 3:18 | 2023-07-14 | 2024-04-19 |
 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 | 2023-07-14 |  |
 | [If We Have Each Other](https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:01 | 2023-07-14 |  |
+| [In Nächten Wie Diesen](https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [WIR](https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd) | 3:27 | 2026-02-12 |  |
 | [IS THIS LOVE](https://open.spotify.com/track/0dzbNEBsrs17os3jJOFLar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [AWE](https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV) | 2:35 | 2025-02-27 |  |
 | [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 | 2023-09-06 | 2025-04-29 |
 | [Jim Carrey](https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Jim Carrey](https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH) | 3:03 | 2023-09-06 | 2023-09-17 |

@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Sassy 009
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
 
-231 songs - 13 hr 30 min
+234 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Galloping Chest](https://open.spotify.com/track/0sW23ZyfB2RrAFFsA0YGXz) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Galloping Chest](https://open.spotify.com/album/33T7RKYfkC9zIsq2gX3hob) | 3:30 | 2025-06-06 |  |
 | [Gilded](https://open.spotify.com/track/2nxEJwcb0pxBohg1fKKmHe) | [Mr\. Beale](https://open.spotify.com/artist/7IXaHCboVc1IOzBqdHmQ1v) | [Gilded](https://open.spotify.com/album/1QvGemln6o7k5hGaYFpDZ6) | 3:01 | 2025-08-22 |  |
 | [Girls Like Me Belong in Bed, Curled](https://open.spotify.com/track/0byjD8soqql3yBdhOFWjKI) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Zen Maiden](https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR) | 4:04 | 2025-03-13 | 2026-01-24 |
+| [Golden Brown Sugar](https://open.spotify.com/track/1s8UNp2swlH5b6c6FghaCl) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Golden Brown Sugar](https://open.spotify.com/album/3GTsuGzSY59ekjlR2WDWWp) | 3:49 | 2026-02-12 |  |
 | [Good Stuff \- Edit](https://open.spotify.com/track/6BZC33mJ7fbt7lHQDHnKyf) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh), [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Good Stuff \(Edit\)](https://open.spotify.com/album/3qNVaqCijxUA03OYFh88ul) | 3:29 | 2025-04-03 |  |
 | [Gown](https://open.spotify.com/track/7rRXZr2yNxk4HTIIdPfkRe) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Gown](https://open.spotify.com/album/76LdvzNH2xn7aBiohbRBrC) | 3:15 | 2025-07-22 |  |
 | [Green Edge](https://open.spotify.com/track/2VFnC7z1CCX0iWQZyAbOB9) | [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Montalvo](https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr) | 3:32 | 2025-03-13 |  |
@@ -106,6 +107,7 @@
 | [Hello Universe](https://open.spotify.com/track/4pmAO0JC3xwsTNlxGWfhde) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Hello Universe](https://open.spotify.com/album/2jXsMO8q6Yfn2s0Uvve0Di) | 3:03 | 2025-04-24 |  |
 | [Hey Girl](https://open.spotify.com/track/3ah6jpEqfBhcdGpLKHZbvu) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Corpus](https://open.spotify.com/album/3eX3zbQQylwOS1mX7Wp2ZO) | 4:01 | 2025-03-13 | 2026-01-17 |
 | [Hibiscus](https://open.spotify.com/track/3DAkxGV8Wk1QCrmBnl9m5R) | [Carré](https://open.spotify.com/artist/4OvPiX5d1CRMoTuqvoq202), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Hibiscus](https://open.spotify.com/album/16xUaFfdxnpmb17DzzJPzn) | 2:59 | 2026-01-30 |  |
+| [Higher](https://open.spotify.com/track/50I2vo9ZK26EZlDpRzkmT9) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Higher](https://open.spotify.com/album/0lDky6LrsdXzdWprzrfi73) | 2:36 | 2026-02-12 |  |
 | [Honey Scented Soul](https://open.spotify.com/track/4ssAszgrSRjF7MuWXGVEnD) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Strange Serenity](https://open.spotify.com/album/5R3GB55ibs9mZzBFfUnjLy) | 2:58 | 2025-05-01 |  |
 | [Honeysuckle](https://open.spotify.com/track/00L6NLpcJvIIx6gXcLgf1c) | [9Million](https://open.spotify.com/artist/2ni9skzfkkDP4PFuEg8nna), [Mary Jane Dunphe](https://open.spotify.com/artist/3nHn9XdKWpfNmG7JWm1ous) | [Honeysuckle](https://open.spotify.com/album/0hjxxXTbZ1L3UmdYhKsiGP) | 3:12 | 2025-03-13 | 2025-08-09 |
 | [Human Siren](https://open.spotify.com/track/0m4w9f4a7JTTMNg16wu3fl) | [Emma Acs](https://open.spotify.com/artist/6iLTh6Fhd16Cdq212BaS5c) | [Human Siren](https://open.spotify.com/album/0PEOUpjx1VTyesEx8K6igz) | 7:26 | 2025-03-13 | 2025-10-18 |
@@ -181,6 +183,7 @@
 | [Shift Souls](https://open.spotify.com/track/4Y6RSJ9YwfPm9E5Ch8Ckmu) | [toechter](https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL) | [Epic Wonder](https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl) | 3:47 | 2025-08-08 |  |
 | [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 | 2025-05-01 | 2025-08-09 |
 | [Silent But For Joy](https://open.spotify.com/track/2JqhEPBaV1pPRgrqlTmsNn) | [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Montalvo](https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr) | 3:36 | 2025-08-08 |  |
+| [Simplicity](https://open.spotify.com/track/03NldygupIfeTSh41yjVXi) | [Boy With Apple](https://open.spotify.com/artist/6cs5N6HLaTJIgJefiYLkg7) | [Simplicity](https://open.spotify.com/album/75Uh1msjrWV7KfrZMS3mIB) | 2:57 | 2026-02-12 |  |
 | [sinking stone](https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W) | [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [where it melts away](https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl) | 2:44 | 2025-04-03 |  |
 | [Skeletons Coupling](https://open.spotify.com/track/3AjfZFzMkI6jr4r1JKAOd0) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Skeletons Coupling](https://open.spotify.com/album/5cPMW5JjKembPp2CJBKPHu) | 3:27 | 2025-08-22 | 2025-09-13 |
 | [Sky Writing](https://open.spotify.com/track/5KeFtENdNGpvvsdXq9lddW) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Sky Writing](https://open.spotify.com/album/2UrkYjEt3aCRtfY5yXQ2EL) | 3:05 | 2025-05-16 | 2025-07-19 |

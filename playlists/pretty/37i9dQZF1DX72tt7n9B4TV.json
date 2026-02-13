@@ -1,6 +1,6 @@
 {
   "description": "TURNSTILE SUMMER",
-  "num_followers": 50058,
+  "num_followers": 50056,
   "original_name": "Summer Rock ",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
         "name": "LosT",
         "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 205368,
       "name": "LosT",
       "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
     },
     {
       "added_at": "2025-06-18 21:47:33",
@@ -497,22 +497,6 @@
       "url": "https://open.spotify.com/track/4Bk7wqOixpEsDtNM39YZ0e"
     },
     {
-      "added_at": "2025-06-18 21:54:46",
-      "album": {
-        "name": "Lovesick Lullaby",
-        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 175134,
-      "name": "Lovesick Lullaby",
-      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
-    },
-    {
       "added_at": "2025-06-06 15:36:16",
       "album": {
         "name": "This Is Why",
@@ -527,6 +511,22 @@
       "duration_ms": 149251,
       "name": "C\u2019est Comme \u00c7a",
       "url": "https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq"
+    },
+    {
+      "added_at": "2025-06-18 21:54:46",
+      "album": {
+        "name": "Lovesick Lullaby",
+        "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 175134,
+      "name": "Lovesick Lullaby",
+      "url": "https://open.spotify.com/track/2LRSQhv3Vi8SkEllnvUhEK"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "Spike Island",
-        "url": "https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 282459,
-      "name": "Spike Island",
-      "url": "https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
         "name": "H.O.O.D 2025",
         "url": "https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 172557,
       "name": "H.O.O.D - 2025 Mix",
       "url": "https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
+        "name": "Spike Island",
+        "url": "https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 282459,
+      "name": "Spike Island",
+      "url": "https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-06-06 15:36:16",
       "album": {
-        "name": "Sinking Feeling",
-        "url": "https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey"
-      },
-      "artists": [
-        {
-          "name": "LEAP",
-          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
-        }
-      ],
-      "duration_ms": 227529,
-      "name": "Sinking Feeling",
-      "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
-    },
-    {
-      "added_at": "2025-06-06 15:36:16",
-      "album": {
         "name": "Come And See",
         "url": "https://open.spotify.com/album/4DHXkFCDz154lGUlAWvLPE"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 201053,
       "name": "Nausea",
       "url": "https://open.spotify.com/track/72GCQgLhbw93GxZNWv7Qx0"
+    },
+    {
+      "added_at": "2025-06-06 15:36:16",
+      "album": {
+        "name": "Sinking Feeling",
+        "url": "https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey"
+      },
+      "artists": [
+        {
+          "name": "LEAP",
+          "url": "https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi"
+        }
+      ],
+      "duration_ms": 227529,
+      "name": "Sinking Feeling",
+      "url": "https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb"
     },
     {
       "added_at": "2025-06-06 15:36:16",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/77rk2TGUhxlWMLuQq4iIlV"
     },
     {
+      "added_at": "2025-06-13 12:33:03",
+      "album": {
+        "name": "sundays",
+        "url": "https://open.spotify.com/album/5oIO3BuotbdFVpulc9NUDi"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "sundays",
+      "url": "https://open.spotify.com/track/1Wvl7G2pzy53umhn3RC05u"
+    },
+    {
       "added_at": "2025-06-06 15:36:16",
       "album": {
         "name": "There Goes The Neighbourhood",
@@ -1239,22 +1255,6 @@
       "duration_ms": 189786,
       "name": "I Just Do!",
       "url": "https://open.spotify.com/track/3bcLNMckHtoZ3Gds38DSlR"
-    },
-    {
-      "added_at": "2025-06-13 12:33:03",
-      "album": {
-        "name": "sundays",
-        "url": "https://open.spotify.com/album/5oIO3BuotbdFVpulc9NUDi"
-      },
-      "artists": [
-        {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "sundays",
-      "url": "https://open.spotify.com/track/1Wvl7G2pzy53umhn3RC05u"
     },
     {
       "added_at": "2025-06-06 15:36:16",

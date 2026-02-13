@@ -2,7 +2,7 @@
 
 ### [BANGER](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Kato au top des bangers dance/electro du moment !
+> HUGEL au top des bangers dance/electro du moment !
 
 327 songs - 15 hr 3 min
 

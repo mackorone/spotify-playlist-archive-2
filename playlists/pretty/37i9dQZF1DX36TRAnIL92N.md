@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,446 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,643 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 44 | [Say It Again](https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Say It Again](https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6) | 3:27 |
 | 45 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 |
 | 46 | [Serenity](https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Serenity](https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn) | 2:49 |
-| 47 | [Nero](https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [HARD POP VOL\. 2](https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP) | 5:39 |
-| 48 | [Let the Bass Kick](https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Let the Bass Kick](https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul) | 2:26 |
+| 47 | [Let the Bass Kick](https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Let the Bass Kick](https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul) | 2:26 |
+| 48 | [Nero](https://open.spotify.com/track/5YPnP3rDlN6ZZuBFm4qLKw) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [HARD POP VOL\. 2](https://open.spotify.com/album/2RqdAgUm2Z7cMNxMjkirFP) | 5:39 |
 | 49 | [No Division \(feat\. XSALT\)](https://open.spotify.com/track/6ia0ffeCVyDAX7KOeYLjH2) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [XSALT](https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC) | [Charlotte de Witte](https://open.spotify.com/album/7rdrIHvtAcAxbyMTC6fo9a) | 6:06 |
 | 50 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 |
 

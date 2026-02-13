@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Die Playlist, die dich f\u00fchlt. Cover: Chapo102",
+  "description": "Die Playlist, die dich f\u00fchlt. Cover: Isabel LaRosa",
   "name": "me right now",
   "tracks": [
     {
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 140443,
       "name": "alles versucht (tja)",
       "url": "https://open.spotify.com/track/3Tuyaz79IoDB3SHQ5dzNrJ"
@@ -3344,6 +3344,24 @@
       "duration_ms": 185113,
       "name": "Alone (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP"
+    },
+    {
+      "album": {
+        "name": "ALPHA FEMINIST",
+        "url": "https://open.spotify.com/album/3CIQCoTCM2U3w0HR3MZe8s"
+      },
+      "artists": [
+        {
+          "name": "Mariybu",
+          "url": "https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154082,
+      "name": "ALPHA FEMINIST",
+      "url": "https://open.spotify.com/track/3v652Tj4Adys47C76CVON2"
     },
     {
       "album": {
@@ -6100,7 +6118,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 222512,
       "name": "bad enough",
       "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
@@ -8800,7 +8818,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 141946,
       "name": "Bl\u00fcmchen6",
       "url": "https://open.spotify.com/track/7mvfwoQrTfad7dSdJ6cJii"
@@ -15227,6 +15245,24 @@
     },
     {
       "album": {
+        "name": "DVD",
+        "url": "https://open.spotify.com/album/3VcBg8vxxaXNJJN72MCbJa"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138582,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/1dT1kwKFJ94U8wEAMwvMdP"
+    },
+    {
+      "album": {
         "name": "d\u00a3aler",
         "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
       },
@@ -17604,7 +17640,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
@@ -21235,6 +21271,28 @@
     },
     {
       "album": {
+        "name": "getting money still sad too",
+        "url": "https://open.spotify.com/album/06590fcGOrc0hgvDHcDiaH"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        },
+        {
+          "name": "Horse Head",
+          "url": "https://open.spotify.com/artist/0LBfcXnrLErD1afLyzB2xA"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "getting money still sad too",
+      "url": "https://open.spotify.com/track/5FJbsAs6XuKuxZzvwDl7gR"
+    },
+    {
+      "album": {
         "name": "Get\u00e4uscht / Leicht",
         "url": "https://open.spotify.com/album/3AQkUXoz7usBj7mzbLRqaw"
       },
@@ -21304,7 +21362,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 155373,
       "name": "Gezeichnet von dir",
       "url": "https://open.spotify.com/track/4lqnNr4rUIJeySO6G6RXlX"
@@ -21326,6 +21384,36 @@
       "duration_ms": 82048,
       "name": "GFU!",
       "url": "https://open.spotify.com/track/4Xw4iQRKESkZXeaRBKMdey"
+    },
+    {
+      "album": {
+        "name": "GGMK",
+        "url": "https://open.spotify.com/album/40VeCLy5fYfkmmvpEt45W8"
+      },
+      "artists": [
+        {
+          "name": "Lenge",
+          "url": "https://open.spotify.com/artist/5AK7cl1gGWhFk0yaHNoN20"
+        },
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        },
+        {
+          "name": "Nino",
+          "url": "https://open.spotify.com/artist/5mnpiR3hQIPgWUXhmTLlmS"
+        },
+        {
+          "name": "Frank Lotion",
+          "url": "https://open.spotify.com/artist/0NRUSXrcqFAFhyV438TdgG"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151809,
+      "name": "GGMK",
+      "url": "https://open.spotify.com/track/5NmFwEQgR5bV00KeZIp0p8"
     },
     {
       "album": {
@@ -22588,7 +22676,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 113755,
       "name": "Gro\u00dfstadtkinder",
       "url": "https://open.spotify.com/track/1ZBpgyrzhn8jD3iXC65D5t"
@@ -27752,7 +27840,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 155466,
       "name": "Igotthisfeeling",
       "url": "https://open.spotify.com/track/4NsxdiQTYkcWdBb7N8A5m2"
@@ -29350,6 +29438,24 @@
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "album": {
+        "name": "Jump!",
+        "url": "https://open.spotify.com/album/0DkaN2CUjBmgroNrKDDPBB"
+      },
+      "artists": [
+        {
+          "name": "c4rl",
+          "url": "https://open.spotify.com/artist/72UhalaIOck67xEkd5G07c"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146564,
+      "name": "Jump!",
+      "url": "https://open.spotify.com/track/45YzlcmsbsAvK78jTV2u8B"
     },
     {
       "album": {
@@ -31320,6 +31426,24 @@
       "duration_ms": 174315,
       "name": "kontrollverlust",
       "url": "https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5PqS9LhXCibpyrm40qj1oo"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176261,
+      "name": "KOPFDOKTOR",
+      "url": "https://open.spotify.com/track/1TdhVjixHKtPOu0hsbsxJF"
     },
     {
       "album": {
@@ -35300,7 +35424,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
@@ -39288,7 +39412,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 163720,
       "name": "NEUANFANG",
       "url": "https://open.spotify.com/track/53P4EB1vrnPigLlnSosD69"
@@ -39764,6 +39888,28 @@
       "duration_ms": 151555,
       "name": "Nichts f\u00fcr immer",
       "url": "https://open.spotify.com/track/7DzpWWBAuKpaNfzavoTjLI"
+    },
+    {
+      "album": {
+        "name": "Nichts mehr (mit ENNIO)",
+        "url": "https://open.spotify.com/album/0M6RPedZDDA37GasBjWP5a"
+      },
+      "artists": [
+        {
+          "name": "KITSCHKRIEG",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "Nichts mehr (mit ENNIO)",
+      "url": "https://open.spotify.com/track/38BySzRkktFSQp82WkzgrZ"
     },
     {
       "album": {
@@ -40878,7 +41024,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 164094,
       "name": "Number One - Spotify Wrapped 2025 Live",
       "url": "https://open.spotify.com/track/5FKM6UlL5QWO8WadPrX8sF"
@@ -41624,7 +41770,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 140000,
       "name": "Ohne mich",
       "url": "https://open.spotify.com/track/75rnbCTksN5ekMc6W7JpcK"
@@ -43770,7 +43916,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -44896,7 +45042,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 145493,
       "name": "Pretty Privilege",
       "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
@@ -51004,7 +51150,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 172769,
       "name": "Song 10",
       "url": "https://open.spotify.com/track/7gdPSJXiyGm5iSjiP2fcWJ"
@@ -55707,6 +55853,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/2WHxny6MgCVJTMMGt6R7kl"
+    },
+    {
+      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -55722,6 +55886,24 @@
       "duration_ms": 326906,
       "name": "Track 10",
       "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
     },
     {
       "album": {
@@ -61001,6 +61183,24 @@
     },
     {
       "album": {
+        "name": "wenn du springst.",
+        "url": "https://open.spotify.com/album/07uXQwIroRv0Up1qO7Xu5b"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "wenn du springst.",
+      "url": "https://open.spotify.com/track/0SHaqJubo0sr2HP8ovYxTq"
+    },
+    {
+      "album": {
         "name": "Wenn du weinst / Einmal verliebt (Outro)",
         "url": "https://open.spotify.com/album/6BC1PLrKcbHzvTv36uNZas"
       },
@@ -61488,6 +61688,24 @@
       "duration_ms": 182998,
       "name": "What Would Pluto Do",
       "url": "https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE"
+    },
+    {
+      "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
       "album": {
@@ -62462,6 +62680,24 @@
       "duration_ms": 173928,
       "name": "WILMERSDORFS KIND",
       "url": "https://open.spotify.com/track/5lpFR3IPDGFwndRvhe6Eoz"
+    },
+    {
+      "album": {
+        "name": "Wimpern ausrei\u00dfen (uncut)",
+        "url": "https://open.spotify.com/album/25iFwHikNkeKL3iKN7ORjd"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/6MlqUZLgAmGJp0afQZI3UX"
+        }
+      ],
+      "date_added": "2026-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178533,
+      "name": "Wimpern ausrei\u00dfen (uncut)",
+      "url": "https://open.spotify.com/track/2vnIS6DH6DRy8D3R45OIEO"
     },
     {
       "album": {
@@ -64202,7 +64438,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-13",
       "duration_ms": 144201,
       "name": "Zu viel f\u00fcr dich",
       "url": "https://open.spotify.com/track/1KMUUppymUMTNfp5dfCFWk"

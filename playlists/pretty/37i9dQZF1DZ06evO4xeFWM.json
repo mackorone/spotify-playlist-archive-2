@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aYp1AAAAAAAuYz9XtoC9hL8ropvJ27sW",
+  "snapshot_id": "aYvGgAAAAADquQckvObKkK3KgDsHxDKn",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sad in Scandinavia",
+        "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 198074,
+      "name": "Grip",
+      "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Laura Palmer",
+      "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Planet Earth III (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2yiyCryQfCMScX04EdWbDu"
       },
@@ -511,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Laura Palmer",
-      "url": "https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KAOS (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0pR2sxAtndmhMDOysq0x5j"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 209757,
       "name": "Eurydice - Dan's Demo",
       "url": "https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sad in Scandinavia",
-        "url": "https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA"
-      },
-      "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 198074,
-      "name": "Grip",
-      "url": "https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 251658,
-      "name": "Million Pieces",
-      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Time Is Now (Expanded Edition)",
         "url": "https://open.spotify.com/album/51vRvV83RdWGP9FpzGe4SQ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 214960,
       "name": "I Know You (feat. Bastille)",
       "url": "https://open.spotify.com/track/5lRzEC0Hyj92nEr9JkDxM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 251658,
+      "name": "Million Pieces",
+      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
     },
     {
       "added_at": null,
